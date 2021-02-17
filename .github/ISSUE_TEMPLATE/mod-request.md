@@ -2,7 +2,7 @@
 name: Mod request
 about: Suggest a new mod to be included in Fabulously Optimized
 title: ''
-labels: new mod
+labels: mod
 assignees: ''
 
 ---
