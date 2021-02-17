@@ -30,10 +30,10 @@ Any pitfalls like no CF release, beta testing, missing APIs...
 
 **Categories**
 Select any that match:
-[ ] Performance optimization
-[ ] Graphics optimization
-[ ] New feature
-[ ] Optifine parity
+- [ ] Performance optimization
+- [ ] Graphics optimization
+- [ ] New feature
+- [ ] Optifine parity
 
 **Additional details**
 Anything else you want to add?
