@@ -35,6 +35,7 @@ assignees: ''
 - [ ] New feature
 - [ ] Optifine parity
 - [ ] Fixes a bug/dependency
+- [ ] Replaces an existing mod
 
 **Additional details**
 <!--- Anything else you want to add? -->
