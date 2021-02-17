@@ -34,7 +34,7 @@ assignees: ''
 - [ ] Graphics optimization
 - [ ] New feature
 - [ ] Optifine parity
-- [ ] Bugfix/dependency
+- [ ] Fixes a bug/dependency
 
 **Additional details**
 <!--- Anything else you want to add? -->
