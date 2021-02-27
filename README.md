@@ -4,4 +4,11 @@ A simple modpack for people who are used to having Forge and OptiFine and are cu
 
 The pack only adds performance and graphics enhancements to the client, so **it works on every world and server**.
 
-Download from Curseforge: ![](https://cf.way2muchnoise.eu/fabulously-optimized.svg)
+Download from Curseforge: https://www.curseforge.com/minecraft/modpacks/fabulously-optimized
+
+
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=bb8G9X5Q_4I
+" target="_blank"><img src="http://i3.ytimg.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" 
+alt="Promo video"/></a>
+
+For more help check out the wiki (soon)
