@@ -1,0 +1,60 @@
+{
+	"features": {
+		/* Defines the cinematic camera while zooming.
+		   "OFF" disables the cinematic camera.
+		   "VANILLA" uses Vanilla's cinematic camera.
+		   "MULTIPLIED" is a multiplied variant of "VANILLA".
+		*/
+		"cinematic_camera": "VANILLA",
+		// Reduces the mouse sensitivity when zooming.
+		"reduce_sensitivity": false,
+		/* Adds transitions between zooms.
+		   "OFF" disables transitions.
+		   "SMOOTH" replicates Vanilla's dynamic FOV.
+		   "LINEAR" removes the smoothiness.
+		*/
+		"zoom_transition": "OFF",
+		/* The behavior of the zoom key.
+		   "HOLD" needs the zoom key to be hold.
+		   "TOGGLE" has the zoom key toggle the zoom.
+		   "PERSISTENT" makes the zoom permanent.
+		*/
+		"zoom_mode": "HOLD",
+		// Allows to increase or decrease zoom by scrolling.
+		"zoom_scrolling": false,
+		// Adds zoom manipulation keys along with the zoom key.
+		"extra_keybinds": false,
+		// Adds an overlay in the screen during zoom. The overlay texture can be found at: assets/okzoomer/textures/misc/zoom_overlay.png
+		"zoom_overlay": false
+	},
+	"values": {
+		// The divisor applied to the FOV when zooming.
+		"zoom_divisor": 4.0,
+		// The minimum value that you can scroll down.
+		"minimum_zoom_divisor": 1.0,
+		// The maximum value that you can scroll up.
+		"maximum_zoom_divisor": 50.0,
+		// The number which is de/incremented by zoom scrolling. Used when the zoom divisor is above the starting point.
+		"scroll_step": 1.0,
+		// The number which is de/incremented by zoom scrolling. Used when the zoom divisor is below the starting point.
+		"lesser_scroll_step": 0.5,
+		// The multiplier used for the multiplied cinematic camera.
+		"cinematic_multiplier": 4.0,
+		// The multiplier used for smooth transitions.
+		"smooth_multiplier": 0.75,
+		// The minimum value which the linear transition step can reach.
+		"minimum_linear_step": 0.125,
+		// The maximum value which the linear transition step can reach.
+		"maximum_linear_step": 0.25
+	},
+	"tweaks": {
+		// Allows for resetting the zoom with the middle mouse button.
+		"reset_zoom_with_mouse": false,
+		// If enabled, the "Save Toolbar Activator" keybind will be unbound if there's a conflict with the zoom key.
+		"unbind_conflicting_key": false,
+		// Prints a random owo in the console when the game starts.
+		"print_owo_on_start": false,
+		// Hides the zoom overlay while the HUD's hidden.
+		"hide_zoom_overlay": false
+	}
+}
