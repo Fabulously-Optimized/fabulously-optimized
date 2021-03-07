@@ -1,0 +1,14 @@
+[defaultConfig]
+enabled = true
+type = "LINEAR"
+linearFogStartMult = 0.25
+linearFogEndMult = 1.0
+expFogMult = 3.0
+exp2FogMult = 1.75
+[dimensions."minecraft:the_nether"]
+enabled = false
+type = "LINEAR"
+linearFogStartMult = 0.25
+linearFogEndMult = 1.0
+expFogMult = 3.0
+exp2FogMult = 1.75
