@@ -8,6 +8,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.16.5
 
+### 1.7.1
+
+New mods:
+* **No Fade** - makes game startup and resourcepack loading faster by removing some animations
+
+Other stuff
+* Sodium Extra got an update with many new toggles, check them out!
+* Jumploader got support for Microsoft Accounts, so you can upgrade now when Mojang asks you to (only if you use CF or vanilla launcher)
+* Fixed zoom key by unbinding the save toolbar activator by default (that option was always there... oops)
+* 25k download milestone! Thank you all for the support!
+* Mods updated
+* Yes, I added another new mod but I felt like that one didn't warrant a new major update lol, it also might get included with 'Slight' Gui Modifications later on
+
 ### 1.7.0
 
 New mods:
