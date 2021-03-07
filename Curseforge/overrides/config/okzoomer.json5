@@ -51,7 +51,7 @@
 		// Allows for resetting the zoom with the middle mouse button.
 		"reset_zoom_with_mouse": false,
 		// If enabled, the "Save Toolbar Activator" keybind will be unbound if there's a conflict with the zoom key.
-		"unbind_conflicting_key": false,
+		"unbind_conflicting_key": true,
 		// Prints a random owo in the console when the game starts.
 		"print_owo_on_start": false,
 		// Hides the zoom overlay while the HUD's hidden.

@@ -4,7 +4,9 @@
     "animate_water": true,
     "animate_lava": true,
     "animate_fire": true,
-    "animate_portal": true
+    "animate_portal": true,
+    "block_animations": true,
+    "piston_animations": true
   },
   "particle_settings": {
     "particles": true,
@@ -19,10 +21,24 @@
     "firework": true
   },
   "detail_settings": {
-    "rain_snow": true
+    "rain_snow": true,
+    "biome_colors": true,
+    "sky_colors": true,
+    "render_paintings": true
   },
   "extra_settings": {
     "show_fps": false,
-    "enable_fog": true
+    "show_coords": false,
+    "enable_fog": true,
+    "hurt_cam": true,
+    "toasts": true,
+    "static_fov": false,
+    "instant_sneak": false,
+    "prevent_shaders": false,
+    "light_updates": true,
+    "hide_cheats": true,
+    "high_max_brightness": false,
+    "day_light_cycle": true,
+    "no_overlay": false
   }
 }
