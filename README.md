@@ -8,7 +8,5 @@ Download from Curseforge: https://www.curseforge.com/minecraft/modpacks/fabulous
 
 
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=bb8G9X5Q_4I
-" target="_blank"><img src="http://i3.ytimg.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" 
+" target="_blank"><img src="https://i3.ytimg.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" 
 alt="Promo video"/></a>
-
-For more help check out the wiki (soon)
