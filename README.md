@@ -19,37 +19,37 @@ Download from Curseforge: https://www.curseforge.com/minecraft/modpacks/fabulous
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754).
 
 ### Smooth
-* Sodium - optimizes general rendering to improve FPS, adds some graphics options
-* Lithium - optimizes game physics and chunk loading
-* Phosphor - optimizes light rendering
-* Hydrogen¹ - reduces RAM usage
-* FastChest - makes chest rendering less intensive (more FPS on chest rooms!)
-* No Fade - makes game startup and resourcepack switch faster by removing fade animations
-* Smooth Boot - makes the game use less power when it starts
-* Dynamic FPS - renders Minecraft slower if it is in the background to save RAM
-* Smooth Scrolling Everywhere - makes the scrolling smooth on various menus
+* [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - optimizes general rendering to improve FPS, adds some graphics options
+* [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - optimizes game physics and chunk loading
+* [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - optimizes light rendering
+* [Hydrogen](https://modrinth.com/mod/hydrogen)¹ - reduces RAM usage
+* [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) - makes chest rendering less intensive (more FPS on chest rooms!)
+* [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) - makes game startup and resourcepack switch faster by removing fade animations
+* [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - makes the game use less power when it starts
+* [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - renders Minecraft slower if it is in the background to save RAM
+* [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - makes the scrolling smooth on various menus
 
 ### Pretty
-* Sodium Extra - adds toggles to Sodium settings: animations, particles, weather, fog, FPS indicator
-* LambDynamicLights - lets you light up the area by holding a torch and more
-* Fabric Capes - shows Optifine's and other custom capes in-game, see "I want a cape!" above
-* Cull Leaves - optionally makes fancy leaves more see-through, which could improve FPS (enable in mod settings)
-* Colormatic - adds Optifine custom colors support, clear skies and clear void options
-* 'Slight' Gui Modifications - adds fancy animations to the menus and containers, optional FPS counter
-* Raised Clouds - lets you adjust the cloud height
-* Custom Fog - lets you customize the fog distance and density
-* Fabrishot - lets you take a high-res screenshot (press F9)
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) - adds toggles to Sodium settings: animations, particles, weather, fog, FPS indicator
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - lets you light up the area by holding a torch and more
+* [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) - shows Optifine's and other custom capes in-game, see "I want a cape!" above
+* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - optionally makes fancy leaves more see-through, which could improve FPS (enable in mod settings)
+* [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) - adds Optifine custom colors support, clear skies and clear void options
+* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - adds fancy animations to the menus and containers, optional FPS counter
+* [Raised Clouds](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) - lets you adjust the cloud height
+* [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) - lets you customize the fog distance and density
+* [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) - lets you take a high-res screenshot (press F9)
 
 ### Functional
-* Ok Zoomer - adds a fancy zoom feature
-* AntiGhost - fixes getting stuck in blocks with the press of G
-* Mod Menu - gives you the list of mods and lets you adjust their configuration
-* Not Enough Crashes - lets you play after a crash and report it comfortably
-* Fabric API - makes most mods work
-* Cloth Config API - makes many mods' config work
-* Architectury - makes 'Slight' Gui Modifications work
-* Fabric Language Kotlin - makes Fabric Capes work
-* Jumploader - just to make this modpack available on this site and CurseForge Launcher (not needed for MultiMC and other launchers)
+* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer) - adds a fancy zoom feature
+* [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) - fixes getting stuck in blocks with the press of G
+* [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) - gives you the list of mods and lets you adjust their configuration
+* [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) - lets you play after a crash and report it comfortably
+* [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - makes most mods work
+* [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - makes many mods' config work
+* [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - makes 'Slight' Gui Modifications work
+* [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) - makes Fabric Capes work
+* [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - just to make this modpack available on this site and CurseForge Launcher (not needed for MultiMC and other launchers)
 
 ¹ The mod is not from Curseforge, but the license and Curseforge allow usage in modpacks
 
