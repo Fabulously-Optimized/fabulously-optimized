@@ -16,8 +16,7 @@ Download from Curseforge: https://www.curseforge.com/minecraft/modpacks/fabulous
 
 ## Included mods
 
-Included mods
-The selected mods are inspired, but not limited by the list of Optifine alternatives.
+The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754).
 
 ### Smooth
 * Sodium - optimizes general rendering to improve FPS, adds some graphics options
