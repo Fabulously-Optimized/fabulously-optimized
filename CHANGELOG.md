@@ -8,6 +8,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.16.5
 
+### 1.8.0
+
+New mods
+* **EntityCulling Fabric/Forge** - stops rendering entities that are behind a wall, useful in large servers and mobfarms
+
+Other stuff
+* SmoothBoot's config system slightly changed and it is now smaller
+* Mods updated
+
 ### 1.7.1
 
 New mods:

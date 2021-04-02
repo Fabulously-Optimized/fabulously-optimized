@@ -23,6 +23,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - optimizes game physics and chunk loading
 * [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - optimizes light rendering
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ - reduces RAM usage
+* [EntityCulling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) - stops rendering entities that are behind a wall, useful in large servers and mobfarms
 * [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) - makes chest rendering less intensive (more FPS on chest rooms!)
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) - makes game startup and resourcepack switch faster by removing fade animations
 * [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - makes the game use less power when it starts
