@@ -62,3 +62,7 @@ Help is provided by:
 * [Curseforge listing](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) comments
 * [Wiki](https://github.com/Madis0/fabulously-optimized/wiki)
 * [Issues](https://github.com/Madis0/fabulously-optimized/issues) (mod suggestions, bug reports)
+
+## Disclaimer
+
+The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. 
