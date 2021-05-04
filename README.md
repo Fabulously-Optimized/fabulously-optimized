@@ -53,7 +53,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - makes many mods' config work
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) - makes 'Slight' Gui Modifications work
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) - makes Fabric Capes work
-* [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - just to make this modpack available on this site and CurseForge Launcher (not needed for MultiMC and other launchers)
+* [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - just to make this modpack available on CurseForge (not needed for MultiMC and other launchers)
 
 ¹ The mod is not from Curseforge, but the license and Curseforge allow usage in modpacks
 
