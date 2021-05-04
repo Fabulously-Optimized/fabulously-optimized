@@ -1,6 +1,6 @@
 ---
 name: Mod request
-about: Suggest a new mod to be included in Fabulously Optimized
+about: Suggest a new mod to be included in Fabulously Optimized, client-only mods are preferred
 title: ''
 labels: mod
 assignees: ''
