@@ -8,6 +8,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.16.5
 
+### 1.9.0
+New mods
+* **FerriteCore** - reduces RAM usage 
+* **LazyDFU** - improves startup speed even more
+* **Better Beds** - improves FPS when around beds (villager farms, anyone?)
+* **Item Model Fix** - fixes transparent gaps in held items
+
+Removed mods
+* **Raised Clouds** - Sodium Extra now includes a more intuitive cloud height setting
+
+Other stuff
+* Lots of mod updates
+* The new mods were suggested by NebelNidas, thank you! 
+
 ### 1.8.0
 
 New mods

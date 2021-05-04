@@ -23,21 +23,24 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - optimizes game physics and chunk loading
 * [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) - optimizes light rendering
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ - reduces RAM usage
+* [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - reduces RAM usage
 * [EntityCulling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) - stops rendering entities that are behind a wall, useful in large servers and mobfarms
 * [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) - makes chest rendering less intensive (more FPS on chest rooms!)
+* [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) - makes bed rendering less intensive (more FPS on villager farms!)
+* [LazyDFU](https://github.com/astei/lazydfu) - makes the game startup faster
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) - makes game startup and resourcepack switch faster by removing fade animations
-* [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - makes the game use less power when it starts
+* [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - improves the overall responsiveness of the game (aka less likely to freeze)
 * [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - renders Minecraft slower if it is in the background to save RAM
 * [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - makes the scrolling smooth on various menus
 
 ### Pretty
-* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) - adds toggles to Sodium settings: animations, particles, weather, fog, FPS indicator
-* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - lets you light up the area by holding a torch and more
+* [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) - adds many toggles to Sodium settings: animations, particles, weather, FPS indicator and more
+* [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) - lets you light up the area by holding a torch, lights up TNT and creeper flashing
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) - shows Optifine's and other custom capes in-game, see "I want a cape!" above
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) - optionally makes fancy leaves more see-through, which could improve FPS (enable in mod settings)
 * [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) - adds Optifine custom colors support, clear skies and clear void options
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) - adds fancy animations to the menus and containers, optional FPS counter
-* [Raised Clouds](https://www.curseforge.com/minecraft/mc-mods/raised-clouds) - lets you adjust the cloud height
+* [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) - fixes transparent gaps in held items
 * [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) - lets you customize the fog distance and density
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) - lets you take a high-res screenshot (press F9)
 

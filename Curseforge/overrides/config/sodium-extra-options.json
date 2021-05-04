@@ -17,8 +17,9 @@
     "potion": true,
     "portal": true,
     "redstone": true,
-    "fluid_drip": true,
-    "firework": true
+    "drip": true,
+    "firework": true,
+    "bubble": true
   },
   "detail_settings": {
     "rain_snow": true,
@@ -30,6 +31,7 @@
     "show_fps": false,
     "show_coords": false,
     "enable_fog": true,
+    "cloud_height": 128,
     "hurt_cam": true,
     "toasts": true,
     "static_fov": false,
@@ -39,6 +41,7 @@
     "hide_cheats": true,
     "high_max_brightness": false,
     "day_light_cycle": true,
-    "no_overlay": false
+    "no_overlay": false,
+    "use_fast_random": true
   }
 }
