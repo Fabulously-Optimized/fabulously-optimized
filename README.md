@@ -25,7 +25,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 * [EntityCulling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) - stops rendering entities that are behind a wall, useful in large servers and mobfarms
 * [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) - makes chest rendering less intensive (more FPS on chest rooms!)
 * [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) - makes bed rendering less intensive (more FPS on villager farms!)
-* [LazyDFU](https://github.com/astei/lazydfu) - makes the game startup faster
+* [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) - makes the game startup faster
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) - makes game startup and resourcepack switch faster by removing fade animations
 * [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - improves the overall responsiveness of the game (aka less likely to freeze)
 * [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) - renders Minecraft slower if it is in the background to save RAM
