@@ -20,7 +20,7 @@ Removed mods
 
 Other stuff
 * Lots of mod updates
-* The new mods were suggested by NebelNidas, thank you! 
+* The new mods were suggested by the community, thank you!
 
 ### 1.8.0
 
