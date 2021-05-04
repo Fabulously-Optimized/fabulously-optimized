@@ -8,8 +8,6 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 ## Reviews
 
-[Current review](https://www.youtube.com/watch?v=bb8G9X5Q_4I) by Rexus
-
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 [Old review](https://www.youtube.com/watch?v=YQyDNc7aGBs) by Niche Duck
