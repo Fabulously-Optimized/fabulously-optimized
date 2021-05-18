@@ -12,6 +12,8 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [Old review](https://www.youtube.com/watch?v=YQyDNc7aGBs) by Niche Duck
 
+[Chunk smoothness showcase](https://www.youtube.com/watch?v=FEdt1lQsJDo) by Kogasa
+
 ## Included mods
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754).
