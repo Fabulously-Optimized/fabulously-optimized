@@ -8,7 +8,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.16.5
 
+### 1.9.1
+
+* Several mods updated
+* Sodium Extra update skipped because it temporarily changes the UI
+
 ### 1.9.0
+
 New mods
 * **FerriteCore** - reduces RAM usage 
 * **LazyDFU** - improves startup speed even more
