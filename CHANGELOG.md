@@ -6,6 +6,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
  - Only the *latest version of a modpack per Minecraft version* is kept visible on Curseforge. This is to make it simpler to use legacy versions (at your responsibility) and keep the version list clean overall, also a reason why this page exists.
  - "Updated mods" can refer to mods, the Curseforge launcher manifest and/or Fabric. For the sake of simplicity I do not describe individual updates in detail.
 
+## 1.17
+
+### 2.0.0b1
+
+Mods
+* Several mods still missing, including Sodium
+* Sodium temporarily replaced with Canvas
+* Ok Zoomer temporarily/permanently replaced with WI Zoom
+* Added YOSBR to keep your settings between modpack upgrades
+* More new mods will come in a stable release!
+
+Other
+* Added [new default options](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options) to improve the experience
+* CF version is now 100% Fabric, meaning faster startup and better mod management!
+
 ## 1.16.5
 
 ### 1.9.1

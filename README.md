@@ -18,6 +18,8 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754).
 
+Starting with 2.0, the modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
+
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) - optimizes general rendering to improve FPS, adds some graphics options
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) - optimizes game physics and chunk loading
@@ -68,3 +70,5 @@ Help is provided by:
 ## Disclaimer
 
 The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. 
+
+This modpack disables the in-game third-party server disclaimer, so if you are using the multiplayer function, you also agree to the following: "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.". You must also be aware that you can use the "social interactions" screen by pressing the key P in-game.
