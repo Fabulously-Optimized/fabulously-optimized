@@ -7,6 +7,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
  - "Updated mods" can refer to mods, the Curseforge launcher manifest and/or Fabric. For the sake of simplicity I do not describe individual updates in detail.
 
 ## 1.17
+Notes for all 1.17 releases:
+* Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
+* MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+
+### 2.0.0b2
+
+Differences from b1
+* Sodium is not there yet, please have patience
+* Mods updated, should fix some graphics issues
+* Added Fabrishot back
+* Inclusion of Not Enough Crashes is delayed because it is still an alpha
+* Reverted FOV change for better FPS in some devices
+* Fixed an issue that could show the wrong version number in the main menu
 
 ### 2.0.0b1
 
