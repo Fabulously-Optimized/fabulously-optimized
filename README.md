@@ -10,6 +10,12 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
+[Another review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
+
+[Gameplay](https://youtu.be/ggCGrlMLOEc?t=110) by Just Oj
+
+[Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
+
 [Old review](https://www.youtube.com/watch?v=YQyDNc7aGBs) by Niche Duck
 
 [Chunk smoothness showcase](https://www.youtube.com/watch?v=FEdt1lQsJDo) by Kogasa
