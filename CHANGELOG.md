@@ -11,6 +11,15 @@ Notes for all 1.17 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.0.0b3
+
+Differences from b2
+
+* (No Sodium yet)
+* New auto-updating MultiMC pack, try it out! (packwiz by comp500)
+* Added Hydrogen, No Fade, Not Enough Crashes back
+* Mods updated
+
 ### 2.0.0b2
 
 Differences from b1
