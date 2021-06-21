@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "586ba1ec0c363fbab1111e297ec66c5477e147aabff50efc0b8d63d69504ca8f"
+hash = "4403c4fe756c49a850b8fce735b293553b5e0064d74bf0d26ea29ef35ff509d8"
 
 [[files]]
 file = "config/yosbr/config/canvas.json5"
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "32038f20fa0d08ab1aca7fc508b2686748ecea7328af2a780b3663220e046ee2"
+hash = "75db4a4f9f92d71a6144c9153b3926364d942ad5f9211d08442ea8e0147c9273"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "5f9c9229c8a87e69d165bff1c17fbf712d3a4fa96f908caa5e80f7be2c762110"
+hash = "c5e3d915cf53023be82d31e1df84d05fec2e46fc953bff2532b3c2e093407fc3"
 metafile = true
 
 [[files]]
@@ -78,17 +78,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "0fdc4c01e9018d789fc9566a80765fc932d1d12b419fc335e8af97cd31c27b69"
+hash = "f915765486759e4bc9b79ce05ae94074c346d82bb485bfeb1585578e68cddd3a"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "547252028cd94ac78c2c3abec0650f975f2ece1a483bd61667f77869f434e818"
+hash = "c08fdf73a81fe9bc8d8a3411e2e808c9e3a8ac8f4eddbf34ae94e9b162b0f22a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "4dae662efc99acc9dc4b05b456a347c3200d5880883dfc06487155528e28ff6b"
+hash = "0d1a8a3403a9029453108a071f7db0593d18afdc73e65ce77b6a1cc9bf8d25d5"
 metafile = true
 
 [[files]]
@@ -104,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/fastchest.toml"
 hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
 metafile = true
 
 [[files]]
@@ -123,12 +128,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "eab6909e8140689c09f40d47e00e3f9c97dcce1924728d392a0cbb782ba38c30"
+hash = "2269a0e9554b766a11b0567e824a62bb31660cabed3636ec67520d41cf88722a"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
 hash = "7eec8fb33cc59b0518a4acfd6a19e01bd50fdedf3ebe20b1c7e45d19274160f1"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.toml"
+hash = "00e39f0a666b5418c9e149ec75bc1b6fff68a720efc2669908cec788103dff33"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "d39a9a66dfa4c570242aadc9a935ad1217572780508a414cb1a59cfc4d1e81a9"
 metafile = true
 
 [[files]]
