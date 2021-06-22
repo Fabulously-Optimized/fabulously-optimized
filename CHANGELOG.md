@@ -16,9 +16,9 @@ Notes for all 1.17 releases:
 Differences from b2
 
 * (No Sodium yet)
-* New auto-updating MultiMC pack, try it out! (packwiz by comp500)
 * Added Hydrogen, No Fade, Not Enough Crashes back
 * Mods updated
+* Experimental auto-updating MultiMC pack is available on Github, try it out! (packwiz by comp500)
 
 ### 2.0.0b2
 
