@@ -4,7 +4,11 @@ A simple modpack for people who are used to having Forge and OptiFine and are cu
 
 The pack only adds performance and graphics enhancements to the client, so **it works on every world and server**.
 
-[![Download from Curseforge](http://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20Curseforge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)
+**[Download from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)** - supports Curseforge, MultiMC, GDLauncher and vanilla launcher*.
+
+[Auto-updating MultiMC](https://github.com/Madis0/fabulously-optimized/releases/download/v2.0.0b3/Fabulously.Optimized.MultiMC.auto-update.zip) (experimental)
+
+*For vanilla, download the MultiMC variant and unpack manually.
 
 ## Reviews
 
