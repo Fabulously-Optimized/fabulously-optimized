@@ -7,7 +7,7 @@ Here you'll find the resources for:
 * MultiMC modpack [(read more)](https://github.com/MultiMC/MultiMC5/wiki/Instance-settings)
 * MultiMC modpack with packwiz [(read more)](https://github.com/comp500/packwiz#packwiz-installer-for-pack-installation)
 * Packwiz files [(read more)](https://github.com/comp500/packwiz#packwiz)
-* Changelog, license, readme
+* Changelog, license, readme, [cape](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape)
 * GitHub meta files in `.github` [(read more)](https://stackoverflow.com/a/61301254)
 * GitHub page in `docs` [(read more)](https://pages.github.com/) - currently just a redirection to CF page
 
