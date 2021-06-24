@@ -1,12 +1,11 @@
 # Fabulously Optimized
 
 ## Just Added Some more Mods
+{No curseforge launcher support just because i dont use it lol}
 
 A simple modpack for people who are used to having Forge and OptiFine and are curious to see what equivalents Fabric has to offer. You could consider this modpack a "starting point" to optimize your game before adding more functional mods or you could just play this as if it was vanilla - the choice is yours. 
 
 The pack only adds performance and graphics enhancements to the client, so **it works on every world and server**.
-
-**[Download from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)** - supports Curseforge, MultiMC, GDLauncher and vanilla launcher*.
 
 [Auto-updating MultiMC pack](https://github.com/Madis0/fabulously-optimized/releases/download/v2.0.0b3/Fabulously.Optimized.MultiMC.auto-update.zip) (experimental)
 
