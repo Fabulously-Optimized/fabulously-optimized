@@ -7,26 +7,32 @@ assignees: ''
 
 ---
 
+<!--- 
+    Before you request a mod, please search if it has already been requested: https://github.com/Madis0/fabulously-optimized/issues
+    
+    In most cases I only accept mods that work strictly client-side (meaning on every world and server). 
+    If you want to suggest a mod that only works in singleplayer and/or needs server support, 
+    please elaborate more on why this would benefit everyone and would still keep the gameplay "vanilla-like".
+
+    Don't forget to include any downsides of your suggestion, you know there are some for every mod.
+ -->
+
 **Mod name**
-<!--- Full name of the mod. -->
 
 **Curseforge link**
-<!--- Required, if you want the mod included right away. Otherwise I can still consider it if it gets posted to CF later. -->
+<!--- If it exists, please include it. -->
 
-**Modrinth link**
-<!--- Optional, may become useful in the future when Modrinth adds modpack support. -->
-
-**Other link**
-<!--- Optional, e.g. GitHub link if the mod is not posted on either platform yet. -->
+**Other links (optional)**
+<!--- E.g. Github or Modrinth. -->
 
 **What it does**
 <!--- A short description of what the mod does. -->
 
 **Why should it be in the modpack**
-<!--- How can the mod benefit everyone using the modpack? -->
+<!--- How can the mod benefit everyone while keeping the experience "vanilla-like"? -->
 
 **Why shouldn't it be in the modpack**
-<!--- Any pitfalls like no CF release, beta testing, missing APIs... -->
+<!--- Examples: it's not on Curseforge, it is still in beta, depends on something, has confusing settings, etc. -->
 
 **Categories**
 <!--- Select any that match: -->
@@ -37,5 +43,5 @@ assignees: ''
 - [ ] Fixes a bug/dependency
 - [ ] Replaces an existing mod
 
-**Additional details**
+**Additional details (optional)**
 <!--- Anything else you want to add? -->
