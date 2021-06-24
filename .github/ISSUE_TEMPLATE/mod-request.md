@@ -20,10 +20,10 @@ assignees: ''
 **Mod name**
 
 **Curseforge link**
-<!--- If it exists, please include it. -->
+<!--- If it exists, please include it. If it doesn't, you can still suggest it but be aware that it may take more time to include. -->
 
-**Other links (optional)**
-<!--- E.g. Github or Modrinth. -->
+**Other links**
+<!--- E.g. Github or Modrinth. Optional. -->
 
 **What it does**
 <!--- A short description of what the mod does. -->
@@ -43,5 +43,5 @@ assignees: ''
 - [ ] Fixes a bug/dependency
 - [ ] Replaces an existing mod
 
-**Additional details (optional)**
-<!--- Anything else you want to add? -->
+**Additional details**
+<!--- Anything else you want to add? Optional.-->
