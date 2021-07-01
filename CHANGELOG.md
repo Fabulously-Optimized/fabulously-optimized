@@ -11,6 +11,17 @@ Notes for all 1.17 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.0.0b4
+
+Differences from b3
+
+* Added **Iris with Sodium**! (Yes, FPS boost and Optifine shaders!)
+* Set the default graphics to fast for general performance improvement
+* Re-enabled dynamic light for entities in LambDynamicLights
+* Updated mods
+* Removed Canvas
+* FO is currently still in beta because 1.17.1 is coming soon and Sodium Extra is not there yet
+
 ### 2.0.0b3
 
 Differences from b2

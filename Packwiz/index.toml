@@ -2,15 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "4403c4fe756c49a850b8fce735b293553b5e0064d74bf0d26ea29ef35ff509d8"
-
-[[files]]
-file = "config/yosbr/config/canvas.json5"
-hash = "cfb50e5ec2cd5ccfbde97d31c224eaba09f44fe5b4e2d362f776ef2828af835a"
-
-[[files]]
-file = "config/yosbr/config/canvas_pipeline_options.json5"
-hash = "18ce8078e3aeb4595d435b1b9f0fd1a086a8c6cf6fc973296c8555513233f5dd"
+hash = "95b3d378fdae067bda08d92992656544aa0fd6b0e5ea37ebe8d9f3f8bd9c69bc"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -21,8 +13,12 @@ file = "config/yosbr/config/cullleaves.json"
 hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "1e4a1dddf8891e81dfac8837220705757874be3fb7009f05dcf4e983e3d925b8"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
+hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -33,8 +29,12 @@ file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
 [[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "b3d937324906eeec068c3335061167c85694a869a9f6c5cd5800b64b08c05201"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "aa5b3e79dc59178f842a8b247216e31a863cfcd117cc52a08075779a0a1d273c"
+hash = "23a3cf9421db2077100205b0ac63bf0a742767e01c2c80cb4c6a428df9c23720"
 
 [[files]]
 file = "mods/antighost.toml"
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "75db4a4f9f92d71a6144c9153b3926364d942ad5f9211d08442ea8e0147c9273"
+hash = "ff20d9ec13193221168055dd1895a1dcb8d50519d7a584f5c19be00515034b40"
 metafile = true
 
 [[files]]
@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "c20bd40045b475649fb88ee74ce0277f5be762f2fd131d2baf3e28237b993d5e"
+hash = "9ba59e76966eb31bfd019b4c596e74cce047c3394738acc97058d9d5dd1db003"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "fc01dca8a92724ac74d2a848b3aa06e70a3b05cb10fdb91c684abe684459ac1a"
+hash = "5170786f6946bd3ccb4cbb63536fd855aebcda6626defa0d0cfc71182d070448"
 metafile = true
 
 [[files]]
@@ -107,8 +107,17 @@ hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
 metafile = true
 
 [[files]]
+file = "mods/hydrogen-fabric-mc1.17-0.3.jar"
+hash = "213bea354307bbd0cba43a3b56160dc2d49a7970e18690f52c84446fa6cf1cdd"
+
+[[files]]
 file = "mods/hydrogen.toml"
 hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "a3f08373b0ab8185e01a98277a745a7700e48b054ec66502001f7802322894fb"
 metafile = true
 
 [[files]]
@@ -128,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "2269a0e9554b766a11b0567e824a62bb31660cabed3636ec67520d41cf88722a"
+hash = "8e21e91896187629007baca7d6494852c63ad287552c20c83b02477926c7ecb9"
 metafile = true
 
 [[files]]

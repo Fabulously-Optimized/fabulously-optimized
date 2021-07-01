@@ -4,12 +4,13 @@ snooperEnabled:false
 darkMojangStudiosBackground:true
 gamma:0.5
 guiScale:3
+graphicsMode:0
+particles:2
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.wi_zoom.zoom:key.keyboard.c
-key_key.canvas.debug_toggle:key.keyboard.unknown
-key_key.canvas.debug_prev:key.keyboard.unknown
-key_key.canvas.debug_next:key.keyboard.unknown
-key_key.canvas.recompile:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.unknown
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
