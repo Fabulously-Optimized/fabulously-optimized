@@ -1,0 +1,71 @@
+name: Mod request
+description: Suggest a new mod to be included in Fabulously Optimized
+labels: mod
+body:
+- type: markdown
+  attributes:
+    value: |
+      Before you request a mod, [please search](https://github.com/Madis0/fabulously-optimized/issues) if it has already been requested.
+
+- type: input
+  attributes:
+    label: Mod name
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: Mod name
+    description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Other links
+    description: E.g. Github or Modrinth. Optional.
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: What it does
+    description: A short description of what the mod does. 
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the modpack
+    description: How can the mod benefit everyone while keeping the experience "vanilla-like"?
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why shouldn't it be in the modpack
+    description: Don't forget to include any downsides of the mod, you know every mod has some.
+    placeholder: |
+      Examples: not available in Curseforge, still in beta, depends on something, has confusing settings, not very vanilla-like etc.
+  validations:
+      required: true
+
+- type: checkboxes
+  attributes:
+    label: Categories
+    description: Select all that match the mod.
+    options:
+      - label: Performance optimization
+      - label: Graphics optimization
+      - label: New feature
+      - label: Works like Optifine/Bedrock Edition/Forge/etc
+      - label: Fixes a bug/makes another mod work
+      - label: Replaces an existing mod
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you want to add?
+  validations:
+    required: false
