@@ -1,13 +1,12 @@
 name: Bug report
 description: Report an issue with the modpack
-title: ""
 labels: bug
 body:
 - type: markdown
   attributes:
     value: |
       If it is a crash and you know what mod caused it (e.g. it says on the crash report), please report the issue to that mod instead.
-      Otherwise you can still report any crashes to me, and we'll try to find the problem cause together. 
+      Otherwise you can still report any crashes to me, and we\'ll try to find the problem cause together. 
 
 - type: textarea
   attributes:
