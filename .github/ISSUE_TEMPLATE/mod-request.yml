@@ -50,17 +50,18 @@ body:
   validations:
       required: true
 
-- type: checkboxes
+- type: dropdown
   attributes:
     label: Categories
     description: Select all that match the mod.
+    multiple: true
     options:
-      - label: Performance optimization
-      - label: Graphics optimization
-      - label: New feature
-      - label: Works like Optifine/Bedrock Edition/Forge/etc
-      - label: Fixes a bug/makes another mod work
-      - label: Replaces an existing mod
+      - Performance optimization
+      - Graphics optimization
+      - New feature
+      - Works like Optifine/Bedrock Edition/Forge/etc
+      - Fixes a bug/makes another mod work
+      - Replaces an existing mod
   validations:
     required: true
     
