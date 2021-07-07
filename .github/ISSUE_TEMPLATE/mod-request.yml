@@ -15,7 +15,7 @@ body:
 
 - type: input
   attributes:
-    label: Mod name
+    label: Curseforge link
     description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
   validations:
     required: false
@@ -63,6 +63,7 @@ body:
       - label: Replaces an existing mod
   validations:
     required: true
+    
 - type: textarea
   attributes:
     label: Additional details
