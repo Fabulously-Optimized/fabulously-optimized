@@ -10,23 +10,23 @@ body:
 
 - type: textarea
   attributes:
-      label: Describe the bug
-      description: A short summary of the issue.
-    validations:
-      required: true
+    label: Describe the bug
+    description: A short summary of the issue.
+  validations:
+    required: true
 
 - type: textarea
   attributes:
-      label: Expected behavior
-      description: What you expected to see.
-    validations:
-      required: true
+    label: Expected behavior
+    description: What you expected to see.
+  validations:
+    required: true
 
 - type: textarea
   attributes:
-      label: Observed/actual behavior
-      description: What you actually saw.
-    validations:
+    label: Observed/actual behavior
+    description: What you actually saw.
+  validations:
       required: true
 
 - type: textarea
