@@ -10,21 +10,21 @@ body:
       Otherwise you can still report any crashes to me, and we'll try to find the problem cause together. 
 
 - type: textarea
-    attributes:
+  attributes:
       label: Describe the bug
       description: A short summary of the issue.
     validations:
       required: true
 
 - type: textarea
-    attributes:
+  attributes:
       label: Expected behavior
       description: What you expected to see.
     validations:
       required: true
 
 - type: textarea
-    attributes:
+  attributes:
       label: Observed/actual behavior
       description: What you actually saw.
     validations:
@@ -43,7 +43,6 @@ body:
     required: true
 
 - type: input
-  id: prevalence
   attributes:
     label: Modpack version
     description: What version of the modpack are you using?
