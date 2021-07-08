@@ -18,9 +18,9 @@ Notes for all 1.17.1 releases:
 
 First alpha for 1.17.1!
 
-* Temporarily added Canvas again because Sodium broke with 1.17.1
+* Temporarily added Canvas again because Iris+Sodium broke with 1.17.1
 * Added FerriteCore back
-* Removed mods that broke with 1.17.1: Iris/Sodium, 'Slight' Gui Modifications, Fabrishot
+* Removed mods that broke with 1.17.1: Iris+Sodium, 'Slight' Gui Modifications, Fabrishot
 * You cannot see the version in the main menu at the moment
 * Updated mods
 
