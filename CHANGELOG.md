@@ -6,8 +6,28 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
  - Only the *latest version of a modpack per Minecraft version* is kept visible on Curseforge. This is to make it simpler to use legacy versions (at your responsibility) and keep the version list clean overall, also a reason why this page exists.
  - "Updated mods" can refer to mods, the Curseforge launcher manifest and/or Fabric. For the sake of simplicity I do not describe individual updates in detail.
 
+## 1.17.1
+
+Notes for all 1.17.1 releases:
+
+* Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
+* MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+* GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
+
+### 2.1.0a1
+
+First alpha for 1.17.1!
+
+* Temporarily added Canvas again because Sodium broke with 1.17.1
+* Added FerriteCore back
+* Removed mods that broke with 1.17.1: Iris/Sodium, 'Slight' Gui Modifications, Fabrishot
+* You cannot see the version in the main menu at the moment
+* Updated mods
+
 ## 1.17
+
 Notes for all 1.17 releases:
+
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse

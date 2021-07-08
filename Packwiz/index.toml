@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/canvas.json5"
+hash = "70ea6e2d7d3dac3d0f1760994a51371889ffce15c26346a2d8e3e3574490660f"
+
+[[files]]
+file = "config/canvas_pipeline_options.json5"
+hash = "18ce8078e3aeb4595d435b1b9f0fd1a086a8c6cf6fc973296c8555513233f5dd"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "e2110d149bd79c6231b5ab3dc4012cb2cd20800043684cc7c41aa34ff92afd9f"
+
+[[files]]
 file = "config/slightguimodifications/cts.groovy"
 hash = "95b3d378fdae067bda08d92992656544aa0fd6b0e5ea37ebe8d9f3f8bd9c69bc"
 
@@ -18,7 +30,7 @@ hash = "1e4a1dddf8891e81dfac8837220705757874be3fb7009f05dcf4e983e3d925b8"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
+hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -34,7 +46,7 @@ hash = "b3d937324906eeec068c3335061167c85694a869a9f6c5cd5800b64b08c05201"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "23a3cf9421db2077100205b0ac63bf0a742767e01c2c80cb4c6a428df9c23720"
+hash = "6439af00e7aae2efe5bba1aad426bb1cf2fed9515877589b5360470171612a6e"
 
 [[files]]
 file = "mods/antighost.toml"
@@ -52,8 +64,13 @@ hash = "4fa984638eb4487db00d51a52aa07e1b2d11ab41ebe850d7f40a5e653860e173"
 metafile = true
 
 [[files]]
+file = "mods/canvas-renderer.toml"
+hash = "966798eb84dce09acd7fc800eb4ceac417944a3d4e2ec50b76d2cb555678b6d8"
+metafile = true
+
+[[files]]
 file = "mods/capes.toml"
-hash = "9ba59e76966eb31bfd019b4c596e74cce047c3394738acc97058d9d5dd1db003"
+hash = "59496ee304874702b1ba4dc0b8c3f8e7cedd40a26dceed1c8b28ae4d814b05b5"
 metafile = true
 
 [[files]]
@@ -78,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "c08fdf73a81fe9bc8d8a3411e2e808c9e3a8ac8f4eddbf34ae94e9b162b0f22a"
+hash = "0d15b50d3c03a465aaf3978adaa3df526ecbc1ef6b86c160c9de9536a540148a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "0d1a8a3403a9029453108a071f7db0593d18afdc73e65ce77b6a1cc9bf8d25d5"
+hash = "554697bd6e752c802bc906bbc35757b4584aed867533e112f4f3ad0ed8b835ba"
 metafile = true
 
 [[files]]
@@ -92,23 +109,18 @@ hash = "5170786f6946bd3ccb4cbb63536fd855aebcda6626defa0d0cfc71182d070448"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.toml"
-hash = "aa61024c7f7dd13461e8882b4c4430c341277a130a75b1319c08536c7d98c360"
-metafile = true
-
-[[files]]
 file = "mods/fastchest.toml"
 hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen.toml"
-hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
+file = "mods/ferritecore-fabric.toml"
+hash = "10c88c45c2759a2b33a072de8336a39f7ef16b23a1c5d1ae30ae484ff6490b12"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.toml"
-hash = "a3f08373b0ab8185e01a98277a745a7700e48b054ec66502001f7802322894fb"
+file = "mods/hydrogen.toml"
+hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
 metafile = true
 
 [[files]]
@@ -128,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8e21e91896187629007baca7d6494852c63ad287552c20c83b02477926c7ecb9"
+hash = "46408112d0ccc74c86e2eb931d07d083a56aee3114deb994ed1ef14dd0af19a2"
 metafile = true
 
 [[files]]
@@ -144,11 +156,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes.toml"
 hash = "d39a9a66dfa4c570242aadc9a935ad1217572780508a414cb1a59cfc4d1e81a9"
-metafile = true
-
-[[files]]
-file = "mods/slight-gui-modifications.toml"
-hash = "5f5332fb8e4df2aff542b43dbdced8675cc50d3ac0c70fac1692a43e060de29e"
 metafile = true
 
 [[files]]
