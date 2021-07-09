@@ -1,10 +1,5 @@
 # Fabulously Optimized changelog
-This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
-## Some facts
- - Only *the latest version* of the modpack is supported. You can either update an older version directly or create a new profile to update.
- - Only the *latest stable version* of Minecraft is supported - no snapshots, no backports. For more info, see FAQ on ["What versions do you support?"](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#reply).
- - Only the *latest version of a modpack per Minecraft version* is kept visible on Curseforge. This is to make it simpler to use legacy versions (at your responsibility) and keep the version list clean overall, also a reason why this page exists.
- - "Updated mods" can refer to mods, the Curseforge launcher manifest and/or Fabric. For the sake of simplicity I do not describe individual updates in detail.
+This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://github.com/Madis0/fabulously-optimized/wiki/Version-support-FAQ).
 
 ## 1.17.1
 
