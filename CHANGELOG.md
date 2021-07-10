@@ -6,7 +6,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes for all 1.17.1 releases:
 
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
-* MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+* MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
 
 ### 2.1.0a2
