@@ -9,6 +9,15 @@ Notes for all 1.17.1 releases:
 * MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
 
+### 2.1.0a2
+
+Changes from a1
+
+* (No Sodium yet)
+* Readded 'Slight' Gui Modifications and Fabrishot
+* Fixed version in the main menu
+* Updated mods
+
 ### 2.1.0a1
 
 First alpha for 1.17.1!

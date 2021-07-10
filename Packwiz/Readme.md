@@ -6,6 +6,9 @@ The best way to update it for Fabulously Optimized is to just create a CF pack a
 
 ```
 .\packwiz.exe curseforge import filepath
+.\packwiz.exe remove hydrogen
+.\packwiz.exe mr install hydrogen
+.\packwiz.exe refresh
 ```
 
 After that it is possible to just use the MultiMC pack created in MultiMC-Packwiz, instructions are in the Packwiz repo.
