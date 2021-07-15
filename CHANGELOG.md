@@ -17,7 +17,7 @@ Changes from a2
 * Added Custom Fog back
 * Enabled Cull Leaves by default
 * Mods updated
-* Now using the semantic versioning system
+* Now using semantic versioning
 
 ### 2.1.0a2
 
