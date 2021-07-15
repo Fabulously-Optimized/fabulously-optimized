@@ -9,6 +9,16 @@ Notes for all 1.17.1 releases:
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
 
+### 2.1.0-alpha.3
+
+Changes from a2
+
+* (No Sodium yet)
+* Added Custom Fog back
+* Enabled Cull Leaves by default
+* Mods updated
+* Now using the semantic versioning system
+
 ### 2.1.0a2
 
 Changes from a1

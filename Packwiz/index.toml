@@ -14,7 +14,7 @@ hash = "e2110d149bd79c6231b5ab3dc4012cb2cd20800043684cc7c41aa34ff92afd9f"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "eda46dcfec68e1e642522bd72c12fc9e84f5b3bcdc5d09f5aeb3e2c75b5fb00f"
+hash = "f4b4d906d5c1a4cd47ee2fa52c984a006959941491bfc4ccd5055820d10e253f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -22,7 +22,11 @@ hash = "94f7fc7719381bc6e474b6df30840d2aab0e8c4ed80d2f6191cf1b5b7d92be3f"
 
 [[files]]
 file = "config/yosbr/config/cullleaves.json"
-hash = "014dc67623c4e871b26ad8b58477897bb61f478445b4a9c1c89d9c3e545ace8c"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/yosbr/config/custom-fog.json"
+hash = "e414b012ed6dc2608360368b96afbe809db7e726ed672963a998237869a15715"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -50,12 +54,12 @@ hash = "6439af00e7aae2efe5bba1aad426bb1cf2fed9515877589b5360470171612a6e"
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "98b2b6d1723ed8c9518da3a64143e769124086167a438897275ee0f442264fb1"
+hash = "5db5823578bbc8f2d1389439e42d13fe2254b2833f5784d07d833b806df2fc4c"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "51155b335428e1c5c3228f31d39b6d9747b2ade4384c82892d77935b151cd05b"
+hash = "49927e01c6a766f58e66f4284e299000b42d414237089d25c008ebd88c92eb9f"
 metafile = true
 
 [[files]]
@@ -89,18 +93,23 @@ hash = "2a6f497eef785ffc2a377c12d1d20d5d6e18ed77db44c69eb597a34dbf364e9e"
 metafile = true
 
 [[files]]
+file = "mods/custom-fog.toml"
+hash = "e8a43dcad6edfe204d746857534cf96cb8f99a79efd43484f543d171a7971929"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "f915765486759e4bc9b79ce05ae94074c346d82bb485bfeb1585578e68cddd3a"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "d62c6d82f5b8aab87eba0b605f5c7427e92b1bf9ebe3e5f122c6c94dc8250d35"
+hash = "729ed8c7252a48b332b7b701eddf9737b6844662fa9d6a442cd2d1d36d41257d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "554697bd6e752c802bc906bbc35757b4584aed867533e112f4f3ad0ed8b835ba"
+hash = "88d9cd5b2bf1d1d0d9b9f974df0c15033ff526c318f42118225214ea09bb1d9c"
 metafile = true
 
 [[files]]
@@ -122,6 +131,10 @@ metafile = true
 file = "mods/ferritecore-fabric.toml"
 hash = "10c88c45c2759a2b33a072de8336a39f7ef16b23a1c5d1ae30ae484ff6490b12"
 metafile = true
+
+[[files]]
+file = "mods/hydrogen-fabric-mc1.17-0.3.jar"
+hash = "213bea354307bbd0cba43a3b56160dc2d49a7970e18690f52c84446fa6cf1cdd"
 
 [[files]]
 file = "mods/hydrogen.toml"
@@ -175,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/wi-zoom.toml"
-hash = "649d9077a6398579477812241b37f427b918d1159a5c31303db183f789cdf0a1"
+hash = "acc7a3d78125c57ebef774099e7dadae8b9249032b030c598569377f10fe4384"
 metafile = true
 
 [[files]]
