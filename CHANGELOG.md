@@ -1,10 +1,93 @@
 # Fabulously Optimized changelog
-This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
-## Some facts
- - Only *the latest version* of the modpack is supported. You can either update an older version directly or create a new profile to update.
- - Only the *latest stable version* of Minecraft is supported - no snapshots, no backports. For more info, see FAQ on ["What versions do you support?"](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#reply).
- - Only the *latest version of a modpack per Minecraft version* is kept visible on Curseforge. This is to make it simpler to use legacy versions (at your responsibility) and keep the version list clean overall, also a reason why this page exists.
- - "Updated mods" can refer to mods, the Curseforge launcher manifest and/or Fabric. For the sake of simplicity I do not describe individual updates in detail.
+This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://github.com/Madis0/fabulously-optimized/wiki/Version-support-FAQ).
+
+## 1.17.1
+
+Notes for all 1.17.1 releases:
+
+* Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
+* MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+* GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
+
+### 2.1.0-alpha.3
+
+Changes from a2
+
+* (No Sodium yet)
+* Added Custom Fog back
+* Enabled Cull Leaves by default
+* Mods updated
+* Now using semantic versioning
+
+### 2.1.0a2
+
+Changes from a1
+
+* (No Sodium yet)
+* Readded 'Slight' Gui Modifications and Fabrishot
+* Fixed version in the main menu
+* Updated mods
+
+### 2.1.0a1
+
+First alpha for 1.17.1!
+
+* Temporarily added Canvas again because Iris+Sodium broke with 1.17.1
+* Added FerriteCore back
+* Removed mods that broke with 1.17.1: Iris+Sodium, 'Slight' Gui Modifications, Fabrishot
+* You cannot see the version in the main menu at the moment
+* Updated mods
+
+## 1.17
+
+Notes for all 1.17 releases:
+
+* Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
+* MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+* GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
+
+### 2.0.0b4
+
+Differences from b3
+
+* Added **Iris with Sodium**! (Yes, FPS boost and Optifine shaders!)
+* Set the default graphics to fast for general performance improvement
+* Re-enabled dynamic light for entities in LambDynamicLights
+* Updated mods
+* Removed Canvas
+* FO is currently still in beta because 1.17.1 is coming soon and Sodium Extra is not there yet
+
+### 2.0.0b3
+
+Differences from b2
+
+* (No Sodium yet)
+* Added Hydrogen, No Fade, Not Enough Crashes back
+* Mods updated
+* Experimental auto-updating MultiMC pack is available on Github, try it out! (packwiz by comp500)
+
+### 2.0.0b2
+
+Differences from b1
+* Sodium is not there yet, please have patience
+* Mods updated, should fix some graphics issues
+* Added Fabrishot back
+* Inclusion of Not Enough Crashes is delayed because it is still an alpha
+* Reverted FOV change for better FPS in some devices
+* Fixed an issue that could show the wrong version number in the main menu
+
+### 2.0.0b1
+
+Mods
+* Several mods still missing, including Sodium
+* Sodium temporarily replaced with Canvas
+* Ok Zoomer temporarily/permanently replaced with WI Zoom
+* Added YOSBR to keep your settings between modpack upgrades
+* More new mods will come in a stable release!
+
+Other
+* Added [new default options](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options) to improve the experience
+* CF version is now 100% Fabric, meaning faster startup and better mod management!
 
 ## 1.16.5
 

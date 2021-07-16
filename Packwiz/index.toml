@@ -1,0 +1,197 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/canvas.json5"
+hash = "70ea6e2d7d3dac3d0f1760994a51371889ffce15c26346a2d8e3e3574490660f"
+
+[[files]]
+file = "config/canvas_pipeline_options.json5"
+hash = "18ce8078e3aeb4595d435b1b9f0fd1a086a8c6cf6fc973296c8555513233f5dd"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "e2110d149bd79c6231b5ab3dc4012cb2cd20800043684cc7c41aa34ff92afd9f"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "f4b4d906d5c1a4cd47ee2fa52c984a006959941491bfc4ccd5055820d10e253f"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "94f7fc7719381bc6e474b6df30840d2aab0e8c4ed80d2f6191cf1b5b7d92be3f"
+
+[[files]]
+file = "config/yosbr/config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/yosbr/config/custom-fog.json"
+hash = "e414b012ed6dc2608360368b96afbe809db7e726ed672963a998237869a15715"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "1e4a1dddf8891e81dfac8837220705757874be3fb7009f05dcf4e983e3d925b8"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "c26bab6d48617e4a0056ae75cce7a46d97c938b08c809b3e62dab9c6cb2ef432"
+
+[[files]]
+file = "config/yosbr/config/slightguimodifications/config.json5"
+hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "b3d937324906eeec068c3335061167c85694a869a9f6c5cd5800b64b08c05201"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "6439af00e7aae2efe5bba1aad426bb1cf2fed9515877589b5360470171612a6e"
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "5db5823578bbc8f2d1389439e42d13fe2254b2833f5784d07d833b806df2fc4c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "49927e01c6a766f58e66f4284e299000b42d414237089d25c008ebd88c92eb9f"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.toml"
+hash = "4fa984638eb4487db00d51a52aa07e1b2d11ab41ebe850d7f40a5e653860e173"
+metafile = true
+
+[[files]]
+file = "mods/canvas-renderer.toml"
+hash = "966798eb84dce09acd7fc800eb4ceac417944a3d4e2ec50b76d2cb555678b6d8"
+metafile = true
+
+[[files]]
+file = "mods/capes.toml"
+hash = "59496ee304874702b1ba4dc0b8c3f8e7cedd40a26dceed1c8b28ae4d814b05b5"
+metafile = true
+
+[[files]]
+file = "mods/cloth-api.toml"
+hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "2a6f497eef785ffc2a377c12d1d20d5d6e18ed77db44c69eb597a34dbf364e9e"
+metafile = true
+
+[[files]]
+file = "mods/custom-fog.toml"
+hash = "e8a43dcad6edfe204d746857534cf96cb8f99a79efd43484f543d171a7971929"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "f915765486759e4bc9b79ce05ae94074c346d82bb485bfeb1585578e68cddd3a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.toml"
+hash = "729ed8c7252a48b332b7b701eddf9737b6844662fa9d6a442cd2d1d36d41257d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "88d9cd5b2bf1d1d0d9b9f974df0c15033ff526c318f42118225214ea09bb1d9c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "5170786f6946bd3ccb4cbb63536fd855aebcda6626defa0d0cfc71182d070448"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.toml"
+hash = "9131713b5dd19789c6d25cf7e10a787e4454f1b9b958b1854746f9d3a72782a8"
+metafile = true
+
+[[files]]
+file = "mods/fastchest.toml"
+hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "10c88c45c2759a2b33a072de8336a39f7ef16b23a1c5d1ae30ae484ff6490b12"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen-fabric-mc1.17-0.3.jar"
+hash = "213bea354307bbd0cba43a3b56160dc2d49a7970e18690f52c84446fa6cf1cdd"
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "3e6db126eb1735434a047a2923579c6608b2a7367392e3dd9ca771b31dcc2d63"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "46408112d0ccc74c86e2eb931d07d083a56aee3114deb994ed1ef14dd0af19a2"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "7eec8fb33cc59b0518a4acfd6a19e01bd50fdedf3ebe20b1c7e45d19274160f1"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.toml"
+hash = "00e39f0a666b5418c9e149ec75bc1b6fff68a720efc2669908cec788103dff33"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "d39a9a66dfa4c570242aadc9a935ad1217572780508a414cb1a59cfc4d1e81a9"
+metafile = true
+
+[[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.toml"
+hash = "acc7a3d78125c57ebef774099e7dadae8b9249032b030c598569377f10fe4384"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
+metafile = true
