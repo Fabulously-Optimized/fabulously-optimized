@@ -9,6 +9,15 @@ Notes for all 1.17.1 releases:
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
 
+### 2.1.0-beta.1
+
+Changes from beta 3
+
+* Added Sodium and Sodium Extra
+* Removed Canvas
+* Removed AntiGhost keybind to prevent accidental presses (you can use /ghost)
+* Updated mods
+
 ### 2.1.0-alpha.3
 
 Changes from a2
