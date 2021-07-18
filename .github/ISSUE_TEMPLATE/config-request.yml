@@ -1,0 +1,51 @@
+name: Config change
+description: Suggest an option, config, keybind or manifest change
+labels: option
+body:
+- type: markdown
+  attributes:
+    value: |
+      Before you request a config change, [please search](https://github.com/Madis0/fabulously-optimized/issues) if it has already been requested and see [if it has already been changed](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options). 
+      If it has been changed and you don't see it, make sure you are on the latest version and delete your `options.txt`. Launching the pack will regenerate the new options.
+
+- type: textarea
+  attributes:
+    label: What config to change
+    description: Describe the change you want me to make.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be changed
+    description: How can the change benefit everyone while keeping the experience "vanilla-like"?
+  validations:
+    required: true
+    
+- type: textarea
+  attributes:
+    label: Technical aspects of the change
+    description: If you know, copy the exact line of a config file you want me to change, tell me what to change it to and what file is it in. Optional.
+  validations:
+    required: false
+
+- type: dropdown
+  attributes:
+    label: Category
+    description: Select the type of change you request.
+    multiple: false
+    options:
+      - Vanilla option
+      - Mod config option
+      - Changed keybind
+      - A manifest file (Curseforge, MultiMC etc.)
+      - Other
+  validations:
+    required: true
+    
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you want to add?
+  validations:
+    required: false
