@@ -11,7 +11,7 @@ Notes for all 1.17.1 releases:
 
 ### 2.1.0-beta.1
 
-Changes from beta 3
+Changes from alpha 3
 
 * Added Sodium and Sodium Extra
 * Removed Canvas
