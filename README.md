@@ -14,9 +14,9 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
-[Another review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
+[Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
 
-[Another review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
+[Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
 
 [Gameplay](https://youtu.be/ggCGrlMLOEc?t=110) by Just Oj
 
