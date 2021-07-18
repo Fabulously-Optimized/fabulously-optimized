@@ -60,7 +60,7 @@ List of mods as of 2.1.0-beta.1 are below. Crossed out ones are not yet updated 
 ### Functional
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) by alexander9892 - adds a scrollable zoom feature
 * [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) by Giselbaer - if you see glitching blocks, type /ghost to fix
-* [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) by shedaniel - keeps your mod settings and vanilla settings in case the modpack updates
+* [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) by shedaniel - keeps your mod settings and vanilla settings when updating the modpack
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) by TerraformersMC - gives you the list of mods and lets you adjust their configuration
 * [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) by NatanFudge - lets you play after a crash and report it comfortably
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by modmuss50 - makes most mods work
