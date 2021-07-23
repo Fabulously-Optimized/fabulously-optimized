@@ -1,440 +1,274 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "1.9.1",
+  "versionId": "2.1.0-beta.1",
   "name": "Fabulously Optimized",
   "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
   "files": [
     {
-      "path": "mods/sodium-fabric-mc1.16.3-0.1.0.jar",
+      "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar",
       "hashes": {
-        "sha512": "2597064f7116315adcfe114f0d76c04233791fed049cbbcf722f878002bf14cd8dec421806da639f31ffd496b9dedac9e39e2b48f43007427fa0f659ec5118e2"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "685313541"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar",
-        "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar",
-        "https://edge.forgecdn.net/files/3067/101/sodium-fabric-mc1.16.3-0.1.0.jar"
+        "https://edge.forgecdn.net/files/3379/961/antighost-1.17.1-fabric0.36.1-1.1.4.jar"
       ]
     },
     {
-      "path": "mods/lithium-fabric-mc1.16.5-0.6.4.jar",
+      "path": "mods/architectury-2.2.21-fabric.jar",
       "hashes": {
-        "sha512": "a5d54bace83489e878e14ddb1792c97e75b0ecc61bfd43de53342646d4c4ba49543874d5d2f63558a6b52419024e83895b0715c7dec19248de89e9b80b2da092"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
+        "murmur2": "444399749"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.4/lithium-fabric-mc1.16.5-0.6.4.jar",
-        "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.16.5-0.6.4/lithium-fabric-mc1.16.5-0.6.4.jar",
-        "https://edge.forgecdn.net/files/3215/441/lithium-fabric-mc1.16.5-0.6.4.jar"
+        "https://edge.forgecdn.net/files/3385/669/architectury-2.2.21-fabric.jar"
       ]
     },
     {
-      "path": "mods/phosphor-fabric-mc1.16.3-0.7.2+build.12.jar",
+      "path": "mods/betterbeds-1.2.0.jar",
       "hashes": {
-        "sha512": "8bd972912641d0d4b09174689daee97b76829bfaf7eb89ef51bdb1ac291b47966dc6c734891dd413a5686029aa6b2e5aaeb4445a4f1b865c50b79579e3113e0c"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
+        "murmur2": "936405535"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.7.2/phosphor-fabric-mc1.16.3-0.7.2+build.12.jar",
-        "https://github.com/CaffeineMC/phosphor-fabric/releases/download/mc1.16.2-v0.7.2/phosphor-fabric-mc1.16.3-0.7.2+build.12.jar",
-        "https://edge.forgecdn.net/files/3294/303/phosphor-fabric-mc1.16.3-0.7.2+build.12.jar"
+        "https://edge.forgecdn.net/files/3342/338/betterbeds-1.2.0.jar"
       ]
     },
     {
-      "path": "mods/hydrogen-fabric-mc1.16.5-0.2.jar",
+      "path": "mods/capes-1.2.0.jar",
       "hashes": {
-        "sha512": "571e51c87da301274a7650fc4bc249c633af2a2b21bc420912b03a743d06cdb7609bcf9fcdf9a6cd4defb1d908be7ca52988e1c95126adc5947edbbf77d6369e"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
+        "murmur2": "4012599892"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.16.5-v0.2.0/hydrogen-fabric-mc1.16.5-0.2.jar",
-        "https://github.com/CaffeineMC/hydrogen-fabric/releases/download/mc1.16.5-v0.2.0/hydrogen-fabric-mc1.16.5-0.2.jar"
+        "https://edge.forgecdn.net/files/3373/447/capes-1.2.0.jar"
       ]
     },
     {
-      "path": "mods/ferritecore-2.0.4-fabric.jar",
+      "path": "mods/cloth-api-2.0.54.jar",
       "hashes": {
-        "sha512": "e141ff287ee93f10e4c8bebd6ab66e6151c5509050a02ee0fed5da536c93a6ad84aeed3432fdfa3bb6d65063edd77441d8b02cf646164ba12785749fa6e741e8"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
+        "murmur2": "2308550397"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.4/ferritecore-2.0.4-fabric.jar",
-        "https://edge.forgecdn.net/files/3253/564/ferritecore-2.0.4-fabric.jar"
+        "https://edge.forgecdn.net/files/3336/395/cloth-api-2.0.54.jar"
       ]
     },
     {
-      "path": "mods/EntityCulling-Fabric-1.2.2.jar",
+      "path": "mods/cloth-config-5.0.34-fabric.jar",
       "hashes": {
-        "sha512": "1794c90055c858d21cd1383250b8a1dbfd519b0baf7209368c36dc218abc0368271150ddd90f5ae4046665884f575adb52c57a7d721b4a0c323a50853e2d7605"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "3548622365"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3296/215/EntityCulling-Fabric-1.2.2.jar"
+        "https://edge.forgecdn.net/files/3329/246/cloth-config-5.0.34-fabric.jar"
       ]
     },
     {
-      "path": "mods/fast-chest-1.2+1.16.jar",
+      "path": "mods/cullleaves-2.2.0.jar",
       "hashes": {
-        "sha512": "8f62d1023fe97ed05f8ed9bc2d9bba1c560a9f786da4ac6c8c8fe2c87bc04af0aa25f9277b81bf65a6931df1240d584a6f6fd4c42ac886188b783d096f51ca61"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "1428146386"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3222/361/fast-chest-1.2+1.16.jar"
+        "https://edge.forgecdn.net/files/3342/334/cullleaves-2.2.0.jar"
       ]
     },
     {
-      "path": "mods/betterbeds-1.1.0.jar",
+      "path": "mods/custom-fog-1.6.0.jar",
       "hashes": {
-        "sha512": "c8ed0ac5ffbedbf34c5ee83414550ec1e1f6fc99cfff734949aae92f745d5b2bac2393870c041fed2405aee667fc28252e0a8933c258ce4b940eddba96ac50df"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "4119009938"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.1.0/betterbeds-1.1.0.jar",
-        "https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.1.0/betterbeds-1.1.0.jar",
-        "https://edge.forgecdn.net/files/3196/688/betterbeds-1.1.0.jar"
+        "https://edge.forgecdn.net/files/3383/929/custom-fog-1.6.0.jar"
+      ]
+    },
+    {
+      "path": "mods/dynamic-fps-2.0.4.jar",
+      "hashes": {
+        "murmur2": "2574305371"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3356/224/dynamic-fps-2.0.4.jar"
+      ]
+    },
+    {
+      "path": "mods/EntityCulling-Fabric-1.3.3.jar",
+      "hashes": {
+        "murmur2": "3251325506"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3388/827/EntityCulling-Fabric-1.3.3.jar"
+      ]
+    },
+    {
+      "path": "mods/fabric-api-0.37.0+1.17.jar",
+      "hashes": {
+        "murmur2": "998700929"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3386/484/fabric-api-0.37.0+1.17.jar"
+      ]
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.6.2+kotlin.1.5.20.jar",
+      "hashes": {
+        "murmur2": "1941883754"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3364/215/fabric-language-kotlin-1.6.2+kotlin.1.5.20.jar"
+      ]
+    },
+    {
+      "path": "mods/fabrishot-1.5.1.jar",
+      "hashes": {
+        "murmur2": "165472990"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3381/995/fabrishot-1.5.1.jar"
+      ]
+    },
+    {
+      "path": "mods/fast-chest-1.2+1.17.jar",
+      "hashes": {
+        "murmur2": "61993830"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3344/1/fast-chest-1.2+1.17.jar"
+      ]
+    },
+    {
+      "path": "mods/ferritecore-3.0.1-fabric.jar",
+      "hashes": {
+        "murmur2": "1991160535"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3373/736/ferritecore-3.0.1-fabric.jar"
+      ]
+    },
+    {
+      "path": "mods/hydrogen-fabric-mc1.17.1-0.3.jar",
+      "hashes": {
+        "sha512": "db4079c26bf27b38d32ae60a47e7d347e01d43def5987e5c2cb25218e427b2f10f7fcb36f9de5d486a0953637793cd90450f8d2d7ff1a31cf8a90af3794646ad"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar"
+      ]
+    },
+    {
+      "path": "mods/item-model-fix-1.0.2+1.17.jar",
+      "hashes": {
+        "murmur2": "1083414010"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3344/195/item-model-fix-1.0.2+1.17.jar"
+      ]
+    },
+    {
+      "path": "mods/lambdynamiclights-2.0.1+1.17.jar",
+      "hashes": {
+        "murmur2": "1045843294"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3348/967/lambdynamiclights-2.0.1+1.17.jar"
       ]
     },
     {
       "path": "mods/lazydfu-0.1.2.jar",
       "hashes": {
-        "sha512": "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
+        "murmur2": "2594861637"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar",
-        "https://github.com/astei/lazydfu/releases/download/0.1.2/lazydfu-0.1.2.jar",
         "https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar"
       ]
     },
     {
-      "path": "mods/nofade-1.16.5-1.0.1.jar",
+      "path": "mods/lithium-fabric-mc1.17.1-0.7.3.jar",
       "hashes": {
-        "sha512": "3bf6988485cf27492405cfa48d22ac67a35e971d6a880f00cc65663f5e342fada379a2c0ba9a69784374c1b86694928a95a92e064f1f09710cdad4321923215d"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "1898131449"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/WwT5TcIT/versions/1.16-1.0.1/nofade-1.16.5-1.0.1.jar",
-        "https://github.com/UltimateBoomer/mc-no-fade/releases/download/1.16-1.0.1/nofade-1.16.5-1.0.1.jar",
-        "https://edge.forgecdn.net/files/3228/523/nofade-1.16.5-1.0.1.jar"
+        "https://edge.forgecdn.net/files/3380/166/lithium-fabric-mc1.17.1-0.7.3.jar"
+      ]
+    },
+    {
+      "path": "mods/modmenu-2.0.2.jar",
+      "hashes": {
+        "murmur2": "36282909"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3348/711/modmenu-2.0.2.jar"
+      ]
+    },
+    {
+      "path": "mods/nofade-1.17-2.0.0.jar",
+      "hashes": {
+        "murmur2": "1935255380"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3355/800/nofade-1.17-2.0.0.jar"
+      ]
+    },
+    {
+      "path": "mods/notenoughcrashes-3.3.1+1.17-fabric.jar",
+      "hashes": {
+        "murmur2": "4094157266"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3357/144/notenoughcrashes-3.3.1+1.17-fabric.jar"
+      ]
+    },
+    {
+      "path": "mods/slight-gui-modifications-2.0.1.jar",
+      "hashes": {
+        "murmur2": "1523527604"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3381/516/slight-gui-modifications-2.0.1.jar"
       ]
     },
     {
       "path": "mods/smoothboot-fabric-1.16.5-1.6.0.jar",
       "hashes": {
-        "sha512": "6ce1272a1e82e62299419a09c24263c303f4e233c7331eb83df66a65bfb9f1f6bd33a4b65aaa42f83166f431033c962901a07762a84fc99d07cf07c6cfe9254c"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
+        "murmur2": "3205574711"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/FWumhS4T/versions/1.16.5-1.6.0/smoothboot-fabric-1.16.5-1.6.0.jar",
-        "https://github.com/UltimateBoomer/mc-smoothboot/releases/download/1.16.5-1.6.0/smoothboot-fabric-1.16.5-1.6.0.jar",
         "https://edge.forgecdn.net/files/3248/104/smoothboot-fabric-1.16.5-1.6.0.jar"
       ]
     },
     {
-      "path": "mods/dynamic-fps-2.0.2.jar",
+      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+build.5.jar",
       "hashes": {
-        "sha512": "b3a8a9e008a3cf6c585c3ddd016374f6e202e8f321259c7c2cd014936884d4658ad5ef0de685e0cee92d51840c12ef8a5438efc2a7e7ffaf4dfe3745dad293d5"
-      },
-      "env": {
-        "client": "required",
-        "server": "optional"
+        "sha512": "000d00496ed4e945c4d8c4d6b70584ffec5af6034c39e22d3ccc69734ccaadd37e7e9d31129da84c82d08798416a1a8daaf305656fa46406738a36505b7fd2e7"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.0.2/dynamic-fps-2.0.2.jar",
-        "https://github.com/juliand665/Dynamic-FPS/releases/download/2.0.2/dynamic-fps-2.0.2.jar",
-        "https://edge.forgecdn.net/files/3302/730/dynamic-fps-2.0.2.jar"
+        "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0+build.5.jar"
       ]
     },
     {
-      "path": "mods/SmoothScrollingEverywhere-3.0.3-unstable.jar",
+      "path": "mods/sodium-extra-mc1.17.1-0.3.3.jar",
       "hashes": {
-        "sha512": "cc8f1b3cecd661f86d7a0938d87b16b47c8164777c81a12eae5ad163e3c8765b5c2941e9739e2143e3ff9789b6bebb6ceacf077dab839fa107ba570a0011eeef"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "105773225"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/2963/760/SmoothScrollingEverywhere-3.0.3-unstable.jar"
-      ]
-    },
-
-    {
-      "path": "mods/sodium-extra-0.2.6.jar",
-      "hashes": {
-        "sha512": "5530c89a33b9f14aeeea8670f8ff71950702d23cda4c945d75d31fc618c2a69cd78e4ba73dffef7eb5b4df471ad3fe4d69ddfd327799d66f22e1314f51f25d1d"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.2.6/sodium-extra-0.2.6.jar",
-        "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc.1.16.5-0.2.6/sodium-extra-0.2.6.jar",
-        "https://edge.forgecdn.net/files/3295/558/sodium-extra-0.2.6.jar"
+        "https://edge.forgecdn.net/files/3392/192/sodium-extra-mc1.17.1-0.3.3.jar"
       ]
     },
     {
-      "path": "mods/lambdynamiclights-fabric-1.3.4+1.16.jar",
+      "path": "mods/WI-Zoom-1.3-MC1.17.1.jar",
       "hashes": {
-        "sha512": "9a360cf2ef17410ae39a47141e4b022c9629b89ec4d7457cdff7bad7bc0916709546fdee62f61942870d13792bfa0af980c03e6c0c98c3c1039854090f0541cb"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "2597724315"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.4+1.16/lambdynamiclights-fabric-1.3.4+1.16.jar",
-        "https://github.com/LambdAurora/LambDynamicLights/releases/download/1.3.4-1.16/lambdynamiclights-fabric-1.3.4+1.16.jar",
-        "https://edge.forgecdn.net/files/3172/563/lambdynamiclights-fabric-1.3.4+1.16.jar"
+        "https://edge.forgecdn.net/files/3379/128/WI-Zoom-1.3-MC1.17.1.jar"
       ]
     },
     {
-      "path": "mods/capes-1.1.2.jar",
+      "path": "mods/yosbr-0.1.1.jar",
       "hashes": {
-        "sha512": "16d1ff2c00d0fa22b70cc702459b1f8eac48d39fcd6a01f92b71bb1b4e0a1930a29f981f503fd69e45a66b61316e648f648dacdd8b6d38f51b88dbfa4f2ff872"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
+        "murmur2": "1019026871"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3299/645/capes-1.1.2.jar"
-      ]
-    },
-    {
-      "path": "mods/cullleaves-2.1.0.jar",
-      "hashes": {
-        "sha512": "ed9d1b969dda1454c440589f0dffa68cec0ae674a4e6daeb1cddceb02a884fd69b292879a7c4f052ef995eba260895cbacb0889404418c19c7cd0d6b20526eac"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar",
-        "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.1.0/cullleaves-2.1.0.jar",
-        "https://edge.forgecdn.net/files/3223/126/cullleaves-2.1.0.jar"
-      ]
-    },
-    {
-      "path": "mods/colormatic-2.2.8+mc.1.16.3.jar",
-      "hashes": {
-        "sha512": "821f5facccb24d134c3c07106731d11d9bf06e51bebaba17bdcba9b7f06e53bcf648fff33cd5ef5e6440f1b53eb80333d11ae131963862db25c1ab7d0d6b363f"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://github.com/kvverti/colormatic/releases/download/2.2.8/colormatic-2.2.8+mc.1.16.3.jar",
-        "https://edge.forgecdn.net/files/3166/863/colormatic-2.2.8+mc.1.16.3.jar"
-      ]
-    },
-    {
-      "path": "mods/slight-gui-modifications-1.7.1.jar",
-      "hashes": {
-        "sha512": "3c3269bdd9b33d141be40a3d28eed158c117f99f89470d3c6f7ffb706915858ce715c7e5538c378e312953815a61d0c4b1eab1792b8aa15fb29e2e3ed8f959fb"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://edge.forgecdn.net/files/3202/525/slight-gui-modifications-1.7.1.jar"
-      ]
-    },
-    {
-      "path": "mods/item-model-fix-1.0.1.jar",
-      "hashes": {
-        "sha512": "d91c7e0dce0b9feda03433a2cf7af9dcbf034acb29986f1eff6d10e46655abdbfcddbf809486c0c9316dbcacc6fa073b1e84c98a19054d1524c71161ff28edbf"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://github.com/PepperCode1/Item-Model-Fix/releases/download/v1.0.1/item-model-fix-1.0.1.jar",
-        "https://edge.forgecdn.net/files/3294/267/item-model-fix-1.0.1.jar"
-      ]
-    },
-    {
-      "path": "mods/custom-fog-1.5.1.jar",
-      "hashes": {
-        "sha512": "935a1248d0d00ee5aaf7c5a1b8373811c537cadbd24b488a6ec8a108ef519c4b1a6aa36b5d125f304dac2100e7326cf68449fc5a89a868f4be2d5754d061fd3b"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/2JyZgJxC/versions/1.5.1/custom-fog-1.5.1.jar",
-        "https://edge.forgecdn.net/files/3298/609/custom-fog-1.5.1.jar"
-      ]
-    },
-    {
-      "path": "mods/fabrishot-1.4.0.jar",
-      "hashes": {
-        "sha512": "22012fce8ae271cde5d7170bccae3a382f7601e9636eaabd8842fe3fc9d0d99a72fae871e0a51779a3847d562709a91df5726bc9c61a154bbefb24869b1c83aa"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.4.0/fabrishot-1.4.0.jar",
-        "https://edge.forgecdn.net/files/3271/155/fabrishot-1.4.0.jar"
-      ]
-    },
-
-    {
-      "path": "mods/okzoomer-4.0.1+1.16.2.jar",
-      "hashes": {
-        "sha512": "13bf69c9103ba640a402b907fe775ddfd8ab6ec30e53f2a00cda5d8f3d6c9b99be89ce86ffb384f0caeb62c755e286e7ae45747d69c605047d7492f93300a540"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/aXf2OSFU/versions/4.0.1+1.16.2/okzoomer-4.0.1+1.16.2.jar",
-        "https://github.com/joaoh1/OkZoomer/releases/download/4.0.1%2B1.16.2/okzoomer-4.0.1+1.16.2.jar",
-        "https://edge.forgecdn.net/files/3048/200/okzoomer-4.0.1+1.16.2.jar"
-      ]
-    },
-    {
-      "path": "mods/antighost-1.16.5-fabric0.30.0-1.1.3.jar",
-      "hashes": {
-        "sha512": "54adb14bda57b2e6e5bede7f1231b76664a489431d7f058917e3c7329b88a526ec276beb6a2073bf5ce7db5e312fc99e8a7d1be5ddeaed02e70fd78eddb7ddcc"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.16.5-fabric0.30.0-1.1.3/antighost-1.16.5-fabric0.30.0-1.1.3.jar",
-        "https://edge.forgecdn.net/files/3193/496/antighost-1.16.5-fabric0.30.0-1.1.3.jar"
-      ]
-    },
-    {
-      "path": "mods/modmenu-1.16.9.jar",
-      "hashes": {
-        "sha512": "fe5d944e2925a608babf73890e6423ee655872048ed122f0336c4c697024440e19146d04dda4c448a317273fb70578a393cf04e7cb6a33e85bc7ec7807b1fd15"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.9/modmenu-1.16.9.jar",
-        "https://github.com/TerraformersMC/ModMenu/releases/download/v1.16.9/modmenu-1.16.9.jar",
-        "https://edge.forgecdn.net/files/3268/909/modmenu-1.16.9.jar"
-      ]
-    },
-    {
-      "path": "mods/notenoughcrashes-3.2.0-fabric.jar",
-      "hashes": {
-        "sha512": "353730770a5fcbbe5743cb2a5a96ee3805effb35c36cc72add6a9e16596f7c845f4478f0fbe941d6d9b823557e04506a15fe8b0512a34d5958e40eaea15ebd55"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
-      },
-      "downloads": [
-        "https://edge.forgecdn.net/files/3270/425/notenoughcrashes-3.2.0-fabric.jar"
-      ]
-    },
-    {
-      "path": "mods/fabric-api-0.34.6+1.16.jar",
-      "hashes": {
-        "sha512": "c81c07f4b14146bc60bbaf346f9924f3f2be938eb00e143a2d7a1da4dee25a059748e10eeb69a664eb3bdd2a89bf76f9ba972e4830f20d02582dbdeca658c6c0"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.34.6+1.16/fabric-api-0.34.6+1.16.jar",
-        "https://github.com/FabricMC/fabric/releases/download/0.34.6%2B1.16/fabric-api-0.34.6+1.16.jar",
-        "https://edge.forgecdn.net/files/3324/592/fabric-api-0.34.6+1.16.jar"
-      ]
-    },
-    {
-      "path": "mods/cloth-config-4.11.26-fabric.jar",
-      "hashes": {
-        "sha512": "396d8b773e4dcf8d5b916eaadfb669f510d0dccac2274158055c0e57ef1518e5d562fdaddb98422974e3759db75b364306af796dde5b4b00b8a7c11a0b3c3de2"
-      },
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "downloads": [
-        "https://edge.forgecdn.net/files/3311/351/cloth-config-4.11.26-fabric.jar"
-      ]
-    },
-    {
-      "path": "mods/architectury-1.17.20-fabric.jar",
-      "hashes": {
-        "sha512": "6cd8250a915448c7d53fc12686977ff54d7a5d1ac016265d37e9368e09ba0cd90a97ecaca08caaef183a2e4c913038bd1445dfd8f717e090252cd5ee7f68531c"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
-      },
-      "downloads": [
-        "https://edge.forgecdn.net/files/3330/632/architectury-1.17.20-fabric.jar"
-      ]
-    },
-    {
-      "path": "mods/fabric-language-kotlin-1.6.0+kotlin.1.5.0.jar",
-      "hashes": {
-        "sha512": "1729921b78b9174ce9085c960fca6a0d887e9f512aa6be0d78cea4b16ceb26fa8b5b211821590195df8fa42f4869858e3019d1f84f9414dafa1884a8b946303f"
-      },
-      "env": {
-        "client": "optional",
-        "server": "optional"
-      },
-      "downloads": [
-        "https://edge.forgecdn.net/files/3300/699/fabric-language-kotlin-1.6.0+kotlin.1.5.0.jar"
+        "https://edge.forgecdn.net/files/2934/596/yosbr-0.1.1.jar"
       ]
     }
   ],
   "dependencies": {
-    "minecraft": "1.16.5",
-    "fabric-loader": "0.11.3"
+    "minecraft": "1.17.1",
+    "fabric-loader": "0.11.6"
   }
 }
