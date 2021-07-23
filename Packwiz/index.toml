@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/canvas.json5"
-hash = "70ea6e2d7d3dac3d0f1760994a51371889ffce15c26346a2d8e3e3574490660f"
-
-[[files]]
-file = "config/canvas_pipeline_options.json5"
-hash = "18ce8078e3aeb4595d435b1b9f0fd1a086a8c6cf6fc973296c8555513233f5dd"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e2110d149bd79c6231b5ab3dc4012cb2cd20800043684cc7c41aa34ff92afd9f"
+hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "f4b4d906d5c1a4cd47ee2fa52c984a006959941491bfc4ccd5055820d10e253f"
+hash = "f7f357568c9003ba6e1811fa09259f48ed30057026c8d4282b559d5ecf7ddfe9"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -34,7 +26,7 @@ hash = "1e4a1dddf8891e81dfac8837220705757874be3fb7009f05dcf4e983e3d925b8"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
+hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -45,12 +37,16 @@ file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "f672e48f6f1d935f691cad4f8e1a17fff608288838ea6c50b592c0889281b29c"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "b3d937324906eeec068c3335061167c85694a869a9f6c5cd5800b64b08c05201"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6439af00e7aae2efe5bba1aad426bb1cf2fed9515877589b5360470171612a6e"
+hash = "41f734d41e9d13b5a7b8e6dcaf797ec7482ebcd877cfe34cbeeaa4a9836f7b70"
 
 [[files]]
 file = "mods/antighost.toml"
@@ -65,11 +61,6 @@ metafile = true
 [[files]]
 file = "mods/better-beds.toml"
 hash = "4fa984638eb4487db00d51a52aa07e1b2d11ab41ebe850d7f40a5e653860e173"
-metafile = true
-
-[[files]]
-file = "mods/canvas-renderer.toml"
-hash = "966798eb84dce09acd7fc800eb4ceac417944a3d4e2ec50b76d2cb555678b6d8"
 metafile = true
 
 [[files]]
@@ -133,12 +124,8 @@ hash = "10c88c45c2759a2b33a072de8336a39f7ef16b23a1c5d1ae30ae484ff6490b12"
 metafile = true
 
 [[files]]
-file = "mods/hydrogen-fabric-mc1.17-0.3.jar"
-hash = "213bea354307bbd0cba43a3b56160dc2d49a7970e18690f52c84446fa6cf1cdd"
-
-[[files]]
 file = "mods/hydrogen.toml"
-hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
 
 [[files]]
@@ -184,6 +171,16 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot.toml"
 hash = "d02b56170076cc508fe31ff0e4d36b4576cb0ae7cf2c008b273cd64c34787408"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "98c21b4feb5984a2650d322530c077d7ef59c0ab59d03392c8a6f284ffcef3d4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "e3d60efc428887077d130ca7ec6d1259a9d0240d035d22eee2802555d2a1ded4"
 metafile = true
 
 [[files]]
