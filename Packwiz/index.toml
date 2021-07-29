@@ -6,7 +6,7 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "f7f357568c9003ba6e1811fa09259f48ed30057026c8d4282b559d5ecf7ddfe9"
+hash = "da40b539234f1aec5997d1c3d4a831a25f0d7aa2e2d3c9b48cb981cf8424bf67"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -46,7 +46,7 @@ hash = "b3d937324906eeec068c3335061167c85694a869a9f6c5cd5800b64b08c05201"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "41f734d41e9d13b5a7b8e6dcaf797ec7482ebcd877cfe34cbeeaa4a9836f7b70"
+hash = "07cd64bbec9a770ef7075c7b59f8d87b960e81e7e62859788b4f7dd1d288ea59"
 
 [[files]]
 file = "mods/antighost.toml"
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "88d9cd5b2bf1d1d0d9b9f974df0c15033ff526c318f42118225214ea09bb1d9c"
+hash = "1ed0c4d0632504f4f26215de55f6b20b9a5ef3d3a057b8449a9d9971c21985f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "5170786f6946bd3ccb4cbb63536fd855aebcda6626defa0d0cfc71182d070448"
+hash = "b5313c60b6902deb5c1e661afc5d3d5665d4843c2372a21f29b63bf654f0966b"
 metafile = true
 
 [[files]]
@@ -126,6 +126,11 @@ metafile = true
 [[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.toml"
+hash = "007001d49debdf85558e7120e85a99d0779f7c42ed9d257427e7e5c28e721d37"
 metafile = true
 
 [[files]]
@@ -150,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "7eec8fb33cc59b0518a4acfd6a19e01bd50fdedf3ebe20b1c7e45d19274160f1"
+hash = "9d23a4a8b3f3c53dd0c09691a896a4195fcae17a2d8b2ec42e3bccbe5fcaf60c"
 metafile = true
 
 [[files]]
@@ -176,11 +181,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.toml"
 hash = "98c21b4feb5984a2650d322530c077d7ef59c0ab59d03392c8a6f284ffcef3d4"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "e3d60efc428887077d130ca7ec6d1259a9d0240d035d22eee2802555d2a1ded4"
 metafile = true
 
 [[files]]
