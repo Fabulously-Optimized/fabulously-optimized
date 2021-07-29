@@ -9,6 +9,14 @@ Notes for all 1.17.1 releases:
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
 
+### 2.1.0-beta.2
+
+Changes from beta 1
+
+* Replaced Sodium with Iris+Sodium for shaders and bugfixes
+* Reset global graphics to Fancy to make Cull Leaves work
+* Mods updated
+
 ### 2.1.0-beta.1
 
 Changes from alpha 3
