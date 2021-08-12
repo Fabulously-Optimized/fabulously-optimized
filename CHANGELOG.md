@@ -9,6 +9,19 @@ Notes for all 1.17.1 releases:
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 * GDLauncher: please download the ZIP and click **+** -> Import Zip -> Browse
 
+### 2.1.0-beta.3
+
+It's time to test Indium! Please let me know how it goes: (link available soon)
+
+Changes from beta 2
+* Added Indium (rendering API, allows for more parity mods in the future)
+* Added Enhanced Block Entities (makes chests, signs, bells and beds render faster)
+* Removed FastChest and Better Beds (replaced by Enhanced Block Entities)
+* Removed Custom Fog (Sodium Extra provides a simpler experience for most people)
+* Mods updated: Architectury API, Cloth Config API, Dynamic FPS, Fabric API, Fabric Capes, LambDynamicLights
+
+Thanks for 100 000 downloads!
+
 ### 2.1.0-beta.2
 
 Changes from beta 1
