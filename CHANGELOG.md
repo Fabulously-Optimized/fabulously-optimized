@@ -11,7 +11,7 @@ Notes for all 1.17.1 releases:
 
 ### 2.1.0-beta.3
 
-It's time to test Indium! Please let me know how it goes: (link available soon)
+It's time to test Indium! Please let me know how it goes: https://strawpoll.com/d169oq4g9
 
 Changes from beta 2
 * Added Indium (rendering API, allows for more parity mods in the future)
