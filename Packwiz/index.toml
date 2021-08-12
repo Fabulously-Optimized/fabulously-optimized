@@ -6,7 +6,7 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "da40b539234f1aec5997d1c3d4a831a25f0d7aa2e2d3c9b48cb981cf8424bf67"
+hash = "938992c1cb7c6e3c4f1648fd62180369ecebce8e4f760103c669d64068b86fd8"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -17,8 +17,8 @@ file = "config/yosbr/config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
-file = "config/yosbr/config/custom-fog.json"
-hash = "e414b012ed6dc2608360368b96afbe809db7e726ed672963a998237869a15715"
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "e42fee94019c7beaa0ea8bd7d43e0ea7b8157743b287bb233b46967e8e7cc17c"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "49927e01c6a766f58e66f4284e299000b42d414237089d25c008ebd88c92eb9f"
+hash = "450a5365f688ee5aecd9b0634f3a524ce77043e7052fbd4699fd636fc7b57b74"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "59496ee304874702b1ba4dc0b8c3f8e7cedd40a26dceed1c8b28ae4d814b05b5"
+hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
 metafile = true
 
 [[files]]
@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
 [[files]]
@@ -90,7 +90,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "f915765486759e4bc9b79ce05ae94074c346d82bb485bfeb1585578e68cddd3a"
+hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "87bf3d05583ad46e052aecb77aaf10741fb87b6d430c67b4072ee90537ae212d"
 metafile = true
 
 [[files]]
@@ -100,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "1ed0c4d0632504f4f26215de55f6b20b9a5ef3d3a057b8449a9d9971c21985f6"
+hash = "2e5caac2cea653503eb04e3eede6d9cadae90435f9a1d51a8cde8f1c88883e91"
 metafile = true
 
 [[files]]
@@ -129,6 +134,11 @@ hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.toml"
 hash = "007001d49debdf85558e7120e85a99d0779f7c42ed9d257427e7e5c28e721d37"
 metafile = true
@@ -140,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "3e6db126eb1735434a047a2923579c6608b2a7367392e3dd9ca771b31dcc2d63"
+hash = "d1b7566f8022927583b3a112c30a9867d9d9e7f6736cd06ec30eebbb57fbdc55"
 metafile = true
 
 [[files]]

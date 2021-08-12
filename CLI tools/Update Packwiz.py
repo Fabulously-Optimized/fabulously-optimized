@@ -9,6 +9,8 @@ from_file = input("Please drag the Curseforge zip file here: ")[2:] # Because dr
 os.system(exe_path + " curseforge import " + from_file) # TODO: something's wrong here, packwiz claims there are two arguments
 os.system(exe_path + " remove hydrogen")
 os.system(exe_path + " mr install hydrogen")
+os.system(exe_path + " remove indium")
+os.system(exe_path + " mr install indium")
 os.system(exe_path +" refresh")
 
 # TODO: Update Modrinth json
