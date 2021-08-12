@@ -56,7 +56,6 @@ List of mods as of 2.1.0-beta.3 are below. Crossed out ones are not yet updated 
 * [~~Colormatic~~](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine custom colors support, clear skies and clear void options
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds fancy animations to the menus and containers, optional FPS counter
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by Pepper_Bell - fixes transparent gaps in held items
-* [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) by Setadokalo - lets you customize the fog distance and density
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) by ramidzkh - lets you take a high-res screenshot (press F9)
 
 ### Functional
