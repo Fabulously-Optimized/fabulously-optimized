@@ -30,7 +30,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). Starting with 2.0, the modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.1.0-beta.1 are below. Crossed out ones are not yet updated to 1.17.1; for a stable 1.16.5 list, please [see the Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
+List of mods as of 2.1.0-beta.3 are below. Crossed out ones are not yet updated to 1.17.1; for a stable 1.16.5 list, please [see the Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
@@ -39,8 +39,7 @@ List of mods as of 2.1.0-beta.1 are below. Crossed out ones are not yet updated 
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [EntityCulling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall, useful in large servers and mobfarms
-* [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) by fake_domi - makes chest rendering less intensive (more FPS on chest rooms!)
-* [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) by Motschen - makes bed rendering less intensive (more FPS on villager farms!)
+* [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) by FoundationGames - makes beds, chests, signs, bells render more smoothly
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) by tuxed - makes the game startup faster
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) by UltimateBoomer - makes game startup and resourcepack switch faster by removing fade animations
 * [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) by UltimateBoomer - improves the overall responsiveness of the game (aka less likely to freeze)
@@ -48,7 +47,8 @@ List of mods as of 2.1.0-beta.1 are below. Crossed out ones are not yet updated 
 * [~~Smooth Scrolling Everywhere~~](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) by shedaniel - makes the scrolling smooth on various menus
 
 ### Pretty
-* [~~Iris Shaders~~](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by coderbot - adds support for Optifine shaders
+* [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by coderbot - adds support for Optifine shaders
+* [Indium](https://modrinth.com/mod/indium)¹ by comp500 - adds support for Rendering API (more parity mods)
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) by FlashyReese - adds many toggles to Sodium settings: animations, particles, weather, FPS indicator and more
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) by LambdAurora - lets you light up the area by holding a torch, lights up TNT and creeper flashing
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) by VictorKohler - shows Optifine's and other custom capes in-game, see "I want a cape!" above
