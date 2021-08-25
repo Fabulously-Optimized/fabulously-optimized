@@ -8,9 +8,22 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.1.0-beta.4
+
+Added
+* LambdaBetterGrass (Optifine's "better grass"!)
+* CustomEntityModels and CompleteConfig (Optifine's custom entity models, in alpha though)
+* Colormatic (water/biome colors, FO 1.9.1 parity)
+* FastChest and Better Beds (were removed in the previous beta)
+
+Removed
+* Enhanced Block Entities (postponing the addition due to mod compatibility bugs)
+
+Updated mods: FerriteCore, Mod Menu, Fabric API, Architectury API
+
 ### 2.1.0-beta.3
 
-It's time to test Indium! Please let me know how it goes: https://strawpoll.com/d169oq4g9
+It's time to test Indium! Please let me know how it goes: [the poll has ended]
 
 Changes from beta 2
 * Added Indium (rendering API, allows for more parity mods in the future)

@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Fabulously Optimized",
-  "version": "2.1.0-beta.2",
+  "version": "2.1.0-beta.4",
   "author": "robotkoer",
   "files": [
     {
@@ -21,12 +21,17 @@
     },
     {
       "projectID": 319057,
-      "fileID": 3329246,
+      "fileID": 3413206,
       "required": true
     },
     {
       "projectID": 448233,
       "fileID": 3388827,
+      "required": true
+    },
+    {
+      "projectID": 325092,
+      "fileID": 3436738,
       "required": true
     },
     {
@@ -36,7 +41,7 @@
     },
     {
       "projectID": 419697,
-      "fileID": 3385669,
+      "fileID": 3436837,
       "required": true
     },
     {
@@ -56,12 +61,12 @@
     },
     {
       "projectID": 393442,
-      "fileID": 3348967,
+      "fileID": 3409038,
       "required": true
     },
     {
       "projectID": 306612,
-      "fileID": 3398557,
+      "fileID": 3438063,
       "required": true
     },
     {
@@ -70,13 +75,18 @@
       "required": true
     },
     {
+      "projectID": 335493,
+      "fileID": 3419561,
+      "required": true
+    },
+    {
       "projectID": 349630,
       "fileID": 3379128,
       "required": true
     },
     {
-      "projectID": 335493,
-      "fileID": 3356224,
+      "projectID": 381257,
+      "fileID": 3395949,
       "required": true
     },
     {
@@ -91,7 +101,7 @@
     },
     {
       "projectID": 308702,
-      "fileID": 3400185,
+      "fileID": 3431313,
       "required": true
     },
     {
@@ -101,7 +111,12 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3373736,
+      "fileID": 3435174,
+      "required": true
+    },
+    {
+      "projectID": 477078,
+      "fileID": 3424444,
       "required": true
     },
     {
@@ -131,7 +146,7 @@
     },
     {
       "projectID": 408481,
-      "fileID": 3373447,
+      "fileID": 3420209,
       "required": true
     },
     {
@@ -145,13 +160,13 @@
       "required": true
     },
     {
-      "projectID": 398774,
-      "fileID": 3383929,
+      "projectID": 353890,
+      "fileID": 3357144,
       "required": true
     },
     {
-      "projectID": 353890,
-      "fileID": 3357144,
+      "projectID": 400322,
+      "fileID": 3436762,
       "required": true
     }
   ],

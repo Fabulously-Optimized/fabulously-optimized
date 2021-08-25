@@ -32,7 +32,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). Starting with 2.0, the modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.1.0-beta.3 are below. Crossed out ones are not yet updated to 1.17.1; for a stable 1.16.5 list, please [see the Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
+List of mods as of 2.1.0-beta.4 are below. Crossed out ones are not yet updated to 1.17.1; for a stable 1.16.5 list, please [see the Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
@@ -41,7 +41,8 @@ List of mods as of 2.1.0-beta.3 are below. Crossed out ones are not yet updated 
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [EntityCulling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall, useful in large servers and mobfarms
-* [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) by FoundationGames - makes beds, chests, signs, bells render more smoothly
+* [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) by fake_domi - makes chest rendering less intensive (more FPS on chest rooms!)
+* [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) by Motschen - makes bed rendering less intensive (more FPS on villager farms!)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) by tuxed - makes the game startup faster
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) by UltimateBoomer - makes game startup and resourcepack switch faster by removing fade animations
 * [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) by UltimateBoomer - improves the overall responsiveness of the game (aka less likely to freeze)
@@ -50,13 +51,14 @@ List of mods as of 2.1.0-beta.3 are below. Crossed out ones are not yet updated 
 
 ### Pretty
 * [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by coderbot - adds support for Optifine shaders
-* [Indium](https://modrinth.com/mod/indium)¹ by comp500 - adds support for Rendering API (more parity mods)
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) by FlashyReese - adds many toggles to Sodium settings: animations, particles, weather, FPS indicator and more
+* [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) by LambdAurora - adds Optifine's "better grass"
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) by LambdAurora - lets you light up the area by holding a torch, lights up TNT and creeper flashing
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) by VictorKohler - shows Optifine's and other custom capes in-game, see "I want a cape!" above
-* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - optionally makes fancy leaves more see-through, which could improve FPS (enable in mod settings)
-* [~~Colormatic~~](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine custom colors support, clear skies and clear void options
-* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds fancy animations to the menus and containers, optional FPS counter
+* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - Optifine's "smart leaves": makes fancy leaves more see-through for better FPS
+* [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine's custom colors, clear skies and clear void options
+* [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds support for Optifine's custom entity models, currently in alpha though
+* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds fancy animations to the menus and containers and some opt-in features
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by Pepper_Bell - fixes transparent gaps in held items
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) by ramidzkh - lets you take a high-res screenshot (press F9)
 
@@ -67,6 +69,7 @@ List of mods as of 2.1.0-beta.3 are below. Crossed out ones are not yet updated 
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) by TerraformersMC - gives you the list of mods and lets you adjust their configuration
 * [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) by NatanFudge - lets you play after a crash and report it comfortably
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by modmuss50 - makes most mods work
+* [Indium](https://modrinth.com/mod/indium)¹ by comp500 - adds support for Rendering API (more parity mods)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by shedaniel - makes many mods' config work
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) by shedaniel - makes some mods work
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) by shedaniel - makes some mods work

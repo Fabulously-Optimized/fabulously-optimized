@@ -6,23 +6,35 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "938992c1cb7c6e3c4f1648fd62180369ecebce8e4f760103c669d64068b86fd8"
+hash = "6ffa0a190885025408933e1840ec8b69a75be595084dfb4886c2a0682774998b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "94f7fc7719381bc6e474b6df30840d2aab0e8c4ed80d2f6191cf1b5b7d92be3f"
 
 [[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "99ecb0cc231f75abd0e0cfb6ebcfae0fa407c1dab9956587c1792d45e715b6c7"
+
+[[files]]
+file = "config/yosbr/config/colormatic.properties"
+hash = "e0dfdbd6f39f1fc0a92b3fd18c981d20953e681f56eec736038f8940afa20d72"
+
+[[files]]
 file = "config/yosbr/config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "e42fee94019c7beaa0ea8bd7d43e0ea7b8157743b287bb233b46967e8e7cc17c"
+file = "config/yosbr/config/fast-chest.properties"
+hash = "8ac2210266a3499133d3647a1f74de90f24cf3c2575356b9261221c9af3c5a43"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "1e4a1dddf8891e81dfac8837220705757874be3fb7009f05dcf4e983e3d925b8"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -55,7 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "450a5365f688ee5aecd9b0634f3a524ce77043e7052fbd4699fd636fc7b57b74"
+hash = "096d8ef6d0b345bb8e421a81ac09cbef0c813068d51f5eab1aa12750d78cde26"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.toml"
+hash = "4fa984638eb4487db00d51a52aa07e1b2d11ab41ebe850d7f40a5e653860e173"
 metafile = true
 
 [[files]]
@@ -74,23 +91,28 @@ hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "e9d8579b5f5bbada114982ea16c3f9b8f604d3875f1551752d3146cd726aa2ff"
+metafile = true
+
+[[files]]
+file = "mods/completeconfig.toml"
+hash = "a450488178229b6499551890f991c99b1042d17baeaa3aad33890a1077ac14cc"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
 hash = "2a6f497eef785ffc2a377c12d1d20d5d6e18ed77db44c69eb597a34dbf364e9e"
 metafile = true
 
 [[files]]
-file = "mods/custom-fog.toml"
-hash = "e8a43dcad6edfe204d746857534cf96cb8f99a79efd43484f543d171a7971929"
+file = "mods/custom-entity-models-cem.toml"
+hash = "cf2846bc3171471ea3fccf5c60fd7a48b07a7a1f11e7034548ee3f6fba75c76d"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-block-entities.toml"
-hash = "87bf3d05583ad46e052aecb77aaf10741fb87b6d430c67b4072ee90537ae212d"
 metafile = true
 
 [[files]]
@@ -100,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "2e5caac2cea653503eb04e3eede6d9cadae90435f9a1d51a8cde8f1c88883e91"
+hash = "02847dab3ca1b3078c7c4a78f9576cdd915ee25654f7a6fab9bbe356c048ca21"
 metafile = true
 
 [[files]]
@@ -114,8 +136,13 @@ hash = "9131713b5dd19789c6d25cf7e10a787e4454f1b9b958b1854746f9d3a72782a8"
 metafile = true
 
 [[files]]
+file = "mods/fastchest.toml"
+hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.toml"
-hash = "10c88c45c2759a2b33a072de8336a39f7ef16b23a1c5d1ae30ae484ff6490b12"
+hash = "ef41380ef2612b9d2b0c2aa81e10d13a8116a956f8e67de96c3115619562520c"
 metafile = true
 
 [[files]]
@@ -139,6 +166,11 @@ hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "83cd473f679ee67f828d7660f8c546d04744c7a79a43bfd7c039e73eb3d5e45e"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "d1b7566f8022927583b3a112c30a9867d9d9e7f6736cd06ec30eebbb57fbdc55"
 metafile = true
@@ -155,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "9d23a4a8b3f3c53dd0c09691a896a4195fcae17a2d8b2ec42e3bccbe5fcaf60c"
+hash = "5be0024e7a145dce7e9452c6a5a8f829b3a933fee665c9d445904b16cf862920"
 metafile = true
 
 [[files]]
