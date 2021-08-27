@@ -40,7 +40,7 @@ List of mods as of 2.1.0-beta.4 are below. Crossed out ones are not yet updated 
 * [~~Phosphor~~](https://www.curseforge.com/minecraft/mc-mods/phosphor) by CaffeineMC - optimizes light rendering
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
-* [EntityCulling Fabric/Forge](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall, useful in large servers and mobfarms
+* [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall, useful in large servers and mobfarms
 * [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) by fake_domi - makes chest rendering less intensive (more FPS on chest rooms!)
 * [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) by Motschen - makes bed rendering less intensive (more FPS on villager farms!)
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) by tuxed - makes the game startup faster
@@ -71,11 +71,12 @@ List of mods as of 2.1.0-beta.4 are below. Crossed out ones are not yet updated 
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by modmuss50 - makes most mods work
 * [Indium](https://modrinth.com/mod/indium)¹ by comp500 - adds support for Rendering API (more parity mods)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by shedaniel - makes many mods' config work
+* [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by lortseam_ - makes some mods' config work
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) by shedaniel - makes some mods work
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) by shedaniel - makes some mods work
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) by modmuss50 - makes some mods work
 
-¹ The mod is not from Curseforge, but the license and Curseforge allow usage in modpacks
+¹ The mod is not from Curseforge, but the [license and Curseforge allow usage in modpacks](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Help
 
