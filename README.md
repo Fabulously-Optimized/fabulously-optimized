@@ -23,7 +23,7 @@ Not sure which edition is the right one for you? Check this handy table!
 | Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ❌ | ❓ |
 | Easy mod management | ✅ | ➖ | ❌ | ✅ | ❌ | ❓ |
 | Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ❓ |
-| Supports mod developers | ✅ | ✅ | ❓ | ➖ | ✅ | ❓ |
+| Supports mod developers | ✅ | ✅ | ❓ | ❓ | ✅ | ❓ |
 
 ## Reviews
 
