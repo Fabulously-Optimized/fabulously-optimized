@@ -4,11 +4,14 @@ A simple modpack for people who are used to having Forge and OptiFine and are cu
 
 The pack only adds performance and graphics enhancements to the client, so **it works on every world and server**.
 
-**[Download from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)** - supports Curseforge, MultiMC, GDLauncher and vanilla launcher*.
+## Downloads
 
-[Auto-updating MultiMC pack](https://github.com/Madis0/fabulously-optimized/releases/download/v2.1.0a1/Fabulously.Optimized.MultiMC.auto-update.zip) [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack)
+* **[Download from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized)** - supports Curseforge, MultiMC, GDLauncher and vanilla launcher.
+* Auto-updating MultiMC pack: [1.17.1](https://github.com/Madis0/fabulously-optimized/releases/download/v2.1.0a1/Fabulously.Optimized.MultiMC.auto-update.zip) [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack)
+* ~~Modrinth~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
+* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 
-*For vanilla, download the MultiMC variant and unpack manually.
+[Install instructions](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions)
 
 ## Reviews
 
