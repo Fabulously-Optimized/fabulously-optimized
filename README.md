@@ -13,6 +13,18 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [Install instructions](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions)
 
+Not sure which edition is the right one for you? Check this handy table!
+| Feature/Edition | Curseforge | MultiMC | MultiMC (auto-update) | GDLauncher | Vanilla | Modrinth |
+|---|---|---|---|---|---|---|
+| Pack download | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Madis0/fabulously-optimized#downloads) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [❌](https://github.com/Madis0/fabulously-optimized/issues/63) |
+| Launcher download | [⬇️](https://download.curseforge.com) | [⬇️](https://multimc.org) | [⬇️](https://multimc.org) | [⬇️](https://gdevs.io) | [⬇️](https://www.minecraft.net/en-us/download) | ❌ |
+| Easy install | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#curseforge-launcher) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc-auto-updatec) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher) | ❓ |
+| Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ❌ | ❓ |
+| Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ❌ | ❓ |
+| Easy mod management | ✅ | ➖ | ❌ | ✅ | ❌ | ❓ |
+| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ❓ |
+| Supports mod developers | ✅ | ✅ | ❓ | ➖ | ✅ | ❓ |
+
 ## Reviews
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
