@@ -21,7 +21,7 @@ Not sure which edition is the right one for you? Check this handy table!
 | Easy install | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#curseforge-launcher) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc-auto-updatec) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher) | ❓ |
 | Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ❌ | ❓ |
 | Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ❌ | ❓ |
-| Easy mod management | ✅ | ➖ | ❌ | ✅ | ❌ | ❓ |
+| Add mods with few clicks | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#curseforge-launcher-minecraft-117xfo-2xx) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#minecraft-launcher-vanilla) | ❓ |
 | Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ❓ |
 | Supports mod developers | ✅ | ✅ | ❓ | ❓ | ✅ | ❓ |
 
