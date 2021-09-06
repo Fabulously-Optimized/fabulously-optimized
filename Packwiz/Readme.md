@@ -11,7 +11,7 @@ The best way to update it for Fabulously Optimized is to just create a CF pack a
 .\packwiz.exe refresh
 ```
 
-After that it is possible to just use the MultiMC pack created in MultiMC-Packwiz, instructions are in the Packwiz repo.
+After that it is possible to just use the MultiMC pack created in MultiMC-Packwiz, instructions are in the Packwiz repo. Because Packwiz cannot upgrade the MC, the modpack versions are foldered by Minecraft versions (always latest for the version).
 
 Requirements:
 

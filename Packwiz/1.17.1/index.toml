@@ -6,7 +6,7 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "6ffa0a190885025408933e1840ec8b69a75be595084dfb4886c2a0682774998b"
+hash = "eb76d89d748874878f2fc95c5aee4973bd4e29e2dbafff7b61e2e48e6d78d32b"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -30,7 +30,7 @@ hash = "8ac2210266a3499133d3647a1f74de90f24cf3c2575356b9261221c9af3c5a43"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "1e4a1dddf8891e81dfac8837220705757874be3fb7009f05dcf4e983e3d925b8"
+hash = "67a031c7e7c187bf7b93db9d7419e0c9b01fefecaf1e54f408b16fb9d7fc57c0"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
@@ -50,15 +50,20 @@ hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "f672e48f6f1d935f691cad4f8e1a17fff608288838ea6c50b592c0889281b29c"
+hash = "120fa73cd1bc43ef382877ba62fc193254903aa60695ec712e74da61b9e6f623"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "b3d937324906eeec068c3335061167c85694a869a9f6c5cd5800b64b08c05201"
+hash = "da96724c0a83a2cc08511b438349ab27820871f14a388006c999ac9848d20074"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "07cd64bbec9a770ef7075c7b59f8d87b960e81e7e62859788b4f7dd1d288ea59"
+
+[[files]]
+file = "mods/advancementinfo.toml"
+hash = "4bdd914cc09497cbfa0122dab0f888f4bfd8d144a394db1746a592c95667fba7"
+metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
@@ -67,12 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "096d8ef6d0b345bb8e421a81ac09cbef0c813068d51f5eab1aa12750d78cde26"
+hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
 metafile = true
 
 [[files]]
 file = "mods/better-beds.toml"
 hash = "4fa984638eb4487db00d51a52aa07e1b2d11ab41ebe850d7f40a5e653860e173"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.toml"
+hash = "305f28a2361765477b348ac3d034053808bce0ab2989873a1ddd9c35ce455b45"
 metafile = true
 
 [[files]]
@@ -107,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "cf2846bc3171471ea3fccf5c60fd7a48b07a7a1f11e7034548ee3f6fba75c76d"
+hash = "993aebad8c508712972999680cb2356bd3e435602535214f81ad2f2d8448fc8d"
 metafile = true
 
 [[files]]
@@ -122,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "02847dab3ca1b3078c7c4a78f9576cdd915ee25654f7a6fab9bbe356c048ca21"
+hash = "c5797709859b36f2dcf6d5a97bfe618cf43ee2594f5bfe2ff71bb04ec066c13c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "b5313c60b6902deb5c1e661afc5d3d5665d4843c2372a21f29b63bf654f0966b"
+hash = "9dddeb714e7d413746bafd35c5b58ebec4c30d8934ff3763dd4c00e5ff359fa6"
 metafile = true
 
 [[files]]
@@ -157,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "007001d49debdf85558e7120e85a99d0779f7c42ed9d257427e7e5c28e721d37"
+hash = "2e964d2fbfe404b4e49147392c84106f0c49ad35fc7032bed186d0ee7737138e"
 metafile = true
 
 [[files]]
@@ -182,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "46408112d0ccc74c86e2eb931d07d083a56aee3114deb994ed1ef14dd0af19a2"
+hash = "290f25ecb199d3010dd5fa5ce6e148577766e0a362129cfa5de6250bfe2702d1"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "5be0024e7a145dce7e9452c6a5a8f829b3a933fee665c9d445904b16cf862920"
+hash = "0e814f4b1e2796c9fcf55508c3b7eaac178ad6e28e6133d98c38870fdc6a1cca"
 metafile = true
 
 [[files]]
@@ -197,7 +207,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "d39a9a66dfa4c570242aadc9a935ad1217572780508a414cb1a59cfc4d1e81a9"
+hash = "263a290dca36800daf25c633c5076223ce8d624d13edda78c5ea5fe550d03252"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "a609236c4f7cbb215561d06fe823c4ef70990f17ecf29509bfc95b4260e1834f"
 metafile = true
 
 [[files]]
@@ -212,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "98c21b4feb5984a2650d322530c077d7ef59c0ab59d03392c8a6f284ffcef3d4"
+hash = "65d33478598a3451a2dab51b5e0ffdc0d7cc4682d731788017177419c2859e5f"
 metafile = true
 
 [[files]]

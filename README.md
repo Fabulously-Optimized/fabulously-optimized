@@ -45,14 +45,13 @@ Not sure which edition is the right one for you? Check this handy table!
 
 ## Included mods
 
-The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). Starting with 2.0, the modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
+The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.1.0-beta.4 are below. Crossed out ones are not yet updated to 1.17.1; for a stable 1.16.5 list, please [see the Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
+List of mods as of 2.1.0 are below.
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) by CaffeineMC - optimizes game physics and chunk loading
-* [~~Phosphor~~](https://www.curseforge.com/minecraft/mc-mods/phosphor) by CaffeineMC - optimizes light rendering
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall, useful in large servers and mobfarms
@@ -62,17 +61,19 @@ List of mods as of 2.1.0-beta.4 are below. Crossed out ones are not yet updated 
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) by UltimateBoomer - makes game startup and resourcepack switch faster by removing fade animations
 * [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) by UltimateBoomer - improves the overall responsiveness of the game (aka less likely to freeze)
 * [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) by juliand665 - renders Minecraft slower if it is in the background to save RAM
-* [~~Smooth Scrolling Everywhere~~](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) by shedaniel - makes the scrolling smooth on various menus
 
 ### Pretty
-* [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by coderbot - adds support for Optifine shaders
+* [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) by coderbot - adds support for Optifine shaders, [recommended ones are listed here](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now)
 * [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) by FlashyReese - adds many toggles to Sodium settings: animations, particles, weather, FPS indicator and more
+* [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) by FlashyReese - makes Sodium settings vertical, centered and scrollable
 * [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) by LambdAurora - adds Optifine's "better grass"
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) by LambdAurora - lets you light up the area by holding a torch, lights up TNT and creeper flashing
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) by VictorKohler - shows Optifine's and other custom capes in-game, see "I want a cape!" above
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - Optifine's "smart leaves": makes fancy leaves more see-through for better FPS
 * [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine's custom colors, clear skies and clear void options
-* [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds support for Optifine's custom entity models, currently in alpha though
+* [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds support for Optifine's custom entity models (partial support, [see mod description](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem))
+* [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) by Giserbaer - makes the advancement screen bigger, adds a requirement list and search bar
+* [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) by Lortseam_ - horse health and your food are displayed at the same time, jump bar appears when jumping
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds fancy animations to the menus and containers and some opt-in features
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by Pepper_Bell - fixes transparent gaps in held items
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) by ramidzkh - lets you take a high-res screenshot (press F9)

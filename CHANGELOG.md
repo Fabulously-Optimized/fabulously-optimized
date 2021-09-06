@@ -8,6 +8,44 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.1.0
+
+It is time to finally release Fabulously Optimized for Minecraft 1.17.1! Here are the major updates from 1.9.1 to 2.1.0:
+
+### New mods
+
+* **Iris** - Optifine shaders! [See here](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now) for the recommended ones.
+* **LambdaBetterGrass** - Optifine's "better grass"!
+* **CustomEntityModels** - Optifine's custom entity models (partial support, see mod description)
+* **AdvancementInfo** - bigger and more detailed advancement screen
+* **Better Mount HUD** - improves the HUD while riding a horse, like in Bedrock Edition
+* **Reese's Sodium Options** - makes the graphics settings vertical to make sure all options fit and look good
+* **WI Zoom** - a simple, scrollable zoom mod 
+* **Indium** - adds Rendering API to Sodium, which makes some important parity mods work 
+* **YOSBR** - keeps your settings across modpack updates
+
+### Removed mods
+
+* **Ok Zoomer** - servers can now disable or limit your zoom, I think *you* should be in charge of that
+* **Custom Fog** - Sodium Extra now provides a simpler fog management experience
+* **Smooth Scrolling Everywhere** - seems to be abandoned
+* **Phosphor** - not yet updated
+
+### Other changes
+
+* New default options [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options)
+* Curseforge pack is now 100% Fabric (faster launch and better mod management)
+* An auto-updating MultiMC pack is available on GitHub
+* Now using semantic versioning
+* All mods updated
+* For more changes between alpha and beta versions, see the changelog
+
+### Changes from beta 4 to release
+
+* Added AdvancementInfo, Better Mount HUD, Reese's Sodium Options
+* MultiMC (auto-update) is now split by version for future-proofing, please re-download if you use it
+* Updated Iris+Sodium, Lithium, Sodium Extra, Custom Entity Models, Not Enough Crashes, Mod Menu, Fabric API, Fabric Language Kotlin, Architectury API
+
 ### 2.1.0-beta.4
 
 Added
