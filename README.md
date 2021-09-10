@@ -14,7 +14,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 [Install instructions](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions)
 
 Not sure which edition is the right one for you? Check this handy table!
-| Feature/Edition | Curseforge | MultiMC | MultiMC (auto-update) | GDLauncher | Vanilla¹ | Modrinth¹ |
+| Feature/Edition | Curseforge | MultiMC | MultiMC (auto-update) | GDLauncher | Vanilla | Modrinth |
 |---|---|---|---|---|---|---|
 | Pack download | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Madis0/fabulously-optimized#downloads) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher) | [❌](https://github.com/Madis0/fabulously-optimized/issues/63) |
 | Launcher download | [⬇️](https://download.curseforge.com) | [⬇️](https://multimc.org) | [⬇️](https://multimc.org) | [⬇️](https://gdevs.io) | [⬇️](https://www.minecraft.net/en-us/download) | ❌ |
@@ -24,7 +24,7 @@ Not sure which edition is the right one for you? Check this handy table!
 | Add mods with few clicks | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#curseforge-launcher-minecraft-117xfo-2xx) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#minecraft-launcher-vanilla) | ❓ |
 | Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ❓ |
 | Supports mod developers | ✅ | ✅ | ❓ | ❓ | ✅ | ❓ |
-¹ Not implemented yet
+
 ## Reviews
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
@@ -52,7 +52,7 @@ List of mods as of 2.1.0 are below.
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) by CaffeineMC - optimizes game physics and chunk loading
-* [Hydrogen](https://modrinth.com/mod/hydrogen)² by CaffeineMC - reduces RAM usage
+* [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall, useful in large servers and mobfarms
 * [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) by fake_domi - makes chest rendering less intensive (more FPS on chest rooms!)
@@ -92,7 +92,7 @@ List of mods as of 2.1.0 are below.
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) by shedaniel - makes some mods work
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) by modmuss50 - makes some mods work
 
-² The mod is not from Curseforge, but the [license and Curseforge allow usage in modpacks](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+¹ The mod is not from Curseforge, but the [license and Curseforge allow usage in modpacks](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Help
 
