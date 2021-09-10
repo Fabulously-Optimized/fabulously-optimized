@@ -23,7 +23,7 @@ body:
 - type: textarea
   attributes:
     label: Other links
-    description: E.g. Github or Modrinth. Optional.
+    description: E.g. GitHub or Modrinth. Optional.
   validations:
     required: false
 
