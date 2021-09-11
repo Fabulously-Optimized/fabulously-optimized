@@ -9,7 +9,7 @@
     "use_entity_culling": true,
     "use_particle_culling": true,
     "use_fog_occlusion": true,
-    "use_block_face_culling": true,
+    "use_block_face_culling": false,
     "allow_direct_memory_access": true,
     "enable_memory_tracing": false,
     "use_advanced_staging_buffers": true,

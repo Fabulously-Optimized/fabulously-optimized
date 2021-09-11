@@ -8,6 +8,12 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.1.1
+
+* Temporary fix for first launch crash
+* Fixed tree leaves glitching (thanks, Altirix!) 
+* Updated Fabric API
+
 ### 2.1.0
 
 It is time to finally release Fabulously Optimized for Minecraft 1.17.1! Here are the major updates from 1.9.1 to 2.1.0:
