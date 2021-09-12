@@ -74,13 +74,13 @@ List of mods as of 2.1.0 are below.
 * [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds support for Optifine's custom entity models (partial support, [see mod description](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem))
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) by Giserbaer - makes the advancement screen bigger, adds a requirement list and search bar
 * [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) by Lortseam_ - horse health and your food are displayed at the same time, jump bar appears when jumping
-* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds fancy animations to the menus and containers and some opt-in features
+* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds toast animations and FO text in main menu, plus several opt-in features
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by Pepper_Bell - fixes transparent gaps in held items
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) by ramidzkh - lets you take a high-res screenshot (press F9)
 
 ### Functional
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) by alexander9892 - adds a scrollable zoom feature
-* [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) by Giselbaer - if you see glitching blocks, type /ghost to fix
+* [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) by Giselbaer - if you see glitching blocks, type /ghost to fix (note: may have bad effects if you use it too often)
 * [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) by shedaniel - keeps your mod settings and vanilla settings when updating the modpack
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) by TerraformersMC - gives you the list of mods and lets you adjust their configuration
 * [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) by NatanFudge - lets you play after a crash and report it comfortably
