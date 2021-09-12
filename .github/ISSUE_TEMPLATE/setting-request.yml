@@ -21,13 +21,6 @@ body:
     description: How can the change benefit everyone while keeping the experience "vanilla-like"?
   validations:
     required: true
-    
-- type: textarea
-  attributes:
-    label: Technical aspects of the change
-    description: If you know, copy the exact line of a config file you want me to change, tell me what to change it to and what file is it in. Optional.
-  validations:
-    required: false
 
 - type: dropdown
   attributes:
