@@ -29,6 +29,8 @@ Not sure which edition is the right one for you? Check this handy table!
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
+[Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
+
 [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
 
 [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
