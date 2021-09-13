@@ -69,7 +69,7 @@ List of mods as of 2.1.0 are below.
 * [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) by LambdAurora - adds Optifine's "better grass"
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) by LambdAurora - lets you light up the area by holding a torch, lights up TNT and creeper flashing
 * [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) by VictorKohler - shows Optifine's and other custom capes in-game, see "I want a cape!" above
-* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - Optifine's "smart leaves": makes fancy leaves more see-through for better FPS
+* [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - Optifine's "smart trees": makes fancy leaves more see-through for better FPS
 * [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine's custom colors, clear skies and clear void options
 * [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds support for Optifine's custom entity models (partial support, [see mod description](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem))
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) by Giserbaer - makes the advancement screen bigger, adds a requirement list and search bar
