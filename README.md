@@ -29,21 +29,14 @@ Not sure which edition is the right one for you? Check this handy table!
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
-[Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
-
-[Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
-
-[Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
-
-[Review](https://www.youtube.com/watch?v=HfsoF4l5bck) by Nibot99
-
-[Gameplay](https://youtu.be/ggCGrlMLOEc?t=110) by Just Oj
-
-[Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
-
-[Old review](https://www.youtube.com/watch?v=YQyDNc7aGBs) by Niche Duck
-
-[Chunk smoothness showcase](https://www.youtube.com/watch?v=FEdt1lQsJDo) by Kogasa
+* [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
+* [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
+* [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
+* [Review](https://www.youtube.com/watch?v=HfsoF4l5bck) by Nibot99
+* [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
+* [Loud gameplay](https://youtu.be/ggCGrlMLOEc?t=110) by Just Oj
+* [Old review](https://www.youtube.com/watch?v=YQyDNc7aGBs) by Niche Duck
+* [Chunk smoothness showcase](https://www.youtube.com/watch?v=FEdt1lQsJDo) by Kogasa
 
 ## Included mods
 
