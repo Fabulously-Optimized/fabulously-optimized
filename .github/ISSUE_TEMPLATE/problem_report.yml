@@ -45,7 +45,7 @@ body:
   attributes:
     label: Modpack version
     description: What version of the modpack are you using?
-    placeholder: "Latest" is not a version
+    placeholder: Latest is not a version
   validations:
     required: true
 
