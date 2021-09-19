@@ -6,6 +6,7 @@ cf_path = user_path + "/curseforge/minecraft/Instances/Fabulously Optimized/"
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized 2.0.0b1/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
 version_no = "1.17.1"
+pw_path = git_path + "Packwiz/" + version_no
 
 # Functions
 
@@ -51,6 +52,6 @@ copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "Cur
 
 copy_file(cf_path + "manifest.json", git_path + "Curseforge/manifest.json", "Curseforge manifest.json", "Git")
 copy_file(cf_path + "modlist.html", git_path + "Curseforge/modlist.html", "Curseforge modlist.html", "Git")
-remove_dir(git_path + "Packwiz/" + version_no + "/config/", "Packwiz configs in Git")
-copy_dir(cf_path + "config/", git_path + "Packwiz/" + version_no + "/config/", "Curseforge configs", "Git (Packwiz)")
-copy_dir(cf_path + "resourcepacks/", git_path + "Packwiz/" + version_no + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")
+remove_dir(pw_path + "/config/", "Packwiz configs in Git")
+copy_dir(cf_path + "config/", pw_path + "/config/", "Curseforge configs", "Git (Packwiz)")
+copy_dir(cf_path + "resourcepacks/", pw_path + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")
