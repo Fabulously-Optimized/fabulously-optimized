@@ -3,9 +3,9 @@ import os
 user_path = os.path.expanduser("~")
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
 exe_path = "packwiz.exe"
-version = input("Please enter the Minecraft version: ")
-packwiz_path = git_path + "Packwiz"
-mods_path = packwiz_path + "/" + version + "/mods"
+version_no = "1.17.1"
+packwiz_path = git_path + "Packwiz/"
+mods_path = packwiz_path + version_no + "/mods"
 
 mod_files = os.listdir(mods_path)
 for item in mod_files:

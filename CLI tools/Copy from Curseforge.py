@@ -5,6 +5,7 @@ user_path = os.path.expanduser("~")
 cf_path = user_path + "/curseforge/minecraft/Instances/Fabulously Optimized/"
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized 2.0.0b1/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
+version_no = "1.17.1"
 
 # Functions
 
@@ -41,12 +42,15 @@ def copy_file(from_path, to_path, from_desc, to_desc):
 remove_dir(mmc_path + "minecraft/config/", "MultiMC configs")
 remove_file(mmc_path + "minecraft/options.txt", "MultiMC options.txt")
 remove_dir(mmc_path + "minecraft/mods/", "MultiMC mods")
+remove_dir(mmc_path + "minecraft/resourcepacks/", "MultiMC resourcepacks")
 copy_dir(cf_path + "config/", mmc_path + "minecraft/config/", "Curseforge configs", "MultiMC")
 copy_dir(cf_path + "mods/", mmc_path + "minecraft/mods/", "Curseforge mods", "MultiMC")
+copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "Curseforge resource packs", "MultiMC")
 
 # Curseforge to Git 
 
 copy_file(cf_path + "manifest.json", git_path + "Curseforge/manifest.json", "Curseforge manifest.json", "Git")
 copy_file(cf_path + "modlist.html", git_path + "Curseforge/modlist.html", "Curseforge modlist.html", "Git")
-remove_dir(git_path + "Packwiz/config/", "Packwiz configs in Git")
-copy_dir(cf_path + "config/", git_path + "Packwiz/config/", "Curseforge configs", "Git (Packwiz)")
+remove_dir(git_path + "Packwiz/" + version_no + "/config/", "Packwiz configs in Git")
+copy_dir(cf_path + "config/", git_path + "Packwiz/" + version_no + "/config/", "Curseforge configs", "Git (Packwiz)")
+copy_dir(cf_path + "resourcepacks/", git_path + "Packwiz/" + version_no + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")
