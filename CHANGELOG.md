@@ -8,6 +8,34 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.2.0
+
+New mods, new Mod Menu style and a new Discord server! https://discord.gg/yxaXtaQqdB
+
+New mods
+
+* **Continuity** - Optifine's connected textures!
+* **CIT Resewn** - Optifine's custom items!
+* **Enhanced Block Entities** - makes chests, signs, beds etc. render faster
+* **More Chat History** - increases chat history limit
+* **Don't Clear Chat History** - keeps your written message log across worlds
+* **Language Reload** - makes language switching instant
+* **LittleTweaks** - adds audio output menu (1.18 parity!)
+
+Removed mods
+
+* **FastChest** - replaced by Enhanced Block Entities
+* **Better Beds** - replaced by Enhanced Block Entities
+
+Other stuff
+
+* Mod Menu now has a consistent list of mods' features and options (provided by a bundled resource pack)
+  * Hidden Fabric Language Kotlin and Indium from Mod Menu as they are just APIs
+  * Enabled children mod counting in Mod Menu (Sodium Extra and Reese's Sodium Options are now reflected)
+* Reverted vanilla's particle settings defaults as they are better managed in Sodium Extra's settings anyway
+* MultiMC and MultiMC auto-update now use Fabric's default Java arguments (smoother experience)
+* Updated Mod Menu, Not Enough Crashes
+
 ### 2.1.1
 
 * Temporary fix for first launch crash
@@ -18,7 +46,7 @@ Notes for all 1.17.1 releases:
 
 It is time to finally release Fabulously Optimized for Minecraft 1.17.1! Here are the major updates from 1.9.1 to 2.1.0:
 
-### New mods
+New mods
 
 * **Iris** - Optifine shaders! [See here](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now) for the recommended ones.
 * **LambdaBetterGrass** - Optifine's "better grass"!
@@ -30,14 +58,14 @@ It is time to finally release Fabulously Optimized for Minecraft 1.17.1! Here ar
 * **Indium** - adds Rendering API to Sodium, which makes some important parity mods work 
 * **YOSBR** - keeps your settings across modpack updates
 
-### Removed mods
+Removed mods
 
 * **Ok Zoomer** - servers can now disable or limit your zoom, I think *you* should be in charge of that
 * **Custom Fog** - Sodium Extra now provides a simpler fog management experience
 * **Smooth Scrolling Everywhere** - seems to be abandoned
 * **Phosphor** - not yet updated
 
-### Other changes
+Other changes
 
 * New default options [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options)
 * Curseforge pack is now 100% Fabric (faster launch and better mod management)

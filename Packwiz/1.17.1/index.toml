@@ -6,7 +6,7 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "32304ddce493696f58e524c7d290d229a4eca305c9a9333938657c3d8d7e01f0"
+hash = "9944bf0690939d7ec54283831ddfaeac1ccd5043fa290ce5fe41f1371cb01c74"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -21,16 +21,16 @@ file = "config/yosbr/config/cem.conf"
 hash = "99ecb0cc231f75abd0e0cfb6ebcfae0fa407c1dab9956587c1792d45e715b6c7"
 
 [[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
+
+[[files]]
 file = "config/yosbr/config/colormatic.properties"
 hash = "e0dfdbd6f39f1fc0a92b3fd18c981d20953e681f56eec736038f8940afa20d72"
 
 [[files]]
 file = "config/yosbr/config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
-
-[[files]]
-file = "config/yosbr/config/fast-chest.properties"
-hash = "8ac2210266a3499133d3647a1f74de90f24cf3c2575356b9261221c9af3c5a43"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -46,7 +46,7 @@ hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "c26bab6d48617e4a0056ae75cce7a46d97c938b08c809b3e62dab9c6cb2ef432"
+hash = "5988cb341ffbef4a3006a051cf030f0ef51d4e607a37296edc1d8fb4c749add1"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -62,7 +62,7 @@ hash = "7e597a01436a7da6f68b3456848ad6b6a000c0efad3e5c04d75249b1df170b18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "07cd64bbec9a770ef7075c7b59f8d87b960e81e7e62859788b4f7dd1d288ea59"
+hash = "d64a0f9fd54a9921ec10e574b6b161af6145d775b831e0f5f3ae8a47f29fe551"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -76,12 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.toml"
-hash = "4fa984638eb4487db00d51a52aa07e1b2d11ab41ebe850d7f40a5e653860e173"
+hash = "8afc72d1f763249c76208e1856ee6a9c6d86e916fc3cc429936fc64f4ead52e8"
 metafile = true
 
 [[files]]
@@ -92,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/capes.toml"
 hash = "3adc9339abe9872d3d0a7b2098f7efd1679203c204d06f4c34488a488a3d8215"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "8da96bd69dc1bef4b69eed84dd3b761becbb2035860a5b20a8e97d3223364319"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.toml"
-hash = "e9d8579b5f5bbada114982ea16c3f9b8f604d3875f1551752d3146cd726aa2ff"
+hash = "ed3b4fe8523e09ea329c0c25d11625cc025320feebd8137b1547ef6e9360f826"
 metafile = true
 
 [[files]]
@@ -115,8 +115,13 @@ hash = "a450488178229b6499551890f991c99b1042d17baeaa3aad33890a1077ac14cc"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "692d1cbb5e28320e8f3c1f774d8eab4b150b28bfb7146da952d7f637d333fe02"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
-hash = "2a6f497eef785ffc2a377c12d1d20d5d6e18ed77db44c69eb597a34dbf364e9e"
+hash = "75cdfbb1cfaa8bac7beb597532c62b37564276cfae88d3798abadf170685263f"
 metafile = true
 
 [[files]]
@@ -125,8 +130,18 @@ hash = "993aebad8c508712972999680cb2356bd3e435602535214f81ad2f2d8448fc8d"
 metafile = true
 
 [[files]]
+file = "mods/dont-clear-chat-history.toml"
+hash = "a1dcacb03cde9cfd48b0b0e0b8aaa73aa01e83db9eab39534a7c3f4697c28f11"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "2e14d066b2e67b3ee7573b364ea50c35c483fd57029079b94369a82f04fc3569"
 metafile = true
 
 [[files]]
@@ -147,11 +162,6 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.toml"
 hash = "9131713b5dd19789c6d25cf7e10a787e4454f1b9b958b1854746f9d3a72782a8"
-metafile = true
-
-[[files]]
-file = "mods/fastchest.toml"
-hash = "3bdbc76a5d70f75f76065b1e6148285bde757e7b2b3daf11b635028825bb9e89"
 metafile = true
 
 [[files]]
@@ -190,6 +200,11 @@ hash = "d1b7566f8022927583b3a112c30a9867d9d9e7f6736cd06ec30eebbb57fbdc55"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.toml"
+hash = "8b22d4673430cb26b2297baa7ed52b775fed9b3991938ce4834fa3a832a5b83c"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.toml"
 hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
 metafile = true
@@ -200,8 +215,18 @@ hash = "290f25ecb199d3010dd5fa5ce6e148577766e0a362129cfa5de6250bfe2702d1"
 metafile = true
 
 [[files]]
+file = "mods/littletweaks.toml"
+hash = "ae89b28e859ce71f40b016d2a416c4130299f4ced64155be51fa4e11e23134a4"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
-hash = "0e814f4b1e2796c9fcf55508c3b7eaac178ad6e28e6133d98c38870fdc6a1cca"
+hash = "8e340a340c83c59a626e6ab98ff1a00bb0eed4647af2a84772f6da25dede2e6c"
+metafile = true
+
+[[files]]
+file = "mods/more-chat-history.toml"
+hash = "326923ededc54c81a3630e10afcff8eec27a3a352cea2569d73cd4d338e2f06b"
 metafile = true
 
 [[files]]
@@ -211,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "263a290dca36800daf25c633c5076223ce8d624d13edda78c5ea5fe550d03252"
+hash = "13179441642ccec24be57a39007e01638cc5dd9949deea1430d62e1e5fa0ae29"
 metafile = true
 
 [[files]]
@@ -243,3 +268,19 @@ metafile = true
 file = "mods/yosbr.toml"
 hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/en_us.json"
+hash = "0f3c2f5826bd4b892976e152e04112f5fd0efc7e105f4f2b434085265a0dcca1"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/et_ee.json"
+hash = "e4fbceec568f3f25413ecafd9095fe03fe762a61fdf9b8f4b8cd4c923978b373"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/pack.mcmeta"
+hash = "030fa0ef52d316d65df081035cfa61b57021df4a2302ee0755f6bfdb06d715e1"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/pack.png"
+hash = "ac168b033a18ef0a1c8a97126a6554d7455cb878a1c8f40b4bef8c4f4a37fe45"

@@ -1,8 +1,8 @@
 {
   "sorting": "ascending",
   "count_libraries": false,
-  "compact_list": true,
-  "count_children": false,
+  "compact_list": false,
+  "count_children": true,
   "mods_button_style": "shrink",
   "count_hidden_mods": false,
   "mod_count_location": "title_screen",
@@ -16,6 +16,8 @@
   "modify_game_menu": true,
   "hide_config_buttons": false,
   "hidden_mods": [
-    "minecraft"
+    "minecraft",
+    "indium",
+    "fabric-language-kotlin"
   ]
 }
