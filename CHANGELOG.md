@@ -34,7 +34,7 @@ Other stuff
   * Enabled children mod counting in Mod Menu (Sodium Extra and Reese's Sodium Options are now reflected)
 * Reverted vanilla's particle settings defaults as they are better managed in Sodium Extra's settings anyway
 * MultiMC and MultiMC auto-update now use Fabric's default Java arguments (smoother experience)
-* Updated Mod Menu, Not Enough Crashes
+* Updated Architectury API, Colormatic, Cull Leaves, Mod Menu, Not Enough Crashes
 
 ### 2.1.1
 
