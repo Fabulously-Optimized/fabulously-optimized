@@ -23,7 +23,7 @@ body:
 - type: textarea
   attributes:
     label: Other links
-    description: E.g. GitHub or Modrinth. Optional.
+    description: E.g. Modrinth or GitHub, optional. If the developer cannot or will not add it to Curseforge, you may also [request an exception on Curseforge](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods).
   validations:
     required: false
 
