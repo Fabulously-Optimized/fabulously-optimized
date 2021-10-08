@@ -10,7 +10,7 @@ Notes for all 1.17.1 releases:
 
 ### 2.2.1
 
-2.2.0 had a bit of a rocky launch but it's back with mod updates!
+2.2.0 had a bit of a rocky launch but we're back with mod updates!
 
 * Fixed Curseforge Launcher installation (see [#140](https://github.com/Madis0/fabulously-optimized/issues/140) for more info)
 * Fixed CIT Resewn config not being applied
