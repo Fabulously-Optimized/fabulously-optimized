@@ -16,8 +16,6 @@ from_file = input("Please drag the Curseforge zip file here: ")[3:][:-1] # Becau
 os.system(exe_path + " curseforge import \"" + from_file + "\"")
 os.system(exe_path + " remove hydrogen")
 os.system(exe_path + " mr install hydrogen")
-os.system(exe_path + " remove indium")
-os.system(exe_path + " mr install indium")
 os.system(exe_path + " refresh")
 
 # TODO: Update Modrinth json

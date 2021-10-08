@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "9944bf0690939d7ec54283831ddfaeac1ccd5043fa290ce5fe41f1371cb01c74"
+hash = "5809aa8071db8bd4433dfdc3d2e336fc26f6f4c3a311339d454a2e4dcc99728b"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -19,10 +23,6 @@ hash = "94f7fc7719381bc6e474b6df30840d2aab0e8c4ed80d2f6191cf1b5b7d92be3f"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "99ecb0cc231f75abd0e0cfb6ebcfae0fa407c1dab9956587c1792d45e715b6c7"
-
-[[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/yosbr/config/colormatic.properties"
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "8afc72d1f763249c76208e1856ee6a9c6d86e916fc3cc429936fc64f4ead52e8"
+hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
 metafile = true
 
 [[files]]
@@ -151,12 +151,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
+hash = "3c5176c6c36c4fb8d97283dc07f91c400cc1ccd81836e298b7687dcd352282cb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "9dddeb714e7d413746bafd35c5b58ebec4c30d8934ff3763dd4c00e5ff359fa6"
+hash = "3b55a084c08b2afd69c50bb00a802abc4387ecb1ce3525fe9db36a1ade7fde9c"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+hash = "7f298bc09aeec405b8cfc2a0c0b2f4df0dfa8ebacb1747a7848b002dcc5264bc"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.toml"
-hash = "8b22d4673430cb26b2297baa7ed52b775fed9b3991938ce4834fa3a832a5b83c"
+hash = "769305d6f3ed63fd0e38d1680709180b515149acaed0e07e6a1306ea8c1fa50f"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/littletweaks.toml"
-hash = "ae89b28e859ce71f40b016d2a416c4130299f4ced64155be51fa4e11e23134a4"
+hash = "4551539b96ebf730cd9221ec90bcd562340be4fd21921547b5d6ee3ffdfe31fa"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "8e340a340c83c59a626e6ab98ff1a00bb0eed4647af2a84772f6da25dede2e6c"
+hash = "7c761c51deba63b76caffc2d41af96ccae70ef0cbb789db682d3fc7b43994f67"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "13179441642ccec24be57a39007e01638cc5dd9949deea1430d62e1e5fa0ae29"
+hash = "aee4049eb818ffbdbf60de121cf9a4f1b2b5747e3ea8f1d3c678ee0d1f4613e2"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "65d33478598a3451a2dab51b5e0ffdc0d7cc4682d731788017177419c2859e5f"
+hash = "0a037711955c1f0108d195683e2d8018f9193270e86a61d2e5cd2d874cae7000"
 metafile = true
 
 [[files]]
@@ -276,6 +276,10 @@ hash = "0f3c2f5826bd4b892976e152e04112f5fd0efc7e105f4f2b434085265a0dcca1"
 [[files]]
 file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/et_ee.json"
 hash = "e4fbceec568f3f25413ecafd9095fe03fe762a61fdf9b8f4b8cd4c923978b373"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/ru_ru.json"
+hash = "edf03a9e11bf44ffaa9a649c71f3f4133344df773f09f716ec50122c01cd882f"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper/pack.mcmeta"

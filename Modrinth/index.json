@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.2.0",
+    "versionId": "2.2.1",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
@@ -24,12 +24,12 @@
             ]
         },
         {
-            "path": "mods/architectury-2.5.28-fabric.jar",
+            "path": "mods/architectury-2.5.30-fabric.jar",
             "hashes": {
-                "murmur2": "656596922"
+                "murmur2": "1511557361"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3468/516/architectury-2.5.28-fabric.jar"
+                "https://edge.forgecdn.net/files/3477/576/architectury-2.5.30-fabric.jar"
             ]
         },
         {
@@ -159,21 +159,21 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.40.1+1.17.jar",
+            "path": "mods/fabric-api-0.40.6+1.17.jar",
             "hashes": {
-                "murmur2": "3918824503"
+                "murmur2": "2808126018"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3454/922/fabric-api-0.40.1+1.17.jar"
+                "https://edge.forgecdn.net/files/3483/909/fabric-api-0.40.6+1.17.jar"
             ]
         },
         {
-            "path": "mods/fabric-language-kotlin-1.6.4+kotlin.1.5.30.jar",
+            "path": "mods/fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar",
             "hashes": {
-                "murmur2": "376363287"
+                "murmur2": "3905405547"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3439/50/fabric-language-kotlin-1.6.4+kotlin.1.5.30.jar"
+                "https://edge.forgecdn.net/files/3477/154/fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar"
             ]
         },
         {
@@ -206,10 +206,10 @@
         {
             "path": "mods/indium-1.0.0+mc1.17.1.jar",
             "hashes": {
-                "sha512": "f44c85388430e5483a2370191f6c57626d950cb3f6fda32e9209b1c2d79ef51c2f35d12b13fb50b56ebb0215f431c48ad639fc57bece51ef79a7c20014525326"
+                "murmur2": "191940847"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar"
+                "https://edge.forgecdn.net/files/3484/852/indium-1.0.0+mc1.17.1.jar"
             ]
         },
         {
@@ -249,12 +249,12 @@
             ]
         },
         {
-            "path": "mods/language-reload-1.0.1.jar",
+            "path": "mods/language-reload-1.1.jar",
             "hashes": {
-                "murmur2": "3618042960"
+                "murmur2": "1645832531"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3460/200/language-reload-1.0.1.jar"
+                "https://edge.forgecdn.net/files/3477/612/language-reload-1.1.jar"
             ]
         },
         {
@@ -276,21 +276,21 @@
             ]
         },
         {
-            "path": "mods/littletweaks-0.1.0.jar",
+            "path": "mods/littletweaks-0.1.1.jar",
             "hashes": {
-                "murmur2": "3374385973"
+                "murmur2": "48414495"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3461/755/littletweaks-0.1.0.jar"
+                "https://edge.forgecdn.net/files/3478/188/littletweaks-0.1.1.jar"
             ]
         },
         {
-            "path": "mods/modmenu-2.0.13.jar",
+            "path": "mods/modmenu-2.0.14.jar",
             "hashes": {
-                "murmur2": "570802335"
+                "murmur2": "3441524268"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3472/548/modmenu-2.0.13.jar"
+                "https://edge.forgecdn.net/files/3479/750/modmenu-2.0.14.jar"
             ]
         },
         {
@@ -312,12 +312,12 @@
             ]
         },
         {
-            "path": "mods/notenoughcrashes-3.6.4+1.17.1-fabric.jar",
+            "path": "mods/notenoughcrashes-3.6.5+1.17.1-fabric.jar",
             "hashes": {
-                "murmur2": "1685357637"
+                "murmur2": "3935023578"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3475/869/notenoughcrashes-3.6.4+1.17.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3478/207/notenoughcrashes-3.6.5+1.17.1-fabric.jar"
             ]
         },
         {
@@ -348,12 +348,12 @@
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.17.1-0.3.4.jar",
+            "path": "mods/sodium-extra-mc1.17.1-0.3.5.jar",
             "hashes": {
-                "murmur2": "3796699782"
+                "murmur2": "3924701839"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3442/217/sodium-extra-mc1.17.1-0.3.4.jar"
+                "https://edge.forgecdn.net/files/3480/453/sodium-extra-mc1.17.1-0.3.5.jar"
             ]
         },
         {

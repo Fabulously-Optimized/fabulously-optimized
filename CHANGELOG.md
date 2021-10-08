@@ -8,9 +8,19 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.2.1
+
+2.2.0 had a bit of a rocky launch but it's back with mod updates!
+
+* Fixed Curseforge Launcher installation (see [#140](https://github.com/Madis0/fabulously-optimized/issues/140) for more info)
+* Fixed CIT Resewn config not being applied
+* Added Russian translation for Mod Menu Helper by RozeFound
+* Updated Architectury API, Fabric API, Fabric Language Kotlin, Language Reload, LittleTweaks, Mod Menu, Not Enough Crashes, Sodium Extra
+
 ### 2.2.0
 
 New mods, new Mod Menu style and a new Discord server! https://discord.gg/yxaXtaQqdB
+Also known as "the update that couldn't be installed with Curseforge Launcher".
 
 New mods
 

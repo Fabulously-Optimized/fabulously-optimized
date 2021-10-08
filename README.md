@@ -84,7 +84,7 @@ List of mods as of 2.2.0 are below.
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) by TerraformersMC - adds a mod list with descriptions (enable FO's bundled resource pack for better experience!)
 * [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) by NatanFudge - allows playing after a crash and getting the crash report as a link
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by modmuss50 - makes most mods work
-* [Indium](https://modrinth.com/mod/indium)¹ by comp500 - adds support for the Rendering API (more parity mods)
+* [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) by comp500 - adds support for the Rendering API (more parity mods)
 * [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by shedaniel - makes many mods' config work
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by lortseam_ - makes some mods' config work
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) by shedaniel - makes some mods work
