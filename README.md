@@ -53,7 +53,7 @@ List of mods as of 2.2.0 are below.
 * [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) by tuxed - makes the game startup faster
 * [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) by UltimateBoomer - improves the overall responsiveness of the game (less likely to freeze)
 * [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) by UltimateBoomer - makes game startup and resourcepack switch faster by removing fade animations
-* [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) by juliand665 - renders Minecraft slower if it is in the background to save RAM
+* [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) by juliand665 - renders Minecraft slower if it is in the background to reduce CPU usage
 * [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) by Jerozgen - makes language switching instant
 
 ### Pretty
