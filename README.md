@@ -32,6 +32,8 @@ Not sure which edition is right for you? Check this handy table!
 * [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
 * [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
 * [Review](https://www.youtube.com/watch?v=HfsoF4l5bck) by Nibot99
+* [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
+* [Review in Hindi](https://www.youtube.com/watch?v=K90gsbmhf3w) by UTK
 * [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
 * [Loud gameplay](https://youtu.be/ggCGrlMLOEc?t=110) by Just Oj
 * [Old review](https://www.youtube.com/watch?v=YQyDNc7aGBs) by Niche Duck
