@@ -21,7 +21,7 @@ Other stuff
 * Game will attempt to reduce RAM usage when unfocused (enabled Dynamic FPS's GC on unfocus)
 * Optimized the Mod Menu Helper resource pack and MultiMC/MultiMC (auto-update) icon
 * Updated Fabric Loader
-* Updated Architectury API, CIT Resewn, CompleteConfig, Fabric API, Not Enough Crashes
+* Updated Architectury API, CIT Resewn, CompleteConfig, Continuity, Fabric API, Not Enough Crashes
 
 ### 2.2.1
 
