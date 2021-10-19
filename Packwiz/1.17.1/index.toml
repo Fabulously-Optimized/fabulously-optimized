@@ -10,7 +10,7 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "5809aa8071db8bd4433dfdc3d2e336fc26f6f4c3a311339d454a2e4dcc99728b"
+hash = "c9c37ef7b65a22f9a382c971c1adfe0c74f421b362ce791f7838c75d578b1a4a"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -31,6 +31,10 @@ hash = "e0dfdbd6f39f1fc0a92b3fd18c981d20953e681f56eec736038f8940afa20d72"
 [[files]]
 file = "config/yosbr/config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "d755fffa95330f9083560f4a9f197c01bd18acccf5f262e506b4d80a4809e6bf"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -62,11 +66,16 @@ hash = "7e597a01436a7da6f68b3456848ad6b6a000c0efad3e5c04d75249b1df170b18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d64a0f9fd54a9921ec10e574b6b161af6145d775b831e0f5f3ae8a47f29fe551"
+hash = "ef7dc96d24f915a87d55e51748a4c06a34bf7a65114e7e7d67f6e1ed2a2a4d7e"
 
 [[files]]
 file = "mods/advancementinfo.toml"
 hash = "4bdd914cc09497cbfa0122dab0f888f4bfd8d144a394db1746a592c95667fba7"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "b9924f833272e1afc0d7214f0a4b2301b3391ae98d4da4a94a315a15de9ecd3a"
 metafile = true
 
 [[files]]
@@ -76,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
@@ -91,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "8da96bd69dc1bef4b69eed84dd3b761becbb2035860a5b20a8e97d3223364319"
+hash = "8fe663f39df5542c3777669c1f19f128298a520bce6c41d90bbca0d4eff2e015"
 metafile = true
 
 [[files]]
@@ -111,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.toml"
-hash = "a450488178229b6499551890f991c99b1042d17baeaa3aad33890a1077ac14cc"
+hash = "dac12eae85ffde6cd4efc4bba7da0c9059e0d6cc52c5a9ae8ce6c5a312c275d0"
 metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "692d1cbb5e28320e8f3c1f774d8eab4b150b28bfb7146da952d7f637d333fe02"
+hash = "d24baa89c8049503e02ab41c7318af6367789dbd9b64128483dada9a7161a3ad"
 metafile = true
 
 [[files]]
@@ -151,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3c5176c6c36c4fb8d97283dc07f91c400cc1ccd81836e298b7687dcd352282cb"
+hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
 metafile = true
 
 [[files]]
@@ -235,8 +244,13 @@ hash = "00e39f0a666b5418c9e149ec75bc1b6fff68a720efc2669908cec788103dff33"
 metafile = true
 
 [[files]]
+file = "mods/no-potion-offset.toml"
+hash = "3864b5de7c1ea8afaccb95ee351a27e7f5b2dba30b47f385b07b4ff72c1cded4"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "aee4049eb818ffbdbf60de121cf9a4f1b2b5747e3ea8f1d3c678ee0d1f4613e2"
+hash = "3755504caf9a9d519bcc358be8208816e6aad2cfd8384ac8cfc249de592582e3"
 metafile = true
 
 [[files]]
@@ -260,6 +274,11 @@ hash = "0a037711955c1f0108d195683e2d8018f9193270e86a61d2e5cd2d874cae7000"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.toml"
+hash = "3ef460e68b01f02bfddc1d3b4c5edf6aec9470a3c7ebdf577ad4e26668c3485e"
+metafile = true
+
+[[files]]
 file = "mods/wi-zoom.toml"
 hash = "acc7a3d78125c57ebef774099e7dadae8b9249032b030c598569377f10fe4384"
 metafile = true
@@ -270,15 +289,15 @@ hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/en_us.json"
-hash = "0f3c2f5826bd4b892976e152e04112f5fd0efc7e105f4f2b434085265a0dcca1"
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/en_us.json"
+hash = "7ed9a94bc8017478ebd954f6369c2c05442a4490b3b90c1837c799fb7272d7e6"
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/et_ee.json"
-hash = "e4fbceec568f3f25413ecafd9095fe03fe762a61fdf9b8f4b8cd4c923978b373"
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/et_ee.json"
+hash = "4992d15d02322485a306f68955f3af3ebb67f301cd3478e4846a2ee66bfcbb38"
 
 [[files]]
-file = "resourcepacks/Mod Menu Helper/assets/minecraft/lang/ru_ru.json"
+file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/ru_ru.json"
 hash = "edf03a9e11bf44ffaa9a649c71f3f4133344df773f09f716ec50122c01cd882f"
 
 [[files]]
@@ -287,4 +306,4 @@ hash = "030fa0ef52d316d65df081035cfa61b57021df4a2302ee0755f6bfdb06d715e1"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper/pack.png"
-hash = "ac168b033a18ef0a1c8a97126a6554d7455cb878a1c8f40b4bef8c4f4a37fe45"
+hash = "2cc1f8c9bd888865ba3789e226092cc7ef9d095e5d930390db74dfb62023949f"

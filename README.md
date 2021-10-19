@@ -44,7 +44,7 @@ Not sure which edition is right for you? Check this handy table!
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.2.0 are below.
+List of mods as of 2.3.0 are below.
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
@@ -69,12 +69,15 @@ List of mods as of 2.2.0 are below.
 * [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) by Pepper_Bell - adds Optifine's connected textures support
 * [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) by SHsuperCM - adds Optifine's custom item textures support
 * [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine's custom colors support, clear skies and clear void options
+* [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) by FoundationGames - adds Optifine's animated textures support
 * [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds Optifine's custom entity models [partial support](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - adds Optifine's "better trees" - fancy leaves are more see-through for better FPS
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) by Giserbaer - makes the advancement screen bigger, adds a requirement list and search bar
 * [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) by Lortseam_ - horse health and your food are displayed at the same time, jump bar appears when jumping
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds toast animations and FO text in main menu, plus several opt-in features
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by Pepper_Bell - fixes transparent gaps in held items
+* [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) by Kyrptonaught - makes sure all tooltips fit to screen
+* [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) by shedaniel - removes the potion offset on Creative inventory (similar to 1.18)
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) by ramidzkh - lets you take a high-res screenshot with F9
 
 ### Functional

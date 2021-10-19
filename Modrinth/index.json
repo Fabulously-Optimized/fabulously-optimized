@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.2.1",
+    "versionId": "2.3.0",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
@@ -15,6 +15,15 @@
             ]
         },
         {
+            "path": "mods/animatica-0.1+1.17.jar",
+            "hashes": {
+                "murmur2": "624985466"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3478/564/animatica-0.1+1.17.jar"
+            ]
+        },
+        {
             "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar",
             "hashes": {
                 "murmur2": "685313541"
@@ -24,12 +33,12 @@
             ]
         },
         {
-            "path": "mods/architectury-2.5.30-fabric.jar",
+            "path": "mods/architectury-2.5.32.jar",
             "hashes": {
-                "murmur2": "1511557361"
+                "murmur2": "1497275255"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3477/576/architectury-2.5.30-fabric.jar"
+                "https://edge.forgecdn.net/files/3489/954/architectury-2.5.32.jar"
             ]
         },
         {
@@ -51,12 +60,12 @@
             ]
         },
         {
-            "path": "mods/CITResewn-0.7.1.jar",
+            "path": "mods/CITResewn-0.8.0.jar",
             "hashes": {
-                "murmur2": "3666274114"
+                "murmur2": "841446064"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3471/105/CITResewn-0.7.1.jar"
+                "https://edge.forgecdn.net/files/3492/848/CITResewn-0.8.0.jar"
             ]
         },
         {
@@ -87,21 +96,21 @@
             ]
         },
         {
-            "path": "mods/completeconfig-lib-1.1.0.jar",
+            "path": "mods/completeconfig-lib-1.2.0.jar",
             "hashes": {
-                "murmur2": "1262874284"
+                "murmur2": "2957550967"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3395/949/completeconfig-lib-1.1.0.jar"
+                "https://edge.forgecdn.net/files/3492/921/completeconfig-lib-1.2.0.jar"
             ]
         },
         {
-            "path": "mods/continuity-1.0.0+1.17.jar",
+            "path": "mods/continuity-1.0.1+1.17.jar",
             "hashes": {
-                "murmur2": "2802689940"
+                "murmur2": "3396429412"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3472/479/continuity-1.0.0+1.17.jar"
+                "https://edge.forgecdn.net/files/3495/893/continuity-1.0.1+1.17.jar"
             ]
         },
         {
@@ -159,12 +168,12 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.40.6+1.17.jar",
+            "path": "mods/fabric-api-0.41.0+1.17.jar",
             "hashes": {
-                "murmur2": "2808126018"
+                "murmur2": "2846834524"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3483/909/fabric-api-0.40.6+1.17.jar"
+                "https://edge.forgecdn.net/files/3494/349/fabric-api-0.41.0+1.17.jar"
             ]
         },
         {
@@ -312,12 +321,21 @@
             ]
         },
         {
-            "path": "mods/notenoughcrashes-3.6.5+1.17.1-fabric.jar",
+            "path": "mods/no-potion-offset-1.0.2.jar",
             "hashes": {
-                "murmur2": "3935023578"
+                "murmur2": "2073280837"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3478/207/notenoughcrashes-3.6.5+1.17.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3119/667/no-potion-offset-1.0.2.jar"
+            ]
+        },
+        {
+            "path": "mods/notenoughcrashes-3.7.0+1.17.1-fabric.jar",
+            "hashes": {
+                "murmur2": "93411339"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3491/766/notenoughcrashes-3.7.0+1.17.1-fabric.jar"
             ]
         },
         {
@@ -354,6 +372,15 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3480/453/sodium-extra-mc1.17.1-0.3.5.jar"
+            ]
+        },
+        {
+            "path": "mods/tooltipfix-1.0.4-1.17.1.jar",
+            "hashes": {
+                "murmur2": "2352865992"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3487/571/tooltipfix-1.0.4-1.17.1.jar"
             ]
         },
         {

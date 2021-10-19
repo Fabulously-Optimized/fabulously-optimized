@@ -8,6 +8,21 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.3.0
+
+New mods
+
+* **Animatica** - Optifine's animated textures!
+* **ToolTipFix** - makes sure all tooltips fit to screen
+* **No Potion Offset** - removes the potion offset on Creative inventory (similar to 1.18)
+
+Other stuff
+
+* Game will attempt to reduce RAM usage when unfocused (enabled Dynamic FPS's GC on unfocus)
+* Optimized the Mod Menu Helper resource pack and MultiMC/MultiMC (auto-update) icon
+* Updated Fabric Loader
+* Updated Architectury API, CIT Resewn, CompleteConfig, Fabric API, Not Enough Crashes
+
 ### 2.2.1
 
 2.2.0 had a bit of a rocky launch but we're back with mod updates!
