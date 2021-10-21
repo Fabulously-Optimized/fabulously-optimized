@@ -28,12 +28,13 @@ Not sure which edition is right for you? Check this handy table!
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
+🌐 [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Bahasa Indonesia](https://www.youtube.com/watch?v=47s_sEqNikc)
+
 More notable videos:
 * [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
 * [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
 * [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
 * [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
-* [Review in Hindi](https://www.youtube.com/watch?v=K90gsbmhf3w) by UTK
 * [Playing on a phone (Pojav Launcher)](https://www.youtube.com/watch?v=mP5AoxqCKos) by MeCaft
 * [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
 
