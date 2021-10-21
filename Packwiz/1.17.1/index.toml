@@ -9,8 +9,16 @@ file = "config/fabric_loader_dependencies.json"
 hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
+file = "config/midnightlib.json"
+hash = "d742dae2f8d0881d6770e189137d0c08513fee5608f26d484b6912845b874d82"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "cf0aaef402dc0b2be5b09f9f9a99f81c9ff64f585e077b0fdad7655b13a6055c"
+
+[[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "c9c37ef7b65a22f9a382c971c1adfe0c74f421b362ce791f7838c75d578b1a4a"
+hash = "0ae5f8f503210afc554ff9feba7c7a54fddedc6598f57412612ce51472773139"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -47,10 +55,6 @@ hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "5988cb341ffbef4a3006a051cf030f0ef51d4e607a37296edc1d8fb4c749add1"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -130,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "75cdfbb1cfaa8bac7beb597532c62b37564276cfae88d3798abadf170685263f"
+hash = "8276d048a71d2b7f84c52b946db639e832f960a1a15a7104f609c167850da84d"
 metafile = true
 
 [[files]]
@@ -145,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "7e52a2705568174fbb5bdf107c0cceef1a0e13aa0ce0a5116b45c72d5c11b568"
+hash = "0da6ce612463f35b1e5df156d2e2535e5ecd22b263cf506a82928aeaa93929c4"
 metafile = true
 
 [[files]]
@@ -290,11 +294,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/en_us.json"
-hash = "7ed9a94bc8017478ebd954f6369c2c05442a4490b3b90c1837c799fb7272d7e6"
+hash = "29019af62299afefc7f90a7a4b5b95702a9014401010ac9a76e328e438133104"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/et_ee.json"
-hash = "4992d15d02322485a306f68955f3af3ebb67f301cd3478e4846a2ee66bfcbb38"
+hash = "f178775b32db6734a5e9d8d3b33b28bb3e20c81bf74a42448fb700aacebcabd8"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper/assets/modmenu/lang/ru_ru.json"

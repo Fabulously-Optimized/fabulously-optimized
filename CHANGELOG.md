@@ -8,6 +8,13 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.3.1
+
+* Added a small disclaimer to Mod Menu (via Mod Menu Helper)
+* Disabled Mod Menu's deprecation warnings
+* Configured MidnightLib (part of Cull Leaves) to be more vanilla-like
+* Updated Cull Leaves, Dynamic FPS
+
 ### 2.3.0
 
 New mods
