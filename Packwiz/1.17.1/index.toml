@@ -10,15 +10,11 @@ hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
 file = "config/midnightlib.json"
-hash = "d742dae2f8d0881d6770e189137d0c08513fee5608f26d484b6912845b874d82"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "cf0aaef402dc0b2be5b09f9f9a99f81c9ff64f585e077b0fdad7655b13a6055c"
+hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "0ae5f8f503210afc554ff9feba7c7a54fddedc6598f57412612ce51472773139"
+hash = "6ce38dad5daff5e51b12810088b3e459d192931fcaf43ae31ee481244549cf8a"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -57,6 +53,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "cf0aaef402dc0b2be5b09f9f9a99f81c9ff64f585e077b0fdad7655b13a6055c"
+
+[[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "c44249c87c48216b9ce39bd233b88e2a5e901fb7589b54cee79ac566bcb0c018"
 
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
+hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "8fe663f39df5542c3777669c1f19f128298a520bce6c41d90bbca0d4eff2e015"
+hash = "ce8975eae119cef91ea2b1784eb91bfc17f92fb9d477f4f85b82cab7e3d71643"
 metafile = true
 
 [[files]]
@@ -129,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "d24baa89c8049503e02ab41c7318af6367789dbd9b64128483dada9a7161a3ad"
+hash = "dfa81d8b8c5e9090e43cc007bf902ec2a1dbb44734f3f48a37a66d823074942a"
 metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "8276d048a71d2b7f84c52b946db639e832f960a1a15a7104f609c167850da84d"
+hash = "b1c2ad054923a66fef20c205f4e270d366549daf099a3cbecdf995f6ad332c94"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3755504caf9a9d519bcc358be8208816e6aad2cfd8384ac8cfc249de592582e3"
+hash = "e11cd0bb2c67e18dd77ea6cbf0a26bc237662057c9854b5ddb58a64c12fa4acb"
 metafile = true
 
 [[files]]
