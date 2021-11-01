@@ -2,7 +2,7 @@ import os, shutil
 from distutils import dir_util
 
 user_path = os.path.expanduser("~")
-mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized 2.0.0b1/"
+mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
 
 # Functions

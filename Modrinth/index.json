@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.3.2",
+    "versionId": "2.3.3",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
@@ -51,12 +51,12 @@
             ]
         },
         {
-            "path": "mods/capes-1.2.1.jar",
+            "path": "mods/Capes-1.2.2+1.17.jar",
             "hashes": {
-                "murmur2": "2540186038"
+                "murmur2": "3793937648"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3420/209/capes-1.2.1.jar"
+                "https://edge.forgecdn.net/files/3510/854/Capes-1.2.2+1.17.jar"
             ]
         },
         {
@@ -168,12 +168,12 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.41.0+1.17.jar",
+            "path": "mods/fabric-api-0.41.3+1.17.jar",
             "hashes": {
-                "murmur2": "2846834524"
+                "murmur2": "2986694412"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3494/349/fabric-api-0.41.0+1.17.jar"
+                "https://edge.forgecdn.net/files/3510/335/fabric-api-0.41.3+1.17.jar"
             ]
         },
         {
@@ -258,12 +258,12 @@
             ]
         },
         {
-            "path": "mods/language-reload-1.1.jar",
+            "path": "mods/language-reload-1.2.jar",
             "hashes": {
-                "murmur2": "1645832531"
+                "murmur2": "2993088515"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3477/612/language-reload-1.1.jar"
+                "https://edge.forgecdn.net/files/3510/259/language-reload-1.2.jar"
             ]
         },
         {
@@ -404,6 +404,6 @@
     ],
     "dependencies": {
         "minecraft": "1.17.1",
-        "fabric-loader": "0.11.6"
+        "fabric-loader": "0.11.7"
     }
 }

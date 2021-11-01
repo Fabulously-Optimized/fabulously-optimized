@@ -8,6 +8,10 @@ Notes for all 1.17.1 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
 
+### 2.3.3
+
+* Updated Fabric API, Fabric Capes, Language Reload
+
 ### 2.3.2
 
 * Updated Architectury API, CIT Resewn, Continuity, Cull Leaves, Not Enough Crashes
