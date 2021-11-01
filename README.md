@@ -7,7 +7,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 ## Downloads
 
 * **[Download from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)** - supports Curseforge, MultiMC, GDLauncher and [vanilla launcher](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher).
-* Auto-updating MultiMC pack: 1.16.5 | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.3.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack)
+* Auto-updating MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.10.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.3.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack)
 * ~~Modrinth~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 
