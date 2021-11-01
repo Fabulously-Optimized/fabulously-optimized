@@ -255,7 +255,7 @@ An unexpected backport update that matches the mods with 2.3.2 ones, released be
 * Applied configs from 2.3.2
 * Now uses native Fabric Loader 0.11.7 (0.12.3 is still in beta)
 * Hydrogen is disabled by default in MultiMC version to be compatible with Java 16 (vanilla launcher uses bundled Java 8 anyway)
-* Made a MultiMC auto-update version in Github ¯\_(ツ)_/¯
+* Made a MultiMC auto-update version in Github ¯\\\_(ツ)_/¯
 
 ### 1.9.1
 
