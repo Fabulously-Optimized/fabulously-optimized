@@ -1,0 +1,18 @@
+name = "Hydrogen"
+filename = "hydrogen-fabric-mc1.16.5-0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.16.5-v0.2.0/hydrogen-fabric-mc1.16.5-0.2.jar"
+hash-format = "sha512"
+hash = "571e51c87da301274a7650fc4bc249c633af2a2b21bc420912b03a743d06cdb7609bcf9fcdf9a6cd4defb1d908be7ca52988e1c95126adc5947edbbf77d6369e"
+
+[update]
+[update.modrinth]
+mod-id = "AZomiSrC"
+version = "aOtQ7hz2"
+
+[option]
+default = false
+description = "Enable only if you are using Java 8"
+optional = true

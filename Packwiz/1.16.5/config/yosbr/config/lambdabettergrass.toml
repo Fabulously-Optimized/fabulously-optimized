@@ -1,0 +1,8 @@
+# LambdaBetterGrass configuration.
+# The better grass mode. Values: "off", "fastest", "fast" and "fancy".
+mode = "fast"
+# Debug mode. Debug mode allows to output the generated texture in the debug folder of your minecraft instance.
+debug = false
+# The better layer option.
+better_layer = true
+
