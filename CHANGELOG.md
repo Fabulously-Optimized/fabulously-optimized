@@ -3,11 +3,6 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.17.1
 
-Notes for all 1.17.1 releases:
-
-* Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
-* MultiMC: Minecraft 1.17.1 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
-
 ### 2.3.3
 
 * Updated Fabric API, Fabric Capes, Language Reload
@@ -197,7 +192,7 @@ First alpha for 1.17.1!
 Notes for all 1.17 releases:
 
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
-* MultiMC: Minecraft 1.17 requires Java 16: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+* MultiMC: Minecraft 1.17 requires [Java 16 or higher](https://adoptium.net/). 
 
 ### 2.0.0b4
 
