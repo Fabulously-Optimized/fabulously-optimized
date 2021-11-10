@@ -53,7 +53,7 @@ More notable videos:
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.3.0 are below.
+List of mods as of 2.4.0 are below.
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
