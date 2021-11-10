@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.17.1
 
+### 2.4.0
+
+* Updated Fabric Loader to 0.12.5
+* You may start preparing your worlds for 1.18 by clicking `Edit` -> `Optimize World` -> `Create Backup and Load` in the world list. [Read more](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.5#repo-content-pjax-container)
+* Updated 'Slight' GUI Modifications, Fabric API, Lithium, LittleTweaks
+
 ### 2.3.3
 
 * Updated Fabric API, Fabric Capes, Language Reload

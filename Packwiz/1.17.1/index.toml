@@ -9,12 +9,8 @@ file = "config/fabric_loader_dependencies.json"
 hash = "84b82b6a4610dcf0f2992d3b86a3abfb8748c54ada513020bae4154581f012ea"
 
 [[files]]
-file = "config/midnightlib.json"
-hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
-
-[[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "906521d6179ed60f12015592a23b9040f7597c62f79bb386bb5e9431a20a7e5d"
+hash = "35d14c771ad88489bca62bee751dba9f669988016bfa65b9fc26de26a151bcb9"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -53,6 +49,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
 
 [[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "cf0aaef402dc0b2be5b09f9f9a99f81c9ff64f585e077b0fdad7655b13a6055c"
 
@@ -70,7 +70,7 @@ hash = "7e597a01436a7da6f68b3456848ad6b6a000c0efad3e5c04d75249b1df170b18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ef7dc96d24f915a87d55e51748a4c06a34bf7a65114e7e7d67f6e1ed2a2a4d7e"
+hash = "040239c0e00a49830917b1b2e2332a393b7d90f5366b5e1efd846a51df8b815d"
 
 [[files]]
 file = "mods/advancementinfo.toml"
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "27cbbc3381dc442d0806faf0ea89f8ecf732c518332d265f365e0cb88d5e5058"
+hash = "76fac2cfd09d5b73e428a698f9ad1fc4e7ed59f807997d848c5bf9a5024a87ac"
 metafile = true
 
 [[files]]
@@ -224,12 +224,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "290f25ecb199d3010dd5fa5ce6e148577766e0a362129cfa5de6250bfe2702d1"
+hash = "b68e9befb8f9dff5f8d548c6c2be177b2dcf5f49f5f3b99fe3b31dac9ec91659"
 metafile = true
 
 [[files]]
 file = "mods/littletweaks.toml"
-hash = "4551539b96ebf730cd9221ec90bcd562340be4fd21921547b5d6ee3ffdfe31fa"
+hash = "66e256d0483ce706769e675498fedf4d7e94edf587944faa58615b86d5c9041b"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
+hash = "e0dbfb0ae19e329c972716748125ff0722c87eb4c63f3b4b7dda28361a6cf83d"
 metafile = true
 
 [[files]]
