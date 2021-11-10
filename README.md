@@ -6,15 +6,26 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 ## Downloads
 
-* **[Download from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)** - supports Curseforge, MultiMC, GDLauncher and [vanilla launcher](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher).
-* Auto-updating MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.10.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.4.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack)
-* ~~Modrinth~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
-* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
+[![Download from Curseforge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20Curseforge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) 
 
-[Install instructions](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions)
+Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install instructions](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions)
+
+<details>
+  <summary>Alternative downloads</summary>
+
+_These downloads do not yet support the modpack or the mods :(_
+
+* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.10.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.4.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) 
+*  ̶V̶a̶n̶i̶l̶l̶a̶ ̶i̶n̶s̶t̶a̶l̶l̶e̶r̶ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
+*  ̶M̶o̶d̶r̶i̶n̶t̶h̶ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
+* [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+
+</details>
+  
+
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [Curseforge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|
 | Pack download | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Madis0/fabulously-optimized#downloads) | [⬇️](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher) |
 | Easy install | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#curseforge-launcher) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc-auto-update) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla-or-any-other-launcher) |
