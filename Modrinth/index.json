@@ -1,17 +1,17 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.4.0",
+    "versionId": "2.4.1",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
         {
-            "path": "mods/advancementinfo-1.17.1-fabric0.36.1-1.2.1.jar",
+            "path": "mods/advancementinfo-1.17.1-fabric0.36.1-1.2.2.jar",
             "hashes": {
-                "murmur2": "1687095027"
+                "murmur2": "2003017554"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3379/960/advancementinfo-1.17.1-fabric0.36.1-1.2.1.jar"
+                "https://edge.forgecdn.net/files/3532/520/advancementinfo-1.17.1-fabric0.36.1-1.2.2.jar"
             ]
         },
         {
@@ -78,21 +78,21 @@
             ]
         },
         {
-            "path": "mods/cloth-config-5.0.38-fabric.jar",
+            "path": "mods/cloth-config-5.1.40-fabric.jar",
             "hashes": {
-                "murmur2": "1640156610"
+                "murmur2": "617662973"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3413/206/cloth-config-5.0.38-fabric.jar"
+                "https://edge.forgecdn.net/files/3521/267/cloth-config-5.1.40-fabric.jar"
             ]
         },
         {
-            "path": "mods/colormatic-2.3.0+mc.1.17.1.jar",
+            "path": "mods/colormatic-2.3.1+mc.1.17.1.jar",
             "hashes": {
-                "murmur2": "686398706"
+                "murmur2": "1191722569"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3475/133/colormatic-2.3.0+mc.1.17.1.jar"
+                "https://edge.forgecdn.net/files/3522/12/colormatic-2.3.1+mc.1.17.1.jar"
             ]
         },
         {
@@ -330,12 +330,12 @@
             ]
         },
         {
-            "path": "mods/notenoughcrashes-3.7.1+1.17.1-fabric.jar",
+            "path": "mods/notenoughcrashes-4.1.1+1.17.1-fabric.jar",
             "hashes": {
-                "murmur2": "284933955"
+                "murmur2": "3300367819"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3509/359/notenoughcrashes-3.7.1+1.17.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3531/339/notenoughcrashes-4.1.1+1.17.1-fabric.jar"
             ]
         },
         {
@@ -404,6 +404,6 @@
     ],
     "dependencies": {
         "minecraft": "1.17.1",
-        "fabric-loader": "0.11.7"
+        "fabric-loader": "0.12.5"
     }
 }

@@ -10,7 +10,7 @@
 		"fluidAnimationDuration": 400,
 		"affectsGameMenus": false,
 		"affectsInventories": false,
-		"ignoreSlideWhenRedirected": false,
+		"ignoreSlideWhenRedirected": true,
 		"ignoreFadeWhenRedirected": false
 	},
 	"textFieldModifications": {
@@ -61,5 +61,5 @@
 	},
 	// Whether GUI should allow right click actions.
 	"rightClickActions": false,
-	"satisfyingScreenshots": true
+	"satisfyingScreenshots": false
 }

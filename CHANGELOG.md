@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.17.1
 
+### 2.4.1
+
+* AdvancementInfo now has settings, you can set the colors or info box width
+* Disabled 'Slight' GUI Modifications' "satisfying screenshots" to make the screenshot instantly accessible (clickable link on chat like vanilla)
+* Updated Mod Menu Helper phrases a bit
+* Removed irrelevant suggestions from launcher logs
+* Updated AdvancementInfo, Cloth Config API, Colormatic, Not Enough Crashes
+* Skipped Sodium Extra update for now due to a crash
+
 ### 2.4.0
 
 * Updated Fabric Loader to 0.12.5

@@ -86,6 +86,7 @@ def main():
     git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
     version_no = "1.17.1"
     packwiz_path = git_path + "Packwiz/" + version_no
+    modrinth_path = git_path + "Modrinth/"
 
     input_dir = PurePosixPath(packwiz_path)
     output_dir = PurePosixPath(user_path + "/Desktop")
@@ -95,10 +96,15 @@ def main():
         index = parse_toml(file)
 
     for file in index['files']:
-
         if 'metafile' in file and file['metafile'] is True:
             manager.add_mod(input_dir / file['file'])
         else: manager.add_override(input_dir / file['file'])
+
+    # Export index.json to git
+
+    from json import dump
+    with open(modrinth_path + "index.json", "w") as file:
+        dump(manager.index, file, indent = 4)
 
 if __name__ == "__main__":
     main()

@@ -1,5 +1,20 @@
 {
   "version": 1,
   "overrides": {
+    "advancementinfo": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "antighost": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "colormatic": {
+      "-recommends": {
+        "quilt-loader": ""
+      }
+    }
   }
 }
