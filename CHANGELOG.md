@@ -3,7 +3,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.17.1
 
-### 2.4.1
+### 2.4.1 (2021-11-22)
 
 * AdvancementInfo now has settings, you can set the colors or info box width
 * Disabled 'Slight' GUI Modifications' "satisfying screenshots" to make the screenshot instantly accessible (clickable link on chat like vanilla)
@@ -12,28 +12,28 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 * Updated AdvancementInfo, Cloth Config API, Colormatic, Not Enough Crashes
 * Skipped Sodium Extra update for now due to a crash
 
-### 2.4.0
+### 2.4.0 (2021-11-10)
 
 * Updated Fabric Loader to 0.12.5
 * You may start preparing your worlds for 1.18 by clicking `Edit` -> `Optimize World` -> `Create Backup and Load` in the world list. [Read more](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.5#repo-content-pjax-container)
 * Updated 'Slight' GUI Modifications, Fabric API, Lithium, LittleTweaks
 
-### 2.3.3
+### 2.3.3 (2021-11-01)
 
 * Updated Fabric API, Fabric Capes, Language Reload
 
-### 2.3.2
+### 2.3.2 (2021-10-30)
 
 * Updated Architectury API, CIT Resewn, Continuity, Cull Leaves, Not Enough Crashes
 
-### 2.3.1
+### 2.3.1 (2021-10-21)
 
 * Added a small disclaimer to Mod Menu (via Mod Menu Helper)
 * Disabled Mod Menu's deprecation warnings
 * Configured MidnightLib (part of Cull Leaves) to be more vanilla-like
 * Updated Cull Leaves, Dynamic FPS
 
-### 2.3.0
+### 2.3.0 (2021-10-19)
 
 New mods
 
@@ -48,7 +48,7 @@ Other stuff
 * Updated Fabric Loader
 * Updated Architectury API, CIT Resewn, CompleteConfig, Continuity, Fabric API, Not Enough Crashes
 
-### 2.2.1
+### 2.2.1 (2021-10-08)
 
 2.2.0 had a bit of a rocky launch but we're back with mod updates!
 
@@ -57,7 +57,7 @@ Other stuff
 * Added Russian translation for Mod Menu Helper by RozeFound
 * Updated Architectury API, Fabric API, Fabric Language Kotlin, Language Reload, LittleTweaks, Mod Menu, Not Enough Crashes, Sodium Extra
 
-### 2.2.0
+### 2.2.0 (2021-09-29)
 
 New mods, new Mod Menu style and a new Discord server! https://discord.gg/yxaXtaQqdB
 Also known as "the update that couldn't be installed with Curseforge Launcher".
@@ -86,13 +86,13 @@ Other stuff
 * MultiMC and MultiMC auto-update now use Fabric's default Java arguments (smoother experience)
 * Updated Architectury API, Colormatic, Cull Leaves, Mod Menu, Not Enough Crashes
 
-### 2.1.1
+### 2.1.1 (2021-09-11)
 
 * Temporary fix for first launch crash
 * Fixed tree leaves glitching (thanks, Altirix!) 
 * Updated Fabric API
 
-### 2.1.0
+### 2.1.0 (2021-09-06)
 
 It is time to finally release Fabulously Optimized for Minecraft 1.17.1! Here are the major updates from 1.9.1 to 2.1.0:
 
@@ -130,7 +130,7 @@ Other changes
 * MultiMC (auto-update) is now split by version for future-proofing, please re-download if you use it
 * Updated Iris+Sodium, Lithium, Sodium Extra, Custom Entity Models, Not Enough Crashes, Mod Menu, Fabric API, Fabric Language Kotlin, Architectury API
 
-### 2.1.0-beta.4
+### 2.1.0-beta.4 (2021-08-25)
 
 Added
 * LambdaBetterGrass (Optifine's "better grass"!)
@@ -143,7 +143,7 @@ Removed
 
 Updated mods: FerriteCore, Mod Menu, Fabric API, Architectury API
 
-### 2.1.0-beta.3
+### 2.1.0-beta.3 (2021-08-12)
 
 It's time to test Indium! Please let me know how it goes: [the poll has ended]
 
@@ -156,7 +156,7 @@ Changes from beta 2
 
 Thanks for 100 000 downloads!
 
-### 2.1.0-beta.2
+### 2.1.0-beta.2 (2021-07-29)
 
 Changes from beta 1
 
@@ -164,7 +164,7 @@ Changes from beta 1
 * Reset global graphics to Fancy to make Cull Leaves work
 * Mods updated
 
-### 2.1.0-beta.1
+### 2.1.0-beta.1 (2021-07-18)
 
 Changes from alpha 3
 
@@ -173,7 +173,7 @@ Changes from alpha 3
 * Removed AntiGhost keybind to prevent accidental presses (you can use /ghost)
 * Updated mods
 
-### 2.1.0-alpha.3
+### 2.1.0-alpha.3 (2021-07-15)
 
 Changes from a2
 
@@ -183,7 +183,7 @@ Changes from a2
 * Mods updated
 * Now using semantic versioning
 
-### 2.1.0a2
+### 2.1.0a2 (2021-07-10)
 
 Changes from a1
 
@@ -192,7 +192,7 @@ Changes from a1
 * Fixed version in the main menu
 * Updated mods
 
-### 2.1.0a1
+### 2.1.0a1 (2021-07-08)
 
 First alpha for 1.17.1!
 
@@ -209,7 +209,7 @@ Notes for all 1.17 releases:
 * Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17 requires [Java 16 or higher](https://adoptium.net/). 
 
-### 2.0.0b4
+### 2.0.0b4 (2021-07-01)
 
 Differences from b3
 
@@ -220,7 +220,7 @@ Differences from b3
 * Removed Canvas
 * FO is currently still in beta because 1.17.1 is coming soon and Sodium Extra is not there yet
 
-### 2.0.0b3
+### 2.0.0b3 (2021-06-21)
 
 Differences from b2
 
@@ -229,7 +229,7 @@ Differences from b2
 * Mods updated
 * Experimental auto-updating MultiMC pack is available on Github, try it out! (packwiz by comp500)
 
-### 2.0.0b2
+### 2.0.0b2 (2021-06-17)
 
 Differences from b1
 * Sodium is not there yet, please have patience
@@ -239,7 +239,7 @@ Differences from b1
 * Reverted FOV change for better FPS in some devices
 * Fixed an issue that could show the wrong version number in the main menu
 
-### 2.0.0b1
+### 2.0.0b1 (2021-06-10)
 
 Mods
 * Several mods still missing, including Sodium
@@ -254,7 +254,7 @@ Other
 
 ## 1.16.5
 
-### 1.10.0
+### 1.10.0 (2021-11-01)
 
 An unexpected backport update that matches the mods with 2.3.2 ones, released because 1.9.1 got broken due to a Java 16 and Jumploader issue. For the best experience I recommend upgrading to the latest version though.
 
@@ -267,12 +267,12 @@ An unexpected backport update that matches the mods with 2.3.2 ones, released be
 * Hydrogen is disabled by default in MultiMC version to be compatible with Java 16 (vanilla launcher uses bundled Java 8 anyway)
 * Made a MultiMC auto-update version in Github ¯\\\_(ツ)_/¯
 
-### 1.9.1
+### 1.9.1 (2021-05-27)
 
 * Several mods updated
 * Sodium Extra update skipped because it temporarily changes the UI
 
-### 1.9.0
+### 1.9.0 (2021-05-04)
 
 New mods
 * **FerriteCore** - reduces RAM usage 
@@ -287,7 +287,7 @@ Other stuff
 * Lots of mod updates
 * The new mods were suggested by the community, thank you!
 
-### 1.8.0
+### 1.8.0 (2021-04-02)
 
 New mods
 * **EntityCulling Fabric/Forge** - stops rendering entities that are behind a wall, useful in large servers and mobfarms
@@ -296,7 +296,7 @@ Other stuff
 * SmoothBoot's config system slightly changed and it is now smaller
 * Mods updated
 
-### 1.7.1
+### 1.7.1 (2021-03-07)
 
 New mods:
 * **No Fade** - makes game startup and resourcepack loading faster by removing some animations
@@ -309,7 +309,7 @@ Other stuff
 * Mods updated
 * Yes, I added another new mod but I felt like that one didn't warrant a new major update lol, it also might get included with 'Slight' Gui Modifications later on
 
-### 1.7.0
+### 1.7.0 (2021-03-02)
 
 New mods:
 * **Hydrogen** - somewhat reduces RAM usage (in my case 2,8 GB -> 2,6 GB)
@@ -320,7 +320,7 @@ Other stuff:
 * Sodium Extra update currently skipped as the next version will fix an issue
 * Cull Leaves changed the way its config works - if you are upgrading, you may delete the json5 file
 
-### 1.6.0
+### 1.6.0 (2021-02-18)
 New mods
 * **Sodium Extra** - adds toggles to Sodium settings: animations, particles, weather, fog, FPS indicator
 * **Cloth Config API** - makes the config work in many mods, now it is separate to reduce space (every mod doesn't have to include it)
@@ -328,17 +328,17 @@ New mods
 Other stuff
 * Updated mods
 
-### 1.5.2
+### 1.5.2 (2021-02-07)
 * Hid Minecraft, Jumploader and Cloth API from Mod Menu (because they are not really mods, but dependencies)
 * Updated mods
 
-### 1.5.1
+### 1.5.1 (2021-02-01)
 * Mod Menu received a major configurability update, so I've made it more cleaner-looking
 * Removed Better Mod Button mod as it is now redundant 
 * Not Enough Crashes received a lot of updates for better detection and compatibility
 * Updated mods
 
-### 1.5.0
+### 1.5.0 (2021-01-24)
 New mods
 * **FastChest** - greatly improves FPS when surrounded by chests (e.g. in a storage room)
 * **Cull Leaves** - optionally makes fancy tree leaves more see-through, which could improve FPS (enable in mod settings)
@@ -350,43 +350,43 @@ Other stuff
 * Updated mods
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
-### 1.5.0b2
+### 1.5.0b2 (2021-01-21)
 * Mods updated
 * Improved manifests for both launchers
 * Dynamic FPS now has a config screen so it can be disabled or configured
 * Lithium and Custom Fog are missing, waiting for an update
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
-### 1.5.0b1
+### 1.5.0b1 (2021-01-15, 2021-01-16)
 * Lithium and Custom Fog are currently incompatible and therefore missing
 * Mods updated
 * MultiMC doesn't list 1.16.5 yet, so I cannot update it (Edit: added later, same Not Enough Crashes comment applies)
 
 ## 1.16.4
 
-### 1.4.5
+### 1.4.5 (2021-01-04)
 * Mods updated
 * You may notice that there are less mods now - this is normal as some APIs are now properly marked as such, the main mods are still the same
 * Curseforge: fixed Fabric Loader update
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
-### 1.4.4
+### 1.4.4 (2020-12-20)
 * Mods updated
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
-### 1.4.3
+### 1.4.3 (2020-12-15)
 * Mods updated
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
-### 1.4.2
+### 1.4.2 (2020-11-27)
 * Mods updated
 * Added Architectury because 'Slight' Gui Modifications now depends on it
 * In MultiMC, Not Enough Crashes is at version 2.1.4+1.16.2 (due to CF error) but according to the developer it is identical to newer anyway.
 
-### 1.4.1
+### 1.4.1 (2020-11-15)
 * Mods updated
 
-### 1.4.0
+### 1.4.0 (2020-11-11)
 **Now stable with more ways to optimize!**
 
 Added
@@ -398,30 +398,30 @@ Other
 * Lithium is back
 * Mods updated
 
-### 1.4.0b2
+### 1.4.0b2 (2020-11-06)
 * Lithium is currently incompatible and therefore missing
 * Mods updated
 
-### 1.4.0b1
+### 1.4.0b1 (2020-11-02)
 **Fastest beta release yet, thanks to Jumploader magic!**
 * Lithium is currently incompatible and therefore missing
 * Mods updated
 
 ## 1.16.3
 
-### 1.3.4
+### 1.3.4 (2020-10-23)
 * Added a clickable modpack version to title screen (courtesy of 'Slight' Gui Modifications)
 * Adjusted Fabric Capes config to show all types and default to Minecraft Capes
 * Removed Minecraft Capes mod because Fabric Capes already provided it
 * Mods updated
 
-### 1.3.3
+### 1.3.3 (2020-10-13)
 * Mods updated
 
-### 1.3.2
+### 1.3.2 (2020-09-30)
 * Colormatic readded.
 
-### 1.3.1
+### 1.3.1 (2020-09-29)
 Thanks to users' feedback, the mod list has been updated.
 
 **Added**
@@ -432,7 +432,7 @@ Thanks to users' feedback, the mod list has been updated.
 **Removed**
 * OF Capes - replaced by Fabric Capes
 
-### 1.3.0
+### 1.3.0 (2020-09-28)
 Sodium has been updated, so it's time for a release!
 
 **Added**
@@ -449,14 +449,14 @@ Sodium has been updated, so it's time for a release!
 Other
 * Mods updated
 
-### 1.3.0b1
+### 1.3.0b1 (2020-09-26)
 **First beta with Twitch launcher.**
 * Sodium still missing
 * Canvas added as replacement
 * TheYTG123 helped me get a Twitch Launcher-compatible version even though it wasn't listed. Hint: Jumploader manifest.
 * Mods updated
 
-### 1.3.0a1 (MultiMC)
+### 1.3.0a1 (MultiMC, 2020-09-12)
 First alpha version only for MultiMC, stuck next to 1.16.2 versions because Twitch launcher did not list that version yet.
 **Notes**
 * Sodium and Lithium are missing
@@ -465,30 +465,30 @@ First alpha version only for MultiMC, stuck next to 1.16.2 versions because Twit
 
 ## 1.16.2
 
-### 1.2.0b2
+### 1.2.0b2 (2020-09-08)
 **Notes**
 * Sodium still missing
 * Canvas temporarily added
 * Mods updated
 
-### 1.2.0b1
+### 1.2.0b1 (2020-08-26)
 **First beta for 1.16.2.**
 * Sodium is missing
 * Canvas added as a temporary replacement. Thanks fishywishyef for the suggestion!
 * motioNO is removed as it is built-in to 1.16.2.
 
-### 1.2.0a1 (MultiMC)
+### 1.2.0a1 (MultiMC, 2020-08-15)
 A never-released version because Curseforge doesn't like MultiMC-only versions. Ah well.
 
 ## 1.16.1
 
-### 1.1.2
+### 1.1.2 (2020-08-10)
 * Mods updated
 
-### 1.1.1
+### 1.1.1 (2020-08-01)
 * Mods updated
 
-### 1.1.0
+### 1.1.0 (2020-07-24)
 Major update with new mods.
 **Added**
 * Dynamic FPS - renders Minecraft slower if it is in the background to save memory
@@ -496,16 +496,16 @@ Major update with new mods.
 * 'Slight' Gui Modifications - adds fancy animations to the menus and containers
 * Colormatic - adds support for Optifine resource packs' custom colors
 
-### 1.0.1
+### 1.0.1 (2020-07-21)
 Updated mods. 
 **MultiMC-specific:**
 * Replaced Jumploader and Forge with real Fabric
 * Added icon
 
-### 1.0.1a1
+### 1.0.1a1 (2020-07-21)
 A testing version to see if making mods optional is handled well in Twitch launcher. Hint: it isn't.
 
-### 1.0.0
+### 1.0.0 (2020-07-17)
 First release for Twitch and MultiMC launchers. Containing:
 * Better Mod Button
 * Fabric API
