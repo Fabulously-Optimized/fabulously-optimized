@@ -1,17 +1,17 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.4.1",
+    "versionId": "2.5.0",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
         {
-            "path": "mods/advancementinfo-1.17.1-fabric0.36.1-1.2.2.jar",
+            "path": "mods/advancementinfo-1.17.1-fabric0.36.1-1.3.jar",
             "hashes": {
-                "murmur2": "2003017554"
+                "murmur2": "1751111292"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3532/520/advancementinfo-1.17.1-fabric0.36.1-1.2.2.jar"
+                "https://edge.forgecdn.net/files/3537/133/advancementinfo-1.17.1-fabric0.36.1-1.3.jar"
             ]
         },
         {
@@ -168,21 +168,21 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.42.1+1.17.jar",
+            "path": "mods/fabric-api-0.43.1+1.17.jar",
             "hashes": {
-                "murmur2": "1200955640"
+                "murmur2": "1718743756"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3517/689/fabric-api-0.42.1+1.17.jar"
+                "https://edge.forgecdn.net/files/3537/0/fabric-api-0.43.1+1.17.jar"
             ]
         },
         {
-            "path": "mods/fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar",
+            "path": "mods/fabric-language-kotlin-1.7.0+kotlin.1.6.0.jar",
             "hashes": {
-                "murmur2": "3905405547"
+                "murmur2": "1965122677"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3477/154/fabric-language-kotlin-1.6.5+kotlin.1.5.31.jar"
+                "https://edge.forgecdn.net/files/3531/998/fabric-language-kotlin-1.7.0+kotlin.1.6.0.jar"
             ]
         },
         {
@@ -213,21 +213,21 @@
             ]
         },
         {
-            "path": "mods/indium-1.0.0+mc1.17.1.jar",
+            "path": "mods/indium-1.0.1+mc1.17.1.jar",
             "hashes": {
-                "murmur2": "191940847"
+                "murmur2": "2442250681"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3484/852/indium-1.0.0+mc1.17.1.jar"
+                "https://edge.forgecdn.net/files/3535/202/indium-1.0.1+mc1.17.1.jar"
             ]
         },
         {
-            "path": "mods/iris-and-sodium-mc1.17-1.1.2+build.9.jar",
+            "path": "mods/iris-mc1.17-1.1.3.jar",
             "hashes": {
-                "murmur2": "2018118617"
+                "murmur2": "200614150"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3451/773/iris-and-sodium-mc1.17-1.1.2+build.9.jar"
+                "https://edge.forgecdn.net/files/3542/381/iris-mc1.17-1.1.3.jar"
             ]
         },
         {
@@ -249,12 +249,12 @@
             ]
         },
         {
-            "path": "mods/lambdynamiclights-2.0.2+1.17.jar",
+            "path": "mods/lambdynamiclights-2.1.0+1.17.jar",
             "hashes": {
-                "murmur2": "2350402653"
+                "murmur2": "1361082460"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3409/38/lambdynamiclights-2.0.2+1.17.jar"
+                "https://edge.forgecdn.net/files/3541/670/lambdynamiclights-2.1.0+1.17.jar"
             ]
         },
         {
@@ -330,21 +330,30 @@
             ]
         },
         {
-            "path": "mods/notenoughcrashes-4.1.1+1.17.1-fabric.jar",
+            "path": "mods/notenoughcrashes-4.1.2+1.17.1-fabric.jar",
             "hashes": {
-                "murmur2": "3300367819"
+                "murmur2": "3146016725"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3531/339/notenoughcrashes-4.1.1+1.17.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3537/925/notenoughcrashes-4.1.2+1.17.1-fabric.jar"
             ]
         },
         {
-            "path": "mods/reeses_sodium_options-mc1.17.1-1.2.0.jar",
+            "path": "mods/phosphor-fabric-mc1.17.x-0.8.0.jar",
             "hashes": {
-                "murmur2": "1007265709"
+                "murmur2": "2433894433"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3433/130/reeses_sodium_options-mc1.17.1-1.2.0.jar"
+                "https://edge.forgecdn.net/files/3537/802/phosphor-fabric-mc1.17.x-0.8.0.jar"
+            ]
+        },
+        {
+            "path": "mods/reeses_sodium_options-mc1.17.1-1.2.3.jar",
+            "hashes": {
+                "murmur2": "3894021926"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3536/465/reeses_sodium_options-mc1.17.1-1.2.3.jar"
             ]
         },
         {
@@ -366,12 +375,21 @@
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.17.1-0.3.5.jar",
+            "path": "mods/sodium-extra-mc1.17.1-0.3.6.jar",
             "hashes": {
-                "murmur2": "3924701839"
+                "murmur2": "3449763978"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3480/453/sodium-extra-mc1.17.1-0.3.5.jar"
+                "https://edge.forgecdn.net/files/3528/157/sodium-extra-mc1.17.1-0.3.6.jar"
+            ]
+        },
+        {
+            "path": "mods/sodium-fabric-mc1.17.1-0.3.3+build.8.jar",
+            "hashes": {
+                "murmur2": "130037644"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3535/40/sodium-fabric-mc1.17.1-0.3.3+build.8.jar"
             ]
         },
         {

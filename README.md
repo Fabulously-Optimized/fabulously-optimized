@@ -58,6 +58,7 @@ List of mods as of 2.4.0 are below.
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) by CaffeineMC - optimizes game physics and chunk loading
+* [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) by CaffeineMC - optimizes light rendering
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) by FoundationGames - makes chests, signs, beds etc. render faster

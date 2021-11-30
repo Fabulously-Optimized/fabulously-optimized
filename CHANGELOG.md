@@ -1,7 +1,21 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://github.com/Madis0/fabulously-optimized/wiki/Version-support-FAQ).
 
+## 1.18
+
+### Soon™️
+
 ## 1.17.1
+
+### 2.5.0 (2021-11-30)
+
+Major update with Phosphor and bugfixes for Sodium and Iris!
+
+* Sodium is updated with better performance and several bugfixes!
+* Added Phosphor back
+* Iris is now separate from Sodium (faster updates and better compatibility)
+* Changelog now lists dates for even more transparency
+* Updated AdvancementInfo, Fabric API, Fabric Language Kotlin, Indium, Iris, LambDynamicLights, Not Enough Crashes, Reese's Sodium Options, Sodium Extra
 
 ### 2.4.1 (2021-11-22)
 
@@ -15,7 +29,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 2.4.0 (2021-11-10)
 
 * Updated Fabric Loader to 0.12.5
-* You may start preparing your worlds for 1.18 by clicking `Edit` -> `Optimize World` -> `Create Backup and Load` in the world list. [Read more](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.5#repo-content-pjax-container)
+* ~~You may start preparing your worlds for 1.18 by clicking `Edit` -> `Optimize World` -> `Create Backup and Load` in the world list.~~ Not needed anymore. [Read more](https://github.com/CaffeineMC/lithium-fabric/releases/tag/mc1.17.1-0.7.5#repo-content-pjax-container)
 * Updated 'Slight' GUI Modifications, Fabric API, Lithium, LittleTweaks
 
 ### 2.3.3 (2021-11-01)
