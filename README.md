@@ -15,7 +15,7 @@ Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install
 
 _These downloads do not yet support the modpack or the mods :(_
 
-* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.10.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.4.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) 
+* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v1.10.0/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v2.4.0/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/3.0.0-alpha.1/Fabulously.Optimized.MC.1.18.auto-update.zip)
 *  ̶V̶a̶n̶i̶l̶l̶a̶ ̶i̶n̶s̶t̶a̶l̶l̶e̶r̶ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 *  ̶M̶o̶d̶r̶i̶n̶t̶h̶ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/63)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
