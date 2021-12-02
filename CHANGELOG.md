@@ -6,7 +6,27 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
 
-### Soon™️
+### 3.0.0-alpha.1
+
+The first 1.18 alpha is here!
+
+Added:
+* No Telemetry - prevents sending diagnostics data to Mojang; protects your privacy and modded instance data helps Mojang less anyway
+
+Removed:
+* No Potion Offset - no longer needed in 1.18
+* LittleTweaks - no longer needed in 1.18
+
+Changes:
+* Iris' Max Shadow Distance reduced to 6 chunks
+* Simulation Distance reduced to 6 chunks
+* Alternative mods are now marked with a red asterisk on Mod Menu
+
+Current mod changes:
+* Updated: AdvancementInfo, AntiGhost, Architectury API, CIT Resewn, Cloth Config API, CompleteConfig, Entity Culling, Fabric API, Fabric Capes, Fabrishot, Indium, Iris Shaders, Mod Menu, Not Enough Crashes, Reese's Sodium Options, Sodium, Sodium Extra, ToolTipFix, WI Zoom
+* Forcefully enabled (do NOT report any issues to those mods!): Animatica, Continuity, Don't Clear Chat History, MoreChatHistory, No Fade
+* Temporarily removed: Colormatic, Enhanced Block Entities (temp. replacement FastChest), FerriteCore, Lithium, Hydrogen, Phosphor, Smooth Boot
+* Unlisted mods either didn't require 1.18 in the first place or were cross-compatible.
 
 ## 1.17.1
 

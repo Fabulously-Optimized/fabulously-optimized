@@ -1,17 +1,17 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "2.5.0",
+    "versionId": "3.0.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
         {
-            "path": "mods/advancementinfo-1.17.1-fabric0.36.1-1.3.jar",
+            "path": "mods/advancementinfo-1.18-fabric0.43.1-1.3.jar",
             "hashes": {
-                "murmur2": "1751111292"
+                "murmur2": "4109430737"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3537/133/advancementinfo-1.17.1-fabric0.36.1-1.3.jar"
+                "https://edge.forgecdn.net/files/3543/420/advancementinfo-1.18-fabric0.43.1-1.3.jar"
             ]
         },
         {
@@ -24,21 +24,21 @@
             ]
         },
         {
-            "path": "mods/antighost-1.17.1-fabric0.36.1-1.1.4.jar",
+            "path": "mods/antighost-1.18-fabric0.43.1-1.1.4.jar",
             "hashes": {
-                "murmur2": "685313541"
+                "murmur2": "3690634280"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3379/961/antighost-1.17.1-fabric0.36.1-1.1.4.jar"
+                "https://edge.forgecdn.net/files/3543/423/antighost-1.18-fabric0.43.1-1.1.4.jar"
             ]
         },
         {
-            "path": "mods/architectury-2.6.35.jar",
+            "path": "mods/architectury-3.1.45.jar",
             "hashes": {
-                "murmur2": "1974939410"
+                "murmur2": "3836475077"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3500/17/architectury-2.6.35.jar"
+                "https://edge.forgecdn.net/files/3544/954/architectury-3.1.45.jar"
             ]
         },
         {
@@ -51,21 +51,21 @@
             ]
         },
         {
-            "path": "mods/Capes-1.2.2+1.17.jar",
+            "path": "mods/Capes-1.2.2+1.18.jar",
             "hashes": {
-                "murmur2": "3793937648"
+                "murmur2": "2842358990"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3510/854/Capes-1.2.2+1.17.jar"
+                "https://edge.forgecdn.net/files/3543/238/Capes-1.2.2+1.18.jar"
             ]
         },
         {
-            "path": "mods/CITResewn-0.8.1.jar",
+            "path": "mods/CITResewn-0.8.1-1.18.jar",
             "hashes": {
-                "murmur2": "2762477444"
+                "murmur2": "235451270"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3498/887/CITResewn-0.8.1.jar"
+                "https://edge.forgecdn.net/files/3543/705/CITResewn-0.8.1-1.18.jar"
             ]
         },
         {
@@ -78,30 +78,21 @@
             ]
         },
         {
-            "path": "mods/cloth-config-5.1.40-fabric.jar",
+            "path": "mods/cloth-config-6.0.42-fabric.jar",
             "hashes": {
-                "murmur2": "617662973"
+                "murmur2": "754092429"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3521/267/cloth-config-5.1.40-fabric.jar"
+                "https://edge.forgecdn.net/files/3524/837/cloth-config-6.0.42-fabric.jar"
             ]
         },
         {
-            "path": "mods/colormatic-2.3.1+mc.1.17.1.jar",
+            "path": "mods/completeconfig-lib-1.3.1.jar",
             "hashes": {
-                "murmur2": "1191722569"
+                "murmur2": "2134120234"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3522/12/colormatic-2.3.1+mc.1.17.1.jar"
-            ]
-        },
-        {
-            "path": "mods/completeconfig-lib-1.2.0.jar",
-            "hashes": {
-                "murmur2": "2957550967"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3492/921/completeconfig-lib-1.2.0.jar"
+                "https://edge.forgecdn.net/files/3543/595/completeconfig-lib-1.3.1.jar"
             ]
         },
         {
@@ -111,15 +102,6 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3498/711/continuity-1.0.2+1.17.jar"
-            ]
-        },
-        {
-            "path": "mods/cullleaves-2.3.2.jar",
-            "hashes": {
-                "murmur2": "2412182132"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3509/388/cullleaves-2.3.2.jar"
             ]
         },
         {
@@ -150,30 +132,21 @@
             ]
         },
         {
-            "path": "mods/enhancedblockentities-0.5+1.17.jar",
-            "hashes": {
-                "murmur2": "2100632846"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3461/725/enhancedblockentities-0.5+1.17.jar"
-            ]
-        },
-        {
             "path": "mods/EntityCulling-Fabric-1.3.3.jar",
             "hashes": {
-                "murmur2": "3251325506"
+                "murmur2": "91561999"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3388/827/EntityCulling-Fabric-1.3.3.jar"
+                "https://edge.forgecdn.net/files/3523/465/EntityCulling-Fabric-1.3.3.jar"
             ]
         },
         {
-            "path": "mods/fabric-api-0.43.1+1.17.jar",
+            "path": "mods/fabric-api-0.43.1+1.18.jar",
             "hashes": {
-                "murmur2": "1718743756"
+                "murmur2": "987750969"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3537/0/fabric-api-0.43.1+1.17.jar"
+                "https://edge.forgecdn.net/files/3537/5/fabric-api-0.43.1+1.18.jar"
             ]
         },
         {
@@ -186,48 +159,39 @@
             ]
         },
         {
-            "path": "mods/fabrishot-1.5.1.jar",
+            "path": "mods/fabrishot-1.6.0.jar",
             "hashes": {
-                "murmur2": "165472990"
+                "murmur2": "1467117810"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3381/995/fabrishot-1.5.1.jar"
+                "https://edge.forgecdn.net/files/3542/922/fabrishot-1.6.0.jar"
             ]
         },
         {
-            "path": "mods/ferritecore-3.0.3-fabric.jar",
+            "path": "mods/fast-chest-1.2+1.18.jar",
             "hashes": {
-                "murmur2": "3088474633"
+                "murmur2": "2721805013"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3435/174/ferritecore-3.0.3-fabric.jar"
+                "https://edge.forgecdn.net/files/3544/190/fast-chest-1.2+1.18.jar"
             ]
         },
         {
-            "path": "mods/hydrogen-fabric-mc1.17.1-0.3.jar",
+            "path": "mods/indium-1.0.2-alpha1+mc1.18.jar",
             "hashes": {
-                "sha512": "db4079c26bf27b38d32ae60a47e7d347e01d43def5987e5c2cb25218e427b2f10f7fcb36f9de5d486a0953637793cd90450f8d2d7ff1a31cf8a90af3794646ad"
+                "murmur2": "3058950694"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar"
+                "https://edge.forgecdn.net/files/3542/434/indium-1.0.2-alpha1+mc1.18.jar"
             ]
         },
         {
-            "path": "mods/indium-1.0.1+mc1.17.1.jar",
+            "path": "mods/iris-mc1.18-1.1.3.jar",
             "hashes": {
-                "murmur2": "2442250681"
+                "murmur2": "4029896349"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3535/202/indium-1.0.1+mc1.17.1.jar"
-            ]
-        },
-        {
-            "path": "mods/iris-mc1.17-1.1.3.jar",
-            "hashes": {
-                "murmur2": "200614150"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3542/381/iris-mc1.17-1.1.3.jar"
+                "https://edge.forgecdn.net/files/3542/382/iris-mc1.18-1.1.3.jar"
             ]
         },
         {
@@ -276,30 +240,12 @@
             ]
         },
         {
-            "path": "mods/lithium-fabric-mc1.17.1-0.7.5.jar",
+            "path": "mods/modmenu-3.0.0.jar",
             "hashes": {
-                "murmur2": "1827400379"
+                "murmur2": "2387229544"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3516/367/lithium-fabric-mc1.17.1-0.7.5.jar"
-            ]
-        },
-        {
-            "path": "mods/littletweaks-1.0.0.jar",
-            "hashes": {
-                "murmur2": "3895033168"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3519/804/littletweaks-1.0.0.jar"
-            ]
-        },
-        {
-            "path": "mods/modmenu-2.0.14.jar",
-            "hashes": {
-                "murmur2": "3441524268"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3479/750/modmenu-2.0.14.jar"
+                "https://edge.forgecdn.net/files/3479/754/modmenu-3.0.0.jar"
             ]
         },
         {
@@ -321,39 +267,30 @@
             ]
         },
         {
-            "path": "mods/no-potion-offset-1.0.2.jar",
+            "path": "mods/no-telemetry-1.1.0.jar",
             "hashes": {
-                "murmur2": "2073280837"
+                "murmur2": "1698895818"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3119/667/no-potion-offset-1.0.2.jar"
+                "https://edge.forgecdn.net/files/3539/592/no-telemetry-1.1.0.jar"
             ]
         },
         {
-            "path": "mods/notenoughcrashes-4.1.2+1.17.1-fabric.jar",
+            "path": "mods/notenoughcrashes-4.1.2+1.18-rc3-fabric.jar",
             "hashes": {
-                "murmur2": "3146016725"
+                "murmur2": "653617557"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3537/925/notenoughcrashes-4.1.2+1.17.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3537/945/notenoughcrashes-4.1.2+1.18-rc3-fabric.jar"
             ]
         },
         {
-            "path": "mods/phosphor-fabric-mc1.17.x-0.8.0.jar",
+            "path": "mods/reeses_sodium_options-mc1.18-1.2.3.jar",
             "hashes": {
-                "murmur2": "2433894433"
+                "murmur2": "4286157886"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3537/802/phosphor-fabric-mc1.17.x-0.8.0.jar"
-            ]
-        },
-        {
-            "path": "mods/reeses_sodium_options-mc1.17.1-1.2.3.jar",
-            "hashes": {
-                "murmur2": "3894021926"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3536/465/reeses_sodium_options-mc1.17.1-1.2.3.jar"
+                "https://edge.forgecdn.net/files/3542/998/reeses_sodium_options-mc1.18-1.2.3.jar"
             ]
         },
         {
@@ -366,48 +303,39 @@
             ]
         },
         {
-            "path": "mods/smoothboot-fabric-1.16.5-1.6.0.jar",
+            "path": "mods/sodium-extra-mc1.18-0.3.7.jar",
             "hashes": {
-                "murmur2": "3205574711"
+                "murmur2": "38126557"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3248/104/smoothboot-fabric-1.16.5-1.6.0.jar"
+                "https://edge.forgecdn.net/files/3542/997/sodium-extra-mc1.18-0.3.7.jar"
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.17.1-0.3.6.jar",
+            "path": "mods/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar",
             "hashes": {
-                "murmur2": "3449763978"
+                "murmur2": "2315531696"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3528/157/sodium-extra-mc1.17.1-0.3.6.jar"
+                "https://edge.forgecdn.net/files/3542/74/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"
             ]
         },
         {
-            "path": "mods/sodium-fabric-mc1.17.1-0.3.3+build.8.jar",
+            "path": "mods/tooltipfix-1.0.4-1.18.jar",
             "hashes": {
-                "murmur2": "130037644"
+                "murmur2": "4269860137"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3535/40/sodium-fabric-mc1.17.1-0.3.3+build.8.jar"
+                "https://edge.forgecdn.net/files/3543/273/tooltipfix-1.0.4-1.18.jar"
             ]
         },
         {
-            "path": "mods/tooltipfix-1.0.4-1.17.1.jar",
+            "path": "mods/WI-Zoom-1.3-MC1.18.jar",
             "hashes": {
-                "murmur2": "2352865992"
+                "murmur2": "1210673680"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3487/571/tooltipfix-1.0.4-1.17.1.jar"
-            ]
-        },
-        {
-            "path": "mods/WI-Zoom-1.3-MC1.17.1.jar",
-            "hashes": {
-                "murmur2": "2597724315"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3379/128/WI-Zoom-1.3-MC1.17.1.jar"
+                "https://edge.forgecdn.net/files/3541/830/WI-Zoom-1.3-MC1.18.jar"
             ]
         },
         {
@@ -421,7 +349,7 @@
         }
     ],
     "dependencies": {
-        "minecraft": "1.17.1",
-        "fabric-loader": "0.12.5"
+        "minecraft": "1.18",
+        "fabric-loader": "0.12.8"
     }
 }

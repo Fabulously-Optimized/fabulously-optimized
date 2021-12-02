@@ -84,7 +84,7 @@ def main():
 
     user_path = os.path.expanduser("~")
     git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-    version_no = "1.17.1"
+    version_no = "1.18"
     packwiz_path = git_path + "Packwiz/" + version_no
     modrinth_path = git_path + "Modrinth/"
 

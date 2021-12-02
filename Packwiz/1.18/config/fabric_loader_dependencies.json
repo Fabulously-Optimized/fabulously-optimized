@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "overrides": {
+    "advancementinfo": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "antighost": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "colormatic": {
+      "-recommends": {
+        "quilt-loader": ""
+      }
+    },
+    "animatica": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "continuity": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "dcch": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "morechathistory": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "nofade": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}
