@@ -5,7 +5,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 Notes:
 * MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
-* GDLauncher: go to settings -> Release Channel -> Beta and wait for it to update and prompt you for Java 17 or [get it manually](https://www.oracle.com/java/technologies/downloads/).
+* GDLauncher: make sure you are using the latest version, click the green arrow in titlebar when available
 
 ### 3.0.0-alpha.1
 
