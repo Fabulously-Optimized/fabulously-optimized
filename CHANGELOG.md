@@ -7,6 +7,16 @@ Notes:
 * MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
 * GDLauncher: make sure you are using the latest version, click the green arrow in titlebar when available
 
+### 3.0.0-alpha.2
+
+Still an alpha, make backups and expect crashes.
+
+* Added first-launch crash workaround back
+* Re-added Colormatic, FerriteCore, Lithium, Smooth Boot
+* Updated Cloth Config API, Continuity, Fabric API, MoreChatHistory, No Telemetry, Not Enough Crashes
+* Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History, No Fade
+* Currently removed Enhanced Block Entities (temp. replacement FastChest), Hydrogen, Phosphor
+
 ### 3.0.0-alpha.1
 
 The first 1.18 alpha is here!

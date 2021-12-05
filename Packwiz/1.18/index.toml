@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "341e3fdf70c6a7f4f06eece8115e417d6ac71cbe240015f56814f5e3388d58f5"
+hash = "42089ceb91f8f339588aad021926d739b17270a82bda3e7d433cfeff283088ac"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -18,7 +18,11 @@ hash = "47c8b2c436fb3feea44c29dd91cc8b8dba9d9f52978ce0b067e6d3c38a213e64"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "4e68935ad1667acad380ab3a39dac368c6dd09e33bf2716cf5fa63592f3a096d"
+hash = "636bfd3e4a42e4cc539c9631a149656feb983bc1188ce089b071c27547d8f6d5"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -67,6 +71,10 @@ hash = "47c8b2c436fb3feea44c29dd91cc8b8dba9d9f52978ce0b067e6d3c38a213e64"
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "7da931e9b7389034de203f2719b99ab74ab8e500a898ad5d563d64f13c501120"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -118,7 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "1601765b6c61b6f250e8991019b622189b66a1d08114a3d5b0ee2939e9ef4791"
+hash = "3673dd85d0ebecbef0501f2506206279fedc113070ee32a98fbe0690ba4e2aab"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "c1c4f73e371a2682b1609322a3ba1af39fe8ca7d60e2366f3c07b045cbb1d7ac"
 metafile = true
 
 [[files]]
@@ -128,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "0563271b36703c2594ac9b3c7382b614f4396ec664f12109a79bcffb95824143"
+hash = "c39a0cc43a6722cfff7bc8c90233da3757551becf1b4dacc4e425ae0cefaf2d4"
 metafile = true
 
 [[files]]
@@ -153,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b170c8faa344204872477b9341b759f877eca6a33dc1d99a51ad49b232e65f3a"
+hash = "e1e489ae4e66ec2e42d0aca91fa7c16cec0ecb835c3f1c7dab86f4372f2b2421"
 metafile = true
 
 [[files]]
@@ -169,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/fastchest.toml"
 hash = "7c5232431f0ecb22111a697d8bf0f27810db1837f484f19d7f38858b5250844d"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "856759b47ba14018cff8917f8d1785df84d2acf2730b8409bc1dd4dfb578748a"
 metafile = true
 
 [[files]]
@@ -207,13 +225,18 @@ hash = "d29c81118c71783f1a833ec2b5b5e2be98d1bfce3652026b24161cb27288e3be"
 metafile = true
 
 [[files]]
+file = "mods/lithium.toml"
+hash = "511fe49c8aa17b69c981e1cc3f14d16bab0e7aa9248dcc1dc8cee01c9939d7ab"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "65580017b27e0f38290448b991efffd2ebaeb23f1426afccf28cc1c9303e5f0d"
 metafile = true
 
 [[files]]
 file = "mods/more-chat-history.toml"
-hash = "62c18f83be5eb3a91395b9466418065271a56ea4df82004066c1dd0c6f7729bf"
+hash = "e1d8ca23cda8a8e4efb3027916a7574d55adb3d62a01b5a8e9e4e2f5a47b5838"
 metafile = true
 
 [[files]]
@@ -223,12 +246,12 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.toml"
-hash = "1e91778e732ab1b1692c5f674281085225f1eb6c2d7d5bc531604fa13664ab80"
+hash = "4f9056a630be5f300b095bf9b4e268c9c1d6f85def91e590887d5c3198ae2bd1"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "7c625b9b8732af70cb6d1805db7a4974479f1cd1ee4f3f9ac9aa92461d165dd4"
+hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
 metafile = true
 
 [[files]]
@@ -239,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "3905aad8e323feb13c417c6fd81da68e94c8d434117fea4bb5de7b7c89e87509"
 metafile = true
 
 [[files]]
