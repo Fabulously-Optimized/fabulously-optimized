@@ -39,7 +39,7 @@ Not sure which edition is right for you? Check this handy table!
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
-🌐 [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Bahasa Indonesia](https://www.youtube.com/watch?v=47s_sEqNikc) | [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0)
+🌐 [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Türkçe](https://www.youtube.com/watch?v=Vj7S5_4Rkfg) | [Bahasa Indonesia](https://www.youtube.com/watch?v=47s_sEqNikc) | [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0)
 
 More notable videos:
 * [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
