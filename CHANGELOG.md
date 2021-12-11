@@ -71,9 +71,11 @@ Current mod changes:
 
 ### 2.6.0 (2021-12-11)
 
+General
 * Fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) (updated Fabric Loader to 0.12.11)
 * Backported config changes from 3.0.0-alpha.3
 
+Mods
 * Added Borderless Mining - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
 * Added FastOpenLinksAndFolders - fixes the game freezing when you open resource pack folders, a screenshot etc.
 * Updated Architectury API, Continuity, Fabric API
@@ -341,10 +343,12 @@ Other
 
 ### 1.11.0 (2021-12-11)
 
+General
 * Fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) (updated Fabric Loader to 0.12.11)
 * Backported config changes from 3.0.0-alpha.3
 * Hydrogen warns you when you're using incompatible Java
 
+Mods
 * Added Borderless Mining - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
 * Added FastOpenLinksAndFolders - fixes the game freezing when you open resource pack folders, a screenshot etc.
 * Added Reese's Sodium Options
