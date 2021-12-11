@@ -1,6 +1,11 @@
 {
   "version": 1,
   "overrides": {
+    "fabric": {
+      "+depends": {
+        "fabricloader": ">=0.12.10"
+      }
+    },
     "advancementinfo": {
       "-recommends": {
         "modupdater": ""
@@ -22,11 +27,6 @@
       }
     },
     "dcch": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
-    "nofade": {
       "-depends": {
         "minecraft": ""
       }

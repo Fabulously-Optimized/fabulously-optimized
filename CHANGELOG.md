@@ -7,7 +7,26 @@ Notes:
 * MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
 * GDLauncher: make sure you are using the latest version, click the green arrow in titlebar when available
 
-### 3.0.0-alpha.2
+### 3.0.0-alpha.3 (2021-12-11)
+
+Some fixes for 1.18 before moving to 1.18.1.
+
+General
+
+* Fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) (updated Fabric Loader to 0.12.11)
+* Fixed Continuity resource packs not being applied
+* Added German and Portuguese (Brazil) translations to Mod Menu Helper by nsde and PaperKing13isPro!
+
+Mod changes
+
+* Added Borderless Mining - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* Added FastOpenLinksAndFolders - fixes the game freezing when you open resource pack folders, a screenshot etc.
+* Updated Architectury API, Better Mount HUD, CompleteConfig, No Fade
+* Re-added Enhanced Block Entities, removed the replacement FastChest
+* Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History
+* Currently removed Hydrogen, Phosphor
+
+### 3.0.0-alpha.2 (2021-12-05)
 
 Still an alpha, make backups and expect crashes.
 
@@ -17,7 +36,7 @@ Still an alpha, make backups and expect crashes.
 * Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History, No Fade
 * Currently removed Enhanced Block Entities (temp. replacement FastChest), Hydrogen, Phosphor
 
-### 3.0.0-alpha.1
+### 3.0.0-alpha.1 (2021-12-02)
 
 The first 1.18 alpha is here!
 
