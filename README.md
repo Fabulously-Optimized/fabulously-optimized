@@ -53,7 +53,7 @@ More notable videos:
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.4.0 are below.
+List of mods as of 2.6.0 are below.
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
@@ -92,6 +92,8 @@ List of mods as of 2.4.0 are below.
 
 ### Functional
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) by alexander9892 - adds a scrollable zoom feature
+* [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) - fixes the game freezing when you open resource pack folders, a screenshot etc.
 * [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) by ImUrX - adds audio output menu (1.18 parity!)
 * [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) by JackFred2 - increases chat history limit
 * [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) by anar4732 - keeps typed message history across worlds

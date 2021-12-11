@@ -60,6 +60,15 @@ Current mod changes:
 
 ## 1.17.1
 
+### 2.6.0 (2021-12-11)
+
+* Fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) (updated Fabric Loader to 0.12.11)
+* Backported config changes from 3.0.0-alpha.3
+
+* Added Borderless Mining - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* Added FastOpenLinksAndFolders - fixes the game freezing when you open resource pack folders, a screenshot etc.
+* Updated Architectury API, Continuity, Fabric API
+
 ### 2.5.0 (2021-11-30)
 
 Major update with Phosphor and bugfixes for Sodium and Iris!

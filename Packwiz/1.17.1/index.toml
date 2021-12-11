@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "745da5107ecb302f0bdcc3871db964a105f50745730c59882c0e7c3bfbbfe9b0"
+hash = "4b8102683181660807ce5de11ed64aec48746bd901594bf6923955849be9773c"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -14,11 +14,15 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "8ea79f86612f7167b3dfb547adddb6a838c4f44d6fc1459273d9db7bdf37ebd8"
+hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "9e5a27686f70c354edf2be39c5bdf218c691a8766d622d288edeb9913f1969ed"
+hash = "9f685f90cce55ac7202440904796cd6468077deeeab66c54c61041999d938e3b"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "67e294546dd7b0c9e0490574590273283da61a4363c68c9a4dcc86e4ba4b4195"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -46,7 +50,7 @@ hash = "d755fffa95330f9083560f4a9f197c01bd18acccf5f262e506b4d80a4809e6bf"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "67a031c7e7c187bf7b93db9d7419e0c9b01fefecaf1e54f408b16fb9d7fc57c0"
+hash = "05b7909baff3cd0087fe07937c86a7fede1a904ace562b8df5116eca50f1f1e4"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
@@ -62,19 +66,19 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "8ea79f86612f7167b3dfb547adddb6a838c4f44d6fc1459273d9db7bdf37ebd8"
+hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
 hash = "7da931e9b7389034de203f2719b99ab74ab8e500a898ad5d563d64f13c501120"
 
 [[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
-hash = "120fa73cd1bc43ef382877ba62fc193254903aa60695ec712e74da61b9e6f623"
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "7e597a01436a7da6f68b3456848ad6b6a000c0efad3e5c04d75249b1df170b18"
+hash = "d7db2ecda246d459f1d65c2c60d3581b8d5c02242a957d0c66b2e17a51d86af0"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -97,12 +101,17 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "0cb15ecf2dbcd17db7d220f4dea657b79419d0c1dbab7a26b4d569d4752a1981"
+hash = "e3c30e2d80a459b83f98f76d09f9a4ed5c7d0f6c9a6da68f010acc3563064b2b"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "93dc278b289483148e3474c88243f8fa640a1be7934bd70bb4dbcb9619a1711f"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.toml"
+hash = "3b82c6c39fd621dc11e2e8a1fc1ca84cb40978d89685b5f9604dfa2e24d97f09"
 metafile = true
 
 [[files]]
@@ -137,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "0563271b36703c2594ac9b3c7382b614f4396ec664f12109a79bcffb95824143"
+hash = "085fe63a5eb184f27fa75481047de205138e2b23951ea319ce17b2edfb7a5fd4"
 metafile = true
 
 [[files]]
@@ -172,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f3657399363cb42c00dce1256e320a49ca6a3c5465d20ae0642fbd70ebdee1f4"
+hash = "1aabee907a0be9641a40559bc9d16bfeac49c7987f1cfc2a89fb56e55be8aad5"
 metafile = true
 
 [[files]]
@@ -183,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.toml"
 hash = "dcabf5541393b6b96d4f45a5638cb7d41ea7a40b0d8ef03129e8dc78eba984bd"
+metafile = true
+
+[[files]]
+file = "mods/fastopenlinksandfolders.toml"
+hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
 metafile = true
 
 [[files]]
@@ -312,4 +326,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "66107bbc5a698d094f0dd546d5cfe2dcd049a32c4dd79b2bfc6d2df5772de637"
+hash = "d405e2542f970be8a1c6b9a57e491c41e358f5e958d09ea38202387b371760a9"
