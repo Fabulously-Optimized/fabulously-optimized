@@ -2,7 +2,7 @@ import os
 
 user_path = os.path.expanduser("~")
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-version_no = "1.18"
+version_no = "1.18.1"
 packwiz_path = git_path + "Packwiz/" + version_no + "/"
 exe_path = "..\packwiz.exe"
 mods_path = packwiz_path + "mods"

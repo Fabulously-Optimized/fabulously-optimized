@@ -1,6 +1,15 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://github.com/Madis0/fabulously-optimized/wiki/Version-support-FAQ).
 
+## 1.18.1
+
+### 3.1.0-alpha.1 (2021-12-11)
+
+* 1.18.1 has fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)
+* Updated Wi Zoom
+* Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History
+* Currently removed Lithium, Hydrogen, Phosphor
+
 ## 1.18
 
 Notes:

@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.0.0-alpha.2",
+    "versionId": "3.1.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
@@ -33,21 +33,30 @@
             ]
         },
         {
-            "path": "mods/architectury-3.1.45.jar",
+            "path": "mods/architectury-3.2.47.jar",
             "hashes": {
-                "murmur2": "3836475077"
+                "murmur2": "3145725562"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3544/954/architectury-3.1.45.jar"
+                "https://edge.forgecdn.net/files/3554/993/architectury-3.2.47.jar"
             ]
         },
         {
-            "path": "mods/bettermounthud-1.1.2.jar",
+            "path": "mods/bettermounthud-1.1.3.jar",
             "hashes": {
-                "murmur2": "1872359493"
+                "murmur2": "1229323412"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3380/384/bettermounthud-1.1.2.jar"
+                "https://edge.forgecdn.net/files/3556/489/bettermounthud-1.1.3.jar"
+            ]
+        },
+        {
+            "path": "mods/borderless-mining-1.1.1+1.18.jar",
+            "hashes": {
+                "murmur2": "749412091"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3549/245/borderless-mining-1.1.1+1.18.jar"
             ]
         },
         {
@@ -96,12 +105,12 @@
             ]
         },
         {
-            "path": "mods/completeconfig-lib-1.3.1.jar",
+            "path": "mods/completeconfig-lib-1.3.3.jar",
             "hashes": {
-                "murmur2": "2134120234"
+                "murmur2": "4163740095"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3543/595/completeconfig-lib-1.3.1.jar"
+                "https://edge.forgecdn.net/files/3555/13/completeconfig-lib-1.3.3.jar"
             ]
         },
         {
@@ -141,6 +150,15 @@
             ]
         },
         {
+            "path": "mods/enhancedblockentities-0.5+1.18.jar",
+            "hashes": {
+                "murmur2": "138218904"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3557/31/enhancedblockentities-0.5+1.18.jar"
+            ]
+        },
+        {
             "path": "mods/EntityCulling-Fabric-1.3.3.jar",
             "hashes": {
                 "murmur2": "91561999"
@@ -177,12 +195,12 @@
             ]
         },
         {
-            "path": "mods/fast-chest-1.2+1.18.jar",
+            "path": "mods/fastopenlinksandfolders-1.0.0.jar",
             "hashes": {
-                "murmur2": "2721805013"
+                "murmur2": "287316950"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3544/190/fast-chest-1.2+1.18.jar"
+                "https://edge.forgecdn.net/files/3540/39/fastopenlinksandfolders-1.0.0.jar"
             ]
         },
         {
@@ -204,12 +222,12 @@
             ]
         },
         {
-            "path": "mods/iris-mc1.18-1.1.3.jar",
+            "path": "mods/iris-mc1.18.1-1.1.3.jar",
             "hashes": {
-                "murmur2": "4029896349"
+                "murmur2": "3998045195"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3542/382/iris-mc1.18-1.1.3.jar"
+                "https://edge.forgecdn.net/files/3558/900/iris-mc1.18.1-1.1.3.jar"
             ]
         },
         {
@@ -258,15 +276,6 @@
             ]
         },
         {
-            "path": "mods/lithium-fabric-mc1.18-0.7.6-rc1.jar",
-            "hashes": {
-                "murmur2": "285215123"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3550/11/lithium-fabric-mc1.18-0.7.6-rc1.jar"
-            ]
-        },
-        {
             "path": "mods/modmenu-3.0.0.jar",
             "hashes": {
                 "murmur2": "2387229544"
@@ -285,12 +294,12 @@
             ]
         },
         {
-            "path": "mods/nofade-1.17-2.0.0.jar",
+            "path": "mods/nofade-1.18-2.0.1.jar",
             "hashes": {
-                "murmur2": "1935255380"
+                "murmur2": "4017265390"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3355/800/nofade-1.17-2.0.0.jar"
+                "https://edge.forgecdn.net/files/3550/935/nofade-1.18-2.0.1.jar"
             ]
         },
         {
@@ -366,12 +375,12 @@
             ]
         },
         {
-            "path": "mods/WI-Zoom-1.3-MC1.18.jar",
+            "path": "mods/WI-Zoom-1.3-MC1.18.1.jar",
             "hashes": {
-                "murmur2": "1210673680"
+                "murmur2": "2361468328"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3541/830/WI-Zoom-1.3-MC1.18.jar"
+                "https://edge.forgecdn.net/files/3557/414/WI-Zoom-1.3-MC1.18.1.jar"
             ]
         },
         {
@@ -385,7 +394,7 @@
         }
     ],
     "dependencies": {
-        "minecraft": "1.18",
-        "fabric-loader": "0.12.8"
+        "minecraft": "1.18.1",
+        "fabric-loader": "0.12.11"
     }
 }
