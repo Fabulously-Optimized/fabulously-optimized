@@ -1,19 +1,8 @@
 {
   "quality": {
     "weather_quality": "FAST",
+    "leaves_quality": "DEFAULT",
     "enable_vignette": true
-  },
-  "advanced": {
-    "arena_memory_allocator": "ASYNC",
-    "animate_only_visible_textures": true,
-    "use_entity_culling": true,
-    "use_particle_culling": true,
-    "use_fog_occlusion": true,
-    "use_block_face_culling": false,
-    "allow_direct_memory_access": true,
-    "enable_memory_tracing": false,
-    "use_advanced_staging_buffers": true,
-    "max_pre_rendered_frames": 3
   },
   "notifications": {
     "hide_donation_button": true

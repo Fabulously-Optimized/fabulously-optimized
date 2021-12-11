@@ -1,5 +1,30 @@
 {
   "version": 1,
   "overrides": {
+    "fabric": {
+      "+depends": {
+        "fabricloader": ">=0.12.10"
+      }
+    },
+    "advancementinfo": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "antighost": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "colormatic": {
+      "-recommends": {
+        "quilt-loader": ""
+      }
+    },
+    "hydrogen": {
+      "+depends": {
+        "java": "<16"
+      }
+    }
   }
 }

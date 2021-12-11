@@ -330,6 +330,18 @@ Other
 
 ## 1.16.5
 
+### 1.11.0 (2021-12-11)
+
+* Fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) (updated Fabric Loader to 0.12.11)
+* Backported config changes from 3.0.0-alpha.3
+* Hydrogen warns you when you're using incompatible Java
+
+* Added Borderless Mining - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* Added FastOpenLinksAndFolders - fixes the game freezing when you open resource pack folders, a screenshot etc.
+* Added Reese's Sodium Options
+* Iris is now separate from Sodium
+* Updated Architectury API, Cloth Config API, Fabric API, Fabric Language Kotlin, Iris Shaders, Not Enough Crashes, Phosphor, Sodium Extra
+
 ### 1.10.0 (2021-11-01)
 
 An unexpected backport update that matches the mods with 2.3.2 ones, released because 1.9.1 got broken due to a Java 16 and Jumploader issue. For the best experience I recommend upgrading to the latest version though.
