@@ -92,8 +92,8 @@ List of mods as of 2.6.0 are below.
 
 ### Functional
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) by alexander9892 - adds a scrollable zoom feature
-* [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
-* [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) - fixes the game freezing when you open resource pack folders, a screenshot etc.
+* [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) by comp500 - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) by altrisi - fixes the game freezing when you open resource pack folders, a screenshot etc.
 * [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) by ImUrX - adds audio output menu (1.18 parity!)
 * [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) by JackFred2 - increases chat history limit
 * [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) by anar4732 - keeps typed message history across worlds
