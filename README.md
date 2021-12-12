@@ -51,7 +51,7 @@ More notable videos:
 
 ## Included mods
 
-The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://gist.github.com/LambdAurora/1f6a4a99af374ce500f250c6b42e8754). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
+The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
 List of mods as of 2.6.0 are below.
 
