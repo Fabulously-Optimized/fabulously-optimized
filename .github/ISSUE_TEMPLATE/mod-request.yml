@@ -2,10 +2,13 @@ name: Mod request
 description: Suggest a new mod to be included in Fabulously Optimized
 labels: mod
 body:
-- type: markdown
+- type: checkboxes
   attributes:
-    value: |
-      Before you request a mod, [please search](https://github.com/Madis0/fabulously-optimized/issues) if it has already been requested.
+    label: Is there an existing issue for this?
+    description: Before you request a mod, [please search](https://github.com/Madis0/fabulously-optimized/issues) if it has already been requested.
+    options:
+    - label: I have searched for existing issues.
+      required: true
 
 - type: input
   attributes:
