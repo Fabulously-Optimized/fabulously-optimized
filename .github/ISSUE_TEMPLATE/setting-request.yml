@@ -2,11 +2,15 @@ name: Setting change
 description: Suggest an option, config, keybind or manifest change
 labels: option
 body:
-- type: markdown
+- type: checkboxes
   attributes:
-    value: |
+    label: Is there an existing issue for this?
+    description: |
       Before you request a config change, [please search](https://github.com/Madis0/fabulously-optimized/issues) if it has already been requested and see [if it has already been changed](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options). 
       If it has been changed and you don't see it, make sure you are on the latest version and delete your `options.txt`. Launching the pack will regenerate the new options.
+    options:
+    - label: I have searched for existing issues.
+      required: true
 
 - type: textarea
   attributes:
