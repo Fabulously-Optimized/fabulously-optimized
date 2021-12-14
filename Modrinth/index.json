@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.1.0-alpha.1",
+    "versionId": "3.1.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
@@ -33,12 +33,12 @@
             ]
         },
         {
-            "path": "mods/architectury-3.2.47.jar",
+            "path": "mods/architectury-3.2.51.jar",
             "hashes": {
-                "murmur2": "3145725562"
+                "murmur2": "2356609179"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3554/993/architectury-3.2.47.jar"
+                "https://edge.forgecdn.net/files/3562/469/architectury-3.2.51.jar"
             ]
         },
         {
@@ -87,12 +87,12 @@
             ]
         },
         {
-            "path": "mods/cloth-config-6.0.45-fabric.jar",
+            "path": "mods/cloth-config-6.1.48-fabric.jar",
             "hashes": {
-                "murmur2": "4158055047"
+                "murmur2": "2178376205"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3546/622/cloth-config-6.0.45-fabric.jar"
+                "https://edge.forgecdn.net/files/3559/638/cloth-config-6.1.48-fabric.jar"
             ]
         },
         {
@@ -123,12 +123,12 @@
             ]
         },
         {
-            "path": "mods/cem-0.6.2.jar",
+            "path": "mods/cem-0.7.0.jar",
             "hashes": {
-                "murmur2": "3701570831"
+                "murmur2": "3362249222"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3440/846/cem-0.6.2.jar"
+                "https://edge.forgecdn.net/files/3561/474/cem-0.7.0.jar"
             ]
         },
         {
@@ -273,6 +273,15 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3209/972/lazydfu-0.1.2.jar"
+            ]
+        },
+        {
+            "path": "mods/lithium-fabric-mc1.18.1-0.7.6.jar",
+            "hashes": {
+                "murmur2": "3985106497"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3565/566/lithium-fabric-mc1.18.1-0.7.6.jar"
             ]
         },
         {

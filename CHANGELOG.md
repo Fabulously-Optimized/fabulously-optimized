@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.1
 
+### 3.1.0-alpha.2 (2021-12-14)
+
+* Re-added Lithium
+* Updated Architectury API, Cloth Config API, Custom Entity Models
+* Currently forced (do NOT report any issues to those mods!): Animatica, Don't Clear Chat History
+* Currently removed Hydrogen, Phosphor
+
 ### 3.1.0-alpha.1 (2021-12-11)
 
 * 1.18.1 has fixed [the critical multiplayer bug](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition)

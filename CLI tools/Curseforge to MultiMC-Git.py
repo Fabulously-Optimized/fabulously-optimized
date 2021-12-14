@@ -50,8 +50,7 @@ copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "Cur
 
 # Curseforge to Git 
 
-copy_file(cf_path + "manifest.json", git_path + "Curseforge/manifest.json", "Curseforge manifest.json", "Git")
-copy_file(cf_path + "modlist.html", git_path + "Curseforge/modlist.html", "Curseforge modlist.html", "Git")
+# Manifest and json copying moved to "Curseforge to Packwiz.py" to make sure they are always newest
 remove_dir(pw_path + "/config/", "Packwiz configs in Git")
 copy_dir(cf_path + "config/", pw_path + "/config/", "Curseforge configs", "Git (Packwiz)")
 copy_dir(cf_path + "resourcepacks/", pw_path + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")
