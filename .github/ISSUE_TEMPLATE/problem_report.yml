@@ -6,7 +6,14 @@ body:
   attributes:
     value: |
       If it is a crash and you know what mod caused it (e.g. it says on the crash report), please report the issue to that mod instead.
-      Otherwise you can still report any crashes to me, and we\'ll try to find the problem cause together. 
+      Otherwise you can still report any crashes to me, and we\'ll try to find the problem cause together.
+- type: checkboxes
+  attributes:
+    label: Is there an existing issue for this?
+    description: Please search to see if an issue already exists for the bug you encountered.
+    options:
+    - label: I have searched for existing issues.
+      required: true
 
 - type: textarea
   attributes:
