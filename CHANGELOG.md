@@ -23,6 +23,11 @@ Notes:
 * MultiMC: Minecraft 1.18 requires [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/). 
 * GDLauncher: make sure you are using the latest version, click the green arrow in titlebar when available
 
+### 3.0.0-alpha.4 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+* Updated Architectury API, Cloth Config API, Custom Entity Models
+
 ### 3.0.0-alpha.3 (2021-12-11)
 
 Some fixes for 1.18 before moving to 1.18.1.
