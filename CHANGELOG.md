@@ -348,6 +348,11 @@ Other
 
 ## 1.16.5
 
+### 1.11.1 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+* Updated Architectury API, Cloth Config API
+
 ### 1.11.0 (2021-12-11)
 
 General

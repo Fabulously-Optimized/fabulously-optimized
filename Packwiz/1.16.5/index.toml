@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e668a13fb62332215360459e52e4831230b4456f7191b0d693c17f10af85376e"
+hash = "e5a74fe56aeced3bbd5b2921216a189f0d8b86a2f13747290a862a45142c3040"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -14,7 +18,7 @@ hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "6bd7c15530c2342bbd297d0ff5648c537999fa9871efdca83a3d9dae01f36d58"
+hash = "b74783718bc18e1a6402c56130612ab2bad97ad23ba2c6ba4b112527ecf6c233"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -96,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "fc76c36b29e53b4fa96cff277800b6b9973805fa0ecff4eef39d4fb2e154dc23"
+hash = "7486ce6b9916d0486e25e34736f5f0b75b78ffe2a1944edff1c5b0b52e79d528"
 metafile = true
 
 [[files]]
@@ -121,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "de00a3a951f0fc357733217c554ebb484a4477f825197b04d370848361d97d50"
+hash = "405422e979d9904e49f44d2ba163a869da092bf10187399ea92063bf3c61ff34"
 metafile = true
 
 [[files]]
