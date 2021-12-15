@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.1
 
+### 3.1.0-alpha.3 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+
 ### 3.1.0-alpha.2 (2021-12-14)
 
 * Re-added Lithium

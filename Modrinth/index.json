@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.1.0-alpha.2",
+    "versionId": "3.1.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations",
     "files": [
@@ -404,6 +404,6 @@
     ],
     "dependencies": {
         "minecraft": "1.18.1",
-        "fabric-loader": "0.12.11"
+        "fabric-loader": "0.12.12"
     }
 }
