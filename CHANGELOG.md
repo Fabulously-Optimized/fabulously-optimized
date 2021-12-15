@@ -76,6 +76,11 @@ Current mod changes:
 
 ## 1.17.1
 
+### 2.6.1 (2021-12-15)
+
+* Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
+* Updated Architectury API, Cloth Config API
+
 ### 2.6.0 (2021-12-11)
 
 General
