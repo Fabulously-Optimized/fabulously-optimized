@@ -3,6 +3,9 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.1
 
+Notes:
+* See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
+
 ### 3.1.0-alpha.3 (2021-12-15)
 
 * Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
