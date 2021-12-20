@@ -79,8 +79,10 @@ def main():
     
     git_path = Path.home() / "Documents/GitHub/fabulously-optimized"
     version_no = "1.18.1"
+    packwiz_path = git_path / "Packwiz" / version_no
+    modrinth_path = git_path / "Modrinth"
 
-    args = parser.parse_args(['-i', str(git_path / "Packwiz" / version_no),
+    args = parser.parse_args(['-i', str(packwiz_path),
                               '-o', str(Path.home() / "Desktop")])
 
     manager = ModrinthManager(args.input_dir, args.output_dir)
@@ -96,7 +98,7 @@ def main():
     # Export index.json to git
 
     from json import dump
-    with open(git_path / "Modrinth" / "modrinth.index.json", "w") as file:
+    with open(modrinth_path / "modrinth.index.json", "w") as file:
         dump(manager.index, file, indent = 4)
 
 if __name__ == "__main__":
