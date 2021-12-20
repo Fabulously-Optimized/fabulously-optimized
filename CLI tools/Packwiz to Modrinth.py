@@ -1,6 +1,6 @@
 # Original by https://github.com/RozeFound, modified by Madis0
 
-from pathlib import Path, PurePosixPath
+from pathlib import Path
 
 import pkg_resources as dist
 
@@ -38,7 +38,7 @@ class ModrinthManager(object):
         elif 'forge' in pack_info['versions']: self.index['dependencies']['forge'] = pack_info['versions']['forge']
 
         from zipfile import ZipFile
-        self.zip = ZipFile(self.output_dir / (self.index['name'] + " " + self.index['versionId'] + " Modrinth.zip"), "w")
+        self.zip = ZipFile(self.output_dir / (self.index['name'] + " " + self.index['versionId'] + " Modrinth.mrpack"), "w")
 
         super().__init__()
 
@@ -46,24 +46,24 @@ class ModrinthManager(object):
 
         from json import dumps
 
-        self.zip.writestr("index.json", dumps(self.index, indent=4))
+        self.zip.writestr("modrinth.index.json", dumps(self.index, indent=4))
         self.zip.close()
 
     def add_override(self, path:Path):
         
-        override_dir = PurePosixPath("overrides")
+        override_dir = Path("overrides")
         relative_path = path.relative_to(self.root_dir)
         self.zip.write(path, override_dir / relative_path)   
 
     def add_mod(self, path:Path):
 
-        mods_dir = PurePosixPath("mods")
+        mods_dir = Path("mods")
         
         with open(path) as file:
             mod_info = parse_toml(file)
 
         mod_index = {
-            "path": str(mods_dir / mod_info['filename']),
+            "path": mods_dir.joinpath(mod_info['filename']).as_posix(),
             "hashes": {mod_info['download']['hash-format']: mod_info['download']['hash']},
             "downloads": [mod_info['download']['url']]
         }
@@ -72,38 +72,31 @@ class ModrinthManager(object):
 
 def main():
 
-    # from argparse import ArgumentParser
-    # parser = ArgumentParser(description="Python script for converting packwiz to modrinth modpack format")
-    # parser.add_argument('-i', '--input', dest='input_dir', type=Path, help='Specify packwiz pack directory', required=True)
-    # parser.add_argument('-o', '--output', dest='output_dir', type=Path, help='Specify output directory (optional)')
-    # args = parser.parse_args()
+    from argparse import ArgumentParser
+    parser = ArgumentParser(description="Python script for converting packwiz to modrinth modpack format")
+    parser.add_argument('-i', '--input', dest='input_dir', type=Path, help='Specify packwiz pack directory', required=True)
+    parser.add_argument('-o', '--output', dest='output_dir', type=Path, help='Specify output directory (optional)')
     
-    # manager = ModrinthManager(args.input_dir, args.output_dir)
-
-    import os
-
-    user_path = os.path.expanduser("~")
-    git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
+    git_path = Path.home() / "Documents/GitHub/fabulously-optimized"
     version_no = "1.18.1"
-    packwiz_path = git_path + "Packwiz/" + version_no
-    modrinth_path = git_path + "Modrinth/"
 
-    input_dir = PurePosixPath(packwiz_path)
-    output_dir = PurePosixPath(user_path + "/Desktop")
-    manager = ModrinthManager(input_dir, output_dir)
+    args = parser.parse_args(['-i', str(git_path / "Packwiz" / version_no),
+                              '-o', str(Path.home() / "Desktop")])
 
-    with open(input_dir / "index.toml") as file:
+    manager = ModrinthManager(args.input_dir, args.output_dir)
+
+    with open(args.input_dir / "index.toml") as file:
         index = parse_toml(file)
 
     for file in index['files']:
         if 'metafile' in file and file['metafile'] is True:
-            manager.add_mod(input_dir / file['file'])
-        else: manager.add_override(input_dir / file['file'])
+            manager.add_mod(args.input_dir / file['file'])
+        else: manager.add_override(args.input_dir / file['file'])
 
     # Export index.json to git
 
     from json import dump
-    with open(modrinth_path + "index.json", "w") as file:
+    with open(git_path / "Modrinth" / "modrinth.index.json", "w") as file:
         dump(manager.index, file, indent = 4)
 
 if __name__ == "__main__":
