@@ -56,6 +56,7 @@ body:
     options:
       - Curseforge Launcher
       - MultiMC
+      - MultiMC (auto-update)
       - GDLauncher
       - Minecraft Launcher (vanilla)
       - Other (please write below)
@@ -67,9 +68,9 @@ body:
     label: Install method
     description: How did you install the modpack?
     options:
-      - Fresh install/new profile
-      - Upgraded an existing profile (please write below, what version to what version)
-      - Other (please write below)
+      - FO fresh install/new profile
+      - Upgraded FO to a new version (what version to what version?)
+      - Using with additional mods/something else (please write below)
   validations:
     required: true
 
