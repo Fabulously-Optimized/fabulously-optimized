@@ -8,18 +8,17 @@ Notes:
 
 ### 3.1.0-alpha.5 (2021-12-23)
 
-Thank you for 200K downloads! Starlight testing is ongoing, [don't forget to vote](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21).
+Thank you for 200K downloads! Starlight testing is ongoing, [don't forget to vote](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829).
 
 * Updated Animatica, Architectury API, Fabric API
 * Enabled Cull Leaves resource pack
-* Fixed MultiMC (auto-update) 1.18.1 version 
 * Slightly simplified MultiMC/MultiMC auto-update instance config
 * Currently forced (do NOT report any issues to those mods!): Don't Clear Chat History
 * Currently removed Hydrogen, Phosphor
 
 ### 3.1.0-alpha.4 (2021-12-20)
 
-It's time to test Starlight! [Your vote matters, read more here!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21)
+It's time to test Starlight! [Your vote matters, read more here!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829)
 
 * Added Starlight for testing
 * Added back Cull Leaves (oops!)
