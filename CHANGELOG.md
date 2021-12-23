@@ -6,6 +6,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.1.0-alpha.5 (2021-12-23)
+
+Thank you for 200K downloads! Starlight testing is ongoing, [don't forget to vote](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21).
+
+* Updated Animatica, Architectury API, Fabric API
+* Enabled Cull Leaves resource pack
+* Fixed MultiMC (auto-update) 1.18.1 version 
+* Slightly simplified MultiMC/MultiMC auto-update instance config
+* Currently forced (do NOT report any issues to those mods!): Don't Clear Chat History
+* Currently removed Hydrogen, Phosphor
+
 ### 3.1.0-alpha.4 (2021-12-20)
 
 It's time to test Starlight! [Your vote matters, read more here!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21)
