@@ -8,10 +8,12 @@ Notes:
 
 ### 3.1.0-alpha.6 (2022-01-02)
 
-Time to test Phosphor!
+Happy new year, time to test Phosphor! [Vote here!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-1003749296)
 
 * Swapped Starlight with Phosphor for testing
 * Updated Architectury API, CIT Resewn, FastOpenLinksAndFolders, LambdaBetterGrass, Lithium, Not Enough Crashes, Reese's Sodium Options
+* Currently forced (do NOT report any issues to those mods!): Don't Clear Chat History
+* Currently removed Hydrogen
 
 ### 3.1.0-alpha.5 (2021-12-23)
 
