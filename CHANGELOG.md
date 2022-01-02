@@ -6,6 +6,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.1.0-alpha.6 (2022-01-02)
+
+Time to test Phosphor!
+
+* Swapped Starlight with Phosphor for testing
+* Updated Architectury API, CIT Resewn, FastOpenLinksAndFolders, LambdaBetterGrass, Lithium, Not Enough Crashes, Reese's Sodium Options
+
 ### 3.1.0-alpha.5 (2021-12-23)
 
 Thank you for 200K downloads! Starlight testing is ongoing, [don't forget to vote](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829).

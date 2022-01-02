@@ -18,7 +18,7 @@ hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "f3aa3477d95739a0615f4d16b7c4bb367b622913a77b084457eddcf42d9c4afe"
+hash = "9e07d927cace3894dcbd4f8be79a2f64eb4745bf63c37b0cec2064720cdcd202"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "45d453e750f9f45732afbb74d41c7f142baae528733d820de8610d4cbb3a8101"
+hash = "5c87334b84ed36f60b1729c24daabf8975c2f1062bde04429c38d893c27da13b"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "528609fda26cd9ab08ae12e361beebf65ce6a3ab771b7e263b3b2d7a01332f83"
+hash = "0267ed3b0f26a6a3b4cb59756beba5b93b6ba85ff356da35aff3e4bb73c9f06f"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
+hash = "2a1b908703ce72329a592fc713da7a1389b520b431c3946a93f2f3b3234a16af"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "9b6ae1f491e5db99c57f0fca6da4db2bd999bf8bda287cf60cf861dd3d18fa49"
+hash = "220ab04d4b6e98672a143f8761e6044ecdd6190036e1248638e940d46fcb7c97"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "3a8fb7d4258da78b56e3e34f67df5b13f4773496bad7a5806fb603342294753c"
+hash = "8336f0e1553fb60080e1d0230a851711d268d72379e1377ebf040ae8faca3f7f"
 metafile = true
 
 [[files]]
@@ -270,12 +270,17 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3953018927bb4f7464d1c9a9a19e84e2b59a5e387ffe5ec2e79f01e8d7bb0996"
+hash = "6b3918f68cdde22ca096a51a4db0a0d17c9d7109807c6b23a7f51aba15e46f50"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "96ed04f6ee09c1b734bdd03514811f85b0fc79266d886949404dbde5b7919c28"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "d4581cbd048ec6d30f4ac9349abe3eb36e7f3a400cf8282779a1177c0a0292b9"
+hash = "a3b39e94523b4e4b0bf40b5bd6d900342d153bec98910f9c174c1cd2e436dd69"
 metafile = true
 
 [[files]]
@@ -296,11 +301,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "5503fe0648bb3a63076467152d9a8acd1e8735118534d368cbfd6fd84bb4693c"
-metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "c641a4f43b1c98bc9b7931306b55e83477233a4e33febf49ce7f9bebfa058872"
 metafile = true
 
 [[files]]
