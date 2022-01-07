@@ -119,6 +119,11 @@ Current mod changes:
 
 ## 1.17.1
 
+### 2.6.2 (2022-01-07)
+
+* Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
+* Updated Animatica, Architectury API, CIT Resewn, Fabric API, Fabric Language Kotlin, FastOpenlinksAndFolders, Iris Shaders, item Model Fix, LambdaBetterGrass, Reese's Sodium Options
+
 ### 2.6.1 (2021-12-15)
 
 * Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
