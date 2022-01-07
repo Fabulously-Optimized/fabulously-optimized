@@ -396,6 +396,12 @@ Other
 
 ## 1.16.5
 
+### 1.11.2 (2022-01-07)
+
+* Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
+* Updated FastOpenLinksAndFolders, Iris Shaders, Item Model Fix, Reese's Sodium Options
+* Skipped Architectury API update as something broke in its last few versions for 1.16.5
+
 ### 1.11.1 (2021-12-15)
 
 * Another patch for the multiplayer bug (updated Fabric Loader to 0.12.12)
