@@ -6,7 +6,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
-### 3.1.0-alpha.6 (2022-01-07)
+### 3.1.0-alpha.7 (2022-01-07)
 
 * Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
 * Updated Animatica, Colormatic, Fabric API, Iris Shaders, Reese's Sodium Options
