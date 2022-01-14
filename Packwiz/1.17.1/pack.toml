@@ -1,11 +1,11 @@
 name = "Fabulously Optimized"
-pack-format = "packwiz:1.0.0"
 version = "2.6.2"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d27573d4ae6fb8e500c1e6975afc854accaf7114a7bf6e6683b4a3077f758cdc"
+hash = "47c8531d2c44595b3a02db74afc688a166e25d65cbbacea14f8cd1fde3cbac48"
 
 [versions]
 fabric = "0.12.12"
