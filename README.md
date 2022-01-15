@@ -54,12 +54,12 @@ More notable videos:
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 2.6.0 are below.
+List of mods as of 3.1.0-beta.1 are below.
 
 ### Smooth
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) by CaffeineMC - optimizes game physics and chunk loading
-* [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) by CaffeineMC - optimizes light rendering
+* [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) by Spottedstar - optimizes light rendering
 * [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) by FoundationGames - makes chests, signs, beds etc. render faster
@@ -82,20 +82,20 @@ List of mods as of 2.6.0 are below.
 * [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) by kwertiTheCats - adds Optifine's custom colors support, clear skies and clear void options
 * [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) by FoundationGames - adds Optifine's animated textures support
 * [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by dorianpb - adds Optifine's custom entity models [partial support](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)
+* [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) by Motschen - adds some Optifine features like emissive mobs and resource pack-provided splash screen
 * [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) by Motschen - adds Optifine's "better trees" - fancy leaves are more see-through for better FPS
 * [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) by Giserbaer - makes the advancement screen bigger, adds a requirement list and search bar
 * [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) by Lortseam_ - horse health and your food are displayed at the same time, jump bar appears when jumping
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) by shedaniel - adds toast animations and FO text in main menu, plus several opt-in features
 * [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by Pepper_Bell - fixes transparent gaps in held items
 * [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) by Kyrptonaught - makes sure all tooltips fit to screen
-* [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) by shedaniel - removes the potion offset on Creative inventory (similar to 1.18)
 * [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) by ramidzkh - lets you take a high-res screenshot with F9
 
 ### Functional
 * [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) by alexander9892 - adds a scrollable zoom feature
 * [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) by comp500 - allows you to have Minecraft in full screen and interact with a different window (disabled by default)
+* [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix) by j_t_a_i - disables telemetry and fixes some bugs
 * [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) by altrisi - fixes the game freezing when you open resource pack folders, a screenshot etc.
-* [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) by ImUrX - adds audio output menu (1.18 parity!)
 * [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) by JackFred2 - increases chat history limit
 * [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) by anar4732 - keeps typed message history across worlds
 * [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) by Giselbaer - fixes glitching blocks by typing /ghost (please use it rarely)
@@ -104,9 +104,10 @@ List of mods as of 2.6.0 are below.
 * [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) by NatanFudge - allows playing after a crash and getting the crash report as a link
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by modmuss50 - makes most mods work
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) by comp500 - adds support for the Rendering API (more parity mods)
-* [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by shedaniel - makes many mods' config work
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by lortseam_ - makes some mods' config work
+* [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) by shedaniel - makes many mods' config work
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) by shedaniel - makes some mods work
+* [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) by TeamMidnightDust - makes some mods work
 * [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) by shedaniel - makes some mods work
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) by modmuss50 - makes some mods work
 
@@ -129,3 +130,5 @@ The modpack has been set up to be compatible with the rules of most public third
 
 The command /ghost (provided by [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)) may be disabled or disallowed on some servers [as it sends a slight amount of packets](https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103), but it is overall safe if you use it rarely, only when needed.
 This modpack disables the in-game third-party server disclaimer, so if you are using the multiplayer function, you also agree to the following: "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.". You must also be aware that you can use the "social interactions" screen by pressing the key P in-game.
+This modpack is using Starlight for chunk optimization and due to the way it works, disabling (or replacing) the mod will make your existing worlds initially load a bit slower.
+This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm.

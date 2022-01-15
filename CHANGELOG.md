@@ -6,10 +6,31 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.1.0-beta.1 (2022-01-15)
+
+First beta for 1.18.1!
+
+New mods
+* Puzzle - adds some Optifine features like emissive mobs and resource pack-provided splash screen
+* TieFix - disables telemetry and fixes some bugs
+* Starlight - improves chunk performance, 75% preferred it so here it is! (1.0.0 stable version)
+
+Removed mods
+* Phosphor - replaced with Starlight as a result of the public vote
+* No Telemetry - replaced with TieFix which has the same feature but can be toggled as well
+
+Other
+* Sodium got a bugfix update - fixing lag spikes, fog, memory leak and more
+* Updated CIT Resewn, Cloth API, Dynamic FPS, Fabric API, Indium, Iris Shaders, Not Enough Crashes, Sodium, Sodium Extra
+* Colormatic temporarily removed as it breaks with the new Sodium
+* Don't Clear Chat History is still forced, Hydrogen is still removed - will not highlight in changelog anymore until something changes
+
 ### 3.1.0-alpha.7 (2022-01-07)
 
 * Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
 * Updated Animatica, Colormatic, Fabric API, Iris Shaders, Reese's Sodium Options
+* Currently forced (do NOT report any issues to those mods!): Don't Clear Chat History
+* Currently removed Hydrogen
 
 ### 3.1.0-alpha.6 (2022-01-02)
 
