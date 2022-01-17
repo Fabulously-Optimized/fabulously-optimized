@@ -60,7 +60,6 @@ List of mods as of 3.1.0-beta.1 are below.
 * [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) by CaffeineMC - optimizes general rendering to improve FPS, adds some graphics options
 * [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) by CaffeineMC - optimizes game physics and chunk loading
 * [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) by Spottedstar - optimizes light rendering
-* [Hydrogen](https://modrinth.com/mod/hydrogen)¹ by CaffeineMC - reduces RAM usage
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) by malte0811 - reduces RAM usage
 * [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) by FoundationGames - makes chests, signs, beds etc. render faster
 * [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) by tr9zw - stops rendering entities that are behind a wall
