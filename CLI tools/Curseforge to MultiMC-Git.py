@@ -5,8 +5,8 @@ user_path = os.path.expanduser("~")
 cf_path = user_path + "/curseforge/minecraft/Instances/Fabulously Optimized/"
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-version_no = "1.18.1"
-pw_path = git_path + "Packwiz/" + version_no
+minecraft_version = "1.18.1"
+packwiz_path = git_path + "Packwiz/" + minecraft_version
 
 # Functions
 
@@ -51,6 +51,6 @@ copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "Cur
 # Curseforge to Git 
 
 # Manifest and json copying moved to "Curseforge to Packwiz.py" to make sure they are always newest
-remove_dir(pw_path + "/config/", "Packwiz configs in Git")
-copy_dir(cf_path + "config/", pw_path + "/config/", "Curseforge configs", "Git (Packwiz)")
-copy_dir(cf_path + "resourcepacks/", pw_path + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")
+remove_dir(packwiz_path + "/config/", "Packwiz configs in Git")
+copy_dir(cf_path + "config/", packwiz_path + "/config/", "Curseforge configs", "Git (Packwiz)")
+copy_dir(cf_path + "resourcepacks/", packwiz_path + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")

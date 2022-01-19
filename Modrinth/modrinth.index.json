@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.1.0-beta.1",
+    "versionId": "3.1.0-beta.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -96,29 +96,29 @@
             ]
         },
         {
-            "path": "mods/CITResewn-0.9.0+1.18.1.jar",
+            "path": "mods/CITResewn-0.9.1+1.18.1.jar",
             "hashes": {
-                "sha1": "60e44a133f87f46744e1f159f81f51fc512416e2"
+                "sha1": "a320fbe1f0f6c1364c6afb224f993ba4252e6206"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3606/965/CITResewn-0.9.0+1.18.1.jar"
+                "https://edge.forgecdn.net/files/3609/263/CITResewn-0.9.1+1.18.1.jar"
             ]
         },
         {
-            "path": "mods/cloth-api-3.0.55.jar",
+            "path": "mods/cloth-api-3.1.61.jar",
             "hashes": {
-                "sha1": "8225987585850dbd39aad59a577647099f8892fa"
+                "sha1": "089d6e5e937b5b58d0fb62e10b9cb26919bfe75e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3601/126/cloth-api-3.0.55.jar"
+                "https://edge.forgecdn.net/files/3612/123/cloth-api-3.1.61.jar"
             ]
         },
         {
@@ -239,16 +239,16 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.46.0+1.18.jar",
+            "path": "mods/fabric-api-0.46.1+1.18.jar",
             "hashes": {
-                "sha1": "2c13860bb9010c0d1e801bd6995c643bdba3a999"
+                "sha1": "9fbd31c83bde00d574e5def7b262beb4b2eb507b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3605/891/fabric-api-0.46.0+1.18.jar"
+                "https://edge.forgecdn.net/files/3609/610/fabric-api-0.46.1+1.18.jar"
             ]
         },
         {
@@ -317,16 +317,16 @@
             ]
         },
         {
-            "path": "mods/iris-mc1.18.1-1.1.5.jar",
+            "path": "mods/iris-mc1.18.1-1.2.0-pre.jar",
             "hashes": {
-                "sha1": "f4a6c1abebe6ae597b8023db9921986fc658ac5e"
+                "sha1": "94c66f904514e1a7e0ad106542a693e09b603044"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3605/379/iris-mc1.18.1-1.1.5.jar"
+                "https://edge.forgecdn.net/files/3612/857/iris-mc1.18.1-1.2.0-pre.jar"
             ]
         },
         {

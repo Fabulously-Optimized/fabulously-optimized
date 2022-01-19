@@ -39,10 +39,11 @@ if is_legacy == False and refresh_only == False:
     extract_file(cf_zip_path, "modlist.html", git_path + "Curseforge", "Curseforge modlist.html", "Git")
 
 # Export Modrinth pack and manifest
-if is_legacy == False and refresh_only == False:
+if refresh_only == False:
     os.system(packwiz_exe_path + " modrinth export")
     for pack in os.listdir(packwiz_path):
         if pack.endswith('.mrpack'):
-            extract_file(packwiz_path + "/" + pack, "modrinth.index.json", git_path + "/" + "Modrinth", "Modrinth manifest", "Git")
+            if is_legacy == False:
+                extract_file(packwiz_path + "/" + pack, "modrinth.index.json", git_path + "/" + "Modrinth", "Modrinth manifest", "Git")
             os.replace(packwiz_path + "/" + pack, os.path.expanduser("~/Desktop") + "/" + pack)
             print("Moved " + pack + " to desktop")

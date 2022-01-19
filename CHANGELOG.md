@@ -6,6 +6,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.1.0-beta.2 (2022-01-19)
+
+Individual shader settings can now be configured!
+
+* Updated CIT Resewn, Cloth API, Fabric API, Iris Shaders
+
 ### 3.1.0-beta.1 (2022-01-15)
 
 First beta for 1.18.1!
