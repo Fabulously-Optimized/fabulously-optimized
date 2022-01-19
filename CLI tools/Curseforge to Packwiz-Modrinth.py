@@ -1,5 +1,7 @@
 import os
 from zipfile import ZipFile
+from pathlib import Path
+import toml # pip install toml
 
 user_path = os.path.expanduser("~")
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
@@ -7,6 +9,7 @@ minecraft_version = "1.18.1"
 packwiz_path = git_path + "Packwiz/" + minecraft_version + "/"
 packwiz_exe_path = "..\packwiz.exe"
 mods_path = packwiz_path + "mods"
+packwiz_manifest = "pack.toml"
 
 refresh_only = False
 is_legacy = False
@@ -27,6 +30,16 @@ if refresh_only == False:
 os.chdir(packwiz_path)
 if refresh_only == False:
     cf_zip_path = input("Please drag the Curseforge zip file here: ")[3:][:-1] # Because dragging the file adds "& " and double quotes
+    
+    # Update pack.toml first
+    pack_version = str(Path(cf_zip_path).with_suffix("")).split("-")[1:][0]
+    with open(packwiz_manifest, "r") as f:
+        pack_toml = toml.load(f)
+    pack_toml["version"] = pack_version
+    with open(packwiz_manifest, "w") as f:
+        toml.dump(pack_toml, f)
+
+    # Packwiz import
     os.system(packwiz_exe_path + " curseforge import \"" + cf_zip_path + "\"")
     if is_legacy:
         os.system(packwiz_exe_path + " remove hydrogen")
