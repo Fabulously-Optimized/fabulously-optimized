@@ -432,6 +432,12 @@ Other
 
 ## 1.16.5
 
+### 1.12.0 (2022-01-19)
+
+Individual shader settings can now be configured!
+
+* Updated Architectury API, Cloth API, Iris Shaders, Not Enough Crashes
+
 ### 1.11.2 (2022-01-07)
 
 * Iris got a performance update, the game should run better regardless of whether you have shaders enabled.
