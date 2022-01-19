@@ -145,6 +145,13 @@ Current mod changes:
 
 ## 1.17.1
 
+### 2.7.0 (2022-01-19)
+
+Individual shader settings can now be configured!
+
+* Updated CIT Resewn, Fabric API, Iris Shaders, Not Enough Crashes
+* Skipped Cloth API update as things broke
+
 ### 2.6.3 (2022-01-14)
 
 * Sodium got an update with some bugfixes, including a memory leak fix.
