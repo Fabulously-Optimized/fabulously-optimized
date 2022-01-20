@@ -101,6 +101,11 @@ List of mods as of 3.1.0-beta.1 are below.
 * [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) by shedaniel - keeps your settings when updating the modpack
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) by TerraformersMC - adds a mod list with descriptions (enable FO's bundled resource pack for better experience!)
 * [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) by NatanFudge - allows playing after a crash and getting the crash report as a link
+
+### Libraries
+
+Basically mods that make other mods work. Hidden from in-game mod menu, but should not be removed unless you're certain they are unused.
+
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) by modmuss50 - makes most mods work
 * [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) by comp500 - adds support for the Rendering API (more parity mods)
 * [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) by lortseam_ - makes some mods' config work
