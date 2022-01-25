@@ -65,17 +65,15 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✔️ |  |  | Makes chests render faster |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Reduces RAM usage |
-| [Hydrogen](https://modrinth.com/mod/hydrogen)¹ | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Reduces RAM usage |
+| [Hydrogen](https://modrinth.com/mod/hydrogen)&nbsp;¹ | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Reduces RAM usage |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes language switching instant |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the game startup faster |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes game physics and chunk loading |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes game startup and resource packs switch faster by removing fade animations |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | optimizes light rendering |
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Optimizes light rendering |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Improves the overall responsiveness of the game (less likely to freeze) |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | &nbsp;&nbsp;✔️ | Optimizes light rendering |
-
-¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ### Pretty
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
@@ -84,14 +82,14 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom item textures support |
-| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [kwertiTheCats](https://www.curseforge.com/members/kwertiTheCats) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | ² | Adds Optifine's custom colors support, clear skies and clear void options |
+| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [kwertiTheCats](https://www.curseforge.com/members/kwertiTheCats) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;&nbsp;² | Adds Optifine's custom colors support, clear skies and clear void options |
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's connected textures support |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better trees" - fancy leaves are more see-through for better FPS |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom entity models - [(partial support at this time)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
 | [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | &nbsp;&nbsp;✔️ |  |  | Let's you change fog settings (distance, density, dimensions, etc.) |
 | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's and other mods' capes, [(instructions are here)](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape) |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Let's you take a high-res screenshot with F9 |
-| [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | [coderbot](https://www.curseforge.com/members/coderbot) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's shaders support, [(recommended ones are here)](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now) |
+| [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | [coderbot](https://www.curseforge.com/members/coderbot) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's shaders support, [(recommended shader list is here)](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes transparent gaps in held items |
 | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better grass" and "better snow" |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper |
@@ -101,8 +99,6 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds many Optifine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
-
-² Currently has issues, will be re-added once resolved
 
 ### Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
@@ -133,6 +129,12 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds support for the Rendering API (more parity mods) |
 | [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) |  |  | &nbsp;&nbsp;✔️ | Makes some mods work |
+
+## Notes
+
+¹ [Hydrogen is not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods),
+
+² Colormatic currently has problems, it will be re-added once resolved.
 
 ## Help
 
