@@ -29,7 +29,7 @@ Other
 * Sodium got a bugfix update - fixing lag spikes, fog, memory leak and more
 * Updated CIT Resewn, Cloth API, Dynamic FPS, Fabric API, Indium, Iris Shaders, Not Enough Crashes, Sodium, Sodium Extra
 * Colormatic temporarily removed as it breaks with the new Sodium
-* Don't Clear Chat History is still forced, Hydrogen is still removed - will not highlight in changelog anymore until something changes
+* Don't Clear Chat History is still forced, Hydrogen is deprecated - will not highlight in changelog anymore until something changes
 
 ### 3.1.0-alpha.7 (2022-01-07)
 
