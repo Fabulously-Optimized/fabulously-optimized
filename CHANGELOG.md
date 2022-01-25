@@ -6,6 +6,27 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.1.0
+
+Even though MC 1.18.2 is coming soon, I now consider FO to be stable for MC 1.18.1 and I recommend you to update to it.
+Major changes compared to 2.7.0:
+
+New mods
+
+* Starlight - improves chunk performance, 75% preferred it in the public vote (1.0.0 stable version)
+* Puzzle - adds some Optifine features like emissive mobs and resource pack-provided splash screen
+* TieFix - disables telemetry (sending diagnostics data to Mojang) and fixes some bugs
+
+Removed mods
+
+* Phosphor - replaced with Starlight as a result of the public vote
+* Hydrogen - deprecated, but FerriteCore already exists and has similar features
+
+Other
+
+* Colormatic temporarily removed as it breaks with the new Sodium
+* Between beta 2 and stable: updated Fabric API, Reese's Sodium Options
+
 ### 3.1.0-beta.2 (2022-01-19)
 
 Individual shader settings can now be configured!

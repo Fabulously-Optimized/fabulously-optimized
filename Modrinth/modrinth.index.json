@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.1.0-beta.2",
+    "versionId": "3.1.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -239,16 +239,16 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.46.1+1.18.jar",
+            "path": "mods/fabric-api-0.46.2+1.18.jar",
             "hashes": {
-                "sha1": "9fbd31c83bde00d574e5def7b262beb4b2eb507b"
+                "sha1": "54c9ee9ab6affaec8294f89569fbbf19113dc6dc"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3609/610/fabric-api-0.46.1+1.18.jar"
+                "https://edge.forgecdn.net/files/3613/749/fabric-api-0.46.2+1.18.jar"
             ]
         },
         {
@@ -486,16 +486,16 @@
             ]
         },
         {
-            "path": "mods/reeses_sodium_options-mc1.18.1-1.3.0.jar",
+            "path": "mods/reeses_sodium_options-mc1.18.1-1.4.0.jar",
             "hashes": {
-                "sha1": "79d6546bbae78836c42e3a880597a700d6c403f8"
+                "sha1": "417389dd15f5f1f84ed9c8479264d09f99742498"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3596/724/reeses_sodium_options-mc1.18.1-1.3.0.jar"
+                "https://edge.forgecdn.net/files/3622/245/reeses_sodium_options-mc1.18.1-1.4.0.jar"
             ]
         },
         {
