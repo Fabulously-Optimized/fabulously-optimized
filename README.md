@@ -72,6 +72,8 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | ✔️ | ✔️ | ✔️ | optimizes general rendering to improve FPS, adds some graphics options |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | ✔️ | optimizes light rendering |
 
+¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+
 ### Pretty
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
@@ -97,7 +99,6 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | ✔️ | ✔️ | ✔️ | adds many Optifine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | ✔️ | ✔️ | ✔️ | makes sure all tooltips fit to screen |
 
-¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 ² Currently has issues, will be re-added once resolved
 
 ### Functional
