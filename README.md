@@ -70,6 +70,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | ✔️ | ✔️ | ✔️ | makes the game startup faster |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | ✔️ | ✔️ | ✔️ | optimizes game physics and chunk loading |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | ✔️ | ✔️ | ✔️ | makes game startup and resourcepack switch faster by removing fade animations |
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | ✔️ | ✔️ |  | optimizes light rendering |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | ✔️ | ✔️ | ✔️ | improves the overall responsiveness of the game (less likely to freeze) |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | ✔️ | ✔️ | ✔️ | optimizes general rendering to improve FPS, adds some graphics options |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | ✔️ | optimizes light rendering |
