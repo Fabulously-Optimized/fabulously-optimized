@@ -126,9 +126,9 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✔️ | ✔️ | ✔️ | Makes some mods work |
-| [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✔️ | ✔️ | ✔️ | Makes Some mods work |
-| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✔️ | ✔️ | ✔️ | Makes Many mods' config work |
-| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) | [lortseam_](https://www.curseforge.com/members/lortseam_) |  | ✔️ | ✔️ | Makes Some mods' config work |
+| [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✔️ | ✔️ | ✔️ | Makes some mods work |
+| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✔️ | ✔️ | ✔️ | Makes many mods' config work |
+| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) | [lortseam_](https://www.curseforge.com/members/lortseam_) |  | ✔️ | ✔️ | Makes some mods' config work |
 | [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) | [modmuss50](https://www.curseforge.com/members/modmuss50) | ✔️ | ✔️ | ✔️ | Makes most mods work |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50) | ✔️ | ✔️ | ✔️ | Makes some mods work |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | [comp500](https://www.curseforge.com/members/comp500) | ✔️ | ✔️ | ✔️ | Adds support for the Rendering API (more parity mods) |
