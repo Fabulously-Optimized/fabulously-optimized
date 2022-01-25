@@ -52,6 +52,8 @@ More notable videos:
 
 ## Included mods
 
+Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions.
+
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
 ### Smooth
