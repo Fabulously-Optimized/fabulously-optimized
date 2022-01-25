@@ -54,8 +54,6 @@ More notable videos:
 
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
-List of mods as of 3.1.0-beta.1 are below.
-
 ### Smooth
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
@@ -65,6 +63,7 @@ List of mods as of 3.1.0-beta.1 are below.
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | ✔️ | ✔️ | ✔️ | stops rendering entities that are behind a wall |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | ✔️ |  |  | makes chests render faster |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | ✔️ | ✔️ | ✔️ | reduces RAM usage |
+| [Hydrogen](https://modrinth.com/mod/hydrogen)¹ | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | ✔️ | ✔️ |  | reduces RAM usage |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | ✔️ | ✔️ | makes language switching instant |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | ✔️ | ✔️ | ✔️ | makes the game startup faster |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | ✔️ | ✔️ | ✔️ | optimizes game physics and chunk loading |
@@ -80,7 +79,7 @@ List of mods as of 3.1.0-beta.1 are below.
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | ✔️ | ✔️ | adds Optifine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | ✔️ | ✔️ | horse health and your food are displayed at the same time, jump bar appears when jumping |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM) |  | ✔️ | ✔️ | adds Optifine's custom item textures support |
-| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [kwertiTheCats](https://www.curseforge.com/members/kwertiTheCats) | ✔️ | ✔️ | * | adds Optifine's custom colors support, clear skies and clear void options |
+| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [kwertiTheCats](https://www.curseforge.com/members/kwertiTheCats) | ✔️ | ✔️ | ² | adds Optifine's custom colors support, clear skies and clear void options |
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) |  | ✔️ | ✔️ | adds Optifine's connected textures support |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Motschen](https://www.curseforge.com/members/Motschen) | ✔️ | ✔️ | ✔️ | adds Optifine's "better trees" - fancy leaves are more see-through for better FPS |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | ✔️ | ✔️ | ✔️ | adds Optifine's custom entity models - [partial support](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
@@ -98,7 +97,8 @@ List of mods as of 3.1.0-beta.1 are below.
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | ✔️ | ✔️ | ✔️ | adds many Optifine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | ✔️ | ✔️ | ✔️ | makes sure all tooltips fit to screen |
 
-\*currently has issues, may be re-added once resolved
+¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+² Currently has issues, will be re-added once resolved
 
 ### Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
