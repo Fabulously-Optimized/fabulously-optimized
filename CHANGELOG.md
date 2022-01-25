@@ -6,7 +6,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
-### 3.1.0
+### 3.1.0 (2022-01-25)
 
 Even though MC 1.18.2 is coming soon, I now consider FO to be stable for MC 1.18.1 and I recommend you to update to it.
 Major changes compared to 2.7.0:
