@@ -59,9 +59,11 @@ List of mods as of 3.1.0-beta.1 are below.
 ### Smooth
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
+| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [Motschen](https://www.curseforge.com/members/Motschen) | ✅ |  |  | makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | ✅ | ✅ | ✅ | renders Minecraft slower if it is in the background to reduce CPU usage |
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | ✅ | ✅ | makes chests, signs, beds, etc. render faster |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | ✅ | ✅ | ✅ | stops rendering entities that are behind a wall |
+| [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | ✅ |  |  | makes chests render faster |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | ✅ | ✅ | ✅ | reduces RAM usage |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | ✅ | ✅ | makes language switching instant |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | ✅ | ✅ | ✅ | makes the game startup faster |
@@ -82,12 +84,14 @@ List of mods as of 3.1.0-beta.1 are below.
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) |  | ✅ | ✅ | adds Optifine's connected textures support |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Motschen](https://www.curseforge.com/members/Motschen) | ✅ | ✅ | ✅ | adds Optifine's "better trees" - fancy leaves are more see-through for better FPS |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | ✅ | ✅ | ✅ | adds Optifine's custom entity models - [partial support](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
+| [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | ✅ |  |  | lets you change fog settings (distance, density, dimensions, etc.) |
 | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | ✅ | ✅ | ✅ | adds Optifine's and other mods' capes, [instructions are here](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape) |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | ✅ | ✅ | ✅ | lets you take a high-res screenshot with F9 |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | [coderbot](https://www.curseforge.com/members/coderbot) | ✅ | ✅ | ✅ | adds Optifine's shaders support, [recommended ones are here](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) | ✅ | ✅ | ✅ | fixes transparent gaps in held items |
 | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | ✅ | ✅ | ✅ | adds Optifine's "better grass" and "better snow" |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | ✅ | ✅ | ✅ | adds Optifine's "dynamic lights" - light up the area by holding a light source, activating TNT or creeper |
+| [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✅ | ✅ |  | keeps the inventory in place when under potion effects |
 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) | [Motschen](https://www.curseforge.com/members/Motschen) |  |  | ✅ | adds some Optifine features like emissive mobs and resource pack-provided splash screen |
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | ✅ | ✅ | ✅ | makes Sodium's settings vertical, centered and scrollable |
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | ✅ | ✅ | ✅ | adds toast animations and FO text in main menu, plus several opt-in features |
