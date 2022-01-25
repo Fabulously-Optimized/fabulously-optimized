@@ -119,7 +119,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 
 ### Libraries
 
-Basically mods that make other mods work. Hidden from in-game mod menu, but should not be removed unless you're certain they are unused.
+Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
