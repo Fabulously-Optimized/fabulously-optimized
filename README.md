@@ -89,6 +89,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better trees" - fancy leaves are more see-through for better FPS |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom entity models - [(partial support at this time)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
 | [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | &nbsp;&nbsp;✔️ |  |  | Let's you change fog settings (distance, density, dimensions, etc.) |
+| [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  | &nbsp;&nbsp;✔️ | Adds Optifine's random and emissive mobs support |
 | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's and other mods' capes, [(instructions are here)](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape) |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Let's you take a high-res screenshot with F9 |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | [coderbot](https://www.curseforge.com/members/coderbot) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's shaders support, [(recommended shader list is here)](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) |
@@ -96,7 +97,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better grass" and "better snow" |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Keeps player inventory in place when under potion effects |
-| [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) | [Motschen](https://www.curseforge.com/members/Motschen) |  |  | &nbsp;&nbsp;✔️ | Adds some Optifine features like emissive mobs and resource pack-provided splash screen |
+| [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) | [Motschen](https://www.curseforge.com/members/Motschen) |  |  | &nbsp;&nbsp;✔️ | Adds some minor Optifine features like resource pack-provided splash screen |
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) | [FlashyReese](https://www.cursefo&nbsp;&nbsp;rge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes Sodium's settings vertical, centered and scrollable |
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds many Optifine-like graphics toggles: animations, particles, weather, FPS indicator and more |
@@ -117,7 +118,8 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | [NatanFudge](https://www.curseforge.com/members/NatanFudge) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows playing after a crash and getting the crash report as a link |
 | [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix) | [j_t_a_i](https://www.curseforge.com/members/j_t_a_i) |  |  | &nbsp;&nbsp;✔️ | Disables telemetry and fixes some bugs |
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Keeps your settings when updating the modpack |
-| [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) | [alexander9892](https://www.curseforge.com/members/alexander9892) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds a scrollable zoom feature |
+| [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) | [alexander9892](https://www.curseforge.com/members/alexander9892) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Adds a scrollable zoom feature |
+| [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) | [XanderIsDev](https://www.curseforge.com/members/xanderisdev) | | | &nbsp;&nbsp;✔️ | Adds a scrollable and customizable zoom feature |
 
 ### Libraries
 
@@ -126,7 +128,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
-| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | | Makes some mods work |
+| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes many mods' config work |
 | [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) | [lortseam_](https://www.curseforge.com/members/lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods' config work |

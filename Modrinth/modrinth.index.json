@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.1.0",
+    "versionId": "3.2.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,29 @@
             ]
         },
         {
-            "path": "mods/architectury-3.4.9.jar",
+            "path": "mods/architectury-3.6.13.jar",
             "hashes": {
-                "sha1": "81da7576040fecc1bbe3927ab199a6565e34b386"
+                "sha1": "a54d166fb1d141b090e7a0ab2fbdef241df7ea95"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3587/337/architectury-3.4.9.jar"
+                "https://edge.forgecdn.net/files/3631/761/architectury-3.6.13.jar"
+            ]
+        },
+        {
+            "path": "mods/arrp-0.5.4.jar",
+            "hashes": {
+                "sha1": "288124e89e8b3f7bb9f67b49a085f2c0d55a2439"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3529/149/arrp-0.5.4.jar"
             ]
         },
         {
@@ -226,6 +239,19 @@
             ]
         },
         {
+            "path": "mods/entity-texture-features-2.1.1.jar",
+            "hashes": {
+                "sha1": "b8c932f2eafd5b9ea7507109d088650114a626b7"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3629/937/entity-texture-features-2.1.1.jar"
+            ]
+        },
+        {
             "path": "mods/EntityCulling-Fabric-1.3.3.jar",
             "hashes": {
                 "sha1": "17e958986004107f980fe17fbe902abffb662a1a"
@@ -239,16 +265,16 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.46.2+1.18.jar",
+            "path": "mods/fabric-api-0.46.3+1.18.jar",
             "hashes": {
-                "sha1": "54c9ee9ab6affaec8294f89569fbbf19113dc6dc"
+                "sha1": "bdaa6560dc8b2edb4139218a4634a8cfa89f065e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3613/749/fabric-api-0.46.2+1.18.jar"
+                "https://edge.forgecdn.net/files/3630/946/fabric-api-0.46.3+1.18.jar"
             ]
         },
         {
@@ -278,16 +304,16 @@
             ]
         },
         {
-            "path": "mods/fastopenlinksandfolders-1.0.1.jar",
+            "path": "mods/fastopenlinksandfolders-1.1.0.jar",
             "hashes": {
-                "sha1": "4e4128d2d6c720e448e50cd6feec53d60ae29fb5"
+                "sha1": "4318049b69cb9a3d8979fda3b19424b01c64a621"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3590/993/fastopenlinksandfolders-1.0.1.jar"
+                "https://edge.forgecdn.net/files/3629/291/fastopenlinksandfolders-1.1.0.jar"
             ]
         },
         {
@@ -499,16 +525,16 @@
             ]
         },
         {
-            "path": "mods/slight-gui-modifications-2.0.2.jar",
+            "path": "mods/slight-gui-modifications-2.0.3.jar",
             "hashes": {
-                "sha1": "1e0167bec3b952eaf8dd8b6578c15cf852f6c999"
+                "sha1": "db638cdfdf251d5459c0aa6714b141d6eafd405d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3512/331/slight-gui-modifications-2.0.2.jar"
+                "https://edge.forgecdn.net/files/3630/10/slight-gui-modifications-2.0.3.jar"
             ]
         },
         {
@@ -525,16 +551,16 @@
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.18.1-0.3.8.jar",
+            "path": "mods/sodium-extra-mc1.18.1-0.3.9.jar",
             "hashes": {
-                "sha1": "0702cc8dc73eff1613ca37ece81d1124bc39cdf6"
+                "sha1": "55ac1699a7a7dd85854b36f299e9956af64bf765"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3605/328/sodium-extra-mc1.18.1-0.3.8.jar"
+                "https://edge.forgecdn.net/files/3623/805/sodium-extra-mc1.18.1-0.3.9.jar"
             ]
         },
         {
@@ -564,16 +590,16 @@
             ]
         },
         {
-            "path": "mods/TieFix-1.8.0.jar",
+            "path": "mods/TieFix-1.9.0.jar",
             "hashes": {
-                "sha1": "e75b788584060cc8e6464be7847ab84a18ddf715"
+                "sha1": "dc07b38ae4c4b4788851d852f51970d65103a01f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3582/452/TieFix-1.8.0.jar"
+                "https://edge.forgecdn.net/files/3625/238/TieFix-1.9.0.jar"
             ]
         },
         {
@@ -590,19 +616,6 @@
             ]
         },
         {
-            "path": "mods/WI-Zoom-1.3-MC1.18.1.jar",
-            "hashes": {
-                "sha1": "a669e6e97ba7850b09d10e50ef6a09eff93f8d9e"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3557/414/WI-Zoom-1.3-MC1.18.1.jar"
-            ]
-        },
-        {
             "path": "mods/yosbr-0.1.1.jar",
             "hashes": {
                 "sha1": "0643830cab952fc96872702e681b863b550c8530"
@@ -613,6 +626,19 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/2934/596/yosbr-0.1.1.jar"
+            ]
+        },
+        {
+            "path": "mods/Zoomify-1.1.0.jar",
+            "hashes": {
+                "sha1": "effd7b04bd9a04246d12ba6a1ded6e53aa3d70bf"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3630/317/Zoomify-1.1.0.jar"
             ]
         }
     ],
