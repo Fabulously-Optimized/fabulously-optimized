@@ -14,11 +14,11 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
+hash = "7e94b21de48ce733607b86c3c60f7297a066e3d6141f27fc6de994e2fe5d46db"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "5f9e91d174b054dd7cb1d63ed19032207249bf80bdefb69ca75cf54c62ccc68e"
+hash = "337179a4dbb392aa432355ed3fbd02bfb7b82c8d2175fc4fadac7706797dd957"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -70,7 +70,7 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "823e13cceab67ae7856cbfc91fcec40cadb1a7b958993b92f2501928659a0641"
+hash = "7e94b21de48ce733607b86c3c60f7297a066e3d6141f27fc6de994e2fe5d46db"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-fabric.toml"
 hash = "0a08fd6ef2b5d07a11e308406bed1c215fdd4d3d5dbec5bb0f031c62a3dbfe94"
+metafile = true
+
+[[files]]
+file = "mods/arrp.toml"
+hash = "22203e5764097d5d7e17e6082417f8b69ba3af34336e4d9406f9389266523de5"
 metafile = true
 
 [[files]]
@@ -200,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "2a1b908703ce72329a592fc713da7a1389b520b431c3946a93f2f3b3234a16af"
+hash = "c9f9623a4f5a3dd5edecf5450929d417ac97a8e88411a18037fd3ca96d2d1ef3"
 metafile = true
 
 [[files]]
@@ -290,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "61a675d8bce288f0f9aa6455d0924bcbba3f3b03903f91e5fb4829e2cafa9307"
+hash = "fca0ababf5eccca1dae2a19d671157fc69b98174f6f44962983c8ffd3253c3d7"
 metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "5b33de3c55d5c60d41ac57d72b7697b6e6ad8795de481895b3f0d11e2e0d974a"
+hash = "7a626545d40c1dc1f22fec009b47f640de21df9aeca937ad0c83e173082e5f67"
 metafile = true
 
 [[files]]
@@ -305,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "d6b54a334333066b499aa84b1ac648a1dedf7997caac97419c7a0c7d9216d482"
+hash = "75e82d1342fc64d64d70bc53291e49a8398a540e02994f2102fd5810107e107e"
 metafile = true
 
 [[files]]

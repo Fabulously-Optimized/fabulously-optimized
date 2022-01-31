@@ -126,6 +126,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
 |---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
+| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | | Makes some mods work |
 | [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes many mods' config work |
 | [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig) | [lortseam_](https://www.curseforge.com/members/lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods' config work |
