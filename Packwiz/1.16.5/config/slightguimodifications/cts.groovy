@@ -5,7 +5,7 @@ mainMenu {
             x { it - 2 }
             y { it - 20 }
         }
-        text = literal("Fabulously Optimized 1.12.0")
+        text = literal("Fabulously Optimized 1.12.1")
         align = "right"
         color = 0xFFFFFF
         hoveredColor = 0x55FFFF

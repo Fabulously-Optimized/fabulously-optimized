@@ -466,6 +466,10 @@ Other
 
 ## 1.16.5
 
+### 1.12.1 (2022-01-31)
+
+* Updated FastOpenLinksAndFolders, Reese's Sodium Options, Sodium Extra
+
 ### 1.12.0 (2022-01-19)
 
 Individual shader settings can now be configured!
