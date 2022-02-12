@@ -485,6 +485,12 @@ Other
 
 ## 1.16.5
 
+### 1.12.2 (2022-02-12)
+
+* Updated Architectury API, Cloth Config API, Entity Culling
+* Updated Fabric Loader to 1.13.1
+* Updated FO version label's/MultiMC notes' link
+
 ### 1.12.1 (2022-01-31)
 
 * Updated FastOpenLinksAndFolders, Reese's Sodium Options, Sodium Extra
