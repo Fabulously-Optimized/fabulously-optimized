@@ -187,6 +187,12 @@ Current mod changes:
 
 ## 1.17.1
 
+### 2.7.2 (2022-02-12)
+
+* Updated Architectury API, Cloth Config API, Entity Culling
+* Updated Fabric Loader to 0.13.1
+* Updated FO version label's/MultiMC notes' link
+
 ### 2.7.1 (2022-01-31)
 
 * Updated FastOpenLinksAndFolders, Reese's Sodium Options, Sodium Extra

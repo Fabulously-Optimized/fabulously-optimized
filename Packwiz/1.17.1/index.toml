@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "861e09447ba6c92f25522d7217a67ebb65deb9e99de8b871c9b8d705a778e47d"
+hash = "665c6e4877af7a3d293b6669542b27d42fb86a78af6aea1a667c643f4985f9b5"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -18,7 +18,7 @@ hash = "7e94b21de48ce733607b86c3c60f7297a066e3d6141f27fc6de994e2fe5d46db"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "337179a4dbb392aa432355ed3fbd02bfb7b82c8d2175fc4fadac7706797dd957"
+hash = "5694cc3fd86cb344a4bb276dc861ab524e18baf3bed2d258395990554dba85e1"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "0a08fd6ef2b5d07a11e308406bed1c215fdd4d3d5dbec5bb0f031c62a3dbfe94"
+hash = "a500bd1a9efecaa7bfe22f58cae9fec8c0c748560271e6cf884d5200f0007ac8"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "c8b792cdc006780b256e1a1a05fca91cc32542547d9805ece9b48eff78e5b2d6"
+hash = "fabf03324d8c6ac24b081cd5ad95e9af9956641d208ce3eab74d010d2300ac23"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "e5d58b089848f10d56194c507735ce7255230cc0da4e641737eb10f19b55b9d3"
+hash = "41fb864c9364903677e448d0eeaf5b8237c6c6182227933911fbf09705192220"
 metafile = true
 
 [[files]]
@@ -212,6 +212,10 @@ metafile = true
 file = "mods/ferritecore-fabric.toml"
 hash = "765dda5cfe882d95c502139428b69867798ee1be80f15b26ed4c972fa80451ee"
 metafile = true
+
+[[files]]
+file = "mods/hydrogen-fabric-mc1.17.1-0.3.jar"
+hash = "598f6168244467220f37e9a5a07a5ba59af5a0df0edf5ba13a44c7ee9b02c1e1"
 
 [[files]]
 file = "mods/hydrogen.toml"
