@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.2.0",
+    "versionId": "3.2.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-3.6.13.jar",
+            "path": "mods/architectury-3.6.17.jar",
             "hashes": {
-                "sha1": "a54d166fb1d141b090e7a0ab2fbdef241df7ea95"
+                "sha1": "488d443070f8f0d5b24d48977aba45317df936b2"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3631/761/architectury-3.6.13.jar"
+                "https://edge.forgecdn.net/files/3638/626/architectury-3.6.17.jar"
             ]
         },
         {
@@ -70,16 +70,16 @@
             ]
         },
         {
-            "path": "mods/bettermounthud-1.1.3.jar",
+            "path": "mods/bettermounthud-1.1.4.jar",
             "hashes": {
-                "sha1": "9fcf66bda29872bbd7ccc3ee7acd5c8d17322cad"
+                "sha1": "60035cc1e9cf8bf880c42f57427719d773df5cd5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3556/489/bettermounthud-1.1.3.jar"
+                "https://edge.forgecdn.net/files/3637/536/bettermounthud-1.1.4.jar"
             ]
         },
         {
@@ -135,16 +135,16 @@
             ]
         },
         {
-            "path": "mods/cloth-config-6.1.48-fabric.jar",
+            "path": "mods/cloth-config-6.2.57-fabric.jar",
             "hashes": {
-                "sha1": "c60956513db9fbb068bcc2bc439479b0e786f341"
+                "sha1": "c52ef239d9d3d3473312d3f57bd8e730155ee5a5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3559/638/cloth-config-6.1.48-fabric.jar"
+                "https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar"
             ]
         },
         {
@@ -239,42 +239,42 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-2.1.1.jar",
+            "path": "mods/entity-texture-features-2.1.3.jar",
             "hashes": {
-                "sha1": "b8c932f2eafd5b9ea7507109d088650114a626b7"
+                "sha1": "08dba63b664df1688eabde0826f9a232144c709e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3629/937/entity-texture-features-2.1.1.jar"
+                "https://edge.forgecdn.net/files/3633/694/entity-texture-features-2.1.3.jar"
             ]
         },
         {
-            "path": "mods/EntityCulling-Fabric-1.3.3.jar",
+            "path": "mods/entityculling-fabric-mc1.18-1.5.0.jar",
             "hashes": {
-                "sha1": "17e958986004107f980fe17fbe902abffb662a1a"
+                "sha1": "d1b944079c193a8d5adf9144cab3bd762bb12f5e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3523/465/EntityCulling-Fabric-1.3.3.jar"
+                "https://edge.forgecdn.net/files/3642/143/entityculling-fabric-mc1.18-1.5.0.jar"
             ]
         },
         {
-            "path": "mods/fabric-api-0.46.3+1.18.jar",
+            "path": "mods/fabric-api-0.46.4+1.18.jar",
             "hashes": {
-                "sha1": "bdaa6560dc8b2edb4139218a4634a8cfa89f065e"
+                "sha1": "23859ea5555187d5f95441815929ab5b3b53f8fe"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3630/946/fabric-api-0.46.3+1.18.jar"
+                "https://edge.forgecdn.net/files/3634/318/fabric-api-0.46.4+1.18.jar"
             ]
         },
         {
@@ -291,16 +291,16 @@
             ]
         },
         {
-            "path": "mods/fabrishot-1.6.0.jar",
+            "path": "mods/fabrishot-1.6.2.jar",
             "hashes": {
-                "sha1": "d715dea2c87107167a507bcab05373a099d2dd60"
+                "sha1": "b3385f37c464a619637ab4dbb49382553b8bf8d3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3542/922/fabrishot-1.6.0.jar"
+                "https://edge.forgecdn.net/files/3637/125/fabrishot-1.6.2.jar"
             ]
         },
         {
@@ -317,16 +317,16 @@
             ]
         },
         {
-            "path": "mods/ferritecore-4.0.0-fabric.jar",
+            "path": "mods/ferritecore-4.1.1-fabric.jar",
             "hashes": {
-                "sha1": "e29e1f3991ea94a161eebd9faf68f9d489d588f3"
+                "sha1": "abc7bf688160e6c66437fb5fa685ccac2a141d42"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3550/48/ferritecore-4.0.0-fabric.jar"
+                "https://edge.forgecdn.net/files/3638/441/ferritecore-4.1.1-fabric.jar"
             ]
         },
         {
@@ -395,16 +395,16 @@
             ]
         },
         {
-            "path": "mods/language-reload-1.2.jar",
+            "path": "mods/language-reload-1.2.1.jar",
             "hashes": {
-                "sha1": "1590b32c7f611b522098f0dee252ee15e21e74b5"
+                "sha1": "4fc9f67f810bbe4a0958999c6eda9c7ebfd1b797"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3510/259/language-reload-1.2.jar"
+                "https://edge.forgecdn.net/files/3641/52/language-reload-1.2.1.jar"
             ]
         },
         {
@@ -643,7 +643,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.12.12",
+        "fabric-loader": "0.13.1",
         "minecraft": "1.18.1"
     }
 }
