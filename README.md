@@ -48,6 +48,7 @@ More notable videos:
 * [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
 * [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
 * [Playing on a phone (Pojav Launcher)](https://www.youtube.com/watch?v=mP5AoxqCKos) by MeCaft
+* [Playing on a Raspberry Pi 4](https://www.youtube.com/watch?v=vVAS8AYNEgU) (low-power specialized computer) by whitebelyash
 * [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
 
 ## Included mods
