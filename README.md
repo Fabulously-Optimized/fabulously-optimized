@@ -85,7 +85,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom item textures support |
-| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [kwertiTheCats](https://www.curseforge.com/members/kwertiTheCats) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;&nbsp;² | Adds Optifine's custom colors support, clear skies and clear void options |
+| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | [kwertiTheCats](https://www.curseforge.com/members/kwertiTheCats) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom colors support, clear skies and clear void options |
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's connected textures support |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better trees" - fancy leaves are more see-through for better FPS |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom entity models - [(partial support at this time)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
@@ -103,8 +103,6 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds many Optifine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
-
-² Currently has issues, will be re-added once resolved
 
 ### Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |

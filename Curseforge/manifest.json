@@ -3,7 +3,7 @@
     "version": "1.18.1",
     "modLoaders": [
       {
-        "id": "fabric-0.13.1",
+        "id": "fabric-0.13.2",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Fabulously Optimized",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "author": "robotkoer",
   "files": [
     {
@@ -51,17 +51,17 @@
     },
     {
       "projectID": 459857,
-      "fileID": 3638441,
+      "fileID": 3652642,
       "required": true
     },
     {
       "projectID": 447673,
-      "fileID": 3623805,
+      "fileID": 3652095,
       "required": true
     },
     {
       "projectID": 419697,
-      "fileID": 3638626,
+      "fileID": 3652981,
       "required": true
     },
     {
@@ -156,12 +156,17 @@
     },
     {
       "projectID": 568563,
-      "fileID": 3633694,
+      "fileID": 3654758,
       "required": true
     },
     {
       "projectID": 353890,
       "fileID": 3606828,
+      "required": true
+    },
+    {
+      "projectID": 325092,
+      "fileID": 3654601,
       "required": true
     },
     {

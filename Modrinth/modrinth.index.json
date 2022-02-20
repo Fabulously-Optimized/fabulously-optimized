@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.2.1",
+    "versionId": "3.2.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-3.6.17.jar",
+            "path": "mods/architectury-3.7.22.jar",
             "hashes": {
-                "sha1": "488d443070f8f0d5b24d48977aba45317df936b2"
+                "sha1": "e1b55f81c989ec72d1c74a54b4bc3e47c6c93b34"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3638/626/architectury-3.6.17.jar"
+                "https://edge.forgecdn.net/files/3652/981/architectury-3.7.22.jar"
             ]
         },
         {
@@ -148,6 +148,19 @@
             ]
         },
         {
+            "path": "mods/colormatic-3.1.0+mc.1.18.1.jar",
+            "hashes": {
+                "sha1": "7357a0a45aa4d00d06f52ba9cee643869ae25e40"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3654/601/colormatic-3.1.0+mc.1.18.1.jar"
+            ]
+        },
+        {
             "path": "mods/completeconfig-lib-1.3.3.jar",
             "hashes": {
                 "sha1": "bdf33e87d89872fd0c2b6992cd467c6777e75e42"
@@ -239,16 +252,16 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-2.1.3.jar",
+            "path": "mods/entity-texture-features-2.2.0.jar",
             "hashes": {
-                "sha1": "08dba63b664df1688eabde0826f9a232144c709e"
+                "sha1": "cf8c14f8d1134040377b9e11bba02e316c08a338"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3633/694/entity-texture-features-2.1.3.jar"
+                "https://edge.forgecdn.net/files/3654/758/entity-texture-features-2.2.0.jar"
             ]
         },
         {
@@ -317,16 +330,16 @@
             ]
         },
         {
-            "path": "mods/ferritecore-4.1.1-fabric.jar",
+            "path": "mods/ferritecore-4.1.2-fabric.jar",
             "hashes": {
-                "sha1": "abc7bf688160e6c66437fb5fa685ccac2a141d42"
+                "sha1": "11d973fe8601658fade9f9981f568efb4b8a5dce"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3638/441/ferritecore-4.1.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3652/642/ferritecore-4.1.2-fabric.jar"
             ]
         },
         {
@@ -551,16 +564,16 @@
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.18.1-0.3.9.jar",
+            "path": "mods/sodium-extra-mc1.18.1-0.4.0.jar",
             "hashes": {
-                "sha1": "55ac1699a7a7dd85854b36f299e9956af64bf765"
+                "sha1": "0a5e52d66faf9ba68cec2d732b72557173a990a0"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3623/805/sodium-extra-mc1.18.1-0.3.9.jar"
+                "https://edge.forgecdn.net/files/3652/95/sodium-extra-mc1.18.1-0.4.0.jar"
             ]
         },
         {
@@ -643,7 +656,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.13.1",
+        "fabric-loader": "0.13.2",
         "minecraft": "1.18.1"
     }
 }

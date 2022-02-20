@@ -6,6 +6,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.2.2 (2022-02-20)
+
+* Updated Fabric Loader to 0.13.2
+* Readded Colormatic
+* Updated Architectury API, Entity Texture Features, FerriteCore, Sodium Extra
+
 ### 3.2.1 (2022-02-12)
 
 * Updated Architectury API, Better Mount HUD, Cloth Config API, Entity Culling, Entity Texture Features, Fabric API, Fabrishot, FerriteCore, Language Reload
