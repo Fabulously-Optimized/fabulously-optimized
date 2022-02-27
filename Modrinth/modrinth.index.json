@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.2.2",
+    "versionId": "3.2.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -18,16 +18,16 @@
             ]
         },
         {
-            "path": "mods/animatica-0.3+1.18.jar",
+            "path": "mods/animatica-0.4+1.18.jar",
             "hashes": {
-                "sha1": "6b384abe9836f17b6287c2bd22fb85189f9101eb"
+                "sha1": "88814223cfa1aa19745529d852d545e5273f58d3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3594/396/animatica-0.3+1.18.jar"
+                "https://edge.forgecdn.net/files/3664/303/animatica-0.4+1.18.jar"
             ]
         },
         {
@@ -174,16 +174,16 @@
             ]
         },
         {
-            "path": "mods/continuity-1.0.3+1.18.jar",
+            "path": "mods/continuity-1.1.0+1.18.jar",
             "hashes": {
-                "sha1": "1d09ae500d2f24112c4c5bc6f00f05bbcc1a0f72"
+                "sha1": "2bb59162457f3fbe90794c1a8cf3ca9e199e268e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3549/420/continuity-1.0.3+1.18.jar"
+                "https://edge.forgecdn.net/files/3655/794/continuity-1.1.0+1.18.jar"
             ]
         },
         {
@@ -434,29 +434,29 @@
             ]
         },
         {
-            "path": "mods/lithium-fabric-mc1.18.1-0.7.7.jar",
+            "path": "mods/lithium-fabric-mc1.18.1-0.7.8.jar",
             "hashes": {
-                "sha1": "8eaffcb994e67ac7b3fd2efa526f7721f8327d11"
+                "sha1": "8b7cd216fee54b9acc261005cae5acbc856b1933"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3590/908/lithium-fabric-mc1.18.1-0.7.7.jar"
+                "https://edge.forgecdn.net/files/3659/182/lithium-fabric-mc1.18.1-0.7.8.jar"
             ]
         },
         {
-            "path": "mods/midnightlib-0.3.1.jar",
+            "path": "mods/midnightlib-0.4.0.jar",
             "hashes": {
-                "sha1": "e0c2f13829fc190775c19065c91c5f2049f76521"
+                "sha1": "bad7a3239314c297a1793b96a8688ba71b0b928e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3531/347/midnightlib-0.3.1.jar"
+                "https://edge.forgecdn.net/files/3657/92/midnightlib-0.4.0.jar"
             ]
         },
         {
@@ -656,7 +656,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.13.2",
+        "fabric-loader": "0.13.3",
         "minecraft": "1.18.1"
     }
 }
