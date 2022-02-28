@@ -509,6 +509,12 @@ Other
 
 ## 1.16.5
 
+### 1.12.3 (2022-02-28)
+
+* Updated Architectury API, Sodium Extra
+* Downgraded Entity Culling to 1.3.0 due to crashes
+* Updated Fabric Loader to 1.13.3
+
 ### 1.12.2 (2022-02-12)
 
 * Updated Architectury API, Cloth Config API, Entity Culling
