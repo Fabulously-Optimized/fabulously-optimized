@@ -205,6 +205,11 @@ Current mod changes:
 
 ## 1.17.1
 
+### 2.7.3 (2022-02-28)
+
+* Updated Animatica, Continuity, Sodium Extra
+* Updated Fabric Loader to 0.13.3
+
 ### 2.7.2 (2022-02-12)
 
 * Updated Architectury API, Cloth Config API, Entity Culling
