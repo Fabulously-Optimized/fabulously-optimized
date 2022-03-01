@@ -5,7 +5,7 @@ import toml # pip install toml
 
 user_path = os.path.expanduser("~")
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-minecraft_version = "1.18.1"
+minecraft_version = "1.18.2"
 packwiz_path = git_path + "Packwiz/" + minecraft_version + "/"
 packwiz_exe_path = "..\packwiz.exe"
 mods_path = packwiz_path + "mods"

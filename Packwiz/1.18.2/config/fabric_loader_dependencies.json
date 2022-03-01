@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabric": {
+      "+depends": {
+        "fabricloader": ">=0.13.1"
+      }
+    },
+    "advancementinfo": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "antighost": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "colormatic": {
+      "-recommends": {
+        "quilt-loader": ""
+      }
+    },
+    "dcch": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}

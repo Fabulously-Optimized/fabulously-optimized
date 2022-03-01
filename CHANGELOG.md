@@ -1,6 +1,16 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://github.com/Madis0/fabulously-optimized/wiki/Version-support-FAQ).
 
+## 1.18.2
+
+### 3.3.0-alpha.1 (2022-03-01)
+
+It... runs? Half of the mods are missing though, it's so alpha that it doesn't even have a version text in the main menu.
+
+* Updated Architectury API, Cloth API, Fabric API, Mod Menu, Starlight
+* Temporarily disabled/removed: 'Slight' Gui Modifications, AdvancementInfo, AntiGhost, ARRP, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, FerriteCore, Indium, Iris Shaders, LambdaBetterGrass, Lithium, Reese's Sodium Options, Smooth Boot, Sodium, Sodium Extra
+* Other mods seem to work as-is
+
 ## 1.18.1
 
 Notes:
