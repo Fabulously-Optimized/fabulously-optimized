@@ -32,7 +32,7 @@ if refresh_only == False:
     cf_zip_path = input("Please drag the Curseforge zip file here: ")[3:][:-1] # Because dragging the file adds "& " and double quotes
     
     # Update pack.toml first
-    pack_version = str(Path(cf_zip_path).with_suffix("")).split("-")[1:][0]
+    pack_version = "-".join(str(Path(cf_zip_path).with_suffix("")).split("-")[1:])
     with open(packwiz_manifest, "r") as f:
         pack_toml = toml.load(f)
     pack_toml["version"] = pack_version
