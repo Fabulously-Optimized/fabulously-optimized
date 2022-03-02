@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.3.0",
+    "versionId": "3.3.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.0.25.jar",
+            "path": "mods/architectury-4.0.29.jar",
             "hashes": {
-                "sha1": "ce36a14b807e3d9a443774371e7801a95b63a68e"
+                "sha1": "52dd3c274dc7e3b9c305899553b715d689b13d60"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3665/967/architectury-4.0.25.jar"
+                "https://edge.forgecdn.net/files/3669/517/architectury-4.0.29.jar"
             ]
         },
         {
@@ -343,29 +343,29 @@
             ]
         },
         {
-            "path": "mods/indium-1.0.2-alpha3+mc1.18.1.jar",
+            "path": "mods/indium-1.0.2+mc1.18.2.jar",
             "hashes": {
-                "sha1": "09657e42e26fd30bb3401a15e5ab9cbc05e5e6c0"
+                "sha1": "9421de0ce575f84ac652694f8f2bc9a468a42375"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3667/666/indium-1.0.2-alpha3+mc1.18.1.jar"
+                "https://edge.forgecdn.net/files/3669/436/indium-1.0.2+mc1.18.2.jar"
             ]
         },
         {
-            "path": "mods/iris-mc1.18.1-1.2.0-pre.jar",
+            "path": "mods/iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar",
             "hashes": {
-                "sha1": "94c66f904514e1a7e0ad106542a693e09b603044"
+                "sha1": "ecd7b64f80821721b2cd15c866140225baa9d4ad"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3612/857/iris-mc1.18.1-1.2.0-pre.jar"
+                "https://edge.forgecdn.net/files/3669/331/iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar"
             ]
         },
         {
@@ -525,16 +525,16 @@
             ]
         },
         {
-            "path": "mods/reeses_sodium_options-mc1.18.1-1.4.0.jar",
+            "path": "mods/reeses_sodium_options-mc1.18.2-1.4.1.jar",
             "hashes": {
-                "sha1": "417389dd15f5f1f84ed9c8479264d09f99742498"
+                "sha1": "7a4cfadb624efcaa56561bfa5f1cdeeafb265a13"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3622/245/reeses_sodium_options-mc1.18.1-1.4.0.jar"
+                "https://edge.forgecdn.net/files/3669/685/reeses_sodium_options-mc1.18.2-1.4.1.jar"
             ]
         },
         {
@@ -564,29 +564,29 @@
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.18.1-0.4.0.jar",
+            "path": "mods/sodium-extra-mc1.18.2-0.4.1.jar",
             "hashes": {
-                "sha1": "0a5e52d66faf9ba68cec2d732b72557173a990a0"
+                "sha1": "cbd957f1d28d426a2d2df94e9591975264fbab87"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3652/95/sodium-extra-mc1.18.1-0.4.0.jar"
+                "https://edge.forgecdn.net/files/3669/692/sodium-extra-mc1.18.2-0.4.1.jar"
             ]
         },
         {
-            "path": "mods/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar",
+            "path": "mods/sodium-fabric-mc1.18.2-0.4.1+build.15.jar",
             "hashes": {
-                "sha1": "795d4c12bffdb1b21eed5ff87c07ce5ca3c0dcbf"
+                "sha1": "f839863a6be7014b8d80058ea1f361521148d049"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3605/309/sodium-fabric-mc1.18.1-0.4.0-alpha6+build.14.jar"
+                "https://edge.forgecdn.net/files/3669/187/sodium-fabric-mc1.18.2-0.4.1+build.15.jar"
             ]
         },
         {

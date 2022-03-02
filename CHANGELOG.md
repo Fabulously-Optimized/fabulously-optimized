@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-alpha.2 (2022-03-02)
+
+Sodium and friends are back!
+
+* Updated Architectury API
+* Re-added Indium, Iris Shaders, Reese's Sodium Options, Sodium, Sodium Extra
+* Temporarily disabled/removed: 'Slight' Gui Modifications, AdvancementInfo, AntiGhost, ARRP, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, FerriteCore, LambdaBetterGrass, Lithium, Smooth Boot
+
 ### 3.3.0-alpha.1 (2022-03-01)
 
 It... runs? Half of the mods are missing though, it's so alpha that it doesn't even have a version text in the main menu.
