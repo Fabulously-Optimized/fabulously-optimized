@@ -402,7 +402,7 @@ Other changes
 * All mods updated
 * For more changes between alpha and beta versions, see the changelog
 
-### Changes from beta 4 to release
+Changes from beta 4 to release
 
 * Added AdvancementInfo, Better Mount HUD, Reese's Sodium Options
 * MultiMC (auto-update) is now split by version for future-proofing, please re-download if you use it
