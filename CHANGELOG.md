@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-alpha.3 (2022-03-04)
+
+* Re-added Entity Texture Features, Lithium, FerriteCore
+* Updated Architectury API, Fabric API, Fabrishot
+* Sodium and Sodium Extra were disabled for some reason, this is now fixed
+* Temporarily disabled/removed: 'Slight' Gui Modifications, AdvancementInfo, AntiGhost, ARRP, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, Smooth Boot
+
 ### 3.3.0-alpha.2 (2022-03-02)
 
 Sodium and friends are back!
