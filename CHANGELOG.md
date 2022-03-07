@@ -41,6 +41,8 @@ Notes:
 
 ### 3.2.4 (2022-03-07)
 
+**Inventory crash has been discovered, I recommend using 3.2.3 for the time being.**
+
 * Updated Architectury API, Entity Texture Features, Fabric API, Indium
 * Forcefully updated Reese's Sodium Options to fix video settings bug on macOS (already fixed on FO 3.3.0-alpha.2 or later)
 * Updated Entity Texture Features config and Mod Menu Helper string
