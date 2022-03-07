@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-alpha.4 (2022-03-07)
+
+* Re-added 'Slight' GUI Modifications, Continuity
+* Main menu version text is back
+* Updated Entity Texture Features, Fabric API, Zoomify
+* Updated Entity Texture Features config and Mod Menu Helper string
+* Temporarily disabled/removed: AdvancementInfo, AntiGhost, Colormatic, Enhanced Block Entities, LambdaBetterGrass, Smooth Boot
+
 ### 3.3.0-alpha.3 (2022-03-04)
 
 * Re-added Entity Texture Features, Lithium, FerriteCore

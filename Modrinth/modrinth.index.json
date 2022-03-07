@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.3.0-alpha.3",
+    "versionId": "3.3.0-alpha.4",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -54,19 +54,6 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3671/589/architectury-4.0.30.jar"
-            ]
-        },
-        {
-            "path": "mods/arrp-0.5.4.jar",
-            "hashes": {
-                "sha1": "288124e89e8b3f7bb9f67b49a085f2c0d55a2439"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3529/149/arrp-0.5.4.jar"
             ]
         },
         {
@@ -174,16 +161,16 @@
             ]
         },
         {
-            "path": "mods/continuity-1.1.0+1.18.jar",
+            "path": "mods/continuity-1.1.0+1.18.2.jar",
             "hashes": {
-                "sha1": "2bb59162457f3fbe90794c1a8cf3ca9e199e268e"
+                "sha1": "a5ff4cb7d4c0fc3b5809a52b096b92ccf9d8cb55"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3655/794/continuity-1.1.0+1.18.jar"
+                "https://edge.forgecdn.net/files/3675/822/continuity-1.1.0+1.18.2.jar"
             ]
         },
         {
@@ -252,16 +239,16 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-2.3.2.jar",
+            "path": "mods/entity-texture-features-2.3.6.jar",
             "hashes": {
-                "sha1": "8770d55326e57e906719a84a0476711e4948397f"
+                "sha1": "04be7e6b4ab41785346d039f42994d8643c717c8"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3671/833/entity-texture-features-2.3.2.jar"
+                "https://edge.forgecdn.net/files/3680/317/entity-texture-features-2.3.6.jar"
             ]
         },
         {
@@ -278,16 +265,16 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.47.9+1.18.2.jar",
+            "path": "mods/fabric-api-0.47.10+1.18.2.jar",
             "hashes": {
-                "sha1": "632969d52d4f0514d1d13eeb7560d0aa7f268460"
+                "sha1": "ff78c08167a3e4ea68c63dd17a2236662f98aefd"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3671/153/fabric-api-0.47.9+1.18.2.jar"
+                "https://edge.forgecdn.net/files/3675/501/fabric-api-0.47.10+1.18.2.jar"
             ]
         },
         {
@@ -538,16 +525,16 @@
             ]
         },
         {
-            "path": "mods/slight-gui-modifications-2.0.3.jar",
+            "path": "mods/slight-gui-modifications-2.1.0.jar",
             "hashes": {
-                "sha1": "db638cdfdf251d5459c0aa6714b141d6eafd405d"
+                "sha1": "2d3c2d6198298fd5368e705802a492ee8dfc43dd"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3630/10/slight-gui-modifications-2.0.3.jar"
+                "https://edge.forgecdn.net/files/3680/329/slight-gui-modifications-2.1.0.jar"
             ]
         },
         {
@@ -642,16 +629,16 @@
             ]
         },
         {
-            "path": "mods/Zoomify-1.1.0.jar",
+            "path": "mods/Zoomify-1.2.0.jar",
             "hashes": {
-                "sha1": "effd7b04bd9a04246d12ba6a1ded6e53aa3d70bf"
+                "sha1": "b77b5c7feaa8057b3d26eb6d590aa6e4bb7f2e54"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3630/317/Zoomify-1.1.0.jar"
+                "https://edge.forgecdn.net/files/3679/911/Zoomify-1.2.0.jar"
             ]
         }
     ],
