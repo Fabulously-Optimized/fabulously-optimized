@@ -31,6 +31,12 @@ It... runs? Half of the mods are missing though, it's so alpha that it doesn't e
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.2.4 (2022-03-07)
+
+* Updated Architectury API, Entity Texture Features, Fabric API, Indium
+* Forcefully updated Reese's Sodium Options to fix video settings bug on macOS (already fixed on FO 3.3.0-alpha.2 or later)
+* Updated Entity Texture Features config and Mod Menu Helper string
+
 ### 3.2.3 (2022-02-27)
 
 * Updated Fabric Loader to 0.13.3
