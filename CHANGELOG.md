@@ -5,6 +5,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 3.3.0-alpha.4 (2022-03-07)
 
+**Player rendering crash has been discovered, this version has been reverted from Curseforge.**
+
 * Re-added 'Slight' GUI Modifications, Continuity
 * Main menu version text is back
 * Updated Entity Texture Features, Fabric API, Zoomify
@@ -39,9 +41,13 @@ It... runs? Half of the mods are missing though, it's so alpha that it doesn't e
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.2.5 (2022-03-08)
+
+* Updated Entity Texture Features to fix the player rendering crash
+
 ### 3.2.4 (2022-03-07)
 
-**Inventory crash has been discovered, I recommend using 3.2.3 for the time being.**
+**Player rendering crash has been discovered, this version has been reverted from Curseforge.**
 
 * Updated Architectury API, Entity Texture Features, Fabric API, Indium
 * Forcefully updated Reese's Sodium Options to fix video settings bug on macOS (already fixed on FO 3.3.0-alpha.2 or later)
