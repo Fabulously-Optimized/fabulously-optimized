@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-alpha.5 (2022-03-08)
+
+* Updated Entity Texture Features to fix the player rendering crash
+* Updated Zoomify
+
 ### 3.3.0-alpha.4 (2022-03-07)
 
 **Player rendering crash has been discovered, this version has been reverted from Curseforge.**

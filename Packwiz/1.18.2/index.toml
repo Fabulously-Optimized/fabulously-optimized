@@ -22,7 +22,7 @@ hash = "6025ec66197f8abab4b7192ca299e305f6e8752c821993848620ee9c77577e4d"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "9106adb23f503964047a8340923b6e240c6d3daa089e48f7c5091428de7eb33d"
+hash = "bb292eba5dfad1aa7d241ade5db84ac0d24a97cbe6d857aa476bdaf1814c7eab"
 
 [[files]]
 file = "config/tiefix.json"
@@ -55,6 +55,10 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "d755fffa95330f9083560f4a9f197c01bd18acccf5f262e506b4d80a4809e6bf"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "1862a599276d8a8a4496d03b3fa5e4b8e2e058af1202f148368dca8b3d3a1717"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -142,6 +146,11 @@ hash = "23a0f64263ae68a002fd509f22241967b33ad8d71d426ca078fbaa675996c344"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "a2503cd9f6455bcfd5b5d5d7d5f1350bc005e799918dca1e7d3203c5b67f9ae5"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
 hash = "a6bd295330e16716d7ce62249c88e10f1d608982ed2d477f0592c6afa38f2290"
 metafile = true
@@ -163,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "5020cdbf0f03be26442290a082e52cda69843069c67aa9c903ca089334aec666"
+hash = "c569ac3978413c070ae4c9acde49a033562aff9cbef2235c5e23d043503d34f3"
 metafile = true
 
 [[files]]
@@ -173,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cac8a83e753d5a3968402ed3c38f631e3a9ea53ebb11241f106f21cdaa98e5b9"
+hash = "cfc071c2400eb20973b2d42fbd6f1e713d2520b460cb20ea93e96eb2fd186387"
 metafile = true
 
 [[files]]
@@ -267,6 +276,11 @@ hash = "cf430dc512c8d27977f5512a30c9005ee87947678b82f7ad96a962f74235bf1c"
 metafile = true
 
 [[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "70c9e65d45c6fdd46cee103f90815d80081789ce8f9bf05ede16546dff593c38"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.toml"
 hash = "91d44aeb47c90a19013aa913a59b4e245d2f474332e8bf214bd2cc7ae1212b62"
 metafile = true
@@ -298,9 +312,9 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.toml"
-hash = "941287009b380b3746d7eb1c7377a67b66804e1391f53f5821c66898c9bda96d"
+hash = "52f6f57600d751c0eff9a0fbecea62a9eb7b39a60420beee16ae46b828c1c8bf"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "820bd9cd79dce3429fd6c54505915bdfa784e304d44732fa634e60502b23bf4b"
+hash = "91d60a9f6382a41c0a2460fa861d646d2ac10b35afc2245c04dae1e28e7959c0"
