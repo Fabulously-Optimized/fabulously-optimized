@@ -5,7 +5,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 3.3.0-beta.1 (2022-03-11)
 
-Time for a beta as the most visible mods are all updated by now.
+Time for a beta as the most visible mods are all updated.
 
 * Re-added LambdaBetterGrass
 * Updated Entity Texture Features, Reese's Sodium Options, Sodium Extra, Zoomify
