@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-beta.1 (2022-03-11)
+
+Time for a beta as the most visible mods are all updated by now.
+
+* Re-added LambdaBetterGrass
+* Updated Entity Texture Features, Reese's Sodium Options, Sodium Extra, Zoomify
+* Temporarily added: Better Beds, FastChest (replacement for Enhanced Block Entities), Advancements Enlarger (replacement for AdvancementInfo)
+* Temporarily disabled/removed: AdvancementInfo, AntiGhost, Colormatic, Enhanced Block Entities, Smooth Boot
+
 ### 3.3.0-alpha.5 (2022-03-08)
 
 * Updated Entity Texture Features to fix the player rendering crash

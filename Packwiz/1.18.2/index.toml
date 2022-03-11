@@ -17,12 +17,8 @@ file = "config/modmenu.json"
 hash = "432cf3ffe12e99e455270ddad810e2e50a04385afdd27a3f7a4814caacbdb90b"
 
 [[files]]
-file = "config/puzzle.json"
-hash = "6025ec66197f8abab4b7192ca299e305f6e8752c821993848620ee9c77577e4d"
-
-[[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "bb292eba5dfad1aa7d241ade5db84ac0d24a97cbe6d857aa476bdaf1814c7eab"
+hash = "5ccedde9d8d67fafa70b3a8323367be76e1bde69d804bc9cca7f8459713e2312"
 
 [[files]]
 file = "config/tiefix.json"
@@ -101,6 +97,11 @@ file = "config/yosbr/options.txt"
 hash = "a54e0a330aef8ace83906940fcb6434da3f0a3cdf96a2b44c7237b649a9c8385"
 
 [[files]]
+file = "mods/advancements-enlarger.toml"
+hash = "eea30bf3a3f1f9350f871b5b652068b890acaeecca92dd74bae45c2a1b833f0f"
+metafile = true
+
+[[files]]
 file = "mods/animatica.toml"
 hash = "4434f950f298b99f19434496a998c0a46951e9a025e07c5c7000b6fdf52b5f20"
 metafile = true
@@ -108,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-fabric.toml"
 hash = "bd74735f807e01a6e7ea91f6e59f8f215854ca1e73c7a2970b3ac2cb994c959c"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.toml"
+hash = "a3b21b5516f3f17e58b1b156067cbea256f37bd20e8c1145785f537d78553c08"
 metafile = true
 
 [[files]]
@@ -172,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "c569ac3978413c070ae4c9acde49a033562aff9cbef2235c5e23d043503d34f3"
+hash = "e4f9b268986452f8977e2aba398cd279ef96251825bfa46e434683952a8c7180"
 metafile = true
 
 [[files]]
@@ -193,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.toml"
 hash = "f1127b63021453ff95eab3d0812173bbfaa1513de0d52315162d5d4b771a079a"
+metafile = true
+
+[[files]]
+file = "mods/fastchest.toml"
+hash = "f444a0dd384745a371f4c0a646a4791efe2bb371f0488cde9ab919b51c632169"
 metafile = true
 
 [[files]]
@@ -218,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.toml"
 hash = "9ab8949bcb4280b1a4b97d40ded17b4786a6c4db1271c121a7fc52ea6f838e0e"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "4269b7e2a817dfd03ce2e43aca5b15b3dc96210a44b0c056d4712722063c5ce0"
 metafile = true
 
 [[files]]
@@ -272,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.toml"
-hash = "cf430dc512c8d27977f5512a30c9005ee87947678b82f7ad96a962f74235bf1c"
+hash = "b1ec378adef0a4d8fa1b27de650895dcab7d05e99515f02254ebd58dffa645d4"
 metafile = true
 
 [[files]]
@@ -282,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "91d44aeb47c90a19013aa913a59b4e245d2f474332e8bf214bd2cc7ae1212b62"
+hash = "a0d8ad1d13e07e1270248cb51712268b9ef27e6ab5e8ab16634cca9fa5e12ef0"
 metafile = true
 
 [[files]]
@@ -312,9 +328,9 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.toml"
-hash = "52f6f57600d751c0eff9a0fbecea62a9eb7b39a60420beee16ae46b828c1c8bf"
+hash = "502f7eb8372e5530de8aaffb38b426b5b533fef7ebfdc90db75c483187840868"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "91d60a9f6382a41c0a2460fa861d646d2ac10b35afc2245c04dae1e28e7959c0"
+hash = "5b5ef22f79f045acf0c5aeabe46f989864b1ce795ea8815163e66de3736c1644"
