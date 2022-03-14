@@ -13,6 +13,7 @@ packwiz_manifest = "pack.toml"
 
 refresh_only = False
 is_legacy = False
+hydrogen = False
 
 def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
     with ZipFile(from_zip, 'r') as zip:
@@ -41,7 +42,7 @@ if refresh_only == False:
 
     # Packwiz import
     os.system(packwiz_exe_path + " curseforge import \"" + cf_zip_path + "\"")
-    if is_legacy:
+    if hydrogen:
         os.system(packwiz_exe_path + " remove hydrogen")
         os.system(packwiz_exe_path + " mr install hydrogen")
 os.system(packwiz_exe_path + " refresh")

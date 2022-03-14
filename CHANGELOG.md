@@ -55,6 +55,11 @@ It... runs? Half of the mods are missing though, it's so alpha that it doesn't e
 Notes:
 * See an error about "cloth-client-events-v0.mixins.json"? This is known, simply launch again until I find a fix. See [#192](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/192)
 
+### 3.2.6 (2022-03-14)
+
+* Updated Entity Texture Features, Puzzle
+* Puzzle update fixed the crash on macOS
+
 ### 3.2.5 (2022-03-08)
 
 * Updated Entity Texture Features to fix the player rendering crash
