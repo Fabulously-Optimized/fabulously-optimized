@@ -3,6 +3,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-beta.2 (2022-03-14)
+
+Time for another public mod vote! Read more here.
+
+* Added Bobby for testing and voting
+* Added ForgetMeChunk which fixes some chunk border lag spikes
+* Re-added AdvancementInfo, AntiGhost, Smooth Boot
+* Updated Architectury API, Entity Texture Features, Fabric API, Iris Shaders, Not Enough Crashes, Puzzle
+* Removed Advancements Enlarger as AdvancementInfo is back
+* Enabled Always Defer Chunk Updates on Sodium for additional performance gains
+* Puzzle update fixed the crash on macOS
+* Fixed incompatible mods crash on GDLauncher
+* Temporarily added: Better Beds, FastChest (replacement for Enhanced Block Entities)
+* Temporarily removed: Colormatic, Enhanced Block Entities
+
 ### 3.3.0-beta.1 (2022-03-11)
 
 Time for a beta as the most visible mods are all updated.

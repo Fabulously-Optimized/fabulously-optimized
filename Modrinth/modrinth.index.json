@@ -1,20 +1,20 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.3.0-beta.1",
+    "versionId": "3.3.0-beta.2",
     "name": "Fabulously Optimized",
     "files": [
         {
-            "path": "mods/advancements-enlarger-0.2.4.jar",
+            "path": "mods/advancementinfo-1.18.2-fabric0.47.10-1.3.1.jar",
             "hashes": {
-                "sha1": "dd71aa1ea18f2ff81a0604db151bb05be212dc38"
+                "sha1": "c817fbc6798d50ad45f586a66d5b54dc4fa3bf33"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3329/360/advancements-enlarger-0.2.4.jar"
+                "https://edge.forgecdn.net/files/3687/748/advancementinfo-1.18.2-fabric0.47.10-1.3.1.jar"
             ]
         },
         {
@@ -31,16 +31,29 @@
             ]
         },
         {
-            "path": "mods/architectury-4.0.30.jar",
+            "path": "mods/antighost-1.18.2-fabric0.47.10-1.1.4.jar",
             "hashes": {
-                "sha1": "0d309c3cde7c396fe208b8131e785f09382bb83b"
+                "sha1": "b9a690827fdaa60388bc297d6bf339c7ffd68261"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3671/589/architectury-4.0.30.jar"
+                "https://edge.forgecdn.net/files/3687/749/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
+            ]
+        },
+        {
+            "path": "mods/architectury-4.1.32.jar",
+            "hashes": {
+                "sha1": "11ed091388dee7036fd9c9773dd4a37dcaf03b72"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3684/742/architectury-4.1.32.jar"
             ]
         },
         {
@@ -67,6 +80,19 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3637/536/bettermounthud-1.1.4.jar"
+            ]
+        },
+        {
+            "path": "mods/bobby-3.1.1.jar",
+            "hashes": {
+                "sha1": "783d7ab7d34e87c0671a9426be0021caee58c1b8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3686/441/bobby-3.1.1.jar"
             ]
         },
         {
@@ -213,16 +239,16 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-%5B1.18.2%5D-2.4.5.jar",
+            "path": "mods/entity-texture-features-1.18.x-2.5.1.jar",
             "hashes": {
-                "sha1": "02777af75ea3c6bb0051a8de49037531bec89f11"
+                "sha1": "fef2a38b6b0568db8bb5c611d40321586ee02fe2"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3683/634/entity-texture-features-%5B1.18.2%5D-2.4.5.jar"
+                "https://edge.forgecdn.net/files/3693/77/entity-texture-features-%5B1.18.x%5D-2.5.1.jar"
             ]
         },
         {
@@ -239,16 +265,16 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.47.10+1.18.2.jar",
+            "path": "mods/fabric-api-0.48.0+1.18.2.jar",
             "hashes": {
-                "sha1": "ff78c08167a3e4ea68c63dd17a2236662f98aefd"
+                "sha1": "cead4972f34ec8f2c97813b9824f2a2b02e8fde9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3675/501/fabric-api-0.47.10+1.18.2.jar"
+                "https://edge.forgecdn.net/files/3689/20/fabric-api-0.48.0+1.18.2.jar"
             ]
         },
         {
@@ -317,6 +343,19 @@
             ]
         },
         {
+            "path": "mods/forgetmechunk-1.18.X-1.0.3.jar",
+            "hashes": {
+                "sha1": "0cc5ebb9748e58aadc1770bac292f5f263e8eb9d"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3682/724/forgetmechunk-1.18.X-1.0.3.jar"
+            ]
+        },
+        {
             "path": "mods/indium-1.0.2+mc1.18.2.jar",
             "hashes": {
                 "sha1": "9421de0ce575f84ac652694f8f2bc9a468a42375"
@@ -330,16 +369,16 @@
             ]
         },
         {
-            "path": "mods/iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar",
+            "path": "mods/iris-mc1.18.2-1.2.2-build.32.jar",
             "hashes": {
-                "sha1": "ecd7b64f80821721b2cd15c866140225baa9d4ad"
+                "sha1": "4f414abe310173ea7e270e26dafec8e6c442b9d4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3669/331/iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar"
+                "https://edge.forgecdn.net/files/3687/476/iris-mc1.18.2-1.2.2-build.32.jar"
             ]
         },
         {
@@ -473,29 +512,29 @@
             ]
         },
         {
-            "path": "mods/notenoughcrashes-4.1.4+1.18.1-fabric.jar",
+            "path": "mods/notenoughcrashes-4.1.4+1.18.2-fabric.jar",
             "hashes": {
-                "sha1": "a6b83e46b3a8b1884f539683042686680729ce2a"
+                "sha1": "e3452caf15e9f579e82578e60ad9c5847fe592b1"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3606/828/notenoughcrashes-4.1.4+1.18.1-fabric.jar"
+                "https://edge.forgecdn.net/files/3684/963/notenoughcrashes-4.1.4+1.18.2-fabric.jar"
             ]
         },
         {
-            "path": "mods/puzzle-1.1.0.jar",
+            "path": "mods/puzzle-1.2.0.jar",
             "hashes": {
-                "sha1": "56365b0e1e27288c45ec680be7d41cff8d389015"
+                "sha1": "c4b6921b6ec061b3441467d3d89786fd40b069db"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3599/769/puzzle-1.1.0.jar"
+                "https://edge.forgecdn.net/files/3692/488/puzzle-1.2.0.jar"
             ]
         },
         {
@@ -522,6 +561,19 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3680/329/slight-gui-modifications-2.1.0.jar"
+            ]
+        },
+        {
+            "path": "mods/smoothboot-fabric-1.18.2-1.7.0.jar",
+            "hashes": {
+                "sha1": "3ca71bca131120dcea2b6edf4d71773f0e1f820b"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3692/365/smoothboot-fabric-1.18.2-1.7.0.jar"
             ]
         },
         {

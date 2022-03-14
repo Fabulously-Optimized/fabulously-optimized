@@ -17,12 +17,20 @@ file = "config/modmenu.json"
 hash = "432cf3ffe12e99e455270ddad810e2e50a04385afdd27a3f7a4814caacbdb90b"
 
 [[files]]
+file = "config/puzzle.json"
+hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
+
+[[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "5ccedde9d8d67fafa70b3a8323367be76e1bde69d804bc9cca7f8459713e2312"
+hash = "de1c56606b0893774a964151448007305922fd88c829abd78c495b53ec7bc63a"
 
 [[files]]
 file = "config/tiefix.json"
 hash = "d3516058835f83e6a2c1d1312fbf20e6bcf43fad6fb1f12beb7f842129647c7f"
+
+[[files]]
+file = "config/yosbr/config/bobby.conf"
+hash = "1245f76db2e27da52e233674cee4334618b75e0c7b745774c6ce84f5c4371bc8"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -78,7 +86,7 @@ hash = "432cf3ffe12e99e455270ddad810e2e50a04385afdd27a3f7a4814caacbdb90b"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "6025ec66197f8abab4b7192ca299e305f6e8752c821993848620ee9c77577e4d"
+hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
 
 [[files]]
 file = "config/yosbr/config/slightguimodifications/config.json5"
@@ -86,7 +94,7 @@ hash = "7da931e9b7389034de203f2719b99ab74ab8e500a898ad5d563d64f13c501120"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "d7db2ecda246d459f1d65c2c60d3581b8d5c02242a957d0c66b2e17a51d86af0"
+hash = "ce1bdc73a838c3d8d892e7ee62a5399fe94b3e347ac40ca57895a6cabdfaa054"
 
 [[files]]
 file = "config/yosbr/config/tiefix.json"
@@ -97,8 +105,8 @@ file = "config/yosbr/options.txt"
 hash = "a54e0a330aef8ace83906940fcb6434da3f0a3cdf96a2b44c7237b649a9c8385"
 
 [[files]]
-file = "mods/advancements-enlarger.toml"
-hash = "eea30bf3a3f1f9350f871b5b652068b890acaeecca92dd74bae45c2a1b833f0f"
+file = "mods/advancementinfo.toml"
+hash = "2a7fd6600075e0b6e5ee90e289f031f5822aa0c859e3b3fa1ed8c8a99ad51e80"
 metafile = true
 
 [[files]]
@@ -107,8 +115,13 @@ hash = "4434f950f298b99f19434496a998c0a46951e9a025e07c5c7000b6fdf52b5f20"
 metafile = true
 
 [[files]]
+file = "mods/antighost.toml"
+hash = "3e3074cb6a900a2714d125469354d0e2a9e89e899723c3e7fe5dffa035f72917"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
-hash = "bd74735f807e01a6e7ea91f6e59f8f215854ca1e73c7a2970b3ac2cb994c959c"
+hash = "4678da7646beb73621074e73d73d5b0c20d8ae370c18a18cdef8b20f43e29cf4"
 metafile = true
 
 [[files]]
@@ -119,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/better-mount-hud.toml"
 hash = "85f3ba11c05d688f772f04f226eb010bc4d667b7da987182e15aca89a578f3c9"
+metafile = true
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "09b34d416941eef0b3aeb0717e1f7247b23245a5744971f37865905e8979810e"
 metafile = true
 
 [[files]]
@@ -178,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "310c390e0f38f50a5b50dc04876307aab2fc191229aafc5ae199b9031e6bc7d4"
+hash = "93b5334d5aee27aeb652185de9e7915373cc10b65df506d193ae44baa9121548"
 metafile = true
 
 [[files]]
@@ -188,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "cfc071c2400eb20973b2d42fbd6f1e713d2520b460cb20ea93e96eb2fd186387"
+hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
 
 [[files]]
@@ -217,13 +235,18 @@ hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
 metafile = true
 
 [[files]]
+file = "mods/forgetmechunk.toml"
+hash = "06cb28b6ded5b429fda6f236758fa8787fde526f6b2fc83d2af085c642bcaacc"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "69d17da8431a798a73f8e238e9114ff96089449706a699c1f69e4561bbc0055c"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.toml"
-hash = "bba3240ad4032a32a279813020b6ef59d8cbe85a455236ba52d0541a67ffd854"
+hash = "d1b796d25ba43d6b37218dcfdd5a88aaaead81028fe51dd40b9e4f1a9b731ecc"
 metafile = true
 
 [[files]]
@@ -278,12 +301,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "3c059bb33cf8656273f189f53a7c05289c9f025f54e2936e9200ba1817093f5c"
+hash = "ac843deb7ea5718a1c736ce5e684e3bdb974dc398963d98edddcdf2a203e04ba"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.toml"
-hash = "4f80d5389cf1660d9511b81ec5ee3ec65b3fc4b1c1f11768ccb10d707b8a19c5"
+hash = "32bdc2d06d874908b095c92f8c61465f81008b550f6cedcfb922447412e0f9f9"
 metafile = true
 
 [[files]]
@@ -294,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "70c9e65d45c6fdd46cee103f90815d80081789ce8f9bf05ede16546dff593c38"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
 metafile = true
 
 [[files]]
@@ -333,4 +361,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "5b5ef22f79f045acf0c5aeabe46f989864b1ce795ea8815163e66de3736c1644"
+hash = "7bd6a4c5696270fc79025b1641514f9d86d9ce3941df9b02c88ca6b574f7739c"
