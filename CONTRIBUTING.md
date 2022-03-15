@@ -15,3 +15,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **Give feedback to the pack** - giving your ideas on what to add or change about the pack makes sure that we all can get the best quality out of it. Mod suggestions and bugs [can be posted to issues here](https://github.com/Madis0/fabulously-optimized/issues) and general questions are expected on [Discord](https://discord.gg/yxaXtaQqdB).
 * **Contribute to FO toolkit** - know some Python? Feel free to improve my scripts by forking and making a pull request.
 * **Create a Minecraft server** - [my BisectHosting affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month. Having more users there can give the modpack dev some monetary benefits similar to CF rewards.
+* **Want to make a mod for FO?**
+  Currently I am looking for:
+  * Optifine's emissive block textures support
+  * Optifine's custom sky/clouds support
