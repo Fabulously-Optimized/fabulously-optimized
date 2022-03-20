@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0-beta.3 (2022-03-20)
+
+* Added Farsight for testing and voting
+* Removed Bobby
+* Added Greek translation to Mod Menu Helper by RaptaG!
+* Unblanked empty option buttons in Puzzle
+* Updated Architectury API, CIT Resewn, Entity Texture Features, Puzzle
+* Temporarily added: Better Beds, FastChest (replacement for Enhanced Block Entities)
+* Temporarily removed: Colormatic, Enhanced Block Entities
+
 ### 3.3.0-beta.2 (2022-03-14)
 
 Time for another public mod vote! Read more here.

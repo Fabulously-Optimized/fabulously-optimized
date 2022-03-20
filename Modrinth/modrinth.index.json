@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.3.0-beta.2",
+    "versionId": "3.3.0-beta.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.1.32.jar",
+            "path": "mods/architectury-4.1.34.jar",
             "hashes": {
-                "sha1": "11ed091388dee7036fd9c9773dd4a37dcaf03b72"
+                "sha1": "d687afe805738e63d52ffff72c493f345e49f12a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3684/742/architectury-4.1.32.jar"
+                "https://edge.forgecdn.net/files/3705/894/architectury-4.1.34.jar"
             ]
         },
         {
@@ -83,19 +83,6 @@
             ]
         },
         {
-            "path": "mods/bobby-3.1.1.jar",
-            "hashes": {
-                "sha1": "783d7ab7d34e87c0671a9426be0021caee58c1b8"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3686/441/bobby-3.1.1.jar"
-            ]
-        },
-        {
             "path": "mods/borderless-mining-1.1.1+1.18.jar",
             "hashes": {
                 "sha1": "0fe49bcdb499f7cd68bf5666e5893bfa7edd04ee"
@@ -122,16 +109,16 @@
             ]
         },
         {
-            "path": "mods/CITResewn-0.9.1+1.18.1.jar",
+            "path": "mods/CITResewn-1.0.1+1.18.2.jar",
             "hashes": {
-                "sha1": "a320fbe1f0f6c1364c6afb224f993ba4252e6206"
+                "sha1": "3d2c4fc4533cf22d7b46ba479985925c4122b0e6"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3609/263/CITResewn-0.9.1+1.18.1.jar"
+                "https://edge.forgecdn.net/files/3697/502/CITResewn-1.0.1+1.18.2.jar"
             ]
         },
         {
@@ -239,16 +226,16 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-1.18.x-2.5.1.jar",
+            "path": "mods/entity-texture-features-1.18+_2.5.8.jar",
             "hashes": {
-                "sha1": "fef2a38b6b0568db8bb5c611d40321586ee02fe2"
+                "sha1": "bddbe97012700046d110d5768a90db78be2a2de0"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3693/77/entity-texture-features-%5B1.18.x%5D-2.5.1.jar"
+                "https://edge.forgecdn.net/files/3704/590/entity-texture-features-1.18+_2.5.8.jar"
             ]
         },
         {
@@ -301,6 +288,19 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3672/13/fabrishot-1.7.0.jar"
+            ]
+        },
+        {
+            "path": "mods/farsight.fabric-1.18-1.8.jar",
+            "hashes": {
+                "sha1": "75e3dc2d6373d36fd8127dce86fab9a2447073e4"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3686/937/farsight.fabric-1.18-1.8.jar"
             ]
         },
         {
@@ -525,16 +525,16 @@
             ]
         },
         {
-            "path": "mods/puzzle-1.2.0.jar",
+            "path": "mods/puzzle-1.2.1.jar",
             "hashes": {
-                "sha1": "c4b6921b6ec061b3441467d3d89786fd40b069db"
+                "sha1": "be946b8c5a8b5499b18b89fdf3c14c8c708b056f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3692/488/puzzle-1.2.0.jar"
+                "https://edge.forgecdn.net/files/3697/550/puzzle-1.2.1.jar"
             ]
         },
         {
