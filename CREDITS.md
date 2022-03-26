@@ -7,7 +7,7 @@
 * Discord user Ultrasonic for helping with Python scripts
 * [TheMadHau5](https://github.com/themadhau5), [redbrain](https://github.com/redbrain), [Kichura](https://github.com/Kichura) for the [fancy mod table](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) 
 * [RaptaG](https://github.com/RaptaG) for the [Packwiz mod ignoring tutorial](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Auto-updating-MultiMC-pack#can-i-ignore-some-of-the-mods)
-* [People creating pull requests](https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors)
+* People creating pull requests for [the main project](https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors) and [the wiki](https://github.com/Fabulously-Optimized/wiki/graphs/contributors)
 * [People who have created videos about the modpack](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 * Everyone who has suggested ideas and reported bugs!
 
