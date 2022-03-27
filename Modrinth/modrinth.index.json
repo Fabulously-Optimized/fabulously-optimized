@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.3.0-beta.3",
+    "versionId": "3.3.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,29 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.1.34.jar",
+            "path": "mods/architectury-4.1.36.jar",
             "hashes": {
-                "sha1": "d687afe805738e63d52ffff72c493f345e49f12a"
+                "sha1": "8ea54d6c490d8e000ca15e5e8c92c8747535484b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3705/894/architectury-4.1.34.jar"
-            ]
-        },
-        {
-            "path": "mods/betterbeds-1.2.0.jar",
-            "hashes": {
-                "sha1": "970e34b6bc69a581aadca2786b9a4490319f35f9"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3342/338/betterbeds-1.2.0.jar"
+                "https://edge.forgecdn.net/files/3717/905/architectury-4.1.36.jar"
             ]
         },
         {
@@ -148,16 +135,29 @@
             ]
         },
         {
-            "path": "mods/completeconfig-lib-1.3.3.jar",
+            "path": "mods/colormatic-3.1.1+mc.1.18.2.jar",
             "hashes": {
-                "sha1": "bdf33e87d89872fd0c2b6992cd467c6777e75e42"
+                "sha1": "d3af2a138c40336bd9a62a27499d7ca4e80e8dc4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3555/13/completeconfig-lib-1.3.3.jar"
+                "https://edge.forgecdn.net/files/3709/15/colormatic-3.1.1+mc.1.18.2.jar"
+            ]
+        },
+        {
+            "path": "mods/completeconfig-lib-1.4.0.jar",
+            "hashes": {
+                "sha1": "b5a366584aa4c7bba8306b4f7233329fcbf609f1"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3709/325/completeconfig-lib-1.4.0.jar"
             ]
         },
         {
@@ -187,29 +187,29 @@
             ]
         },
         {
-            "path": "mods/cem-0.7.0.jar",
+            "path": "mods/cem-0.7.1.jar",
             "hashes": {
-                "sha1": "91c1a2ad7743118cc44d56a92f358ae09f4f8ba1"
+                "sha1": "cdee86c59231dbe6df3aa17cfa2041221346306b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3561/474/cem-0.7.0.jar"
+                "https://edge.forgecdn.net/files/3709/988/cem-0.7.1.jar"
             ]
         },
         {
-            "path": "mods/DCCH-1.17.x.jar",
+            "path": "mods/DCCH-1.18.x.jar",
             "hashes": {
-                "sha1": "61d700268df2058411dc414ee3687b5766d7a2d3"
+                "sha1": "bd2bcb46acb522dd34567b05bbb3f831e8deac38"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3456/37/DCCH-1.17.x.jar"
+                "https://edge.forgecdn.net/files/3710/782/DCCH-1.18.x.jar"
             ]
         },
         {
@@ -226,16 +226,29 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-1.18+_2.5.8.jar",
+            "path": "mods/enhancedblockentities-0.6+1.18.2.jar",
             "hashes": {
-                "sha1": "bddbe97012700046d110d5768a90db78be2a2de0"
+                "sha1": "d4a4ce2f0249cd636eb3f820225082645885bd74"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3704/590/entity-texture-features-1.18+_2.5.8.jar"
+                "https://edge.forgecdn.net/files/3717/795/enhancedblockentities-0.6+1.18.2.jar"
+            ]
+        },
+        {
+            "path": "mods/entity-texture-features-1.18+_2.5.15.jar",
+            "hashes": {
+                "sha1": "9b3d6953ee24619f467721a3561fa0bafcf211da"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3717/866/entity-texture-features-1.18+_2.5.15.jar"
             ]
         },
         {
@@ -301,19 +314,6 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3686/937/farsight.fabric-1.18-1.8.jar"
-            ]
-        },
-        {
-            "path": "mods/fast-chest-1.2+1.18.jar",
-            "hashes": {
-                "sha1": "92655599396787d5ea4c4e66a4ea2f5779584abc"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3544/190/fast-chest-1.2+1.18.jar"
             ]
         },
         {

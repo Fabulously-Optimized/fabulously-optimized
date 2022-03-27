@@ -3,6 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.3.0 (2022-03-27)
+
+Fabulously Optimized is now ready for 1.18.2! 
+
+New mods
+* Farsight - keeps rendered long-distance chunks visible on servers
+* Forget me Chunk - fixes some chunk border lag spikes
+
+Other major changes
+* Enabled Always Defer Chunk Updates on Sodium for additional performance gains
+* Added Greek translation to Mod Menu Helper by RaptaG!
+* Added Korean translation to Mod Menu Helper by AlphaKR93!
+
+Changes from beta 3
+* Updated Architectury API, CompleteConfig, Custom Entity Models, Don't Clear Chat History, Entity Texture Features
+* Re-added Enhanced Block Entities, Colormatic
+* Removed Better Beds and FastChest
+* Removed DCCH workaround as it now works with 1.18.2 directly
+
 ### 3.3.0-beta.3 (2022-03-20)
 
 * Added Farsight for testing and voting

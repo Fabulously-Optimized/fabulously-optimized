@@ -15,7 +15,7 @@ Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install
 
 _These downloads do not yet support the modpack or the mods :(_
 
-* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ ⚰️ | [1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.3.0-alpha.1/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
+* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ ⚰️ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ ⚰️ | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.3.0-alpha.1/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
 * [Modrinth](https://modrinth.com/modpack/fabulously-optimized) [(no supported launchers yet)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
@@ -58,7 +58,7 @@ Here you can find the mod comparison table between the currently supported Minec
 The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
 
 ### Smooth
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ |  |  | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
@@ -66,6 +66,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✔️ |  |  | Makes chests render faster |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Reduces RAM usage |
+| [ForgetMeChunk](https://www.curseforge.com/minecraft/mc-mods/forgetmechunk) | [BreadLoaf___](https://www.curseforge.com/members/breadloaf___) |  |  | &nbsp;&nbsp;✔️ | Fixes lag spikes on chunk borders |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) ¹ | [CaffeineMC](https://www.curseforge.com/members/CaffeineMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Reduces RAM usage |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes language switching instant |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the game startup faster |
@@ -79,7 +80,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 ¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ### Pretty
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar |
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's animated textures support |
@@ -89,10 +90,11 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's connected textures support |
 | [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better trees" - fancy leaves are more see-through for better FPS |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's custom entity models - [(partial support at this time)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
-| [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | &nbsp;&nbsp;✔️ |  |  | Let's you change fog settings (distance, density, dimensions, etc.) |
+| [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | &nbsp;&nbsp;✔️ |  |  | Lets you change fog settings (distance, density, dimensions, etc.) |
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  | &nbsp;&nbsp;✔️ | Adds Optifine's random and emissive mobs support |
 | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's and other mods' capes, [(instructions are here)](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape) |
-| [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Let's you take a high-res screenshot with F9 |
+| [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Lets you take a high-res screenshot with F9 |
+| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | [someaddon](https://www.curseforge.com/members/someaddon) |  |  | &nbsp;&nbsp;✔️ | Keeps loaded chunks visible in servers |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | [coderbot](https://www.curseforge.com/members/coderbot) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's shaders support, [(recommended shader list is here)](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes transparent gaps in held items |
 | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds Optifine's "better grass" and "better snow" |
@@ -105,7 +107,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
 
 ### Functional
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
@@ -124,7 +126,7 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |

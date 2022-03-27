@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e95b3ba7947ef36cf117eca6d20f2f5cd4e5da1fc22a33ec528651eb164918ab"
+hash = "8263049d3c7ac91b0301b26cb98e7ea561dc80980eb832f7aaa9587263b5bb03"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -14,7 +14,7 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "cdc4733f8a576de6a277c328dffd364f84884afe86d856640db5dcc2eb52f61c"
+hash = "80fba671ee11333698d4e48efcead242063841f54c12d328154c125ca0a7f806"
 
 [[files]]
 file = "config/puzzle.json"
@@ -22,7 +22,7 @@ hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "64575f37422052671cd02818790b67829b0209be8e72673c251b3c9f9126b8c7"
+hash = "efe2dda5661706920434cf339783d932c7e912245b959a133b7f2e337b192f33"
 
 [[files]]
 file = "config/tiefix.json"
@@ -82,7 +82,7 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "cdc4733f8a576de6a277c328dffd364f84884afe86d856640db5dcc2eb52f61c"
+hash = "80fba671ee11333698d4e48efcead242063841f54c12d328154c125ca0a7f806"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -121,12 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ac970d526fa1a86e6144bed5267a8bb7c6f422d63fd75fbd886e7b907ad86762"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.toml"
-hash = "a3b21b5516f3f17e58b1b156067cbea256f37bd20e8c1145785f537d78553c08"
+hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
 metafile = true
 
 [[files]]
@@ -160,8 +155,13 @@ hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]
+file = "mods/colormatic.toml"
+hash = "f37004ea1a77170a692e5f072bec6419c00b42b8fbd4803d189e01946f4eaa67"
+metafile = true
+
+[[files]]
 file = "mods/completeconfig.toml"
-hash = "23a0f64263ae68a002fd509f22241967b33ad8d71d426ca078fbaa675996c344"
+hash = "3dc8afb222b72064fe76daa8f09d159f95f6d96cbfa9fe246b9d5ae87ae084ae"
 metafile = true
 
 [[files]]
@@ -176,12 +176,12 @@ metafile = true
 
 [[files]]
 file = "mods/custom-entity-models-cem.toml"
-hash = "ebc13481934dc3a89e106154b4650bf52a68e5abe07573efc81ebc927d479a3f"
+hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
 file = "mods/dont-clear-chat-history.toml"
-hash = "2b5bbf8ae407ac136008b47372a41bd136cd6eb8c5f76fc5a403164b95aa0bbe"
+hash = "c77ae8f60d73419f5e363d87b470a35c5b20958054e899846df9db9fb40ec7c5"
 metafile = true
 
 [[files]]
@@ -190,8 +190,13 @@ hash = "13013b1ab312945c0d4c1b008f0deb9193c010a161e161cc59642c185889abc6"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities.toml"
+hash = "5f96cbfa5842b2fa1977bed45bff4b2230a1608f34394ca75945fa65d8e555da"
+metafile = true
+
+[[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "57bdffc97245ca5d32516ffd4c543c8b4427744bbe1326ba30ce23599dc97b3f"
+hash = "175128af3b85a2119be6b49276006235c82613c081dbfc93359a930a904fe229"
 metafile = true
 
 [[files]]
@@ -217,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/farsight-fabric.toml"
 hash = "342460b8b5e2e7656e3e8001da9cd2ee92bec4e288eb7701a319aac391f8295c"
-metafile = true
-
-[[files]]
-file = "mods/fastchest.toml"
-hash = "f444a0dd384745a371f4c0a646a4791efe2bb371f0488cde9ab919b51c632169"
 metafile = true
 
 [[files]]
@@ -361,4 +361,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "83261179c890d1daf7ca8d5bd16031ca71a1346859e517be7b2337938bbbb162"
+hash = "1e94d9697a25de9caf9b2acd62d5318cba6b330f9e5cde1569f246c90eadfc78"
