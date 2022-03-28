@@ -27,12 +27,12 @@ _These downloads do not yet support the modpack or the mods :(_
 Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|
-| Pack download | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Tutorial](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Install-instructions#multimc-auto-update) | [⬇️ Tutorial](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Install-instructions#gdlauncher) | [⬇️ Tutorial](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla) |
+| Pack download | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
 | Recommended for | Most people | Slow device or internet | Testers and contributors | Linux users | Advanced users |
-| Easy install | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#curseforge-launcher) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#multimc-auto-update) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions#gdlauncher) | [❌](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Install-instructions#minecraft-launcher-the-vanilla) |
-| Easy pack upgrade | [✅](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions#curseforge-launcher) | [❌](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions#multimc) | [✅](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions#multimc-auto-update) | [✅](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions#gdlauncher) | [❌](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions#minecraft-launcher-the-vanilla) |
+| Easy install | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [❌](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
+| Easy pack upgrade | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#curseforge-launcher) | [❌](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#multimc) | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#multimc-auto-update) | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#gdlauncher) | [❌](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#minecraft-launcher-the-vanilla) |
 | Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ❌ |
-| Add mods with few clicks | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#curseforge-launcher-minecraft-117xfo-2xx) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#multimc) | [✅](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#gdlauncher) | [❌](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods#minecraft-launcher-vanilla) |
+| Add mods with few clicks | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods#curseforge-launcher) | [❌](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods#multimc) | [❌](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods#multimc) | [✅](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods#gdlauncher) | [❌](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods#minecraft-launcher-vanilla) |
 | Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ |
 | Supports the modpack and mods | ✅ | ✅ | ❌ | ❌ | ✅ |
 
@@ -55,7 +55,7 @@ More notable videos:
 
 Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions.
 
-The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options).
+The selected mods are inspired, but not limited by the [list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 ### Smooth
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
@@ -142,12 +142,12 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 
 Help is provided by:
 
-* [Wiki](https://github.com/Madis0/fabulously-optimized/wiki)
+* [Wiki](https://fabulously-optimized.gitbook.io/modpack/)
 * [Discord](https://discord.gg/yxaXtaQqdB)
-* [Issues](https://github.com/Madis0/fabulously-optimized/issues) (mod suggestions, bug reports)
-* [Curseforge listing](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized) comments
+* [Issues](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) (mod suggestions, bug reports)
+* [Curseforge listing comments](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#comments) (questions and general comments only)
 
-Want to help translate the modpack to your language? [See this tutorial](https://github.com/Madis0/fabulously-optimized/wiki/Language-support)
+Want to help translate the modpack to your language? [See this tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)
 
 ## Disclaimers
 
