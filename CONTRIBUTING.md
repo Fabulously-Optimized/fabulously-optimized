@@ -17,5 +17,6 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **Create a Minecraft server** - [my BisectHosting affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month. Having more users there can give the modpack dev some monetary benefits similar to CF rewards.
 * **Want to make a mod for FO?**
   Currently I am looking for:
-  * Optifine's emissive block textures support
   * Optifine's custom sky/clouds support
+  * Any Optifine parity that's not there yet
+  * Any client-side performance improvements that are not there yet
