@@ -6,6 +6,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 3.4.0 (2022-04-03)
 
 Thank you for over 300 000 downloads on Curseforge! 🎉🎉🎉
+
 We have a new fancy wiki where everyone can contribute: https://fabulously-optimized.gitbook.io/
 
 Added mods
