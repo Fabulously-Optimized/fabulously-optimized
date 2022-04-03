@@ -3,6 +3,24 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.4.0 (2022-04-03)
+
+Added mods
+
+* Debugify - a selection of bugfixes, see the FO wiki for which ones are applied
+
+Removed mods
+
+* FastOpenLinksAndFolders - made redundant by Debugify
+* Forget Me Chunk - made redundant by Debugify
+
+Other news
+* Updated Architectury API, Entity Texture Features, Zoomify
+* Enabled relative sensitivity for Zoomify
+* Disabled entities on LambDynamicLights for improved performance
+* Thank you for over 300 000 downloads on Curseforge! 🎉🎉🎉
+* We have a new fancy wiki where everyone can contribute: https://fabulously-optimized.gitbook.io/
+
 ### 3.3.0 (2022-03-27)
 
 Fabulously Optimized is now ready for 1.18.2! 

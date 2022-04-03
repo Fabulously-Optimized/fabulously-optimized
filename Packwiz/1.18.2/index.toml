@@ -5,16 +5,16 @@ file = "config/citresewn.json"
 hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
+file = "config/debugify.json"
+hash = "ce0369b433f116897f3de62bf4e34a60185d9bc5ece45711f7f395f02ef3d34c"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "8263049d3c7ac91b0301b26cb98e7ea561dc80980eb832f7aaa9587263b5bb03"
 
 [[files]]
-file = "config/midnightlib.json"
-hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
-
-[[files]]
 file = "config/modmenu.json"
-hash = "80fba671ee11333698d4e48efcead242063841f54c12d328154c125ca0a7f806"
+hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
 
 [[files]]
 file = "config/puzzle.json"
@@ -22,11 +22,11 @@ hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "efe2dda5661706920434cf339783d932c7e912245b959a133b7f2e337b192f33"
+hash = "2bd5e3e5cf6daa9c4015fd4c96f9aad85068b961ec4b537a861303197a1aff5e"
 
 [[files]]
 file = "config/tiefix.json"
-hash = "d3516058835f83e6a2c1d1312fbf20e6bcf43fad6fb1f12beb7f842129647c7f"
+hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -57,6 +57,10 @@ file = "config/yosbr/config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "7ab39d919477fd5261139a9e0952d13f1a2bd947af36e8b6335b1d09f3a4d183"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "d755fffa95330f9083560f4a9f197c01bd18acccf5f262e506b4d80a4809e6bf"
 
@@ -74,7 +78,7 @@ hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "1a0c50101df35b82a3015882331c4b1b76bec59a05c25cac50bff3547b891f25"
+hash = "58f198cf16e362debad3022b272a89dd7fb1f2b05b89bf73bf5925dd70f03691"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
@@ -82,7 +86,7 @@ hash = "8bffacf0777bdc9e35022109e9580583d40fcaa05f0abfed1bf32220a5b39ab3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "80fba671ee11333698d4e48efcead242063841f54c12d328154c125ca0a7f806"
+hash = "836586de210032b9ea9a07b718f32a22993c5c5e427825be94cdd288b32b1e3a"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -98,7 +102,11 @@ hash = "ce1bdc73a838c3d8d892e7ee62a5399fe94b3e347ac40ca57895a6cabdfaa054"
 
 [[files]]
 file = "config/yosbr/config/tiefix.json"
-hash = "d3516058835f83e6a2c1d1312fbf20e6bcf43fad6fb1f12beb7f842129647c7f"
+hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "c9360b769c27a6bf08ddfd3a30254c6260c16d682e503c7f873c904819a7e13e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -121,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
+hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
 metafile = true
 
 [[files]]
@@ -180,6 +188,11 @@ hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
+file = "mods/debugify.toml"
+hash = "6c8134e832f9221fb07cd4ca82a20d4787fa3a513479d56f969d66acceb7fa83"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.toml"
 hash = "c77ae8f60d73419f5e363d87b470a35c5b20958054e899846df9db9fb40ec7c5"
 metafile = true
@@ -196,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.toml"
-hash = "175128af3b85a2119be6b49276006235c82613c081dbfc93359a930a904fe229"
+hash = "68ea151b3a2b580cc1c8378ce58970e4375fe09b41c42db39b802f16ceda0891"
 metafile = true
 
 [[files]]
@@ -225,18 +238,8 @@ hash = "342460b8b5e2e7656e3e8001da9cd2ee92bec4e288eb7701a319aac391f8295c"
 metafile = true
 
 [[files]]
-file = "mods/fastopenlinksandfolders.toml"
-hash = "cfcfca681b376a3f30990a5845ccf7a95255b054674bcefd32c0f02e06f9346c"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore-fabric.toml"
 hash = "328ab993a9721cd5a0a87b3aedaf45ad8fb86210b42daa5f04a544fcf1f52604"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.toml"
-hash = "06cb28b6ded5b429fda6f236758fa8787fde526f6b2fc83d2af085c642bcaacc"
 metafile = true
 
 [[files]]
@@ -356,9 +359,9 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.toml"
-hash = "502f7eb8372e5530de8aaffb38b426b5b533fef7ebfdc90db75c483187840868"
+hash = "213370c5103daf420baccbd5bfb9c022273fbf8d4e1b54625e0a3575217dd2ee"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "1e94d9697a25de9caf9b2acd62d5318cba6b330f9e5cde1569f246c90eadfc78"
+hash = "bb2601ab37db4fd0303f1b17b18be271a34efafda5ecf43f36c5850b8eccb15f"

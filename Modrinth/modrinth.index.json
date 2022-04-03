@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.3.0",
+    "versionId": "3.4.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.1.36.jar",
+            "path": "mods/architectury-4.1.39.jar",
             "hashes": {
-                "sha1": "8ea54d6c490d8e000ca15e5e8c92c8747535484b"
+                "sha1": "a3726775a7a4c97c47a1a5fa05d9a0614d13713c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3717/905/architectury-4.1.36.jar"
+                "https://edge.forgecdn.net/files/3728/616/architectury-4.1.39.jar"
             ]
         },
         {
@@ -200,6 +200,19 @@
             ]
         },
         {
+            "path": "mods/debugify-fabric-1.4.1.jar",
+            "hashes": {
+                "sha1": "36856f8c3ccfbe64a832588e68f59cbdbeabbc32"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3725/910/debugify-fabric-1.4.1.jar"
+            ]
+        },
+        {
             "path": "mods/DCCH-1.18.x.jar",
             "hashes": {
                 "sha1": "bd2bcb46acb522dd34567b05bbb3f831e8deac38"
@@ -239,16 +252,16 @@
             ]
         },
         {
-            "path": "mods/entity-texture-features-1.18+_2.5.15.jar",
+            "path": "mods/entity-texture-features-1.18+_2.6.0.jar",
             "hashes": {
-                "sha1": "9b3d6953ee24619f467721a3561fa0bafcf211da"
+                "sha1": "f2143a3818a3918e6e3ec74b5aa0276215866af3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3717/866/entity-texture-features-1.18+_2.5.15.jar"
+                "https://edge.forgecdn.net/files/3723/195/entity-texture-features-1.18+_2.6.0.jar"
             ]
         },
         {
@@ -317,19 +330,6 @@
             ]
         },
         {
-            "path": "mods/fastopenlinksandfolders-1.1.0.jar",
-            "hashes": {
-                "sha1": "4318049b69cb9a3d8979fda3b19424b01c64a621"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3629/291/fastopenlinksandfolders-1.1.0.jar"
-            ]
-        },
-        {
             "path": "mods/ferritecore-4.2.0-fabric.jar",
             "hashes": {
                 "sha1": "5e78186d306ca68dd8b5da4f9939126bf96fdbc0"
@@ -340,19 +340,6 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3672/143/ferritecore-4.2.0-fabric.jar"
-            ]
-        },
-        {
-            "path": "mods/forgetmechunk-1.18.X-1.0.3.jar",
-            "hashes": {
-                "sha1": "0cc5ebb9748e58aadc1770bac292f5f263e8eb9d"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3682/724/forgetmechunk-1.18.X-1.0.3.jar"
             ]
         },
         {
@@ -655,16 +642,16 @@
             ]
         },
         {
-            "path": "mods/Zoomify-1.4.0.jar",
+            "path": "mods/Zoomify-1.5.0.jar",
             "hashes": {
-                "sha1": "f1c60d353f5beff76c947748e48661c834b3842d"
+                "sha1": "7c06669acbb0e0e832fef795e5e98e2990af0145"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3682/908/Zoomify-1.4.0.jar"
+                "https://edge.forgecdn.net/files/3728/328/Zoomify-1.5.0.jar"
             ]
         }
     ],

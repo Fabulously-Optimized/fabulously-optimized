@@ -9,7 +9,7 @@ mode = "fastest"
 	# Enable block entities light source.
 	block_entities = true
 	# Enable entities light source.
-	entities = true
+	entities = false
 	# TNT lighting mode. May be off, simple or fancy.
 	tnt = "simple"
 	# Creeper lighting mode. May be off, simple or fancy.
