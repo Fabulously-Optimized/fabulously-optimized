@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.4.0",
+    "versionId": "3.4.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -200,16 +200,16 @@
             ]
         },
         {
-            "path": "mods/debugify-fabric-1.4.1.jar",
+            "path": "mods/debugify-fabric-1.6.0.jar",
             "hashes": {
-                "sha1": "36856f8c3ccfbe64a832588e68f59cbdbeabbc32"
+                "sha1": "2b22fbe03f8478e3a0376aef58e0f9fb0f65f41e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3725/910/debugify-fabric-1.4.1.jar"
+                "https://edge.forgecdn.net/files/3736/103/debugify-fabric-1.6.0.jar"
             ]
         },
         {
@@ -291,16 +291,16 @@
             ]
         },
         {
-            "path": "mods/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar",
+            "path": "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar",
             "hashes": {
-                "sha1": "a91c87f016431f684436182b7e993fdfe941b173"
+                "sha1": "88f240a5064963ef1aa50ebaa85dbdf2e4e1362e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3573/712/fabric-language-kotlin-1.7.1+kotlin.1.6.10.jar"
+                "https://edge.forgecdn.net/files/3735/26/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar"
             ]
         },
         {
@@ -564,16 +564,16 @@
             ]
         },
         {
-            "path": "mods/sodium-extra-mc1.18.2-0.4.2.jar",
+            "path": "mods/sodium-extra-mc1.18.2-0.4.3.jar",
             "hashes": {
-                "sha1": "8d0a71cef3b11b9403ba12de20c6016fc884b7a5"
+                "sha1": "026226ee3777ee0dc1226b843271447afc551349"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3682/548/sodium-extra-mc1.18.2-0.4.2.jar"
+                "https://edge.forgecdn.net/files/3733/71/sodium-extra-mc1.18.2-0.4.3.jar"
             ]
         },
         {

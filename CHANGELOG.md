@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.4.1 (2022-04-06)
+
+* Updated Debugify, Fabric Language Kotlin, Sodium Extra
+* Enabled fixes for MC-140646, MC-199467, MC-235035 (details in wiki)
+* Default-disabled FPS limit for improved UX when VSync is disabled by the user (on fast computers/monitors)
+* Credit where due: 3.4.0 also got Turkish for Mod Menu Helper by egeesin!
+
 ### 3.4.0 (2022-04-03)
 
 Thank you for over 300 000 downloads on Curseforge! 🎉🎉🎉
