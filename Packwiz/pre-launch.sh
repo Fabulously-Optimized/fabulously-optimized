@@ -3,12 +3,12 @@
 # Edits by RaptaG (https://github.com/RaptaG)
 
 # Select the mods you wish to disable:
-mod0=DCCH-1.18.x
-mod1=fabrishot-1.7.0
-mod2=betterbeds-1.2.0
-mod3=fast-chest-1.2+1.18
-mod4=continuity-1.1.0+1.18.2
-mod5=morechathistory-1.18-1.1.0
+mod0=
+mod1=
+mod2=
+mod3=
+mod4=
+mod5=
 
 # Upgrade Fabulously Optimized
 echo Checking for FO upgrades...
