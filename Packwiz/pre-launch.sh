@@ -26,7 +26,6 @@ for mod in\
 	$mod1.jar\
 	$mod2.jar\
 	$mod3.jar\
-	$mod3.jar\
 	$mod4.jar\
 	$mod5.jar\
 	$mod0.jar
