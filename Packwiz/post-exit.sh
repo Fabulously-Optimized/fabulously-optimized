@@ -3,7 +3,7 @@
 # Edits by RaptaG (https://github.com/RaptaG)
 
 # Restore packwiz disabled mods to prevent useless redownload
-echo Restoring overriden mods for future launches...
+echo Restoring overridden mods for future launches...
 cd mods
 for disabledmod in .*.jar.disabled
 do
