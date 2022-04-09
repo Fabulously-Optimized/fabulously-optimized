@@ -10,7 +10,7 @@ mod3=
 mod4=
 mod5=
 
-# Upgrade Fabulously Optimized
+# Upgrading Fabulously Optimized
 echo Checking for FO upgrades...
 cd ..
 mcver="$(jq -r '.components[]|select(.cachedName=="Minecraft")|.version' mmc-pack.json)"
