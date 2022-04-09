@@ -12,7 +12,13 @@ mod5=
 
 # Upgrade Fabulously Optimized
 echo Checking for FO upgrades...
-mcver="$(curl https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/MultiMC/Fabulously%20Optimized%20x.y.z/mmc-pack.json | jq -r '.components[]|select(.cachedName=="Minecraft")|.version')" 2>/dev/null
+cd ..
+mcver="$(jq -r '.components[]|select(.cachedName=="Minecraft")|.version' mmc-pack.json)"
+if [ -d .minecraft ]; then
+   cd .minecraft
+else
+   cd minecraft
+fi
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/$mcver/pack.toml
 
 # Upgrading the checksums
