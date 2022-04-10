@@ -41,8 +41,6 @@ body:
     options:
       - I updated FO to a newer version (mention, what version to what version)
       - I removed or added some mods (mention, which ones)
-  validations:
-    required: false
     
 - type: textarea
   attributes:
