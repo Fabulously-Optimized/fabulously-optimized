@@ -5,39 +5,12 @@ body:
 - type: markdown
   attributes:
     value: |
-      If it is a crash and you know what mod caused it (e.g. it says on the crash report), please report the issue to that mod instead.
-      Otherwise you can still report any crashes to me, and we\'ll try to find the problem cause together. 
+      Before reporting an issue, [please search](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) to make sure it has not already been reported. 
 
 - type: textarea
   attributes:
     label: Describe the bug
-    description: A short summary of the issue.
-  validations:
-    required: true
-
-- type: textarea
-  attributes:
-    label: Expected behavior
-    description: What you expected to see.
-  validations:
-    required: true
-
-- type: textarea
-  attributes:
-    label: Observed/actual behavior
-    description: What you actually saw.
-  validations:
-      required: true
-
-- type: textarea
-  attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
-    placeholder: |
-      1. Launched Minecraft
-      2. Clicked ...
-      3. Clicked ...
-      4. ... works incorrectly
+    description: Describe your issue. Add crashlogs or launcher logs if you have them.
   validations:
     required: true
 
@@ -45,7 +18,7 @@ body:
   attributes:
     label: Modpack version
     description: What version of the modpack are you using?
-    placeholder: Latest is not a version
+    placeholder: Find it in the bottom right corner of the main menu
   validations:
     required: true
 
@@ -59,25 +32,22 @@ body:
       - MultiMC (auto-update)
       - GDLauncher
       - Minecraft Launcher (vanilla)
-      - Other (please write below)
   validations:
     required: true
 
-- type: dropdown
+- type: checkboxes
   attributes:
-    label: Install method
-    description: How did you install the modpack?
+    label: Other things
     options:
-      - FO fresh install/new profile
-      - Upgraded FO to a new version (what version to what version?)
-      - Using with additional mods/something else (please write below)
+      - I updated FO to a newer version (mention, what version to what version)
+      - I removed or added some mods (mention, which ones)
   validations:
-    required: true
-
+    required: false
+    
 - type: textarea
   attributes:
     label: Additional context
-    description: Optionally add screenshots, video or any other information. If it is a crash, please post it to [Pastebin](https://pastebin.com) and add a link here.
+    description: Screenshots, video or any other information. If it is a crash, please post it to [Pastebin](https://pastebin.com) and add a link here.
     placeholder: |
       Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
   validations:
