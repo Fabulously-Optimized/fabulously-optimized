@@ -11,13 +11,16 @@ So you like this modpack and want to support it? That's great! In this page I ha
   * [coderbot](https://www.patreon.com/coderbot), the developer of Iris Shaders 
   * [FlashyReese](https://ko-fi.com/flashyreese), the developer of Sodium Extra 
   * For other mods, see their respective pages.
-* **Contribute to mods** - simple things like suggesting features, reporting bugs when you encounter an issue and [translating your language](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Language-support) really do help out the mods. You can translate Fabulously Optimized's Mod Menu Helper as well!
+* **Contribute to mods** - simple things like suggesting features, reporting bugs when you encounter an issue and [translating your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) really do help out the mods. You can translate Fabulously Optimized's Mod Menu Helper as well!
 * **Contribute to FO wiki** - just make a PR here: https://github.com/Fabulously-Optimized/wiki
 * **Give feedback to the pack** - giving your ideas on what to add or change about the pack makes sure that we all can get the best quality out of it. Mod suggestions and bugs [can be posted to issues here](https://github.com/Madis0/fabulously-optimized/issues) and general questions are expected on [Discord](https://discord.gg/yxaXtaQqdB).
 * **Contribute to FO toolkit** - know some Python? Feel free to improve my scripts by forking and making a pull request.
 * **Create a Minecraft server** - [my BisectHosting affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month. Having more users there can give the modpack dev some monetary benefits similar to CF rewards.
 * **Want to make a mod for FO?**
   Currently I am looking for:
-  * Optifine's custom sky/clouds support
+  * [Optifine's custom sky/clouds support](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)
+  * [Telemetry disabler with a toggle](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/288)
+  * [A configurable label in the main menu](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/252)
   * Any Optifine parity that's not there yet
   * Any client-side performance improvements that are not there yet
+     * Note that the existence of a mod is not a reason for inclusion, each mod will still be evaluated individually and [by the same criteria](https://fabulously-optimized.gitbook.io/modpack/readme/principles).
