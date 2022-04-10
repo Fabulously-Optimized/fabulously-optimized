@@ -19,7 +19,6 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **Want to make a mod for FO?**
   Currently I am looking for:
   * [Optifine's custom sky/clouds support](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)
-  * [Telemetry disabler with a toggle](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/288)
   * [A configurable label in the main menu](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/252)
   * Any Optifine parity that's not there yet
   * Any client-side performance improvements that are not there yet
