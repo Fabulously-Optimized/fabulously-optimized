@@ -9,5 +9,5 @@ for disabledmod in .*.jar.disabled
 do
 	mod=$(basename $disabledmod .jar.disabled).jar
 	mv $disabledmod ${mod#.}
-	echo Mods restored successfully!
+	echo $mod restored successfully!
 done
