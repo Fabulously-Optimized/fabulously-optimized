@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.5.0 (2022-04-14)
+
+* Added No Telemetry - smaller mod that does one job
+* Removed TieFix - now redundant by Debugify (except for the telemetry)
+* Updated Architectury API, Debugify, Entity Culling, Fabric API, Fabric Capes, Mod Menu
+* Fabric Capes received several bugfixes, should work smoother now
+* Enabled fix for MC-89146 - Pistons forget update when being reloaded
+* Disabled Debugify's update checker
+
 ### 3.4.1 (2022-04-06)
 
 * Updated Debugify, Fabric Language Kotlin, Sodium Extra

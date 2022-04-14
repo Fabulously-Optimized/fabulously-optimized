@@ -6,7 +6,7 @@ hash = "c0ea016e992b3093ebf05ecbb099361b0c11e8cc4dc53c81aa959b0a5fc42381"
 
 [[files]]
 file = "config/debugify.json"
-hash = "0e1ec8438f8d5979ff774559e5dfc9b7410e54624bb77e4f0e5a6371c01bff3c"
+hash = "cfed5fa5fc445e2b0a6cfb0ff036ba91b562796a528277f8c972d1458bb2134a"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -22,11 +22,7 @@ hash = "f767669d11b748c983cf3bf33a8778c2e70e2182a844e4ee1add13efabe6c2df"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "1c63134f10780f78025a4f38b3827ff596293be8774c50a55169da2a405db2cf"
-
-[[files]]
-file = "config/tiefix.json"
-hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
+hash = "d08aadefd2862d06eb1aa1c7adef7555e36e5fd07d29ce5d158976667332c151"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -58,7 +54,7 @@ hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "0e1ec8438f8d5979ff774559e5dfc9b7410e54624bb77e4f0e5a6371c01bff3c"
+hash = "cfed5fa5fc445e2b0a6cfb0ff036ba91b562796a528277f8c972d1458bb2134a"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -101,10 +97,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "ce1bdc73a838c3d8d892e7ee62a5399fe94b3e347ac40ca57895a6cabdfaa054"
 
 [[files]]
-file = "config/yosbr/config/tiefix.json"
-hash = "a97e4c7366346c470a705645fabe64bd3c859c646704652f297e28ead0025582"
-
-[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "c9360b769c27a6bf08ddfd3a30254c6260c16d682e503c7f873c904819a7e13e"
 
@@ -129,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
+hash = "f7b6fff3b0f2260f4bb3c6971a3c15e48ec2fcd449658a3c44b8a011580e230c"
 metafile = true
 
 [[files]]
@@ -144,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "a95e949723e71f98bf649883fa694950805f0431074e2716a4d769d3d2fddf9c"
+hash = "b5e992d432416b2948f6d441232da5e6169ea3093f895f01715ad5d9be32837e"
 metafile = true
 
 [[files]]
@@ -189,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "f5c0ad2c9f39822fbf3f6e9b777827d27be1e26c2c9bbfb9ae39aca5b653e33a"
+hash = "5bd5fc7c494ab99ef8575c7d13e2605b4910035ad03531909c6de01675d75546"
 metafile = true
 
 [[files]]
@@ -214,12 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "ef022f83989bc40467264755f5864f6a2ab42a02edda3b9a400c0f4ad55d0896"
+hash = "c2ee93e74ad106f20b997ffb054f46189f941da0c37c73a1a97d5dd85ff530a5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+hash = "b9598f1fae8ca026d737768ef3812f157c568ba86f2f780704ddb995fdec3502"
 metafile = true
 
 [[files]]
@@ -289,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "86f5fc0b25c2d71a6ac6f07dcf0fd168a51b7d3604636d5cd75485835d465c3b"
+hash = "2c70ac84c0b9feb5c5d42543be5612770da38debac874f48cebb5e0433afba89"
 metafile = true
 
 [[files]]
@@ -300,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/no-fade.toml"
 hash = "35f59eea8f56885041a17d971f15cc79e084746c90f195139d78dcfa2b275510"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.toml"
+hash = "a66824c7f51cda46c30dc0c9914e30cd9c7afa43afc01cbabb2c48ba81b2b5ec"
 metafile = true
 
 [[files]]
@@ -343,11 +340,6 @@ hash = "ed3ce42c6cccaa9989d3b7a8769bd4c0a9c643ccb2fdb7d41ef9604163e4a8e6"
 metafile = true
 
 [[files]]
-file = "mods/tiefix.toml"
-hash = "661edf5a63448b31051545135af406dc469b3f796a73f5e12c037fea8afe7b7d"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.toml"
 hash = "57279a8ae2d7c6e5053da3909d95254118db533d9a38c1a0763bf602d80c933d"
 metafile = true
@@ -364,4 +356,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "bb2601ab37db4fd0303f1b17b18be271a34efafda5ecf43f36c5850b8eccb15f"
+hash = "b811482794c2ef3f3c574bbb2e546850a715f03230da6634de4d1ccfb95baa33"
