@@ -8,14 +8,14 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [![Download from Curseforge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20Curseforge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) 
 
-Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
+Supports CurseForge Launcher, MultiMC, PolyMC, GDLauncher and vanilla launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
 <details>
   <summary>Alternative downloads</summary>
 
 _These downloads do not yet support the modpack or the mods :(_
 
-* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ ⚰️ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ ⚰️ | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.3.0-alpha.1/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
+* [Auto-updating](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) MultiMC / PolyMC pack: [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ ⚰️ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ ⚰️ | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.3.0-alpha.1/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
 * [Modrinth](https://modrinth.com/modpack/fabulously-optimized) [(no supported launchers yet)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
@@ -25,7 +25,7 @@ _These downloads do not yet support the modpack or the mods :(_
 
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org)/[PolyMC](https://polymc.org/) | [MultiMC](https://multimc.org)/[PolyMC](https://polymc.org/) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|
 | Pack download | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
 | Recommended for | Most people | Slow device or internet | Testers and contributors | Linux users | Advanced users |
