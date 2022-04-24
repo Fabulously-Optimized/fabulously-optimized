@@ -10,3 +10,5 @@ Requirements:
 
 1. [Download the manifest creating executable from here](https://github.com/comp500/packwiz/actions) and place it to `../Packwiz`.
 2. [Download the MultiMC bootstrap from here](https://github.com/comp500/packwiz-installer-bootstrap/releases) and place it to `../MultiMC-Packwiz/Fabulously Optimized (auto-update)/.minecraft`
+
+The `.sh` scripts are for the users that want to disable some mods from FO. [See the tutorial for more info.](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update#can-i-ignore-some-of-the-mods)
