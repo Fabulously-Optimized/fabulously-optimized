@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.6.0 (2022-04-25)
+
+Lots of fixes and mod updates!
+
+* Removed No Telemetry, enabled the respective setting in Debugify instead
+* Updated Architectury API, Borderless Mining, Debugify, Fabric API, Fabric Language Kotlin, FerriteCore, Indium, Iris Shaders, Mod Menu, Not Enough Crashes
+* Updated Fabric Loader to 0.14.2
+* Replaced Cloth Config with the new Curseforge listing one
+* Updated Mod Menu Helper's Russian and Portuguese (Brazil) translations by RozeFound and PaperKing13isPro, respectively
+* Disabled "Always Defer Chunk Updates" in Sodium as it caused more issues than it fixed
+
 ### 3.5.0 (2022-04-14)
 
 * Added No Telemetry - smaller mod that does one job

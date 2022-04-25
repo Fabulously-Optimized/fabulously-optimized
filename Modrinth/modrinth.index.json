@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.5.0",
+    "versionId": "3.6.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.1.44.jar",
+            "path": "mods/architectury-4.2.50.jar",
             "hashes": {
-                "sha1": "a5d6a3905035be2cc63a25cfd26658e81358166b"
+                "sha1": "f4488e05ec8145623c8c5f53ab7a62179133c815"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3743/909/architectury-4.1.44.jar"
+                "https://edge.forgecdn.net/files/3758/441/architectury-4.2.50.jar"
             ]
         },
         {
@@ -70,16 +70,16 @@
             ]
         },
         {
-            "path": "mods/borderless-mining-1.1.1+1.18.jar",
+            "path": "mods/borderless-mining-1.1.2+1.18.2.jar",
             "hashes": {
-                "sha1": "0fe49bcdb499f7cd68bf5666e5893bfa7edd04ee"
+                "sha1": "2a7490d56d040529c86e0d1e4017cb825381bf78"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3549/245/borderless-mining-1.1.1+1.18.jar"
+                "https://edge.forgecdn.net/files/3755/145/borderless-mining-1.1.2+1.18.2.jar"
             ]
         },
         {
@@ -124,14 +124,14 @@
         {
             "path": "mods/cloth-config-6.2.57-fabric.jar",
             "hashes": {
-                "sha1": "c52ef239d9d3d3473312d3f57bd8e730155ee5a5"
+                "sha1": "994915e00e2900453ec6478f920a87bf10ac9d05"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3641/132/cloth-config-6.2.57-fabric.jar"
+                "https://edge.forgecdn.net/files/3761/416/cloth-config-6.2.57-fabric.jar"
             ]
         },
         {
@@ -200,16 +200,16 @@
             ]
         },
         {
-            "path": "mods/debugify-fabric-1.7.1.jar",
+            "path": "mods/debugify-1.9.0-fabric-1.18.2.jar",
             "hashes": {
-                "sha1": "8c6f94f33852f283de6546d8537b1c72d800ee0a"
+                "sha1": "8bc0a0baa76712718ab5334dcbef2a92dad3438b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3748/898/debugify-fabric-1.7.1.jar"
+                "https://edge.forgecdn.net/files/3759/425/debugify-1.9.0-fabric-1.18.2.jar"
             ]
         },
         {
@@ -278,29 +278,29 @@
             ]
         },
         {
-            "path": "mods/fabric-api-0.50.0+1.18.2.jar",
+            "path": "mods/fabric-api-0.51.1+1.18.2.jar",
             "hashes": {
-                "sha1": "994c82605fb3fd247791456a8271abd3e6f17a6f"
+                "sha1": "fe3c0fcd92a46632a69e5d17cc0f2b7a37c877f4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3743/847/fabric-api-0.50.0+1.18.2.jar"
+                "https://edge.forgecdn.net/files/3759/491/fabric-api-0.51.1+1.18.2.jar"
             ]
         },
         {
-            "path": "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar",
+            "path": "mods/fabric-language-kotlin-1.7.4+kotlin.1.6.21.jar",
             "hashes": {
-                "sha1": "88f240a5064963ef1aa50ebaa85dbdf2e4e1362e"
+                "sha1": "57581e800d250c31aed8bc17fa7c2af9786c26a3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3735/26/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar"
+                "https://edge.forgecdn.net/files/3764/14/fabric-language-kotlin-1.7.4+kotlin.1.6.21.jar"
             ]
         },
         {
@@ -330,42 +330,42 @@
             ]
         },
         {
-            "path": "mods/ferritecore-4.2.0-fabric.jar",
+            "path": "mods/ferritecore-4.2.1-fabric.jar",
             "hashes": {
-                "sha1": "5e78186d306ca68dd8b5da4f9939126bf96fdbc0"
+                "sha1": "d5d047374981d614c2a53422be751dc1491f9cd0"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3672/143/ferritecore-4.2.0-fabric.jar"
+                "https://edge.forgecdn.net/files/3767/285/ferritecore-4.2.1-fabric.jar"
             ]
         },
         {
-            "path": "mods/indium-1.0.2+mc1.18.2.jar",
+            "path": "mods/indium-1.0.3+mc1.18.2.jar",
             "hashes": {
-                "sha1": "9421de0ce575f84ac652694f8f2bc9a468a42375"
+                "sha1": "a20793e65789fb9ef248d07dfd2fcd79e8afb53d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3669/436/indium-1.0.2+mc1.18.2.jar"
+                "https://edge.forgecdn.net/files/3767/308/indium-1.0.3+mc1.18.2.jar"
             ]
         },
         {
-            "path": "mods/iris-mc1.18.2-1.2.2-build.32.jar",
+            "path": "mods/iris-mc1.18.2-1.2.3-build.35.jar",
             "hashes": {
-                "sha1": "4f414abe310173ea7e270e26dafec8e6c442b9d4"
+                "sha1": "54f32b6beaa5bfb3bbfde8eacd615b2ddcec1fca"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3687/476/iris-mc1.18.2-1.2.2-build.32.jar"
+                "https://edge.forgecdn.net/files/3767/760/iris-mc1.18.2-1.2.3-build.35.jar"
             ]
         },
         {
@@ -460,16 +460,16 @@
             ]
         },
         {
-            "path": "mods/modmenu-3.1.1.jar",
+            "path": "mods/modmenu-3.2.1.jar",
             "hashes": {
-                "sha1": "0b6b73d6b1d7682790f9de36d2fe1b533bf0ae65"
+                "sha1": "2366c41842dd070cb400aba8cb7d3241d175a71e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3745/497/modmenu-3.1.1.jar"
+                "https://edge.forgecdn.net/files/3767/908/modmenu-3.2.1.jar"
             ]
         },
         {
@@ -499,29 +499,16 @@
             ]
         },
         {
-            "path": "mods/no-telemetry-1.3.0.jar",
+            "path": "mods/notenoughcrashes-4.1.6+1.18.2-fabric.jar",
             "hashes": {
-                "sha1": "0aa4244d3f97006cb4bacbdefbd9ea41e17f1400"
+                "sha1": "01bffaa29c3ee5657dffa40e7272f265b5276e7a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3549/361/no-telemetry-1.3.0.jar"
-            ]
-        },
-        {
-            "path": "mods/notenoughcrashes-4.1.4+1.18.2-fabric.jar",
-            "hashes": {
-                "sha1": "e3452caf15e9f579e82578e60ad9c5847fe592b1"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3684/963/notenoughcrashes-4.1.4+1.18.2-fabric.jar"
+                "https://edge.forgecdn.net/files/3758/296/notenoughcrashes-4.1.6+1.18.2-fabric.jar"
             ]
         },
         {
@@ -656,7 +643,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.13.3",
+        "fabric-loader": "0.14.2",
         "minecraft": "1.18.2"
     }
 }

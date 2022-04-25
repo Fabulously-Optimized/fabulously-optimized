@@ -6,7 +6,7 @@
   },
   "performance": {
     "chunk_builder_threads": 0,
-    "always_defer_chunk_updates": true,
+    "always_defer_chunk_updates": false,
     "animate_only_visible_textures": true,
     "use_entity_culling": true,
     "use_particle_culling": true,
