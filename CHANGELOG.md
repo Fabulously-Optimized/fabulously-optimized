@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.6.1 (2022-04-27)
+
+* Updated Iris to fix several bugs
+* Updated Mod Menu Helper's Russian by RozeFound
+* Updated Fabric Loader to 0.14.3 in supported launchers
+
 ### 3.6.0 (2022-04-25)
 
 Lots of fixes and mod updates!

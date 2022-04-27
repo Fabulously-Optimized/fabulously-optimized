@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.6.0",
+    "versionId": "3.6.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -356,16 +356,16 @@
             ]
         },
         {
-            "path": "mods/iris-mc1.18.2-1.2.3-build.35.jar",
+            "path": "mods/iris-mc1.18.2-1.2.4-build.38.jar",
             "hashes": {
-                "sha1": "54f32b6beaa5bfb3bbfde8eacd615b2ddcec1fca"
+                "sha1": "2442df3bf18516737f8cfd5badd836a7e34f6288"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3767/760/iris-mc1.18.2-1.2.3-build.35.jar"
+                "https://edge.forgecdn.net/files/3770/305/iris-mc1.18.2-1.2.4-build.38.jar"
             ]
         },
         {
@@ -643,7 +643,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.14.2",
+        "fabric-loader": "0.14.3",
         "minecraft": "1.18.2"
     }
 }
