@@ -144,10 +144,10 @@ Mods that are usually not included in the modpack (maybe only on betas or so), b
 | Name | Author | Alternative for | Description |
 |---|---|---|---|
 | Advancements Enlarger | shedaniel | AdvancementInfo | |
-| Better Beds |  | Enhanced Block Entities | |
-| Bobby |  | FarSight | |
-| FastChest |  | Enhanced Block Entities | |
-| Phosphor |  | Starlight | |
+| Better Beds | TeamMidnightDust | Enhanced Block Entities | |
+| Bobby |  Johni0702  | FarSight | |
+| FastChest | FakeDomi | Enhanced Block Entities | |
+| Phosphor | CaffeineMC | Starlight | |
 
 ## Help
 
