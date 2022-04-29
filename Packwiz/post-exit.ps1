@@ -1,4 +1,4 @@
-# By Ultrasonic#7662
+# By Ultrasonic1209
 
 # Restore packwiz disabled mods to prevent useless redownload
 Write-Output "Restoring overridden mods for future launches..."
