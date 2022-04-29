@@ -137,6 +137,18 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds support for the Rendering API (more parity mods) |
 | [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) |  |  | &nbsp;&nbsp;✔️ | Makes some mods work |
 
+### Alternative mods
+
+Mods that are usually not included in the modpack (maybe only on betas or so), but can be used as a replacement for some included ones, if these do not satisfy your needs. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
+
+| Name | Author | Alternative for | Description |
+|---|---|---|---|
+| Advancements Enlarger | shedaniel | AdvancementInfo | |
+| Better Beds |  | Enhanced Block Entities | |
+| Bobby |  | FarSight | |
+| FastChest |  | Enhanced Block Entities | |
+| Phosphor |  | Starlight | |
+
 ## Help
 
 Help is provided by:
