@@ -32,5 +32,6 @@ Write-Output "Disabling mods..."
 
 Set-Location ".\mods"
 foreach ($mod in $mods) {
-    Move-Item -Path $mod -Destination "$mod.disabled" -Force
+    (Move-Item -Path $mod -Destination "$mod.disabled" -Force) -and
+    (Write-Output "$($mod.name) disabled successfully!")
 }
