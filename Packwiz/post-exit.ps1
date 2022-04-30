@@ -8,5 +8,5 @@ $mods = Get-ChildItem *.jar.disabled
 
 foreach ( $mod in $mods ) {
     Move-Item -Path $mod.name -Destination ($mod.FullName).Replace(".disabled","") -Force
-    Write-Output "Restored mod $($mod.name.Replace(".disabled", ''))"
+    Write-Output "$($mod.name.Replace(".disabled", '')) restored successfully!"
 }
