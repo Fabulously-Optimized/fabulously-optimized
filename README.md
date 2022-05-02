@@ -65,14 +65,14 @@ The selected mods are inspired, but not limited by the [list of Optifine alterna
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✔️ |  |  | Makes chests render faster |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Reduces RAM usage |
-| [Hydrogen](https://modrinth.com/mod/hydrogen) ¹ | [jellysquid3_](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Reduces RAM usage |
+| [Hydrogen](https://modrinth.com/mod/hydrogen) ¹ | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Reduces RAM usage |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes language switching instant |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the game startup faster |
-| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [jellysquid3_](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes game physics and chunk loading |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes game physics and chunk loading |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes game startup and resource packs switch faster by removing fade animations |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [jellysquid3_](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Optimizes light rendering |
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Optimizes light rendering |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Improves the overall responsiveness of the game (less likely to freeze) |
-| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [jellysquid3_](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | &nbsp;&nbsp;✔️ | Optimizes light rendering |
 
 ¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
@@ -148,7 +148,7 @@ Mods that are usually not included in the latest modpack (may be on legacy or be
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust/) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the beds render faster |
 | [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) | [Johni0702](https://www.curseforge.com/members/johni0702) | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Keeps far loaded chunks visible in servers, increasing visible render distance [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734) |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the chests render faster |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [jellysquid3_](https://www.curseforge.com/members/jellysquid3_) | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Optimizes light rendering [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829) |
+| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Optimizes light rendering [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829) |
 
 ## Help
 
