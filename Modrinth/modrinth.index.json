@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.6.1",
+    "versionId": "3.7.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.2.50.jar",
+            "path": "mods/architectury-4.3.53.jar",
             "hashes": {
-                "sha1": "f4488e05ec8145623c8c5f53ab7a62179133c815"
+                "sha1": "78c1fc5c2a10922cd18d270dcad92ee6db72ba1c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3758/441/architectury-4.2.50.jar"
+                "https://edge.forgecdn.net/files/3776/360/architectury-4.3.53.jar"
             ]
         },
         {
@@ -148,16 +148,16 @@
             ]
         },
         {
-            "path": "mods/completeconfig-lib-1.4.0.jar",
+            "path": "mods/completeconfig-lib-1.4.1.jar",
             "hashes": {
-                "sha1": "b5a366584aa4c7bba8306b4f7233329fcbf609f1"
+                "sha1": "de6c92a959f55c97fdd61050d421b2803964d1e4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3709/325/completeconfig-lib-1.4.0.jar"
+                "https://edge.forgecdn.net/files/3773/665/completeconfig-lib-1.4.1.jar"
             ]
         },
         {
@@ -174,16 +174,16 @@
             ]
         },
         {
-            "path": "mods/cullleaves-2.3.2.jar",
+            "path": "mods/CullLessLeaves-1.0.0.jar",
             "hashes": {
-                "sha1": "9bc9c61f0a7dc6c765118a0527850b91847608cb"
+                "sha1": "19559b8892f43cfd938a3900d9bec47baf51b767"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3509/388/cullleaves-2.3.2.jar"
+                "https://edge.forgecdn.net/files/3776/224/CullLessLeaves-1.0.0.jar"
             ]
         },
         {
@@ -447,6 +447,19 @@
             ]
         },
         {
+            "path": "mods/main-menu-credits-1.0.2.jar",
+            "hashes": {
+                "sha1": "03809cee477c96f1384a3245335134087a30c7c4"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3773/125/main-menu-credits-1.0.2.jar"
+            ]
+        },
+        {
             "path": "mods/midnightlib-0.4.0.jar",
             "hashes": {
                 "sha1": "bad7a3239314c297a1793b96a8688ba71b0b928e"
@@ -535,19 +548,6 @@
             },
             "downloads": [
                 "https://edge.forgecdn.net/files/3682/509/reeses_sodium_options-mc1.18.2-1.4.2.jar"
-            ]
-        },
-        {
-            "path": "mods/slight-gui-modifications-2.1.0.jar",
-            "hashes": {
-                "sha1": "2d3c2d6198298fd5368e705802a492ee8dfc43dd"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://edge.forgecdn.net/files/3680/329/slight-gui-modifications-2.1.0.jar"
             ]
         },
         {
@@ -643,7 +643,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.14.3",
+        "fabric-loader": "0.14.4",
         "minecraft": "1.18.2"
     }
 }

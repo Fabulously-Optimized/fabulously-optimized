@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.7.0 (2022-05-02)
+
+Mods
+
+* Added Main Menu Credits - a small mod for the version number in title screen
+* Added Cull Less Leaves - looks better and has better Sodium integration, including a toggle in the video settings
+* Removed 'Slight' Gui Modifications - now redundant
+* Removed Cull Leaves - now redundant
+* Updated Architectury API, CompleteConfig
+
+Other 
+
+* Overall the modpack is now 26% smaller
+* Optimized all mod configs
+* Disabled Better Snow of LambdaBetterGrass as it looked out of place with resource packs
+* Updated Fabric Loader to 0.14.4
+
 ### 3.6.1 (2022-04-27)
 
 * Updated Iris to fix several bugs
