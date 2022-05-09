@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.8.0 (2022-05-09)
+
+* Added OptiGUI - OptiFine custom GUI support in resourcepacks!
+* Swapped the Architectury API with the new listing
+* Updated Architectury API, Cloth Config API, Debugify, Fabric Capes, Farsight
+* Updated Fabric Loader to 0.14.5
+* Enabled Cosmetica cape in Fabric Capes
+* Updated Greek, Korean, Russian MMH translations by AlphaKR93, RaptaG, RozeFound
+* Relicensed the modpack under BSD-3-Clause (tl;dr: use a different name when you fork)
+
 ### 3.7.0 (2022-05-02)
 
 Mods
@@ -227,7 +237,7 @@ Major changes compared to 2.7.0:
 New mods
 
 * Starlight - improves chunk performance, 75% preferred it in the public vote (1.0.0 stable version)
-* Puzzle - adds some Optifine features like emissive mobs and resource pack-provided splash screen
+* Puzzle - adds some OptiFine features like emissive mobs and resource pack-provided splash screen
 * TieFix - disables telemetry (sending diagnostics data to Mojang) and fixes some bugs
 
 Removed mods
@@ -251,7 +261,7 @@ Individual shader settings can now be configured!
 First beta for 1.18.1!
 
 New mods
-* Puzzle - adds some Optifine features like emissive mobs and resource pack-provided splash screen
+* Puzzle - adds some OptiFine features like emissive mobs and resource pack-provided splash screen
 * TieFix - disables telemetry and fixes some bugs
 * Starlight - improves chunk performance, 75% preferred it so here it is! (1.0.0 stable version)
 
@@ -477,7 +487,7 @@ Major update with Phosphor and bugfixes for Sodium and Iris!
 
 New mods
 
-* **Animatica** - Optifine's animated textures!
+* **Animatica** - OptiFine's animated textures!
 * **ToolTipFix** - makes sure all tooltips fit to screen
 * **No Potion Offset** - removes the potion offset on Creative inventory (similar to 1.18)
 
@@ -504,8 +514,8 @@ Also known as "the update that couldn't be installed with Curseforge Launcher".
 
 New mods
 
-* **Continuity** - Optifine's connected textures!
-* **CIT Resewn** - Optifine's custom items!
+* **Continuity** - OptiFine's connected textures!
+* **CIT Resewn** - OptiFine's custom items!
 * **Enhanced Block Entities** - makes chests, signs, beds etc. render faster
 * **More Chat History** - increases chat history limit
 * **Don't Clear Chat History** - keeps your written message log across worlds
@@ -538,9 +548,9 @@ It is time to finally release Fabulously Optimized for Minecraft 1.17.1! Here ar
 
 New mods
 
-* **Iris** - Optifine shaders! [See here](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now) for the recommended ones.
-* **LambdaBetterGrass** - Optifine's "better grass"!
-* **CustomEntityModels** - Optifine's custom entity models (partial support, see mod description)
+* **Iris** - OptiFine shaders! [See here](https://github.com/IrisShaders/Iris#what-shader-packs-can-i-use-right-now) for the recommended ones.
+* **LambdaBetterGrass** - OptiFine's "better grass"!
+* **CustomEntityModels** - OptiFine's custom entity models (partial support, see mod description)
 * **AdvancementInfo** - bigger and more detailed advancement screen
 * **Better Mount HUD** - improves the HUD while riding a horse, like in Bedrock Edition
 * **Reese's Sodium Options** - makes the graphics settings vertical to make sure all options fit and look good
@@ -573,8 +583,8 @@ Changes from beta 4 to release
 ### 2.1.0-beta.4 (2021-08-25)
 
 Added
-* LambdaBetterGrass (Optifine's "better grass"!)
-* CustomEntityModels and CompleteConfig (Optifine's custom entity models, in alpha though)
+* LambdaBetterGrass (OptiFine's "better grass"!)
+* CustomEntityModels and CompleteConfig (OptiFine's custom entity models, in alpha though)
 * Colormatic (water/biome colors, FO 1.9.1 parity)
 * FastChest and Better Beds (were removed in the previous beta)
 
@@ -653,7 +663,7 @@ Notes for all 1.17 releases:
 
 Differences from b3
 
-* Added **Iris with Sodium**! (Yes, FPS boost and Optifine shaders!)
+* Added **Iris with Sodium**! (Yes, FPS boost and OptiFine shaders!)
 * Set the default graphics to fast for general performance improvement
 * Re-enabled dynamic light for entities in LambDynamicLights
 * Updated mods
@@ -913,7 +923,7 @@ Thanks to users' feedback, the mod list has been updated.
 
 **Added**
 * Ok Zoomer - fancy zooming mod, back by a popular demand (configurable)
-* Fabric Capes - gives options for viewing Optifine, LabyMod and MinecraftCapes' capes in-game
+* Fabric Capes - gives options for viewing OptiFine, LabyMod and MinecraftCapes' capes in-game
 * Fabric Language Kotlin - needed for Fabric Capes
 
 **Removed**
@@ -923,10 +933,10 @@ Thanks to users' feedback, the mod list has been updated.
 Sodium has been updated, so it's time for a release!
 
 **Added**
-* OF Capes - lets you see Optifine capes and zoom
+* OF Capes - lets you see OptiFine capes and zoom
 * MinecraftCapes - lets you get a free cape, textured elytra or mouse ears (configurable)
-* Raised Clouds - lets you adjust the cloud height like Optifine (configurable)
-* Fabrishot - lets you take a high-res screenshot like Optifine (press F9, configurable)
+* Raised Clouds - lets you adjust the cloud height like OptiFine (configurable)
+* Fabrishot - lets you take a high-res screenshot like OptiFine (press F9, configurable)
 
 **Removed**
 * motioNO - now built-in, find it under Accessibility Settings... > FOV Effects
@@ -981,7 +991,7 @@ Major update with new mods.
 * Dynamic FPS - renders Minecraft slower if it is in the background to save memory
 * Smooth Scrolling Everywhere - makes the scrolling smooth on various menus
 * 'Slight' Gui Modifications - adds fancy animations to the menus and containers
-* Colormatic - adds support for Optifine resource packs' custom colors
+* Colormatic - adds support for OptiFine resource packs' custom colors
 
 ### 1.0.1 (2020-07-21)
 Updated mods. 

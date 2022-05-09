@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.7.0",
+    "versionId": "3.8.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -44,16 +44,16 @@
             ]
         },
         {
-            "path": "mods/architectury-4.3.53.jar",
+            "path": "mods/architectury-4.4.59.jar",
             "hashes": {
-                "sha1": "78c1fc5c2a10922cd18d270dcad92ee6db72ba1c"
+                "sha1": "3c8a475c5e28d8e4ce7aff81c317d82fdc7ceb66"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3776/360/architectury-4.3.53.jar"
+                "https://edge.forgecdn.net/files/3784/130/architectury-4.4.59.jar"
             ]
         },
         {
@@ -83,16 +83,16 @@
             ]
         },
         {
-            "path": "mods/Capes-1.3.0+1.18.2.jar",
+            "path": "mods/Capes-1.3.1+1.18.2.jar",
             "hashes": {
-                "sha1": "5a1d6eaeaf9a9bd36f82f720422606784d11f21a"
+                "sha1": "407dc8d3a02785775deab32033d227a690481083"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3739/692/Capes-1.3.0+1.18.2.jar"
+                "https://edge.forgecdn.net/files/3780/643/Capes-1.3.1+1.18.2.jar"
             ]
         },
         {
@@ -122,16 +122,16 @@
             ]
         },
         {
-            "path": "mods/cloth-config-6.2.57-fabric.jar",
+            "path": "mods/cloth-config-6.2.62-fabric.jar",
             "hashes": {
-                "sha1": "994915e00e2900453ec6478f920a87bf10ac9d05"
+                "sha1": "bc0f07805823fdab5c7376d8d2b314c1b109d402"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3761/416/cloth-config-6.2.57-fabric.jar"
+                "https://edge.forgecdn.net/files/3782/775/cloth-config-6.2.62-fabric.jar"
             ]
         },
         {
@@ -200,16 +200,16 @@
             ]
         },
         {
-            "path": "mods/debugify-1.9.0-fabric-1.18.2.jar",
+            "path": "mods/debugify-1.10.0-fabric-1.18.2.jar",
             "hashes": {
-                "sha1": "8bc0a0baa76712718ab5334dcbef2a92dad3438b"
+                "sha1": "fe088b453202cb3f3872790202f1d10e18e5309f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3759/425/debugify-1.9.0-fabric-1.18.2.jar"
+                "https://edge.forgecdn.net/files/3783/156/debugify-1.10.0-fabric-1.18.2.jar"
             ]
         },
         {
@@ -317,16 +317,16 @@
             ]
         },
         {
-            "path": "mods/farsight.fabric-1.18-1.8.jar",
+            "path": "mods/farsight.fabric-1.18-1.9.jar",
             "hashes": {
-                "sha1": "75e3dc2d6373d36fd8127dce86fab9a2447073e4"
+                "sha1": "c67b60eeef67c9acd69da7ac49e87cf324c4802c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://edge.forgecdn.net/files/3686/937/farsight.fabric-1.18-1.8.jar"
+                "https://edge.forgecdn.net/files/3778/514/farsight.fabric-1.18-1.9.jar"
             ]
         },
         {
@@ -525,6 +525,19 @@
             ]
         },
         {
+            "path": "mods/optigui-1.0.0.jar",
+            "hashes": {
+                "sha1": "22cc66f6fa14a829a9bfa83f79ad81e61055d507"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://edge.forgecdn.net/files/3777/749/optigui-1.0.0.jar"
+            ]
+        },
+        {
             "path": "mods/puzzle-1.2.1.jar",
             "hashes": {
                 "sha1": "be946b8c5a8b5499b18b89fdf3c14c8c708b056f"
@@ -643,7 +656,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.14.4",
+        "fabric-loader": "0.14.5",
         "minecraft": "1.18.2"
     }
 }

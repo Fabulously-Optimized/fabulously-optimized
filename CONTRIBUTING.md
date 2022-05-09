@@ -18,7 +18,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **Contribute to FO toolkit** - If you know Java, you can help with [Packwiz vanilla installer](https://github.com/packwiz/packwiz-vanilla-installer); if you know Python, you can improve [my CLI scripts](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/CLI%20tools).
 * **Want to make a mod for FO?**
   Currently I am looking for:
-  * [Optifine's custom sky/clouds support](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)
-  * Any Optifine parity that's not there yet
+  * [OptiFine's custom sky/clouds support](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)
+  * Any OptiFine parity that's not there yet
   * Any client-side performance improvements that are not there yet
      * Note that the existence of a mod is not a reason for inclusion, each mod will still be evaluated individually and [by the same criteria](https://fabulously-optimized.gitbook.io/modpack/readme/principles).

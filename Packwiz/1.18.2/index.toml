@@ -10,11 +10,11 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "fdb01934a2e6666033b1977ce13906e2a540ba5a103b2b96562512a35c362e90"
+hash = "954a8dc2c8f180466ffb19ea5b73f8ce75b6a9205c824ef17971390900003417"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c56bfb6b158bc92d21225888520e86c88a2792eae3541173c80f32d30876d3b5"
+hash = "3a1dc69f4ca2240c5ace7aab2661fa3dd0cba9fb16d697f6eebb7aba9f361246"
 
 [[files]]
 file = "config/modmenu.json"
@@ -34,7 +34,7 @@ hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "88b3f30015ae7da848f736cffee62758ff245a947c85fc83adf99895d66fad6c"
+hash = "8f5c4bac35757d624f296419976aff70a4a5b95c4430aff06048013ea7dd25c4"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
@@ -108,8 +108,8 @@ hash = "3e3074cb6a900a2714d125469354d0e2a9e89e899723c3e7fe5dffa035f72917"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+file = "mods/architectury-api.toml"
+hash = "a52e03454af429c010c3f282b0367142c7038b861629f0c0ed09010ebe1a5769"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.toml"
-hash = "b5e992d432416b2948f6d441232da5e6169ea3093f895f01715ad5d9be32837e"
+hash = "138d66c3906c2c106654d10b64ebeb311d33308343d69b19e1159cea1118cd61"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3894f56dbf821aebef6d4149ef30474d19c09ec9d27b8ee6f971ddfaa9057aaf"
+hash = "25a7ae59066ec8104c5da601dc26923f7d0b7a9906d4c4fe9643222bbf4815aa"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.toml"
-hash = "765c0266e2e6ec1e6a7e5790729f7af0f1fdef205d284d68c3a737ad84bd088a"
+hash = "205821cf0802bf537b7d4c6825f4a790685742e6878a231df7e9d68a6c3669d6"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.toml"
-hash = "342460b8b5e2e7656e3e8001da9cd2ee92bec4e288eb7701a319aac391f8295c"
+hash = "50c0682cc3dfa35c0df43a2692df6b1eb74c4db59fa80f1bdd4f5bdeaeb11d60"
 metafile = true
 
 [[files]]
@@ -293,6 +293,11 @@ hash = "3b8c2cec272a08fce467e51a52e9125d070dcdc1fc4ffc0bf7cf9b0b23e2a319"
 metafile = true
 
 [[files]]
+file = "mods/optigui.toml"
+hash = "e934fb469dc917b680d0aca339c96cd40c6ab60c6b336e67997a37187335316f"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.toml"
 hash = "26b1a2e1fdfc61594bfdf13e88c5edf9e42a1c68023098233f4cdfc215536867"
 metafile = true
@@ -339,4 +344,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "64b2a1bb9394edeb6056deee2fd665b8eb57a6a14bf4f8ee9d0310ee8d37d8dc"
+hash = "f8e40cd05735f16ffd38519f16b3f3385437402d50a80309cd0e5a0693f4c843"
