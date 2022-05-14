@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.8.1 (2022-05-14)
+
+* Updated Architectury API, Mod Menu, OptiGUI
+* Fixed the Sculk Sensor toggle being disabled in Sodium Extra's Animations tab (video settings)
+* Updated Greek, Korean MMH translations by AlphaKR93, RaptaG
+
 ### 3.8.0 (2022-05-09)
 
 * Added OptiGUI - OptiFine custom GUI support in resourcepacks!
