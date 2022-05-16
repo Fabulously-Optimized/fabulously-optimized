@@ -14,7 +14,7 @@
 ### Additional thanks
 
 * [jellysquid3](https://github.com/jellysquid3) for creating [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) which were my initial inspiration for creating the modpack
-* [LambdAurora](https://github.com/LambdAurora) for creating [the list of Optifine alternatives](https://lambdaurora.dev/optifine_alternatives) which the pack does get some mod ideas from, [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) and [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
+* [LambdAurora](https://github.com/LambdAurora) for creating [the list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives) which the pack does get some mod ideas from, [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) and [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
 * [comp500](https://github.com/comp500) for creating [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - a mod that made the modpack possible in Minecraft 1.16.x, [Indium](https://modrinth.com/mod/indium) - mod that provided the rendering API for Sodium for increased mod compatibility and [packwiz](https://github.com/comp500/packwiz) - a tool that makes the MultiMC auto-update and in the future, vanilla installer happen
 * Mod devs that have joined my Discord and are discussing the modpack's development there
 * All developers who made the mods that are, have been and will be in the modpack
