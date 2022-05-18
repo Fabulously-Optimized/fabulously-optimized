@@ -1,10 +1,10 @@
-## Included mods
+# Included mods
 
 Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions.
 
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
-### Smooth
+## Smooth
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ |  |  | Makes beds render faster |
@@ -25,7 +25,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 
 ¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
-### Pretty
+## Pretty
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar |
@@ -54,7 +54,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
 
-### Functional
+## Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |
 |---|---|---|---|---|---|
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
@@ -71,7 +71,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) | [alexander9892](https://www.curseforge.com/members/alexander9892) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Adds a scrollable zoom feature |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) | [isXander](https://www.curseforge.com/members/xanderisdev) | | | &nbsp;&nbsp;✔️ | Adds a scrollable and customizable zoom feature |
 
-### Libraries
+## Libraries
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
@@ -87,7 +87,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds support for the Rendering API (more parity mods) |
 | [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) |  |  | &nbsp;&nbsp;✔️ | Makes some mods work |
 
-### Alternative mods
+## Alternative mods
 
 Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with a red asterisk `*`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
 
