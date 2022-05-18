@@ -50,6 +50,9 @@ More notable videos:
 * [Playing on a Raspberry Pi 4 (low-power specialized computer)](https://www.youtube.com/watch?v=vVAS8AYNEgU) by whitebelyash
 * [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
 
+## Included Mods
+Fabulously Optimized has [a complete list of all the mods included](INCLUDED-MODS.md). Besides the mods that are used in the latest version, it also lists the mods used in older major versions, alternative mods and library mods that are essential for the modpack to work.<br />See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs)
+
 ## Help
 
 Help is provided by:
