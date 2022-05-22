@@ -8,6 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 * Updated Architectury API, Cull Less Leaves, Fabric API, Lithium, Main Menu Credits, Sodium Extra, Zoomify
 * Updated Fabric Loader to 0.14.6
 * Removed the Sodium Extra workaround
+
 GDLauncher, MultiMC (auto-update) and Modrinth are temporarily unsupported until further notice.
 
 ### 3.8.1 (2022-05-14)
