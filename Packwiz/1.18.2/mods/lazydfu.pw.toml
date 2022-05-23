@@ -1,0 +1,13 @@
+name = "LazyDFU"
+filename = "lazydfu-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2efec5781f1271bdcdae462eee402ccb97bff6fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3209972
+project-id = 433518

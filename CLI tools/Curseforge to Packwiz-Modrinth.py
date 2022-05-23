@@ -14,6 +14,8 @@ packwiz_manifest = "pack.toml"
 refresh_only = False
 is_legacy = False
 hydrogen = False
+modrinth_overrides = True
+modrinth_export = False
 
 def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
     with ZipFile(from_zip, 'r') as zip:
@@ -45,6 +47,13 @@ if refresh_only == False:
     if hydrogen:
         os.system(packwiz_exe_path + " remove hydrogen")
         os.system(packwiz_exe_path + " mr install hydrogen")
+    if modrinth_overrides:
+        os.system(packwiz_exe_path + " remove architectury-api")
+        os.system(packwiz_exe_path + " mr install architectury-api")
+        os.system(packwiz_exe_path + " remove cloth-config")
+        os.system(packwiz_exe_path + " mr install cloth-config")
+        os.system(packwiz_exe_path + " remove dont-clear-chat-history")
+        os.system(packwiz_exe_path + " mr install dcch")
 os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
@@ -53,11 +62,12 @@ if is_legacy == False and refresh_only == False:
     extract_file(cf_zip_path, "modlist.html", git_path + "Curseforge", "Curseforge modlist.html", "Git")
 
 # Export Modrinth pack and manifest
-os.system(packwiz_exe_path + " modrinth export")
-for pack in os.listdir(packwiz_path):
-    if pack.endswith('.mrpack'):
-        if is_legacy == False:
-            extract_file(packwiz_path + "/" + pack, "modrinth.index.json", git_path + "/" + "Modrinth", "Modrinth manifest", "Git")
-        os.replace(packwiz_path + "/" + pack, os.path.expanduser("~/Desktop") + "/" + pack)
-        print("Moved " + pack + " to desktop")
-os.system(packwiz_exe_path + " refresh")
+if modrinth_export:
+    os.system(packwiz_exe_path + " modrinth export")
+    for pack in os.listdir(packwiz_path):
+        if pack.endswith('.mrpack'):
+            if is_legacy == False:
+                extract_file(packwiz_path + "/" + pack, "modrinth.index.json", git_path + "/" + "Modrinth", "Modrinth manifest", "Git")
+            os.replace(packwiz_path + "/" + pack, os.path.expanduser("~/Desktop") + "/" + pack)
+            print("Moved " + pack + " to desktop")
+    os.system(packwiz_exe_path + " refresh")
