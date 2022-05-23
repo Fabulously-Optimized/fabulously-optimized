@@ -21,10 +21,6 @@ else
 fi
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/$mcver/pack.toml
 
-# Upgrading the checksums
-checksums="$(md5sum packwiz.json | cut -d' ' -f1)"
-echo "$checksums  packwiz.json" | md5sum -c - || exit 1
-
 # Disabling the mods
 echo Disabling mods...
 cd mods
