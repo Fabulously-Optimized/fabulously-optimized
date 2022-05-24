@@ -57,7 +57,7 @@ Lots of fixes and mod updates!
 * Removed No Telemetry, enabled the respective setting in Debugify instead
 * Updated Architectury API, Borderless Mining, Debugify, Fabric API, Fabric Language Kotlin, FerriteCore, Indium, Iris Shaders, Mod Menu, Not Enough Crashes
 * Updated Fabric Loader to 0.14.2
-* Replaced Cloth Config with the new Curseforge listing one
+* Replaced Cloth Config with the new CurseForge listing one
 * Updated Mod Menu Helper's Russian and Portuguese (Brazil) translations by RozeFound and PaperKing13isPro, respectively
 * Disabled "Always Defer Chunk Updates" in Sodium as it caused more issues than it fixed
 
@@ -79,7 +79,7 @@ Lots of fixes and mod updates!
 
 ### 3.4.0 (2022-04-03)
 
-Thank you for over 300 000 downloads on Curseforge! 🎉🎉🎉
+Thank you for over 300 000 downloads on CurseForge! 🎉🎉🎉
 
 We have a new fancy wiki where everyone can contribute: https://fabulously-optimized.gitbook.io/
 
@@ -157,7 +157,7 @@ Time for a beta as the most visible mods are all updated.
 
 ### 3.3.0-alpha.4 (2022-03-07)
 
-**Player rendering crash has been discovered, this version has been reverted from Curseforge.**
+**Player rendering crash has been discovered, this version has been reverted from CurseForge.**
 
 * Re-added 'Slight' GUI Modifications, Continuity
 * Main menu version text is back
@@ -204,7 +204,7 @@ Notes:
 
 ### 3.2.4 (2022-03-07)
 
-**Player rendering crash has been discovered, this version has been reverted from Curseforge.**
+**Player rendering crash has been discovered, this version has been reverted from CurseForge.**
 
 * Updated Architectury API, Entity Texture Features, Fabric API, Indium
 * Forcefully updated Reese's Sodium Options to fix video settings bug on macOS (already fixed on FO 3.3.0-alpha.2 or later)
@@ -516,7 +516,7 @@ Other stuff
 
 2.2.0 had a bit of a rocky launch but we're back with mod updates!
 
-* Fixed Curseforge Launcher installation (see [#140](https://github.com/Madis0/fabulously-optimized/issues/140) for more info)
+* Fixed CurseForge Launcher installation (see [#140](https://github.com/Madis0/fabulously-optimized/issues/140) for more info)
 * Fixed CIT Resewn config not being applied
 * Added Russian translation for Mod Menu Helper by RozeFound
 * Updated Architectury API, Fabric API, Fabric Language Kotlin, Language Reload, LittleTweaks, Mod Menu, Not Enough Crashes, Sodium Extra
@@ -524,7 +524,7 @@ Other stuff
 ### 2.2.0 (2021-09-29)
 
 New mods, new Mod Menu style and a new Discord server! https://discord.gg/yxaXtaQqdB
-Also known as "the update that couldn't be installed with Curseforge Launcher".
+Also known as "the update that couldn't be installed with CurseForge Launcher".
 
 New mods
 
@@ -582,7 +582,7 @@ Removed mods
 Other changes
 
 * New default options [(read more)](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options)
-* Curseforge pack is now 100% Fabric (faster launch and better mod management)
+* CurseForge pack is now 100% Fabric (faster launch and better mod management)
 * An auto-updating MultiMC pack is available on GitHub
 * Now using semantic versioning
 * All mods updated
@@ -670,7 +670,7 @@ First alpha for 1.17.1!
 
 Notes for all 1.17 releases:
 
-* Curseforge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
+* CurseForge Launcher: if you're upgrading from MC 1.16.x, please ☑️ Update to new Profile
 * MultiMC: Minecraft 1.17 requires [Java 16 or higher](https://www.oracle.com/java/technologies/downloads/). 
 
 ### 2.0.0b4 (2021-07-01)
@@ -827,7 +827,7 @@ New mods:
 
 Other stuff:
 * Several mods updated
-* The modpack size is much bigger for Curseforge now, because Hydrogen is an external mod
+* The modpack size is much bigger for CurseForge now, because Hydrogen is an external mod
 * Sodium Extra update currently skipped as the next version will fix an issue
 * Cull Leaves changed the way its config works - if you are upgrading, you may delete the json5 file
 
@@ -878,7 +878,7 @@ Other stuff
 ### 1.4.5 (2021-01-04)
 * Mods updated
 * You may notice that there are less mods now - this is normal as some APIs are now properly marked as such, the main mods are still the same
-* Curseforge: fixed Fabric Loader update
+* CurseForge: fixed Fabric Loader update
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
 ### 1.4.4 (2020-12-20)
@@ -989,7 +989,7 @@ First alpha version only for MultiMC, stuck next to 1.16.2 versions because Twit
 * motioNO is removed as it is built-in to 1.16.2.
 
 ### 1.2.0a1 (MultiMC, 2020-08-15)
-A never-released version because Curseforge doesn't like MultiMC-only versions. Ah well.
+A never-released version because CurseForge doesn't like MultiMC-only versions. Ah well.
 
 ## 1.16.1
 

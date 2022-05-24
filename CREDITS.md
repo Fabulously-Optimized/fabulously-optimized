@@ -1,7 +1,7 @@
 # Credits
 ### Direct contributions
 
-* [TheYTG123](https://www.curseforge.com/members/theytg123/projects) on Curseforge who helped me with Jumploader to release the 1.16.3 version a little faster
+* [TheYTG123](https://www.curseforge.com/members/theytg123/projects) on CurseForge who helped me with Jumploader to release the 1.16.3 version a little faster
 * [wafflecoffee](https://github.com/wafflecoffee) who suggested and helped with the Modrinth format and now moderates my Discord server
 * [RozeFound](https://github.com/RozeFound) for helping with Python scripts and providing lots of constructive feedback for the pack
 * Discord user Ultrasonic for helping with Python scripts

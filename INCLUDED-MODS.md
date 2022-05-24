@@ -23,7 +23,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | &nbsp;&nbsp;✔️ | Optimizes light rendering |
 
-¹ [Not from Curseforge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Pretty
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | Description |

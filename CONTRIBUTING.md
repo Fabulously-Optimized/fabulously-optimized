@@ -1,8 +1,8 @@
 So you like this modpack and want to support it? That's great! In this page I have listed the ways you can contribute.
 
-* **[Download the pack from Curseforge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)** - seriously, that is the easiest thing that helps the modpack and its mods the most. Every download contributes to the [Curseforge rewards system](https://support.curseforge.com/en/support/solutions/articles/9000197898-rewards-program-terms-of-service#1.-Description-of-Rewards-Program), meaning both the modpack dev and the modders can get monetary rewards. Don't forget to share it with others as well!
+* **[Download the pack from CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)** - seriously, that is the easiest thing that helps the modpack and its mods the most. Every download contributes to the [CurseForge rewards system](https://support.curseforge.com/en/support/solutions/articles/9000197898-rewards-program-terms-of-service#1.-Description-of-Rewards-Program), meaning both the modpack dev and the modders can get monetary rewards. Don't forget to share it with others as well!
   * More specifically, using 
-     * the Curseforge Launcher
+     * the CurseForge Launcher
      * MultiMC (when downloaded via the CF site) 
      * vanilla launcher (when downloaded MultiMC via the CF site) 
   * support the pack, other launchers/methods unfortunately do not.

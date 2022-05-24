@@ -16,7 +16,7 @@ body:
 
 - type: input
   attributes:
-    label: Curseforge link
+    label: CurseForge link
     description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
   validations:
     required: false
@@ -24,7 +24,7 @@ body:
 - type: textarea
   attributes:
     label: Other links
-    description: E.g. Modrinth or GitHub, optional. If the developer cannot or will not add it to Curseforge, you may also [request an exception on Curseforge](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods).
+    description: E.g. Modrinth or GitHub, optional. If the developer cannot or will not add it to CurseForge, you may also [request an exception on CurseForge](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods).
   validations:
     required: false
 
@@ -47,7 +47,7 @@ body:
     label: Why shouldn't it be in the modpack
     description: Don't forget to include any downsides of the mod, you know every mod has some.
     placeholder: |
-      Examples: not available in Curseforge, still in beta, depends on something, has confusing settings, not very vanilla-like etc.
+      Examples: not available in CurseForge, still in beta, depends on something, has confusing settings, not very vanilla-like etc.
   validations:
       required: true
 

@@ -10,7 +10,7 @@
 
 ## DO NOT 
 
-* Use issues for generic questions, do that in Discord or Curseforge instead
+* Use issues for generic questions, do that in Discord or CurseForge instead
 * Report issues or questions regarding hacked clients or piracy
 * Pull request any modpack structure changes directly (e.g. adding new mods), discuss those in an issue instead
 * Disrespect anyone

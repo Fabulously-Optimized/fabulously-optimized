@@ -38,19 +38,19 @@ def copy_file(from_path, to_path, from_desc, to_desc):
     else:
         print("Skipped " + from_desc + " copying to " + to_desc + ", didn't exist")
 
-# Curseforge to MultiMC
+# CurseForge to MultiMC
 
 remove_dir(mmc_path + "minecraft/config/", "MultiMC configs")
 remove_file(mmc_path + "minecraft/options.txt", "MultiMC options.txt")
 remove_dir(mmc_path + "minecraft/mods/", "MultiMC mods")
 remove_dir(mmc_path + "minecraft/resourcepacks/", "MultiMC resourcepacks")
-copy_dir(cf_path + "config/", mmc_path + "minecraft/config/", "Curseforge configs", "MultiMC")
-copy_dir(cf_path + "mods/", mmc_path + "minecraft/mods/", "Curseforge mods", "MultiMC")
-copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "Curseforge resource packs", "MultiMC")
+copy_dir(cf_path + "config/", mmc_path + "minecraft/config/", "CurseForge configs", "MultiMC")
+copy_dir(cf_path + "mods/", mmc_path + "minecraft/mods/", "CurseForge mods", "MultiMC")
+copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "CurseForge resource packs", "MultiMC")
 
-# Curseforge to Git 
+# CurseForge to Git 
 
-# Manifest and json copying moved to "Curseforge to Packwiz.py" to make sure they are always newest
+# Manifest and json copying moved to "CurseForge to Packwiz.py" to make sure they are always newest
 remove_dir(packwiz_path + "/config/", "Packwiz configs in Git")
-copy_dir(cf_path + "config/", packwiz_path + "/config/", "Curseforge configs", "Git (Packwiz)")
-copy_dir(cf_path + "resourcepacks/", packwiz_path + "/resourcepacks/", "Curseforge resource packs", "Git (Packwiz)")
+copy_dir(cf_path + "config/", packwiz_path + "/config/", "CurseForge configs", "Git (Packwiz)")
+copy_dir(cf_path + "resourcepacks/", packwiz_path + "/resourcepacks/", "CurseForge resource packs", "Git (Packwiz)")

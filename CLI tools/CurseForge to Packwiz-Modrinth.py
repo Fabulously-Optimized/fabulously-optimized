@@ -32,7 +32,7 @@ if refresh_only == False:
 
 os.chdir(packwiz_path)
 if refresh_only == False:
-    cf_zip_path = input("Please drag the Curseforge zip file here: ")[3:][:-1] # Because dragging the file adds "& " and double quotes
+    cf_zip_path = input("Please drag the CurseForge zip file here: ")[3:][:-1] # Because dragging the file adds "& " and double quotes
     
     # Update pack.toml first
     pack_version = "-".join(str(Path(cf_zip_path).with_suffix("")).split("-")[1:])
@@ -58,8 +58,8 @@ os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
 if is_legacy == False and refresh_only == False:
-    extract_file(cf_zip_path, "manifest.json", git_path + "Curseforge", "Curseforge manifest.json", "Git")
-    extract_file(cf_zip_path, "modlist.html", git_path + "Curseforge", "Curseforge modlist.html", "Git")
+    extract_file(cf_zip_path, "manifest.json", git_path + "CurseForge", "CurseForge manifest.json", "Git")
+    extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
 
 # Export Modrinth pack and manifest
 if modrinth_export:
