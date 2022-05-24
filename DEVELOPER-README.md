@@ -33,5 +33,5 @@ Contact us in Discord if you have ideas on how to streamline this process while 
 5. Run `CurseForge to Packwiz-Modrinth.py`
    * If needed, change the Minecraft version or variables in the script
 7. Drag the exported CurseForge ZIP to the console window and hit enter - Packwiz changes will be made and Modrinth ZIP will be exported
-8. Publish manually to Github, CurseForge, Modrinth
+8. Publish manually to GitHub, CurseForge, Modrinth
 9. Announce on modpack's Discord, Fabric's Discord

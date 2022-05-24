@@ -10,6 +10,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 * Removed the Sodium Extra's sculk sensor animation toggle workaround
 
 GDLauncher, MultiMC (auto-update) and Modrinth are temporarily unsupported until further notice.
+Edit: MultiMC (auto-update) is now up.
 
 ### 3.8.1 (2022-05-14)
 
@@ -691,7 +692,7 @@ Differences from b2
 * (No Sodium yet)
 * Added Hydrogen, No Fade, Not Enough Crashes back
 * Mods updated
-* Experimental auto-updating MultiMC pack is available on Github, try it out! (packwiz by comp500)
+* Experimental auto-updating MultiMC pack is available on GitHub, try it out! (packwiz by comp500)
 
 ### 2.0.0b2 (2021-06-17)
 
@@ -776,7 +777,7 @@ An unexpected backport update that matches the mods with 2.3.2 ones, released be
 * Applied configs from 2.3.2
 * Now uses native Fabric Loader 0.11.7 (0.12.3 is still in beta)
 * Hydrogen is disabled by default in MultiMC version to be compatible with Java 16 (vanilla launcher uses bundled Java 8 anyway)
-* Made a MultiMC auto-update version in Github ¯\\\_(ツ)_/¯
+* Made a MultiMC auto-update version in GitHub ¯\\\_(ツ)_/¯
 
 ### 1.9.1 (2021-05-27)
 
