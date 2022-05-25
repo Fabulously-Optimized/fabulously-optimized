@@ -54,6 +54,8 @@ if refresh_only == False:
         os.system(packwiz_exe_path + " mr install cloth-config")
         os.system(packwiz_exe_path + " remove dont-clear-chat-history")
         os.system(packwiz_exe_path + " mr install dcch")
+        os.system(packwiz_exe_path + " remove entityculling")
+        os.system(packwiz_exe_path + " mr install entityculling")
 os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
