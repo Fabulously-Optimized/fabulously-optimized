@@ -3,6 +3,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.8.2-mr.1 (2022-05-25)
+
+**3.8.2: the Modrinth integrity test 1**
+
+This is essentially the same 3.8.2 as released in CurseForge, but unlike the previous versions which used 100% CurseForge links, this uses zero. 
+All mods are either sourced from Modrinth, GitHub or bundled, if their license allows.
+
+**Goal? Test the differences between this and the normal 3.8.2 to determine the feasibility of minimal CF dependency.**
+
+1. Install MultiMC, update to development branch
+2. Install 3.8.2-mr.1 through the launcher or https://modrinth.com/modpack/fabulously-optimized/version/3.8.2-mr.1
+3. Install Farsight to the pack: https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files/3778514
+4. Install 3.8.2: https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/3801677
+4. Report any _differences between the two FO versions_ in Discord. If you're having generic issues, make sure they are reproducible in normal 3.8.2 and report to #support/GitHub instead. 
+
 ### 3.8.2 (2022-05-22)
 
 * Updated Architectury API, Cull Less Leaves, Fabric API, Lithium, Main Menu Credits, Sodium Extra, Zoomify
