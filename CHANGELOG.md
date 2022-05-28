@@ -1,7 +1,14 @@
 # Fabulously Optimized changelog
-This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://github.com/Madis0/fabulously-optimized/wiki/Version-support-FAQ).
+This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
 ## 1.18.2
+
+### 3.8.3 (2022-05-28)
+
+* Updated Architectury API, Entity Texture Features, Fabric API, OptiGUI
+* Lots of improvements for Entity Texture Features, including a memory leak fix
+* Fixed an issue where some resource packs didn't work
+* Removed an irrelevant console warning for Debugify
 
 ### 3.8.2-mr.1 (2022-05-25)
 
