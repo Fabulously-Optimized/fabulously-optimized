@@ -1,6 +1,6 @@
 name = "Fabulously Optimized"
 author = "robotkoer"
-version = "3.8.2-mr.1"
+version = "3.8.3-mr.2"
 description = "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!"
 
 [[Resource]]
@@ -15,15 +15,15 @@ url = "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.ja
 
 [[Resource]]
 name = "Fabric Language Kotlin"
-filename = "fabric-language-kotlin-1.7.2%2Bkotlin.1.6.20.jar" 
+filename = "fabric-language-kotlin-1.7.4+kotlin.1.6.21.jar" 
 url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.2+kotlin.1.6.20/fabric-language-kotlin-1.7.2%2Bkotlin.1.6.20.jar"
 
 [[Resource]]
 name = "Farsight Mod"
-filename = "invalid.jar" 
-url = "https://github.com/download-from-curseforge-directly.jar"
+filename = "farsight.fabric-1.18-1.9.jar" 
+action = "remove"
 
 [[Resource]]
 name = "Mod Menu Helper"
-filename = "invalid.jar" 
-url = "https://github.com/bundled-in-the-pack-already.jar"
+filename = "Mod Menu Helper.zip"
+action = "override"
