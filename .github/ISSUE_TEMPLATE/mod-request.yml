@@ -20,15 +20,12 @@ body:
 - type: markdown
   attributes:
     value: |
-      If the mod exists in CurseForge:
       1. Go to https://cflookup.com
       2. Enter the CurseForge project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
-      3. Look at the Mod Distribution value
+      3. Look at the Mod Distribution value and enter it below
       
 - type: dropdown
   attributes:
-    label: CurseForge Mod Distribution
-    description: Read above
     multiple: false
     options:
       - Allowed
