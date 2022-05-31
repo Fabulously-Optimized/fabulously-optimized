@@ -16,13 +16,6 @@ body:
     placeholder: https://www.curseforge.com/minecraft/mc-mods/...
   validations:
     required: false
-    
-- type: markdown
-  attributes:
-    value: |
-      1. Go to https://cflookup.com
-      2. Enter the CurseForge project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
-      3. Look at the `Mod Distribution` value and enter it below
       
 - type: dropdown
   attributes:
@@ -33,6 +26,13 @@ body:
       - Not allowed
   validations:
     required: false
+    
+- type: markdown
+  attributes:
+    value: |
+      1. Go to https://cflookup.com
+      2. Enter the CurseForge project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
+      3. Look at the `Mod Distribution` value and enter it ⤴️
 
 - type: input
   attributes:
