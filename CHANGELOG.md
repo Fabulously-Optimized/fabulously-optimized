@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.8.3-mr.1 (2022-05-31)
+
+The next integrity test is up. Known differences:
+
+* Farsight is missing, install link below
+* DCCH uses a near-identical fork
+* Cloth Config API is slightly outdated (shouldn't affect the experience)
+* Config folder is 5 bytes larger (because version name lol)
+
+Instructions
+
+1. Install MultiMC, update to development branch
+2. Install 3.8.3-mr.1 through the launcher or https://modrinth.com/modpack/fabulously-optimized/version/3.8.3-mr.1
+3. Install Farsight to the pack: https://www.curseforge.com/minecraft/mc-mods/farsight-fabric/files/3778514
+4. Install 3.8.3: https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files/3807874
+4. Report any _additional differences between the two FO versions_ in Discord. If you're having generic issues, make sure they are reproducible in normal 3.8.3 and report to #support/GitHub instead. 
+
 ### 3.8.3 (2022-05-28)
 
 * Updated Architectury API, Entity Texture Features, Fabric API, OptiGUI
