@@ -12,7 +12,7 @@ body:
 - type: input
   attributes:
     label: CurseForge link
-    description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
+    description: If it exists, please write it.
     placeholder: https://www.curseforge.com/minecraft/mc-mods/...
   validations:
     required: false
@@ -37,7 +37,7 @@ body:
 - type: input
   attributes:
     label: Modrinth link
-    description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
+    description: If it exists, please write it.
     placeholder: https://modrinth.com/mod/...
   validations:
     required: false
@@ -69,7 +69,7 @@ body:
     label: Why shouldn't it be in the modpack
     description: Don't forget to include any downsides of the mod, you know every mod has some.
     placeholder: |
-      Examples: not available in CurseForge, still in beta, depends on something, has confusing settings, not very vanilla-like etc.
+      Examples: not available in CurseForge/Modrinth, still in beta, depends on something, has confusing settings, not very vanilla-like etc.
   validations:
       required: true
 
