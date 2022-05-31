@@ -17,6 +17,20 @@ body:
   validations:
     required: false
     
+- type: dropdown
+  attributes:
+    label: CurseForge Mod Distribution
+    description: |
+1. Go to https://cflookup.com
+2. Enter the project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
+3. Look at the Mod Distribution value
+    multiple: true
+    options:
+      - Allowed
+      - Not allowed
+  validations:
+    required: false
+
 - type: input
   attributes:
     label: Modrinth link
@@ -27,7 +41,7 @@ body:
 
 - type: input
   attributes:
-    label: Source/other
+    label: Source/other link
     description: E.g. GitHub or GitLab, optional.
   validations:
     required: false
