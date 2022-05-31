@@ -46,6 +46,7 @@ body:
   attributes:
     label: Source/other link
     description: E.g. GitHub or GitLab, optional.
+    placeholder: https://...
   validations:
     required: false
 
