@@ -5,7 +5,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## Mod name goes here ⤴️
+      ## Mod name ⤴️
       Before you request a mod, [please search](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) if it has already been requested.
       Remember the ancient proverb: "The less mods FO has, the better it works with the mods you want to add." and [consider the principles](https://fabulously-optimized.gitbook.io/modpack/readme/principles).
 
@@ -22,7 +22,7 @@ body:
     value: |
       1. Go to https://cflookup.com
       2. Enter the CurseForge project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
-      3. Look at the Mod Distribution value and enter it below
+      3. Look at the `Mod Distribution` value and enter it below
       
 - type: dropdown
   attributes:
