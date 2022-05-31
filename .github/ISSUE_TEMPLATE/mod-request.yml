@@ -5,26 +5,30 @@ body:
 - type: markdown
   attributes:
     value: |
+      **Mod name goes here** ⤴️
       Before you request a mod, [please search](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) if it has already been requested.
       Remember the ancient proverb: "The less mods FO has, the better it works with the mods you want to add." and [consider the principles](https://fabulously-optimized.gitbook.io/modpack/readme/principles).
 
 - type: input
   attributes:
-    label: Mod name
-  validations:
-    required: true
-
-- type: input
-  attributes:
     label: CurseForge link
     description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
+    placeholder: https://www.curseforge.com/minecraft/mc-mods/...
+  validations:
+    required: false
+    
+- type: input
+  attributes:
+    label: Modrinth link
+    description: If it exists, please include it. You can still suggest without it, but it will likely take more time to be included.
+    placeholder: https://modrinth.com/mod/...
   validations:
     required: false
 
-- type: textarea
+- type: input
   attributes:
-    label: Other links
-    description: E.g. Modrinth or GitHub, optional. If the developer cannot or will not add it to CurseForge, you may also [request an exception on CurseForge](https://support.curseforge.com/en/support/solutions/articles/9000197913-non-curseforge-mods).
+    label: Source/other
+    description: E.g. GitHub or GitLab, optional.
   validations:
     required: false
 
