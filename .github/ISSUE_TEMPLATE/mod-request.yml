@@ -17,14 +17,19 @@ body:
   validations:
     required: false
     
+- type: markdown
+  attributes:
+    value: |
+      If the mod exists in CurseForge:
+      1. Go to https://cflookup.com
+      2. Enter the CurseForge project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
+      3. Look at the Mod Distribution value
+      
 - type: dropdown
   attributes:
     label: CurseForge Mod Distribution
-    description: |
-1. Go to https://cflookup.com
-2. Enter the project ID or slug (the name that appears after `.../mc-mods/` in your address bar)
-3. Look at the Mod Distribution value
-    multiple: true
+    description: Read above
+    multiple: false
     options:
       - Allowed
       - Not allowed
