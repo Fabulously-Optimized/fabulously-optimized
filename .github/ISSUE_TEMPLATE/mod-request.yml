@@ -20,6 +20,7 @@ body:
 - type: dropdown
   attributes:
     label: CurseForge Mod Distribution
+    description: If the mod is on CurseForge, please fill it.
     multiple: false
     options:
       - Allowed
