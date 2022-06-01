@@ -1,0 +1,1 @@
+This folder hosts the descriptions of the modpack in different languages. Feel free to contribute your language!
