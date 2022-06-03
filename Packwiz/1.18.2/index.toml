@@ -10,11 +10,11 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7de88ee3f282a69cd25fdbdf74bf770482b89ba681e870495e70650f66a5e0ef"
+hash = "282a8beca4321ac69b0802ba2ca71e099c33731b33dde6711ac363be36675777"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "26cadd261415b03cd3adca62ae0580caaf3edb11d5e7610d8d98e013fba16e8a"
+hash = "9deadcb9dd7e355f673a6974ef16b3e4c7efa6c23c2c7ca3d0f428def725adac"
 
 [[files]]
 file = "config/modmenu.json"
@@ -46,7 +46,7 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
+hash = "18620ae9a07d266e519b66e9c3f256168831ab90c8ce9380569a3ca7f479f90c"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -86,7 +86,7 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "e1a60c1be5f7d715cd4604bb4fd0af7514ad2345af75ea3d280834c34518182f"
+hash = "cc6f863a8e250641184bfcd3b59169491fe5414a036996401b66bc019ebeedd8"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "396d3768ba58f12d59871038b143ebd5b4e0080211b0d2ad5b6c25e787a3d3af"
+hash = "01ec12c07032284b27afde5695c2fca99dfca2b785d06729fb13917a00a85c92"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "f93efa3863e579c4b091016bf7bf0e929b0c9241b2c603f692a01ab884f679e6"
+hash = "42aa424ca423493f8fc20a7792761e64056dd25a5684cea7f6af25c3280f315c"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "d8a97107564e8a5a2f7c7da3c5e6fa20b5f9a36332da7aa5c7d2072b7514eab2"
+hash = "90ac9e3db43d091cac598a7dec867ba7c8276def21c6b3562b80456580304926"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f3fdedadc83ac9005a59566330e45964cd52625d8dc15014ca8a40b929863638"
+hash = "a580d407e80e0327592711f5deb1e34730e852dbab2d3de6dbd684a40e70fcc2"
 metafile = true
 
 [[files]]
@@ -265,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "c91d9d252064cd1679362225321edf30113333ae3ae1e5fb2acaf07c7a58709e"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "a8daba9b478f8128e75919871c4b8f694205847e82586ecf17c17aad94227570"
 metafile = true
 
 [[files]]
@@ -344,4 +349,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "f26949341fdd0ea55aaf7cfe2d371709e7d4698188d243e641ce8913217f5cc0"
+hash = "bca5c39945c0cf4988870377d621f09d926c2b80aa5ac645a13d8cdc65ffe056"

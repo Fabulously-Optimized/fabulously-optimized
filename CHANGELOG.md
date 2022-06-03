@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.9.0 (2022-06-03)
+
+* Added MemoryLeakFix - does what the name says, haha
+* Updated Architectury API, Debugify, Entity Texture Features, Fabric API
+* Enabled MC-112730 and MC-228976 fixes on Debugify
+* Enabled smoother animation for Zoomify
+* Updated Russian in MMH by RozeFound
+* Enforced Fabric Loader 0.14.6
+* Removed memory and JVM flags from MultiMC and MultiMC (auto-update) to let the launcher handle them
+
 ### 3.8.3-mr.1 (2022-05-31)
 
 The next integrity test is up. Known differences:
