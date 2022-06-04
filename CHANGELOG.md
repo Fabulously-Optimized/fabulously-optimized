@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.9.1 (2022-06-04)
+
+* Updated MemoryLeakFix to fix a crash
+* Updated Russian in MMH by RozeFound
+
 ### 3.9.0 (2022-06-03)
 
 * Added MemoryLeakFix - does what the name says, haha
