@@ -47,7 +47,7 @@ We have a growing community of friendly members who like to discuss the pack and
   * A: [Click here and find out](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)
 
 * Q: Do I need it on the server?
-  * A: No. [But if you want to some server tips, click here.](https://fabulously-optimized.gitbook.io/modpack/readme/server-setup). [And if you want a host, click here.](https://www.bisecthosting.com/clients/aff.php?aff=2604)
+  * A: No. [But if you want to some server tips, click here](https://fabulously-optimized.gitbook.io/modpack/readme/server-setup). [And if you want a host, click here.](https://www.bisecthosting.com/clients/aff.php?aff=2604)
 
 * Q: I have more questions!
   * A: [Come and chat with us!](https://discord.gg/yxaXtaQqdB)
