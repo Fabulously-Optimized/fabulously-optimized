@@ -1,32 +1,41 @@
 # English (US)
 
 Fabulously Optimized
+
 A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations. 
 
 (Video thumbnail)
 
 ### Performance
+
 Fabulously Optimized is usually faster than OptiFine due to the inclusion of [modern performance mods][1] like Sodium and Lithium.
 
 ### OptiFine parity
+
 Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures, better grass and zoom.
 
 ### Minor tweaks
+
 Fabulously Optimized [includes minor tweaks][3] that don't break the vanilla feel, such as increased chat history, windowed full screen mode and bugfixes to most common issues.
 
 ### Up to date
+
 Fabulously Optimized receives fast updates and is one of the first modpacks to upgrade to newer Minecraft versions.
 
 ### Works everywhere
+
 Fabulously Optimized is designed to work on any world or server, [runs on 4 launchers, is hosted on 3 sites][4] and [and supports many languages][5].
 
 ### Open development
+
 Fabulously Optimized [is open-source][6] (and so are most of its mods), developed with the ideas from the community and by collaborating with mod developers.
 
 ### Built on Fabric
+
 Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support. [(Yes, Quilt is being considered.)][7]
 
 ### Helpful community
+
 We have a growing community of friendly members who like to discuss the pack and help each other. [Join us!]{8]
 
 ## FAQ
