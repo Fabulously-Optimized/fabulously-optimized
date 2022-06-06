@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.18.2
 
+### 3.9.2 (2022-06-06)
+
+* Updated Fabric API, Puzzle, MidnightLib
+* Resource pack splash screens should work better now
+* Updated Korean and Greek in MMH by AlphaKR93 and RaptaG
+* Removed Puzzle workaround from MMH
+
 ### 3.9.1 (2022-06-04)
 
 * Updated MemoryLeakFix to fix a crash

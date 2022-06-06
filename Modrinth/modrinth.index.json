@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "3.9.1",
+    "versionId": "3.9.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -233,15 +233,15 @@
             "fileSize": 44983
         },
         {
-            "path": "mods/fabric-api-0.54.0+1.18.2.jar",
+            "path": "mods/fabric-api-0.55.1+1.18.2.jar",
             "hashes": {
-                "sha1": "bb41e2af744336c3c2c94a723fa7d73e37099aa0",
-                "sha512": "0d93d813ed98347085f38be948a0605cd76cb529f23ab6314a0123b1f112f9c2e33d19bb01f0b82d5a91cbc6782a6830153e2d5704c15faa3eab04d59627669f"
+                "sha1": "bc53e100988e2e7535574a62bd78ea7152b959ef",
+                "sha512": "91cce75c6a3189ab45c6f47638dc14eee8b91c3d4c6f0e432cd1306ea3d70b49baf4fadbdf9cfa1fa272bd33d376ff6d15d9ce602749c40640f45f8eb4a05e1f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.54.0+1.18.2/fabric-api-0.54.0%2B1.18.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.55.1+1.18.2/fabric-api-0.55.1%2B1.18.2.jar"
             ],
-            "fileSize": 1374974
+            "fileSize": 1422876
         },
         {
             "path": "mods/fabrishot-1.7.0.jar",
@@ -380,16 +380,15 @@
             "fileSize": 39481
         },
         {
-            "path": "mods/midnightlib-0.4.0.jar",
+            "path": "mods/midnightlib-0.4.3.jar",
             "hashes": {
-                "sha1": "bad7a3239314c297a1793b96a8688ba71b0b928e",
-                "sha512": "8c31ae825a1fd6c336df267c633a0dc9a93f4b392dfe1bfb7e7b2f54b1af515b38acceaeb6255664217eb0a65f4d385d44dac6dcb533cf6f017e6563be9a0e4f"
+                "sha1": "86535b33459fdb48510b87e2f03291c34e1f799f",
+                "sha512": "078686302368a646300941e12c2c85917ad1c779f8299ef08131ce2d5bb0e2e82e494bf8d50b8316cf152368a796cc454535f1edea9854929807d98d03f57add"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/codAaoxh/versions/0.4.0/midnightlib-0.4.0.jar",
-                "https://github.com/TeamMidnightDust/MidnightLib/releases/download/v0.4.0/midnightlib-0.4.0.jar"
+                "https://cdn.modrinth.com/data/codAaoxh/versions/0.4.3/midnightlib-0.4.3.jar"
             ],
-            "fileSize": 59709
+            "fileSize": 59978
         },
         {
             "path": "mods/modmenu-3.2.2.jar",
@@ -448,16 +447,15 @@
             "fileSize": 272097
         },
         {
-            "path": "mods/puzzle-1.2.1.jar",
+            "path": "mods/puzzle-1.3.0.jar",
             "hashes": {
-                "sha1": "be946b8c5a8b5499b18b89fdf3c14c8c708b056f",
-                "sha512": "569b1b780a86fd4fe1ec404232a2bbbef08d97309f418b954d82099ecb6d369b0787c30504bcf692fb92a86688fb0b3e25a4935d3ba0594cc9c80060d69be7b6"
+                "sha1": "0fc7706f450418c09c4a2ffddbbbd2ccdebcf31a",
+                "sha512": "7181c717718aa11cb29b44f90345253b99c9cf988dcb67f4aed69e2377292bf50777dd873c126dcb36f9015fd20e7889d379ba90cd6be7fb872614f86bb339f4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.2.1/puzzle-1.2.1.jar",
-                "https://github.com/PuzzleMC/Puzzle/releases/download/v1.2.1/puzzle-1.2.1.jar"
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.0/puzzle-1.3.0.jar"
             ],
-            "fileSize": 126684
+            "fileSize": 129300
         },
         {
             "path": "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar",
