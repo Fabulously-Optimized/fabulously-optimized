@@ -3,6 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-alpha.2 (2022-06-08)
+
+This needed a quick fix, so download again please.
+
+* Updated Architectury API, Entity Culling
+* Actually enabled Sodium and related mods :cursethonk:
+* Disabled Continuity as it causes a crash without Indium
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Borderless Mining, Don't Clear Chat History, Farsight, FerriteCore, More Chat History
+* Temporarily disabled Animatica, AntiGhost, CIT Resewn, Cloth API, Continuity, Enhanced Block Entities, Indium, Lithium, LambDynLights, LambdaBetterGrass, Not Enough Crashes, Puzzle
+* Temporarily added Better Beds
+
 ### 4.0.0-alpha.1 (2022-06-08)
 
 First alpha for 1.19! It is an alpha mainly because connected textures and other resource pack features don't work yet.

@@ -10,11 +10,11 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a436f284017460c8b75451be451ab098adb1cec075cf049906407ab408ca8bd0"
+hash = "9779eb5b854deddd60401411214da6d405e2168f1916a030ff0d64d71e93a10a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "365af90b97aa0a5bbc2e12a316a17e175c26211583ca624a39b4ebf864d95b47"
+hash = "8487c2cd20a677ad23e8a9f0ff31f370e4d5d39e05c16e6835d3cf6c9071036e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "32489c6bfefbf2bc6b911c9a4d1cb60302827d0df63c4c34d829572f49698c15"
+hash = "2f7e95dedbd6679133a383341ce12d5873b59d974e6e0e9c452b8c57a788aa35"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "15fdaff0cb9342b772aa104d98eb4b116b3df442f689fa607ef6656c66468ffc"
+hash = "e6b7cfbe39ff45eb44ca26dbafb9e66a8505bd56dcad6350b7a8271e91274bb7"
 metafile = true
 
 [[files]]
@@ -195,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
 hash = "93065188da30c0ac9e3859ea0f296fdc055d130b74ec0540cb9ffc8493cea997"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f1e92c9d139c489a86d38ef8765e5f81fb9dfebbf840f0e5951c44e84a01c929"
 metafile = true
 
 [[files]]
