@@ -3,7 +3,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
-### 4.0.0-alpha.1 (2022-06-)
+### 4.0.0-alpha.1 (2022-06-08)
 
 First alpha for 1.19! It is an alpha mainly because connected textures and other resource pack features don't work yet.
 
