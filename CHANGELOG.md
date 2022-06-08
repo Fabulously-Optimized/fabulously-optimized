@@ -7,12 +7,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 First alpha for 1.19! It is an alpha mainly because connected textures and other resource pack features don't work yet.
 
+Mods
 * Updated Architectury API, Cloth Config API, Colormatic, CompleteConfig, Continuity, Cull Less Leaves, Custom Entity Models, Debugify, Entity Texture Features, Fabric Capes, Iris Shaders, Language Reload, LazyDFU, MemoryLeakFix, MidnightLib, Mod Menu, OptiGUI, Reese's Sodium Options, Smooth Boot, Sodium, Sodium Extra, Starlight, TooltipFix, Zoomify
 * Forcefully enabled (don't report bugs to their devs!): Borderless Mining, Don't Clear Chat History, Entity Culling, Farsight, FerriteCore, More Chat History
 * Temporarily disabled Animatica, AntiGhost, CIT Resewn, Cloth API, Enhanced Block Entities, Indium, Lithium, LambDynLights, LambdaBetterGrass, Not Enough Crashes, Puzzle
 * Temporarily added Better Beds
 * Other mods worked as-is
 
+Other
 * Disabled chatPreview vanilla setting for privacy and to remove annoying warnings
 * Enabled Cloaks+ in Fabric Capes
 * Disabled Iris' update checker
