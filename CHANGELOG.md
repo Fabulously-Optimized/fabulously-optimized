@@ -8,7 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 This needed a quick fix, so download again please.
 
 * Updated Architectury API, Entity Culling
-* ~~Actually enabled Sodium and related mods~~
+* ~~Actually enabled Sodium and related mods~~ Failed, see Discord for help
 * Disabled Continuity as it causes a crash without Indium
 
 ---
