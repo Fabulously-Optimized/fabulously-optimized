@@ -35,6 +35,14 @@ Other
 
 ## 1.18.2
 
+### 3.9.3 (2022-06-09)
+
+* Updated Architectury API, Continuity, Iris Shaders, MidnightLib, Reese's Sodium Options, Sodium Extra
+* Continuity now supports emissive block/item textures!
+* Iris should now have better performance
+* Disabled Iris' update checker
+* Updated Fabric Loader to 0.14.7
+
 ### 3.9.2 (2022-06-06)
 
 * Updated Fabric API, Puzzle, MidnightLib
