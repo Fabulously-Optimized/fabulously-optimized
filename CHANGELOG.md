@@ -7,7 +7,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 Updates!
 
-* Sodium disabled? See https://github.com/Fabulously-Optimized/fabulously-optimized/issues/364
+* Seems that the Sodium-related mods now stay enabled
 * Updated Architectury API, CIT Resewn, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Indium, LambDynamicLights, Lithium, More Chat History, Not Enough Crashes
 * Updated Fabric Loader to 0.14.7
 * Re-enabled Continuity, which now supports emissive block textures!
