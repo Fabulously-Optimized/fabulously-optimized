@@ -11,6 +11,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
   * [coderbot](https://www.patreon.com/coderbot), the main developer of Iris Shaders 
   * [2No2Name](https://www.patreon.com/2No2Name), the main developer of Lithium
   * [FlashyReese](https://ko-fi.com/flashyreese), the developer of Sodium Extra 
+  * [traben_0](https://ko-fi.com/traben), the developer of Entity Texture Features
   * For other mods, [see their respective pages](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md).
 * **Contribute to mods** - simple things like suggesting features, reporting bugs when you encounter an issue and [translating your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support#translating-mods) really do help out the mods. [You can translate Fabulously Optimized's Mod Menu Helper as well!](https://fabulously-optimized.gitbook.io/modpack/readme/language-support#translating-mod-menu-helper)
 * **Contribute to FO wiki** - just make a PR here: https://github.com/Fabulously-Optimized/wiki
