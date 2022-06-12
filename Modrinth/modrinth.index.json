@@ -1,31 +1,31 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-alpha.3",
+    "versionId": "4.0.0-alpha.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
         {
-            "path": "mods/advancementinfo-1.18.2-fabric0.47.10-1.3.1.jar",
+            "path": "mods/advancementinfo-1.19-fabric0.53.3-1.3.1.jar",
             "hashes": {
-                "sha1": "c817fbc6798d50ad45f586a66d5b54dc4fa3bf33",
-                "sha512": "f894e6497653381e52ab4b5c5a6688bc91e80ee7b33932025c306d6a8075320b1711223daf14c81afa5f55dea486c94374117efc7330dafb4207fa2a348ef1e2"
+                "sha1": "a75c92e3a207853c47962dd920da6435df8c0284",
+                "sha512": "9343380b69f073a39c6afee372db219770aebee34dc935e14548f4f08fbaee8d9ad46fdeaa0086dbfc56c09b01d6999976c52be07c3341bcc123d0b830c82209"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/G1epq3jN/versions/1.18.2-fabric0.47.10-1.3.1/advancementinfo-1.18.2-fabric0.47.10-1.3.1.jar"
+                "https://cdn.modrinth.com/data/G1epq3jN/versions/1.19-fabric0.53.3-1.3.1/advancementinfo-1.19-fabric0.53.3-1.3.1.jar"
             ],
-            "fileSize": 1442876
+            "fileSize": 1442872
         },
         {
-            "path": "mods/architectury-5.6.22.jar",
+            "path": "mods/antighost-1.19-fabric0.55.3-1.1.5.jar",
             "hashes": {
-                "sha1": "881a3e15f05c6693fc353264037ea1b3200820ff",
-                "sha512": "cf31f255def8c355e8d2892c354def29f697a672bc8dc364d914435f4022b975707b0a5d59c9887319f417433f0ec6505f70f5b51bd61fdd40683d10c6daa9b9"
+                "sha1": "8069aa7ae030d71ac98c462fb978575dd7f7b1df",
+                "sha512": "4e0facbc4891dc72553cfcbae51c381967f871b3ba0d568eb958bc00c31f89f693cfe8ed042e6f57bfa653d557573a9e9377dd2a2b080aba16cb043cdbcd90ae"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/lhGA9TYQ/versions/5.6.22+fabric/architectury-5.6.22.jar"
+                "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19-fabric0.55.3-1.1.5/antighost-1.19-fabric0.55.3-1.1.5.jar"
             ],
-            "fileSize": 567914
+            "fileSize": 78206
         },
         {
             "path": "mods/betterbeds-1.2.0.jar",
@@ -49,18 +49,6 @@
                 "https://cdn.modrinth.com/data/kqJFAPU9/versions/1.1.4/bettermounthud-1.1.4.jar"
             ],
             "fileSize": 16760
-        },
-        {
-            "path": "mods/borderless-mining-1.1.2+1.18.2.jar",
-            "hashes": {
-                "sha1": "2a7490d56d040529c86e0d1e4017cb825381bf78",
-                "sha512": "ea1c64edb1d1701be4516d1b8de1c7426ef88714573fec96f0dc448720b69abf82018b9a7f3aa3873e2b173998bc053b22a85dac6d211ea583faf4421f91b621"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.2+1.18.2/borderless-mining-1.1.2%2B1.18.2.jar",
-                "https://github.com/comp500/BorderlessMining/releases/download/1.1.2%2B1.18.2/borderless-mining-1.1.2%2B1.18.2.jar"
-            ],
-            "fileSize": 96156
         },
         {
             "path": "mods/Capes-1.4+1.19.jar",
@@ -107,17 +95,6 @@
             "fileSize": 209175
         },
         {
-            "path": "mods/completeconfig-2.0.0.jar",
-            "hashes": {
-                "sha1": "86bf93dfe498501a0e630b360b3666304265ea1c",
-                "sha512": "76099816b20a19f238aea8e6652d8716609b0d1399b91a417fb3d381575a4ed49e57b60a4b072f8afd383a991c2476335a1d7af29dba912238cafa2d0a62e7ed"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/GtqG8z1h/versions/2.0.0/completeconfig-2.0.0.jar"
-            ],
-            "fileSize": 816516
-        },
-        {
             "path": "mods/continuity-2.0.0+1.19.jar",
             "hashes": {
                 "sha1": "ac4deeead3e1c4a3d54759f5d27c514f34f9115f",
@@ -151,16 +128,15 @@
             "fileSize": 310138
         },
         {
-            "path": "mods/dynamic-fps-2.1.0.jar",
+            "path": "mods/dynamic-fps-2.2.0.jar",
             "hashes": {
-                "sha1": "d4ffc71b2f0ea01b9a6242c23faace5cdc72d947",
-                "sha512": "3e22e5b613abfb17fa83f74348a3c2cf8fb7bdb2a6a6a8d5b561044b37e54d0a0114df1128c7e34df063776975041c5595feb2f94cbb2bfe0f1bc59193cce9e3"
+                "sha1": "8d264374dc08df87777fb51b94c781476c315bb5",
+                "sha512": "a1758446706b095b1352851a68e45f0807fccd00cbc736db9c7275e6468ea07507b6f89e3ef16f0fa46c87797c5e246a364266d0266f36d7821c2979b5542347"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar",
-                "https://github.com/juliand665/Dynamic-FPS/releases/download/2.1.0/dynamic-fps-2.1.0.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar"
             ],
-            "fileSize": 88824
+            "fileSize": 89446
         },
         {
             "path": "mods/entity-texture-features-3.1.1-mc1.19.jar",
@@ -207,15 +183,15 @@
             "fileSize": 6311611
         },
         {
-            "path": "mods/fabrishot-1.7.0.jar",
+            "path": "mods/fabrishot-1.8.0.jar",
             "hashes": {
-                "sha1": "343f31455c666b3979026d8a983abfa9c8ca0c9e",
-                "sha512": "b8febec8bbebf485ca863c7390e7daaa0ad9b533d5a58d4582a3dbd9f0effc3a87ede54f2cb0525e4efbb7637c4bf7ba6420afc6903a04d3b7dc49d659700110"
+                "sha1": "229c504dd8d48527f4484d3dba569baa63b03fe1",
+                "sha512": "83c7a9f7582d056a763b02c6ce20e12e89396713b3963c8d5bc5fde7b8f75c0677be7e08410af859b00c0e270af637d8e084dee0b179e12c81d842a9a1777dac"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.7.0/fabrishot-1.7.0.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.8.0/fabrishot-1.8.0.jar"
             ],
-            "fileSize": 38520
+            "fileSize": 38539
         },
         {
             "path": "mods/ferritecore-5.0.0-fabric.jar",
@@ -319,26 +295,15 @@
             "fileSize": 13870
         },
         {
-            "path": "mods/memoryleakfix-1.19-0.4.0.jar",
+            "path": "mods/memoryleakfix-1.19-0.4.1.jar",
             "hashes": {
-                "sha1": "0bd52b9603ce518f155fcb575fa21599c5d13eab",
-                "sha512": "bebb40dd25a22d2d813d3d15b0666407a4ea046000fcb40199dad7449a5dbb27462b72977fbf01182f6c3032da2b3e13d76aca1e162b947b2fc0bf6724fb9289"
+                "sha1": "9197e408de2f257446accfc466cb2498aca97b0f",
+                "sha512": "556983a13727e291c8ca46be9c53c3284f986b2156e3bc3f879a6f436ebe3ffc0778fd05a189cffdcd8121a0c75cdcb4023b1ba37ca52ad59082826ae9b479e2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.0/memoryleakfix-1.19-0.4.0.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.1/memoryleakfix-1.19-0.4.1.jar"
             ],
-            "fileSize": 39479
-        },
-        {
-            "path": "mods/midnightlib-0.5.2.jar",
-            "hashes": {
-                "sha1": "8a35e4c7ea05fac48762e529d46e82c988a39730",
-                "sha512": "68ff00d16e98127ee49cd613d97970345c0bd089b7702062952d8d257b75568e416644f6038686ac7d960ba56ef8dccd11623bcf98a99acdf771c3fd46dc7830"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/codAaoxh/versions/0.5.2/midnightlib-0.5.2.jar"
-            ],
-            "fileSize": 61670
+            "fileSize": 39758
         },
         {
             "path": "mods/modmenu-4.0.0.jar",
@@ -396,6 +361,17 @@
             "fileSize": 272255
         },
         {
+            "path": "mods/puzzle-1.3.2.jar",
+            "hashes": {
+                "sha1": "569c39d1a2bf540b6714a02527c3496c702aed43",
+                "sha512": "9e12a159ebdc055fb8ceb9ed97ac02b44e994149ad4babf3a6e2eb6887d76de5e5ceac2972b74cfcfce41f5cce9088419a5da8cac6b7cfe2b77c85b0ea1bbceb"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.2/puzzle-1.3.2.jar"
+            ],
+            "fileSize": 131079
+        },
+        {
             "path": "mods/reeses_sodium_options-1.4.3+mc1.19-build.43.jar",
             "hashes": {
                 "sha1": "430337cd1d3d6fdf7b3910926b80cc204a082661",
@@ -440,15 +416,26 @@
             "fileSize": 127417
         },
         {
-            "path": "mods/Zoomify-1.6.2.jar",
+            "path": "mods/yosbr-0.1.1.jar",
             "hashes": {
-                "sha1": "8ced52b03a679a262f064a05a5ff67435ade8d6f",
-                "sha512": "f2519dae210b7cc20a4ae163e1690993e1d5c3762eb8336735b3072a62b23eab5420913a6bc246f9c54ad35d891a0788e02aeef5f79b8bff827509b330126130"
+                "sha1": "0643830cab952fc96872702e681b863b550c8530",
+                "sha512": "8edd47fcda376658b5fb8bfb333c441ecaa1fe834d3deaa6b9895bb9c7dfc004d2e8ccc12a41e4b79f10e6634824837b5536c3bb81289e137abc6079d1c871c3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.6.2/Zoomify-1.6.2.jar"
+                "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar"
             ],
-            "fileSize": 304791
+            "fileSize": 19206
+        },
+        {
+            "path": "mods/Zoomify-1.7.0.jar",
+            "hashes": {
+                "sha1": "09a943bb5b302d71ac78502e3fcea59166cf4697",
+                "sha512": "377c457945b13f75587f818198e1ff8a3536b0b06509513a8bc7d3a442888b2f64d8a6c943c486e1d1db68cf1d2ad98505825c5aa1fcedc7424b49426c7170b9"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.7.0/Zoomify-1.7.0.jar"
+            ],
+            "fileSize": 304483
         }
     ],
     "dependencies": {

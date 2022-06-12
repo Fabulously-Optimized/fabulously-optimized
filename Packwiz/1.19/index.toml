@@ -10,15 +10,15 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "60e3b4959ad3a5512eb25c5c9cf3a605dbf4b47431c8fea0f57e067e115e64de"
+hash = "646c1487eb142576fa76b87fef987a895bb9a9d18a1649180969469796013609"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6a1d18b914953540c5d109f82bfdc1d97640a547a260a9b7f7037c9389ef5152"
+hash = "3fd0bca90569cc0ca367d72e7c84c988de9a03bedc8757c58af94f532884e6ff"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "cfa9f824ba0800de177f2708d7ab0b05ead854aa5447fca5db1f54be89889509"
+hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
 file = "config/puzzle.json"
@@ -74,7 +74,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "cfa9f824ba0800de177f2708d7ab0b05ead854aa5447fca5db1f54be89889509"
+hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -83,6 +83,10 @@ hash = "2a7c463f581910b0daf713ece461106f92894f9cb4af3655dad13152003005cf"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -94,7 +98,7 @@ hash = "8cf4e887764bc764235990460c9214a000bd434d47839d240656803cd809bee4"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "a1b123fa4c9cc0c4cf25c6ef33694cf6c94f9dd88388188f34feab9b6d367e2a"
+hash = "1adfed1eb9468a7aee481cac91008bdb8e0af1048c54900a5a408dc40c446500"
 metafile = true
 
 [[files]]
@@ -104,12 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "6ecdff2bb7086af0673bf95992c425d3b4c82e27d6070c86ed4906611af0a6b3"
-metafile = true
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "793eeb27095125bb3d0d3150377941f340219671eb9852e7ee15075ffe74962f"
+hash = "3460db95383cf24e5171f466bfc196c7f953eb7624ac10381de2c65356e265c0"
 metafile = true
 
 [[files]]
@@ -124,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "880d63ceab82d4f5167fcb38796a1d767efa4bd749b4caa70b8ad33f6d80fe6b"
+hash = "9190e39e3a8413bfe35d0b36befe8be2f49b63c6d20973df934f598e192f329a"
 metafile = true
 
 [[files]]
@@ -138,23 +137,8 @@ hash = "9900ca7501a0cedb1cb1292fb51250c1820f4cc1dc6b7d572824a18738e118de"
 metafile = true
 
 [[files]]
-file = "mods/cloth-api.pw.toml"
-hash = "033f1b85664c3726d95f32f66bb36c38c93bc087006b3abd0aae1d4a3e2ba657"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "848802e4af9c2e37ba369feb7568f694a4ce22c7b7414ecef6010b57a32fe3d1"
-metafile = true
-
-[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
-metafile = true
-
-[[files]]
-file = "mods/completeconfig.pw.toml"
-hash = "c38e8a0abc8f71ec82439c0a8a59677b4e13c673cca28793f00f9ea7cc40a10e"
 metafile = true
 
 [[files]]
@@ -179,12 +163,12 @@ metafile = true
 
 [[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
-hash = "4077565bcdd87a21d72ff4a89553a13c25f9ffea39f5e13f1e43bca15440223f"
+hash = "9e8a66d43611d16b5809628f192db4c81ec55c2a6dead5d4cd85923f0cbb2d6c"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "71952509ce4496bf508aba29a68aba01ceacd31e8c9e8b9d9ded1e1da70a93ff"
+hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
@@ -214,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "2e25280e924e9a871142a5a95f35016e04f0eba2c86f4b84815d5db009ed19f3"
+hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
 metafile = true
 
 [[files]]
@@ -274,12 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "10f9b8c4662bf605f853b970a0ff14b7e3fba721604f18b62e6714c02fb9bb22"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "46902c5093ff6acac3fc4c40583f8e38af28f4576c39f7132ad4d01e6e35ff28"
+hash = "70f89a1865f7b6ba615807cc8212da1e52a37273cb02048881ebbf87a8d51355"
 metafile = true
 
 [[files]]
@@ -309,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "f2c200a93671fb9108c7bdc53696d530c43b0988e6f7c47de046c7afcb158497"
+hash = "e5a6e7fb7994702cc2e4787aad7b042d91df44148140ed5bad245448536091e0"
 metafile = true
 
 [[files]]
@@ -349,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "b28b9f05014ee4d421223b69cc5921a4f9792629258203d523091e5ad6ac19b6"
+hash = "33dd47f911a5e7f0b1414375cb9b4e43378cf9497cb1af5424fc852ca4885840"
 metafile = true
 
 [[files]]

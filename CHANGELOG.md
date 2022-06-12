@@ -3,6 +3,22 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-alpha.4 (2022-06-12)
+
+* Updated AdvancementInfo, AntiGhost, Don't Clear Chat History, Dynamic FPS, Fabrishot, MemoryLeakFix, Puzzle, Zoomify
+* Removed separate Architectury API, Cloth API, Cloth Config, CompleteConfig, MidnightLib as they don't seem to be necessary right now
+  * Either dependant mods are removed or these are already bundled inside some, some may be readded later when necessary
+  * Removal of Cloth API should also mean that there is no more first-time crash, yay!
+* Borderless Mining is now disabled as it was indeed found incompatible
+* Disabled Entity Culling donor features
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily disabled Animatica, Borderless Mining, Enhanced Block Entities, LambdaBetterGrass
+* Temporarily added Better Beds
+* Note: some not-yet-updated mods may lack the config button in Mod Menu.
+
 ### 4.0.0-alpha.3 (2022-06-10)
 
 Updates!
@@ -11,6 +27,7 @@ Updates!
 * Updated Architectury API, CIT Resewn, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Indium, LambDynamicLights, Lithium, More Chat History, Not Enough Crashes
 * Updated Fabric Loader to 0.14.7
 * Re-enabled Continuity, which now supports emissive block textures!
+
 ---
 
 * Forcefully enabled (don't report bugs to their devs!): Borderless Mining, Don't Clear Chat History, Farsight
