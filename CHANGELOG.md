@@ -81,6 +81,16 @@ Other
 
 ## 1.18.2
 
+### 3.10.0 (2022-06-15)
+
+* Updated CIT Resewn, Entity Texture Features, Fabric API, Fabric Language Kotlin, LambdaBetterGrass
+* Removed separate Architectury API, Cloth API, Cloth Config, CompleteConfig, MidnightLib as they don't seem to be necessary right now
+  * Either dependant mods are removed or these are already bundled inside some, some may be readded later when necessary
+  * Removal of Cloth API should also mean that there is no more first-time crash, yay!
+* Fixed some punctuation in Mod Menu Helper for all languages
+  * Brought back the Puzzle MMH workaround as it was actually not fixed in 1.18.2 yet
+* Enforced Fabric Loader 0.14.7
+
 ### 3.9.3 (2022-06-09)
 
 * Updated Architectury API, Continuity, Iris Shaders, MidnightLib, Reese's Sodium Options, Sodium Extra

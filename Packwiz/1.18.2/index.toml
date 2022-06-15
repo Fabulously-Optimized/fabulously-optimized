@@ -10,15 +10,15 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "282a8beca4321ac69b0802ba2ca71e099c33731b33dde6711ac363be36675777"
+hash = "e7ad962164d6855df769e5b7b16fd366e2d1ccce3ccf8d06ba67e7970223e775"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9a63c0c23fe08d99ff7c832cdf0e93aeb2591666850c31952e784b67d90ba19c"
+hash = "d52127e7e66e710a2ef69c9e856e336787eecb5a9fc183a528285f4a49f73134"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "cfa9f824ba0800de177f2708d7ab0b05ead854aa5447fca5db1f54be89889509"
+hash = "b140184afb51de3614a0ca47132396e931cd7c74e8c1af05f3b6020b34350157"
 
 [[files]]
 file = "config/puzzle.json"
@@ -74,7 +74,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "cfa9f824ba0800de177f2708d7ab0b05ead854aa5447fca5db1f54be89889509"
+hash = "b140184afb51de3614a0ca47132396e931cd7c74e8c1af05f3b6020b34350157"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -108,11 +108,6 @@ hash = "4312f252c472b5befd7fd21fa014c2a52f773f1bb0607cff57f534ae1b2d1465"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "5271c64a6f26821bd623c7494c83aa01af86d3d90fc2c1023a23b21f0f711465"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
 metafile = true
@@ -129,27 +124,12 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "553f3f18b2ed3a484ae0ecaae453e2e674e7a13dc5045bc582ae260b632cacb9"
-metafile = true
-
-[[files]]
-file = "mods/cloth-api.pw.toml"
-hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+hash = "ed6bd9ac3ea3c5acc5505c1b2de9181f276014235ec872443d1554afcfebd522"
 metafile = true
 
 [[files]]
 file = "mods/colormatic.pw.toml"
 hash = "4e2a3f28c677a309e6fa5c2039d8bcdc7cbf6ea186cf479680c5c8e480412b83"
-metafile = true
-
-[[files]]
-file = "mods/completeconfig.pw.toml"
-hash = "172ed4fe39624f927d8a828d6600dae258eca55b93127355813e62b349e09cca"
 metafile = true
 
 [[files]]
@@ -189,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "b840235e776343d3219efadeb24f878285084adde46e44d4277b961537d6e4d4"
+hash = "7b43ef6de6aad1abdc7574bd3daba4bf5b93dd1993c5911156414ba33e7988c0"
 metafile = true
 
 [[files]]
@@ -199,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "37ae2e14a808e8668d356a2f5f53bad58b7f226e6936693b25dc7d6370f539c7"
+hash = "805f051bc280baebb1abaf8f4ac2416293809e43fdd39af59acd0788364a3ecc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3c3d7e7f9e0ae6a978564276c618a802d0c54c4ca098a7a897252a662ff4723a"
+hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
 metafile = true
 
 [[files]]
@@ -239,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "b7937aab7372ae7a086e4c6f219460bbc75cb0a7771ae94b566f6b205e5a0704"
+hash = "c2f8fbbfa209673ad71c2157b07254a096d423100c3c1e25aa1ba57822368abd"
 metafile = true
 
 [[files]]
@@ -270,11 +250,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "d8e6e1b06fa2d717627036d1e9f907b493bf43720fa94b422f546b91c6ad9c8c"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "66da572768333848a6ad0b798c955966956cf63fdf72770260db8909acfe5c4d"
 metafile = true
 
 [[files]]
@@ -349,4 +324,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "50151dcc347eef71240f100a72a06a8547bb76e65fd64cc6aa08133b08f07563"
+hash = "6aaebf9a3a453a7b301903f8e31e20212800fd9625a6660e30f12e84bc566679"
