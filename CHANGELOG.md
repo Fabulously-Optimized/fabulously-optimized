@@ -3,6 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-alpha.5 (2022-06-15)
+
+* Updated Borderless Mining, Debugify, Entity Texture Features, Fabric API, Fabric Capes, Language Reload, Puzzle
+* You can now select multiple languages in the language menu, helps with partial (mod) translations.
+   * Cool or confusing? Please let me know!
+* Fixed some punctuation in Mod Menu Helper for all languages
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily disabled Animatica, Enhanced Block Entities, LambdaBetterGrass
+* Temporarily added Better Beds
+* Note: some not-yet-updated mods may lack the config button in Mod Menu.
+
 ### 4.0.0-alpha.4 (2022-06-12)
 
 * Updated AdvancementInfo, AntiGhost, Don't Clear Chat History, Dynamic FPS, Fabrishot, MemoryLeakFix, Puzzle, Zoomify
