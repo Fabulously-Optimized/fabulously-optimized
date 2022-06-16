@@ -3,6 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.1 (2022-06-16)
+
+Yay, a beta! Note that Minecraft 1.19.1 is coming soon, so the process may start all over again, depending on how many changes are needed to mods.
+
+* Updated Borderless Mining, Indium, LambdaBetterGrass
+* Removed disabled mods for better UX on GDLauncher and MultiMC (auto-update)
+  * I will probably still include disabled mods in future alphas because it's easier for me to iterate this way, but will avoid it in beta and stable
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily removed Animatica, Enhanced Block Entities
+* Temporarily added Better Beds
+
 ### 4.0.0-alpha.5 (2022-06-15)
 
 * Updated Borderless Mining, Debugify, Entity Texture Features, Fabric API, Fabric Capes, Language Reload, Puzzle
