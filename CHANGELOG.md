@@ -10,6 +10,7 @@ Yay, a beta! Note that Minecraft 1.19.1 is coming soon, so the process may start
 * Updated Borderless Mining, Indium, LambdaBetterGrass
 * Removed disabled mods for better UX on GDLauncher and MultiMC (auto-update)
   * I will probably still include disabled mods in future alphas because it's easier for me to iterate this way, but will avoid it in beta and stable
+* Fixed Don't Clear Chat History in Modrinth version
 
 ---
 
