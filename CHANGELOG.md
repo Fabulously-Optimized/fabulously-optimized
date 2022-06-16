@@ -81,6 +81,10 @@ Other
 
 ## 1.18.2
 
+### 3.10.0-mr.1 (2022-06-15)
+
+* Should now be identical to the CF version (Don't Clear Chat History was missing)
+
 ### 3.10.0 (2022-06-15)
 
 * Updated CIT Resewn, Entity Texture Features, Fabric API, Fabric Language Kotlin, LambdaBetterGrass
