@@ -1,7 +1,129 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19
+
+### 4.0.0-beta.1 (2022-06-16)
+
+Yay, a beta! Note that Minecraft 1.19.1 is coming soon, so the process may start all over again, depending on how many changes are needed to mods.
+
+* Updated Borderless Mining, Indium, LambdaBetterGrass
+* Removed disabled mods for better UX on GDLauncher and MultiMC (auto-update)
+  * I will probably still include disabled mods in future alphas because it's easier for me to iterate this way, but will avoid it in beta and stable
+* Fixed Don't Clear Chat History in Modrinth version
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily removed Animatica, Enhanced Block Entities
+* Temporarily added Better Beds
+
+### 4.0.0-alpha.5 (2022-06-15)
+
+* Updated Borderless Mining, Debugify, Entity Texture Features, Fabric API, Fabric Capes, Language Reload, Puzzle
+* You can now select multiple languages in the language menu, helps with partial (mod) translations.
+   * Cool or confusing? Please let me know!
+* Fixed some punctuation in Mod Menu Helper for all languages
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily disabled Animatica, Enhanced Block Entities, LambdaBetterGrass
+* Temporarily added Better Beds
+* Note: some not-yet-updated mods may lack the config button in Mod Menu.
+
+### 4.0.0-alpha.4 (2022-06-12)
+
+* Updated AdvancementInfo, AntiGhost, Don't Clear Chat History, Dynamic FPS, Fabrishot, MemoryLeakFix, Puzzle, Zoomify
+* Removed separate Architectury API, Cloth API, Cloth Config, CompleteConfig, MidnightLib as they don't seem to be necessary right now
+  * Either dependant mods are removed or these are already bundled inside some, some may be readded later when necessary
+  * Removal of Cloth API should also mean that there is no more first-time crash, yay!
+* Borderless Mining is now disabled as it was indeed found incompatible
+* Disabled Entity Culling donor features
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily disabled Animatica, Borderless Mining, Enhanced Block Entities, LambdaBetterGrass
+* Temporarily added Better Beds
+* Note: some not-yet-updated mods may lack the config button in Mod Menu.
+
+### 4.0.0-alpha.3 (2022-06-10)
+
+Updates!
+
+* Seems that the Sodium-related mods now stay enabled
+* Updated Architectury API, CIT Resewn, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Indium, LambDynamicLights, Lithium, More Chat History, Not Enough Crashes
+* Updated Fabric Loader to 0.14.7
+* Re-enabled Continuity, which now supports emissive block textures!
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Borderless Mining, Don't Clear Chat History, Farsight
+* Temporarily disabled Animatica, AntiGhost, Cloth API, Enhanced Block Entities, LambdaBetterGrass, Puzzle
+* Temporarily added Better Beds
+
+
+### 4.0.0-alpha.2 (2022-06-08)
+
+This needed a quick fix, so download again please.
+
+* Updated Architectury API, Entity Culling
+* ~~Actually enabled Sodium and related mods~~ Failed, see Discord for help
+* Disabled Continuity as it causes a crash without Indium
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Borderless Mining, Don't Clear Chat History, Farsight, FerriteCore, More Chat History
+* Temporarily disabled Animatica, AntiGhost, CIT Resewn, Cloth API, Continuity, Enhanced Block Entities, Indium, Lithium, LambDynLights, LambdaBetterGrass, Not Enough Crashes, Puzzle
+* Temporarily added Better Beds
+
+### 4.0.0-alpha.1 (2022-06-08)
+
+First alpha for 1.19! It is an alpha mainly because connected textures and other resource pack features don't work yet.
+
+Mods
+* Updated Architectury API, Cloth Config API, Colormatic, CompleteConfig, Continuity, Cull Less Leaves, Custom Entity Models, Debugify, Entity Texture Features, Fabric Capes, Iris Shaders, Language Reload, LazyDFU, MemoryLeakFix, MidnightLib, Mod Menu, OptiGUI, Reese's Sodium Options, Smooth Boot, Sodium, Sodium Extra, Starlight, TooltipFix, Zoomify
+* Forcefully enabled (don't report bugs to their devs!): Borderless Mining, Don't Clear Chat History, Entity Culling, Farsight, FerriteCore, More Chat History
+* Temporarily disabled Animatica, AntiGhost, CIT Resewn, Cloth API, Enhanced Block Entities, Indium, Lithium, LambDynLights, LambdaBetterGrass, Not Enough Crashes, Puzzle
+* Temporarily added Better Beds
+* Other mods worked as-is
+
+Other
+* Disabled chatPreview vanilla setting for privacy and to remove annoying warnings
+* Enabled Cloaks+ in Fabric Capes
+* Disabled Iris' update checker
+
 ## 1.18.2
+
+### 3.10.0-mr.1 (2022-06-15)
+
+* Should now be identical to the CF version (Don't Clear Chat History was missing)
+
+### 3.10.0 (2022-06-15)
+
+* Updated CIT Resewn, Entity Texture Features, Fabric API, Fabric Language Kotlin, LambdaBetterGrass
+* Removed separate Architectury API, Cloth API, Cloth Config, CompleteConfig, MidnightLib as they don't seem to be necessary right now
+  * Either dependant mods are removed or these are already bundled inside some, some may be readded later when necessary
+  * Removal of Cloth API should also mean that there is no more first-time crash, yay!
+* Fixed some punctuation in Mod Menu Helper for all languages
+  * Brought back the Puzzle MMH workaround as it was actually not fixed in 1.18.2 yet
+* Enforced Fabric Loader 0.14.7
+
+### 3.9.3 (2022-06-09)
+
+* Updated Architectury API, Continuity, Iris Shaders, MidnightLib, Reese's Sodium Options, Sodium Extra
+* Continuity now supports emissive block/item textures!
+* Iris should now have better performance
+* Disabled Iris' update checker
+* Updated Fabric Loader to 0.14.7
+
+### 3.9.2 (2022-06-06)
+
+* Updated Fabric API, Puzzle, MidnightLib
+* Resource pack splash screens should work better now
+* Updated Korean and Greek in MMH by AlphaKR93 and RaptaG
+* Removed Puzzle workaround from MMH
 
 ### 3.9.1 (2022-06-04)
 
