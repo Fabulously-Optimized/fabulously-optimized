@@ -4,7 +4,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
   * More specifically, using 
      * [CurseForge Launcher](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher)
      * [MultiMC](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) (when downloaded via the CurseForge listing) 
-     * [vanilla launcher](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla)
+     * [Vanilla Launcher](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla)
   * support the pack, other launchers/methods unfortunately do not.
 * **Donate to the mods**, for example:
   * [JellySquid](https://jellysquid.me/donate), the creator of Sodium/Lithium/Phosphor/Hydrogen
