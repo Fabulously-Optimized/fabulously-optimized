@@ -8,7 +8,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) 
 
-Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
+Supports CurseForge Launcher, MultiMC, GDLauncher and the Official Minecraft launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
 <details>
   <summary>Alternative downloads</summary>
@@ -16,7 +16,7 @@ Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install
 _These downloads do not yet support the modpack or the mods :(_
 * [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [(experimental!)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ ⚰️ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ ⚰️ | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.9.3/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.0.0-alpha.3/Fabulously.Optimized.MC.1.19.auto-update.zip)
-* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
+* ~~Installer for Official Minecraft Launcher~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 
 </details>
@@ -24,7 +24,7 @@ _These downloads do not yet support the modpack or the mods :(_
 
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Official Minecraft Launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|
 | Pack download | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Download](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [⬇️ Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
 | Recommended for | Most people | Slow device or internet | Testers and contributors | Linux users | Advanced users |
