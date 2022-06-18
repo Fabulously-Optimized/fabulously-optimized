@@ -8,7 +8,7 @@ The pack only adds performance and graphics enhancements to the client, so **it 
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) 
 
-Supports CurseForge Launcher, MultiMC, GDLauncher and the Official Minecraft launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
+Supports CurseForge Launcher, MultiMC, GDLauncher and the Official Minecraft Launcher. [Install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
 <details>
   <summary>Alternative downloads</summary>
