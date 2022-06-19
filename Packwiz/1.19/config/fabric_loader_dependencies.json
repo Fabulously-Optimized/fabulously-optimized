@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabric":{"+depends":{"fabricloader":">=0.14.7"}},"debugify":{"-conflicts":{"tooltipfix":""}},"colormatic":{"-recommends":{"quilt-loader":""}},"farsight":{"-depends":{"minecraft":""}}}}
+{"version":1,"overrides":{"fabric":{"+depends":{"fabricloader":">=0.14.8"},"+recommends":{"Fabulously Optimized":"latest"}},"debugify":{"conflicts":{}},"cem":{"recommends":{}},"colormatic":{"recommends":{}},"farsight":{"depends":{}}}}

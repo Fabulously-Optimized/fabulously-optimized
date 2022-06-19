@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-beta.1",
+    "versionId": "4.0.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -26,18 +26,6 @@
                 "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19-fabric0.55.3-1.1.5/antighost-1.19-fabric0.55.3-1.1.5.jar"
             ],
             "fileSize": 78206
-        },
-        {
-            "path": "mods/betterbeds-1.2.0.jar",
-            "hashes": {
-                "sha1": "970e34b6bc69a581aadca2786b9a4490319f35f9",
-                "sha512": "82549a703487c950c47201456e6d4d12da424dbeb6c583ff49b432fa6b909f192c7909cde9564d92bff96792b90262518fbd7110ad040d088cd6d29791498f1b"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar",
-                "https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.2.0/betterbeds-1.2.0.jar"
-            ],
-            "fileSize": 44260
         },
         {
             "path": "mods/bettermounthud-1.1.4.jar",
@@ -168,15 +156,26 @@
             "fileSize": 89446
         },
         {
-            "path": "mods/entity-texture-features-3.1.2-mc1.19.jar",
+            "path": "mods/enhancedblockentities-0.7+1.19.jar",
             "hashes": {
-                "sha1": "5954de581281f46b0e8b5e60fb84eecd20dcb42c",
-                "sha512": "442a91dc4ceead058ecd4541a3856bd3f443c4422a491911f9d7797ed0633a0fe7a4f3ab4d3549f8327d2ee8b0b8bd88893f2a41c3a9f945570c7cc65c0a144c"
+                "sha1": "374a8f0f01f5ba8fefda44888fd7f132e18a39e1",
+                "sha512": "33e345fac3868595c128f6decaafe36474d5243c9915899e5c38baea8096c504f00847a88589bfeb1723c01e6d1e5e59f4d2a74ca1438872685c2eed4398acab"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.2/entity-texture-features-3.1.2-mc1.19.jar"
+                "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7+1.19/enhancedblockentities-0.7%2B1.19.jar"
             ],
-            "fileSize": 1169555
+            "fileSize": 448396
+        },
+        {
+            "path": "mods/entity-texture-features-3.1.3-mc1.19.jar",
+            "hashes": {
+                "sha1": "6c128ccdecdb518bcfdeaa59b95aa14312e7a109",
+                "sha512": "18db5e2e731d96328e774dff4f96ae799df5c9c7753e5869075090e509649de77a2430d9c76a93672f34878d8c9fcc77658c77107cd3bfc69360feb5a7004140"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.3/entity-texture-features-3.1.3-mc1.19.jar"
+            ],
+            "fileSize": 1175292
         },
         {
             "path": "mods/entityculling-fabric-1.5.2-mc1.19.jar",
@@ -294,16 +293,16 @@
             "fileSize": 556414
         },
         {
-            "path": "mods/language-reload-1.3.jar",
+            "path": "mods/language-reload-1.3.1.jar",
             "hashes": {
-                "sha1": "ce6b187033dbdc843c37d8077eb3c005bf835dae",
-                "sha512": "2f8d6d25ff44c5a9818f2c6d8f2a910e55f50aed25e296a2cfb316a4e3438df8d659eb1902fa24bfefa7e084ec4cd37e9c392ad8f46b41a005a2efbdd5287e0e"
+                "sha1": "9b8fc8ce7447ad97d1e7ebba5322bccd01aff118",
+                "sha512": "157c146b0410337fe3ac58c1716b5bb9ef33a423bb9fdd5d4b38535c6500c90ccf0b6c10f1ba74a48308d16b109a22d2b2a798e88abb9be4198cf7fb6703ad14"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.3/language-reload-1.3.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.3/language-reload-1.3.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.3.1/language-reload-1.3.1.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.3.1/language-reload-1.3.1.jar"
             ],
-            "fileSize": 41549
+            "fileSize": 41515
         },
         {
             "path": "mods/lazydfu-0.1.3.jar",
@@ -440,6 +439,7 @@
                 "sha512": "dfe62d6ae465baa6b60249f271508bb97e5f07f663c018658dfb940f99e7fce5fa9f5b6c15e555db34b02f8db9d8e6350cb120e10469ff809480173fb8b0da49"
             },
             "downloads": [
+                "https://cdn.modrinth.com/data/FWumhS4T/versions/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar",
                 "https://github.com/UltimateBoomer/mc-smoothboot/releases/download/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar"
             ],
             "fileSize": 88634
@@ -469,15 +469,15 @@
             "fileSize": 1364166
         },
         {
-            "path": "mods/starlight-1.1.0+fabric.eb9df34.jar",
+            "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
             "hashes": {
-                "sha1": "6292c91aa726edd2f8178ae002d040ae54aac0aa",
-                "sha512": "dd2f42474c990ee5d2ddc59adf1e0ce2acefafef1f0a3fc3462d6e33431b27dfb0f2b42b5e67b7601ade9a25361ded3e1198dfe60ba64f7ea68884e4299c09a8"
+                "sha1": "de6fe932555604345477db89b59d59249909c640",
+                "sha512": "68f81298c35eaaef9ad5999033b8caf886f3c583ae1edc25793bdd8c2cbf5dce6549aa8d969c55796bd8b0d411ea8df2cd0aaeb9f43adf0691776f97cebe1f9f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.0+1.19/starlight-1.1.0%2Bfabric.eb9df34.jar"
+                "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1%2Bfabric.ae22326.jar"
             ],
-            "fileSize": 127417
+            "fileSize": 127465
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
@@ -505,6 +505,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19",
-        "fabric-loader": "0.14.7"
+        "fabric-loader": "0.14.8"
     }
 }

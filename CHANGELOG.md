@@ -3,6 +3,22 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.2 (2022-06-19)
+
+* Readded Enhanced Block Entities
+* Removed Better Beds
+* Updated Entity Texture Features, Language Reload, Starlight
+  * Fixed multiple languages resetting on restart
+* Updated Greek in MMH by RaptaG
+* Removed some irrelevant log warnings
+  * Mentioned FO in logs for better debugging, don't be alarmed if you're already using the latest version
+* Updated Fabric Loader to 0.14.8
+
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily removed Animatica
+
 ### 4.0.0-beta.1 (2022-06-16)
 
 Yay, a beta! Note that Minecraft 1.19.1 is coming soon, so the process may start all over again, depending on how many changes are needed to mods.

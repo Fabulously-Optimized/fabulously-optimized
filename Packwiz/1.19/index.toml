@@ -10,11 +10,11 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1989ef65109e8bdf56c9a25f00bb2e834f15cd183b59088fd5224125e82d6efe"
+hash = "629d3f2a3c255d3d5b79a14fcd5518e3b38f8b17d2d3ffdac9809cf28593d395"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4fd16613959f98014c1c8b184ca8225f1f20d0de1c086d05f6ff4048acb1f5a0"
+hash = "6918db79402d694839d573b203f98d1548f50b9eba910d25a85a7a33d83058b3"
 
 [[files]]
 file = "config/modmenu.json"
@@ -107,11 +107,6 @@ hash = "3460db95383cf24e5171f466bfc196c7f953eb7624ac10381de2c65356e265c0"
 metafile = true
 
 [[files]]
-file = "mods/better-beds.pw.toml"
-hash = "43ad173e5e3b92a29c52ba9f7af4c9ba63bf2c57076ea83349967f37499dccef"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
 metafile = true
@@ -167,8 +162,13 @@ hash = "0db89b28d9d11cd967580baed30d7ba8930b3c3a9b9e7426a92664a1f48ef24c"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "79a732aa89f8f8d87e6f647399ecba1defbb9143e08b21a0fc10798ab8dc143d"
+metafile = true
+
+[[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "3bc84e84cee8613849f8fe232f9edcbe0c3412a1bf86ab5553901b26d626bed3"
+hash = "b615623bc00ca05d039961eda5e7ffcef56bdf1da97dd24fb23b7df7a88a331e"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "1703571d583ad5bbcad76c27b84027b2c7b42f4ee95b2b2ca1a8e9b7b98e03a8"
+hash = "398b1a30ec518b3e2e88ea6bb5154499380d9a495772e2b037276edc81a43a29"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "873384feb93e60940f653af72b20eeb2a9ded4da80fab455710bfeed35a48203"
+hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
 
 [[files]]
@@ -323,4 +323,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "82aaa73ede7c069055a2cd2dc5fbf39dfbfd76e01e950e5e494102043aaaa66d"
+hash = "e2780a538495359e61a42c8646a3acacfabc668447acd3b9b373a213a20d3d98"
