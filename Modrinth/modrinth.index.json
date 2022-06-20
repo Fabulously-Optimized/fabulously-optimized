@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-beta.2",
+    "versionId": "4.0.0-beta.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -167,15 +167,15 @@
             "fileSize": 448396
         },
         {
-            "path": "mods/entity-texture-features-3.1.3-mc1.19.jar",
+            "path": "mods/entity-texture-features-3.1.4-mc1.19.jar",
             "hashes": {
-                "sha1": "6c128ccdecdb518bcfdeaa59b95aa14312e7a109",
-                "sha512": "18db5e2e731d96328e774dff4f96ae799df5c9c7753e5869075090e509649de77a2430d9c76a93672f34878d8c9fcc77658c77107cd3bfc69360feb5a7004140"
+                "sha1": "706836074e3c3c1b5274aa5d98c619fea5b779e2",
+                "sha512": "f94597d055d60fbae954486e5fadc88aefdac2b731294a5331aabf3c8b03ad31fa1dc57b7345e56dafd2994cf65734996ce31ce266051a1b5aded6cbaeba7eb5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.3/entity-texture-features-3.1.3-mc1.19.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.4/entity-texture-features-3.1.4-mc1.19.jar"
             ],
-            "fileSize": 1175292
+            "fileSize": 1176174
         },
         {
             "path": "mods/entityculling-fabric-1.5.2-mc1.19.jar",
@@ -189,16 +189,15 @@
             "fileSize": 75567
         },
         {
-            "path": "mods/fabric-api-0.56.0+1.19.jar",
+            "path": "mods/fabric-api-0.56.1+1.19.jar",
             "hashes": {
-                "sha1": "2a5fee56f601cb61b704ac0d8740ccde5b12a9c7",
-                "sha512": "05f429240175cf024a1bc02ee89fe6db2578f6bf4982275a79750524c4ab1eeb69585dfa1e4d9e4ddb7ee6c157409ce3fd32d0be95bf555460cfc2d0791b850d"
+                "sha1": "2315995af8670f7fdb8e66132de9b1aa2d3f146e",
+                "sha512": "716a403ef3eca60956414fc3d89f4bba07c1270992d53bcd345a881d0904c07ac5b9959b631155210cf2fd7d1e552e074a9041ac788ac822e9697952758b26a0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.0+1.19/fabric-api-0.56.0%2B1.19.jar",
-                "https://github.com/FabricMC/fabric/releases/download/0.56.0%2B1.19/fabric-api-0.56.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.1+1.19/fabric-api-0.56.1%2B1.19.jar"
             ],
-            "fileSize": 1486213
+            "fileSize": 1486091
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.0+kotlin.1.7.0.jar",
@@ -235,16 +234,15 @@
             "fileSize": 119108
         },
         {
-            "path": "mods/indium-1.0.5+mc1.19.jar",
+            "path": "mods/indium-1.0.6+mc1.19.jar",
             "hashes": {
-                "sha1": "97ac14960a972daa70803ffd0cfc4ed1aa9f7276",
-                "sha512": "750d231d2eedb35160c29236ab6258da0e4c88956a96ba598af2381cd2cd1eb0d272a21325f0fb309ce8d6e47a7a1f5b61727d2a4f0eb2e1c886ce595b8aaf98"
+                "sha1": "f4ed0775fbf68bd4ba5c31e143f05d7bf38817fa",
+                "sha512": "7c7c8ee2cb9b65beb6eda78f181831ac7620450651d60e019430bbbc11094dfcd61199d6506be117cf619543e67b6d8f4437805ef20392fced1efe60569d3778"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.5+mc1.19/indium-1.0.5%2Bmc1.19.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.5%2Bmc1.19/indium-1.0.5%2Bmc1.19.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.19/indium-1.0.6%2Bmc1.19.jar"
             ],
-            "fileSize": 118176
+            "fileSize": 118075
         },
         {
             "path": "mods/iris-mc1.19-1.2.5.jar",

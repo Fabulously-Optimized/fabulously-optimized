@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.3 (2022-06-20)
+
+* Updated Entity Texture Features, Fabric API, Indium
+  * Entity Texture Features got an important performance fix
+
 ### 4.0.0-beta.2 (2022-06-19)
 
 * Readded Enhanced Block Entities
