@@ -43,6 +43,9 @@ We have a growing community of friendly members who like to discuss the pack and
 * Q: How do I install? Update? Add mods? Something else?
   * A: [The answers are in our wiki.](https://fabulously-optimized.gitbook.io/modpack/)
 
+* Q: Something broke! You should add something!
+  * A: [Post it to our GitHub](yes)
+
 * Q: What mods does it have? 
   * A: [Click here and find out](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)
 
