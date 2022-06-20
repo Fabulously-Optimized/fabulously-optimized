@@ -8,6 +8,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 * Updated Entity Texture Features, Fabric API, Indium
   * Entity Texture Features got an important performance fix
 
+---
+
+* Forcefully enabled (don't report bugs to their devs!): Farsight
+* Temporarily removed Animatica
+
 ### 4.0.0-beta.2 (2022-06-19)
 
 * Readded Enhanced Block Entities
