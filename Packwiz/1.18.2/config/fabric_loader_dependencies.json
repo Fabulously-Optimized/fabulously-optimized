@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabric":{"+depends":{"fabricloader":">=0.14.7"}},"debugify":{"-conflicts":{"tooltipfix":""}},"colormatic":{"-recommends":{"quilt-loader":""}}}}
+{"version":1,"overrides":{"fabric":{"+depends":{"fabricloader":">=0.14.7"},"+recommends":{"Fabulously Optimized":"latest"}},"debugify":{"conflicts":{}},"colormatic":{"recommends":{}}}}

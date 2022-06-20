@@ -112,6 +112,13 @@ Other
 
 ## 1.18.2
 
+### 3.10.1 (2022-06-20)
+
+* Updated Enhanced Block Entities, Entity Texture Features, Fabric API, Indium
+  * Entity Texture Features got an important performance fix
+* Updated Fabric Loader to 0.14.8
+* Backported 4.0.0-beta.2 changes: Greek update, FO mention in logs
+
 ### 3.10.0-mr.1 (2022-06-15)
 
 * Should now be identical to the CF version (Don't Clear Chat History was missing)
