@@ -1,7 +1,5 @@
 # English (US)
 
-Fabulously Optimized
-
 A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations. 
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
