@@ -5,7 +5,7 @@ Here you can find the mod comparison table between the currently supported Minec
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 ## Smooth
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
 |---|---|---|---|---|---|---|
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [Motschen](https://www.curseforge.com/members/Motschen) | &nbsp;&nbsp;✔️ |  |  |  | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
@@ -27,7 +27,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Pretty
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
 |---|---|---|---|---|---|---|
 | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar |
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️* | Adds OptiFine's animated textures support |
@@ -56,7 +56,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
 
 ## Functional
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
 |---|---|---|---|---|---|---|
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
@@ -76,7 +76,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19&nbsp;&nbsp; | Description |
 |---|---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Makes some mods work |
 | [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
