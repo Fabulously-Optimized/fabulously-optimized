@@ -38,29 +38,24 @@ We have a growing community of friendly members who like to discuss the pack and
 
 ## FAQ
 
-**Q**: How do I install? Update? Add mods? Something else?
-
-**A**: [The answers are in our wiki.][10]
-
-
-**Q**: Something broke! You should add something!
-
-**A**: [Post it to our GitHub.][7]
+> **Q**: How do I install? Update? Add mods? Something else?
+> **A**: [The answers are in our wiki.][10]
 
 
-**Q**: What mods does it have? 
-
-**A**: Click any version and scroll down [or see the comparison table][11].
-
-
-**Q**: Do I need the modpack on the server?
-
-**A**: No, this works on all servers that allow vanilla. [Detailed answer and server tips are here.][12] [If you need a host, click here][13] - 25% off for the first month!
+> **Q**: Something broke! You should add something!
+> **A**: [Post it to our GitHub.][7]
 
 
-**Q**: I have more questions!
+> **Q**: What mods does it have? 
+> **A**: Click any version and scroll down [or see the comparison table][11].
 
-**A**: [Come and chat with us!][9]
+
+> **Q**: Do I need the modpack on the server?
+> **A**: No, this works on all servers that allow vanilla. [Detailed answer and server tips are here.][12] [If you need a host, click here][13] - 25% off for the first month!
+
+
+> **Q**: I have more questions!
+> **A**: [Come and chat with us!][9]
 
 <details>
    <summary>
