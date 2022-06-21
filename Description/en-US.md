@@ -41,29 +41,37 @@ We have a growing community of friendly members who like to discuss the pack and
 ## FAQ
 
 **Q**: How do I install? Update? Add mods? Something else?
+
 **A**: [The answers are in our wiki.][10]
 
+
 **Q**: Something broke! You should add something!
-**A**: [Post it to our GitHub](yes)
 
-* Q: What mods does it have? 
-  * A: [Click here and find out](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)
+**A**: [Post it to our GitHub.][7]
 
-* Q: Do I need it on the server?
-  * A: No. [But if you want to some server tips, click here](https://fabulously-optimized.gitbook.io/modpack/readme/server-setup). [And if you want a host, click here.](https://www.bisecthosting.com/clients/aff.php?aff=2604)
 
-* Q: I have more questions!
-  * A: [Come and chat with us!](https://discord.gg/yxaXtaQqdB)
+**Q**: What mods does it have? 
+
+**A**: Click any version and scroll down [or see the comparison table][11].
+
+
+**Q**: Do I need the modpack on the server?
+
+**A**: No, this works on all servers that allows vanilla. [Detailed answer and server tips are here.][12]. [If you need a host, click here][13] - 25% off for the first month!
+
+**Q**: I have more questions!
+
+**A**: [Come and chat with us!][9]
 
 ## Disclaimers
 
 * The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. 
-    * The command /ghost (provided by [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)) may be disallowed by the rules on some servers [as it sends a slight amount of packets](https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103), but it is safe if you don't spam it, use only when you are stuck in blocks.
-* This modpack disables the [third-party server disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
+    * The command */ghost* (provided by [AntiGhost][14]) may be disallowed by the rules on some servers [as it sends a slight amount of packets][15], but it is safe if you don't spam it, use only when you are stuck in blocks.
+* This modpack disables the [third-party server disclaimer][16], so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
 
-    * You must also be aware that you can use [the "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) by pressing the key `P` in-game.
-* This modpack is using [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) for chunk optimization and [due to the way it works](https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format), disabling (or replacing) the mod will make your existing worlds initially load a bit slower. This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm.
+    * You must also be aware that you can use [the "social interactions" screen][17] by pressing the key `P` in-game.
+* This modpack is using [Starlight][18] for chunk optimization and [due to the way it works][19], disabling (or replacing) the mod will make your existing worlds initially load a bit slower. This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm.
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
@@ -75,3 +83,13 @@ We have a growing community of friendly members who like to discuss the pack and
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
 [9]: https://discord.gg/yxaXtaQqdB
 [10]: https://fabulously-optimized.gitbook.io/modpack/
+[11]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
+[12]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
+[13]: https://www.bisecthosting.com/clients/aff.php?aff=2604
+
+[14]: https://www.curseforge.com/minecraft/mc-mods/antighost
+[15]: https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103
+[16]: https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png
+[17]: https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage
+[18]: https://www.curseforge.com/minecraft/mc-mods/starlight
+[19]: https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format
