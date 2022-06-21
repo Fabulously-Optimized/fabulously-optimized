@@ -60,7 +60,7 @@ We have a growing community of friendly members who like to discuss the pack and
 
 > **Q**: I have more questions!
 > 
-> **A**: [Come and chat with us!][9]
+> **A**: [Come and chat with us on Discord!][9]
 
 <details>
    <summary>Disclaimers</summary>
