@@ -63,9 +63,7 @@ We have a growing community of friendly members who like to discuss the pack and
 > **A**: [Come and chat with us!][9]
 
 <details>
-   <summary>
-      <h3>Disclaimers</h3>
-    </summary>
+   <summary><h3>Disclaimers</h3></summary>
    
 * The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. 
    
