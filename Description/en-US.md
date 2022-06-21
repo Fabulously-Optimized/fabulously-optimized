@@ -55,22 +55,30 @@ We have a growing community of friendly members who like to discuss the pack and
 
 **Q**: Do I need the modpack on the server?
 
-**A**: No, this works on all servers that allows vanilla. [Detailed answer and server tips are here.][12] [If you need a host, click here][13] - 25% off for the first month!
+**A**: No, this works on all servers that allow vanilla. [Detailed answer and server tips are here.][12] [If you need a host, click here][13] - 25% off for the first month!
 
 
 **Q**: I have more questions!
 
 **A**: [Come and chat with us!][9]
 
-## Disclaimers
-
+<details>
+   <summary>
+      <h3>Disclaimers</h3>
+    </summary>
+   
 * The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. 
+   
     * The command */ghost* (provided by [AntiGhost][14]) may be disallowed by the rules on some servers [as it sends a slight amount of packets][15], but it is safe if you don't spam it, use only when you are stuck in blocks.
 * This modpack is using [Starlight][18] for chunk optimization and [due to the way it works][19], disabling (or replacing) the mod will make your existing worlds initially load a bit slower. This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm.
 * This modpack disables the [third-party server disclaimer][16], so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
 
     * You must also be aware that you can use [the "social interactions" screen][17] by pressing the key `P` in-game.
+
+* Yes, you can fork/remix this pack [according to the license][20]. You cannot, however, use the "Fabulously Optimized" name or logo.
+   
+</details>
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
@@ -92,3 +100,4 @@ We have a growing community of friendly members who like to discuss the pack and
 [17]: https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage
 [18]: https://www.curseforge.com/minecraft/mc-mods/starlight
 [19]: https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format
+[20]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md
