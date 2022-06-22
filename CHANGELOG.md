@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.4 (2022-06-22)
+
+- Added No Chat Reports - protects you and others from some account bans
+  * Mostly a preparation for 1.19.1, but helps a bit on 1.19 too
+- Updated Debugify, Enhanced Block Entities, Fabric Capes, Farsight
+  - Enabled fix for MC-22882 - Ctrl+Q won't work on Mac
+- Slightly updated Estonian in MMH
+
+---
+
+- Temporarily removed Animatica
+
 ### 4.0.0-beta.3 (2022-06-20)
 
 * Updated Entity Texture Features, Fabric API, Indium
