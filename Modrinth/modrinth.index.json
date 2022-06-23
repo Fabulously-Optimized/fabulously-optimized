@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-beta.3",
+    "versionId": "4.0.0-beta.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -51,16 +51,16 @@
             "fileSize": 106794
         },
         {
-            "path": "mods/Capes-1.4.2+1.19.jar",
+            "path": "mods/Capes-1.4.3+1.19.jar",
             "hashes": {
-                "sha1": "042f51d7afce35260d123f6c35549f18d7cff6cb",
-                "sha512": "badcd8a02a5b681a575558f5de2e5f0409994222cacd09cc13fdbf1f2ac7ab9eb82890a0b1c5bc912c5e2b1c3d160d7cf73358b7ff5dd5b024f9aaf0fe81a30a"
+                "sha1": "06641fbbc63a94301b089a0bd19a1688ddd8a4ff",
+                "sha512": "9a7beab45fc2756a77c770b6f0d4d5fa220a66821a3bb8e42ff9a150967eaa8fe9463d8776d96fdfc9266b61783be6a5f47c20496efb8dc5ffd3d1461d27dcbf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.4.2+1.19/Capes-1.4.2%2B1.19.jar",
-                "https://github.com/CaelTheColher/Capes/releases/download/1.4.2%2B1.19/Capes-1.4.2%2B1.19.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.4.3+1.19/Capes-1.4.3%2B1.19.jar",
+                "https://github.com/CaelTheColher/Capes/releases/download/1.4.3%2B1.19/Capes-1.4.3%2B1.19.jar"
             ],
-            "fileSize": 85651
+            "fileSize": 86727
         },
         {
             "path": "mods/cem-0.7.1.jar",
@@ -132,16 +132,16 @@
             "fileSize": 3410
         },
         {
-            "path": "mods/debugify-2.1.0-fabric-1.19.jar",
+            "path": "mods/debugify-2.2.0-fabric-1.19.jar",
             "hashes": {
-                "sha1": "0471b1941c7c2113b5bbe263be41348ecb4f8741",
-                "sha512": "6a03c6cc9f7d66cba6edd240d1d9e5b68b1000c254c3f32b6130d3818eb85104cc9ff7c93101be3471fee50ad1f897d114501539b643f5bdd65a537518c5dcec"
+                "sha1": "b45d544fc8e7266d167bf76ae326f22fe79b4d2a",
+                "sha512": "b64274f2db6aa017bb43d776dbf8e7bb465a5704d101ff980de325c742fdc3fbe3e3ea28013f08ff6ba899396659db430c2fb537b55bb8bc71e14038e7c93811"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/2.1.0-fabric/debugify-2.1.0-fabric-1.19.jar",
-                "https://github.com/isXander/Debugify/releases/download/2.1.0/debugify-2.1.0-fabric-1.19.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/2.2.0-fabric/debugify-2.2.0-fabric-1.19.jar",
+                "https://github.com/isXander/Debugify/releases/download/2.2.0/debugify-2.2.0-fabric-1.19.jar"
             ],
-            "fileSize": 315857
+            "fileSize": 319817
         },
         {
             "path": "mods/dynamic-fps-2.2.0.jar",
@@ -156,15 +156,15 @@
             "fileSize": 89446
         },
         {
-            "path": "mods/enhancedblockentities-0.7+1.19.jar",
+            "path": "mods/enhancedblockentities-0.7.1+1.19.jar",
             "hashes": {
-                "sha1": "374a8f0f01f5ba8fefda44888fd7f132e18a39e1",
-                "sha512": "33e345fac3868595c128f6decaafe36474d5243c9915899e5c38baea8096c504f00847a88589bfeb1723c01e6d1e5e59f4d2a74ca1438872685c2eed4398acab"
+                "sha1": "78dd28b7d94ef3883e817a328be9e1d66aedaa24",
+                "sha512": "b1a78f509b8da64012a498618eefdebdf9fb720ce01b1b118084725d9f07f7e577ab416cbe705368e5255ef0db0d955f4766dd25e167e9fdbda8a6d36ee34ce0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7+1.19/enhancedblockentities-0.7%2B1.19.jar"
+                "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1+1.19/enhancedblockentities-0.7.1%2B1.19.jar"
             ],
-            "fileSize": 448396
+            "fileSize": 448841
         },
         {
             "path": "mods/entity-texture-features-3.1.4-mc1.19.jar",
@@ -195,7 +195,8 @@
                 "sha512": "716a403ef3eca60956414fc3d89f4bba07c1270992d53bcd345a881d0904c07ac5b9959b631155210cf2fd7d1e552e074a9041ac788ac822e9697952758b26a0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.1+1.19/fabric-api-0.56.1%2B1.19.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.1+1.19/fabric-api-0.56.1%2B1.19.jar",
+                "https://github.com/FabricMC/fabric/releases/download/0.56.1%2B1.19/fabric-api-0.56.1%2B1.19.jar"
             ],
             "fileSize": 1486091
         },
@@ -240,7 +241,8 @@
                 "sha512": "7c7c8ee2cb9b65beb6eda78f181831ac7620450651d60e019430bbbc11094dfcd61199d6506be117cf619543e67b6d8f4437805ef20392fced1efe60569d3778"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.19/indium-1.0.6%2Bmc1.19.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.19/indium-1.0.6%2Bmc1.19.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.6%2Bmc1.19/indium-1.0.6%2Bmc1.19.jar"
             ],
             "fileSize": 118075
         },
@@ -372,6 +374,17 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19-1.1.0/morechathistory-1.19-1.1.0.jar"
             ],
             "fileSize": 11105
+        },
+        {
+            "path": "mods/NoChatReports-FABRIC-1.19-v1.2.0.jar",
+            "hashes": {
+                "sha1": "06c35f22a82b428ea454b84319ab400639fbd25f",
+                "sha512": "3fa9b3afa3c90f40bd62edf5089071730d35a98290151879fc6c8b9bceeb4c99a6eb80f3c3befb2b7c5e83f5ef65c43aeee7169b4f92c00f95a6e407188fdd38"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.0/NoChatReports-FABRIC-1.19-v1.2.0.jar"
+            ],
+            "fileSize": 23552
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
