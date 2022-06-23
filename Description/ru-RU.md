@@ -2,7 +2,7 @@
 
 Модпак для игры Minecraft основанный на Fabric, целящий в оптимизацию графики и производительности. 
 
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![Русский обзор](https://img.youtube.com/vi/3Oylcgt1nyw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
 
 ### Лучше, чем OptiFine?
 
