@@ -64,25 +64,7 @@ We have a growing community of friendly members who like to discuss the pack and
 > 
 > **A**: [Come and chat with us on Discord!][10]
 
-<details>
-   <summary>Disclaimers</summary>
-   
-* The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own. 
-   
-    * The command */ghost* (provided by [AntiGhost][15]) may be disallowed by the rules on some servers [as it sends a slight amount of packets][16], but it is safe if you don't spam it, use only when you are stuck in blocks.
-* This modpack is using [Starlight][17] for chunk optimization and [due to the way it works][18], disabling (or replacing) the mod will make your existing worlds initially load a bit slower. This is harmless, it simply means the game is calculating the lit up areas again with a different algorithm.
-* This modpack disables the [third-party server disclaimer][19], so if you are using the multiplayer function, you also agree to the following: 
-    > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
-
-* [The "social interactions" screen][20] can be used by pressing the key `P` in-game or the `Social Interactions` button in the pause menu (coming soon), where players can ignore others' chat messages or block them with the Microsoft account entirely. However, chat reporting is disabled due to player safety and privacy concerns [(technical explanation)][21]. 
-   * Chat reporting can be re-enabled by [disabling the mod][22] called [No Chat Reports][23].
-   * Fabulously Optimized continues to encourage players to follow the rules of the server they play in, [Minecraft Community Standards][24] and all local laws. Any misconduct should be reported to the server administration and/or local police where necessary.
-   
-* Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics][25], while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
-   
-* Yes, you can fork/remix this pack [according to the license][26]. You cannot, however, use the "Fabulously Optimized" name or logo.
-   
-</details>
+### By using this modpack, [you agree to the following disclaimers][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
@@ -98,16 +80,4 @@ We have a growing community of friendly members who like to discuss the pack and
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-
-[15]: https://www.curseforge.com/minecraft/mc-mods/antighost
-[16]: https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103
-[17]: https://www.curseforge.com/minecraft/mc-mods/starlight
-[18]: https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format
-[19]: https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png
-[20]: https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage
-[21]: https://youtu.be/hYAUEMlugyw?t=43
-[22]: https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods
-[23]: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
-[24]: https://www.minecraft.net/en-us/community-standards
-[25]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
-[26]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md
+[15]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/disclaimers/README.md#disclaimers
