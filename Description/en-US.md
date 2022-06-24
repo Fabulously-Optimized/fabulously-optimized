@@ -74,9 +74,13 @@ We have a growing community of friendly members who like to discuss the pack and
 * This modpack disables the [third-party server disclaimer][19], so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
 
-    * You must also be aware that you can use [the "social interactions" screen][20] by pressing the key `P` in-game.
-
-* Yes, you can fork/remix this pack [according to the license][21]. You cannot, however, use the "Fabulously Optimized" name or logo.
+* [The "social interactions" screen][20] can be used by pressing the key `P` in-game or the `Social Interactions` button in the pause menu, where players can ignore others' chat messages. However, chat reporting is disabled due to player safety and privacy concerns [(technical explanation)][21]. 
+   * Chat reporting can be re-enabled by [disabling the mod][22] called [No Chat Reports][23].
+   * Fabulously Optimized continues to encourage players to follow the rules of the server they play in, [Minecraft Community Standards][24] and all local laws. Any misconduct should be reported to the server administration and/or local police where necessary.
+   
+* Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics][25], while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
+   
+* Yes, you can fork/remix this pack [according to the license][26]. You cannot, however, use the "Fabulously Optimized" name or logo.
    
 </details>
 
@@ -101,4 +105,9 @@ We have a growing community of friendly members who like to discuss the pack and
 [18]: https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format
 [19]: https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png
 [20]: https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage
-[21]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md
+[21]: https://youtu.be/hYAUEMlugyw?t=43
+[22]: https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods
+[23]: https://www.curseforge.com/minecraft/mc-mods/no-chat-reports
+[24]: https://www.minecraft.net/en-us/community-standards
+[25]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
+[26]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md
