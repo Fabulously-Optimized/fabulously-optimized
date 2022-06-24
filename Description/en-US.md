@@ -74,7 +74,7 @@ We have a growing community of friendly members who like to discuss the pack and
 * This modpack disables the [third-party server disclaimer][19], so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
 
-* [The "social interactions" screen][20] can be used by pressing the key `P` in-game or the `Social Interactions` button in the pause menu (coming soon), where players can ignore others' chat messages. However, chat reporting is disabled due to player safety and privacy concerns [(technical explanation)][21]. 
+* [The "social interactions" screen][20] can be used by pressing the key `P` in-game or the `Social Interactions` button in the pause menu (coming soon), where players can ignore others' chat messages or block them with the Microsoft account entirely. However, chat reporting is disabled due to player safety and privacy concerns [(technical explanation)][21]. 
    * Chat reporting can be re-enabled by [disabling the mod][22] called [No Chat Reports][23].
    * Fabulously Optimized continues to encourage players to follow the rules of the server they play in, [Minecraft Community Standards][24] and all local laws. Any misconduct should be reported to the server administration and/or local police where necessary.
    
