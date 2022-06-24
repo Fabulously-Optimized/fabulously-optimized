@@ -60,21 +60,7 @@ Fabulously Optimized имеет [открытые исходники][8], как
 > 
 > **Ответ**: [Тогда добро пожаловать на наш дискорд!][10]
 
-<details>
-   <summary>Дисклеймеры</summary>
-   
-* Этот модпак должен соответствовать с правилами большинства сторонних серверов, но на вашей совести удостоверится в том разрешён он на вашем сервере или нет. Устанавливая этот модпак вы соглашаетесь с тем что его автор, разработчики модов, и Mojang не дают никаких гарантий на использование этого модпака, всё что вы с ним делаете, вы делаете на свой страх и риск. 
-   
-    * Команда */ghost* (представленная модом [AntiGhost][15]) может быть запрещена на некоторых серверах [так-как она отправляет достаточно большое количество пакетов][16], но это не должно быть проблемой пока вы ей не спамите, используйте её только если застряли в блоках.
-* Этот модпак использует [Starlight][17] для оптимизации чанков, и [в соответствии с тем как он работает][18], отключение (или замена) мода, приведёт к тому что ваши существующие миры будут загружаться немного медленнее в первый раз. Это безвредно, и значит лишь то что игре придётся заново просчитывать освещённые участки, но с другим алгоритмом. 
-* Этот модпак отключает [предупреждение о сторонних серверах][19], поэтому если вы используете сетевую игру, вы так-же соглашаетесь с данным заявлением: 
-    > Предупреждение. Сетевая игра, предложенная сторонними серверами, не является собственностью, не управляется и не модерируется Mojang Studios. Во время сетевой игры, вы можете столкнуться с немодерируемыми сообщениями в чате или иными видами пользовательского контента, который может подходить не всем игрокам.
-
-    * Вы также должны помнить о том что вы можете использовать [экран "социальных взаимодействий"][20] по нажатию на кнопку `З` в игре.
-
-* Да, вы можете форкануть/пересобрать модпак [в соответствии с лицензией][21]. Однако, вы не можете использовать название "Fabulously Optimized" или логотип.
-   
-</details>
+### Используя этот модпак, [вы соглашаетесь с условиями экспулатации][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
@@ -90,11 +76,4 @@ Fabulously Optimized имеет [открытые исходники][8], как
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-
-[15]: https://www.curseforge.com/minecraft/mc-mods/antighost
-[16]: https://www.curseforge.com/minecraft/mc-mods/antighost?comment=103
-[17]: https://www.curseforge.com/minecraft/mc-mods/starlight
-[18]: https://github.com/PaperMC/Starlight/blob/fabric/TECHNICAL_DETAILS.md#chunk-save-format
-[19]: https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png
-[20]: https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage
-[21]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md
+[15]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/disclaimers/README.md#disclaimers
