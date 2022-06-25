@@ -76,4 +76,4 @@ Fabulously Optimized имеет [открытые исходники][8], как
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[15]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/disclaimers/README.md#disclaimers
+[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
