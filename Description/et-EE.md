@@ -48,7 +48,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > **V**: [Postita see meie GitHubi.][8]
 
 
-> **k**: Mis modid sellel on? 
+> **K**: Mis modid sellel on? 
 > 
 > **V**: Klõpsa mistahes versiooni ja keri alla [või vaata võrdlustabelit][12].
 
