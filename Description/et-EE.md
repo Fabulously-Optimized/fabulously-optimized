@@ -6,7 +6,7 @@ Fabricul põhinev modipakk Minecraftile, mis keskendub jõudluse ning graafika o
 
 ### Jõudlus
 
-Fabulously Optimized on OptiFine'ist üldjuhul kiirem, kuna sisaldab [modernseid jõudlusmode][1] nagu Sodium ja Lithium.
+Fabulously Optimized on üldjuhul OptiFine'ist kiirem, kuna sisaldab [modernseid jõudlusmode][1] nagu Sodium ja Lithium.
 
 ### OptiFine'i-võrdsus
 
@@ -16,25 +16,25 @@ Fabulously Optimized [toetab peaaegu kõiki OptiFine'i funktsioone][2], sealhulg
 
 Fabulously Optimized [sisaldab pisiparandusi][4], mis ei kaota puhta Minecrafti tunnetust, sealhulgas pikendatud vestlusajalugu, aknal põhinev täisekraanirežiim ning veaparandused enim nähtud vigadele.
 
-### Kaasagne
+### Kaasaegne
 
 Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
 
 ### Töötab kõikjal
 
-Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 4 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7].
+Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 4 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
 
 ### Avatud arendus
 
-Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Seda arendatakse kogukonna ideedega ning modi arendajate koostöös, loomaks parema kasutuskogemuse kõigile.
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideededel, loomaks parema kasutuskogemuse kõigile.
 
 ### Põhineb Fabricul
 
-Võrreldes Forge'iga, käivitub ja uueneb Fabric kiiresti, ei sisalda suuri rakendusliideseid aga omab siiski head modide toetust. [(Jah, Quilt on kaalumisel.)][9]
+Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust. [(Jah, Quilt on kaalumisel.)][9]
 
 ### Abivalmis kogukond
 
-Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad pakki arutada ning üksteist aidata. [Liitu meiega!][10]
+Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada ning üksteist aidata. [Liitu meiega!][10]
 
 ## KKK
 
@@ -55,7 +55,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad pakki arutada ning
 
 > **K**: Kas ma vajan seda modipakki ka serveris?
 > 
-> **V**: Ei, see töötab igas serveris, mis lubavad vanillikliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
+> **V**: Ei, see töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
 > 
 > [![](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
