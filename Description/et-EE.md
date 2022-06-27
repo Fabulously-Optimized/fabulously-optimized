@@ -1,4 +1,4 @@
-# Eesti keel (Eesti)
+# Eesti keel
 
 Fabricul põhinev modipakk Minecraftile, mis keskendub jõudluse ning graafika optimeerimisele. 
 
@@ -6,7 +6,7 @@ Fabricul põhinev modipakk Minecraftile, mis keskendub jõudluse ning graafika o
 
 ### Jõudlus
 
-Fabulously Optimized on tavaliselt OptiFine'ist kiirem, kuna sisaldab [modernseid jõudlusmode][1], nagu Sodium ja Lithium.
+Fabulously Optimized on OptiFine'ist üldjuhul kiirem, kuna sisaldab [modernseid jõudlusmode][1] nagu Sodium ja Lithium.
 
 ### OptiFine'i-võrdsus
 
@@ -16,55 +16,55 @@ Fabulously Optimized [toetab peaaegu kõiki OptiFine'i funktsioone][2], sealhulg
 
 Fabulously Optimized [sisaldab pisiparandusi][4], mis ei kaota puhta Minecrafti tunnetust, sealhulgas pikendatud vestlusajalugu, aknal põhinev täisekraanirežiim ning veaparandused enim nähtud vigadele.
 
-### Up to date
+### Kaasagne
 
-Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
+Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
 
-### Works everywhere
+### Töötab kõikjal
 
-Fabulously Optimized is designed to work on any world or server, [runs on 4 launchers, is hosted on 3 sites][6] and [and supports many languages][7].
+Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 4 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7].
 
-### Open development
+### Avatud arendus
 
-Fabulously Optimized [is open-source][8] and so are most of its mods. It is developed with ideas from the community, collaborating with mod developers to create a better user experience for everyone.
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Seda arendatakse kogukonna ideedega ning modi arendajate koostöös, loomaks parema kasutuskogemuse kõigile.
 
-### Built on Fabric
+### Põhineb Fabricul
 
-Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support. [(Yes, Quilt is being considered.)][9]
+Võrreldes Forge'iga, käivitub ja uueneb Fabric kiiresti, ei sisalda suuri rakendusliideseid aga omab siiski head modide toetust. [(Jah, Quilt on kaalumisel.)][9]
 
-### Helpful community
+### Abivalmis kogukond
 
-We have a growing community of friendly members who like to discuss the pack and help each other. [Join us!][10]
+Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad pakki arutada ning üksteist aidata. [Liitu meiega!][10]
 
-## FAQ
+## KKK
 
-> **Q**: How do I install? Update? Add mods? Something else?
+> **K**: Kuidas paigaldada? Uuendada? Mode lisada? Midagi muud?
 > 
-> **A**: [The answers are in our wiki.][11]
+> **V**: [Vastused on meie vikis.](https://fabulously-optimized.gitbook.io/modpack/et-ee)
 
 
-> **Q**: Something broke! You should add something!
+> **K**: Midagi läks katki! Peaksid midagi lisama!
 > 
-> **A**: [Post it to our GitHub.][8]
+> **V**: [Postita see meie GitHubi.][8]
 
 
-> **Q**: What mods does it have? 
+> **k**: Mis modid sellel on? 
 > 
-> **A**: Click any version and scroll down [or see the comparison table][12].
+> **V**: Klõpsa mistahes versiooni ja keri alla [või vaata võrdlustabelit][12].
 
 
-> **Q**: Do I need the modpack on the server?
+> **K**: Kas ma vajan seda modipakki ka serveris?
 > 
-> **A**: No, this works on all servers that allow vanilla. [Detailed answer and server tips are here.][13] 
+> **V**: Ei, see töötab igas serveris, mis lubavad vanillikliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
+> [![](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
 
-> **Q**: I have more questions!
+> **K**: Mul on veel küsimusi!
 > 
-> **A**: [Come and chat with us on Discord!][10]
+> **V**: [Tule ja vestle meiega Discordis!][10]
 
-### By using this modpack, [you agree to the following disclaimers][15].
+### Seda modipakki kasutades [nõustud järgnevate lahtiütlustega][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
