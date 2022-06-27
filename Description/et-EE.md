@@ -26,7 +26,7 @@ Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saa
 
 ### Avatud arendus
 
-Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideededel, loomaks parema kasutuskogemuse kõigile.
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideedel, loomaks parema kasutuskogemuse kõigile.
 
 ### Põhineb Fabricul
 
