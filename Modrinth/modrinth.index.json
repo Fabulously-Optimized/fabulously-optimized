@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-beta.4",
+    "versionId": "4.0.0-beta.5",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -15,6 +15,17 @@
                 "https://cdn.modrinth.com/data/G1epq3jN/versions/1.19-fabric0.53.3-1.3.1/advancementinfo-1.19-fabric0.53.3-1.3.1.jar"
             ],
             "fileSize": 1442872
+        },
+        {
+            "path": "mods/animatica-0.5+1.19.jar",
+            "hashes": {
+                "sha1": "d58560b9c226df726bdddc7ab25748a158a0cb3d",
+                "sha512": "c445bc7cb4b235af85193dba03c13142face27b5975558a8a39f81b1f2e98808a3ec528f4113cad076586685adbb2819b42cac0078e426ad07761b81ac76dc53"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5+1.19/animatica-0.5%2B1.19.jar"
+            ],
+            "fileSize": 74214
         },
         {
             "path": "mods/antighost-1.19-fabric0.55.3-1.1.5.jar",
@@ -51,16 +62,16 @@
             "fileSize": 106794
         },
         {
-            "path": "mods/Capes-1.4.3+1.19.jar",
+            "path": "mods/Capes-1.4.4+1.19.jar",
             "hashes": {
-                "sha1": "06641fbbc63a94301b089a0bd19a1688ddd8a4ff",
-                "sha512": "9a7beab45fc2756a77c770b6f0d4d5fa220a66821a3bb8e42ff9a150967eaa8fe9463d8776d96fdfc9266b61783be6a5f47c20496efb8dc5ffd3d1461d27dcbf"
+                "sha1": "83e9829da639037c6cd2375669b4705c5ff7d871",
+                "sha512": "7047c5090875756ca18aa5a47e5197cb109e429b0c333bcb647d4b3ef58a7a8590af188513d5820b7009bc01cd2d905e0915675fd2fa5bf54f4e2462ddfdca29"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.4.3+1.19/Capes-1.4.3%2B1.19.jar",
-                "https://github.com/CaelTheColher/Capes/releases/download/1.4.3%2B1.19/Capes-1.4.3%2B1.19.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/1.4.4+1.19/Capes-1.4.4%2B1.19.jar",
+                "https://github.com/CaelTheColher/Capes/releases/download/1.4.4%2B1.19/Capes-1.4.4%2B1.19.jar"
             ],
-            "fileSize": 86727
+            "fileSize": 86808
         },
         {
             "path": "mods/cem-0.7.1.jar",
@@ -189,16 +200,16 @@
             "fileSize": 75567
         },
         {
-            "path": "mods/fabric-api-0.56.1+1.19.jar",
+            "path": "mods/fabric-api-0.56.3+1.19.jar",
             "hashes": {
-                "sha1": "2315995af8670f7fdb8e66132de9b1aa2d3f146e",
-                "sha512": "716a403ef3eca60956414fc3d89f4bba07c1270992d53bcd345a881d0904c07ac5b9959b631155210cf2fd7d1e552e074a9041ac788ac822e9697952758b26a0"
+                "sha1": "aae0aee8ac19191abc7071468ca19d2e10344b3d",
+                "sha512": "5647a3787964e6228440189c7818d2f0596f99bcc7c673ce1283ed4bb2dcaac707f769bab6875543ab3d059b5d7e4aa88978a688ce08e801902806e92ace7a1d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.1+1.19/fabric-api-0.56.1%2B1.19.jar",
-                "https://github.com/FabricMC/fabric/releases/download/0.56.1%2B1.19/fabric-api-0.56.1%2B1.19.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.56.3+1.19/fabric-api-0.56.3%2B1.19.jar",
+                "https://github.com/FabricMC/fabric/releases/download/0.56.3%2B1.19/fabric-api-0.56.3%2B1.19.jar"
             ],
-            "fileSize": 1486091
+            "fileSize": 1486230
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.0+kotlin.1.7.0.jar",
@@ -329,16 +340,16 @@
             "fileSize": 475670
         },
         {
-            "path": "mods/main-menu-credits-1.0.3.jar",
+            "path": "mods/main-menu-credits-1.1.1.jar",
             "hashes": {
-                "sha1": "f0c9c5963864abfc4acc68245699894fd5f7171c",
-                "sha512": "e5acbe0f73f22bfd7ba5a3c697f2ce1e1ca007968e384a9025787b865a85e2fa9ca77f6dea96f91d7b0f60f29781fbb5fda8aaedc9d7d54df7f1dde9231dd364"
+                "sha1": "7df757c8d19a13da60c7b85f13870965d61c71d8",
+                "sha512": "20c4455b742e2bff30e043c810483e90b95aa01de6f5223ca12a895b296cc209974c36fb95ae2a0b9f0a9c912ed345f535643d2f19f51c23b3861764f5bd02a4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qJDfP7WN/versions/1.0.3/main-menu-credits-1.0.3.jar",
-                "https://github.com/isXander/main-menu-credits/releases/download/1.0.3/main-menu-credits-1.0.3.jar"
+                "https://cdn.modrinth.com/data/qJDfP7WN/versions/1.1.1/main-menu-credits-1.1.1.jar",
+                "https://github.com/isXander/main-menu-credits/releases/download/1.1.1/main-menu-credits-1.1.1.jar"
             ],
-            "fileSize": 13870
+            "fileSize": 14190
         },
         {
             "path": "mods/memoryleakfix-1.19-0.4.1.jar",
@@ -376,15 +387,15 @@
             "fileSize": 11105
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19-v1.2.0.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19-v1.2.1.jar",
             "hashes": {
-                "sha1": "06c35f22a82b428ea454b84319ab400639fbd25f",
-                "sha512": "3fa9b3afa3c90f40bd62edf5089071730d35a98290151879fc6c8b9bceeb4c99a6eb80f3c3befb2b7c5e83f5ef65c43aeee7169b4f92c00f95a6e407188fdd38"
+                "sha1": "1a08e9f9b5d5fb8d186520f71f59973d5f14cbf5",
+                "sha512": "b29a7b0a4bc47a78f4d1f71559296df09b052a0eadc62d5a73f142ce611d6373b74c45e812eb3835dec35c14ae67871ecb2c68df548e6b9d985638f447f93605"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.0/NoChatReports-FABRIC-1.19-v1.2.0.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.1/NoChatReports-FABRIC-1.19-v1.2.1.jar"
             ],
-            "fileSize": 23552
+            "fileSize": 25634
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -502,16 +513,16 @@
             "fileSize": 19206
         },
         {
-            "path": "mods/Zoomify-1.7.0.jar",
+            "path": "mods/Zoomify-1.7.1.jar",
             "hashes": {
-                "sha1": "09a943bb5b302d71ac78502e3fcea59166cf4697",
-                "sha512": "377c457945b13f75587f818198e1ff8a3536b0b06509513a8bc7d3a442888b2f64d8a6c943c486e1d1db68cf1d2ad98505825c5aa1fcedc7424b49426c7170b9"
+                "sha1": "0807fefc9f576b61318750ee2d328e35cb9c3ba1",
+                "sha512": "45b460ae9fe3e980f0fc3fb1581354a7def6bde6e0ffc4c354b5c803e688ad1f216e12adeb4651322d93531af1f99fb3791b8636be42fdcb031869ec49d6428e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.7.0/Zoomify-1.7.0.jar",
-                "https://github.com/isXander/Zoomify/releases/download/1.7.0/Zoomify-1.7.0.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.7.1/Zoomify-1.7.1.jar",
+                "https://github.com/isXander/Zoomify/releases/download/1.7.1/Zoomify-1.7.1.jar"
             ],
-            "fileSize": 304483
+            "fileSize": 294379
         }
     ],
     "dependencies": {

@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.5 (2022-06-26)
+
+- Readded Animatica
+- Updated Fabric API, Fabric Capes, Main Menu Credits, No Chat Reports, Zoomify
+  - Zoomify config got removed as FO defaults are that mod's defaults now
+  - AntiGhost is now described in the pause menu
+- Updated Russian in MMH by RozeFound
+
 ### 4.0.0-beta.4 (2022-06-22)
 
 - Added No Chat Reports - protects you and others from some account bans
