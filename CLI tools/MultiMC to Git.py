@@ -1,4 +1,4 @@
-import os, shutil, glob, re
+import os, shutil, glob, re, zipfile
 from distutils import dir_util
 
 user_path = os.path.expanduser("~")
