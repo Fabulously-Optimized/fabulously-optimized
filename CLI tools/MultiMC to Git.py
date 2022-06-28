@@ -19,7 +19,6 @@ def copy_to_archive(from_path, to_path, archive_path):
     files = []
 
     with zipfile.ZipFile(archive_path) as archive:
-
         for zipinfo in archive.infolist():
             if zipinfo.filename != to_path:
                 files.append((zipinfo.filename, archive.read(zipinfo.filename)))
