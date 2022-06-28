@@ -31,11 +31,15 @@ def copy_to_archive(from_path, to_path, archive_path):
 
 # MultiMC to Git
 
-file = glob.glob("Desktop/Fabulously Optimized-*.zip", root_dir=user_path)[0]
-version = "-".join(file.replace(".zip", "").split("-")[1:])
+version = "0.0.0"
+pattern = re.compile(r"\d+\.\d+\.\d+-?\w*\.?\d*")
+
+with open(mmc_path + "instance.cfg") as file:
+    if match := pattern.search(file.read()):
+        version = match.group()
 
 with open(git_path + "/MultiMC/Fabulously Optimized x.y.z/instance.cfg", "r+") as file:
-    data = re.sub(r"\d.\d.\d-?\w*.?\d*", version, file.read())
+    data = pattern.sub(version, file.read())
     file.seek(0); file.truncate(); file.write(data)
 
 copy_to_archive(git_path + "/MultiMC/Fabulously Optimized x.y.z/instance.cfg", f"Fabulously Optimized {version}/instance.cfg", output_path + f"Fabulously Optimized {version}.zip")
