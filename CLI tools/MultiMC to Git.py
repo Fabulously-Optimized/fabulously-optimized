@@ -4,7 +4,7 @@ from distutils import dir_util
 user_path = os.path.expanduser("~")
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-output_path = user_path + "/Desktop"
+output_path = user_path + "/Desktop/"
 
 # Functions
 
@@ -38,6 +38,6 @@ with open(git_path + "/MultiMC/Fabulously Optimized x.y.z/instance.cfg", "r+") a
     data = re.sub(r"\d.\d.\d-?\w*.?\d*", version, file.read())
     file.seek(0); file.truncate(); file.write(data)
 
-copy_to_archive(git_path + "/MultiMC/Fabulously Optimized x.y.z/instance.cfg", f"Fabulously Optimized {version}/instance.cfg", output_path + f"/Fabulously Optimized {version}.zip")
+copy_to_archive(git_path + "/MultiMC/Fabulously Optimized x.y.z/instance.cfg", f"Fabulously Optimized {version}/instance.cfg", output_path + f"Fabulously Optimized {version}.zip")
 copy_file(mmc_path + "mmc-pack.json", git_path + "MultiMC/Fabulously Optimized x.y.z/mmc-pack.json", "MultiMC mmc-pack.json", "Git")
 copy_file(mmc_path + "pack.png", git_path + "MultiMC/Fabulously Optimized x.y.z/pack.png", "MultiMC pack.png", "Git")
