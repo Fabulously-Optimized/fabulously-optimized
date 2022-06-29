@@ -1,28 +1,29 @@
-# Ελληνικά (Ελλάδος)
+# Ελληνικά (Ελλάδας)
 
 Ένα πακέτο τροποποιήσεων βασισμένο στο Fabric, το οποίο στοχεύει σε βελτιώσεις απόδοσης και γραφικών.
 
+Αναθεώριση του πακέτου στα Αγγλικά:
 [![Παρούσα αναθεώριση](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Απόδοση
 
 Το Fabulously Optimized είναι συνήθως πιο γρήγορο απ' το OptiFine λόγω του ότι περιέχει [σύγχρονες τροποποιήσεις απόδοσης][1], όπως το Sodium και το Lithium.
 
-### OptiFine parity
+### Ισότητα με το OptiFine
 
-Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [Get a free cape!][3]
+Το Fabulously Optimized [υποστηρίζει σχεδόν όλα τα χαρακτηριστικά του OptiFine][2], συμπεριλαμβάνοντας τις σκιάσεις (shaders), τα ενωμένα είδη και το ζουμ. [Απόκτησε μία δωρεάν κάπα!][3]
 
-### Minor tweaks
+### Μικρές βελτιώσεις
 
-Fabulously Optimized [includes minor tweaks][4] that don't break the vanilla feel, such as increased chat history, windowed full screen mode and bugfixes to most common issues.
+Το Fabulously Optimized [περιέχει μικρές βελτιώσεις][4], οι οποίες δεν χαλάνε την vanilla αίσθηση του παιχνιδιού, όπως αυξημένο ιστορικό συνομιλίας, πλήρης οθόνη σε μορφή παραθύρου και διορθώσεις στα πιο συνηθισμένα προβλήματα.
 
 ### Up to date
 
 Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
 
-### Works everywhere
+### Λειτουργεί παντού
 
-Fabulously Optimized is designed to work on any world or server, [runs on 4 launchers, is hosted on 3 sites][6] and [supports many languages][7].
+Το Fabulously Optimized είναι σχεδιασμένο ώστε να λειτουργεί στον οποιδήποτε κόσμο ή διακομιστή, [τρέχει σε τέσσερις εκκινητές, βρίσκετε σε τρεις ιστοσελίδες][6] και [υποστηρίζει πολλές γλώσσες][7].
 
 ### Open development
 
