@@ -4,10 +4,9 @@
 * [TheYTG123](https://www.curseforge.com/members/theytg123/projects) on CurseForge who helped me with Jumploader to release the 1.16.3 version a little faster
 * [wafflecoffee](https://github.com/wafflecoffee) who suggested and helped with the Modrinth format and now moderates my Discord server
 * [RozeFound](https://github.com/RozeFound) for helping with Python scripts and providing lots of constructive feedback for the pack
-* Discord user Ultrasonic for helping with Python scripts
-* [TheMadHau5](https://github.com/themadhau5), [redbrain](https://github.com/redbrain), [Kichura](https://github.com/Kichura) for the [fancy mod table](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) 
-* [RaptaG](https://github.com/RaptaG) for the [Packwiz mod ignoring tutorial](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Auto-updating-MultiMC-pack#can-i-ignore-some-of-the-mods)
-* People creating pull requests for [the main project](https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors) and [the wiki](https://github.com/Fabulously-Optimized/wiki/graphs/contributors)
+* [TheMadHau5](https://github.com/themadhau5), [redbrain](https://github.com/redbrain), [Kichura](https://github.com/Kichura) for the [fancy mod table](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md) 
+* [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) for the [Packwiz mod ignoring tutorials](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update#can-i-ignore-some-of-the-mods)
+* Other people creating pull requests for [the main project](https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors) and [the wiki](https://github.com/Fabulously-Optimized/wiki/graphs/contributors)
 * [People who have created videos about the modpack](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 * Everyone who has suggested ideas and reported bugs!
 
