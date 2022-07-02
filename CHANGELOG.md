@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.6 (2022-07-02)
+
+As you might know, 1.19.1 was postponed with the release date of "soon". This affects FO as well because there are bugs that need fixing, I can't really consider 1.19 "stable" yet. 
+In the meanwhile, I've added a treat for the controller/touchscreen fans: MidnightControls. Enjoy testing!
+
+- Added MidnightControls - controller and touchscreen support!
+- Updated CIT Resewn, Fabric API, Fabric Language Kotlin, Item Model Fix, No Chat Reports
+- Removed LambdaBetterGrass from incompatible resource packs in options.txt as it is no longer incompatible
+
 ### 4.0.0-beta.5 (2022-06-26)
 
 - Readded Animatica
