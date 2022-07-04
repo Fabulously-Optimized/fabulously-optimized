@@ -1,5 +1,5 @@
 ---
-name: Z Meta issue
+name: ZMeta issue
 about: Use this issue type only when the owner told you to do that.
 labels: meta
 ---
