@@ -5,8 +5,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 4.0.0-beta.7 (2022-07-05)
 
-* Updated Greek and Portuguese in MMH by RaptaG and PaperKing13isPro
-* Enabled Bedrock resource pack for MidnightControls
+- Updated Greek and Portuguese in MMH by RaptaG and PaperKing13isPro
+- Enabled Bedrock resource pack for MidnightControls
 
 ### 4.0.0-beta.6 (2022-07-02)
 
@@ -155,6 +155,16 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.11.0 (2022-07-05)
+
+- Updated Animatica, CIT Resewn, Enhanced Block Entities, Fabric API, Fabric Language Kotlin, Main Menu Credits, Mod Menu
+- Added a workaround resource pack for monochrome splash screen (fixes PuzzleMC/Puzzle#34)
+- Backported some 4.0.0-betas changes:
+  - MMH updates
+  - AntiGhost is now described in the pause menu
+  - Removed LambdaBetterGrass from incompatible resource packs
+- Enforced Fabric Loader 0.14.8
 
 ### 3.10.1 (2022-06-20)
 
