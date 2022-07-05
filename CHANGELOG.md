@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.7 (2022-07-05)
+
+* Updated Greek and Portuguese in MMH by RaptaG and PaperKing13isPro
+* Enabled Bedrock resource pack for MidnightControls
+
 ### 4.0.0-beta.6 (2022-07-02)
 
 As you might know, 1.19.1 was postponed with the release date of "soon". This affects FO as well because there are bugs that need fixing, I can't really consider 1.19 "stable" yet. 
