@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0.beta.8 (2022-07-09)
+
+- Updated Borderless Mining, Lithium, MidnightControls, Puzzle
+  - Lithium fixed a critical portal linking issue, others have bugfixes as well
+- Updated Portuguese in MMH by PaperKing13isPro
+- Modrinth version no longer includes JARs, only download links
+  - It means the Modrinth version is becoming more sustainable as mods are cross-posting to it :)
+
 ### 4.0.0-beta.7 (2022-07-05)
 
 - Updated Greek and Portuguese in MMH by RaptaG and PaperKing13isPro
