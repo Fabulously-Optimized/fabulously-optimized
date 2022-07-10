@@ -82,7 +82,7 @@ By using this modpack, you agree to the following:
 <details>
 <summary>1.19.1 disclaimers - do not apply yet</summary>
 
-However, chat reporting is disabled due to player security and privacy concerns ([simple explanation](https://youtu.be/rdoFUhd0EkI)/[timeline of events](https://youtu.be/kEfyaAq90kg)/[technical explanation](https://youtu.be/hYAUEMlugyw?t=43)). 
+However, chat reporting is disabled due to player security and privacy concerns ([simple explanation](https://youtu.be/rdoFUhd0EkI) / [timeline of events](https://youtu.be/kEfyaAq90kg) / [technical explanation](https://youtu.be/hYAUEMlugyw?t=43)). 
    * Chat reporting can be re-enabled by [disabling the mod](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
    * Fabulously Optimized continues to encourage players to follow the rules of the server they play in, [Minecraft Community Standards](https://www.minecraft.net/en-us/community-standards) and all local laws. Any misconduct should be reported to the server administration and/or local police where necessary.
    * If you've gotten banned already, [see "How to submit a case review" here to appeal](https://www.minecraft.net/en-us/community-standards#main-content).
