@@ -84,7 +84,10 @@ By using this modpack, you agree to the following:
 
 However, chat reporting is disabled due to player security and privacy concerns ([simple explanation](https://youtu.be/rdoFUhd0EkI) / [timeline of events](https://youtu.be/kEfyaAq90kg) / [technical explanation](https://youtu.be/hYAUEMlugyw?t=43)). 
    * Chat reporting can be re-enabled by [disabling the mod](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
-   * Fabulously Optimized continues to encourage players to follow the rules of the server they play in, [Minecraft Community Standards](https://www.minecraft.net/en-us/community-standards) and all local laws. Any misconduct should be reported to the server administration and/or local police where necessary.
+   * Fabulously Optimized continues to encourage players to follow the rules of the server they play in, [Minecraft Community Standards](https://www.minecraft.net/en-us/community-standards) and all local laws. 
+     * If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
+     * If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
+     * If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
    * If you've gotten banned already, [see "How to submit a case review" here to appeal](https://www.minecraft.net/en-us/community-standards#main-content).
    
 </details>
