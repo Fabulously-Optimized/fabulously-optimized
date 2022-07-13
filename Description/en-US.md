@@ -55,7 +55,7 @@ We have a growing community of friendly members who like to discuss the pack and
 
 > **Q**: Do I need the modpack on the server?
 > 
-> **A**: No, this works on all servers that allow vanilla. [Detailed answer and server tips are here.][13] 
+> **A**: No, this works on all servers that allow vanilla clients. [Detailed answer and server tips are here.][13] 
 > 
 > [![](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
@@ -80,4 +80,4 @@ We have a growing community of friendly members who like to discuss the pack and
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[15]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/disclaimers/README.md#disclaimers
+[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers

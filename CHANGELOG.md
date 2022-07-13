@@ -3,6 +3,36 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0.beta.8 (2022-07-09)
+
+- Updated Borderless Mining, Lithium, MidnightControls, Puzzle
+  - Lithium fixed a critical portal linking issue, others have bugfixes as well
+- Updated Portuguese in MMH by PaperKing13isPro
+- Modrinth version no longer includes JARs, only download links
+  - It means the Modrinth version is becoming more sustainable as mods are cross-posting to it :)
+
+### 4.0.0-beta.7 (2022-07-05)
+
+- Updated Greek and Portuguese in MMH by RaptaG and PaperKing13isPro
+- Enabled Bedrock resource pack for MidnightControls
+
+### 4.0.0-beta.6 (2022-07-02)
+
+As you might know, 1.19.1 was postponed with the release date of "soon". This affects FO as well because there are bugs that need fixing, I can't really consider 1.19 "stable" yet. 
+In the meanwhile, I've added a treat for the controller/touchscreen fans: MidnightControls. Enjoy testing!
+
+- Added MidnightControls - controller and touchscreen support!
+- Updated CIT Resewn, Fabric API, Fabric Language Kotlin, Item Model Fix, No Chat Reports
+- Removed LambdaBetterGrass from incompatible resource packs in options.txt as it is no longer incompatible
+
+### 4.0.0-beta.5 (2022-06-26)
+
+- Readded Animatica
+- Updated Fabric API, Fabric Capes, Main Menu Credits, No Chat Reports, Zoomify
+  - Zoomify config got removed as FO defaults are that mod's defaults now
+  - AntiGhost is now described in the pause menu
+- Updated Russian in MMH by RozeFound
+
 ### 4.0.0-beta.4 (2022-06-22)
 
 - Added No Chat Reports - protects you and others from some account bans
@@ -133,6 +163,16 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.11.0 (2022-07-05)
+
+- Updated Animatica, CIT Resewn, Enhanced Block Entities, Fabric API, Fabric Language Kotlin, Main Menu Credits, Mod Menu
+- Added a workaround resource pack for monochrome splash screen (fixes PuzzleMC/Puzzle#34)
+- Backported some 4.0.0-betas changes:
+  - MMH updates
+  - AntiGhost is now described in the pause menu
+  - Removed LambdaBetterGrass from incompatible resource packs
+- Enforced Fabric Loader 0.14.8
 
 ### 3.10.1 (2022-06-20)
 

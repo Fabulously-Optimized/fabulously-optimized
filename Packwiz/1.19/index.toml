@@ -14,7 +14,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0920cfb7422d99a546ab619a2c9a2726d87e6e656a7665c5af98b7326e77d94e"
+hash = "020a44e5477b323dfb5113cbfe01dbb1e8cb3b27a0076a06b1b1cff9837ef4c0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -89,16 +89,17 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "config/yosbr/config/zoomify.json"
-hash = "cc6f863a8e250641184bfcd3b59169491fe5414a036996401b66bc019ebeedd8"
-
-[[files]]
 file = "config/yosbr/options.txt"
-hash = "8cf4e887764bc764235990460c9214a000bd434d47839d240656803cd809bee4"
+hash = "2eec74a728150235d802fc9b1baa2386737cc49bcaccaf221ffb55d0fac9cb8b"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "1adfed1eb9468a7aee481cac91008bdb8e0af1048c54900a5a408dc40c446500"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "6e37a53e0cc21c40bc27956d667189c278cefe61dab2a798fd4ba39bbf741687"
 metafile = true
 
 [[files]]
@@ -113,17 +114,17 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "89e8ba5024083c088e5ea1ee74af9be50228b8fed407278a0faf9e7cac17c2fa"
+hash = "e0f6cbba2f655e4d7906d95d5c9e00837a72fa6a0c52ddadcd35de33c160f017"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "50f4172d3a1f2bda75e47d8a508f698714378cafa9c56766d2797b8bc4ebc026"
+hash = "968dabb91375ca143c3c8eb7c6de76add0cff8d33bf30894650f4d4b2d0c1ce1"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "9900ca7501a0cedb1cb1292fb51250c1820f4cc1dc6b7d572824a18738e118de"
+hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
 metafile = true
 
 [[files]]
@@ -178,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3a906e337c1299509b63c347c4383e224222d63be7acd4cc516f18945e62be3c"
+hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "cd7812412623eb47d8f612f3b276b4d86db3794496cc2a053fc709b19072afc3"
+hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
 metafile = true
 
 [[files]]
@@ -213,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-model-fix.pw.toml"
-hash = "7848466b7f337faf90f5edb14aeed716c398f8abfe091cef7c4894102e2727d4"
+hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
@@ -238,17 +239,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cbedab2ca0ec5c65cbcb2e1c51c8cc638109b60d3774c3232534ccadda9b9335"
+hash = "e5fff11416eb5e50ec9655ce10e3e59838eb966a8d83057752c24f948aae7566"
 metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "c91d9d252064cd1679362225321edf30113333ae3ae1e5fb2acaf07c7a58709e"
+hash = "198084fae4ff7ee526c4d1b82b82f36585445d2c07b5f1c82e4121724c81400f"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "70f89a1865f7b6ba615807cc8212da1e52a37273cb02048881ebbf87a8d51355"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "011cdac05926935d1b86941f21b192514bf58d7178c83e1d40fa5a616f18ac8d"
 metafile = true
 
 [[files]]
@@ -263,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "d8673ea87c646b820ad3b979feceb238a8a768e15b9c5ecadbc30e74fff94277"
+hash = "26f22e33023ad228024ef1987604b654d6a6de9aec3174969e7d9fea48b71b4b"
 metafile = true
 
 [[files]]
@@ -283,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "5a8dffb24cfa7a23746b3fc2eb9ab2155d094eceb8346f527c7e1cf48bbe1512"
+hash = "615f8158be122f497dc69c3be5026833536bcb0d0dd60f1d61403e58fbe679c2"
 metafile = true
 
 [[files]]
@@ -323,9 +329,9 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "33dd47f911a5e7f0b1414375cb9b4e43378cf9497cb1af5424fc852ca4885840"
+hash = "bdd6836216af0ecba546d073141d38552180d49d6ea8b0e203bd7f62537d5666"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "273e536712c7e113c1ca89464178368e2cdfa6b6c9f87cb6cf8f009b749678d6"
+hash = "b3614dbfdf7991c5583b56bc07a0d7c1192688968bea96a9f855ba075e365ad8"
