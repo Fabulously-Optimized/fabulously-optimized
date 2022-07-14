@@ -164,6 +164,15 @@ Other
 
 ## 1.18.2
 
+### 3.12.0 (2022-07-14)
+
+- Added MidnightControls - controller and touchscreen support!
+  - Enabled Bedrock resource pack
+- Updated Puzzle
+  - Removed the workaround resource pack
+- Backported Portuguese MMH update; added small wording fix for Eng/Est
+- Modrinth version no longer includes JARs, only download links
+
 ### 3.11.0 (2022-07-05)
 
 - Updated Animatica, CIT Resewn, Enhanced Block Entities, Fabric API, Fabric Language Kotlin, Main Menu Credits, Mod Menu

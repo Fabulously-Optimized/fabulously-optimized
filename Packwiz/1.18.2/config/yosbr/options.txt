@@ -5,8 +5,8 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Monochrome Splash.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock"]
+incompatibleResourcePacks:["midnightcontrols/bedrock"]
 tutorialStep:none
 skipMultiplayerWarning:true
 joinedFirstServer:true
