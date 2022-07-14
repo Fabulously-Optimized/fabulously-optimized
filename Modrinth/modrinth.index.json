@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-beta.8",
+    "versionId": "4.0.0-beta.9",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -119,16 +119,15 @@
             "fileSize": 1128177
         },
         {
-            "path": "mods/CullLessLeaves-1.0.2.jar",
+            "path": "mods/CullLessLeaves-1.0.4.jar",
             "hashes": {
-                "sha1": "4acade75782079391dbf35ff654503d9e31255c2",
-                "sha512": "f018795ae3e34e2e6aa0e2c5f57d7d4a40a992e1cbf0844190b4c46415165f197478ce8adaae79e923108c89c1d6448691588e1b243bb8206d95bb66fd2fa9a6"
+                "sha1": "d3fe0b9a6d5ff2bd09839c7851d567a43ca4f83d",
+                "sha512": "823f754451d6cc08be091fbd40eff84cc5aec03f930cf3f3d49b5bf7a809ebd0f468f22794a4783d61f16316f4ccf57288d45ce764fba3ad481f9de3afd4188f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.2/CullLessLeaves-1.0.2.jar",
-                "https://github.com/isXander/CullLessLeaves/releases/download/1.0.2/CullLessLeaves-1.0.2.jar"
+                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.4/CullLessLeaves-1.0.4.jar"
             ],
-            "fileSize": 25640
+            "fileSize": 43656
         },
         {
             "path": "mods/dcch-1.2.jar",
@@ -374,16 +373,15 @@
             "fileSize": 590726
         },
         {
-            "path": "mods/modmenu-4.0.0.jar",
+            "path": "mods/modmenu-4.0.4.jar",
             "hashes": {
-                "sha1": "04be7e499bf67be0fea40d15f17a9ec47f21c309",
-                "sha512": "4560868d0af94441fb54d5f4bceba67339019e58a7b7e8897338093a1e4a5840d2baa539c0932042f4d5233125ace02c304746eee14ebc2facd3bf0203a54fe8"
+                "sha1": "d4fbf49f72a16b0c241d2c5e856292ad4253d9f7",
+                "sha512": "ec0a3ec44a148c0fed89318ddc3d90121441b1b581affebc92855df81328e0182fd6778d5f52ca96ce8cc0f99a73ed0761abff98facdd74cc96cb1321b886d4f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0/modmenu-4.0.0.jar",
-                "https://github.com/TerraformersMC/ModMenu/releases/download/v4.0.0/modmenu-4.0.0.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.4/modmenu-4.0.4.jar"
             ],
-            "fileSize": 303533
+            "fileSize": 444139
         },
         {
             "path": "mods/morechathistory-1.19-1.1.0.jar",
@@ -430,15 +428,15 @@
             "fileSize": 164515
         },
         {
-            "path": "mods/optigui-1.1.0.jar",
+            "path": "mods/optigui-1.1.1.jar",
             "hashes": {
-                "sha1": "9b07bcd54c2d5974c813d2db5e595efd5836cebd",
-                "sha512": "b6e8859d1fc59edff3f712bb4d416562a44367294e287b7db298988aca921838127a0954da932c256a24457a4bb1fb012cc69f24280da1aa8fc466d42ba0a5d3"
+                "sha1": "5da0d10efb27e8cc3db902ef5e2480d608fabf71",
+                "sha512": "5758103b1c18c38c93b97162cf1e4b5dd56745f6b88858a19301ae2db1c8864cad86562adc2fe735dc6f0f24118d30d1f24fdba78e8abdae95b0b38f9d1c14e8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.0+1.19/optigui-1.1.0.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.1+1.19/optigui-1.1.1.jar"
             ],
-            "fileSize": 272255
+            "fileSize": 272251
         },
         {
             "path": "mods/puzzle-1.3.4-1.19.jar",

@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.9 (2022-07-14)
+
+- Updated Cull Less Leaves, Mod Menu, OptiGUI
+- Added small wording fix for MMH
+- Slightly reordered resource packs
+
 ### 4.0.0.beta.8 (2022-07-09)
 
 - Updated Borderless Mining, Lithium, MidnightControls, Puzzle
