@@ -41,7 +41,7 @@ body:
     description: Check if applicable.
     options:
       - label: I updated FO to a newer version (mention, what version to what version)
-      - label: I removed or added some mods (mention, which ones)
+      - label: I added/removed some mods or resource packs (mention, which ones)
     
 - type: textarea
   attributes:
