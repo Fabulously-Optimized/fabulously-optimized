@@ -14,7 +14,7 @@ hash = "5c0926fe0e7686e798d0486781a0c6510394e4a5a96f2d7f2952761cef64f9c5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b1d7e91159a2b22b06b48845cff57f7967563d5557b20d3db78a75b7b440f6cf"
+hash = "07b895939898be28468ef579d7385ef3c1c0932c252a9cfc34d6cb90c39efce1"
 
 [[files]]
 file = "config/modmenu.json"
@@ -249,12 +249,17 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "70f89a1865f7b6ba615807cc8212da1e52a37273cb02048881ebbf87a8d51355"
+hash = "c33a4b2d9de9caabef1d4a414bb45a39430658872b167750678efad4505b02da"
 metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "011cdac05926935d1b86941f21b192514bf58d7178c83e1d40fa5a616f18ac8d"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "e711296fa29d5659dcc38c4201e7a208e7e1dc8e75be919428dcbb6954765219"
 metafile = true
 
 [[files]]
@@ -334,4 +339,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "5baf7a8d5dfef78837636bc30cc2caf081f93274a0511b3675e2ef577b6e42db"
+hash = "40eed860f9233c84f3adc8e4a0ac431b9a8c913a7499463ade5db90310ba08d8"

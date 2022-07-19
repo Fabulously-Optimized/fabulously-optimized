@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.0.0-beta.9",
+    "versionId": "4.0.0-beta.10",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -56,7 +56,8 @@
                 "sha512": "8233e5e7d947356567fd55aac19c13c5534d152f68debae3dd8ab0efe72d3cc99603429daec59404ece07f76fa128b9a70906530f8cd6fc4cc12555c1ff8da59"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.5+1.19/borderless-mining-1.1.5%2B1.19.jar"
+                "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.5+1.19/borderless-mining-1.1.5%2B1.19.jar",
+                "https://github.com/comp500/BorderlessMining/releases/download/1.1.5%2B1.19/borderless-mining-1.1.5%2B1.19.jar"
             ],
             "fileSize": 107378
         },
@@ -125,7 +126,8 @@
                 "sha512": "823f754451d6cc08be091fbd40eff84cc5aec03f930cf3f3d49b5bf7a809ebd0f468f22794a4783d61f16316f4ccf57288d45ce764fba3ad481f9de3afd4188f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.4/CullLessLeaves-1.0.4.jar"
+                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.4/CullLessLeaves-1.0.4.jar",
+                "https://github.com/isXander/CullLessLeaves/releases/download/1.0.4/CullLessLeaves-1.0.4.jar"
             ],
             "fileSize": 43656
         },
@@ -333,7 +335,8 @@
                 "sha512": "85dfa5e73ce8dbfd98a0bc27bd8b2ddf4285d0f20e77021f3184b815e8c2df2aa3366c52ce47e756c39d1ee3f8759d2f20744b5e5b0bf2d36b87cbee6a0b5d52"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar",
+                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar"
             ],
             "fileSize": 475664
         },
@@ -350,16 +353,16 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/memoryleakfix-1.19-0.4.1.jar",
+            "path": "mods/memoryleakfix-1.19-0.5.2.jar",
             "hashes": {
-                "sha1": "9197e408de2f257446accfc466cb2498aca97b0f",
-                "sha512": "556983a13727e291c8ca46be9c53c3284f986b2156e3bc3f879a6f436ebe3ffc0778fd05a189cffdcd8121a0c75cdcb4023b1ba37ca52ad59082826ae9b479e2"
+                "sha1": "df5bc2e695c5494a81aa4660cc0ccc143d09e6b8",
+                "sha512": "384aeecd814654365302bf844a6312c21ec66e04bc1ba03ea820ec5fbd58deff4576cabecc307b10b18be07102636e485b7a2b7af019296997a0f4228975b308"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.1/memoryleakfix-1.19-0.4.1.jar",
-                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.4.1/memoryleakfix-1.19-0.4.1.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.2/memoryleakfix-1.19-0.5.2.jar",
+                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.5.2/memoryleakfix-1.19-0.5.2.jar"
             ],
-            "fileSize": 39758
+            "fileSize": 42361
         },
         {
             "path": "mods/midnightcontrols-1.4.1+1.19.jar",
@@ -368,9 +371,22 @@
                 "sha512": "c8f2185717bfdebd133ced1e3164dcf9938bb650827b4bd2afb4f00e2de7530e28aba83ea3cfc74f2bb7962ae48c844de7ff07263a3e3478b63ecc5f91f3e37e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bXX9h73M/versions/1.4.1/midnightcontrols-1.4.1%2B1.19.jar"
+                "https://cdn.modrinth.com/data/bXX9h73M/versions/1.4.1/midnightcontrols-1.4.1%2B1.19.jar",
+                "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.4.1/midnightcontrols-1.4.1%2B1.19.jar"
             ],
             "fileSize": 590726
+        },
+        {
+            "path": "mods/MixinConflictHelper-1.1.0.jar",
+            "hashes": {
+                "sha1": "623f8375bd90cb52d703104b3ec9daf0bec8368d",
+                "sha512": "d25fe012173c14b741ef62282811496fd45dc387dcc14a386cf5b4dae3758c912409b38e38f586b8dbb23b289e7dee5c9817de4c38d9d0473e60d9fa695e9134"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/MR1VIQJJ/versions/1.1.0/MixinConflictHelper-1.1.0.jar",
+                "https://github.com/isXander/MixinConflictHelper/releases/download/1.1.0/MixinConflictHelper-1.1.0.jar"
+            ],
+            "fileSize": 171453
         },
         {
             "path": "mods/modmenu-4.0.4.jar",
@@ -379,7 +395,8 @@
                 "sha512": "ec0a3ec44a148c0fed89318ddc3d90121441b1b581affebc92855df81328e0182fd6778d5f52ca96ce8cc0f99a73ed0761abff98facdd74cc96cb1321b886d4f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.4/modmenu-4.0.4.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.4/modmenu-4.0.4.jar",
+                "https://github.com/TerraformersMC/ModMenu/releases/download/v4.0.4/modmenu-4.0.4.jar"
             ],
             "fileSize": 444139
         },
@@ -434,7 +451,8 @@
                 "sha512": "5758103b1c18c38c93b97162cf1e4b5dd56745f6b88858a19301ae2db1c8864cad86562adc2fe735dc6f0f24118d30d1f24fdba78e8abdae95b0b38f9d1c14e8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.1+1.19/optigui-1.1.1.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.1+1.19/optigui-1.1.1.jar",
+                "https://github.com/opekope2/OptiGUI/releases/download/v1.1.1-1.19/optigui-1.1.1.jar"
             ],
             "fileSize": 272251
         },
@@ -445,7 +463,8 @@
                 "sha512": "42f033954646736b70f521aa55eebdc26ca82522ce3481d41c7927175030fa721787817b1e54c25243f82537b2725241572e8e1e7c6ab79b382815c1aaf29f2e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.4/puzzle-1.3.4-1.19.jar"
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.4/puzzle-1.3.4-1.19.jar",
+                "https://github.com/PuzzleMC/Puzzle/releases/download/v1.3.4/puzzle-1.3.4-1.19.jar"
             ],
             "fileSize": 133013
         },

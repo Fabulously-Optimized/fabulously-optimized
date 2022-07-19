@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.10 (2022-07-19)
+
+- Added Mixin Conflict Helper - tells you when you've installed two mods that don't like each other!
+- Updated MemoryLeakFix
+
 ### 4.0.0-beta.9 (2022-07-14)
 
 - Updated Cull Less Leaves, Mod Menu, OptiGUI
