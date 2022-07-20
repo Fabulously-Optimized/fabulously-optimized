@@ -54,7 +54,7 @@ body:
 - type: input
   attributes:
     label: Mod file size
-    description: This is found on individual files in CF, MR and GH releases and is used to determine mod size-purpose ratio. Write "unknown" only if there are no public versions yet. 
+    description: This is found on Curseforge, Modrinth and GitHub releases and is used to determine mod size-purpose ratio. Write "unknown" only if there are no public versions yet. 
     placeholder: 123.45 KB
   validations:
     required: true
