@@ -32,7 +32,7 @@ Fabulously Optimized [é de código aberto][8] e o mesmo é para maioria de seus
 
 ### Construído com o Fabric
 
-Comparado ao Forge, Fabric atualiza e carrega rápido, não inclui bibliotecas gigantes e mantem um grande suporte a mods. [(Sim, Quilt está sendo considerado.)][9]
+Comparado ao Forge, Fabric atualiza e carrega rápido, não inclui bibliotecas gigantes e mantém um grande suporte a mods. [(Sim, Quilt está sendo considerado.)][9]
 
 ### Comunidade útil
 
