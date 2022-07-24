@@ -66,7 +66,7 @@ Temos uma comunidade em ascenção com membros amigáveis que gostam de discutir
 > 
 > **R**: [Venha conversar conosco no Discord!][10]
 
-### Ao usar esse modpack, [você concorda com os seguintes termos][15].
+### Ao usar esse modpack, [você concorda com os seguintes termos (em inglês)][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
