@@ -3,6 +3,27 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.11 (2022-07-21)
+
+Another beta, now with FPS stuff! 
+Also, 1.19.1-rc2 is out, with 1.19.1 release date being estimated as "next week". Let's see...
+
+- Added More Culling - stops rendering hidden sides of blocks
+  - Item frame optimizations currently disabled because it doesn't work with custom items yet
+  - It may eventually obsolete Cull Less Leaves, to be tested
+  - Mod Menu Helper does not currently work with it, so you'll see its own description in Mod Menu
+- Removed Don't Clear Chat History - various issues, including unintended behaviour in 1.19
+
+- Updated Debugify, Fabric Language Kotlin, MemoryLeakFix, Reese's Sodium Options
+- Removed duplicate config files from YOSBR folder
+  - This was there to make resetting settings a bit easier when needed, but now a better method is described in the wiki
+- Updated Greek in MMH by RaptaG
+
+### 4.0.0-beta.10 (2022-07-19)
+
+- Added Mixin Conflict Helper - tells you when you've installed two mods that don't like each other!
+- Updated MemoryLeakFix
+
 ### 4.0.0-beta.9 (2022-07-14)
 
 - Updated Cull Less Leaves, Mod Menu, OptiGUI
