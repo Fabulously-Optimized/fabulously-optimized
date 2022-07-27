@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19
 
+### 4.0.0-beta.12 (2022-07-26)
+
+- Updated Entity Texture Features, Fabric API, Iris Shaders, MoreCulling, Sodium Extra
+  - ETF and Iris received major performance upgrades
+- Fixed MoreCulling in MMH for English and Estonian
+- Updated Turkish in MMH by localfossa and egeesin
+
 ### 4.0.0-beta.11 (2022-07-21)
 
 Another beta, now with FPS stuff! 
