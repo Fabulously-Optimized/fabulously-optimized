@@ -1,6 +1,20 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.1
+
+### 4.1.0-alpha.1 (2022-07-26)
+
+It's time to start testing 1.19.1. Read the FAQ: https://fabulously-optimized.gitbook.io/modpack/readme/1-19-1-faq
+Also, we've reached 500k downloads on CurseForge and almost 20k downloads on Modrinth! Thank you again for your support!
+
+- Updated Debugify, Fabric API, MemoryLeakFix, Mod Menu, More Chat History, MoreCulling, No Chat Reports
+- Temporarily disabled Lithium
+
+- Disabled bugfixes MC-145929 and MC-148149 on Debugify as they are now fixed in vanilla
+- Configured No Chat Reports for 1.19.1
+- Updated Korean and Turkish in MMH by AlphaKR93 and localfossa
+
 ## 1.19
 
 ### 4.0.0-beta.12 (2022-07-26)
