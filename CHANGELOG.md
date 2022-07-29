@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.1
 
+### 4.1.0-alpha.2 (2022-07-27)
+
+- Temporarily removed Lithium
+  - Because keeping it as disabled caused many problems
+
 ### 4.1.0-alpha.1 (2022-07-26)
 
 It's time to start testing 1.19.1. Read the FAQ: https://fabulously-optimized.gitbook.io/modpack/readme/1-19-1-faq

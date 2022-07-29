@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.1.0-alpha.1",
+    "versionId": "4.1.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -138,7 +138,8 @@
                 "sha512": "c89847d516586be9d162474d6e5a2dcbfde4c058f7c0e585e656a5ae78f12cc85a0390ceee920f731f186719d1ab98defe54922677080f4ff701e90827b00278"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/2.3.3-fabric/debugify-2.3.3-fabric-1.19.1.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/2.3.3-fabric/debugify-2.3.3-fabric-1.19.1.jar",
+                "https://github.com/isXander/Debugify/releases/download/2.3.3/debugify-2.3.3-fabric-1.19.1.jar"
             ],
             "fileSize": 318288
         },
@@ -194,7 +195,8 @@
                 "sha512": "6916bc50c9bcd225142e4cf8a2d251f57dd89123baff4a8941c46365ba408b5a00484731ec3981935536817e63d2fcf1f916a2ac5975beffc831139cc3b62bd0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.5+1.19.1/fabric-api-0.58.5%2B1.19.1.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.58.5+1.19.1/fabric-api-0.58.5%2B1.19.1.jar",
+                "https://github.com/FabricMC/fabric/releases/download/0.58.5%2B1.19.1/fabric-api-0.58.5%2B1.19.1.jar"
             ],
             "fileSize": 1498297
         },
@@ -271,11 +273,11 @@
         {
             "path": "mods/lambdabettergrass-1.3.0+1.19.jar",
             "hashes": {
-                "sha1": "740d161761c2136dd08ff9f41817a1093275a85d",
-                "sha512": "400a43797886940e681d0d11f7f00360691cf6c490564a857aaa36f25ae940381437d054df01ed4a4ac66c3c6beb191102bfa9ebb944843a259e365117815314"
+                "sha1": "95847e7ac49fbccb679f7e8ede37835a0cd65bf2",
+                "sha512": "b414857a60f7bfb4dee0c39ed44e54f5053773e92ece229d9e257e7dc06f66608e7a331ef370a803ee6748658609f6216f7696f6a96614571ead5d1799a967c8"
             },
             "downloads": [
-                "https://github.com/LambdAurora/LambdaBetterGrass/releases/download/v1.3.0%2B1.19/lambdabettergrass-1.3.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.3.0+1.19/lambdabettergrass-1.3.0%2B1.19.jar"
             ],
             "fileSize": 1176944
         },
@@ -316,22 +318,6 @@
             "fileSize": 14531
         },
         {
-            "path": "mods/lithium-fabric-mc1.19-0.8.1.jar",
-            "hashes": {
-                "sha1": "8316f71030ffc74af09b781d3281d575b61db0e0",
-                "sha512": "85dfa5e73ce8dbfd98a0bc27bd8b2ddf4285d0f20e77021f3184b815e8c2df2aa3366c52ce47e756c39d1ee3f8759d2f20744b5e5b0bf2d36b87cbee6a0b5d52"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar",
-                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar"
-            ],
-            "fileSize": 475664,
-            "env": {
-                "client": "optional",
-                "server": "optional"
-            }
-        },
-        {
             "path": "mods/main-menu-credits-1.1.1.jar",
             "hashes": {
                 "sha1": "7df757c8d19a13da60c7b85f13870965d61c71d8",
@@ -350,7 +336,8 @@
                 "sha512": "9f6e0ceaab8fbb48cc4f4129a9f7cdf8cad49e3b473af214fbc0c3f506563bade3394666c4daa38ed438de010122505bc8d046cd742655b193b40498e0ed1ead"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.6.0/memoryleakfix-1.19.1-0.6.0.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.6.0/memoryleakfix-1.19.1-0.6.0.jar",
+                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.6.0/memoryleakfix-1.19.1-0.6.0.jar"
             ],
             "fileSize": 28683
         },
@@ -385,7 +372,8 @@
                 "sha512": "71e7b0f80de56be992b4ed7b33f4b5035f7a9de62ea94a979e0ec2ceb599f15c8ac6f72050d0734cf840f0fbd6f6ef6ca30d3aaacb7e9d489dc58c4a416ff2b4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.5/modmenu-4.0.5.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.5/modmenu-4.0.5.jar",
+                "https://github.com/TerraformersMC/ModMenu/releases/download/v4.0.5/modmenu-4.0.5.jar"
             ],
             "fileSize": 445959
         },
@@ -407,7 +395,8 @@
                 "sha512": "0aad43a978dcd52a3286d8ec96762f21671432e120497868c37e77fde286b281db288bf54675ed4f6b76194d0bf3057c819fda2fbce8c5d8eccf14e6b82b750e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.7.0/moreculling-1.19.1-0.7.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.7.0/moreculling-1.19.1-0.7.0.jar",
+                "https://github.com/fxmorin/MoreCulling/releases/download/v0.7.0/moreculling-1.19.1-0.7.0.jar"
             ],
             "fileSize": 1129239
         },
