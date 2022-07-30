@@ -14,7 +14,7 @@ hash = "3cc0ce6f147ccf91af084fb4ef07301a9a09bcf681a38e7b3e61352effcd3903"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0493a5d26485894156da952d8f575431449c708255b554d7c6755e4592cd97c8"
+hash = "c2bcfa9683278d89570cba1f0486f87a26cc339f4857880252c9dae07a41846c"
 
 [[files]]
 file = "config/modmenu.json"
@@ -41,14 +41,6 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
-
-[[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "18620ae9a07d266e519b66e9c3f256168831ab90c8ce9380569a3ca7f479f90c"
-
-[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
@@ -71,14 +63,6 @@ hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "b140184afb51de3614a0ca47132396e931cd7c74e8c1af05f3b6020b34350157"
-
-[[files]]
-file = "config/yosbr/config/puzzle.json"
-hash = "2a7c463f581910b0daf713ece461106f92894f9cb4af3655dad13152003005cf"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -179,12 +163,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "42e2da7f33977bfa2bb411e1443723a857276cc460717573ef9f8f861076ad64"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "31b8ee3e8f34273e2989381dde65b8b13e128b6fed0c244f46af62bb47ac354f"
+hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
@@ -209,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "2370e2654b50288f953f337b98527cbf2dfaf9f3f797115969e11f62db62216c"
+hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
 metafile = true
 
 [[files]]
@@ -249,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "d8e6e1b06fa2d717627036d1e9f907b493bf43720fa94b422f546b91c6ad9c8c"
+hash = "a8c959cce7fd2e7d76864471b359444db5f364d2d0e6e8c80e4983abbcdec9f3"
 metafile = true
 
 [[files]]
@@ -289,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d599151432acf03cf8dfb26c80321ab1b0f0adf070b75c5963155ad80d782d51"
+hash = "7612fb1157e2d89637ee4881edc7e51de522c567abbda02b86990d49c17f9a9c"
 metafile = true
 
 [[files]]
@@ -299,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "6877ef3ff4b75e42cebc9999d46cde7c9c41bea181b408ad6a5647e032653e0f"
+hash = "23deee21734babdb740a73d6e5aedfbbd297133df811b56e13187a8b77e5b15e"
 metafile = true
 
 [[files]]
@@ -329,4 +313,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "b28001e00e35ecdb878e5ffa097f5a80758d41bba5fda0018f887a0b974e9c6e"
+hash = "ea87406bc2e6dc7c0a39e08127842d79204d46b9602a370be83abb2b355f2dff"

@@ -217,6 +217,14 @@ Other
 
 ## 1.18.2
 
+### 3.12.1 (2022-07-30)
+
+- Updated Fabric API, Fabric Language Kotlin, Iris Shaders, MemoryLeakFix, Reese's Sodium Options, Sodium Extra
+  - Iris received a major performance upgrade
+- Removed duplicate config files from YOSBR folder
+  - This was there to make resetting settings a bit easier when needed, but now a better method is described in the wiki
+- Backported MMH language updates
+
 ### 3.12.0 (2022-07-14)
 
 - Added MidnightControls - controller and touchscreen support!
