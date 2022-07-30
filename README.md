@@ -58,8 +58,8 @@ See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbo
 
 Help is provided by:
 
-* [Wiki](https://fabulously-optimized.gitbook.io/modpack/)
-* [Discord](https://discord.gg/yxaXtaQqdB)
+* [Wiki](https://fabulously-optimized.gitbook.io/modpack/) (how to install, update etc.)
+* [Discord](https://discord.gg/yxaXtaQqdB) (support, update notifications, etc)
 * [Issues](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) (mod suggestions, bug reports)
 * [CurseForge listing comments](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#comments) (questions and general comments only)
 
