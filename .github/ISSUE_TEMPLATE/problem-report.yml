@@ -11,6 +11,7 @@ body:
   attributes:
     label: Describe the bug
     description: Describe your issue.
+    placeholder: Note: for bad FPS and crashes you'll get a faster answer from our Discord
   validations:
     required: true
 
