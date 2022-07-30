@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.1
 
+### 4.1.0-beta.1 (2022-07-30)
+
+- Readded Lithium
+- Updated AdvancementInfo, AntiGhost, NoChatReports
+  - AdvancementInfo and AntiGhost are now smaller in size
+  - Currently AdvancementInfo is not shown in Mod Menu Helper
+  - NoChatReports fixed Realms access
+- Adjusted NoChatReports to disable convertToGameMessage (unnecessary in LAN) and enable vanilla's yellow messages (informative)
+
 ### 4.1.0-alpha.2 (2022-07-27)
 
 - Temporarily removed Lithium
