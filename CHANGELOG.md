@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.1
 
+### 4.1.0-beta.2 (2022-08-02)
+
+- Updated Farsight, Indium, MemoryLeakFix, MoreCulling, No Chat Reports, Puzzle, Zoomify
+  - Zoomify and MoreCulling received major updates
+  - Puzzle no longer shows buttons that lead to empty screens in its settings
+- Adjusted No Chat Reports
+  - Adjusted description in MMH to reflect its features better
+  - Re-enabled convertToGameMessage again as it still turned out to be useful in LAN
+  - You can now report others on servers that allow reports, use it only in case of real danger
+
 ### 4.1.0-beta.1 (2022-07-30)
 
 - Readded Lithium

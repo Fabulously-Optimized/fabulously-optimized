@@ -9,7 +9,12 @@ url = "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.ja
 
 [[Resource]]
 name = "Farsight Mod"
-filename = "farsight-fabric-1.19-2.0.jar" 
+filename = "farsight-fabric-1.18-1.9.jar" 
+action = "remove"
+
+[[Resource]]
+name = "Farsight Mod"
+filename = "farsight-fabric-1.19.1-2.0.jar" 
 action = "remove"
 
 [[Resource]]

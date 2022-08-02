@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.1.0-beta.1",
+    "versionId": "4.1.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -233,16 +233,15 @@
             "fileSize": 119108
         },
         {
-            "path": "mods/indium-1.0.6+mc1.19.jar",
+            "path": "mods/indium-1.0.7+mc1.19.jar",
             "hashes": {
-                "sha1": "f4ed0775fbf68bd4ba5c31e143f05d7bf38817fa",
-                "sha512": "7c7c8ee2cb9b65beb6eda78f181831ac7620450651d60e019430bbbc11094dfcd61199d6506be117cf619543e67b6d8f4437805ef20392fced1efe60569d3778"
+                "sha1": "1f97081fa8da5e2876481da2917c76dcf689382b",
+                "sha512": "af648a0261f84f321ceb7e4a39866f9c899a46e875f097cea32dab73402e461b7607c79f9d935cbd49639bf6242a62c7fbd54afae4f539c3dd1d3e0b1ebe9f67"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.19/indium-1.0.6%2Bmc1.19.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.6%2Bmc1.19/indium-1.0.6%2Bmc1.19.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7+mc1.19/indium-1.0.7%2Bmc1.19.jar"
             ],
-            "fileSize": 118075
+            "fileSize": 118637
         },
         {
             "path": "mods/iris-mc1.19.1-1.2.6.jar",
@@ -339,15 +338,15 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/memoryleakfix-1.19.1-0.6.0.jar",
+            "path": "mods/memoryleakfix-1.19.1-0.7.0.jar",
             "hashes": {
-                "sha1": "191efd5a5415b442dceaa5e950182e2441b56b59",
-                "sha512": "9f6e0ceaab8fbb48cc4f4129a9f7cdf8cad49e3b473af214fbc0c3f506563bade3394666c4daa38ed438de010122505bc8d046cd742655b193b40498e0ed1ead"
+                "sha1": "9ef7b93df46b599f96d8c0dba32753373e5e8a1a",
+                "sha512": "885447011054bf6ae936da5f1e795f135c29d509535c00b2351b8ffc70405e8afd2ed513d1d3c846d8ac54d713800e417579ccf437bcdd2b3c29fb9445ef3d67"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.6.0/memoryleakfix-1.19.1-0.6.0.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0/memoryleakfix-1.19.1-0.7.0.jar"
             ],
-            "fileSize": 28683
+            "fileSize": 56844
         },
         {
             "path": "mods/midnightcontrols-1.4.1+1.19.jar",
@@ -396,26 +395,26 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/moreculling-1.19.1-0.7.0.jar",
+            "path": "mods/moreculling-1.19.1-0.8.2.jar",
             "hashes": {
-                "sha1": "37edf9222ed233e86cfa2a0738c1ca393bed32bd",
-                "sha512": "0aad43a978dcd52a3286d8ec96762f21671432e120497868c37e77fde286b281db288bf54675ed4f6b76194d0bf3057c819fda2fbce8c5d8eccf14e6b82b750e"
+                "sha1": "f760e3edc7437019b9cdf8c9ad469116493623f7",
+                "sha512": "f9d3e14b1a77a9bc62585d0526a9ed937fd95282de7fee0517b62fa4477d5a01ebc63ecd32651f0f86089fde8d57254c825753b3097be985c6526fbbd40e410c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.7.0/moreculling-1.19.1-0.7.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2/moreculling-1.19.1-0.8.2.jar"
             ],
-            "fileSize": 1129239
+            "fileSize": 1150790
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.1-v1.8.1.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.1-v1.8.2.jar",
             "hashes": {
-                "sha1": "688939927e22c5d75797851a7eb2b45844feb6cc",
-                "sha512": "9161243f35e870958a5e85098cc37a7f72b360ee16408601e93f365b9b0b7e13a1b51a0b6496e0d84f578a9640ce8b58f088a2802db14bdc511253f9d4284f30"
+                "sha1": "2acac459a00721a873232e3492815a0e8d5bf01d",
+                "sha512": "be6bd063fc857e4597c8b2a2434aa7aa2713f1d3c95a52e343eb718009269b037874dadc6f88537bed3ada94f6b0a3662b8dc3a281d39c1b596addc9a1c89abf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.1/NoChatReports-FABRIC-1.19.1-v1.8.1.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.2/NoChatReports-FABRIC-1.19.1-v1.8.2.jar"
             ],
-            "fileSize": 88032
+            "fileSize": 88064
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -452,16 +451,15 @@
             "fileSize": 272251
         },
         {
-            "path": "mods/puzzle-1.3.4-1.19.jar",
+            "path": "mods/puzzle-1.4.0-1.19.jar",
             "hashes": {
-                "sha1": "bd3c287a37cd86b7acc405634cf18b765118cff9",
-                "sha512": "42f033954646736b70f521aa55eebdc26ca82522ce3481d41c7927175030fa721787817b1e54c25243f82537b2725241572e8e1e7c6ab79b382815c1aaf29f2e"
+                "sha1": "c265b7ecda0588febe0a723ccf6bf34bc6f31a56",
+                "sha512": "a51148b753ce6a7ac4960d5173397ced6d82d554601ebaeb778b87b6ba45347437f091a561a51e8861d5c7ad2eb266538bef3a7d66eab5f9ac60de2f5f193da1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.4/puzzle-1.3.4-1.19.jar",
-                "https://github.com/PuzzleMC/Puzzle/releases/download/v1.3.4/puzzle-1.3.4-1.19.jar"
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/1.4.0-1.19/puzzle-1.4.0-1.19.jar"
             ],
-            "fileSize": 133013
+            "fileSize": 134397
         },
         {
             "path": "mods/reeses_sodium_options-1.4.4+mc1.19-build.47.jar",
@@ -545,16 +543,15 @@
             "fileSize": 19206
         },
         {
-            "path": "mods/Zoomify-1.7.1.jar",
+            "path": "mods/Zoomify-2.0.0.jar",
             "hashes": {
-                "sha1": "0807fefc9f576b61318750ee2d328e35cb9c3ba1",
-                "sha512": "45b460ae9fe3e980f0fc3fb1581354a7def6bde6e0ffc4c354b5c803e688ad1f216e12adeb4651322d93531af1f99fb3791b8636be42fdcb031869ec49d6428e"
+                "sha1": "0321439959f74f6076f98dd946bfb507f83603f1",
+                "sha512": "782955b39b290f9fa9a1419076b4b6416a9258441d17a4b65ab3959cf5f3d4bd0a6688345aca040984fe86ab4cbf32de46d076135a4b3051b2b800a7fac8169d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.7.1/Zoomify-1.7.1.jar",
-                "https://github.com/isXander/Zoomify/releases/download/1.7.1/Zoomify-1.7.1.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/2.0.0/Zoomify-2.0.0.jar"
             ],
-            "fileSize": 294379
+            "fileSize": 318586
         }
     ],
     "dependencies": {
