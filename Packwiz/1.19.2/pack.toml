@@ -1,0 +1,15 @@
+name = "Fabulously Optimized"
+version = "4.2.0-beta.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bb248058284b77d43cf803dfc698bf51ef4de9b53700cd0a0018d7b6de3272f8"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

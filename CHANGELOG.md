@@ -1,6 +1,19 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.2
+
+### 4.2.0-beta.1 (2022-08-07)
+
+- Updated Debugify, Fabric API, Lithium, MidnightControls, Mod Menu, MoreCulling, No Chat Reports, Not Enough Crashes, Zoomify
+- MidnightControls now shows a toast once, suggesting you to enable a controller if you have one connected
+  - The game will no longer switch to it automatically unless you enable that in settings
+- No Chat Reports: disabled full-screen warnings to avoid warning fatigue, the status is still shown in chat's bottom right corner
+  - Feel free to re-enable the warning from config (disable "whitelistAllServers")
+  - When updating to this version, this change will apply for everyone
+- Updated Turkish and Portuguese (Brazil) in MMH by Localfossa and PaperKing13isPro
+- Updated Fabric Loader to 0.14.9
+
 ## 1.19.1
 
 ### 4.1.0-beta.2 (2022-08-02)
