@@ -3,7 +3,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
-### 4.2.0-beta.1 (2022-08-07)
+### 4.2.0-beta.1 (2022-08-08)
 
 - Updated Debugify, Fabric API, Lithium, MidnightControls, Mod Menu, MoreCulling, No Chat Reports, Not Enough Crashes, Zoomify
 - MidnightControls now shows a toast once, suggesting you to enable a controller if you have one connected
@@ -248,6 +248,15 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.12.2 (2022-08-08)
+
+- Updated Indium, MemoryLeakFix, MidnightControls, Puzzle
+- MidnightControls now shows a toast once, suggesting you to enable a controller if you have one connected
+  - The game will no longer switch to it automatically unless you enable that in settings
+- Adjusted Puzzle configs to match 4.2.0-beta.1
+- Updated MMH languages
+- Updated Fabric Loader to 0.14.9
 
 ### 3.12.1 (2022-07-30)
 
