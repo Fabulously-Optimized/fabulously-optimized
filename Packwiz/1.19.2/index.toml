@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports.json"
-hash = "faebe6d001be88df3e47722ab8255d19c7123cdfa00007d0989606b05f81ebcf"
-
-[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -18,7 +14,7 @@ hash = "e7ad992a7fc5650df45d08a0773ef63049a917a12ed9ccc40472b3d107dfb587"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b75d6c6c14835d68f45437cd76b7d2f88e10a7537039897bef8010ebc24facee"
+hash = "cf9072c1a992989601291c03a06fef1557a377d8f952a0cec02809d9afea3e03"
 
 [[files]]
 file = "config/modmenu.json"
@@ -134,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "15fdaff0cb9342b772aa104d98eb4b116b3df442f689fa607ef6656c66468ffc"
+hash = "3f4979b3bf621ce00e3ca876df47c2467fafac3118779bd8cb6800f31dc4f625"
 metafile = true
 
 [[files]]
@@ -188,13 +184,13 @@ hash = "54566a4d869db8c6139ed8900bbb2a3977f5328dcfcf9e43f1b63d008c93a43a"
 metafile = true
 
 [[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "35ede7e1fc3181ecac4f75f57a7c64eef817d8336395d76df8c1228b685895c4"
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
 metafile = true
 
 [[files]]
-file = "mods/ferritecore-fabric.pw.toml"
-hash = "90934a8f07aad60a6a696e2b63db60f4aa0a5439b89fea95fcd0a100d526da6b"
+file = "mods/hold-that-chunk.pw.toml"
+hash = "dd9c0c87d98f655e385cdfd56cd6524f2853a2af1c19ab995bd42764331eefa4"
 metafile = true
 
 [[files]]
@@ -269,12 +265,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0ba1d15ee3753a20163410ff290ac157139d32a33b41d052421decf640c3ab38"
+hash = "207afdd8402bc7748814bc1aea19636752c79849f212806ebf59f0c6726d9774"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "5bdfebf8876303a79675e980a8cf48982bc83b86dca67db68b01c43c6b1754d6"
+hash = "bafac921dfa07632398d5142ab691e876d7446619c9e8f6bb052cd2c4b813fe5"
 metafile = true
 
 [[files]]
@@ -284,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.pw.toml"
-hash = "0294c8cd51edc0fde7b46d2a151042e2c366413128b2e7d655b5cdd483b326d2"
+hash = "5c1ef0483605531321ef075aed82b527ba79e45c323e8bf99c93a7dfcd3f83f4"
 metafile = true
 
 [[files]]
@@ -299,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "242d59152c19a148d3d5b6a0bf46ffb0280e822f90e78b417e9669518bcc1ab5"
+hash = "3e58b6a26795084f643ccdf5f390bd7aa1925e277e90f251ed6b869cc5c15ce3"
 metafile = true
 
 [[files]]
@@ -339,4 +335,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "27ffd70a2709ed93b5b5d981e126438f2cfd9eb2be04442b9323ce968ec1c08e"
+hash = "0f3960961cc65795c89cdb44deb2fe726138396ffb1b0b65cfa39be4460b79c3"

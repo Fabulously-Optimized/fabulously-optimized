@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.2.0-beta.1",
+    "versionId": "4.2.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -108,16 +108,16 @@
             "fileSize": 209175
         },
         {
-            "path": "mods/continuity-2.0.0+1.19.jar",
+            "path": "mods/continuity-2.0.1+1.19.jar",
             "hashes": {
-                "sha1": "ac4deeead3e1c4a3d54759f5d27c514f34f9115f",
-                "sha512": "a5a349c3670c5c63750e37de0f4497a1ea7ce770d5d0b69d3ca014eb749ba4f0fad8c4f52a9882daa05f89568dd4a18217e61c2906db1d464a0e65d8b45505f9"
+                "sha1": "d82700772659f65560202f1cbd0e744007b21a75",
+                "sha512": "02d39d75d73f049184848fb4fda6d4f5fed644379f5cad9747f25be815ebf6667a780f8facbec37b59783a9adff236f8375b632d0846f13ada1f803c19c44758"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.0+1.19/continuity-2.0.0%2B1.19.jar",
-                "https://github.com/PepperCode1/Continuity/releases/download/v2.0.0%2B1.19/continuity-2.0.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1+1.19/continuity-2.0.1%2B1.19.jar",
+                "https://github.com/PepperCode1/Continuity/releases/download/v2.0.1%2B1.19/continuity-2.0.1%2B1.19.jar"
             ],
-            "fileSize": 1128177
+            "fileSize": 1128730
         },
         {
             "path": "mods/CullLessLeaves-1.0.4.jar",
@@ -233,6 +233,17 @@
                 "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar"
             ],
             "fileSize": 119108
+        },
+        {
+            "path": "mods/holdthatchunk-1.0.3+1.18.jar",
+            "hashes": {
+                "sha1": "f636622d808e27dd0fb11021876fd65a06c893e8",
+                "sha512": "e53493e017ab46d3f0f34da1b89a5fd012620212648b12029f0bf5b8aa9f65478c4c804fbc776d829ee9990badea82d364dab42ce8dcef185c8b843deb18e855"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/LXJlc5WJ/versions/1.0.3/holdthatchunk-1.0.3%2B1.18.jar"
+            ],
+            "fileSize": 19321
         },
         {
             "path": "mods/indium-1.0.7+mc1.19.jar",
@@ -401,27 +412,27 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/moreculling-1.19.1-0.9.0.jar",
+            "path": "mods/moreculling-1.19.1-0.9.1.jar",
             "hashes": {
-                "sha1": "c0bb75c19a48d425df670a756c6693319bea3599",
-                "sha512": "2a481d142093cb6983032abf35d008b36f94a23c6dafe267f91acd8dfaccba2624c619f88ef40e09ea5f000f4077a8c4d40aab11b06617f9c78411d2df4c69a7"
+                "sha1": "25e9e4223ab26d96dc3ce51bcd5737dc6013c09d",
+                "sha512": "7d573b7dea1a575b04960460ee314f06ab749f8a74fd4ca06e569ae234e79b6ad075d26fb6d072f1ac3bf91856b63faba7d6fbde09082b4e445bc311f5323ef3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.0/moreculling-1.19.1-0.9.0.jar",
-                "https://github.com/fxmorin/MoreCulling/releases/download/v0.9.0/moreculling-1.19.1-0.9.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.1/moreculling-1.19.1-0.9.1.jar",
+                "https://github.com/fxmorin/MoreCulling/releases/download/v0.9.1/moreculling-1.19.1-0.9.1.jar"
             ],
-            "fileSize": 1160018
+            "fileSize": 1162652
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.9.0.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.9.1.jar",
             "hashes": {
-                "sha1": "75c3064b8233b19623667a2d1048502d3b1234bf",
-                "sha512": "1bde74375f68f3062a9852e28a361ed4597dbab0c852a5fdf6c9d1d3caa7c3e1d711050b0d88c2f219b36963e97439ef580c1ba326cca5f7357f8795b3626529"
+                "sha1": "2598b3859ae3c6277a3ab999b4c301271b8bce43",
+                "sha512": "e86eacd1ef0418b0d74e700560fbcf33dfc3522108287f79f06ff4bcb81ab67fc6c20aa33c3310b1e884535eae97635a4910c5fd29364720199572e5ee38e7c4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.2-v1.9.0/NoChatReports-FABRIC-1.19.2-v1.9.0.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.2-v1.9.1/NoChatReports-FABRIC-1.19.2-v1.9.1.jar"
             ],
-            "fileSize": 84797
+            "fileSize": 85141
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -433,17 +444,6 @@
                 "https://github.com/UltimateBoomer/mc-no-fade/releases/download/2.0.1/nofade-1.18-2.0.1.jar"
             ],
             "fileSize": 16197
-        },
-        {
-            "path": "mods/notenoughcrashes-4.1.8+1.19.1-fabric.jar",
-            "hashes": {
-                "sha1": "3e45edbb8dc4aed296ad4997c1cf1c4c1066292d",
-                "sha512": "b5fea881b7797ab5856b9bd0ed9860f663bd613b66ab0972f080c4a23455418eed5337fa16524dcff50ab142dbf225085c60f48c5f5c04de3de60f64b8737b57"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.19-fabric/notenoughcrashes-4.1.6%2B1.19-fabric.jar"
-            ],
-            "fileSize": 166902
         },
         {
             "path": "mods/optigui-1.1.1.jar",
@@ -470,16 +470,16 @@
             "fileSize": 134397
         },
         {
-            "path": "mods/reeses_sodium_options-1.4.4+mc1.19-build.47.jar",
+            "path": "mods/reeses_sodium_options-1.4.5+mc1.19.2-build.51.jar",
             "hashes": {
-                "sha1": "07996117b63b384d30abb92d175c98500dfab04d",
-                "sha512": "37ff004b8c20f84007bfff50c8a96101d09937569d6532fc6aabcac2af4f363799484852cbb6fa75a85b4d6af646d2733d881c3238a814ab2a5be952c089dae8"
+                "sha1": "79c784afa18ee4ced0012a17d057d1725cf26bbc",
+                "sha512": "8956e63daa7ecda39f9679327b327d7af417df0e0dd8aff6d1eb8a567e38e072ae531c20f3069277f2369436482ad73593a7b950ed340342f706dc8c591d8bc4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.19-build.47.jar",
-                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.19-build.47.jar"
+                "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.19.2-build.51.jar",
+                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.19.2-build.51.jar"
             ],
-            "fileSize": 42913
+            "fileSize": 50005
         },
         {
             "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
