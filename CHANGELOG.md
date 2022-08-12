@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.0-beta.2 (2022-08-12)
+
+- Added Hold That Chunk - keeps rendered chunks in memory for extended render distance on servers, but also clears cached chunks if they haven't been visited for an hour
+  - Depending on your playstyle, this may reduce the game's memory usage for long playtime sessions
+  - Modrinth users: if this mod runs well, FO will have 100% mod parity on Modrinth :)
+- Removed Farsight - now redundant
+- Updated Continuity, MoreCulling, No Chat Reports, Not Enough Crashes, Reese's Sodium Options
+
 ### 4.2.0-beta.1 (2022-08-08)
 
 - Updated Debugify, Fabric API, Lithium, MidnightControls, Mod Menu, MoreCulling, No Chat Reports, Not Enough Crashes, Zoomify
