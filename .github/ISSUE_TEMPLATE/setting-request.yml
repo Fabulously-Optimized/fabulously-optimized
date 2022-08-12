@@ -11,7 +11,7 @@ body:
 - type: textarea
   attributes:
     label: What config to change
-    description: Describe the change you want me to make.
+    description: Describe the change you want me to make. This is NOT the place to request new features that do not already exist in included mods, ask that from the mods themselves.
   validations:
     required: true
 
