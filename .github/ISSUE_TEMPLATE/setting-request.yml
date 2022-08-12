@@ -21,20 +21,6 @@ body:
     description: How can the change benefit everyone while keeping the experience "vanilla-like"?
   validations:
     required: true
-
-- type: dropdown
-  attributes:
-    label: Category
-    description: Select the type of change you request.
-    multiple: false
-    options:
-      - Vanilla option
-      - Mod config option
-      - Changed keybind
-      - Manifest file (CurseForge, MultiMC etc.)
-      - Other
-  validations:
-    required: true
     
 - type: textarea
   attributes:
