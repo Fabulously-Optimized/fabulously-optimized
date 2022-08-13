@@ -70,9 +70,9 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
 [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
 [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
-[5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/description-overhaul/CHANGELOG.md
+[5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
-[7]: https://github.com/Fabulously-Optimized/wiki/blob/main/en-us/language-support.md
+[7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
 [10]: https://discord.gg/yxaXtaQqdB
