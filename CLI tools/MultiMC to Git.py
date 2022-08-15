@@ -1,5 +1,4 @@
 import os, shutil, re, zipfile
-from distutils import dir_util
 
 user_path = os.path.expanduser("~")
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized/"

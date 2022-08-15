@@ -11,7 +11,7 @@ body:
 - type: textarea
   attributes:
     label: What config to change
-    description: Describe the change you want me to make.
+    description: Describe the change you want me to make. This is NOT the place to request new features that do not already exist in included mods, ask that from the mods themselves.
   validations:
     required: true
 
@@ -19,20 +19,6 @@ body:
   attributes:
     label: Why should it be changed
     description: How can the change benefit everyone while keeping the experience "vanilla-like"?
-  validations:
-    required: true
-
-- type: dropdown
-  attributes:
-    label: Category
-    description: Select the type of change you request.
-    multiple: false
-    options:
-      - Vanilla option
-      - Mod config option
-      - Changed keybind
-      - Manifest file (CurseForge, MultiMC etc.)
-      - Other
   validations:
     required: true
     

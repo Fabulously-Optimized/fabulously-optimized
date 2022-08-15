@@ -1,18 +1,17 @@
 import os, shutil
-from distutils import dir_util
 
 user_path = os.path.expanduser("~")
 cf_path = user_path + "/curseforge/minecraft/Instances/Fabulously Optimized/"
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-minecraft_version = "1.19.1"
+minecraft_version = "1.19.2"
 packwiz_path = git_path + "Packwiz/" + minecraft_version
 
 # Functions
 
 def remove_dir(path, description):
     if os.path.isdir(path):
-        dir_util.remove_tree(path)
+        shutil.rmtree(path)
         print("Deleted " + description)
     else:
         print("Skipped " + description + " deletion, didn't exist")
@@ -26,7 +25,7 @@ def remove_file(path, description):
 
 def copy_dir(from_path, to_path, from_desc, to_desc):
     if os.path.isdir(from_path):
-        dir_util.copy_tree(from_path, to_path)
+        shutil.copytree(from_path, to_path, dirs_exist_ok=True)
         print("Copied " + from_desc + " to " + to_desc)
     else:
         print("Skipped " + from_desc + " copying to " + to_desc + ", didn't exist")

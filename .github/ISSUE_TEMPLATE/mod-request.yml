@@ -46,7 +46,7 @@ body:
 - type: input
   attributes:
     label: Source/other link
-    description: E.g. GitHub or GitLab, optional.
+    description: For example, a GitHub repository. Optional.
     placeholder: https://...
   validations:
     required: false
@@ -54,8 +54,18 @@ body:
 - type: input
   attributes:
     label: Mod file size
-    description: This is found on Curseforge, Modrinth and GitHub releases and is used to determine mod size-purpose ratio. Write "unknown" only if there are no public versions yet. 
+    description: Can be found on CurseForge, Modrinth and GitHub releases and is used to determine mod size-purpose ratio. Write "unknown" only if there are no public versions yet. 
     placeholder: 123.45 KB
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: License
+    description: Can be found on CurseForge, Modrinth and GitHub sidebar. If you only have a GitHub link and you can't find it from the sidebar, it is ARR.
+    options:
+      - All Rights Reserved / ARR
+      - (any other license)
   validations:
     required: true
 
@@ -81,21 +91,6 @@ body:
       Examples: not available in CurseForge/Modrinth, still in beta, depends on something, has confusing settings, not very vanilla-like etc.
   validations:
       required: true
-
-- type: dropdown
-  attributes:
-    label: Categories
-    description: Select all that match the mod.
-    multiple: true
-    options:
-      - Performance optimization
-      - Graphics optimization
-      - New feature
-      - Works like OptiFine/Bedrock Edition/Forge/etc
-      - Fixes a bug/makes another mod work
-      - Replaces an existing mod
-  validations:
-    required: true
     
 - type: textarea
   attributes:

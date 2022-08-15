@@ -1,6 +1,40 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.2
+
+### 4.2.0-beta.3 (2022-08-15)
+
+FO 4.2.0 is still estimated to be released in August, we have just a few more things to test...
+
+- Added MixinTrace - helps developers find the cause of crashes
+- Added Cloth Config API - technically it has always been there inside some mod, but currently a specific version of it is required
+- Removed Not Enough Crashes - turned out to be not that helpful for developers
+- Removed MoreCulling - performance testing results were inconclusive, some mods had incompatibilities. Decided not to add it for 4.2.0 yet, but keeping an eye on it for the future.
+
+- Updated Entity Texture Features, Language Reload, Reese's Sodium Options
+- Updated Korean in MMH by AlphaKR93
+- Added a workaround to fix Cull Less Leaves crash for some players
+
+### 4.2.0-beta.2 (2022-08-12)
+
+- Added Hold That Chunk - keeps rendered chunks in memory for extended render distance on servers, but also clears cached chunks if they haven't been visited for an hour
+  - Depending on your playstyle, this may reduce the game's memory usage for long playtime sessions
+  - Modrinth users: if this mod runs well, FO will have 100% mod parity on Modrinth :)
+- Removed Farsight - now redundant
+- Updated Continuity, MoreCulling, No Chat Reports, Not Enough Crashes, Reese's Sodium Options
+
+### 4.2.0-beta.1 (2022-08-08)
+
+- Updated Debugify, Fabric API, Lithium, MidnightControls, Mod Menu, MoreCulling, No Chat Reports, Not Enough Crashes, Zoomify
+- MidnightControls now shows a toast once, suggesting you to enable a controller if you have one connected
+  - The game will no longer switch to it automatically unless you enable that in settings
+- No Chat Reports: disabled full-screen warnings to avoid warning fatigue, the status is still shown in chat's bottom right corner
+  - Feel free to re-enable the warning from config (disable "whitelistAllServers")
+  - When updating to this version, this change will apply for everyone
+- Updated Turkish and Portuguese (Brazil) in MMH by Localfossa and PaperKing13isPro
+- Updated Fabric Loader to 0.14.9
+
 ## 1.19.1
 
 ### 4.1.0-beta.2 (2022-08-02)
@@ -235,6 +269,15 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.12.2 (2022-08-08)
+
+- Updated Indium, MemoryLeakFix, MidnightControls, Puzzle
+- MidnightControls now shows a toast once, suggesting you to enable a controller if you have one connected
+  - The game will no longer switch to it automatically unless you enable that in settings
+- Adjusted Puzzle configs to match 4.2.0-beta.1
+- Updated MMH languages
+- Updated Fabric Loader to 0.14.9
 
 ### 3.12.1 (2022-07-30)
 
