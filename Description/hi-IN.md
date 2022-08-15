@@ -6,11 +6,11 @@
   
  ### परफॉर्मांस
   
- Fabulously Optimized ज्यादतर Optifine से बेहतर साबित होता है क्योंकि उसमे [आधुनिक पेरफॉर्मांस मॉड्स का इस्तेमाल किया गया है][1] जैसे Sodium और Lithium. 
+ Fabulously Optimized ज्यादतर OptiFine से बेहतर साबित होता है क्योंकि उसमे [आधुनिक पेरफॉर्मांस मॉड्स का इस्तेमाल किया गया है][1] जैसे Sodium और Lithium. 
   
  ### OptiFine के साथ समानता 
   
- Fabulously Optimized [Optifine के लगभग सभी विभिन्न विशेषताओं को स्पोर्ट करता है][2], जिसमे shaders, connected textures और zoom आते हैं. [एक मुफ्त cape पाएं!][3] 
+ Fabulously Optimized [OptiFine के लगभग सभी विभिन्न विशेषताओं को स्पोर्ट करता है][2], जिसमे shaders, connected textures और zoom आते हैं. [एक मुफ्त cape पाएं!][3] 
   
  ### कम बदलाव 
   
@@ -66,18 +66,18 @@
   
  ### इस modpack को उस करके, [आप हमारे following disclaimers से सहमत होते हैं][15]. 
   
- [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth 
- [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine 
- [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape 
- [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional 
- [5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/description-overhaul/CHANGELOG.md 
- [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads 
- [7]: https://github.com/Fabulously-Optimized/wiki/blob/main/en-us/language-support.md 
- [8]: https://github.com/Fabulously-Optimized/fabulously-optimized 
- [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257 
- [10]: https://discord.gg/yxaXtaQqdB 
- [11]: https://fabulously-optimized.gitbook.io/modpack/ 
- [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md 
- [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup 
- [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604 
- [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+ [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
+ [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
+ [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
+ [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
+ [5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
+ [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
+ [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
+ [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
+ [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
+ [10]: https://discord.gg/yxaXtaQqdB
+ [11]: https://fabulously-optimized.gitbook.io/modpack/
+ [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
+ [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
+ [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
+ [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
