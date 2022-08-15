@@ -25,7 +25,7 @@ def remove_file(path, description):
 
 def copy_dir(from_path, to_path, from_desc, to_desc):
     if os.path.isdir(from_path):
-        shutil.copytree(from_path, to_path)
+        shutil.copytree(from_path, to_path, dirs_exist_ok=True)
         print("Copied " + from_desc + " to " + to_desc)
     else:
         print("Skipped " + from_desc + " copying to " + to_desc + ", didn't exist")

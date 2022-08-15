@@ -10,11 +10,11 @@ hash = "8e683a923285b2661e1492cf5ee17d4415478e70f8b06bf7c01a65afa705f471"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e7ad992a7fc5650df45d08a0773ef63049a917a12ed9ccc40472b3d107dfb587"
+hash = "0fa539ca80531fbff91a861d05e9f34664c76b2c43db5002b41dcbd938597b92"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cf9072c1a992989601291c03a06fef1557a377d8f952a0cec02809d9afea3e03"
+hash = "4906f88a82dac33236145cf4be5a394b1b6b459827c87524a09833d8b2765f69"
 
 [[files]]
 file = "config/modmenu.json"
@@ -124,6 +124,11 @@ hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
 metafile = true
@@ -160,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "bc927da092ee23dc5668d9607fb91362bde587b280564c00d45e44cac244205f"
+hash = "27ec599fda166bc9aad244f5039fd1e3f8584e861e1163a6d3e159721528ab81"
 metafile = true
 
 [[files]]
@@ -220,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "398b1a30ec518b3e2e88ea6bb5154499380d9a495772e2b037276edc81a43a29"
+hash = "105a414e6b2019d5040fe59eab0179515b42c76f3a58aade0b785d732b9da188"
 metafile = true
 
 [[files]]
@@ -254,6 +259,11 @@ hash = "e711296fa29d5659dcc38c4201e7a208e7e1dc8e75be919428dcbb6954765219"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e3aca0cdce3d910b14c74960e82b2099aa870ff552608ebf42ad567dfcd63cc9"
 metafile = true
@@ -264,11 +274,6 @@ hash = "6ba02ed36bd9c31c7585b3788ea70b8fbfd4027e8a4e05481e35bfb7470eaa46"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "207afdd8402bc7748814bc1aea19636752c79849f212806ebf59f0c6726d9774"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "bafac921dfa07632398d5142ab691e876d7446619c9e8f6bb052cd2c4b813fe5"
 metafile = true
@@ -276,11 +281,6 @@ metafile = true
 [[files]]
 file = "mods/no-fade.pw.toml"
 hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "5c1ef0483605531321ef075aed82b527ba79e45c323e8bf99c93a7dfcd3f83f4"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "3e58b6a26795084f643ccdf5f390bd7aa1925e277e90f251ed6b869cc5c15ce3"
+hash = "ed5cd8e04cfc5748ffdfaa2a8caa36795addc1f0b641440b0c5a7eedc9cffe6a"
 metafile = true
 
 [[files]]
@@ -335,4 +335,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "0f3960961cc65795c89cdb44deb2fe726138396ffb1b0b65cfa39be4460b79c3"
+hash = "104a01a28500a9740e52b53e9cc451253f77d5d5588278f25a0e076adb7d3406"

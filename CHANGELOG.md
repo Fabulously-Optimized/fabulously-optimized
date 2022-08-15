@@ -3,6 +3,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.0-beta.3 (2022-08-15)
+
+FO 4.2.0 is still estimated to be released in August, we have just a few more things to test...
+
+- Added MixinTrace - helps developers find the cause of crashes
+- Added Cloth Config API - technically it has always been there inside some mod, but currently a specific version of it is required
+- Removed Not Enough Crashes - turned out to be not that helpful for developers
+- Removed MoreCulling - performance testing results were inconclusive, some mods had incompatibilities. Decided not to add it for 4.2.0 yet, but keeping an eye on it for the future.
+
+- Updated Entity Texture Features, Language Reload, Reese's Sodium Options
+- Updated Korean in MMH by AlphaKR93
+- Added a workaround to fix Cull Less Leaves crash for some players
+
 ### 4.2.0-beta.2 (2022-08-12)
 
 - Added Hold That Chunk - keeps rendered chunks in memory for extended render distance on servers, but also clears cached chunks if they haven't been visited for an hour

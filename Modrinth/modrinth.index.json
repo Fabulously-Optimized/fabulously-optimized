@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.2.0-beta.2",
+    "versionId": "4.2.0-beta.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -96,6 +96,17 @@
             "fileSize": 382089
         },
         {
+            "path": "mods/cloth-config-8.0.75-fabric.jar",
+            "hashes": {
+                "sha1": "1d6175cee479a4fac60fc314e988e70485bd29b1",
+                "sha512": "a6fb5bbb4ddd14ecb3a907e48a3ce2485430e4713a8b0326b001c4a25ed2c1d9e36e1279f3bbb99e8cabcf13801eff0d43563c3505ee80687347f73212661923"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75+fabric/cloth-config-8.0.75-fabric.jar"
+            ],
+            "fileSize": 1129049
+        },
+        {
             "path": "mods/colormatic-3.1.2+mc.1.19.jar",
             "hashes": {
                 "sha1": "7524e70ccf9968d14aadbeca03cd0ec226c04054",
@@ -178,15 +189,15 @@
             "fileSize": 75567
         },
         {
-            "path": "mods/entity_texture_features_fabric-4.0.1.jar",
+            "path": "mods/entity_texture_features_fabric_1.19.x-4.0.2.jar",
             "hashes": {
-                "sha1": "471dd20a7d8ed143b53c07ee352deba9c75e78ed",
-                "sha512": "198bc066565cfd64fb846a4a2a8efcea8ace2708e4332052a1974db78e67037657b052fb4a4555ea0372a4eca92e60f0d05f3467d77a8e34caead47bb7da8bed"
+                "sha1": "ca8adf2be87fca55363fa0a0c76f112e437dc08a",
+                "sha512": "e4a7aac7c54ce9bed62165a11d4160434eb15fa9ae6b188a4c7fa7337ddbffaa0b54b4c3392437b2ff4d6fb2a08ba070272d5b389a5721a9e5313ef2ab22d117"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.1.fabric/entity_texture_features_fabric-4.0.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.2.fabric.1.19/entity_texture_features_fabric_1.19.x-4.0.2.jar"
             ],
-            "fileSize": 1185408
+            "fileSize": 1191685
         },
         {
             "path": "mods/fabric-api-0.59.0+1.19.2.jar",
@@ -305,16 +316,16 @@
             "fileSize": 556414
         },
         {
-            "path": "mods/language-reload-1.3.1.jar",
+            "path": "mods/language-reload-1.3.2.jar",
             "hashes": {
-                "sha1": "9b8fc8ce7447ad97d1e7ebba5322bccd01aff118",
-                "sha512": "157c146b0410337fe3ac58c1716b5bb9ef33a423bb9fdd5d4b38535c6500c90ccf0b6c10f1ba74a48308d16b109a22d2b2a798e88abb9be4198cf7fb6703ad14"
+                "sha1": "f35701734ae863b9736f35e09b1f3658b4b60d23",
+                "sha512": "42a46de1ce9ecff063bc3a6096db398959ff8f1622857cefba7a76154bb1f7beb04bf23b5d2c52e2d9fb96bcea307dd9b16a8f45898cd13c03a24cba400d1607"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.3.1/language-reload-1.3.1.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.3.1/language-reload-1.3.1.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.3.2/language-reload-1.3.2.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.3.2/language-reload-1.3.2.jar"
             ],
-            "fileSize": 41515
+            "fileSize": 42887
         },
         {
             "path": "mods/lazydfu-0.1.3.jar",
@@ -389,6 +400,18 @@
             "fileSize": 171453
         },
         {
+            "path": "mods/mixintrace-1.1.1+1.17.jar",
+            "hashes": {
+                "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
+                "sha512": "ea9034b60bc1c64629a9bcad2e619907692fe6e7464026236c55cc5a4892a20d21dd6318ad0380ab2ec245f7077939b6717d2ed58e00708c17470be14f5e0b5f"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/sGmHWmeL/versions/1.1.1+1.17/mixintrace-1.1.1%2B1.17.jar",
+                "https://github.com/comp500/mixintrace/releases/download/1.1.1%2B1.17/mixintrace-1.1.1%2B1.17.jar"
+            ],
+            "fileSize": 36039
+        },
+        {
             "path": "mods/modmenu-4.0.6.jar",
             "hashes": {
                 "sha1": "9035d55b5d77ef4746aaf7fa0645e84927c76c57",
@@ -410,18 +433,6 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19.1-1.1.1/morechathistory-1.19.1-1.1.1.jar"
             ],
             "fileSize": 11223
-        },
-        {
-            "path": "mods/moreculling-1.19.1-0.9.1.jar",
-            "hashes": {
-                "sha1": "25e9e4223ab26d96dc3ce51bcd5737dc6013c09d",
-                "sha512": "7d573b7dea1a575b04960460ee314f06ab749f8a74fd4ca06e569ae234e79b6ad075d26fb6d072f1ac3bf91856b63faba7d6fbde09082b4e445bc311f5323ef3"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.1/moreculling-1.19.1-0.9.1.jar",
-                "https://github.com/fxmorin/MoreCulling/releases/download/v0.9.1/moreculling-1.19.1-0.9.1.jar"
-            ],
-            "fileSize": 1162652
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.19.2-v1.9.1.jar",
@@ -470,16 +481,16 @@
             "fileSize": 134397
         },
         {
-            "path": "mods/reeses_sodium_options-1.4.5+mc1.19.2-build.51.jar",
+            "path": "mods/reeses_sodium_options-1.4.6+mc1.19.2-build.55.jar",
             "hashes": {
-                "sha1": "79c784afa18ee4ced0012a17d057d1725cf26bbc",
-                "sha512": "8956e63daa7ecda39f9679327b327d7af417df0e0dd8aff6d1eb8a567e38e072ae531c20f3069277f2369436482ad73593a7b950ed340342f706dc8c591d8bc4"
+                "sha1": "3320b6b8289175b30efc9be6d4b33ef7a6d9a453",
+                "sha512": "ccc0758309158a531dc21e37abff22d495903226ab9285f8b5660a1c9ba10f4ada4a755fa95145d6dcbd801f9c6dcd4c00991246439f6ca2588737ebd8547809"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.19.2-build.51.jar",
-                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.19.2-build.51.jar"
+                "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.19.2-build.55.jar",
+                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.19.2-build.55.jar"
             ],
-            "fileSize": 50005
+            "fileSize": 49903
         },
         {
             "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
