@@ -12,6 +12,8 @@ FO 4.2.0 is still estimated to be released in August, we have just a few more th
 - Removed Not Enough Crashes - turned out to be not that helpful for developers
 - Removed MoreCulling - performance testing results were inconclusive, some mods had incompatibilities. Decided not to add it for 4.2.0 yet, but keeping an eye on it for the future.
 
+.
+
 - Updated Entity Texture Features, Language Reload, Reese's Sodium Options
 - Updated Korean in MMH by AlphaKR93
 - Added a workaround to fix Cull Less Leaves crash for some players
@@ -69,6 +71,8 @@ Also, we've reached 500k downloads on CurseForge and almost 20k downloads on Mod
 - Updated Debugify, Fabric API, MemoryLeakFix, Mod Menu, More Chat History, MoreCulling, No Chat Reports
 - Temporarily disabled Lithium
 
+.
+
 - Disabled bugfixes MC-145929 and MC-148149 on Debugify as they are now fixed in vanilla
 - Configured No Chat Reports for 1.19.1
 - Updated Korean and Turkish in MMH by AlphaKR93 and localfossa
@@ -92,6 +96,8 @@ Also, 1.19.1-rc2 is out, with 1.19.1 release date being estimated as "next week"
   - It may eventually obsolete Cull Less Leaves, to be tested
   - Mod Menu Helper does not currently work with it, so you'll see its own description in Mod Menu
 - Removed Don't Clear Chat History - various issues, including unintended behaviour in 1.19
+
+.
 
 - Updated Debugify, Fabric Language Kotlin, MemoryLeakFix, Reese's Sodium Options
 - Removed duplicate config files from YOSBR folder
