@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.0-beta.4 (2022-08-20)
+
+- Updated Cull Less Leaves, Fabric API, Mixin Conflict Helper, No Chat Reports, Sodium Extra, Zoomify
+  - No Chat Reports now has graphical options
+  - Zoomify now has selectable presets in options (default, OptiFine, Ok Zoomer). FO continues to use the default preset because that looks the smoothest.
+- Enabled Adaptive VSync for big performance gains on supported devices
+  - Only applies for new profiles, for existing ones just set VSync to Adaptive in video settings (if you can)
+- Removed Cull Less Leaves crash workaround
+
 ### 4.2.0-beta.3 (2022-08-15)
 
 FO 4.2.0 is still estimated to be released in August, we have just a few more things to test...
