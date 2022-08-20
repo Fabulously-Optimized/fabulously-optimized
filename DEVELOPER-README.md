@@ -29,9 +29,9 @@ Contact us in Discord if you have ideas on how to streamline this process while 
    * If needed, change the Minecraft version in the script
 5. Run it in MultiMC, test
 6. Export to ZIP manually via MultiMC's option
-   * (Optionally) Run `MultiMC to Git.py` to reflect any manifest updates in Git
-5. Run `CurseForge to Packwiz-Modrinth.py`
+7. Run `MultiMC to Git.py` to reflect manifest updates in Git and streamline MultiMC ZIP's manifest 
+8. Run `CurseForge to Packwiz-Modrinth.py`
    * If needed, change the Minecraft version or variables in the script
-7. Drag the exported CurseForge ZIP to the console window and hit enter - Packwiz changes will be made and Modrinth ZIP will be exported
-8. Publish manually to GitHub, CurseForge, Modrinth
-9. Announce on modpack's Discord, Fabric's Discord
+9. Drag the exported CurseForge ZIP to the console window and hit enter - Packwiz changes will be made and Modrinth ZIP will be exported
+10. Publish manually to GitHub, CurseForge, Modrinth
+11. Announce on modpack's Discord, Fabric's Discord
