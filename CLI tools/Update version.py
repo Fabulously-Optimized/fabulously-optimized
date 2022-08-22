@@ -1,5 +1,4 @@
 import os, json
-from turtle import title
 
 user_path = os.path.expanduser("~")
 cf_path = user_path + "/curseforge/minecraft/Instances/Fabulously Optimized/"
