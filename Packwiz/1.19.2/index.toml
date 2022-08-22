@@ -10,11 +10,15 @@ hash = "8e683a923285b2661e1492cf5ee17d4415478e70f8b06bf7c01a65afa705f471"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e7ad992a7fc5650df45d08a0773ef63049a917a12ed9ccc40472b3d107dfb587"
+hash = "1ef728967500f67d189732653816870ce18cb34421da07a69be7bf3a4c4241d1"
+
+[[files]]
+file = "config/holdthatchunk.json"
+hash = "2f70df9d87842ccde9fc10e1bc775cfabef69afa57000b13bc1e7aee28db9933"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4669c99df4b43369e4ae4b087ef53bb28bcd8c2f1f651456619d9efdd3f6c9a3"
+hash = "4bbbec8dc1437c87e6988df55c86a7183bca1ace4b3e0336b26d79c04922ad06"
 
 [[files]]
 file = "config/modmenu.json"
@@ -51,6 +55,10 @@ hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
+
+[[files]]
+file = "config/yosbr/config/holdthatchunk.json"
+hash = "2f70df9d87842ccde9fc10e1bc775cfabef69afa57000b13bc1e7aee28db9933"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -128,11 +136,6 @@ hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "417d6f9564d5d6c76596ea1287f76def11d40d7b4c2f5e88fd4e00abd34286de"
-metafile = true
-
-[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "7aa8ced63d137481245c7ea9a15b5486193dc2ff944a15ca92479f093da0dc85"
 metafile = true
@@ -199,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
-hash = "dd9c0c87d98f655e385cdfd56cd6524f2853a2af1c19ab995bd42764331eefa4"
+hash = "45c3a69d127c1e0c173aae730ee2e5875fc298fffa21bfaba75b33e271a78c4e"
 metafile = true
 
 [[files]]
@@ -299,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ed5cd8e04cfc5748ffdfaa2a8caa36795addc1f0b641440b0c5a7eedc9cffe6a"
+hash = "14382dc7503db6e6e02eff91f0935b3aa8b37466fa6d2e949f3c66b8c611f5df"
 metafile = true
 
 [[files]]

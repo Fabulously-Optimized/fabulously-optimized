@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.0-beta.5 (2022-08-22)
+
+- Updated Hold That Chunk, Reese's Sodium Options
+- Removed Cloth Config API - I think it is no longer separately needed, let me know if you still get errors related to it though
+- Enabled "ignoreServerRenderDistance" in Hold That Chunk
+  - With that it should now _actually_ have full Farsight parity, so please test that again.
+- Logs now mention your version of FO
+
 ### 4.2.0-beta.4 (2022-08-20)
 
 - Updated Cull Less Leaves, Fabric API, Mixin Conflict Helper, No Chat Reports, Sodium Extra, Zoomify
