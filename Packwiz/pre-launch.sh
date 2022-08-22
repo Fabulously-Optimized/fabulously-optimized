@@ -32,6 +32,6 @@ for mod in\
 	$mod5.jar\
 	$mod0.jar
 do
-	mv ${mod} .$(basename ${mod}.jar).jar.disabled
-	echo "$mod disabled successfully!"
+	mv ${mod} .$(basename ${mod} .jar).jar.disabled
+	echo "${mod} disabled successfully!"
 done

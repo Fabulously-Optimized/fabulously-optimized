@@ -7,7 +7,7 @@ echo "Restoring overridden mods for future launches..."
 cd mods
 for disabledmod in .*.jar.disabled
 do
-	mod="$(basename $[disabledmod}.jar.disabled).jar"
+	mod="$(basename ${disabledmod} .jar.disabled).jar"
 	mv ${disabledmod} ${mod#.}
 	echo "$mod restored successfully!"
 done
