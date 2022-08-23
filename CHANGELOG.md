@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.0-beta.6 (2022-08-23)
+
+- Updated Hold That Chunk
+  - Hold That Chunk fixed the config so now, again, it has Farsight parity. It was partly my fault too :D
+- Zoomify update temporarily skipped due to a bug
+- Updated Greek in MMH by RaptaG
+
 ### 4.2.0-beta.5 (2022-08-22)
 
 - Updated Hold That Chunk, Reese's Sodium Options
