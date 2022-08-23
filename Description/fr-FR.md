@@ -14,7 +14,7 @@ Fabulously Optimized [supporte quasiment toutes les fonctionnalités d'OptiFine]
 
 ### Modifications mineures
 
-Fabulously Optimized [inclu des modifications mineures][4] qui n'interfèrent pas avec l'expérience Vanilla, comme un historique de chat augementé, un mode plein-écran fenêtré et des corrections de bugs aux problèmes les plus courrants.
+Fabulously Optimized [inclu des modifications mineures][4] qui n'interfèrent pas avec l'expérience Vanilla, comme un historique de chat augmenté, un mode plein-écran fenêtré et des corrections de bugs aux problèmes les plus courants.
 
 ### Mis à Jour
 
@@ -26,15 +26,15 @@ Fabulously Optimized est designé pour fonctionner dans n'importe quel monde ou 
 
 ### Développement ouvert
 
-Fabulously Optimized [est open-source][8] ainsi que la plupart de ses mods. Il est développé avec les idées de la communauté, collaborant avec les dévellopeurs de mods pour garantir une meilleur expérience utilisateur à tout le monde.
+Fabulously Optimized [est open-source][8] ainsi que la plupart de ses mods. Il est développé avec les idées de la communauté, collaborant avec les développeurs de mods pour garantir une meilleure expérience utilisateur à tout le monde.
 
 ### Basé sur Fabric
 
-Comparé à Forge, Fabric est mis à jour et charge plus rapidement, n'inclus pas de libraries démesurées et a un excellent support. [(Oui, Quilt est evisagé.)][9]
+Comparé à Forge, Fabric est mis à jour et charge plus rapidement, n'inclus pas de libraries démesurées et a un excellent support. [(Oui, Quilt est envisagé.)][9]
 
 ### Communauté aidante
 
-Nous avons une communauté grandissante de membres amicaux qui apprécient parler du pack et s'entre-aider. [Rejoignez-nous !][10]
+Nous avons une communauté grandissante de membres amicaux qui apprécient parler du pack et s'entraider. [Rejoignez-nous !][10]
 
 ## FAQ
 
@@ -45,7 +45,7 @@ Nous avons une communauté grandissante de membres amicaux qui apprécient parle
 
 > **Q**: Quelque chose ne va pas ! Vous devriez ajouter quelque chose !
 > 
-> **R**: [Postez le sur notre GitHub.][8]
+> **R**: [Postez-le sur notre GitHub.][8]
 
 
 > **Q**: Quel mods s'y trouvent ? 
@@ -64,7 +64,7 @@ Nous avons une communauté grandissante de membres amicaux qui apprécient parle
 > 
 > **R**: [Venez en parler avec nous sur Discord !][10]
 
-### En utilisant ce modpack, [you acceptez les conditions suivantes][15].
+### En utilisant ce modpack, [vou acceptez les conditions suivantes][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
