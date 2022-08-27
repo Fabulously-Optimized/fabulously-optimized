@@ -3,6 +3,41 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.0 (2022-08-2022)
+
+Fabulously Optimized 4.2.0 has been released for 1.19.2! 
+Thank you for 600k+ downloads on CurseForge, 30k+ downloads and 200+ followers on Modrinth!
+
+**Major changes in 3.12.2 -> 4.2.0**
+
+- Added No Chat Reports - replaces misleading chat indicators with accurate ones, opts out from chat signing where possible. More info: https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq
+- Added Mixin Config Helper - shows an user-readable alert when two mods conflict
+- Added MixinTrace - helps developers find the cause of crashes
+- Removed Don't Clear Chat History - had several issues, including unintended features on 1.19
+- Removed Not Enough Crashes - did not help the mod developers, caused other issues
+- Some mods did not make it to the release yet and some were already backported :P
+
+- Enabled Adaptive VSync on supported devices for smoother FPS
+- Zoomify is now smoother by default and has presets 
+- You can now select multiple languages in the language menu, highly recommend selecting all languages you can speak for better mod language support
+- Added Cloaks+ and Cosmetica cape support
+- Disabled chat previews to protect your privacy
+- Known issue: currently AdvancementInfo description is missing in Mod Menu for some languages, including English (US)
+
+See full changelog for more details.
+
+**Changes in 4.2.0-beta.6 -> 4.2.0**
+
+- Added back Farsight
+- Removed Hold That Chunk as it was not deemed ready yet
+- Updated Debugify, Fabric Language Kotlin, No Chat Reports, Zoomify
+- Updated Russian in MMH by RozeFound
+
+Modrinth-only:
+
+- Modrinth version will use Hold That Chunk as part of extended testing, and because Farsight is not available there anyway
+- Fixed CIT Resewn's file size in manifest
+
 ### 4.2.0-beta.6 (2022-08-23)
 
 - Updated Hold That Chunk
