@@ -335,6 +335,17 @@ Other
 
 ## 1.18.2
 
+### 3.13.0 (2022-08-27)
+
+- Added MixinTrace - helps developers find the cause of crashes
+- Removed Not Enough Crashes - turned out to be not that helpful for developers
+- Updated Continuity, Entity Texture Features, Fabric Language Kotlin, Reese's Sodium Options, Sodium Extra
+- Updated MMH translations from 4.2.0
+- Enabled Adaptive VSync for big performance gains on supported devices
+  - Only applies for new profiles, for existing ones just set VSync to Adaptive in video settings (if you can)
+- Enforced Fabric Loader 0.14.9
+- Logs now mention your version of FO
+
 ### 3.12.2 (2022-08-08)
 
 - Updated Indium, MemoryLeakFix, MidnightControls, Puzzle

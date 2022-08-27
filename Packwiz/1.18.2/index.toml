@@ -10,11 +10,11 @@ hash = "e42d605709dbede0b7db4b3392a12c851d572398af021e285e02e3499bca8b7b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3cc0ce6f147ccf91af084fb4ef07301a9a09bcf681a38e7b3e61352effcd3903"
+hash = "9b5e8d5a87661709aa1988a6a9cb3f07fe7de18f9ae56df368f2b0f876a95628"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "eaa6a9cf131726ffa555298727072b80950eddd0dafaf14bad42bfef2ee379ac"
+hash = "14dabf284d61cece204dac0f46a3a6023a4fb750f9e29c707200432b1d72ae69"
 
 [[files]]
 file = "config/modmenu.json"
@@ -67,6 +67,10 @@ hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "79ec716574d3052a3b34c73d33c2b00506b3b194b751e444135486222d86fd2e"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -122,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "e2768d23161411dcddebe4bcfa7f154632706b57f685c34bcf65e22543ec0b46"
+hash = "4b0fa19ea767d239fad702863b87571bc7ab22981168d9715efe9bb14fe3e5d7"
 metafile = true
 
 [[files]]
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "477771b89af5d034a833ec5391596d8f22ff5bfc197b0f0749bf193224754c6c"
+hash = "20dd8853a5b18df0b2cf9f7efc241d69d20ee786fc17090b6153c3a453077a7c"
 metafile = true
 
 [[files]]
@@ -172,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
+hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
 metafile = true
 
 [[files]]
@@ -246,6 +250,11 @@ hash = "845c6bfd1410cfac22e042a2839c0a3250c571d6075c384cc5814388012dbf89"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "86c821389c1ecfcf2b83975287bf3a549b00b096989324bcc15fe8a0cb06e80e"
 metafile = true
@@ -261,11 +270,6 @@ hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "441186796c072c4147b6aa43de0725a6715fd3abc5d1ff6117fb45049055c49e"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1ca96ec71e46c97fef13cce6c8ad0f0cedce7b1ed3039e7fd879b28e3f9408b9"
 metafile = true
@@ -277,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "7612fb1157e2d89637ee4881edc7e51de522c567abbda02b86990d49c17f9a9c"
+hash = "198733c09fae4a7c0ea76f0a4c1c9f42cd572a759df023748a839acab8dc75cb"
 metafile = true
 
 [[files]]
@@ -287,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "23deee21734babdb740a73d6e5aedfbbd297133df811b56e13187a8b77e5b15e"
+hash = "08f769ad40367b754ff25f73d8fae98ac05bee9a9ab34823894705a2366758d2"
 metafile = true
 
 [[files]]
@@ -317,4 +321,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "c4ac9fd4c2175de670055c9b2f5df488e3e24009e30e3f9dd2a74b913f4b4d1b"
+hash = "30cae3d640c7a768890e806908c703db5cd61f3933b5c91985c67f91f82f43a4"
