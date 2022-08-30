@@ -348,6 +348,13 @@ Other
 
 ## 1.18.2
 
+### 3.13.1 (2022-08-30)
+
+- Updated Iris Shaders, Sodium Extra
+  - Iris received some bugfixes
+- Disabled Adaptive VSync by default as it caused issues with some drivers/GPUs
+  - Existing users can disable it from video settings, or just keep using it if it works for you
+
 ### 3.13.0 (2022-08-27)
 
 - Added MixinTrace - helps developers find the cause of crashes
