@@ -6,15 +6,15 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/debugify.json"
-hash = "8e683a923285b2661e1492cf5ee17d4415478e70f8b06bf7c01a65afa705f471"
+hash = "fd23522da757e0dc436c51159141739dd9dd2eb764790833d252edbb7e026744"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "06ac1ce63ceabb65cde87f4918dd71a65116da4a6d2b8c4c01724c96d95cffca"
+hash = "59af9599c2b41e5f49928cb22255aa46c7498c332b1e8d30b0da1385b630fb9c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8aa235dc39ba892060776d66539bd4f61a4ecb127e1286c5240c981a5ff08710"
+hash = "fa6e456e72772f7b7401bde7f493db82cf158323b277fd60f0b03f184d670589"
 
 [[files]]
 file = "config/modmenu.json"
@@ -25,8 +25,12 @@ file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports.json"
-hash = "faebe6d001be88df3e47722ab8255d19c7123cdfa00007d0989606b05f81ebcf"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "73bd14a37a033692bca685b46af1acce678731795824469222f6756cac23eca5"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -54,7 +58,7 @@ hash = "35cb31f6ae8e293fed8e4eb5dff841c1e913ca2342af5fd47296f31024e14950"
 
 [[files]]
 file = "config/yosbr/config/holdthatchunk.json"
-hash = "2f70df9d87842ccde9fc10e1bc775cfabef69afa57000b13bc1e7aee28db9933"
+hash = "acc20d0a92edcf0497ebb62c7c673a8d9c99d872890bb53027722390f453e9dc"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -79,10 +83,6 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra-options.json"
-hash = "79ec716574d3052a3b34c73d33c2b00506b3b194b751e444135486222d86fd2e"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -203,12 +203,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "0abb6edf141e1050711172ae1f1848239b5d2eb472735bd091d8152c17eb45cb"
+hash = "7c3e839ecd643c10c6f905e193b6edc18c978e4be202a031cffd0b3a45266ece"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "7befee16152b92859affdb23cf8015c71c6f3cf39f8e544a8af67462595241c7"
+hash = "2188f6204dae58c3aee19018a2d7284e972c7ece683cae6e390fbff961736641"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "e840deff8aba772817ddd05d2448c9f3ac70c43480d28cf875409856f76e5515"
+hash = "55bf92acf5613a2114952b433f76461675a22525e75f888f5c81134594113797"
 metafile = true
 
 [[files]]
@@ -308,12 +308,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "15b1d9a7ee45d9481eeeaf87af79e649122f109a5f49caa4526a184a08af24f8"
+hash = "11d65f2035ec1e7ccf85bd5f962da55433825ca3c68172de3312c043ced368b6"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
+hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
 metafile = true
 
 [[files]]

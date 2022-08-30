@@ -3,7 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
-### 4.2.0 (2022-08-2022)
+### 4.2.1 (2022-08-30)
+
+- Updated Indium, Iris Shaders, No Chat Reports, Sodium, Sodium Extra
+  - Sodium and Iris received several fixes
+  - No Chat Reports has a new config so your settings have been reset to FO ones
+- Disabled Adaptive VSync by default as it caused issues with some drivers/GPUs
+  - Existing users can disable it from video settings, or just keep using it if it works for you
+- Disabled safe server icon and related options in No Chat Reports to reduce confusion
+- Enabled MC-90683 "Received unknown passenger" bugfix in Debugify
+- Modrinth-only: included time in Hold That Chunk config for easier management
+
+### 4.2.0 (2022-08-27)
 
 Fabulously Optimized 4.2.0 has been released for 1.19.2! 
 Thank you for 600k+ downloads on CurseForge, 30k+ downloads and 200+ followers on Modrinth!
@@ -16,6 +27,8 @@ Thank you for 600k+ downloads on CurseForge, 30k+ downloads and 200+ followers o
 - Removed Don't Clear Chat History - had several issues, including unintended features on 1.19
 - Removed Not Enough Crashes - did not help the mod developers, caused other issues
 - Some mods did not make it to the release yet and some were already backported :P
+
+.
 
 - Enabled Adaptive VSync on supported devices for smoother FPS
 - Zoomify is now smoother by default and has presets 

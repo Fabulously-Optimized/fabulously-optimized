@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.2.0",
+    "versionId": "4.2.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -246,28 +246,26 @@
             "fileSize": 119108
         },
         {
-            "path": "mods/indium-1.0.7+mc1.19.jar",
+            "path": "mods/indium-1.0.9+mc1.19.2.jar",
             "hashes": {
-                "sha1": "1f97081fa8da5e2876481da2917c76dcf689382b",
-                "sha512": "af648a0261f84f321ceb7e4a39866f9c899a46e875f097cea32dab73402e461b7607c79f9d935cbd49639bf6242a62c7fbd54afae4f539c3dd1d3e0b1ebe9f67"
+                "sha1": "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e",
+                "sha512": "037ffe399b279f7d4d823769035da1879fa9925a1b8d959f1dd04ad6c1ed7186d61a6a5234b0c1d653dd8fcb3f1e2ecf106758149c3f20c518e1af66e729333a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7+mc1.19/indium-1.0.7%2Bmc1.19.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.7%2Bmc1.19/indium-1.0.7%2Bmc1.19.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTfou6df/indium-1.0.9%2Bmc1.19.2.jar"
             ],
-            "fileSize": 118637
+            "fileSize": 118642
         },
         {
-            "path": "mods/iris-mc1.19.1-1.2.6.jar",
+            "path": "mods/iris-mc1.19.2-1.2.8.jar",
             "hashes": {
-                "sha1": "4d1676bca816ce282199882628375a45e7a9e97d",
-                "sha512": "524966f80f30161ada329a6b22902eb543e492c300275efb2fa50ea424fbd6ee0678dca51b115bf3506f9344e3bcfe11480002fba5e63486a6e14f9341f02f33"
+                "sha1": "4cccf2405e09e815b95dbca9a581da5f30ba3aad",
+                "sha512": "f549dc8152c6b7bccec7b8f2c79af8c36109da76a8f201c62cde007e7afb9af10ae0652c6d919faf54d604be610d341f3e1d84c1413ed8809267d353d68cbec4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/1.19.x-v1.2.6/iris-mc1.19.1-1.2.6.jar",
-                "https://github.com/IrisShaders/Iris/releases/download/1.19.x-v1.2.6/iris-mc1.19.1-1.2.6.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/Si7uxNXL/iris-mc1.19.2-1.2.8.jar"
             ],
-            "fileSize": 1574252
+            "fileSize": 1579337
         },
         {
             "path": "mods/item-model-fix-1.0.3+1.19.jar",
@@ -424,15 +422,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.10.2.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.11.1.jar",
             "hashes": {
-                "sha1": "58e3d2f58abeb12e30cb5c20023649b17c348519",
-                "sha512": "2a4e510e3c8b508b2bce74993a292dd0d57aafff35bc2ed723ae7b8359a4549eb0406f7c1f314e48fe6885e60feba6e2fbc4abb8aeb12c8cba554edf79a7b2be"
+                "sha1": "534c91a56218f6c87205eef0ff5e0f884cad33e6",
+                "sha512": "9c3458d50390137ef201d31e13616a680a13b02104651cfd073c5e2ff1e260f20f6648d20f8634fff409ec9d38764e033ce91bdd13b86fc8f36e88b45b7f7cca"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/sNRLZnRT/NoChatReports-FABRIC-1.19.2-v1.10.2.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/IrGoPphV/NoChatReports-FABRIC-1.19.2-v1.11.1.jar"
             ],
-            "fileSize": 395405
+            "fileSize": 413469
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -494,28 +492,26 @@
             "fileSize": 88634
         },
         {
-            "path": "mods/sodium-extra-0.4.7+mc1.19.2-build.52.jar",
+            "path": "mods/sodium-extra-0.4.10+mc1.19.2-build.64.jar",
             "hashes": {
-                "sha1": "95104c6615b7646d9e76be3f23ed3f844ac163d0",
-                "sha512": "2a413c26a3519a2de9ce196694cb443ac078e057ab1fc319f17da6b985f10e7269b908f01c4a4d43ebc726cd0369d2a0fb13d4bf380047cd81f32d3ba4e46655"
+                "sha1": "ea9ac83d25e16874bf5c673afdff56cc57aac156",
+                "sha512": "355f3a137922633079221682c17e7cc6ceea3dcea0e229a4c03f6412cfb2ac23a26ef923f32aaddaba64fa8efc8168ac1aa2e8b00bd4f9b8a640556cbdb52f7b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/xYkvKUSC/sodium-extra-0.4.7%2Bmc1.19.2-build.52.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.2-0.4.7/sodium-extra-0.4.7%2Bmc1.19.2-build.52.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/uy3WEIvn/sodium-extra-0.4.10%2Bmc1.19.2-build.64.jar"
             ],
-            "fileSize": 256518
+            "fileSize": 187038
         },
         {
-            "path": "mods/sodium-fabric-mc1.19-0.4.2+build.16.jar",
+            "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
             "hashes": {
-                "sha1": "6c1b055bce99d0bf64733e0ff95f347e4cd171f3",
-                "sha512": "95589fcca80f77aca8e38634927bfb7a5bd5b31b7f34c09352cc7724541b9efe8bbe1d7c1a39afcdbf67fa38f5871355ccb56817027bf6028255393c7174e450"
+                "sha1": "227648dc4f6a8604bafc282612a6de47eff70cd8",
+                "sha512": "8fbe5ada5c45efd56596bcf0c5d93d7a7264f60263289626e9d2b0ba3b3ccc914af2d9f856596a724df675804e9766a3d890d1731957fe960c58a45f0533b34e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar",
-                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar"
+                "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar"
             ],
-            "fileSize": 1364166
+            "fileSize": 1372575
         },
         {
             "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
