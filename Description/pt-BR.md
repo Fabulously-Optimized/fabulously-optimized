@@ -83,3 +83,4 @@ Temos uma comunidade em ascenção com membros amigáveis que gostam de discutir
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md

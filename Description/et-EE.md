@@ -53,6 +53,11 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > **V**: Klõpsa mistahes versiooni ja keri alla [või vaata võrdlustabelit][12].
 
 
+> **K**: Mulle meeldib see. Kuidas saan kaasa aidata?
+>
+> **V**: [Kaasa aitamise viisid on kirjeldatud siin.][16] Suur tänu!
+
+
 > **K**: Kas ma vajan seda modipakki ka serveris?
 > 
 > **V**: Ei, see töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
@@ -81,3 +86,4 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md

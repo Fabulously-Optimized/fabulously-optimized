@@ -53,6 +53,11 @@ We have a growing community of friendly members who like to discuss the pack and
 > **A**: Click any version and scroll down [or see the comparison table][12].
 
 
+> **Q**: I like this. How can I contribute?
+> 
+> **A**: [Ways you can help are described here.][16] Thank you!
+
+
 > **Q**: Do I need the modpack on the server?
 > 
 > **A**: No, this works on all servers that allow vanilla clients. [Detailed answer and server tips are here.][13] 
@@ -81,3 +86,4 @@ We have a growing community of friendly members who like to discuss the pack and
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
