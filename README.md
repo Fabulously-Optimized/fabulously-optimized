@@ -25,7 +25,7 @@ Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [PolyMC](https://polymc.org/) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|---|
 | Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#polymc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
-| Recommended for | Most people | Slow device or internet | Testers and contributors | Linux users | Those looking for a MultiMC alternative | Advanced users |
+| Recommended for | Most people | Slow device or internet | Testers and contributors | Linux users | Alternative for MultiMC | Advanced users |
 | Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
 | Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ |
