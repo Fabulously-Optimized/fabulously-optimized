@@ -14,8 +14,8 @@ Supports CurseForge Launcher, MultiMC, GDLauncher, PolyMC and vanilla launcher. 
 _These downloads do not yet support the modpack or the mods :(_
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.2.0-beta.1/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
   * Legacy (unsupported): ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ | ~[1.19](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.0.0-beta.2/Fabulously.Optimized.MC.1.19.auto-update.zip)~ | ~[1.19.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.1.0-alpha.1/Fabulously.Optimized.MC.1.19.1.auto-update.zip)~
-* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 
 </details>
   
