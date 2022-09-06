@@ -1,0 +1,20 @@
+# https://github.com/marketplace/actions/git-repo-sync
+name: Git Repo Sync
+
+on: 
+  - push
+  - delete
+
+jobs:
+  sync-bitbucket:
+    runs-on: ubuntu-latest
+    name: Git Repo Sync - BitBucket
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - uses: wangchucheng/git-repo-sync@v0.1.0
+      with:
+        target-url: ${{ secrets.BITBUCKET_GIT }}
+        target-username: ${{ secrets.BITBUCKET_USERNAME }}
+        target-token: ${{ secrets.BITBUCKET_TOKEN }}
