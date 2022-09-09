@@ -364,6 +364,14 @@ Other
 
 ## 1.18.2
 
+### 3.14.0 (2022-09-09)
+
+- Updated Iris
+  - Now supports PBR aka resource packs that support 3D overlay effects on blocks
+- Re-included separate Cloth Config API
+  - Mainly because it adds a searchbar to many mod configs now
+- Another file size fix for Modrinth
+
 ### 3.13.1 (2022-08-30)
 
 - Updated Iris Shaders, Sodium Extra
