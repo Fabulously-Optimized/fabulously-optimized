@@ -10,11 +10,11 @@ hash = "fd23522da757e0dc436c51159141739dd9dd2eb764790833d252edbb7e026744"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "59af9599c2b41e5f49928cb22255aa46c7498c332b1e8d30b0da1385b630fb9c"
+hash = "e4987ab5b9ba81b716d778a1eae1c982e71d24017456ecaffd608705cffc5de0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fa6e456e72772f7b7401bde7f493db82cf158323b277fd60f0b03f184d670589"
+hash = "dd01b5e946e12449a7c1fd52279a59fa67fe8d537cf531e1037b1f2201343223"
 
 [[files]]
 file = "config/modmenu.json"
@@ -123,12 +123,17 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "968dabb91375ca143c3c8eb7c6de76add0cff8d33bf30894650f4d4b2d0c1ce1"
+hash = "87d49809ebd20474d7d96511a11c187a86d5efb284117dd0d393004d1ce2dbe3"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "a662fdb75dc2676b5912ba07b17a481fb1f9c64b9bd93820936997a77aa1636e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c3c73a4ae07f1ab6de623b37007df3581286fe3495377af6d3da4b105892adb2"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "55bc83e34bb9ea23b3a4bb725a464aa1453547adc54126ef57cfb68ad8b7146a"
+hash = "66e0fa3a147b124142e6ad36e36e9a9550725d1739d5d4af60c90585fe75aae2"
 metafile = true
 
 [[files]]
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "55bf92acf5613a2114952b433f76461675a22525e75f888f5c81134594113797"
+hash = "d35c6e470e5c7516b4e0da268020287b975ee4a9db2e03ad8f897c23106b46a6"
 metafile = true
 
 [[files]]
@@ -327,13 +332,18 @@ hash = "5520c1dc76ba02ac7ab0648ca5facc2e5e65e6f98b5bc1c9b95d6f8be8280238"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "c12c3787f472d44defcd884ba295d1251b9975e250169b7c36c2e6e726e33624"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fbe1c1f315e7e2232f017b27fdff74886278f653e5e8e7ea2b5273bea119bb83"
+hash = "4661137c48d56bf217f2bf895a34b9050c93860a8bd4e1d646e5b50be881157d"
 metafile = true
 
 [[files]]

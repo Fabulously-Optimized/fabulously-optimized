@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.2.2 (2022-09-09)
+
+- Added YetAnotherConfigLib - for Debugify and probably more in the future
+- Re-included separate Cloth Config API
+  - Mainly because it adds a searchbar to many mod configs now
+- Updated Debugify, Fabric Capes, No Chat Reports, Zoomify
+  - Debugify has a new config screen; you have to hover and click ◀ on the category to show options inside it
+- Another file size fix for Modrinth
+
 ### 4.2.1 (2022-08-30)
 
 - Updated Indium, Iris Shaders, No Chat Reports, Sodium, Sodium Extra
