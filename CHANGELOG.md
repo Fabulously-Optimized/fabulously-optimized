@@ -3,7 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.0 (2022-09-09)
+
+- Updated Iris
+  - Now supports PBR aka resource packs that support 3D overlay effects on blocks
+
 ### 4.2.2 (2022-09-09)
+
+Aka the update that was never announced (because the next superseded it in minutes) (:
 
 - Added YetAnotherConfigLib - for Debugify and probably more in the future
 - Re-included separate Cloth Config API
