@@ -10,7 +10,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **[🌐 Translate the modpack and mods](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)** 
 * **[🧪 Test mods that are planned to be included](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+is%3Aopen+label%3A%22feedback%2Ftesters+wanted%22)**
 * **[📝 Contribute to the wiki](https://github.com/Fabulously-Optimized/wiki)**
-* **[🛑 Disable ad blocker on Modrinth](https://docs.modrinth.com/docs/details/carbon/#browsers)**
+* **[🛑 Disable ad blocker on Modrinth](https://docs.modrinth.com/docs/details/carbon/#browser-extensions)**
   * [...and then maybe browse my content a bit?](https://modrinth.com/user/robotkoer)
   * I do _not_ recommend disabling it on CurseForge due to the intrusive ads there.
 * **[🗄️ Create a Minecraft server (25% off first month!)](https://www.bisecthosting.com/clients/aff.php?aff=2604)**
