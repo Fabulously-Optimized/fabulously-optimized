@@ -1,6 +1,6 @@
-# Türkçe
+# Türkçe (TR)
 
-Performans ve grafik optimizasyonlarına odaklanan Minecraft için Fabric tabanlı bir mod paketidir.
+Performans ve grafik iyileştirmelerine odaklanan Minecraft için Fabric tabanlı bir mod paketidir.
 
 [![Mevcut inceleme](https://img.youtube.com/vi/Vj7S5_4Rkfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
@@ -10,7 +10,7 @@ Fabulously Optimized, Sodium ve Lithium gibi [modern performans modlarının][1]
 
 ### OptiFine benzerliği
 
-Fabulously Optimized [neredeyse tüm OptiFine özelliklerini destekler][2], shader, bağlı dokular ve yakınlaştırma dahil. [Ücretsiz bir pelerin alın!][3]
+Fabulously Optimized; shader, bağlantılı dokular ve yakınlaştırma dahil [neredeyse tüm OptiFine özelliklerini destekler.][2] [Ücretsiz bir pelerin alın!][3]
 
 ### Küçük değişiklikler
 
