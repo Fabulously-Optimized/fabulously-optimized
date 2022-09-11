@@ -6,7 +6,7 @@ Performans ve grafik optimizasyonlarına odaklanan Minecraft için Fabric tabanl
 
 ### Performans
 
-Fabulously Optimized, Sodyum ve Lityum gibi [modern performans modlarının][1] eklenmesi nedeniyle genellikle OptiFine'dan daha hızlıdır.
+Fabulously Optimized, Sodium ve Lithium gibi [modern performans modlarının][1] eklenmesi nedeniyle genellikle OptiFine'dan daha hızlıdır.
 
 ### OptiFine benzerliği
 
