@@ -38,7 +38,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 
 ## SSS
 
-> **S**: Nasıl kurabilirim? Güncelleyebilirim? Mod ekleyebilirim? Bir şey yapabilirim?
+> **S**: Nasıl kurarım? Güncellerim? Mod eklerim? Ya da herhangi bir şey?
 > 
 > **C**: [Cevaplar vikimizde.][11]
 
@@ -53,7 +53,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 > **C**: Herhangi bir sürüme tıklayın ve aşağı kaydırın [veya karşılaştırma tablosuna bakın][12].
 
 
-> **S**: Bunu sevdim. Nasıl katkı sağlayabilirim?
+> **S**: Bunu beğendim. Nasıl katkı sağlayabilirim?
 > 
 > **C**: [Yardım edebileceğiniz yollar burada açıklanmıştır.][16] Teşekkürler!
 
