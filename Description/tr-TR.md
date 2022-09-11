@@ -30,7 +30,7 @@ Fabulously Optimized [açık kaynaklıdır][8] ve modlarının çoğu da öyle. 
 
 ### Fabric üzerine kurulu
 
-Forge ile karşılaştırıldığında, Fabric hızlı bir şekilde güncellenir ve yüklenir, büyük kütüphaneler içermez ve yine de harika mod desteğine sahiptir. [(Evet, Quilt düşünülüyor.)][9]
+Forge ile karşılaştırıldığında, Fabric hızlı bir şekilde güncellenir ve yüklenir, büyük kütüphaneler içermezken aynı zamanda harika bir mod desteğine sahiptir. [(Evet, Quilt düşünülüyor.)][9]
 
 ### Yardımsever topluluk
 
