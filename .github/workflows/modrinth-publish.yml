@@ -1,0 +1,21 @@
+name: Automatically publish to Modrinth
+on:
+  release:
+    types: [published]
+jobs:
+  publish-to-modrinth:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Get the version
+         id: get_version
+         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
+       - name: Download the .mrpack
+         run: |
+           curl -so "MR_Fabulously Optimized_${{ steps.get_version.outputs.version }}.mrpack" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ steps.get_version.outputs.version }}/MR_Fabulously.Optimized_${{ steps.get_version.outputs.version }}.mrpack
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: 1KVo5zza
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+           modrinth-unfeature-mode: subset
+           files: '*.mrpack'
