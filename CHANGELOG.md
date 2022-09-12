@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.2 (2022-09-12)
+
+- Enabled MC-112730 and MC-228976 in Debugify because I already intended to enable them at some point but forgot
+  - Should improve performance with beacons and mob farms
+- Disabled MC-162253 in Debugify because Starlight already fixes that
+  - This may fix some some of the chunk/freeze issues, you tell me
+- Updated Turkish in MMH by localfossa
+
 ### 4.3.1-pw.1 (2022-09-12)
 
 Second test, Farsight should be fine now. Also using the new priority parameter instead of exclusion.
