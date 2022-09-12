@@ -1,4 +1,4 @@
-name: Automatically publish to Modrinth
+name: Automatically publish to Modrinth and CurseForge
 on:
   release:
     types: [published]
@@ -9,13 +9,18 @@ jobs:
        - name: Get the version
          id: get_version
          run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
-       - name: Download the .mrpack
+       - name: Download the pack files
          run: |
            curl -so "MR_Fabulously Optimized_${{ steps.get_version.outputs.version }}.mrpack" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ steps.get_version.outputs.version }}/MR_Fabulously.Optimized_${{ steps.get_version.outputs.version }}.mrpack
+           curl -so "Fabulously Optimized_${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ steps.get_version.outputs.version }}/Fabulously.Optimized_${{ steps.get_version.outputs.version }}.zip
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.2
          with:
            modrinth-id: 1KVo5zza
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
-           files: '*.mrpack'
+           modrinth-files: '*.mrpack'
+
+           curseforge-id: 396246
+           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+           curseforge-files: '*.zip'
