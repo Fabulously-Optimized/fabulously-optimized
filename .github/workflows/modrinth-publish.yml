@@ -3,6 +3,24 @@ on:
   release:
     types: [published]
 jobs:
+  publish-to-curseforge:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Get the version
+         id: get_version
+         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
+       - name: Download the pack files
+         run: curl -sLo "Fabulously Optimized-${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/Fabulously.Optimized-${{ steps.get_version.outputs.version }}.zip
+       - name: Publish to CurseForge
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           curseforge-id: 396246
+           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+           curseforge-files: '*.zip'
+           loaders: fabric
+           game-versions: 1.19.2
+           version: ${{ steps.get_version.outputs.version }} for 1.19.2 (CurseForge)  
+           
   publish-to-modrinth:
     runs-on: ubuntu-latest
     steps:
@@ -18,22 +36,5 @@ jobs:
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
            modrinth-files: '*.mrpack'
-           loaders: fabric
-           game-versions: 1.19.2
-
-  publish-to-curseforge:
-    runs-on: ubuntu-latest
-    steps:
-       - name: Get the version
-         id: get_version
-         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
-       - name: Download the pack files
-         run: curl -sLo "Fabulously Optimized-${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/Fabulously.Optimized-${{ steps.get_version.outputs.version }}.zip
-       - name: Publish to CurseForge
-         uses: Kir-Antipov/mc-publish@v3.2
-         with:
-           curseforge-id: 396246
-           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-           curseforge-files: '*.zip'
            loaders: fabric
            game-versions: 1.19.2
