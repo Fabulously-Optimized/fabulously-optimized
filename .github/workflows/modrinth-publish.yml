@@ -19,6 +19,7 @@ jobs:
            modrinth-unfeature-mode: subset
            modrinth-files: '*.mrpack'
            loaders: fabric
+           game-versions: 1.19.2
 
   publish-to-curseforge:
     runs-on: ubuntu-latest
@@ -35,3 +36,4 @@ jobs:
            curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
            curseforge-files: '*.zip'
            loaders: fabric
+           game-versions: 1.19.2
