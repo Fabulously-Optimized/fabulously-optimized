@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.1-pw.1 (2022-09-12)
+
+Second test, Farsight should be fine now. Also using the new priority parameter instead of exclusion.
+
+(the name is arbitrary and not reflected in-game)
+
 ### 4.3.1 (2022-09-11)
 
 A small reminder, somewhat related to the Iris bugfix:
