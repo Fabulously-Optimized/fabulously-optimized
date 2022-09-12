@@ -10,7 +10,7 @@ jobs:
          id: get_version
          run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
        - name: Download the pack files
-         run: curl -sLo "MR_Fabulously Optimized_${{ steps.get_version.outputs.version }}.mrpack" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/MR_Fabulously.Optimized_${{ steps.get_version.outputs.version }}.mrpack
+         run: curl -sLo "MR_Fabulously Optimized-${{ steps.get_version.outputs.version }}.mrpack" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/MR_Fabulously.Optimized-${{ steps.get_version.outputs.version }}.mrpack
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.2
          with:
@@ -26,7 +26,7 @@ jobs:
          id: get_version
          run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
        - name: Download the pack files
-         run: curl -sLo "Fabulously Optimized_${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/Fabulously.Optimized_${{ steps.get_version.outputs.version }}.zip
+         run: curl -sLo "Fabulously Optimized-${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/Fabulously.Optimized-${{ steps.get_version.outputs.version }}.zip
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.2
          with:
