@@ -1,0 +1,35 @@
+name: Automatically publish to Modrinth and CurseForge
+on:
+  release:
+    types: [published]
+jobs:
+  publish-to-modrinth:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Get the version
+         id: get_version
+         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
+       - name: Download the pack files
+         run: curl -sLo "MR_Fabulously Optimized-${{ steps.get_version.outputs.version }}.mrpack" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/MR_Fabulously.Optimized-${{ steps.get_version.outputs.version }}.mrpack
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: 1KVo5zza
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*.mrpack'
+
+  publish-to-curseforge:
+    runs-on: ubuntu-latest
+    steps:
+       - name: Get the version
+         id: get_version
+         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
+       - name: Download the pack files
+         run: curl -sLo "Fabulously Optimized-${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v${{ steps.get_version.outputs.version }}/Fabulously.Optimized-${{ steps.get_version.outputs.version }}.zip
+       - name: Publish to CurseForge
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           curseforge-id: 396246
+           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+           curseforge-files: '*.zip'
