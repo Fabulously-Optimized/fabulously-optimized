@@ -3,6 +3,27 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.1 (2022-09-11)
+
+A small reminder, somewhat related to the Iris bugfix:
+
+If you see that your resourcepack says "contains broken paths" as you try to activate it, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`. 
+That way everyone will have resource packs that work better and have less bugs!
+
+More info: https://fabulously-optimized.gitbook.io/modpack/readme/resource-pack-issues
+
+- Updated CIT Resewn, Iris Shaders, YetAnotherConfigLib, Zoomify
+  - CIT Resewn and Iris have bugfixes
+  - Zoomify has a new config screen
+  - Zoomify and Debugify settings now have a searchbar and tweaked category look
+
+### 4.3.0-pw.1 (2022-09-10)
+
+An attempt to source packwiz mods from Modrinth...
+Somehow Farsight didn't get substituted though.
+
+(the name is arbitrary and not reflected in-game)
+
 ### 4.3.0 (2022-09-09)
 
 - Updated Iris
@@ -363,6 +384,11 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.14.1 (2022-09-11)
+
+- Updated Iris
+  - Bugfixes
 
 ### 3.14.0 (2022-09-09)
 
