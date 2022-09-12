@@ -12,7 +12,7 @@ jobs:
        - name: Download the pack files
          run: |
            curl -so "MR_Fabulously Optimized_${{ steps.get_version.outputs.version }}.mrpack" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ steps.get_version.outputs.version }}/MR_Fabulously.Optimized_${{ steps.get_version.outputs.version }}.mrpack
-           curl -so "Fabulously Optimized_${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ steps.get_version.outputs.version }}/Fabulously.Optimized_${{ steps.get_version.outputs.version }}.zip
+           curl -so "Fabulously Optimized-${{ steps.get_version.outputs.version }}.zip" https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/${{ steps.get_version.outputs.version }}/Fabulously.Optimized-${{ steps.get_version.outputs.version }}.zip
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.2
          with:
