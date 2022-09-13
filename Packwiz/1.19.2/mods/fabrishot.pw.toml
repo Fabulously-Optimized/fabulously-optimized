@@ -1,13 +1,13 @@
 name = "Fabrishot"
 filename = "fabrishot-1.8.0.jar"
-
-[update]
-
-[update.modrinth]
-mod-id = "3qsfQtE9"
-version = "UO9qlY22"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.8.0/fabrishot-1.8.0.jar"
 hash-format = "sha512"
 hash = "83c7a9f7582d056a763b02c6ce20e12e89396713b3963c8d5bc5fde7b8f75c0677be7e08410af859b00c0e270af637d8e084dee0b179e12c81d842a9a1777dac"
+
+[update]
+[update.modrinth]
+mod-id = "3qsfQtE9"
+version = "UO9qlY22"
