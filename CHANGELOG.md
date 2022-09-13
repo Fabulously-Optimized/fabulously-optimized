@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.2-pw.1 (2022-09-13)
+
+It works:tm: and it successfully uses Hold That Chunk, similar to Modrinth version (even though it doesn't need to).
+
 ### 4.3.2 (2022-09-12)
 
 - Enabled MC-112730 and MC-228976 in Debugify because I already intended to enable them at some point but forgot
@@ -14,6 +18,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 4.3.1-pw.1 (2022-09-12)
 
 Second test, Farsight should be fine now. Also using the new priority parameter instead of exclusion.
+
+Edit: no, it's not fine, it has an invalid hash.
 
 (the name is arbitrary and not reflected in-game)
 
