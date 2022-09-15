@@ -19,9 +19,9 @@ refresh_only = False
 is_legacy = False
 hydrogen = False
 modrinth_overrides = True
+mmc_export_packwiz_export = True
 mmc_export_modrinth_export = True
 packwiz_modrinth_export = False
-mmc_export_packwiz_export = True
 
 def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
     with ZipFile(from_zip, 'r') as zip:
@@ -42,7 +42,6 @@ if not refresh_only:
     pack_version = "-".join(str(Path(cf_zip_path).with_suffix("")).split("-")[1:])
 
 if not mmc_export_packwiz_export and not refresh_only:    
-
     # Update pack.toml first
     with open(packwiz_manifest, "r") as f:
         pack_toml = toml.load(f)
@@ -68,9 +67,7 @@ if not is_legacy and not refresh_only:
     extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
 
 # Export packwiz pack via mmc-export method
-
 if mmc_export_packwiz_export and not refresh_only:
-
     mmc_zip_root = str(Path(cf_zip_path).parents[0])
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
     packwiz_config = git_path + "Packwiz\\mmc-export.toml"
