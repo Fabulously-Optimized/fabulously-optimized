@@ -59,7 +59,8 @@ if mmc_export_packwiz_export == False and refresh_only == False:
         os.system(packwiz_exe_path + " remove entityculling")
         os.system(packwiz_exe_path + " mr install entityculling")
         
-else: os.system(packwiz_exe_path + " refresh")
+elif mmc_export_packwiz_export == False and refresh_only == True: 
+    os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
 if is_legacy == False and refresh_only == False:
@@ -84,7 +85,7 @@ if mmc_export_packwiz_export and not refresh_only:
 
     os.remove(packwiz_zip_path)
 
-# Export Modrinth pack and manifest via mmc-export method
+# Export Modrinth pack via mmc-export method
 if mmc_export_modrinth_export:
     mmc_zip_root = str(Path(cf_zip_path).parents[0])
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
