@@ -32,16 +32,16 @@ def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
             print("Skipped " + from_desc + " copying to " + to_desc + ", didn't exist")
 
 mod_files = os.listdir(mods_path)
-if refresh_only == False:
+if not refresh_only:
     for item in mod_files:
         os.remove( os.path.join(mods_path, item))
 
 os.chdir(packwiz_path)
-if refresh_only == False:
+if not refresh_only:
     cf_zip_path = input("Please drag the CurseForge zip file here: ")[3:][:-1] # Because dragging the file adds "& " and double quotes
     pack_version = "-".join(str(Path(cf_zip_path).with_suffix("")).split("-")[1:])
 
-if mmc_export_packwiz_export == False and refresh_only == False:    
+if not mmc_export_packwiz_export and not refresh_only:    
 
     # Update pack.toml first
     with open(packwiz_manifest, "r") as f:
@@ -59,11 +59,11 @@ if mmc_export_packwiz_export == False and refresh_only == False:
         os.system(packwiz_exe_path + " remove entityculling")
         os.system(packwiz_exe_path + " mr install entityculling")
         
-elif mmc_export_packwiz_export == False and refresh_only == True: 
+elif not mmc_export_packwiz_export and refresh_only: 
     os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
-if is_legacy == False and refresh_only == False:
+if not is_legacy and not refresh_only:
     extract_file(cf_zip_path, "manifest.json", git_path + "CurseForge", "CurseForge manifest.json", "Git")
     extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
 
