@@ -67,7 +67,7 @@ if is_legacy == False and refresh_only == False:
     extract_file(cf_zip_path, "manifest.json", git_path + "CurseForge", "CurseForge manifest.json", "Git")
     extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
 
-# Export packwiz pack and manifest via mmc-export method
+# Export packwiz pack via mmc-export method
 
 if mmc_export_packwiz_export and not refresh_only:
 
@@ -85,7 +85,7 @@ if mmc_export_packwiz_export and not refresh_only:
 
     os.remove(packwiz_zip_path)
 
-# Export Modrinth pack via mmc-export method
+# Export Modrinth pack and manifest via mmc-export method
 if mmc_export_modrinth_export:
     mmc_zip_root = str(Path(cf_zip_path).parents[0])
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
