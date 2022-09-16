@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.2-pw.2 (2022-09-13)
+
+Now without Modrinth-specific changes, so it's closer to the CurseForge version.
+
 ### 4.3.2-pw.1 (2022-09-13)
 
 It works:tm: and it successfully uses Hold That Chunk, similar to Modrinth version (even though it doesn't need to).
