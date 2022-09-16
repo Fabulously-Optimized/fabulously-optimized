@@ -3,11 +3,11 @@ filename = "sodium-extra-0.4.10+mc1.19.2-build.64.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ea9ac83d25e16874bf5c673afdff56cc57aac156"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/uy3WEIvn/sodium-extra-0.4.10%2Bmc1.19.2-build.64.jar"
+hash-format = "sha512"
+hash = "355f3a137922633079221682c17e7cc6ceea3dcea0e229a4c03f6412cfb2ac23a26ef923f32aaddaba64fa8efc8168ac1aa2e8b00bd4f9b8a640556cbdb52f7b"
 
 [update]
-[update.curseforge]
-file-id = 3958738
-project-id = 447673
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "uy3WEIvn"

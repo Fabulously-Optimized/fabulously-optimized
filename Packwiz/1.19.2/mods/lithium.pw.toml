@@ -3,11 +3,11 @@ filename = "lithium-fabric-mc1.19.2-0.8.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2b7ac2bb11944ebb77441539fa2a8a3f84e4ead1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.2-0.8.3/lithium-fabric-mc1.19.2-0.8.3.jar"
+hash-format = "sha512"
+hash = "d61b1a744fefd13a5ab032d4da6f9d723f008b4afe39863f6b47ae7901a91ed7d326d27bab6b6d2ff9d17447bf2f191c6431253c7973874b6ae17ffbfd71e2a9"
 
 [update]
-[update.curseforge]
-file-id = 3923806
-project-id = 360438
+[update.modrinth]
+mod-id = "gvQqBUqZ"
+version = "Zs3sdHjK"

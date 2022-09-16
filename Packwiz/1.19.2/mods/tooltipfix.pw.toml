@@ -3,11 +3,11 @@ filename = "tooltipfix-1.0.5-1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8dd951713909e327ae42deb22d0102dc0de07b83"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/1.0.5-1.19/tooltipfix-1.0.5-1.19.jar"
+hash-format = "sha512"
+hash = "fca63f9d1501c4b685f816904adf95910a8a6fc696b113fc0ba191d534091bb1debfc3b0ae803d6dfe4334b37380cb846e68d2c3d45bd59fd631f8db3ed2ad74"
 
 [update]
-[update.curseforge]
-file-id = 3820437
-project-id = 411557
+[update.modrinth]
+mod-id = "2RKFTmiB"
+version = "ohkhRD3C"

@@ -3,6 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.3 (2022-09-16)
+
+Performance improvements!
+
+- Updated Entity Texture Features, Fabric API, No Chat Reports, YetAnotherConfigLib
+  - Entity Texture Features is now smaller, has a new config menu and a lot of fixes
+  - No Chat Reports fixed one server-joining error and got an option to disable its functionality (use it only if you can't join a server)
+  - Skipped MemoryLeakFix update as the version compatibility is improperly marked
+- Backported an upcoming Lithium fix for improved stability, thanks @Kichura!
+- Limited enabled cape providers to Mojang, MinecraftCapes and OptiFine as a way to workaround some freezing issues
+  - Eventually there will be a better fix though; feel free to re-enable any providers you need in skin settings
+- MultiMC (auto-update) now prefers Modrinth mods where available
+  - That way the downloads actually increase download count for the dev and you get more stable, potentially faster downloads!
+
 ### 4.3.2-pw.2 (2022-09-13)
 
 Now without Modrinth-specific changes, so it's closer to the CurseForge version.

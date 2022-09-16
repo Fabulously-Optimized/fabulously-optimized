@@ -3,11 +3,11 @@ filename = "Debugify-2.6.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "850f5ff67eb70cb3fb3b587f13878e1ed9b04d91"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/W2UIVXCp/Debugify-2.6.0.jar"
+hash-format = "sha512"
+hash = "3bbe92e995dffa108ec62ae4c4d7b0024c85cfac5846a6e822d66931dbf90523bd07cbc5a416de890cc6eb5bf9e427bb3792e5856e98252e3508c51abf636a79"
 
 [update]
-[update.curseforge]
-file-id = 3971285
-project-id = 596224
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "W2UIVXCp"
