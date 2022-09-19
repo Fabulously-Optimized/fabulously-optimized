@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.4 (2022-09-19)
+
+- Updated Debugify, Entity Texture Features, OptiGUI, YetAnotherConfigLib
+  - Debugify fixed a bug that made game startup slower
+  - OptiGUI received several fixes to performance and crashes
+- Disabled MC-228976 on Debugify as it's already fixed by Lithium
+- Removed MoreCulling config as it is not currently included in FO 
+- Removed Bobby config as people prefer its defaults when they install it (it is still a supported alternative mod)
+
 ### 4.3.3 (2022-09-16)
 
 Performance improvements!
