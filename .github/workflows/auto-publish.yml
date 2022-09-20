@@ -28,7 +28,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
        - name: Download the pack files
-         uses: andy-v-h/download-release-assets@v1
+         uses: andy-v-h/get-release-asset-action@v1.1.0
          with:
            match: MR_Fabulously Optimized-.*\.mrpack
            
