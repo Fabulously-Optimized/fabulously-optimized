@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.3.5 (2022-09-23)
+
+- Updated Debugify, MidnightControls, YetAnotherConfigLib, Zoomify
+  - MidnightControls got a lot of fixes, others got fewer
+- Enabled MC-59810 in Debugify to fix Ctrl+Click on Macs
+- Added an empty file "Copy all folders!" to MultiMC version to remind vanilla users that they should do that
+
 ### 4.3.4 (2022-09-19)
 
 - Updated Debugify, Entity Texture Features, OptiGUI, YetAnotherConfigLib

@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.3.4",
+    "versionId": "4.3.5",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -143,15 +143,15 @@
             "fileSize": 44742
         },
         {
-            "path": "mods/Debugify-2.6.2.jar",
+            "path": "mods/Debugify-2.7.0.jar",
             "hashes": {
-                "sha1": "29972815626e690197b66382ace8bdd43b8da33d",
-                "sha512": "b840870692359daaa6a6b46361c53723eb85d1d0f2c48c1a350954075c2322eede2d9b5f5e1f119da5ecb24eb99f9483ab6c329befb21904dff8ec9a8f11c894"
+                "sha1": "193ec9f9cb741801ec2f670ee9ca25ccd230ea26",
+                "sha512": "0de80575bbccf2635e22ed392fb07db87d8642006b8592f5b87790c2e8be0e658dc70c93fafafdc1ff395682030139cd048d55262dff6d6a05358a852d2153b4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/SCJtEeya/Debugify-2.6.2.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/HdzIkYvh/Debugify-2.7.0.jar"
             ],
-            "fileSize": 274754
+            "fileSize": 276328
         },
         {
             "path": "mods/dynamic-fps-2.2.0.jar",
@@ -373,16 +373,15 @@
             "fileSize": 56844
         },
         {
-            "path": "mods/midnightcontrols-1.5.0+1.19.jar",
+            "path": "mods/midnightcontrols-1.6.0+1.19.jar",
             "hashes": {
-                "sha1": "971f190386e9ab63b51111e981d45af313bef6dd",
-                "sha512": "6b038c277947eeb00c7df8ee375679bc60d59efcb3fa5689851651016d50fde55600047e8dd7c8aafdf846728605e27b5081d50f000160b3e4fca816b6fe870a"
+                "sha1": "7c540f8c151d9370e86b5759f8ff55ec2d19d7b2",
+                "sha512": "56d1611cc42f33d0862026f0665a34297449b8eda1c3e40856c0f83238c4a95e9dd3bb213e882ac9e052466bc090a71a7b1e18d1995a28e49918b193083250d5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bXX9h73M/versions/1.5.0+1.19/midnightcontrols-1.5.0%2B1.19.jar",
-                "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.5.0/midnightcontrols-1.5.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/bXX9h73M/versions/CTvplHoe/midnightcontrols-1.6.0%2B1.19.jar"
             ],
-            "fileSize": 536570
+            "fileSize": 538541
         },
         {
             "path": "mods/MixinConflictHelper-1.2.0.jar",
@@ -547,15 +546,15 @@
             "fileSize": 10838
         },
         {
-            "path": "mods/YetAnotherConfigLib-1.3.0.jar",
+            "path": "mods/YetAnotherConfigLib-1.4.5.jar",
             "hashes": {
-                "sha1": "8713870a0bb3d03daa18c8c86e90e6a1a861e39b",
-                "sha512": "ade99fd69de55b1e6127bc996b212817d55118c7c601284e7204889b2592825f3c16042f3a6a764076707d6372f8887461d8fad17f7f64ae6d1410290eaf79a8"
+                "sha1": "5424eb4ee09ae7e6d8e6d8e68173bfff50ef5383",
+                "sha512": "6ec1cf11fe794db6456b75193a97673c513655d0a38a20eed8f5e1ec788cd089fb6de885b407cc3e1211b86d15620c74d3133b9c46f8041e082c4ad6f015353f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/Op8HYd0I/YetAnotherConfigLib-1.3.0.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/hbt0DzsC/YetAnotherConfigLib-1.4.5.jar"
             ],
-            "fileSize": 129367
+            "fileSize": 129004
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
@@ -569,15 +568,15 @@
             "fileSize": 19206
         },
         {
-            "path": "mods/Zoomify-2.6.0.jar",
+            "path": "mods/Zoomify-2.7.0.jar",
             "hashes": {
-                "sha1": "47a6412898781fa4dd203b6cccbb673102b33793",
-                "sha512": "17d2fd1af719e2f9b743fb5fc49a3738afce3b7e42af6ee5bea789f167ea8f4aeee9c3fadeb2a554a4eec5352f426112e676e8bd4db660297f43f4aad4d702d6"
+                "sha1": "e12c3d79eda26b1d250b0b37372a70783c6a4533",
+                "sha512": "628a2873a39ebffecdf104241b04aad69f6d730d7f80dc2643001342f1c6063666347e7e09ab97d405f3f0726f77b34625d8943c6c436f81800bfd4c45111bd4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/zS4oS6ht/Zoomify-2.6.0.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/TQKBOZaT/Zoomify-2.7.0.jar"
             ],
-            "fileSize": 396000
+            "fileSize": 402465
         }
     ],
     "dependencies": {
