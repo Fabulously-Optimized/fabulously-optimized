@@ -29,12 +29,8 @@ file = "config/puzzle.json"
 hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "8e3025f48a21c72f51336cd4d248a1422d0a81f9ea0b6a7f32eab01658c71910"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
+file = "config/yosbr/options.txt"
+hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -89,8 +85,16 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "8e3025f48a21c72f51336cd4d248a1422d0a81f9ea0b6a7f32eab01658c71910"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "60bb3195d8910ee52dea1b274a1865862aceaeba6d1eeee78843c4f50feab529"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -168,13 +172,13 @@ hash = "74fdc2beb2ac4a7ff565f2d950708ee6ac9810d8773f07cc7388671be9ece387"
 metafile = true
 
 [[files]]
-file = "mods/entity_texture_features.pw.toml"
-hash = "1c6d86cc67c21717c714aec26c21af871f6512e152d528d486e89642e6d4d497"
+file = "mods/entityculling.pw.toml"
+hash = "f2118fd73ca56893fea2e5ed35ae8592562481d1875bc65204db1de54f748fed"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "f2118fd73ca56893fea2e5ed35ae8592562481d1875bc65204db1de54f748fed"
+file = "mods/entity_texture_features.pw.toml"
+hash = "1c6d86cc67c21717c714aec26c21af871f6512e152d528d486e89642e6d4d497"
 metafile = true
 
 [[files]]
@@ -213,11 +217,6 @@ hash = "fb4fb49a5f28c66204351e428cdb938d010add71d2dd8237f724db00360c2ab5"
 metafile = true
 
 [[files]]
-file = "mods/isxander-main-menu-credits.pw.toml"
-hash = "bf619ec7dae9e2dcd694424a7c702c7fa1f549c3589f9ea0f4ef4d40d9041c2a"
-metafile = true
-
-[[files]]
 file = "mods/itemmodelfix.pw.toml"
 hash = "abf27d8d15571261413f03b6d2c359badcca17b315441a4444d15d05c91cccaf"
 metafile = true
@@ -245,6 +244,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "041179182d6bdcec003516c14fc1b857f9d219e1ebf9214b11c7d16450d9154f"
+metafile = true
+
+[[files]]
+file = "mods/isxander-main-menu-credits.pw.toml"
+hash = "bf619ec7dae9e2dcd694424a7c702c7fa1f549c3589f9ea0f4ef4d40d9041c2a"
 metafile = true
 
 [[files]]
@@ -278,13 +282,13 @@ hash = "2bf8a3291d840b5f6ca368d86e005740cf6156f2c51364c29eb5cb3d157a45a2"
 metafile = true
 
 [[files]]
-file = "mods/no-fade.pw.toml"
-hash = "da5bc04ce1665f78ceae93794202796d2041d6274ffdcfa227bf9e3024ca5ea3"
+file = "mods/nochatreports.pw.toml"
+hash = "0944e2e9e31ae41b2687f42e934d9268d6476d4ee275f10d8d50e66fe5848322"
 metafile = true
 
 [[files]]
-file = "mods/nochatreports.pw.toml"
-hash = "0944e2e9e31ae41b2687f42e934d9268d6476d4ee275f10d8d50e66fe5848322"
+file = "mods/no-fade.pw.toml"
+hash = "da5bc04ce1665f78ceae93794202796d2041d6274ffdcfa227bf9e3024ca5ea3"
 metafile = true
 
 [[files]]
@@ -341,7 +345,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "228d954076e37cea8536a756bbeb9938216653c61f8fed6ad6abedb9c6f6897e"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "60bb3195d8910ee52dea1b274a1865862aceaeba6d1eeee78843c4f50feab529"
