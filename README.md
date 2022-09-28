@@ -80,4 +80,21 @@ By using this modpack, you agree to the following:
    
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
    
-* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo.
+* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo on your fork.
+
+
+  <details>
+  
+  <summary>Free badges for forks <a href="https://github.com/intergrav/devins-badges">by Devin</a></summary>
+  
+  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  
+  Markdown for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
+  <pre><code>[![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)</code></pre>
+  
+  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/built-with/fabulously-optimized_46h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  
+  Markdown for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
+  <pre><code>[![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/built-with/fabulously-optimized_46h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)</code></pre>
+  
+  </details>
