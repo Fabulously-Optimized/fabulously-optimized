@@ -6,15 +6,15 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/debugify.json"
-hash = "75adf03c6b0e2f04ab409a80ac3077b39d2bc35120bcb132d68cdcec69f372d0"
+hash = "5bcbe08077e445bca4c0f3d46e18cf8504ebb8b8fdc66499cec5e60e33401e0b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "38da6b9c5ee193da82a2fb0c9fa0ba58de3341d6c5606f59be22adf1faf98393"
+hash = "6f344f83d4b8ff715e802513af0ac53319057037911f78ebdf817fdf3ea6d5f6"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f40ebc346f6f5c6230a3b8ca8a5a3b4929158db190a850ed9ba4ef3116e47e0e"
+hash = "092a691bd102745469c510cfc6089a0fe85291b8db4cc01bc9cb66f738a98496"
 
 [[files]]
 file = "config/lithium.properties"
@@ -93,8 +93,12 @@ file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "4d945a5abd8801037b2f13352459054152d0a6b9cde735619103aa6a41a72f45"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "1cc5b78ba910fdcb7cccfcf0ac7653251e883ca1159a5e70e6a2c76219f5c95a"
+
+[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "60bb3195d8910ee52dea1b274a1865862aceaeba6d1eeee78843c4f50feab529"
+hash = "1014bede16dd935438003e691158abaa0d9e323b599d045115243616f9100ea2"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -153,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "3a97f83a23bb72ae9b3ea16e1c2029f0968ed626359f149639f48038b559cc6e"
+hash = "c7eccad65192d2a53d94454f187551b10cf8f6b07e17b48f4850cb31efe3a1c6"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "a2ceadbcddd21617a04fcbb083834f8cfc941083389487e826710fe4f06d1b1d"
+hash = "7df6d5d2e9d1060cad9ffc4aee6371b9918762bec30ed40a6e5f377c243c17d7"
 metafile = true
 
 [[files]]
@@ -183,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8f9c84b413c96b4d08b9eb5e8d067da95c786ad3437a5597ba94c4a4980ec32f"
+hash = "9a975f55142bacbade78989064c264a5fe93ecd9bd732b70920c5a3365ef8b5c"
 metafile = true
 
 [[files]]
@@ -283,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "0944e2e9e31ae41b2687f42e934d9268d6476d4ee275f10d8d50e66fe5848322"
+hash = "cad64596cd0af01f3150beeb5e7a9df03487e7dfd53e7f34ac389924570ba1d0"
 metafile = true
 
 [[files]]
@@ -293,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "dc9f97a70d40c3df9129f15da27ec212a96a46dc21e0c566d6c3f7d5c5ad4aca"
+hash = "cbc992bd5c0a572dd4712f8eeef4fedd531cf4a1642876ab579039488dabfe8f"
 metafile = true
 
 [[files]]
@@ -313,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a0673488f840bbdd1d8012ea15ccedd734aed07e4e13d4e42f1d1dac8aa88d41"
+hash = "a5d814aa60d157ebd9e66852340c4665e486e1f196b10160eda4c273fd4f7dd6"
 metafile = true
 
 [[files]]
@@ -323,17 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "177f4c2fca9d2f761dcaaf07ecbbe50f9d13a85f29a32d2210f495a46bfe1690"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "dc1a1debea900b1c00c41535bf4da687f5625fce3d428220e39a26a0ca566cdf"
+hash = "25c1c31fca4b870bbb98017952cd9853da34955abc95e865b29cd16c9d356738"
 metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib.pw.toml"
-hash = "c0590ef4dcca5ac52af92773e62ebb0661ec678cb267f80d5bf64aa85da6ca54"
+hash = "a4ebe9f3c9a45c756fc38883418d92d3797f7b7a259fba23a2cf2f456c5031ca"
 metafile = true
 
 [[files]]

@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.0 (2022-09-28)
+
+- Removed ToolTipFix - replaced by an improved fix on Debugify
+- Updated Cull Less Leaves, Debugify, Fabric API, No Chat Reports, OptiGUI, Sodium Extra, YetAnotherConfigLib
+  - Cull Less Leaves uses a new config so any changed settings have been reset
+  - No Chat Reports now supports chat encryption, enable in config file if interested
+  - Sodium Extra now allows for per-dimension fog distance and has other fog fixes
+- Enabled MC-26757 in Debugify - tooltip overflow fix
+
 ### 4.3.5 (2022-09-23)
 
 - Updated Debugify, MidnightControls, YetAnotherConfigLib, Zoomify
