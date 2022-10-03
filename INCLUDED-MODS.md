@@ -1,6 +1,6 @@
 # Included mods
 
-Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions.
+Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions. You can also find the version-specific mod list by clicking on the version on CurseForge or Modrinth.
 
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
@@ -42,8 +42,8 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's random and emissive mobs support |
 | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's and other mods' capes, [(instructions for a free cape)](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape) |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Lets you take a high-res screenshot with F9 |
-| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | [someaddon](https://www.curseforge.com/members/someaddon) |  |  | &nbsp;&nbsp;✔️ |  | Keeps far loaded chunks visible in servers, increasing visible render distance |
-| [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) | [The_TermiGator](https://www.curseforge.com/members/the_termigator) |  |  |  | &nbsp;&nbsp;✔️ | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr |
+| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | [someaddon](https://www.curseforge.com/members/someaddon) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️¹ | Keeps far loaded chunks visible in servers, increasing visible render distance |
+| [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) | [The_TermiGator](https://www.curseforge.com/members/the_termigator) |  |  |  | &nbsp;&nbsp;●¹ | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | [coderbot](https://www.curseforge.com/members/coderbot) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's shaders support, [(recommended shader list is here)](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes transparent gaps in held items |
 | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's "better grass" and "better snow" |
@@ -55,6 +55,8 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
+
+¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk [for extended testing](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/437).
 
 ## Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | Description |
@@ -92,6 +94,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds support for the Rendering API (more parity mods) |
 | [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
+| [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl) | [XanderIsDev](https://www.curseforge.com/members/xanderisdev) |  |  |  | &nbsp;&nbsp;✔️ | Makes some mods' config work |
 
 ## Alternative mods
 
@@ -103,4 +106,5 @@ Mods that are usually not included in the latest modpack (may be on legacy or be
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust/) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the beds render faster |
 | [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) | [Johni0702](https://www.curseforge.com/members/johni0702) | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Keeps far loaded chunks visible in servers, increasing visible render distance [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734) |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the chests render faster |
+| [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) | [The_TermiGator](https://www.curseforge.com/members/the_termigator) | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr. Currently CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk [for extended testing](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/437). |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Optimizes light rendering [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829) |

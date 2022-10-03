@@ -1,13 +1,13 @@
 name = "MidnightControls"
-filename = "midnightcontrols-1.5.0+1.19.jar"
+filename = "midnightcontrols-1.6.0+1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "971f190386e9ab63b51111e981d45af313bef6dd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/CTvplHoe/midnightcontrols-1.6.0%2B1.19.jar"
+hash-format = "sha512"
+hash = "56d1611cc42f33d0862026f0665a34297449b8eda1c3e40856c0f83238c4a95e9dd3bb213e882ac9e052466bc090a71a7b1e18d1995a28e49918b193083250d5"
 
 [update]
-[update.curseforge]
-file-id = 3914072
-project-id = 621768
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "CTvplHoe"

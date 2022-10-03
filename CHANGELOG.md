@@ -3,6 +3,178 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.0 (2022-09-28)
+
+- Removed ToolTipFix - replaced by an improved fix on Debugify
+- Updated Cull Less Leaves, Debugify, Fabric API, No Chat Reports, OptiGUI, Sodium Extra, YetAnotherConfigLib
+  - Cull Less Leaves uses a new config so any changed settings have been reset
+  - No Chat Reports now supports chat encryption, enable in config file if interested
+  - Sodium Extra now allows for per-dimension fog distance and has other fog fixes
+- Enabled MC-26757 in Debugify - tooltip overflow fix
+
+### 4.3.5 (2022-09-23)
+
+- Updated Debugify, MidnightControls, YetAnotherConfigLib, Zoomify
+  - MidnightControls got a lot of fixes, others got fewer
+- Enabled MC-59810 in Debugify to fix Ctrl+Click on Macs
+- Added an empty file "Copy all 3 folders!" to MultiMC version to remind vanilla users that they should do that
+
+### 4.3.4 (2022-09-19)
+
+- Updated Debugify, Entity Texture Features, OptiGUI, YetAnotherConfigLib
+  - Debugify fixed a bug that made game startup slower
+  - OptiGUI received several fixes to performance and crashes
+- Disabled MC-228976 on Debugify as it's already fixed by Lithium
+- Removed MoreCulling config as it is not currently included in FO 
+- Removed Bobby config as people prefer its defaults when they install it (it is still a supported alternative mod)
+
+### 4.3.3 (2022-09-16)
+
+Performance improvements!
+
+- Updated Entity Texture Features, Fabric API, No Chat Reports, YetAnotherConfigLib
+  - Entity Texture Features is now smaller, has a new config menu and a lot of fixes
+  - No Chat Reports fixed one server-joining error and got an option to disable its functionality (use it only if you can't join a server)
+  - Skipped MemoryLeakFix update as the version compatibility is improperly marked
+- Backported an upcoming Lithium fix for improved stability, thanks @Kichura!
+- Limited enabled cape providers to Mojang, MinecraftCapes and OptiFine as a way to workaround some freezing issues
+  - Eventually there will be a better fix though; feel free to re-enable any providers you need in skin settings
+- MultiMC (auto-update) now prefers Modrinth mods where available
+  - That way the downloads actually increase download count for the dev and you get more stable, potentially faster downloads!
+
+### 4.3.2-pw.2 (2022-09-13)
+
+Now without Modrinth-specific changes, so it's closer to the CurseForge version.
+
+### 4.3.2-pw.1 (2022-09-13)
+
+It works:tm: and it successfully uses Hold That Chunk, similar to Modrinth version (even though it doesn't need to).
+
+### 4.3.2 (2022-09-12)
+
+- Enabled MC-112730 and MC-228976 in Debugify because I already intended to enable them at some point but forgot
+  - Should improve performance with beacons and mob farms
+- Disabled MC-162253 in Debugify because Starlight already fixes that
+  - This may fix some some of the chunk/freeze issues, you tell me
+- Updated Turkish in MMH by localfossa
+
+### 4.3.1-pw.1 (2022-09-12)
+
+Second test, Farsight should be fine now. Also using the new priority parameter instead of exclusion.
+
+Edit: no, it's not fine, it has an invalid hash.
+
+(the name is arbitrary and not reflected in-game)
+
+### 4.3.1 (2022-09-11)
+
+A small reminder, somewhat related to the Iris bugfix:
+
+If you see that your resourcepack says "contains broken paths" as you try to activate it, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`. 
+That way everyone will have resource packs that work better and have less bugs!
+
+More info: https://fabulously-optimized.gitbook.io/modpack/readme/resource-pack-issues
+
+- Updated CIT Resewn, Iris Shaders, YetAnotherConfigLib, Zoomify
+  - CIT Resewn and Iris have bugfixes
+  - Zoomify has a new config screen
+  - Zoomify and Debugify settings now have a searchbar and tweaked category look
+
+### 4.3.0-pw.1 (2022-09-10)
+
+An attempt to source packwiz mods from Modrinth...
+Somehow Farsight didn't get substituted though.
+
+(the name is arbitrary and not reflected in-game)
+
+### 4.3.0 (2022-09-09)
+
+- Updated Iris
+  - Now supports PBR aka resource packs that support 3D overlay effects on blocks
+
+### 4.2.2 (2022-09-09)
+
+Aka the update that was never announced (because the next superseded it in minutes) (:
+
+- Added YetAnotherConfigLib - for Debugify and probably more in the future
+- Re-included separate Cloth Config API
+  - Mainly because it adds a searchbar to many mod configs now
+- Updated Debugify, Fabric Capes, No Chat Reports, Zoomify
+  - Debugify has a new config screen; you have to hover and click ◀ on the category to show options inside it
+- Another file size fix for Modrinth
+
+### 4.2.1 (2022-08-30)
+
+- Updated Indium, Iris Shaders, No Chat Reports, Sodium, Sodium Extra
+  - Sodium and Iris received several fixes
+  - No Chat Reports has a new config so your settings have been reset to FO ones
+- Disabled Adaptive VSync by default as it caused issues with some drivers/GPUs
+  - Existing users can disable it from video settings, or just keep using it if it works for you
+- Disabled safe server icon and related options in No Chat Reports to reduce confusion
+- Enabled MC-90683 "Received unknown passenger" bugfix in Debugify
+- Modrinth-only: included time in Hold That Chunk config for easier management
+
+### 4.2.0 (2022-08-27)
+
+Fabulously Optimized 4.2.0 has been released for 1.19.2! 
+Thank you for 600k+ downloads on CurseForge, 30k+ downloads and 200+ followers on Modrinth!
+
+**Major changes in 3.12.2 -> 4.2.0**
+
+- Added No Chat Reports - replaces misleading chat indicators with accurate ones, opts out from chat signing where possible. More info: https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq
+- Added Mixin Config Helper - shows an user-readable alert when two mods conflict
+- Added MixinTrace - helps developers find the cause of crashes
+- Removed Don't Clear Chat History - had several issues, including unintended features on 1.19
+- Removed Not Enough Crashes - did not help the mod developers, caused other issues
+- Some mods did not make it to the release yet and some were already backported :P
+
+.
+
+- Enabled Adaptive VSync on supported devices for smoother FPS
+- Zoomify is now smoother by default and has presets 
+- You can now select multiple languages in the language menu, highly recommend selecting all languages you can speak for better mod language support
+- Added Cloaks+ and Cosmetica cape support
+- Disabled chat previews to protect your privacy
+- Known issue: currently AdvancementInfo description is missing in Mod Menu for some languages, including English (US)
+
+See full changelog for more details.
+
+**Changes in 4.2.0-beta.6 -> 4.2.0**
+
+- Added back Farsight
+- Removed Hold That Chunk as it was not deemed ready yet
+- Updated Debugify, Fabric Language Kotlin, No Chat Reports, Zoomify
+- Updated Russian in MMH by RozeFound
+
+Modrinth-only:
+
+- Modrinth version will use Hold That Chunk as part of extended testing, and because Farsight is not available there anyway
+- Fixed CIT Resewn's file size in manifest
+
+### 4.2.0-beta.6 (2022-08-23)
+
+- Updated Hold That Chunk
+  - Hold That Chunk fixed the config so now, again, it has Farsight parity. It was partly my fault too :D
+- Zoomify update temporarily skipped due to a bug
+- Updated Greek in MMH by RaptaG
+
+### 4.2.0-beta.5 (2022-08-22)
+
+- Updated Hold That Chunk, Reese's Sodium Options
+- Removed Cloth Config API - I think it is no longer separately needed, let me know if you still get errors related to it though
+- Enabled "ignoreServerRenderDistance" in Hold That Chunk
+  - With that it should now _actually_ have full Farsight parity, so please test that again.
+- Logs now mention your version of FO
+
+### 4.2.0-beta.4 (2022-08-20)
+
+- Updated Cull Less Leaves, Fabric API, Mixin Conflict Helper, No Chat Reports, Sodium Extra, Zoomify
+  - No Chat Reports now has graphical options
+  - Zoomify now has selectable presets in options (default, OptiFine, Ok Zoomer). FO continues to use the default preset because that looks the smoothest.
+- Enabled Adaptive VSync for big performance gains on supported devices
+  - Only applies for new profiles, for existing ones just set VSync to Adaptive in video settings (if you can)
+- Removed Cull Less Leaves crash workaround
+
 ### 4.2.0-beta.3 (2022-08-15)
 
 FO 4.2.0 is still estimated to be released in August, we have just a few more things to test...
@@ -11,6 +183,8 @@ FO 4.2.0 is still estimated to be released in August, we have just a few more th
 - Added Cloth Config API - technically it has always been there inside some mod, but currently a specific version of it is required
 - Removed Not Enough Crashes - turned out to be not that helpful for developers
 - Removed MoreCulling - performance testing results were inconclusive, some mods had incompatibilities. Decided not to add it for 4.2.0 yet, but keeping an eye on it for the future.
+
+.
 
 - Updated Entity Texture Features, Language Reload, Reese's Sodium Options
 - Updated Korean in MMH by AlphaKR93
@@ -69,6 +243,8 @@ Also, we've reached 500k downloads on CurseForge and almost 20k downloads on Mod
 - Updated Debugify, Fabric API, MemoryLeakFix, Mod Menu, More Chat History, MoreCulling, No Chat Reports
 - Temporarily disabled Lithium
 
+.
+
 - Disabled bugfixes MC-145929 and MC-148149 on Debugify as they are now fixed in vanilla
 - Configured No Chat Reports for 1.19.1
 - Updated Korean and Turkish in MMH by AlphaKR93 and localfossa
@@ -92,6 +268,8 @@ Also, 1.19.1-rc2 is out, with 1.19.1 release date being estimated as "next week"
   - It may eventually obsolete Cull Less Leaves, to be tested
   - Mod Menu Helper does not currently work with it, so you'll see its own description in Mod Menu
 - Removed Don't Clear Chat History - various issues, including unintended behaviour in 1.19
+
+.
 
 - Updated Debugify, Fabric Language Kotlin, MemoryLeakFix, Reese's Sodium Options
 - Removed duplicate config files from YOSBR folder
@@ -269,6 +447,37 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.14.1 (2022-09-11)
+
+- Updated Iris
+  - Bugfixes
+
+### 3.14.0 (2022-09-09)
+
+- Updated Iris
+  - Now supports PBR aka resource packs that support 3D overlay effects on blocks
+- Re-included separate Cloth Config API
+  - Mainly because it adds a searchbar to many mod configs now
+- Another file size fix for Modrinth
+
+### 3.13.1 (2022-08-30)
+
+- Updated Iris Shaders, Sodium Extra
+  - Iris received some bugfixes
+- Disabled Adaptive VSync by default as it caused issues with some drivers/GPUs
+  - Existing users can disable it from video settings, or just keep using it if it works for you
+
+### 3.13.0 (2022-08-27)
+
+- Added MixinTrace - helps developers find the cause of crashes
+- Removed Not Enough Crashes - turned out to be not that helpful for developers
+- Updated Continuity, Entity Texture Features, Fabric Language Kotlin, Reese's Sodium Options, Sodium Extra
+- Updated MMH translations from 4.2.0
+- Enabled Adaptive VSync for big performance gains on supported devices
+  - Only applies for new profiles, for existing ones just set VSync to Adaptive in video settings (if you can)
+- Enforced Fabric Loader 0.14.9
+- Logs now mention your version of FO
 
 ### 3.12.2 (2022-08-08)
 

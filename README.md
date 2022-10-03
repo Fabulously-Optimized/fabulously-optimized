@@ -14,7 +14,6 @@ Supports CurseForge Launcher, MultiMC, GDLauncher and vanilla launcher. [Install
 _These downloads do not yet support the modpack or the mods :(_
 * [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [(experimental!)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.2.0-beta.1/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
-  * Legacy (unsupported): ~[1.18](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.0.0-alpha.4/Fabulously.Optimized.MC.1.18.auto-update.zip)~ | ~[1.18.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.18.1.auto-update.zip)~ | ~[1.19](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.0.0-beta.2/Fabulously.Optimized.MC.1.19.auto-update.zip)~ | ~[1.19.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.1.0-alpha.1/Fabulously.Optimized.MC.1.19.1.auto-update.zip)~
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 
@@ -80,4 +79,21 @@ By using this modpack, you agree to the following:
    
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
    
-* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo.
+* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (only to mention what you forked from).
+
+<br>
+<details>
+  
+  <summary>Free badges for forks <a href="https://github.com/intergrav/devins-badges">by Devin</a></summary>
+  
+  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  
+  Markdown for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
+  <pre><code>[![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)</code></pre>
+  
+  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/built-with/fabulously-optimized_46h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  
+  Markdown for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
+  <pre><code>[![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/built-with/fabulously-optimized_46h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)</code></pre>
+  
+</details>
