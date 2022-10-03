@@ -4,7 +4,7 @@ on:
     types: [published]
 jobs:
   publish-to-curseforge:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
        - name: Get the version
          id: get_version
