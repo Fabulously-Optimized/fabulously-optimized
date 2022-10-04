@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.4.0",
+    "versionId": "4.4.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -212,30 +212,30 @@
             "fileSize": 1723926
         },
         {
-            "path": "mods/fabric-language-kotlin-1.8.3+kotlin.1.7.10.jar",
+            "path": "mods/fabric-language-kotlin-1.8.4+kotlin.1.7.20.jar",
             "hashes": {
-                "sha1": "80645897db245424cf1efb474e7bf34ddbc34212",
-                "sha512": "4047cc345ec48e50e92a5844e4f7067ef4a537ce72cf0528057cd28b7fa31e538c003cc7e4d5bfe35a3b17704d1aac61fc6f9ad1b04dbf241ccaee4fcba785fe"
+                "sha1": "f66781e06aaace31c370238554aeb99d1ec6bc98",
+                "sha512": "c9cb39c8f2bb48410c4daecaf992d67c4f0e43ea6eb8d421a02930596e650ff5503dc50568684539eec4c8c862172129c7246fdc1d917ad1bc12671fb0050443"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/MrMwCJlh/fabric-language-kotlin-1.8.3%2Bkotlin.1.7.10.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.8.3%2Bkotlin.1.7.10/fabric-language-kotlin-1.8.3%2Bkotlin.1.7.10.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/allNCj2E/fabric-language-kotlin-1.8.4%2Bkotlin.1.7.20.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.8.4%2Bkotlin.1.7.20/fabric-language-kotlin-1.8.4%2Bkotlin.1.7.20.jar"
             ],
-            "fileSize": 6341669
+            "fileSize": 6389493
         },
         {
-            "path": "mods/fabrishot-1.8.0.jar",
+            "path": "mods/fabrishot-1.9.1.jar",
             "hashes": {
-                "sha1": "229c504dd8d48527f4484d3dba569baa63b03fe1",
-                "sha512": "83c7a9f7582d056a763b02c6ce20e12e89396713b3963c8d5bc5fde7b8f75c0677be7e08410af859b00c0e270af637d8e084dee0b179e12c81d842a9a1777dac"
+                "sha1": "e95b8898cc6c75b9d2fde3f5440ae09f46ba1249",
+                "sha512": "aefcb0f6b87013f5287b252e3bd1762a90206bdd41d0cdfb83abe50d2283906ca3808a1c582a62f5aaadfd60416469435b6f3a304554be934c889a570ae6b4bf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.8.0/fabrishot-1.8.0.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/Fq42foYA/fabrishot-1.9.1.jar"
             ],
-            "fileSize": 38539
+            "fileSize": 40073
         },
         {
-            "path": "mods/farsight-fabric-1.19.1-2.0.jar",
+            "path": "mods/farsight-fabric-1.19-2.1.jar",
             "hashes": {
                 "sha1": "dd4aac52c8793dd9117880499a62bada51e6ee5b",
                 "sha512": "27fe7c2612ac96fb5fa71c77fa5d5b9e7df3550758ec0ea35a0fab61f78e2a608048dbaef2d17ac5a5a4d1c7ef9f361fe45ab53633f65abf2e9ba089b9822c85"
@@ -435,15 +435,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.13.4.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.13.5.jar",
             "hashes": {
-                "sha1": "291c0ad54a0a3994891e50f11f5909a10d1e53c8",
-                "sha512": "bcdc1e7e044d9e9cbe8a01bd14df6c63b567cfbc40e3601a824932b27ad7885410e880a5ecd19d8e6e85b579dff1bba9d909093124b3b0e4970e5425646aa878"
+                "sha1": "dd7d8890c0d09d800d9f23005f546d773a66bb46",
+                "sha512": "53f15f6faa7302ba4c781e9bb6165180aff9b99212e2467de10d625fa98ac02b4cf60889a561d6c146223419e6837d8c6d3b4c44847654e3d0b8d3bccd8f6a57"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/Wm1SFNqx/NoChatReports-FABRIC-1.19.2-v1.13.4.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/So65BYOD/NoChatReports-FABRIC-1.19.2-v1.13.5.jar"
             ],
-            "fileSize": 474738
+            "fileSize": 474636
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",

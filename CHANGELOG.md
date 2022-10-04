@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.1 (2022-10-04)
+
+- Updated Fabric Language Kotlin, Fabrishot, Farsight, No Chat Reports
+  - Farsight now officially supports 1.19.2 ¯\\\_(ツ)_/¯
+
 ### 4.4.0 (2022-09-28)
 
 - Removed ToolTipFix - replaced by an improved fix on Debugify
