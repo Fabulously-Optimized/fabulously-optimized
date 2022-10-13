@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.2 (2022-10-13)
+
+- Updated Better Mount HUD, Hold That Chunk, Iris Shaders, Lithium, No Chat Reports
+  - Better Mount HUD got an icon in Mod Menu
+  - Iris supports more shader features now
+  - Lithium got new performance improvements
+  - No Chat Reports got several bugfixes and UX improvements
+  - Hold That Chunk is updated to an experimental version (ad4dfd0) so the FO Modrinth users can now determine whether it functions better and closer to Farsight. 
+- Enabled a new warning screen for Minecraft Realms, courtesy of No Chat Reports
+  - If you use Realms regularly, I recommend enabling encryption in NCR config.
+- Removed Lithium performance workaround as it is now the default
+
 ### 4.4.1 (2022-10-04)
 
 - Updated Fabric Language Kotlin, Fabrishot, Farsight, No Chat Reports
