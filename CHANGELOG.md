@@ -10,7 +10,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - Iris supports more shader features now
   - Lithium got new performance improvements
   - No Chat Reports got several bugfixes and UX improvements
-  - Hold That Chunk is updated to an experimental version (ad4dfd0) so the FO Modrinth users can now determine whether it functions better and closer to Farsight. 
+  - Hold That Chunk is updated to an experimental version (ad4dfd0) so the FO Modrinth users can now test whether it functions better and closer to Farsight. 
 - Enabled a new warning screen for Minecraft Realms, courtesy of No Chat Reports
   - If you use Realms regularly, I recommend enabling encryption in NCR config.
 - Removed Lithium performance workaround as it is now the default
