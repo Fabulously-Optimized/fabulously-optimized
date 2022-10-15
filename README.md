@@ -40,6 +40,7 @@ Not sure which edition is right for you? Check this handy table!
 🌐 [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [Türkçe](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
 More notable videos:
+* [Review](https://www.youtube.com/watch?v=LRaILLvYwY0) by The Breakdown
 * [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
 * [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
 * [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
