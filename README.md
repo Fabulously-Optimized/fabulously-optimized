@@ -15,17 +15,15 @@ _These downloads do not yet support the modpack or the mods :(_
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.2.0-beta.1/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
 
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
-
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
-
 </details>
   
 
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [PolyMC](https://polymc.org/) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher](https://gdevs.io) | [Prism Launcher](https://example.com) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|---|
-| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#polymc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
+| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
 | Recommended for | Most people | Slow device or internet | Testers and contributors | Linux users | Alternative for MultiMC | Advanced users |
 | Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
