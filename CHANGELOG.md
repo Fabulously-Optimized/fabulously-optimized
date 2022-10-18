@@ -3,6 +3,123 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.2 (2022-10-13)
+
+- Updated Better Mount HUD, Hold That Chunk, Iris Shaders, Lithium, No Chat Reports
+  - Better Mount HUD got an icon in Mod Menu
+  - Iris supports more shader features now
+  - Lithium got new performance improvements
+  - No Chat Reports got several bugfixes and UX improvements
+  - Hold That Chunk is updated to an experimental version (ad4dfd0) so the FO Modrinth users can now test whether it functions better and closer to Farsight. 
+- Enabled a new warning screen for Minecraft Realms, courtesy of No Chat Reports
+  - If you use Realms regularly, I recommend enabling encryption in NCR config.
+- Removed Lithium performance workaround as it is now the default
+
+### 4.4.1 (2022-10-04)
+
+- Updated Fabric Language Kotlin, Fabrishot, Farsight, No Chat Reports
+  - Farsight now officially supports 1.19.2 ¯\\\_(ツ)_/¯
+
+### 4.4.0 (2022-09-28)
+
+- Removed ToolTipFix - replaced by an improved fix on Debugify
+- Updated Cull Less Leaves, Debugify, Fabric API, No Chat Reports, OptiGUI, Sodium Extra, YetAnotherConfigLib
+  - Cull Less Leaves uses a new config so any changed settings have been reset
+  - No Chat Reports now supports chat encryption, enable in config file if interested
+  - Sodium Extra now allows for per-dimension fog distance and has other fog fixes
+- Enabled MC-26757 in Debugify - tooltip overflow fix
+
+### 4.3.5 (2022-09-23)
+
+- Updated Debugify, MidnightControls, YetAnotherConfigLib, Zoomify
+  - MidnightControls got a lot of fixes, others got fewer
+- Enabled MC-59810 in Debugify to fix Ctrl+Click on Macs
+- Added an empty file "Copy all 3 folders!" to MultiMC version to remind vanilla users that they should do that
+
+### 4.3.4 (2022-09-19)
+
+- Updated Debugify, Entity Texture Features, OptiGUI, YetAnotherConfigLib
+  - Debugify fixed a bug that made game startup slower
+  - OptiGUI received several fixes to performance and crashes
+- Disabled MC-228976 on Debugify as it's already fixed by Lithium
+- Removed MoreCulling config as it is not currently included in FO 
+- Removed Bobby config as people prefer its defaults when they install it (it is still a supported alternative mod)
+
+### 4.3.3 (2022-09-16)
+
+Performance improvements!
+
+- Updated Entity Texture Features, Fabric API, No Chat Reports, YetAnotherConfigLib
+  - Entity Texture Features is now smaller, has a new config menu and a lot of fixes
+  - No Chat Reports fixed one server-joining error and got an option to disable its functionality (use it only if you can't join a server)
+  - Skipped MemoryLeakFix update as the version compatibility is improperly marked
+- Backported an upcoming Lithium fix for improved stability, thanks @Kichura!
+- Limited enabled cape providers to Mojang, MinecraftCapes and OptiFine as a way to workaround some freezing issues
+  - Eventually there will be a better fix though; feel free to re-enable any providers you need in skin settings
+- MultiMC (auto-update) now prefers Modrinth mods where available
+  - That way the downloads actually increase download count for the dev and you get more stable, potentially faster downloads!
+
+### 4.3.2-pw.2 (2022-09-13)
+
+Now without Modrinth-specific changes, so it's closer to the CurseForge version.
+
+### 4.3.2-pw.1 (2022-09-13)
+
+It works:tm: and it successfully uses Hold That Chunk, similar to Modrinth version (even though it doesn't need to).
+
+### 4.3.2 (2022-09-12)
+
+- Enabled MC-112730 and MC-228976 in Debugify because I already intended to enable them at some point but forgot
+  - Should improve performance with beacons and mob farms
+- Disabled MC-162253 in Debugify because Starlight already fixes that
+  - This may fix some some of the chunk/freeze issues, you tell me
+- Updated Turkish in MMH by localfossa
+
+### 4.3.1-pw.1 (2022-09-12)
+
+Second test, Farsight should be fine now. Also using the new priority parameter instead of exclusion.
+
+Edit: no, it's not fine, it has an invalid hash.
+
+(the name is arbitrary and not reflected in-game)
+
+### 4.3.1 (2022-09-11)
+
+A small reminder, somewhat related to the Iris bugfix:
+
+If you see that your resourcepack says "contains broken paths" as you try to activate it, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`. 
+That way everyone will have resource packs that work better and have less bugs!
+
+More info: https://fabulously-optimized.gitbook.io/modpack/readme/resource-pack-issues
+
+- Updated CIT Resewn, Iris Shaders, YetAnotherConfigLib, Zoomify
+  - CIT Resewn and Iris have bugfixes
+  - Zoomify has a new config screen
+  - Zoomify and Debugify settings now have a searchbar and tweaked category look
+
+### 4.3.0-pw.1 (2022-09-10)
+
+An attempt to source packwiz mods from Modrinth...
+Somehow Farsight didn't get substituted though.
+
+(the name is arbitrary and not reflected in-game)
+
+### 4.3.0 (2022-09-09)
+
+- Updated Iris
+  - Now supports PBR aka resource packs that support 3D overlay effects on blocks
+
+### 4.2.2 (2022-09-09)
+
+Aka the update that was never announced (because the next superseded it in minutes) (:
+
+- Added YetAnotherConfigLib - for Debugify and probably more in the future
+- Re-included separate Cloth Config API
+  - Mainly because it adds a searchbar to many mod configs now
+- Updated Debugify, Fabric Capes, No Chat Reports, Zoomify
+  - Debugify has a new config screen; you have to hover and click ◀ on the category to show options inside it
+- Another file size fix for Modrinth
+
 ### 4.2.1 (2022-08-30)
 
 - Updated Indium, Iris Shaders, No Chat Reports, Sodium, Sodium Extra
@@ -347,6 +464,19 @@ Other
 * Disabled Iris' update checker
 
 ## 1.18.2
+
+### 3.14.1 (2022-09-11)
+
+- Updated Iris
+  - Bugfixes
+
+### 3.14.0 (2022-09-09)
+
+- Updated Iris
+  - Now supports PBR aka resource packs that support 3D overlay effects on blocks
+- Re-included separate Cloth Config API
+  - Mainly because it adds a searchbar to many mod configs now
+- Another file size fix for Modrinth
 
 ### 3.13.1 (2022-08-30)
 

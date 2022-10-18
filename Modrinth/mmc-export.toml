@@ -8,21 +8,19 @@ filename = "DCCH-1.18.x.jar"
 url = "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.jar"
 
 [[Resource]]
-name = "Farsight Mod"
 filename = "farsight.fabric-1.18-1.9.jar" 
 action = "remove"
 
 [[Resource]]
-name = "Farsight Mod"
-filename = "farsight-fabric-1.19.1-2.0.jar" 
-url = "https://cdn.modrinth.com/data/LXJlc5WJ/versions/jmtkq16F/holdthatchunk-1.1.1%2B1.19.jar"
-
-[[Resource]]
-name = "Not Enough Crashes"
-filename = "notenoughcrashes-4.1.8+1.19.1-fabric.jar" 
-url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.19-fabric/notenoughcrashes-4.1.6%2B1.19-fabric.jar"
+filename = "farsight-fabric-1.19-2.1.jar" 
+action = "remove"
 
 [[Resource]]
 name = "Mod Menu Helper"
 filename = "Mod Menu Helper.zip"
 action = "override"
+
+[[File]]
+name = "Copy all 3 folders!"
+filename = "Copy all 3 folders!"
+action = "remove"

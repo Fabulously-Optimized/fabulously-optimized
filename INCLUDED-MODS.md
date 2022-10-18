@@ -94,6 +94,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Indium](https://www.curseforge.com/minecraft/mc-mods/indium) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds support for the Rendering API (more parity mods) |
 | [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
+| [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl) | [XanderIsDev](https://www.curseforge.com/members/xanderisdev) |  |  |  | &nbsp;&nbsp;✔️ | Makes some mods' config work |
 
 ## Alternative mods
 
