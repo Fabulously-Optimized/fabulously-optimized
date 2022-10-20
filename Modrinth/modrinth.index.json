@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.4.2",
+    "versionId": "4.4.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -200,28 +200,26 @@
             "fileSize": 343674
         },
         {
-            "path": "mods/fabric-api-0.62.0+1.19.2.jar",
+            "path": "mods/fabric-api-0.63.0+1.19.2.jar",
             "hashes": {
-                "sha1": "25a4d08f232706a10ef0835f3d5844ce2ddd2ad1",
-                "sha512": "67514f6f8a3755831ddce54cd33e548f52c70b101014b65056512a77a682079ac7f1dff3bfa1e6fcc15248c963a45091bee83b010fd434715c70ecfeb6431eea"
+                "sha1": "2cb0e1c7db68751eb01a992d77284ac0c9353194",
+                "sha512": "e238d166434cf895e587569312520fc0f2bf5cc46deeb86707db54de4468ff40f6cb10bb99f8ef2d68e5c7bff045b4919657edb509dc9272e10df12d9ea7478c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/uLpYu4FP/fabric-api-0.62.0%2B1.19.2.jar",
-                "https://github.com/FabricMC/fabric/releases/download/0.62.0%2B1.19.2/fabric-api-0.62.0%2B1.19.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/hjQL60eb/fabric-api-0.63.0%2B1.19.2.jar"
             ],
-            "fileSize": 1723926
+            "fileSize": 1740808
         },
         {
-            "path": "mods/fabric-language-kotlin-1.8.4+kotlin.1.7.20.jar",
+            "path": "mods/fabric-language-kotlin-1.8.5+kotlin.1.7.20.jar",
             "hashes": {
-                "sha1": "f66781e06aaace31c370238554aeb99d1ec6bc98",
-                "sha512": "c9cb39c8f2bb48410c4daecaf992d67c4f0e43ea6eb8d421a02930596e650ff5503dc50568684539eec4c8c862172129c7246fdc1d917ad1bc12671fb0050443"
+                "sha1": "d792f00ea9cb6062646de40a235a976e1bd4b666",
+                "sha512": "4a9975f4dcdeff3d1054ed66a005ff1c77ad9413a16b267b0abc425bef0359b7e233e7b74772678f67cfa7d6348febd172b332b5370ddcf2c6d526b0c7f68c8a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/allNCj2E/fabric-language-kotlin-1.8.4%2Bkotlin.1.7.20.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.8.4%2Bkotlin.1.7.20/fabric-language-kotlin-1.8.4%2Bkotlin.1.7.20.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/FrvEFBGt/fabric-language-kotlin-1.8.5%2Bkotlin.1.7.20.jar"
             ],
-            "fileSize": 6389493
+            "fileSize": 6430297
         },
         {
             "path": "mods/fabrishot-1.9.1.jar",
@@ -328,15 +326,15 @@
             "fileSize": 14531
         },
         {
-            "path": "mods/lithium-fabric-mc1.19.2-0.9.1.jar",
+            "path": "mods/lithium-fabric-mc1.19.2-0.10.0.jar",
             "hashes": {
-                "sha1": "3ee18b73231f702ddfdc0d2067d6d43210b31fe0",
-                "sha512": "a161b92930b62f70d247a02e186d34d033478474d4185a2add33cf21ee52b7d09140bff6d85ea63c7d6a160787beff62224153fdf6ed615472080baff82245de"
+                "sha1": "56b23ad9e35388251b574f567945a63de88a06df",
+                "sha512": "0ca2edffd50aa9469cc7f93f8f8a886432e47d04c13b844a3ccaa580c1149aab070e6075297c46a4ebf27e40c8e00543ce0c64a0a4a740a4ad6a922d7577f154"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2ysRxhIL/lithium-fabric-mc1.19.2-0.9.1.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ySBrfN8N/lithium-fabric-mc1.19.2-0.10.0.jar"
             ],
-            "fileSize": 537267
+            "fileSize": 542107
         },
         {
             "path": "mods/main-menu-credits-1.1.1.jar",
@@ -363,16 +361,15 @@
             "fileSize": 56844
         },
         {
-            "path": "mods/midnightcontrols-1.6.0+1.19.jar",
+            "path": "mods/midnightcontrols-1.7.0+1.19.jar",
             "hashes": {
-                "sha1": "7c540f8c151d9370e86b5759f8ff55ec2d19d7b2",
-                "sha512": "56d1611cc42f33d0862026f0665a34297449b8eda1c3e40856c0f83238c4a95e9dd3bb213e882ac9e052466bc090a71a7b1e18d1995a28e49918b193083250d5"
+                "sha1": "2b5de12ba87bd67037ad7e91a4a43c0c5ecd7146",
+                "sha512": "297e1e81bba0def8ab01f82d640fe9a47fb25878b7db4fb17c4da01608df62b45d22bf4349486ecdb1760bd2a2b8394f5d54f08bdfdddcd500760437687cf2b7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bXX9h73M/versions/CTvplHoe/midnightcontrols-1.6.0%2B1.19.jar",
-                "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.6.0/midnightcontrols-1.6.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/bXX9h73M/versions/m0i6g5E7/midnightcontrols-1.7.0%2B1.19.jar"
             ],
-            "fileSize": 538541
+            "fileSize": 540805
         },
         {
             "path": "mods/MixinConflictHelper-1.2.0.jar",
@@ -549,20 +546,19 @@
             "fileSize": 19206
         },
         {
-            "path": "mods/Zoomify-2.7.0.jar",
+            "path": "mods/Zoomify-2.8.0.jar",
             "hashes": {
-                "sha1": "e12c3d79eda26b1d250b0b37372a70783c6a4533",
-                "sha512": "628a2873a39ebffecdf104241b04aad69f6d730d7f80dc2643001342f1c6063666347e7e09ab97d405f3f0726f77b34625d8943c6c436f81800bfd4c45111bd4"
+                "sha1": "903a6b92da59e1ba8268b7983e3e3b6d619ca25e",
+                "sha512": "be4035b78ebe96db988248fd34b445f5589fa1d8f9b2e638e558bc83d146566775a57ff2c5044ce0eee8319b5d011140b5256a7b52101a22d5da0a94a8867462"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/TQKBOZaT/Zoomify-2.7.0.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.7.0/Zoomify-2.7.0.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/nls01OIv/Zoomify-2.8.0.jar"
             ],
-            "fileSize": 402465
+            "fileSize": 439129
         }
     ],
     "dependencies": {
         "minecraft": "1.19.2",
-        "fabric-loader": "0.14.9"
+        "fabric-loader": "0.14.10"
     }
 }
