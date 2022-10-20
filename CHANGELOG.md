@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.3 (2022-10-20)
+
+- Updated Fabric API, Fabric Language Kotlin, Lithium, MidnightControls, Zoomify
+  - Zoomify now has a secondary zoom option with separate settings
+  - Lithium and MidnightControls got several fixes
+- Updated to Fabric Loader 0.14.10 where available
+
 ### 4.4.2 (2022-10-13)
 
 - Updated Better Mount HUD, Hold That Chunk, Iris Shaders, Lithium, No Chat Reports
