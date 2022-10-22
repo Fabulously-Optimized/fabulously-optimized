@@ -30,7 +30,7 @@ jobs:
            version: ${{ steps.get_version.outputs.version }} for 1.19.2 (CurseForge)  
            
   publish-to-modrinth:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.5
