@@ -23,13 +23,14 @@ Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Prism Launcher](https://prismlauncher.org/) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|---|
 | Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#gdlauncher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-the-vanilla) |
-| Recommended for | Most people | Slow device or internet | Testers and contributors | Alternative for MultiMC | Linux users | Advanced users |
 | Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Easy pack upgrade | ✅ | ❌ | ✅ | ● | ✅ | ❌ |
-| Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ● | ✅ | ❌ |
+| Easy pack upgrade | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ |
+| Easy pack upgrade for newer MC | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
 | Add mods with few clicks | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ |
-| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Supports the modpack and mods | ✅ | ✅ | ❌ | ● | ❌ | ✅ |
+| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Linux support | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Unique feature | 1-click install | Nostalgic UI | Always up to date | Steam Deck support | Modern UI | Familiarity | 
 
 ## Reviews
 
