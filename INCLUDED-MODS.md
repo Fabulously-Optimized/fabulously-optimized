@@ -54,7 +54,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) | [FlashyReese](https://www.cursefo&nbsp;&nbsp;rge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes Sodium's settings vertical, centered and scrollable |
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
-| [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Ensures all possible tooltips fit to screen |
+| [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Ensures all possible tooltips fit to screen |
 
 ¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk [for extended testing](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/437).
 
