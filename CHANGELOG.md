@@ -3,12 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.4 (2022-10-28)
+
+- Updated Enhanced Block Entities, Fabric API, MidnightControls, No Chat Reports, YetAnotherConfigLib
+  - Enhanced Block Entities has some crash fixes
+  - No Chat Reports has bugfixes, improved status icon contrast, clarified Realms icon/warning
+  - MidnightControls has improved compatibility with mods and interface screens
+- Updated Fabric Loader to 0.14.10 everywhere now
+
 ### 4.4.3 (2022-10-20)
 
 - Updated Fabric API, Fabric Language Kotlin, Lithium, MidnightControls, Zoomify
   - Zoomify now has a secondary zoom option with separate settings
   - Lithium and MidnightControls got several fixes
-- Updated to Fabric Loader 0.14.10 where available
+- Updated Fabric Loader to 0.14.10 where available
 
 ### 4.4.2 (2022-10-13)
 
