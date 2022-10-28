@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.4.3",
+    "versionId": "4.4.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -167,15 +167,15 @@
             "fileSize": 89446
         },
         {
-            "path": "mods/enhancedblockentities-0.7.1+1.19.jar",
+            "path": "mods/enhancedblockentities-0.7.2+1.19.2.jar",
             "hashes": {
-                "sha1": "78dd28b7d94ef3883e817a328be9e1d66aedaa24",
-                "sha512": "b1a78f509b8da64012a498618eefdebdf9fb720ce01b1b118084725d9f07f7e577ab416cbe705368e5255ef0db0d955f4766dd25e167e9fdbda8a6d36ee34ce0"
+                "sha1": "fde7ffee932782c7718fd0596864aa9058b7b93c",
+                "sha512": "3c6fe6479de6d8c9735164eb62ecb55ecb9de0cc7405cda34c125f5356428c90a37bed8ae66e0b89acb1df957a670ce55f3d0024c76ebd075f81315f055b0a14"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1%2B1.19/enhancedblockentities-0.7.1%2B1.19.jar"
+                "https://cdn.modrinth.com/data/OVuFYfre/versions/fZx04xgT/enhancedblockentities-0.7.2%2B1.19.2.jar"
             ],
-            "fileSize": 448841
+            "fileSize": 453891
         },
         {
             "path": "mods/entityculling-fabric-1.5.2-mc1.19.jar",
@@ -200,15 +200,15 @@
             "fileSize": 343674
         },
         {
-            "path": "mods/fabric-api-0.63.0+1.19.2.jar",
+            "path": "mods/fabric-api-0.64.0+1.19.2.jar",
             "hashes": {
-                "sha1": "2cb0e1c7db68751eb01a992d77284ac0c9353194",
-                "sha512": "e238d166434cf895e587569312520fc0f2bf5cc46deeb86707db54de4468ff40f6cb10bb99f8ef2d68e5c7bff045b4919657edb509dc9272e10df12d9ea7478c"
+                "sha1": "be9700fc86ae93f21b0a8775a5824eaaedff05a7",
+                "sha512": "64c21c31f2a292046bb8eb6e9203e8904d472c39fe6d5e2b46027bd40c0ae711e047ad5266805dae85def15a856d0f56489c3ce28973f963c955a9fabaf17831"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/hjQL60eb/fabric-api-0.63.0%2B1.19.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/9nx74dYD/fabric-api-0.64.0%2B1.19.2.jar"
             ],
-            "fileSize": 1740808
+            "fileSize": 1746219
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.5+kotlin.1.7.20.jar",
@@ -361,15 +361,15 @@
             "fileSize": 56844
         },
         {
-            "path": "mods/midnightcontrols-1.7.0+1.19.jar",
+            "path": "mods/midnightcontrols-1.7.1+1.19.jar",
             "hashes": {
-                "sha1": "2b5de12ba87bd67037ad7e91a4a43c0c5ecd7146",
-                "sha512": "297e1e81bba0def8ab01f82d640fe9a47fb25878b7db4fb17c4da01608df62b45d22bf4349486ecdb1760bd2a2b8394f5d54f08bdfdddcd500760437687cf2b7"
+                "sha1": "00251267d771d818c44101585be4f25d4b913dd1",
+                "sha512": "1a9dac0e514ba649a37189de4e92134f9afb39dbd3aae7439b4494db793ffc168dfee3d032709b3e65168f0b9966c1ff920aa91301ab536cb83c6a2f77e852ac"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bXX9h73M/versions/m0i6g5E7/midnightcontrols-1.7.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/bXX9h73M/versions/flDrm4to/midnightcontrols-1.7.1%2B1.19.jar"
             ],
-            "fileSize": 540805
+            "fileSize": 545229
         },
         {
             "path": "mods/MixinConflictHelper-1.2.0.jar",
@@ -419,15 +419,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.13.9.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.13.10.jar",
             "hashes": {
-                "sha1": "ad273539ea39ad166cf6b0ea9830e1768ecadbba",
-                "sha512": "586b88aa3c4054bb785b9c6dac33b514ae8b0f1f481ede47a1fb7c6d52c2f4988ae410457a868b8f01feb11a83bedbea2e219362ec3deebab6a6afe94eb34e67"
+                "sha1": "6764430324dd1ad16990810ab9649aae43a5647e",
+                "sha512": "d49ecc6edf79cfe0779ebbe9912b17a58f40d366897772421e085f3060c03764022a558350052ed4f1292e29aeca0c329f64c87c136648a242ac44636663d931"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/A7bdmpUO/NoChatReports-FABRIC-1.19.2-v1.13.9.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/KrZknjrr/NoChatReports-FABRIC-1.19.2-v1.13.10.jar"
             ],
-            "fileSize": 500476
+            "fileSize": 527604
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -523,16 +523,15 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-1.5.0.jar",
+            "path": "mods/YetAnotherConfigLib-1.6.0.jar",
             "hashes": {
-                "sha1": "6928a199868ed4e4131b4fe0c401a1f2184b4db6",
-                "sha512": "8f1298b56066e835ce23581be7e0131481ca025fd93804c190f0de26ff04aeae49dea3af3022ca6660d4556149e909cc1d6a8d71b29a0defe041667bea7ddf6d"
+                "sha1": "82296f5c091f6339f6539c54bde02343789c518a",
+                "sha512": "7a1f2729a4078230c13ed28812ecf5677d56ec5ba04bcbe5806692d791284f2a64661cdd50e4612b6bb37ed4cec33f3ac7f5b3c378aa0f5582443f8976af297f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/FxNs8Edj/YetAnotherConfigLib-1.5.0.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/1.5.0/YetAnotherConfigLib-1.5.0.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/EyhlJvkj/YetAnotherConfigLib-1.6.0.jar"
             ],
-            "fileSize": 129522
+            "fileSize": 135212
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
