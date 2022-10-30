@@ -9,10 +9,15 @@ jobs:
        - name: Get the version
          id: get_version
          run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
+         
        - name: Download the pack files
-         uses: andy-v-h/get-release-asset-action@v1.1.0
+         uses: robinraju/release-downloader@v1.5
          with:
-           match: Fabulously Optimized-.*\.zip
+           name: "*.zip"
+           latest: true
+           tarBall: false
+           zipBall: false
+           out-file-path: .
 
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.2
@@ -25,12 +30,16 @@ jobs:
            version: ${{ steps.get_version.outputs.version }} for 1.19.2 (CurseForge)  
            
   publish-to-modrinth:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
        - name: Download the pack files
-         uses: andy-v-h/get-release-asset-action@v1.1.0
+         uses: robinraju/release-downloader@v1.5
          with:
-           match: MR_Fabulously Optimized-.*\.mrpack
+           name: "*.mrpack"
+           latest: true
+           tarBall: false
+           zipBall: false
+           out-file-path: .
            
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.2

@@ -72,7 +72,7 @@ if mmc_export_packwiz_export and not refresh_only:
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
     packwiz_config = git_path + "Packwiz\\mmc-export.toml"
 
-    cmd = f'mmc-export -i "{mmc_zip_path}" -f packwiz --modrinth-search loose -o "{mmc_zip_root}" -c "{packwiz_config}" -v {pack_version} --provider-priority Modrinth CurseForge Other --scheme ' + '"mmc_export_packwiz_output"'
+    cmd = f'mmc-export -i "{mmc_zip_path}" -f packwiz --modrinth-search loose -o "{mmc_zip_root}" -c "{packwiz_config}" -v {pack_version} --provider-priority Modrinth CurseForge Other --scheme mmc_export_packwiz_output'
     os.system(cmd)
 
     packwiz_zip_path = Path(mmc_zip_root) / "mmc_export_packwiz_output.zip" 
@@ -87,9 +87,12 @@ if mmc_export_modrinth_export:
     mmc_zip_root = str(Path(cf_zip_path).parents[0])
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
     modrinth_config = git_path + "Modrinth\\mmc-export.toml"
-    os.system("mmc-export -i \"" + mmc_zip_path + "\" -f Modrinth --modrinth-search loose -o \"" + mmc_zip_root + "\" -c \"" + modrinth_config + "\" -v " + pack_version + " --scheme \"{abbr}_{name}_{version}\"")
+
+    cmd = f'mmc-export -i "{mmc_zip_path}" -f Modrinth --modrinth-search loose -o "{mmc_zip_root}" -c "{modrinth_config}" -v {pack_version} --scheme {"MR-{name}-{version}"}'
+    os.system(cmd)
+
     if is_legacy == False:
-        extract_file(mmc_zip_root + "\\MR_Fabulously Optimized_" + pack_version + ".mrpack", "modrinth.index.json", git_path + "\\" + "Modrinth", "Modrinth manifest", "Git")
+        extract_file(mmc_zip_root + "\\MR-Fabulously Optimized-" + pack_version + ".mrpack", "modrinth.index.json", git_path + "\\" + "Modrinth", "Modrinth manifest", "Git")
 
 # Export Modrinth pack and manifest via packwiz method
 if packwiz_modrinth_export:
