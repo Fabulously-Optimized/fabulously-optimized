@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.4.5 (2022-10-30)
+
+More bugfixes!
+
+- Updated Lithium, No Chat Reports
+
 ### 4.4.4 (2022-10-28)
 
 - Updated Enhanced Block Entities, Fabric API, MidnightControls, No Chat Reports, YetAnotherConfigLib
