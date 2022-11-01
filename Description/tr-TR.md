@@ -22,7 +22,7 @@ Fabulously Optimized [hızlı güncellemeler alır][5] ve daha yeni Minecraft s�
 
 ### Her yerde çalışır
 
-Fabulously Optimized herhangi bir dünya veya sunucuda çalışmak üzere tasarlanmıştır, [4 başlatıcıda çalışır, 3 sitede barındırılır][6] ve [birçok dili destekler.][7].
+Fabulously Optimized herhangi bir dünya veya sunucuda çalışmak üzere tasarlanmıştır, [5 başlatıcıda çalışır, 3 sitede barındırılır][6] ve [birçok dili destekler.][7].
 
 ### Açık geliştirme
 
