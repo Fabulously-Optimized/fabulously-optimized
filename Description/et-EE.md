@@ -22,7 +22,7 @@ Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakk
 
 ### Töötab kõikjal
 
-Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 4 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
+Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 5 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
 
 ### Avatud arendus
 
