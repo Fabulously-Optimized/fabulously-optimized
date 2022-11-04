@@ -22,7 +22,7 @@ Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakk
 
 ### Töötab kõikjal
 
-Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 4 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
+Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 5 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
 
 ### Avatud arendus
 
@@ -30,7 +30,7 @@ Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle m
 
 ### Põhineb Fabricul
 
-Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust. [(Jah, Quilt on kaalumisel.)][9]
+Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust.
 
 ### Abivalmis kogukond
 
