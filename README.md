@@ -84,16 +84,26 @@ By using this modpack, you agree to the following:
 <br>
 <details>
   
-  <summary>Free badges for forks <a href="https://github.com/intergrav/devins-badges">by Devin</a></summary>
+  <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
   
+  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_vector.svg">
+  
+  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
+  ```html
+  <!-- Markdown -->
   [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+
+  <!-- HTML (resizeable) -->
+  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_vector.svg">
+  ```
+  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_vector.svg">
   
-  Markdown for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  <pre><code>[![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)</code></pre>
-  
-  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/built-with/fabulously-optimized_46h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
-  
-  Markdown for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  <pre><code>[![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/built-with/fabulously-optimized_46h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)</code></pre>
+  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
+  ```html
+  <!-- Markdown -->
+  ![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_46h.png)
+  <!-- HTML (resizeable) -->
+  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/built-with/fabulously-optimized_vector.svg">
+  ```
   
 </details>
