@@ -8,7 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated Debugify
 - Enabled MC-135973 "Can't hold Q to drop items rapidly from container inventories" in Debugify (1.19.3 parity)
 - Fixed some strings not being shown in Mod Menu Helper
-  - Thanks Mod Menu folks Processor and haykam!
+  - Thanks Mod Menu folks Prospector and haykam!
 - Updated Hold That Chunk to 2.0.0 in Modrinth version
 
 ### 4.4.5 (2022-10-30)
