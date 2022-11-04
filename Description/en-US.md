@@ -30,7 +30,7 @@ Fabulously Optimized [is open-source][8] and so are most of its mods. It is deve
 
 ### Built on Fabric
 
-Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support. [(Yes, Quilt is being considered.)][9]
+Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support.
 
 ### Helpful community
 

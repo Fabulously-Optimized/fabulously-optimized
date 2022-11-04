@@ -30,7 +30,7 @@ Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle m
 
 ### Põhineb Fabricul
 
-Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust. [(Jah, Quilt on kaalumisel.)][9]
+Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust.
 
 ### Abivalmis kogukond
 
