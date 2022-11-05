@@ -1,49 +1,51 @@
 # English (US)
 
-A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations. 
+A Fabric-based Minecraft modpack focusing on performance and graphic enhancements.
+<!-- On Modrinth, this line is unneeded in the project body, since the summary field exists -->
 
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[<img src="https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" alt="Current review" height="110"/> - a YouTube showcase by Rexus](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
-Fabulously Optimized is usually faster than OptiFine due to the inclusion of [modern performance mods][1] like Sodium and Lithium.
+Fabulously Optimized is usually faster than OptiFine thanks to [modern performance mods][1] such as Sodium, Lithium and more!
+
+### Compatibility
+
+Fabulously Optimized works on any world or server, [supports 5 launchers, is hosted on 3 sites][6] and [translated to many languages][7]. All of its mods don't change vanilla mechanics and are purely visual.
 
 ### OptiFine parity
 
-Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [Get a free cape!][3]
+Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [You can even get your own free cape!][3]
 
 ### Minor tweaks
 
-Fabulously Optimized [includes minor tweaks][4] that don't break the vanilla feel, such as increased chat history, windowed full screen mode and bugfixes to most common issues.
+Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as increased chat history, windowed fullscreen mode and fixes to most common bugs.
 
 ### Up to date
 
-Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
-
-### Works everywhere
-
-Fabulously Optimized is designed to work on any world or server, [runs on 5 launchers, is hosted on 3 sites][6] and [supports many languages][7].
+Fabulously Optimized [receives fast updates][5] and is, in fact, one of the first modpacks to upgrade to newer Minecraft versions.
 
 ### Open development
 
-Fabulously Optimized [is open-source][8] and so are most of its mods. It is developed with ideas from the community, collaborating with mod developers to create a better user experience for everyone.
+Fabulously Optimized [is open-source][8] and so are most of its mods. We always welcome suggestions from the users and collaborate with mod developers to create a better user experience for everyone.
 
-### Built on Fabric
-
-Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support.
-
-### Helpful community
+### Community
 
 We have a growing community of friendly members who like to discuss the pack and help each other. [Join us!][10]
 
+### Built on Fabric
+
+Compared to Forge, Fabric is lightweight, updates and loads fast, and still has great mod support.
+
+
 ## FAQ
 
-> **Q**: How do I install? Update? Add mods? Something else?
+> **Q**: How do I install/update/add mods/do something else?
 > 
 > **A**: [The answers are in our wiki.][11]
 
 
-> **Q**: Something broke! You should add something!
+> **Q**: Something broke/You should add something!
 > 
 > **A**: [Post it to our GitHub.][8]
 
@@ -53,14 +55,14 @@ We have a growing community of friendly members who like to discuss the pack and
 > **A**: Click any version and scroll down [or see the comparison table][12].
 
 
-> **Q**: I like this. How can I contribute?
+> **Q**: I like the modpack. How can I contribute?
 > 
 > **A**: [Ways you can help are described here.][16] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
 > 
-> **A**: No, this works on all servers that allow vanilla clients. [Detailed answer and server tips are here.][13] 
+> **A**: No, it works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13] 
 > 
 > [![](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
@@ -69,7 +71,7 @@ We have a growing community of friendly members who like to discuss the pack and
 > 
 > **A**: [Come and chat with us on Discord!][10]
 
-### By using this modpack, [you agree to the following disclaimers][15].
+### Using this modpack, [you acknowlege those disclaimers][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
