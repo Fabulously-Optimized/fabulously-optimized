@@ -30,7 +30,7 @@ Fabulously Optimized [est open-source][8] ainsi que la plupart de ses mods. Il e
 
 ### Basé sur Fabric
 
-Comparé à Forge, Fabric est mis à jour et charge plus rapidement, n'inclus pas de libraries démesurées et a un excellent support. [(Oui, Quilt est envisagé.)][9]
+Comparé à Forge, Fabric est mis à jour et charge plus rapidement, n'inclus pas de libraries démesurées et a un excellent support.
 
 ### Communauté aidante
 
