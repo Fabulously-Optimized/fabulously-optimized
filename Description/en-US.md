@@ -19,7 +19,7 @@ Fabulously Optimized [supports almost all OptiFine features][2], including shade
 
 ### Minor tweaks
 
-Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as increased chat history, windowed fullscreen mode and fixes to most common bugs.
+Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as extended chat history, windowed fullscreen mode, fixes to most common bugs and utilities to diagnose crashes.
 
 ### Up to date
 
