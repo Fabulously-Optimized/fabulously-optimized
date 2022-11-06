@@ -1,13 +1,13 @@
 name = "Zoomify"
-filename = "Zoomify-2.3.0.jar"
+filename = "Zoomify-2.8.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3686a6e6cfe9a1634646e1785495c33ae9a6d899"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/nls01OIv/Zoomify-2.8.0.jar"
+hash-format = "sha512"
+hash = "be4035b78ebe96db988248fd34b445f5589fa1d8f9b2e638e558bc83d146566775a57ff2c5044ce0eee8319b5d011140b5256a7b52101a22d5da0a94a8867462"
 
 [update]
-[update.curseforge]
-file-id = 3941713
-project-id = 574741
+[update.modrinth]
+mod-id = "w7ThoJFB"
+version = "nls01OIv"

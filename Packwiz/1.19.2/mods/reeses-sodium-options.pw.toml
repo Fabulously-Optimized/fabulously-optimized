@@ -3,11 +3,11 @@ filename = "reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9cc6500afef896a577f7f07b635945d469e4b41"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iusxhlyd/reeses_sodium_options-1.4.7%2Bmc1.19.2-build.59.jar"
+hash-format = "sha512"
+hash = "5b44706b885a1d29f908af86eb48bdd848fb6222254c360cb05090ec65a31903dcd69c0861940685d3edb6d93b6ef8932dca9c82105dbdfb98f5ed007cfa2cf7"
 
 [update]
-[update.curseforge]
-file-id = 3946216
-project-id = 511319
+[update.modrinth]
+mod-id = "Bh37bMuy"
+version = "Iusxhlyd"

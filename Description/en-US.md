@@ -22,7 +22,7 @@ Fabulously Optimized [receives fast updates][5] and is one of the first modpacks
 
 ### Works everywhere
 
-Fabulously Optimized is designed to work on any world or server, [runs on 4 launchers, is hosted on 3 sites][6] and [supports many languages][7].
+Fabulously Optimized is designed to work on any world or server, [runs on 5 launchers, is hosted on 3 sites][6] and [supports many languages][7].
 
 ### Open development
 
@@ -30,7 +30,7 @@ Fabulously Optimized [is open-source][8] and so are most of its mods. It is deve
 
 ### Built on Fabric
 
-Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support. [(Yes, Quilt is being considered.)][9]
+Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support.
 
 ### Helpful community
 
@@ -51,6 +51,11 @@ We have a growing community of friendly members who like to discuss the pack and
 > **Q**: What mods does it have? 
 > 
 > **A**: Click any version and scroll down [or see the comparison table][12].
+
+
+> **Q**: I like this. How can I contribute?
+> 
+> **A**: [Ways you can help are described here.][16] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
@@ -81,3 +86,4 @@ We have a growing community of friendly members who like to discuss the pack and
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md

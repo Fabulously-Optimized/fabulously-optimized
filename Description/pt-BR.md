@@ -24,7 +24,7 @@ Fabulously Optimized [recebe atualizações rapidamente][5] e é um dos primeiro
 
 ### Funciona em todo lugar
 
-Fabulously Optimized é pensado para funcionar em qualquer mundo ou servidor, [roda em 4 launchers, é hospedado em 3 sites][6] e [suporta diversas linguagens][7].
+Fabulously Optimized é pensado para funcionar em qualquer mundo ou servidor, [roda em 5 launchers, é hospedado em 3 sites][6] e [suporta diversas linguagens][7].
 
 ### Desenvolvimento aberto
 
@@ -32,7 +32,7 @@ Fabulously Optimized [é de código aberto][8] e o mesmo é para maioria de seus
 
 ### Construído com o Fabric
 
-Comparado ao Forge, Fabric atualiza e carrega rápido, não inclui bibliotecas gigantes e mantém um grande suporte a mods. [(Sim, Quilt está sendo considerado.)][9]
+Comparado ao Forge, Fabric atualiza e carrega rápido, não inclui bibliotecas gigantes e mantém um grande suporte a mods.
 
 ### Comunidade útil
 
@@ -83,3 +83,4 @@ Temos uma comunidade em ascenção com membros amigáveis que gostam de discutir
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md

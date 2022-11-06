@@ -1,0 +1,52 @@
+name: Automatically publish to Modrinth and CurseForge
+on:
+  release:
+    types: [published]
+jobs:
+  publish-to-curseforge:
+    runs-on: ubuntu-22.04
+    steps:
+       - name: Get the version
+         id: get_version
+         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
+         
+       - name: Download the pack files
+         uses: robinraju/release-downloader@v1.5
+         with:
+           name: "*.zip"
+           latest: true
+           tarBall: false
+           zipBall: false
+           out-file-path: .
+
+       - name: Publish to CurseForge
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           curseforge-id: 396246
+           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+           curseforge-files: '*.zip'
+           loaders: fabric
+           game-versions: '1.19.2'
+           version: ${{ steps.get_version.outputs.version }} for 1.19.2 (CurseForge)  
+           
+  publish-to-modrinth:
+    runs-on: ubuntu-22.04
+    steps:
+       - name: Download the pack files
+         uses: robinraju/release-downloader@v1.5
+         with:
+           name: "*.mrpack"
+           latest: true
+           tarBall: false
+           zipBall: false
+           out-file-path: .
+           
+       - name: Publish to Modrinth
+         uses: Kir-Antipov/mc-publish@v3.2
+         with:
+           modrinth-id: 1KVo5zza
+           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+           modrinth-unfeature-mode: subset
+           modrinth-files: '*.mrpack'
+           loaders: fabric
+           game-versions: '1.19.2'

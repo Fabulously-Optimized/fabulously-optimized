@@ -3,11 +3,11 @@ filename = "colormatic-3.1.2+mc.1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "7524e70ccf9968d14aadbeca03cd0ec226c04054"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/V4IQxkZC/versions/3.1.2/colormatic-3.1.2%2Bmc.1.19.jar"
+hash-format = "sha512"
+hash = "a3c9c4dd2dfb90e993dbadf387a94c7625441c83c7eeb8966f6fe660b616d3191b37219929ac590e0c1361649f8ebc1706e63f00477f1afd4e80ec721a9ae120"
 
 [update]
-[update.curseforge]
-file-id = 3821958
-project-id = 325092
+[update.modrinth]
+mod-id = "V4IQxkZC"
+version = "IcIVUUIc"
