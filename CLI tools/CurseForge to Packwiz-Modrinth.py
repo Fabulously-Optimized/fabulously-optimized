@@ -88,11 +88,11 @@ if mmc_export_modrinth_export:
     mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
     modrinth_config = git_path + "Modrinth\\mmc-export.toml"
 
-    cmd = f'mmc-export -i "{mmc_zip_path}" -f Modrinth --modrinth-search loose -o "{mmc_zip_root}" -c "{modrinth_config}" -v {pack_version} --scheme {"MR-{name}-{version}"}'
+    cmd = f'mmc-export -i "{mmc_zip_path}" -f Modrinth --modrinth-search loose -o "{mmc_zip_root}" -c "{modrinth_config}" -v {pack_version} --scheme {"{name}-{version}"}'
     os.system(cmd)
 
     if is_legacy == False:
-        extract_file(mmc_zip_root + "\\MR-Fabulously Optimized-" + pack_version + ".mrpack", "modrinth.index.json", git_path + "\\" + "Modrinth", "Modrinth manifest", "Git")
+        extract_file(mmc_zip_root + "\\Fabulously Optimized-" + pack_version + ".mrpack", "modrinth.index.json", git_path + "\\" + "Modrinth", "Modrinth manifest", "Git")
 
 # Export Modrinth pack and manifest via packwiz method
 if packwiz_modrinth_export:
