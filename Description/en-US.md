@@ -3,7 +3,7 @@
 
 A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
-[<img src="https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" alt="Current review" height="140"/> - **a YouTube showcase by Rexus**](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+<a href="https://www.youtube.com/watch?v=bb8G9X5Q_4I"><img src="https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" alt="Current review" height="140"/> - A YouTube showcase by Rexus</a>
 
 ### Performance
 
@@ -42,33 +42,23 @@ We have a growing community of friendly members who like to discuss the pack and
 - **Q**: How do I install/update/add mods/do something else?  
  **A**: [The answers are in our wiki.][11]
  
- 
-
 - **Q**: Something broke/You should add something!  
  **A**: [Post it to our GitHub.][8]
  
-
-
 - **Q**: What mods does it have?   
  **A**: Click any version and scroll down [or see the comparison table][12].
- 
-
 
 - **Q**: I like the modpack. How can I contribute?  
  **A**: [Ways you can help are described here.][16] Thank you!
-
-
 
 - **Q**: Do I need the modpack on the server?  
  **A**: No, it works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]  
  [![](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
-
-
 - **Q**: I have more questions!  
  **A**: [Come and chat with us on Discord!][10]
 
-### Using this modpack, [you acknowlege those disclaimers][15].
+### Using this modpack, [you acknowledge those disclaimers][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
