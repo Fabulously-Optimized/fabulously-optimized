@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.4.5",
+    "versionId": "4.4.6",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -143,16 +143,15 @@
             "fileSize": 46651
         },
         {
-            "path": "mods/Debugify-2.7.1.jar",
+            "path": "mods/Debugify-2.8.0.jar",
             "hashes": {
-                "sha1": "24f4ab766406d0d47faa5e860ee9cd47759b6e70",
-                "sha512": "c88ead56d774a20ca14cce72efd2a69812e705007e56ebe03588ec318608c2c7da2322c1724ae6a7e37852e4d16cbad92571c83325bd0940a63f120690ca45cf"
+                "sha1": "34bed20ce5145eeaac14ada47aa9f269ef2cc3b5",
+                "sha512": "7ad21d66192520b8bc056d33981a51901dd5150b8ea8f288418366dba73755ad352925293ea3048628e8481f0cac4d122f794a10382df52c6029e315b79587ac"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/pYAlD9TK/Debugify-2.7.1.jar",
-                "https://github.com/isXander/Debugify/releases/download/2.7.1/Debugify-2.7.1.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/UvBWAMZL/Debugify-2.8.0.jar"
             ],
-            "fileSize": 278801
+            "fileSize": 291413
         },
         {
             "path": "mods/dynamic-fps-2.2.0.jar",
@@ -231,6 +230,17 @@
                 "https://cdn.modrinth.com/data/3qsfQtE9/versions/Fq42foYA/fabrishot-1.9.1.jar"
             ],
             "fileSize": 40073
+        },
+        {
+            "path": "mods/farsight-fabric-1.19-2.1.jar",
+            "hashes": {
+                "sha1": "407f2081ffefffdaf2d0a03c90ab38f5d2b77f11",
+                "sha512": "a1009309466d292a9510c1e7dabc182d3a06801545d44f32fcb34779f9fb63c14f1df644da1a33e69cd60056a10da3233e114e8ba60c50c0abb1e7a1c402ad4f"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/LXJlc5WJ/versions/WkqtulFh/holdthatchunk-2.0.0%2B1.19.jar"
+            ],
+            "fileSize": 26443
         },
         {
             "path": "mods/ferritecore-5.0.0-fabric.jar",
