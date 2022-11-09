@@ -2,7 +2,6 @@
     "gui.socialInteractions.tooltip.report": "Report player to Mojang",
     "gui.socialInteractions.narration.report": "Report player %s to Mojang",
     "gui.socialInteractions.tooltip.report.disabled": "Mojang chat reporting is currently unavailable.",
-    "gui.socialInteractions.tooltip.report.no_messages": "%s cannot be reported to Mojang, because they haven't said anything.",
     "gui.socialInteractions.tooltip.report.not_reportable": "This server or player has disabled reporting chat to Mojang.",
     "gui.chatReport.describe": "Sharing details will help Mojang make a well-informed decision. Keep in mind that these reports are not seen by server admins.",
     "gui.nochatreport.secureChat": "This option is disabled to prevent accidentally hiding random players' chat messages. Use Social Interactions to ignore individual players.",
@@ -19,8 +18,5 @@
     "gui.nochatreports.status_signing_denied": "Your messages are not reportable to Mojang. Click to enable.",
     "gui.nochatreports.status_signing_denied_secure": "Your messages are not reportable to Mojang because the server disabled it.",
     "gui.nochatreports.status_whitelist_mode": "§lPrefer having reportable messages in this server: %1$s",
-    "gui.nochatreports.status_whitelist_all": "§a§lYes (All Servers)",
-    "gui.nochatreports.status_whitelist_yes": "§a§lYes",
-    "gui.nochatreports.status_whitelist_no": "§c§lNo",
     "gui.nochatreports.realms_warning.contents": "Important info about Realms:\n• Everyone's chat messages can be reported to Mojang.\n• Mojang is monitoring the chat to find violations before they are reported.\n• Profanity filter is enabled by default. Adults can disable it for themselves on minecraft.net."
 }
