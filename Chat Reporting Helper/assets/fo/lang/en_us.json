@@ -10,7 +10,7 @@
     "gui.nochatreports.status_secure": "Others' messages cannot be reported to Mojang because the server disabled it.",
     "gui.nochatreports.status_unintrusive": "Others' messages may be reportable to Mojang. Confirm it via Social Interactions.",
     "gui.nochatreports.status_insecure": "Others' messages can be reported to Mojang.",
-    "gui.nochatreports.status_realms": "Others' messages can be reported to Mojang. Mojang is also monitoring chat for potential offenses to Community Standards.",
+    "gui.nochatreports.status_realms": "Others' messages can be reported to Mojang. Mojang is also monitoring the chat to find violations before they are reported.",
     "gui.nochatreports.status_unknown": "Chat reporting status is not yet known. Send a message to get the status.",
     "gui.nochatreports.status_undefined": "Chat reporting status is unknown due to an error. Try restarting the game.",
     "gui.nochatreports.status_signing_allowed_realms": "Your messages are always reportable to Mojang on Realms.",
@@ -22,5 +22,5 @@
     "gui.nochatreports.status_whitelist_all": "§a§lYes (All Servers)",
     "gui.nochatreports.status_whitelist_yes": "§a§lYes",
     "gui.nochatreports.status_whitelist_no": "§c§lNo",
-    "gui.nochatreports.realms_warning.contents": "Important info about Realms:\n• Chat can always be reported to Mojang.\n• Mojang is monitoring chat for potential offenses to Community Standards.\n• Profanity filter is enabled by default. If you are an adult, you can disable it for yourself on minecraft.net."
+    "gui.nochatreports.realms_warning.contents": "Important info about Realms:\n• Everyone's chat messages can be reported to Mojang.\n• Mojang is monitoring the chat to find violations before they are reported.\n• Profanity filter is enabled by default. Adults can disable it for themselves on minecraft.net."
 }
