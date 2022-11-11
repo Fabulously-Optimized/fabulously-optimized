@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.5.0 (2022-11-11)
+
+Finally you can have custom clouds and stars in the sky :) 
+Use any OptiFine- or FabricSkyBoxes-compatible custom skybox resource pack to get it.
+
+- Added FabricSkyboxes - custom skies!
+- Added FabricSkyboxes Interop - OptiFine resourcepack support for FabricSkyboxes!
+- Updated Fabric API, Fabric Language Kotlin, Lithium, Mod Menu
+- Enforced Fabric Loader 0.14.10
+- Updated Hold That Chunk to 2.0.1 in Modrinth version
+
 ### 4.4.6 (2022-11-04)
 
 - Updated Debugify

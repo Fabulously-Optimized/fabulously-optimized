@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.4.6",
+    "versionId": "4.5.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -199,26 +199,37 @@
             "fileSize": 343674
         },
         {
-            "path": "mods/fabric-api-0.64.0+1.19.2.jar",
+            "path": "mods/fabric-api-0.66.0+1.19.2.jar",
             "hashes": {
-                "sha1": "be9700fc86ae93f21b0a8775a5824eaaedff05a7",
-                "sha512": "64c21c31f2a292046bb8eb6e9203e8904d472c39fe6d5e2b46027bd40c0ae711e047ad5266805dae85def15a856d0f56489c3ce28973f963c955a9fabaf17831"
+                "sha1": "bb8b91dde3d3140a3b8e83b0d2631d9e9e73e2ff",
+                "sha512": "afaa80ad396c16da7cbac30a1b63b8d7c6d10856c07053c6c28d083cd203be0d133aa5fed5da43b1c8abb1a96bc58b32e1ac948a5edcf3f0d18358527eb26f72"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/9nx74dYD/fabric-api-0.64.0%2B1.19.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/8rIblgME/fabric-api-0.66.0%2B1.19.2.jar"
             ],
-            "fileSize": 1746219
+            "fileSize": 1761313
         },
         {
-            "path": "mods/fabric-language-kotlin-1.8.5+kotlin.1.7.20.jar",
+            "path": "mods/fabric-language-kotlin-1.8.6+kotlin.1.7.21.jar",
             "hashes": {
-                "sha1": "d792f00ea9cb6062646de40a235a976e1bd4b666",
-                "sha512": "4a9975f4dcdeff3d1054ed66a005ff1c77ad9413a16b267b0abc425bef0359b7e233e7b74772678f67cfa7d6348febd172b332b5370ddcf2c6d526b0c7f68c8a"
+                "sha1": "edaaceb0f31f7d33a077e998e0ad9415a821aedd",
+                "sha512": "6610194d42c3a49f2b9d305f67a7d4970e3ce3bd1077c109bd1d279e2e6450088f17e103937441f233262c8d8a1f8323f2fc5ec4acac4362ad6141b6607fde87"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/FrvEFBGt/fabric-language-kotlin-1.8.5%2Bkotlin.1.7.20.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/UJQzC6Jw/fabric-language-kotlin-1.8.6%2Bkotlin.1.7.21.jar"
             ],
-            "fileSize": 6430297
+            "fileSize": 6429255
+        },
+        {
+            "path": "mods/fabricskyboxes-0.6.0+mc1.19.2.jar",
+            "hashes": {
+                "sha1": "13c45ff5152356726cff29893550f34a1a62cad9",
+                "sha512": "337309d5d05fb5e1f26d823d11dd066a20eb8b3ffb887e5c0dde04c7b5c391200275a278790598bb710e15975b668df7c64fe427932914feb60563290dde64f0"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YBz7DOs8/versions/t2tvlfIW/fabricskyboxes-0.6.0%2Bmc1.19.2.jar"
+            ],
+            "fileSize": 157406
         },
         {
             "path": "mods/fabrishot-1.9.1.jar",
@@ -234,13 +245,13 @@
         {
             "path": "mods/farsight-fabric-1.19-2.1.jar",
             "hashes": {
-                "sha1": "407f2081ffefffdaf2d0a03c90ab38f5d2b77f11",
-                "sha512": "a1009309466d292a9510c1e7dabc182d3a06801545d44f32fcb34779f9fb63c14f1df644da1a33e69cd60056a10da3233e114e8ba60c50c0abb1e7a1c402ad4f"
+                "sha1": "b045e7ac468a78922515c180d4403f8380ec9fec",
+                "sha512": "2052b50afc2643fc39d12ba1e6aa2f275c925f71c7e3bf327a9b2af7144617365d7760c34c58af3edd59e7c091e8a36df788e8d84e41b08cbb6fe7bdcb559c40"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LXJlc5WJ/versions/WkqtulFh/holdthatchunk-2.0.0%2B1.19.jar"
+                "https://cdn.modrinth.com/data/LXJlc5WJ/versions/TbJQtyy8/holdthatchunk-2.0.1%2B1.19.jar"
             ],
-            "fileSize": 26443
+            "fileSize": 26471
         },
         {
             "path": "mods/ferritecore-5.0.0-fabric.jar",
@@ -252,6 +263,17 @@
                 "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar"
             ],
             "fileSize": 119108
+        },
+        {
+            "path": "mods/fsb-interop-1.1.2+mc1.19.2-build.21.jar",
+            "hashes": {
+                "sha1": "8faf3498de35661f420195a274dfa586f0f9ac74",
+                "sha512": "3d8342b320efa3f86cfc4ac7023ba6aa18d6140e3abf169a8bc1e52d1982f9b1238756f94e683b7e53b2daedfd462db04acb89a902d52f9a4d0e07fd502b78ed"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/HpdHOPOp/versions/3vopnmpy/fsb-interop-1.1.2%2Bmc1.19.2-build.21.jar"
+            ],
+            "fileSize": 41862
         },
         {
             "path": "mods/indium-1.0.9+mc1.19.2.jar",
@@ -336,15 +358,15 @@
             "fileSize": 14531
         },
         {
-            "path": "mods/lithium-fabric-mc1.19.2-0.10.1.jar",
+            "path": "mods/lithium-fabric-mc1.19.2-0.10.2.jar",
             "hashes": {
-                "sha1": "6c0749e47025bfe6237c39b0b1ff7f596c5796c1",
-                "sha512": "9c59e9d9b149e3d45f283e4f8f8e37d717aa4c8d7418e6e9f288d50ca23fbde469b62b5e4fdf65a6abfb8786df8532db2724ca8f7f11baa6360bd00241ff20ea"
+                "sha1": "bfca8397fa9034410b3846e3938ead600da5a420",
+                "sha512": "2856942c4119142c64eb03108dd6931cb6cfcd09b8d29e889ccb7d79fee3e495b68c7ad16c5ecbc156de8cd430147dc602694fb383529b8f56bd96e1d55a0da6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xVm1caOt/lithium-fabric-mc1.19.2-0.10.1.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/IQxlSIiw/lithium-fabric-mc1.19.2-0.10.2.jar"
             ],
-            "fileSize": 543091
+            "fileSize": 543167
         },
         {
             "path": "mods/main-menu-credits-1.1.1.jar",
@@ -406,16 +428,15 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/modmenu-4.0.6.jar",
+            "path": "mods/modmenu-4.1.0.jar",
             "hashes": {
-                "sha1": "9035d55b5d77ef4746aaf7fa0645e84927c76c57",
-                "sha512": "8fd0748d25c02e0fe69718439c8428aa47b8ff2634728ad14184ae3369c06948576dc759a8c508cdcf1830ef39b58d6b88895c3bc1a7b49282325188c477e16f"
+                "sha1": "1aad3aa7819d708938d014248fe5ebd850648910",
+                "sha512": "12064e0d64398aee7686ad95900ec2b83c8eebcb05be92ae330669f412dee1ac26a2502152d6d496c3627996e587ed30b5ad17938b65831eda04c47926a13b0b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.6/modmenu-4.0.6.jar",
-                "https://github.com/TerraformersMC/ModMenu/releases/download/v4.0.6/modmenu-4.0.6.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/NAs8eiQa/modmenu-4.1.0.jar"
             ],
-            "fileSize": 445942
+            "fileSize": 604290
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
