@@ -10,11 +10,11 @@ hash = "68ad55a8421814e6bd802b664244e40540a37eaf3ee8aded87fea53520d25d38"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4b35523169814f0b91d4137fcb290d60fc29c95ad8eb1321dec47e0e7e2dec20"
+hash = "efe1a41f42b1f136f7c4e529f070f0180a8f54589ba0f3cddbc0b355b51110c4"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5e16159d457bfa25cdbc4d0bae3c87ee9f0bdc330023e3cef5d6038318042fea"
+hash = "4423000eef3e0bde36794d20a15d1d1bf5f7c26bedd8094be2474739e93aa1db"
 
 [[files]]
 file = "config/modmenu.json"
@@ -94,7 +94,7 @@ hash = "707e9af170cd9c9282d25bfb5f1a337039348636183564cfa1a86ebde52f48df"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "fecd3e0c142de1160ed23071b273b179e41537707a6d771cebe1e87fa47948ef"
+hash = "425114942a90c349ab52c6c978d852704d9c2fce9a664484052630cf23141cad"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -183,12 +183,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "361326932c371543ec65e6817be5902fab80e4cf876a3193fb773c99532a9cbe"
+hash = "c059c82e3e081179d153c160abd48364209dfa988207641ed9ce1f617106e844"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1828963f1b22e3cf2f3613f32e7fa21ffe7b9176eb5cd4d6cff4f746124b61cc"
+hash = "0e14eaf8104875ea374368fe472912edad55a61af871c7af4e9ee4e69fcd42f1"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "e6c247070d3eadd977416e63d0200bf108e80ddace67f2e2012d88be54711b21"
 metafile = true
 
 [[files]]
@@ -204,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0e0c461da2cb8a1dabdf2b0efd2bf754ba96229cfaec364291dce5ba6499c47f"
+metafile = true
+
+[[files]]
+file = "mods/fsb-interop.pw.toml"
+hash = "8482b7bcca9084e2f745367c1936641454acdd48dedc4223fcc55c22f89d5365"
 metafile = true
 
 [[files]]
@@ -243,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "96e2d703402f3d196296ba48b0489aa5de1e34c59c5e8354cd4ecc1eae46740a"
+hash = "e5585228feab4b9bd84a84282d6b49ba3cc0ac0a1ab4e5b3b6e06e5f07d0f754"
 metafile = true
 
 [[files]]
@@ -273,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "92ab47dafb739a5991e5392994064b8ebb50fb2f709204a5343f416cfcd79b36"
+hash = "6737e21b85c1e0cfd12da615de535fb7b4d11eb4f79b4ef092f3c859b3cffe51"
 metafile = true
 
 [[files]]
