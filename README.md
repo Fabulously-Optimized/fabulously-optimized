@@ -79,7 +79,7 @@ By using this modpack, you agree to the following:
 
 * [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu, where players can ignore others' chat messages or block them with the Microsoft account entirely.
 
-* On servers where chat reporting is optional, the modpack opts out of it. Elsewhere, the status icons are changed to provide more information compared to vanilla Minecraft. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
+* On servers where Mojang's chat reporting is optional, the modpack opts out of it. Elsewhere, the status icons are changed to provide more information compared to vanilla Minecraft. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
    
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
    
