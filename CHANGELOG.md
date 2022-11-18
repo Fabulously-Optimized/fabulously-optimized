@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.5.2 (2022-11-18)
+
+Iris had a bruh moment and fixed its issue again, properly.
+
+- Updated Iris Shaders
+
 ### 4.5.1 (2022-11-18)
 
 - Updated Entity Texture Features, Iris Shaders, No Chat Reports, Sodium Extra, YetAnotherConfigLib
