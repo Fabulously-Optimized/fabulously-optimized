@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.5.1 (2022-11-18)
+
+- Updated Entity Texture Features, Iris Shaders, No Chat Reports, Sodium Extra, YetAnotherConfigLib
+  - Iris got important fixes for some resource packs
+  - Sodium Extra got additional toast toggles
+  - Entity Texture Features got new texture features and bugfixes
+  - Others got bugfixes
+- Added Chinese in MMH by GodGun968
+- Updated Russian in MMH by RozeFound
+- Unbound Zoomify's secondary zoom keybind by default
+
 ### 4.5.0 (2022-11-11)
 
 Finally you can have custom clouds and stars in the sky :) 

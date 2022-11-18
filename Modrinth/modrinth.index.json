@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.5.0",
+    "versionId": "4.5.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -188,15 +188,15 @@
             "fileSize": 75567
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.19.x-4.1.1.jar",
+            "path": "mods/entity_texture_features_fabric_1.19.2-4.2.0.jar",
             "hashes": {
-                "sha1": "0c059c382452f5e657af45a1717318ca9c771ecf",
-                "sha512": "0d427b9f8eb05e31f1d7608059ff49355100a48a4caf196d56b05db090af032e434ad9c5a4c7dfe55eb519663e91f1ddd29c5683a4a9df6faf8a229b49f962a2"
+                "sha1": "6675b14106627aab49606f0d1273e6274f81544b",
+                "sha512": "d8f13617ad3d6b0525f2b5622b00e79d647305d618e99ea3abe1aa692ddebe773ccfc1c76d566d808586b6acd1c22aa919214ae217cb282a22e8623430f40f24"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/QsPxlaAU/entity_texture_features_fabric_1.19.x-4.1.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/66q1EPRX/entity_texture_features_fabric_1.19.2-4.2.0.jar"
             ],
-            "fileSize": 343674
+            "fileSize": 359468
         },
         {
             "path": "mods/fabric-api-0.66.0+1.19.2.jar",
@@ -288,15 +288,15 @@
             "fileSize": 118642
         },
         {
-            "path": "mods/iris-mc1.19.2-1.4.0.jar",
+            "path": "mods/iris-mc1.19.2-1.4.1.jar",
             "hashes": {
-                "sha1": "2e62f68c5ae5b4b38728e84ab7779023677bd78a",
-                "sha512": "0915665be870ad7fd9c60ee661210ced2d6a993399890318a7b9bec39e0b349d92a596f80b8d4ef6571bb044305fc1190536deb7306c7094ceb3d3a5573ba1b2"
+                "sha1": "d121f046fe65f4caa8d86249b82791717c646e3c",
+                "sha512": "5b712aa811ee0d7dd750d9e43e4d79ad024a0ca35a1b1bd045ff52986e9586896ab5f4e8ab13318e955a4a71df539178dc1c5e47ae50ca7fb5632b9a746e2105"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/RRjXTE6G/iris-mc1.19.2-1.4.0.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/61raaF2M/iris-mc1.19.2-1.4.1.jar"
             ],
-            "fileSize": 2607995
+            "fileSize": 2608736
         },
         {
             "path": "mods/item-model-fix-1.0.3+1.19.jar",
@@ -450,15 +450,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.13.11.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.2-v1.13.12.jar",
             "hashes": {
-                "sha1": "6f6f1d4e6f82fad21308acd2680cfed1570b283c",
-                "sha512": "8ddc2cf7feb9ca007f610092e8c27480c49126d333630935a27948ec41c56266b51ff6ad64938e1e7d1c78928cf84a6a4c160edc5192a69640bda56bdbdb31ff"
+                "sha1": "298232cc392f0240191ea62c9cd4d2ff4a99ba97",
+                "sha512": "a742fddc9fa13e8bc0436ca0260ea89150f96d44774355abb635d417bcb478e4bb470db3908d6c2df2110233cf42ab1c7706f7105d125261b260930a920786ec"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/gJAwS64G/NoChatReports-FABRIC-1.19.2-v1.13.11.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/YuX53PIA/NoChatReports-FABRIC-1.19.2-v1.13.12.jar"
             ],
-            "fileSize": 527512
+            "fileSize": 533396
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -519,16 +519,15 @@
             "fileSize": 88634
         },
         {
-            "path": "mods/sodium-extra-0.4.11+mc1.19.2-build.68.jar",
+            "path": "mods/sodium-extra-0.4.12+mc1.19.2-build.72.jar",
             "hashes": {
-                "sha1": "367a728b7fb867c71a3f5958d1e04c2ade50e7d6",
-                "sha512": "ee74dcd37b05a31f786d39e2d3b9fbb7c2bce34c7e92a1839f021d420526e92ab4c19113237e4fa9d1e288bb94ea55accffa7d9ed5da8cd7c55cdc979ededa38"
+                "sha1": "da2c9faab95af43f5666eeca18523412dc0d779c",
+                "sha512": "f62a5e062a6ad9d69d33d85eba370dd8317535b4b6c3382af172f3a756df276adf3da56a958644302114294de2298ccb2d94859a7f3d6fc427dec47370dfcbd6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/xJ8SShUa/sodium-extra-0.4.11%2Bmc1.19.2-build.68.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.2-0.4.11/sodium-extra-0.4.11%2Bmc1.19.2-build.68.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/yL4dOxzM/sodium-extra-0.4.12%2Bmc1.19.2-build.72.jar"
             ],
-            "fileSize": 199471
+            "fileSize": 252919
         },
         {
             "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
@@ -554,15 +553,15 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-1.6.0.jar",
+            "path": "mods/YetAnotherConfigLib-1.7.1.jar",
             "hashes": {
-                "sha1": "82296f5c091f6339f6539c54bde02343789c518a",
-                "sha512": "7a1f2729a4078230c13ed28812ecf5677d56ec5ba04bcbe5806692d791284f2a64661cdd50e4612b6bb37ed4cec33f3ac7f5b3c378aa0f5582443f8976af297f"
+                "sha1": "9694c6e52e946820f9945e2b9ee8a463c1e426fd",
+                "sha512": "9c71c0b3b1ee8388f6a0fc3f1e07a5bf5fb63ce12c37248385c43a7cc29b8a540f75c25d3e64765f333812f37d47918a68e42b830391dca1e52f6f5f1c7540b4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/EyhlJvkj/YetAnotherConfigLib-1.6.0.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/mW3CVg5N/YetAnotherConfigLib-1.7.1.jar"
             ],
-            "fileSize": 135212
+            "fileSize": 146278
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
