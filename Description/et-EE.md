@@ -62,7 +62,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > 
 > **V**: Ei, see töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
 
 > **K**: Mul on veel küsimusi!

@@ -59,7 +59,7 @@ Temos uma comunidade em ascenção com membros amigáveis que gostam de discutir
 > 
 > **R**: Não, ele funciona em todos os servidores que permitem clientes vanilla. [Resposta detalhada e dicas de servidor aqui.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Se precisar de uma hospedagem, clique aqui - 25% de desconto para o primeiro mês!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Se precisar de uma hospedagem, clique aqui - 25% de desconto para o primeiro mês!][14]
 
 
 > **P**: Eu tenho mais perguntas!

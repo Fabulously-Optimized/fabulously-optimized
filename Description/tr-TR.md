@@ -62,7 +62,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 > 
 > **C**: Hayır, bu vanilya istemcilerine izin veren tüm sunucularda çalışır. [Ayrıntılı cevap ve sunucu ipuçları burada.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Bir hostinge ihtiyacınız varsa, buraya tıklayın - ilk ay için %25 indirim!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Bir hostinge ihtiyacınız varsa, buraya tıklayın - ilk ay için %25 indirim!][14]
 
 
 > **S**: Daha fazla sorum var!
