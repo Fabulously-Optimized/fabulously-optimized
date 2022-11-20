@@ -62,7 +62,7 @@ We have a growing community of friendly members who like to discuss the pack and
 > 
 > **A**: No, this works on all servers that allow vanilla clients. [Detailed answer and server tips are here.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
 
 > **Q**: I have more questions!
