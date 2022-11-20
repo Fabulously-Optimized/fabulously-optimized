@@ -10,11 +10,11 @@ hash = "68ad55a8421814e6bd802b664244e40540a37eaf3ee8aded87fea53520d25d38"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4b35523169814f0b91d4137fcb290d60fc29c95ad8eb1321dec47e0e7e2dec20"
+hash = "6de5a7b31b67b0f05f38cd99a71689b72a541c3ed9bd82145ec7abbe46f9f4e7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5e16159d457bfa25cdbc4d0bae3c87ee9f0bdc330023e3cef5d6038318042fea"
+hash = "ece43c51b968cd12170b10f873bf732ac2429931994bfdbee98d9b6e8b1ebca5"
 
 [[files]]
 file = "config/modmenu.json"
@@ -26,7 +26,7 @@ hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "fac2b7b20eaa1b22340ff7afca7daf12e800cc9c520f632f9a0c1b4730211d2c"
+hash = "8417a8629d8fb25f7de12a971f55c1b14024f834864110e51f36c0402aed1c35"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -94,7 +94,7 @@ hash = "707e9af170cd9c9282d25bfb5f1a337039348636183564cfa1a86ebde52f48df"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "fecd3e0c142de1160ed23071b273b179e41537707a6d771cebe1e87fa47948ef"
+hash = "fc6f57352dd11f3fc8aab4e2dd6d4f22d7182da45975c4b49aba1d2a03b5fa48"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -178,17 +178,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "1c6d86cc67c21717c714aec26c21af871f6512e152d528d486e89642e6d4d497"
+hash = "b0fc97f78eb93c52048bb96a5c1c062b8e15358538d5af860e256117559b227c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "361326932c371543ec65e6817be5902fab80e4cf876a3193fb773c99532a9cbe"
+hash = "c059c82e3e081179d153c160abd48364209dfa988207641ed9ce1f617106e844"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1828963f1b22e3cf2f3613f32e7fa21ffe7b9176eb5cd4d6cff4f746124b61cc"
+hash = "0e14eaf8104875ea374368fe472912edad55a61af871c7af4e9ee4e69fcd42f1"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "e6c247070d3eadd977416e63d0200bf108e80ddace67f2e2012d88be54711b21"
 metafile = true
 
 [[files]]
@@ -207,13 +212,18 @@ hash = "0e0c461da2cb8a1dabdf2b0efd2bf754ba96229cfaec364291dce5ba6499c47f"
 metafile = true
 
 [[files]]
+file = "mods/fsb-interop.pw.toml"
+hash = "8482b7bcca9084e2f745367c1936641454acdd48dedc4223fcc55c22f89d5365"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "eb586c82b82374cbae08d6cbb80a947834020159b4d06256cce2095a832b5636"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e22d96dc5dd6a1ff727932516a97438a746c2477df5160d6e07b383ad4b57871"
+hash = "046f8dd22e2bbc6b37d4c421dde21b68edb4d5cc345522993b8bd12ef7b6e15f"
 metafile = true
 
 [[files]]
@@ -243,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "96e2d703402f3d196296ba48b0489aa5de1e34c59c5e8354cd4ecc1eae46740a"
+hash = "e5585228feab4b9bd84a84282d6b49ba3cc0ac0a1ab4e5b3b6e06e5f07d0f754"
 metafile = true
 
 [[files]]
@@ -273,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "92ab47dafb739a5991e5392994064b8ebb50fb2f709204a5343f416cfcd79b36"
+hash = "6737e21b85c1e0cfd12da615de535fb7b4d11eb4f79b4ef092f3c859b3cffe51"
 metafile = true
 
 [[files]]
@@ -283,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "ae01e411485d7d0842b477ffdf7fbfcb43b427fd494813315bb7244fa9c33266"
+hash = "bbbba894f37c75d3f7911ab2bf4bd8feedd4ee6bb92060eb03ffc378a38c07b3"
 metafile = true
 
 [[files]]
@@ -313,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a5d814aa60d157ebd9e66852340c4665e486e1f196b10160eda4c273fd4f7dd6"
+hash = "61f910b3505681cf956b5e584d374107417844ec9052f0a3add29b94d2c6459f"
 metafile = true
 
 [[files]]
@@ -328,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib.pw.toml"
-hash = "2152c473462c604470610a6a1e1a0141481af81bd369049667aa71abe43a58c9"
+hash = "2738177155e3d66ddac7519ebb2caee1621d71e398363a14210edc64e19518e8"
 metafile = true
 
 [[files]]

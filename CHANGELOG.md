@@ -3,6 +3,34 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.5.2 (2022-11-18)
+
+Iris had a bruh moment and fixed its issue again, properly.
+
+- Updated Iris Shaders
+
+### 4.5.1 (2022-11-18)
+
+- Updated Entity Texture Features, Iris Shaders, No Chat Reports, Sodium Extra, YetAnotherConfigLib
+  - Iris got important fixes for some resource packs
+  - Sodium Extra got additional toast toggles
+  - Entity Texture Features got new texture features and bugfixes
+  - Others got bugfixes
+- Added Chinese in MMH by GodGun968
+- Updated Russian in MMH by RozeFound
+- Unbound Zoomify's secondary zoom keybind by default
+
+### 4.5.0 (2022-11-11)
+
+Finally you can have custom clouds and stars in the sky :) 
+Use any OptiFine- or FabricSkyBoxes-compatible custom skybox resource pack to get it.
+
+- Added FabricSkyboxes - custom skies!
+- Added FabricSkyboxes Interop - OptiFine resourcepack support for FabricSkyboxes!
+- Updated Fabric API, Fabric Language Kotlin, Lithium, Mod Menu
+- Enforced Fabric Loader 0.14.10
+- Updated Hold That Chunk to 2.0.1 in Modrinth version
+
 ### 4.4.6 (2022-11-04)
 
 - Updated Debugify
