@@ -2,7 +2,7 @@
 
 Модпак для Minecraft, основанный на Fabric, который сфокусирован на оптимизации производительности и графики.
 
-[![Русский обзор](https://img.youtube.com/vi/3Oylcgt1nyw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
+[![Русский обзор](https://img.youtube.com/vi/3Oylcgt1nyw/hqdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
 
 ### Высокая производительность
 

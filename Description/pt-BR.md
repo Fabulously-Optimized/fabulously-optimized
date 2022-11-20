@@ -4,7 +4,7 @@ Um modpack baseado em Fabric para Minecraft que foca na performance e otimizaç�
 
 *Vídeo de review (em inglês)*
 
-[![Review atual](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![Review atual](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
