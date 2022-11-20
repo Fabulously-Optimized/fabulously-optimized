@@ -2,7 +2,7 @@
 
 Fabricul põhinev modipakk Minecraftile, mis keskendub jõudluse ning graafika optimeerimisele. 
 
-[![Arvustus/juhend](https://img.youtube.com/vi/z0jKe8XgdP0/maxresdefault.jpg)](https://www.youtube.com/watch?v=z0jKe8XgdP0)
+[![Arvustus/juhend](https://img.youtube.com/vi/z0jKe8XgdP0/hqdefault.jpg)](https://www.youtube.com/watch?v=z0jKe8XgdP0)
 
 ### Jõudlus
 

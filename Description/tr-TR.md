@@ -2,7 +2,7 @@
 
 Performans ve grafik iyileştirmelerine odaklanan Minecraft için Fabric tabanlı bir mod paketidir.
 
-[![Mevcut inceleme](https://img.youtube.com/vi/Vj7S5_4Rkfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
+[![Mevcut inceleme](https://img.youtube.com/vi/Vj7S5_4Rkfg/hqdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
 ### Performans
 
