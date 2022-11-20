@@ -3,7 +3,7 @@
 
 A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
-<a href="https://www.youtube.com/watch?v=bb8G9X5Q_4I"><img src="https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg" alt="Current review" height="140"/> - A YouTube showcase by Rexus</a>
+[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
