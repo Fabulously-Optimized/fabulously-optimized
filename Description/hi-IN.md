@@ -2,7 +2,7 @@
 
 एक Fabric पर बना हुआ मोडपैक है माइनकक्राफ्ट के लिए जो परफॉर्मांस और ग्राफिक्स को बेहतर करने पर अपना ध्यान केंद्रित करता है।
 
-[![अभी की समीक्षा](https://img.youtube.com/vi/K90gsbmhf3w/maxresdefault.jpg)](https://www.youtube.com/watch?v=K90gsbmhf3w)
+[![अभी की समीक्षा](https://img.youtube.com/vi/K90gsbmhf3w/hqdefault.jpg)](https://www.youtube.com/watch?v=K90gsbmhf3w)
 
 ### परफॉर्मांस
 

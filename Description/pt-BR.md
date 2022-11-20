@@ -4,7 +4,7 @@ Um modpack baseado em Fabric para Minecraft que foca na performance e otimizaç�
 
 *Vídeo de review (em inglês)*
 
-[![Review atual](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![Review atual](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
@@ -59,7 +59,7 @@ Temos uma comunidade em ascenção com membros amigáveis que gostam de discutir
 > 
 > **R**: Não, ele funciona em todos os servidores que permitem clientes vanilla. [Resposta detalhada e dicas de servidor aqui.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Se precisar de uma hospedagem, clique aqui - 25% de desconto para o primeiro mês!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Se precisar de uma hospedagem, clique aqui - 25% de desconto para o primeiro mês!][14]
 
 
 > **P**: Eu tenho mais perguntas!

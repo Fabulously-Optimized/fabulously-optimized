@@ -2,7 +2,7 @@
 
 Модпак для Minecraft, основанный на Fabric, который сфокусирован на оптимизации производительности и графики.
 
-[![Русский обзор](https://img.youtube.com/vi/3Oylcgt1nyw/maxresdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
+[![Русский обзор](https://img.youtube.com/vi/3Oylcgt1nyw/hqdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
 
 ### Высокая производительность
 
@@ -62,7 +62,7 @@ Fabulously Optimized имеет [открытые исходники][8], как
 > 
 > **Ответ**: Нет, FO работает на всех серверах, на которых разрешены ванильные клиенты.
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Если вам нужен хостинг, жмите сюда - 25% скидка на первый месяц!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Если вам нужен хостинг, жмите сюда - 25% скидка на первый месяц!][14]
 
 
 > **Вопрос**: У меня ещё остались вопросы!

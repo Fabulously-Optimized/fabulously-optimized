@@ -36,7 +36,7 @@ Not sure which edition is right for you? Check this handy table!
 
 ## Reviews
 
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 🌐 [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [Türkçe](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
