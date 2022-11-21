@@ -1,6 +1,6 @@
 # Fabulously Optimized
 
-A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations.
+A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
 ## Downloads
 
