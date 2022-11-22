@@ -44,12 +44,12 @@ We have a growing community of friendly members who like to discuss the pack and
 > **A**: [The answers are in our wiki.][11]
 
 
-> **Q**: Something broke/You should add something!  
+> **Q**: Something broke/You should add something! 
 > 
 > **A**: [Post it to our GitHub.][8]
 
 
-> **Q**: What mods does it have?   
+> **Q**: What mods does it have?
 > 
 > **A**: Click any version and scroll down [or see the comparison table][12].
 
@@ -62,10 +62,11 @@ We have a growing community of friendly members who like to discuss the pack and
 > **Q**: Do I need the modpack on the server?  
 > 
 > **A**: No, it works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]  
- [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
+>
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
 
-> **Q**: I have more questions!  
+> **Q**: I have more questions!
 > 
 > **A**: [Come and chat with us on Discord!][10]
 
