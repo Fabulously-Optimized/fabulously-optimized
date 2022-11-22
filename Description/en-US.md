@@ -9,10 +9,6 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 Fabulously Optimized is usually faster than OptiFine thanks to [modern performance mods][1] such as Sodium, Lithium and more!
 
-### Compatibility
-
-Fabulously Optimized works on any world or server, [supports 5 launchers, is hosted on 3 sites][6] and [translated to many languages][7]. All of its mods don't change vanilla mechanics and are purely visual.
-
 ### OptiFine parity
 
 Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [You can even get your own free cape!][3]
@@ -20,6 +16,10 @@ Fabulously Optimized [supports almost all OptiFine features][2], including shade
 ### Minor tweaks
 
 Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as extended chat history, windowed fullscreen mode, fixes to most common bugs and utilities to diagnose crashes.
+
+### Works everywhere
+
+Fabulously Optimized works on any world or server, [supports 5 launchers, is hosted on 3 sites][6] and [translated to many languages][7]. All of its mods don't change vanilla mechanics and are purely visual.
 
 ### Up to date
 
@@ -39,24 +39,30 @@ We have a growing community of friendly members who like to discuss the pack and
 
 ## FAQ
 
-- **Q**: How do I install/update/add mods/do something else?  
- **A**: [The answers are in our wiki.][11]
+> **Q**: How do I install/update/add mods/do something else?  
+>
+> **A**: [The answers are in our wiki.][11]
  
-- **Q**: Something broke/You should add something!  
- **A**: [Post it to our GitHub.][8]
+> **Q**: Something broke/You should add something!  
+>
+> **A**: [Post it to our GitHub.][8]
  
-- **Q**: What mods does it have?   
- **A**: Click any version and scroll down [or see the comparison table][12].
+> **Q**: What mods does it have?   
+>
+> **A**: Click any version and scroll down [or see the comparison table][12].
 
-- **Q**: I like the modpack. How can I contribute?  
- **A**: [Ways you can help are described here.][16] Thank you!
+> **Q**: I like the modpack. How can I contribute?  
+>
+> **A**: [Ways you can help are described here.][16] Thank you!
 
-- **Q**: Do I need the modpack on the server?  
- **A**: No, it works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]  
+> **Q**: Do I need the modpack on the server?  
+>
+> **A**: No, it works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]  
  [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
-- **Q**: I have more questions!  
- **A**: [Come and chat with us on Discord!][10]
+> **Q**: I have more questions!  
+>
+> **A**: [Come and chat with us on Discord!][10]
 
 ### Using this modpack, [you acknowledge those disclaimers][15].
 
