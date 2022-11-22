@@ -16,21 +16,21 @@ Fabulously Optimized [toetab peaaegu kõiki OptiFine'i funktsioone][2], sealhulg
 
 Fabulously Optimized [sisaldab pisiparandusi][4], mis ei kaota puhta Minecrafti tunnetust, sealhulgas pikendatud vestlusajalugu, aknal põhinev täisekraanirežiim ning veaparandused enim nähtud vigadele.
 
-### Kaasaegne
-
-Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
-
 ### Töötab kõikjal
 
 Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 5 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
 
-### Avatud arendus
+### Kaasaegne
 
-Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideedel, loomaks parema kasutuskogemuse kõigile.
+Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
 
 ### Põhineb Fabricul
 
 Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust.
+
+### Avatud arendus
+
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideedel, loomaks parema kasutuskogemuse kõigile.
 
 ### Abivalmis kogukond
 
