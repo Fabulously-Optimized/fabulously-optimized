@@ -54,14 +54,14 @@ We have a growing community of friendly members who like to discuss the pack and
 > **A**: Click any version and scroll down [or see the comparison table][12].
 
 
-> **Q**: I like the modpack. How can I contribute?  
+> **Q**: I like the modpack. How can I contribute?
 > 
 > **A**: [Ways you can help are described here.][16] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
 > 
-> **A**: No, it works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]  
+> **A**: No, the pack works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]  
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
