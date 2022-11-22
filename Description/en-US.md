@@ -19,7 +19,7 @@ Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanil
 
 ### Works everywhere
 
-Fabulously Optimized works on any world or server, [supports 5 launchers, is hosted on 3 sites][6] and [translated to many languages][7]. There are no gameplay-changing mods.
+Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 5 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
 
 ### Up to date
 
@@ -35,7 +35,7 @@ Fabulously Optimized [is open-source][8] and so are most of its mods. We welcome
 
 ### Helpful community
 
-We have a growing community of friendly members who like to discuss the pack and help each other. [Join us!][10]
+We have a growing community of friendly members who like to discuss the pack and help each other. [Join us today!][10]
 
 ## FAQ
 
