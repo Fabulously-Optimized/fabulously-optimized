@@ -1,66 +1,67 @@
 # English (US)
+<!-- Use your language name, in your language as the title. Append the country in parentheses, if your language has regional variants. -->
 
-A Fabric-based modpack for Minecraft that focuses on performance and graphics optimizations. 
+A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
-Fabulously Optimized is usually faster than OptiFine due to the inclusion of [modern performance mods][1] like Sodium and Lithium.
+Fabulously Optimized is usually faster than OptiFine thanks to [modern performance mods][1] such as Sodium, Lithium and more!
 
 ### OptiFine parity
 
-Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [Get a free cape!][3]
+Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [You can even get your own free cape!][3]
 
 ### Minor tweaks
 
-Fabulously Optimized [includes minor tweaks][4] that don't break the vanilla feel, such as increased chat history, windowed full screen mode and bugfixes to most common issues.
+Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as extended chat history, windowed fullscreen mode, fixes to most common bugs and utilities to diagnose crashes.
+
+### Works everywhere
+
+Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 5 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
 
 ### Up to date
 
 Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
 
-### Works everywhere
+### Built on Fabric
 
-Fabulously Optimized is designed to work on any world or server, [runs on 5 launchers, is hosted on 3 sites][6] and [supports many languages][7].
+Compared to Forge, Fabric is lightweight, updates and loads fast, and still has great mod support.
 
 ### Open development
 
-Fabulously Optimized [is open-source][8] and so are most of its mods. It is developed with ideas from the community, collaborating with mod developers to create a better user experience for everyone.
-
-### Built on Fabric
-
-Compared to Forge, Fabric updates and loads fast, does not include huge libraries and still has great mod support.
+Fabulously Optimized [is open-source][8] and so are most of its mods. We welcome suggestions from the users and collaborate with mod developers to create a better user experience for everyone.
 
 ### Helpful community
 
-We have a growing community of friendly members who like to discuss the pack and help each other. [Join us!][10]
+We have a growing community of friendly members who like to discuss the pack and help each other. [Join us today!][10]
 
 ## FAQ
 
-> **Q**: How do I install? Update? Add mods? Something else?
+> **Q**: How do I install/update/add mods/do something else?
 > 
 > **A**: [The answers are in our wiki.][11]
 
 
-> **Q**: Something broke! You should add something!
+> **Q**: Something broke/You should add something!
 > 
 > **A**: [Post it to our GitHub.][8]
 
 
-> **Q**: What mods does it have? 
+> **Q**: What mods does it have?
 > 
 > **A**: Click any version and scroll down [or see the comparison table][12].
 
 
-> **Q**: I like this. How can I contribute?
+> **Q**: I like the modpack. How can I contribute?
 > 
 > **A**: [Ways you can help are described here.][16] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
 > 
-> **A**: No, this works on all servers that allow vanilla clients. [Detailed answer and server tips are here.][13] 
+> **A**: No, the pack works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
