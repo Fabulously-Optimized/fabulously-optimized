@@ -16,21 +16,21 @@ Fabulously Optimized; shader, bağlantılı dokular ve yakınlaştırma dahil [n
 
 Fabulously Optimized artırılmış sohbet geçmişi, pencereli tam ekran modu ve en yaygın sorunlara yönelik hata düzeltmeleri gibi vanilya hissini bozmayan [küçük değişiklikler içerir.][4]
 
-### Güncel
-
-Fabulously Optimized [hızlı güncellemeler alır][5] ve daha yeni Minecraft sürümlerine yükseltilen ilk mod paketlerinden biridir.
-
 ### Her yerde çalışır
 
 Fabulously Optimized herhangi bir dünya veya sunucuda çalışmak üzere tasarlanmıştır, [5 başlatıcıda çalışır, 3 sitede barındırılır][6] ve [birçok dili destekler.][7].
 
-### Açık geliştirme
+### Güncel
 
-Fabulously Optimized [açık kaynaklıdır][8] ve modlarının çoğu da öyle. Herkes için daha iyi bir kullanıcı deneyimi yaratmak için mod geliştiricileriyle işbirliği yaparak topluluğun fikirleriyle geliştirilmiştir.
+Fabulously Optimized [hızlı güncellemeler alır][5] ve daha yeni Minecraft sürümlerine yükseltilen ilk mod paketlerinden biridir.
 
 ### Fabric üzerine kurulu
 
 Forge ile karşılaştırıldığında, Fabric hızlı bir şekilde güncellenir ve yüklenir, büyük kütüphaneler içermezken aynı zamanda harika bir mod desteğine sahiptir.
+
+### Açık geliştirme
+
+Fabulously Optimized [açık kaynaklıdır][8] ve modlarının çoğu da öyle. Herkes için daha iyi bir kullanıcı deneyimi yaratmak için mod geliştiricileriyle işbirliği yaparak topluluğun fikirleriyle geliştirilmiştir.
 
 ### Yardımsever topluluk
 
