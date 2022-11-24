@@ -39,13 +39,13 @@ def copy_file(from_path, to_path, from_desc, to_desc):
 
 # CurseForge to MultiMC
 
-remove_dir(mmc_path + "minecraft/config/", "MultiMC configs")
-remove_file(mmc_path + "minecraft/options.txt", "MultiMC options.txt")
-remove_dir(mmc_path + "minecraft/mods/", "MultiMC mods")
-remove_dir(mmc_path + "minecraft/resourcepacks/", "MultiMC resourcepacks")
-copy_dir(cf_path + "config/", mmc_path + "minecraft/config/", "CurseForge configs", "MultiMC")
-copy_dir(cf_path + "mods/", mmc_path + "minecraft/mods/", "CurseForge mods", "MultiMC")
-copy_dir(cf_path + "resourcepacks/", mmc_path + "minecraft/resourcepacks/", "CurseForge resource packs", "MultiMC")
+remove_dir(mmc_path + ".minecraft/config/", "MultiMC configs")
+remove_file(mmc_path + ".minecraft/options.txt", "MultiMC options.txt")
+remove_dir(mmc_path + ".minecraft/mods/", "MultiMC mods")
+remove_dir(mmc_path + ".minecraft/resourcepacks/", "MultiMC resourcepacks")
+copy_dir(cf_path + "config/", mmc_path + ".minecraft/config/", "CurseForge configs", "MultiMC")
+copy_dir(cf_path + "mods/", mmc_path + ".minecraft/mods/", "CurseForge mods", "MultiMC")
+copy_dir(cf_path + "resourcepacks/", mmc_path + ".minecraft/resourcepacks/", "CurseForge resource packs", "MultiMC")
 
 # CurseForge to Git 
 
