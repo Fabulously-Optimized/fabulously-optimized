@@ -20,6 +20,7 @@ Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanil
 ### Works everywhere
 
 Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 5 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
+<!-- If Mod Menu Helper is translated to your language, end the sentence like "[translated to many languages][7], including <your language>." -->
 
 ### Up to date
 
