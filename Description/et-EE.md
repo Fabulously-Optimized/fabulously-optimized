@@ -1,24 +1,24 @@
 # Eesti keel
 
-Fabricul põhinev modipakk Minecraftile, mis keskendub jõudluse ning graafika optimeerimisele. 
+Fabricul põhinev Minecrafti modipakk, mis keskendub jõudluse ning graafika täiendustele. 
 
 [![Arvustus/juhend](https://img.youtube.com/vi/z0jKe8XgdP0/hqdefault.jpg)](https://www.youtube.com/watch?v=z0jKe8XgdP0)
 
 ### Jõudlus
 
-Fabulously Optimized on üldjuhul OptiFine'ist kiirem, kuna sisaldab [modernseid jõudlusmode][1] nagu Sodium ja Lithium.
+Fabulously Optimized on üldjuhul OptiFine'ist kiirem tänu [modernstele jõudlusmodidele][1] nagu Sodium, Lithium ja teised!
 
 ### OptiFine'i-võrdsus
 
-Fabulously Optimized [toetab peaaegu kõiki OptiFine'i funktsioone][2], sealhulgas varjutajad, ühendatud tekstuurid ja suum. [Hangi tasuta keep!][3]
+Fabulously Optimized [toetab peaaegu kõiki OptiFine'i funktsioone][2], sealhulgas varjutajad, ühendatud tekstuurid ja suum. [Sa saad omale isegi tasuta keebi hankida!][3]
 
 ### Pisiparandused
 
-Fabulously Optimized [sisaldab pisiparandusi][4], mis ei kaota puhta Minecrafti tunnetust, sealhulgas pikendatud vestlusajalugu, aknal põhinev täisekraanirežiim ning veaparandused enim nähtud vigadele.
+Fabulously Optimized [sisaldab paar pisiparandust][4], mis ei kaota puhta Minecrafti tunnetust, sealhulgas laiendatud vestlusajalugu, aknal põhinev täisekraanirežiim, parandused enim nähtud vigadele ja krahhide diagnoosimise tööriistad.
 
 ### Töötab kõikjal
 
-Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 5 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
+Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
 
 ### Kaasaegne
 
@@ -26,24 +26,24 @@ Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakk
 
 ### Põhineb Fabricul
 
-Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust.
+Võrreldes Forge'iga on Fabric kerge, uueneb ja laadib kiiresti, sealjuures omades siiski head modide toetust.
 
 ### Avatud arendus
 
-Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideedel, loomaks parema kasutuskogemuse kõigile.
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Me tervitame kasutajate ettepanekuid ja teeme koostööd modiarendajatega, et luua parem kasutajakogemus kõigile.
 
 ### Abivalmis kogukond
 
-Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada ning üksteist aidata. [Liitu meiega!][10]
+Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada ning üksteist aidata. [Liitu meiega juba täna!][10]
 
 ## KKK
 
-> **K**: Kuidas paigaldada? Uuendada? Mode lisada? Midagi muud?
+> **K**: Kuidas paigaldada/uuendada/mode lisada/midagi muud?
 > 
 > **V**: [Vastused on meie vikis.](https://fabulously-optimized.gitbook.io/modpack/et-ee)
 
 
-> **K**: Midagi läks katki! Peaksid midagi lisama!
+> **K**: Midagi läks katki/Peaksid midagi lisama!
 > 
 > **V**: [Postita see meie GitHubi.][8]
 
@@ -53,14 +53,14 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > **V**: Klõpsa mistahes versiooni ja keri alla [või vaata võrdlustabelit][12].
 
 
-> **K**: Mulle meeldib see. Kuidas saan kaasa aidata?
+> **K**: Mulle meeldib see modipakk. Kuidas saan kaasa aidata?
 >
 > **V**: [Kaasa aitamise viisid on kirjeldatud siin.][16] Suur tänu!
 
 
 > **K**: Kas ma vajan seda modipakki ka serveris?
 > 
-> **V**: Ei, see töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
+> **V**: Ei, see pakk töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13] 
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
