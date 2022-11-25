@@ -4,7 +4,7 @@ Um modpack baseado em Fabric para Minecraft que foca na performance e otimizaç�
 
 *Vídeo de review (em inglês)*
 
-[![Review atual](https://img.youtube.com/vi/bb8G9X5Q_4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![Review atual](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
@@ -18,21 +18,21 @@ Fabulously Optimized [suporta quase todas as funcionalidades do OptiFine][2], in
 
 Fabulously Optimized [inclui ajustes menores][4] que não quebram o sentimento vanilla do jogo como o aumento do histórico do chat, tela cheia em modo janela e resoluções de bugs para os problemas mais comuns.
 
-### Atualizado
-
-Fabulously Optimized [recebe atualizações rapidamente][5] e é um dos primeiros modpacks a atualizar para novas versões do Minecraft.
-
 ### Funciona em todo lugar
 
 Fabulously Optimized é pensado para funcionar em qualquer mundo ou servidor, [roda em 5 launchers, é hospedado em 3 sites][6] e [suporta diversas linguagens][7].
 
-### Desenvolvimento aberto
+### Atualizado
 
-Fabulously Optimized [é de código aberto][8] e o mesmo é para maioria de seus mods. É desenvolvido com ideias da comunidade, colaborando com desenvolvedores de mods para criar uma melhor experiência de usuário para todos.
+Fabulously Optimized [recebe atualizações rapidamente][5] e é um dos primeiros modpacks a atualizar para novas versões do Minecraft.
 
 ### Construído com o Fabric
 
 Comparado ao Forge, Fabric atualiza e carrega rápido, não inclui bibliotecas gigantes e mantém um grande suporte a mods.
+
+### Desenvolvimento aberto
+
+Fabulously Optimized [é de código aberto][8] e o mesmo é para maioria de seus mods. É desenvolvido com ideias da comunidade, colaborando com desenvolvedores de mods para criar uma melhor experiência de usuário para todos.
 
 ### Comunidade útil
 
@@ -59,7 +59,7 @@ Temos uma comunidade em ascenção com membros amigáveis que gostam de discutir
 > 
 > **R**: Não, ele funciona em todos os servidores que permitem clientes vanilla. [Resposta detalhada e dicas de servidor aqui.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Se precisar de uma hospedagem, clique aqui - 25% de desconto para o primeiro mês!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Se precisar de uma hospedagem, clique aqui - 25% de desconto para o primeiro mês!][14]
 
 
 > **P**: Eu tenho mais perguntas!

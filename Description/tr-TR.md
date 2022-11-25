@@ -2,7 +2,7 @@
 
 Performans ve grafik iyileştirmelerine odaklanan Minecraft için Fabric tabanlı bir mod paketidir.
 
-[![Mevcut inceleme](https://img.youtube.com/vi/Vj7S5_4Rkfg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
+[![Mevcut inceleme](https://img.youtube.com/vi/Vj7S5_4Rkfg/hqdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
 ### Performans
 
@@ -16,21 +16,21 @@ Fabulously Optimized; shader, bağlantılı dokular ve yakınlaştırma dahil [n
 
 Fabulously Optimized artırılmış sohbet geçmişi, pencereli tam ekran modu ve en yaygın sorunlara yönelik hata düzeltmeleri gibi vanilya hissini bozmayan [küçük değişiklikler içerir.][4]
 
-### Güncel
-
-Fabulously Optimized [hızlı güncellemeler alır][5] ve daha yeni Minecraft sürümlerine yükseltilen ilk mod paketlerinden biridir.
-
 ### Her yerde çalışır
 
 Fabulously Optimized herhangi bir dünya veya sunucuda çalışmak üzere tasarlanmıştır, [5 başlatıcıda çalışır, 3 sitede barındırılır][6] ve [birçok dili destekler.][7].
 
-### Açık geliştirme
+### Güncel
 
-Fabulously Optimized [açık kaynaklıdır][8] ve modlarının çoğu da öyle. Herkes için daha iyi bir kullanıcı deneyimi yaratmak için mod geliştiricileriyle işbirliği yaparak topluluğun fikirleriyle geliştirilmiştir.
+Fabulously Optimized [hızlı güncellemeler alır][5] ve daha yeni Minecraft sürümlerine yükseltilen ilk mod paketlerinden biridir.
 
 ### Fabric üzerine kurulu
 
 Forge ile karşılaştırıldığında, Fabric hızlı bir şekilde güncellenir ve yüklenir, büyük kütüphaneler içermezken aynı zamanda harika bir mod desteğine sahiptir.
+
+### Açık geliştirme
+
+Fabulously Optimized [açık kaynaklıdır][8] ve modlarının çoğu da öyle. Herkes için daha iyi bir kullanıcı deneyimi yaratmak için mod geliştiricileriyle işbirliği yaparak topluluğun fikirleriyle geliştirilmiştir.
 
 ### Yardımsever topluluk
 
@@ -62,7 +62,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 > 
 > **C**: Hayır, bu vanilya istemcilerine izin veren tüm sunucularda çalışır. [Ayrıntılı cevap ve sunucu ipuçları burada.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Bir hostinge ihtiyacınız varsa, buraya tıklayın - ilk ay için %25 indirim!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Bir hostinge ihtiyacınız varsa, buraya tıklayın - ilk ay için %25 indirim!][14]
 
 
 > **S**: Daha fazla sorum var!

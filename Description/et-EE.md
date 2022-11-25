@@ -2,7 +2,7 @@
 
 Fabricul põhinev modipakk Minecraftile, mis keskendub jõudluse ning graafika optimeerimisele. 
 
-[![Arvustus/juhend](https://img.youtube.com/vi/z0jKe8XgdP0/maxresdefault.jpg)](https://www.youtube.com/watch?v=z0jKe8XgdP0)
+[![Arvustus/juhend](https://img.youtube.com/vi/z0jKe8XgdP0/hqdefault.jpg)](https://www.youtube.com/watch?v=z0jKe8XgdP0)
 
 ### Jõudlus
 
@@ -16,21 +16,21 @@ Fabulously Optimized [toetab peaaegu kõiki OptiFine'i funktsioone][2], sealhulg
 
 Fabulously Optimized [sisaldab pisiparandusi][4], mis ei kaota puhta Minecrafti tunnetust, sealhulgas pikendatud vestlusajalugu, aknal põhinev täisekraanirežiim ning veaparandused enim nähtud vigadele.
 
-### Kaasaegne
-
-Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
-
 ### Töötab kõikjal
 
 Fabulously Optimized on mõeldud töötama mistahes maailmas või serveris, [saab kasutada 5 käivitajas, on saadaval 3 saidil][6] ning [toetab mitmeid keeli][7], sealhulgas eesti keelt.
 
-### Avatud arendus
+### Kaasaegne
 
-Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideedel, loomaks parema kasutuskogemuse kõigile.
+Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
 
 ### Põhineb Fabricul
 
 Võrreldes Forge'iga käivitub ning uueneb Fabric kiiresti ja ei sisalda suuri rakendusliideseid, sealjuures omades siiski head modide toetust.
+
+### Avatud arendus
+
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Pakki arendatakse koostöös modiarendajatetega ning põhinedes kogukonna ideedel, loomaks parema kasutuskogemuse kõigile.
 
 ### Abivalmis kogukond
 
@@ -62,7 +62,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > 
 > **V**: Ei, see töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serverinõuanded leiad siit.][13] 
 > 
-> [![](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
 
 > **K**: Mul on veel küsimusi!
