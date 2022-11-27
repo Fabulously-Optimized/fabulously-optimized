@@ -29,7 +29,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ## Pretty
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | Description |
 |---|---|---|---|---|---|---|
-| [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar (currently not shown in Mod Menu Helper) |
+| [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar |
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's custom item textures support |
