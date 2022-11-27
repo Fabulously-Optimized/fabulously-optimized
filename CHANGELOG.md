@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.5.3 (2022-11-24)
+
+- Updated Fabric API, Mod Menu, Sodium Extra
+  - Sodium Extra fixed a crash related to fog and particle toggles
+- MultiMC version now uses _.minecraft_ (instead of _minecraft_) as the folder
+
 ### 4.5.2 (2022-11-18)
 
 Iris had a bruh moment and fixed its issue again, properly.

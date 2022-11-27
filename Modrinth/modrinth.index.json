@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.5.2",
+    "versionId": "4.5.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -199,15 +199,15 @@
             "fileSize": 359468
         },
         {
-            "path": "mods/fabric-api-0.66.0+1.19.2.jar",
+            "path": "mods/fabric-api-0.67.1+1.19.2.jar",
             "hashes": {
-                "sha1": "bb8b91dde3d3140a3b8e83b0d2631d9e9e73e2ff",
-                "sha512": "afaa80ad396c16da7cbac30a1b63b8d7c6d10856c07053c6c28d083cd203be0d133aa5fed5da43b1c8abb1a96bc58b32e1ac948a5edcf3f0d18358527eb26f72"
+                "sha1": "1f21538bb3d1ef459627b37cbec84008f51be36d",
+                "sha512": "6dca8eb1695aebb9c47df7a86031e1a6438d91d8068d62f8176656739be9ef7f08c12868398b9a7a28a4f45c98cf85b086acb97dd67f112e97e9191dc6dc41b3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/8rIblgME/fabric-api-0.66.0%2B1.19.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/gdGDJ2bh/fabric-api-0.67.1%2B1.19.2.jar"
             ],
-            "fileSize": 1761313
+            "fileSize": 1819120
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.6+kotlin.1.7.21.jar",
@@ -428,15 +428,15 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/modmenu-4.1.0.jar",
+            "path": "mods/modmenu-4.1.1.jar",
             "hashes": {
-                "sha1": "1aad3aa7819d708938d014248fe5ebd850648910",
-                "sha512": "12064e0d64398aee7686ad95900ec2b83c8eebcb05be92ae330669f412dee1ac26a2502152d6d496c3627996e587ed30b5ad17938b65831eda04c47926a13b0b"
+                "sha1": "ed592cc344f5437c56011d1d591d5734e3c6bda7",
+                "sha512": "5f909b2b969e7ce2151f6ad7b821621648449f3668678b7d630022b9689a82024dfab0456624a7345f2dfdca7da0a620527150547bf2c8247ab98c90904b5c20"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/NAs8eiQa/modmenu-4.1.0.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4dReZoTJ/modmenu-4.1.1.jar"
             ],
-            "fileSize": 604290
+            "fileSize": 604293
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -519,15 +519,15 @@
             "fileSize": 88634
         },
         {
-            "path": "mods/sodium-extra-0.4.12+mc1.19.2-build.72.jar",
+            "path": "mods/sodium-extra-0.4.13+mc1.19.2-build.76.jar",
             "hashes": {
-                "sha1": "da2c9faab95af43f5666eeca18523412dc0d779c",
-                "sha512": "f62a5e062a6ad9d69d33d85eba370dd8317535b4b6c3382af172f3a756df276adf3da56a958644302114294de2298ccb2d94859a7f3d6fc427dec47370dfcbd6"
+                "sha1": "5eef6eb9db670ee4e7d5067560b68df4445fd95c",
+                "sha512": "267e559c7c8d24d75ec0a95e2434ef51df564fd060817d5c5528cf47bcfee7f1478871a93fbea3d7613efb8ed7da217a78cf3da72f98b475bd74c000fe5673d3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/yL4dOxzM/sodium-extra-0.4.12%2Bmc1.19.2-build.72.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/Z9F12IDt/sodium-extra-0.4.13%2Bmc1.19.2-build.76.jar"
             ],
-            "fileSize": 252919
+            "fileSize": 254622
         },
         {
             "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
