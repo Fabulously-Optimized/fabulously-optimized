@@ -90,7 +90,7 @@ By using this modpack, you agree to the following:
   Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
   ```html
   <!-- Markdown -->
-  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
 
   <!-- HTML (resizeable) -->
   <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_vector.svg">
