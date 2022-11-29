@@ -1,0 +1,7 @@
+files:
+  - source: Description/*.md
+    ignore:
+      - README.md
+    translation: Description/%locale%.md
+  - source: Mod Menu Helper/assets/fo/lang/*.json
+    translation: Mod Menu Helper/assets/fo/lang/%original_file_name%
