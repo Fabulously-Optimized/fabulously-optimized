@@ -1,7 +1,7 @@
 files:
-  - source: Description/*.md
+  - source: Description/en-US.md
     ignore:
       - README.md
-    translation: Description/%locale%.md
-  - source: Mod Menu Helper/assets/fo/lang/*.json
-    translation: Mod Menu Helper/assets/fo/lang/%original_file_name%
+    translation: '%locale%.md'
+  - source: Mod Menu Helper/assets/fo/lang/en_us.json
+    translation: '%original_path%/%locale_with_underscore%.json'
