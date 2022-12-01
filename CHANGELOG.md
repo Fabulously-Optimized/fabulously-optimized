@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.2
 
+### 4.5.4 (2022-12-01)
+
+- Updated Fabric API, Fabric Language Kotlin, FerriteCore, Iris Shaders, Language Reload, Reese's Sodium Options, Sodium Extra
+  - Mostly bug and crash fixes for all
+  - You can now search creative menu and recipe book in all selected languages (or disable it in Language Reload settings)
+- Added Polish MMH translation by Radplay
+- Fixed Estonian MMH translation
+- Updated Fabric Loader to 0.14.11 where available
+- MultiMC: reverted _.minecraft_ change because it made vanilla users' install harder on Unix-like systems
+
 ### 4.5.3 (2022-11-24)
 
 - Updated Fabric API, Mod Menu, Sodium Extra

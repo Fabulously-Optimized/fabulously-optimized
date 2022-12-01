@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.5.3",
+    "versionId": "4.5.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -199,26 +199,26 @@
             "fileSize": 359468
         },
         {
-            "path": "mods/fabric-api-0.67.1+1.19.2.jar",
+            "path": "mods/fabric-api-0.68.0+1.19.2.jar",
             "hashes": {
-                "sha1": "1f21538bb3d1ef459627b37cbec84008f51be36d",
-                "sha512": "6dca8eb1695aebb9c47df7a86031e1a6438d91d8068d62f8176656739be9ef7f08c12868398b9a7a28a4f45c98cf85b086acb97dd67f112e97e9191dc6dc41b3"
+                "sha1": "bb4d02f261723dd81effd117df9437bfa20dc728",
+                "sha512": "bfe8b60875794c60b589754f9f6abefdd97581463d31dc4d2ac68a0735aea060e925964ba5bfdbb14dcab1ec9f426fb8aebba86ca28bd0dfd052052b435786e7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/gdGDJ2bh/fabric-api-0.67.1%2B1.19.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/BXfHW8Ww/fabric-api-0.68.0%2B1.19.2.jar"
             ],
-            "fileSize": 1819120
+            "fileSize": 1820290
         },
         {
-            "path": "mods/fabric-language-kotlin-1.8.6+kotlin.1.7.21.jar",
+            "path": "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar",
             "hashes": {
-                "sha1": "edaaceb0f31f7d33a077e998e0ad9415a821aedd",
-                "sha512": "6610194d42c3a49f2b9d305f67a7d4970e3ce3bd1077c109bd1d279e2e6450088f17e103937441f233262c8d8a1f8323f2fc5ec4acac4362ad6141b6607fde87"
+                "sha1": "2f2d38ac49cb1882dc23aeb85e666e0bb76b872d",
+                "sha512": "e187b83944f92d79e8cb1916dabb4e806a2103580a9b8ed415da38f493bc7e807e62bb62ea373e53a1bb962747c71ebbf9597cce10b8b41679f31bce8020bd0a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/UJQzC6Jw/fabric-language-kotlin-1.8.6%2Bkotlin.1.7.21.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/yLIAMDzv/fabric-language-kotlin-1.8.7%2Bkotlin.1.7.22.jar"
             ],
-            "fileSize": 6429255
+            "fileSize": 6429262
         },
         {
             "path": "mods/fabricskyboxes-0.6.0+mc1.19.2.jar",
@@ -254,15 +254,15 @@
             "fileSize": 26471
         },
         {
-            "path": "mods/ferritecore-5.0.0-fabric.jar",
+            "path": "mods/ferritecore-5.0.3-fabric.jar",
             "hashes": {
-                "sha1": "14ab2f560fce8f20f5af07129dd71130ab9bb03f",
-                "sha512": "ea54167b9c054a7e486dc01113ee9fc6d3ed0e527cb2fe238f7f5ba5823ac18f4e7c70bf89d14c9845485ca881b757b7672cda610c7fac580fd55db7070d02b4"
+                "sha1": "4a124f8205e39b84a156db2d1e435c5708328d7b",
+                "sha512": "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar"
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar"
             ],
-            "fileSize": 119108
+            "fileSize": 119275
         },
         {
             "path": "mods/fsb-interop-1.1.2+mc1.19.2-build.21.jar",
@@ -288,15 +288,15 @@
             "fileSize": 118642
         },
         {
-            "path": "mods/iris-mc1.19.2-1.4.2.jar",
+            "path": "mods/iris-mc1.19.2-1.4.3.jar",
             "hashes": {
-                "sha1": "38961d841e4246c87e4b95bc57cf60aa8a895b0e",
-                "sha512": "211595ee757c1abf4fd9969e0f77ed22539e091f12fe877ea6bd8d579c56a0faf41e74e6a181f85dc738ff05e549e021c0295d7e71565bb5511f4659e691932d"
+                "sha1": "b63d3c66c18bd79078539ea5268456ef6e358c84",
+                "sha512": "ffc639cea16909a607a5a2dda7278b4abfe694dff08050cee08d04789cced970c16fbd3921d15c088ee885c878f04b4bd65bc5e8b8bd630107469cda94732faa"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/vujluWvJ/iris-mc1.19.2-1.4.2.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/5Ox2LQ1C/iris-mc1.19.2-1.4.3.jar"
             ],
-            "fileSize": 2608782
+            "fileSize": 2630849
         },
         {
             "path": "mods/item-model-fix-1.0.3+1.19.jar",
@@ -334,16 +334,15 @@
             "fileSize": 556414
         },
         {
-            "path": "mods/language-reload-1.3.2.jar",
+            "path": "mods/language-reload-1.4.jar",
             "hashes": {
-                "sha1": "f35701734ae863b9736f35e09b1f3658b4b60d23",
-                "sha512": "42a46de1ce9ecff063bc3a6096db398959ff8f1622857cefba7a76154bb1f7beb04bf23b5d2c52e2d9fb96bcea307dd9b16a8f45898cd13c03a24cba400d1607"
+                "sha1": "b6be079b0cc994f314e6af5109b5551e87517d32",
+                "sha512": "1dd8ae850f07fd1c4c3e6c97ab3d55941806a0c8b195d451977249443752fab3de65a3dffbb9c76b0b885e17f96ca1bceeb540aa97f18bd8fb766c8aa310e47e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/1.3.2/language-reload-1.3.2.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.3.2/language-reload-1.3.2.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/eSmoMhMv/language-reload-1.4.jar"
             ],
-            "fileSize": 42887
+            "fileSize": 53400
         },
         {
             "path": "mods/lazydfu-0.1.3.jar",
@@ -495,16 +494,15 @@
             "fileSize": 134397
         },
         {
-            "path": "mods/reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar",
+            "path": "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar",
             "hashes": {
-                "sha1": "b9cc6500afef896a577f7f07b635945d469e4b41",
-                "sha512": "5b44706b885a1d29f908af86eb48bdd848fb6222254c360cb05090ec65a31903dcd69c0861940685d3edb6d93b6ef8932dca9c82105dbdfb98f5ed007cfa2cf7"
+                "sha1": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4",
+                "sha512": "c9b5d1b8efdb388fb8a96f241097ab8dd3cf296a1e7ecf2004deaae237d84d7b75fde7439206cea6408bf5d43cf2d36522a344727a15d3cecd36779ee72e301e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iusxhlyd/reeses_sodium_options-1.4.7%2Bmc1.19.2-build.59.jar",
-                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.2-1.4.7/reeses_sodium_options-1.4.7%2Bmc1.19.2-build.59.jar"
+                "https://cdn.modrinth.com/data/Bh37bMuy/versions/hkSQ9RqT/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar"
             ],
-            "fileSize": 49903
+            "fileSize": 49984
         },
         {
             "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
@@ -519,15 +517,15 @@
             "fileSize": 88634
         },
         {
-            "path": "mods/sodium-extra-0.4.13+mc1.19.2-build.76.jar",
+            "path": "mods/sodium-extra-0.4.14+mc1.19.2-build.80.jar",
             "hashes": {
-                "sha1": "5eef6eb9db670ee4e7d5067560b68df4445fd95c",
-                "sha512": "267e559c7c8d24d75ec0a95e2434ef51df564fd060817d5c5528cf47bcfee7f1478871a93fbea3d7613efb8ed7da217a78cf3da72f98b475bd74c000fe5673d3"
+                "sha1": "11d547e8dc6233defd00e3bdd4dba4922909dd69",
+                "sha512": "f2df17f1e35313b8f646d12407cb9b8982c9fa995a8c9346fb953592f7b389714542b3ce58f7c4fdbbc08ec47b5cf6e7c651ec5133b664475458397d7139dc80"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/Z9F12IDt/sodium-extra-0.4.13%2Bmc1.19.2-build.76.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/1ha6EuaV/sodium-extra-0.4.14%2Bmc1.19.2-build.80.jar"
             ],
-            "fileSize": 254622
+            "fileSize": 260818
         },
         {
             "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
@@ -588,6 +586,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.2",
-        "fabric-loader": "0.14.10"
+        "fabric-loader": "0.14.11"
     }
 }
