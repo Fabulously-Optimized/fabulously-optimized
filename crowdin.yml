@@ -1,0 +1,9 @@
+files:
+  - source: Description/en-US.md
+    ignore:
+      - README.md
+    translation: /Description/%locale%.md
+  - source: Mod Menu Helper/assets/fo/lang/en_us.json
+    translation: /%original_path%/%locale_with_underscore%.json
+  - source: Chat Reporting Helper/assets/fo/lang/en_us.json
+    translation: /%original_path%/%locale_with_underscore%.json

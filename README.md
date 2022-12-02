@@ -12,7 +12,7 @@ Supports CurseForge Launcher, MultiMC, Prism Launcher, GDLauncher, and vanilla l
   <summary>Alternative downloads</summary>
 
 _These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.4.3/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
+* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.5.4/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 * [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) (separate download of the pack that is bundled in FO)
@@ -92,7 +92,7 @@ By using this modpack, you agree to the following:
   Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
   ```html
   <!-- Markdown -->
-  [![Built on Fabulously Optimized](https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
 
   <!-- HTML (resizeable) -->
   <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/built-with/fabulously-optimized_vector.svg">
