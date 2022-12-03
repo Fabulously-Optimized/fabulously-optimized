@@ -2,6 +2,10 @@
 
 A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
+[**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
+
+[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
+
 ## Downloads
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
@@ -18,8 +22,6 @@ _These downloads do not yet support the modpack or the mods :(_
 * [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) (separate download of the pack that is bundled in FO)
   * The resource pack also expects [FO's configuration of NCR](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config/yosbr/config/NoChatReports) - unpack these to `.../.minecraft/config/NoChatReports`
 </details>
-  
-
 
 Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Prism Launcher](https://prismlauncher.org/) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
@@ -35,38 +37,6 @@ Not sure which edition is right for you? Check this handy table!
 | Unique feature | 1-click install | Nostalgic UI | Always up to date | Steam Deck support | Modern UI | Familiarity | 
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
-
-## Reviews
-
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
-
-🌐 [eesti keel](https://www.youtube.com/watch?v=z0jKe8XgdP0) | [हिन्दी](https://www.youtube.com/watch?v=K90gsbmhf3w) | [Русский](https://www.youtube.com/watch?v=3Oylcgt1nyw) | [Türkçe](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
-
-More notable videos:
-* [Review](https://www.youtube.com/watch?v=LRaILLvYwY0) by The Breakdown
-* [Detailed installation tutorial](https://www.youtube.com/watch?v=9HXXyfzUy6Q) by CraftStones
-* [Review](https://www.youtube.com/watch?v=crtB5DnZ3a8) by KoPlexis MC
-* [Review](https://www.youtube.com/watch?v=XR0zJL9blpE) by MobPlay
-* [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
-* [Playing on a Raspberry Pi 4 (low-power specialized computer)](https://www.youtube.com/watch?v=vVAS8AYNEgU) by whitebelyash
-* [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
-
-## Included Mods
-Fabulously Optimized has [a complete list of all the mods included](INCLUDED-MODS.md). Besides the mods that are used in the latest version, it also lists the mods used in older major versions, alternative mods and library mods that are essential for the modpack to work.
-
-See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs)
-
-
-## Help
-
-Help is provided by:
-
-* [Wiki](https://fabulously-optimized.gitbook.io/modpack/) (how to install, update etc.)
-* [Discord](https://discord.gg/yxaXtaQqdB) (support, update notifications, etc)
-* [Issues](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) (mod suggestions, bug reports)
-* [CurseForge listing comments](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#comments) (questions and general comments only)
-
-Want to help translate the modpack to your language? [See this tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)
 
 ## Disclaimers
 
