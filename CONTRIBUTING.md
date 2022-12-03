@@ -11,7 +11,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **[❤️ Heart and comment on AlternativeTo](https://alternativeto.net/software/fabulously-optimized/about/)**
   * Please sign up before doing it, otherwise it will not count ☹️
 * **[🛑 Disable ad blocker on Modrinth](https://docs.modrinth.com/docs/details/ads/#browser-extensions)**
-  * [...and then maybe browse my content a bit?](https://modrinth.com/user/robotkoer)
+  * [...and then maybe browse my content a bit to give me ad money?](https://modrinth.com/user/robotkoer)
   * I do _not_ recommend disabling it on CurseForge due to the intrusive ads there.
 * **[🗄️ Create a Minecraft server (25% off first month!)](https://www.bisecthosting.com/clients/aff.php?aff=2604)**
 * **[🔗 Share the modpack](https://fabulously-optimized.github.io/)**
