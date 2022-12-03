@@ -2,6 +2,8 @@
 
 A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
+[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)
+
 ## Downloads
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?color=4&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized)
@@ -34,6 +36,12 @@ Not sure which edition is right for you? Check this handy table!
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
 
+## Included Mods
+
+[Comparison of included mods in major versions](INCLUDED-MODS.md). Besides the mods that are used in the latest version, it also lists the mods used in older major versions, alternative mods and library mods that are essential for the modpack to work.
+
+See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs)
+
 ## Reviews
 
 [![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
@@ -48,23 +56,6 @@ More notable videos:
 * [Review](https://www.youtube.com/watch?v=990XcePXGh0) by MagMa
 * [Playing on a Raspberry Pi 4 (low-power specialized computer)](https://www.youtube.com/watch?v=vVAS8AYNEgU) by whitebelyash
 * [Review of some mods on the pack](https://www.youtube.com/watch?v=8OBkqn4Z4ek) by PD
-
-## Included Mods
-Fabulously Optimized has [a complete list of all the mods included](INCLUDED-MODS.md). Besides the mods that are used in the latest version, it also lists the mods used in older major versions, alternative mods and library mods that are essential for the modpack to work.
-
-See also: [List of bugs fixed in the modpack](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs)
-
-
-## Help
-
-Help is provided by:
-
-* [Wiki](https://fabulously-optimized.gitbook.io/modpack/) (how to install, update etc.)
-* [Discord](https://discord.gg/yxaXtaQqdB) (support, update notifications, etc)
-* [Issues](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) (mod suggestions, bug reports)
-* [CurseForge listing comments](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized#comments) (questions and general comments only)
-
-Want to help translate the modpack to your language? [See this tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)
 
 ## Disclaimers
 
