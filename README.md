@@ -4,7 +4,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
 
-[**Mod list**](INCLUDED-MODS.md) [**Changed vanilla defaults**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options)
+[**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
 ## Downloads
 
@@ -20,8 +20,6 @@ _These downloads do not yet support the modpack or the mods :(_
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 </details>
-  
-
 
 Not sure which edition is right for you? Check this handy table!
 | Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Prism Launcher](https://prismlauncher.org/) | [GDLauncher](https://gdevs.io) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
