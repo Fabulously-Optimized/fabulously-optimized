@@ -4,7 +4,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
-[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
+[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
 
 ## Downloads
 
