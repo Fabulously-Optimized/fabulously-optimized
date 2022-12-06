@@ -4,7 +4,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
-[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
+[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
 
 ## Downloads
 
@@ -50,7 +50,7 @@ By using this modpack, you agree to the following:
     *  [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
     * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
-* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (only to mention what you forked from).
+* Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 
 <br>
 <details>
