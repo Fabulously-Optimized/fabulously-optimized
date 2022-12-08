@@ -5,7 +5,6 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 4.6.0-alpha.2 (2022-12-09)
 
-Mods
 - Updated MemoryLeakFix, BetterMountHUD
 - Temporarily removed OptiGUI because it caused a crash on right click lmao
 
