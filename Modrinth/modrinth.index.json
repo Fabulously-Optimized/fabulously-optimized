@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.1",
+    "versionId": "4.6.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -15,6 +15,17 @@
                 "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"
             ],
             "fileSize": 74214
+        },
+        {
+            "path": "mods/bettermounthud-1.2.1.jar",
+            "hashes": {
+                "sha1": "7cd40803e2dcfe42a7a3c3984e47a059ac2151ec",
+                "sha512": "bd4f45c7df46407e56d246820afe00a42727e63d0e5a5b52e8f6bfc635aea0cd46ba36a7ac43f2ed46b62e3bfd5311bea4be73c957b1bc8a7cd9a2c3c0a932f8"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kqJFAPU9/versions/wqS80NMj/bettermounthud-1.2.1.jar"
+            ],
+            "fileSize": 21597
         },
         {
             "path": "mods/Capes-1.4.5+1.19.jar",
@@ -226,16 +237,16 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/memoryleakfix-1.19.1-0.7.0.jar",
+            "path": "mods/memoryleakfix-1.19.3-0.7.0.jar",
             "hashes": {
-                "sha1": "9ef7b93df46b599f96d8c0dba32753373e5e8a1a",
-                "sha512": "885447011054bf6ae936da5f1e795f135c29d509535c00b2351b8ffc70405e8afd2ed513d1d3c846d8ac54d713800e417579ccf437bcdd2b3c29fb9445ef3d67"
+                "sha1": "9fae1093c64b47d6b97ee825ed3d9b725490700c",
+                "sha512": "b0d85f7aaf31c67a3b891d31b39fd172a1ed679533de40871124e19d2e6e0b4eec64134c6d0b998871716573b99d0f57de7635b7af838d89a75e214bbc3b3264"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0/memoryleakfix-1.19.1-0.7.0.jar",
-                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.7.0/memoryleakfix-1.19.1-0.7.0.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/YtNQP5gX/memoryleakfix-1.19.3-0.7.0.jar",
+                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.7.0-1.19.3/memoryleakfix-1.19.3-0.7.0.jar"
             ],
-            "fileSize": 56844
+            "fileSize": 31051
         },
         {
             "path": "mods/MixinConflictHelper-1.2.0.jar",
@@ -305,18 +316,6 @@
                 "https://github.com/UltimateBoomer/mc-no-fade/releases/download/2.0.1/nofade-1.18-2.0.1.jar"
             ],
             "fileSize": 16197
-        },
-        {
-            "path": "mods/optigui-1.1.6.jar",
-            "hashes": {
-                "sha1": "041727ca39abbf0ef89f95089a193ab7f4535543",
-                "sha512": "2dd7dd3c145365c52d926ebb6341d21058b6a190994e2e43c784394570616f7cab1270172aedcaaee5fcd8851a46591ddf0a36baf568048374d71fafc1a9dd72"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/RMa6KMf9/optigui-1.1.6.jar",
-                "https://github.com/opekope2/OptiGUI/releases/download/v1.1.6-1.19/optigui-1.1.6.jar"
-            ],
-            "fileSize": 278622
         },
         {
             "path": "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar",

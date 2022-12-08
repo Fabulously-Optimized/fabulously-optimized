@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c30962be7be536fa28834dd955f0340c3267244e4ebbf11bac6c158148989afb"
+hash = "2350ef98eeefb85da6e0d9dcbae2ffa8853c96d5b158a266c701546922e60309"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a19a6b70a6a5ff0e5fd3c960289bf3c1fe4be679aa8fc28cf68f1c6afde8a42e"
+hash = "727530743381accaee97a4a9cc3db5011b4ffe11060d750d733aa812b82538c6"
 
 [[files]]
 file = "config/modmenu.json"
@@ -103,6 +103,11 @@ hash = "84fb1448e9d738d58a4916a15acd81dc33b76d699ee3153f5d7e34bd02de145b"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "181b6bda59e65cadc29604b2053955e9fd8299939ccc4604309e4ac97f2659ac"
+metafile = true
+
+[[files]]
+file = "mods/bettermounthud.pw.toml"
+hash = "bdbbc306c1affe5017f7ff15ffdeb053d019f7c8882253f2579b21e9a7ee06ee"
 metafile = true
 
 [[files]]
@@ -197,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "a14b732551a1c7ab36adb5adbd178a9a87c75ffb854e476845ea9226bd0c932e"
+hash = "f121bc8142747b9e2b9815f4629c8c7b46046ab210f7d0d312674888bbc6877e"
 metafile = true
 
 [[files]]
@@ -228,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/no-fade.pw.toml"
 hash = "da5bc04ce1665f78ceae93794202796d2041d6274ffdcfa227bf9e3024ca5ea3"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "cbc992bd5c0a572dd4712f8eeef4fedd531cf4a1642876ab579039488dabfe8f"
 metafile = true
 
 [[files]]
