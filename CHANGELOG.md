@@ -1,6 +1,30 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.3
+
+### 4.6.0-alpha.1 (2022-12-08)
+
+This is it, the first 1.19.3 alpha! Cool new stuff, but also many broken mods due to major internal changes to the game. 
+But more broken mods now mean less broken mods in 1.20 💪
+
+**Please use a separate instance for alphas and betas like this, just in case.**
+
+Mods
+- Updated Cloth Config API, Debugify, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyBoxes Interop, FerriteCore, Iris Shaders, Language Reload, Lithium, Mod Menu, No Chat Reports, Sodium, Sodium Extra, Zoomify, YetAnotherConfigLib
+- Temporarily disabled AdvancementInfo, AntiGhost, BetterMountHUD, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, Puzzle 
+
+Other
+- Added Chat Reporting Helper resource pack 
+  - Designed to concisely inform players of chat reporting's existence and where/how it applies, without perceiving it as "good" or "bad".
+  - Makes No Chat Reports icons more neutral
+  - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
+  - Feedback and translations welcome on GitHub 
+- Enabled operator blocks in creative menu (if you have operator access)
+- Enabled advanced tooltips (F3+H) by default
+  - This helps people use commands, get precise durability, learn English faster etc, so I believe it is useful for more than just "debugging"
+- Updated and enforced Fabric Loader 0.14.11 everywhere
+
 ## 1.19.2
 
 ### 4.5.4 (2022-12-01)

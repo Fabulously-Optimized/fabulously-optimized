@@ -1,4 +1,4 @@
-version:3215
+version:3218
 autoJump:false
 operatorItemsTab:true
 snooperEnabled:false
@@ -6,8 +6,8 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","midnightcontrols/bedrock"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]
+incompatibleResourcePacks:["vanilla"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
