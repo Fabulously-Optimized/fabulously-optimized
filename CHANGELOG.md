@@ -8,7 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated MemoryLeakFix, BetterMountHUD
 - Temporarily removed OptiGUI because it caused a crash on right click lmao
 
-- Temporarily disabled AdvancementInfo, AntiGhost, BetterMountHUD, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
+- Temporarily disabled AdvancementInfo, AntiGhost, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
 
 ### 4.6.0-alpha.1 (2022-12-08)
 
