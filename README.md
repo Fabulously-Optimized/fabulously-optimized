@@ -19,6 +19,8 @@ _These downloads do not yet support the modpack or the mods :(_
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.5.4/Fabulously.Optimized.MC.1.19.2.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+* [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) (separate download of the pack that is bundled in FO)
+  * The resource pack also expects [FO's configuration of NCR](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config/yosbr/config/NoChatReports) - unpack these to `.../.minecraft/config/NoChatReports`
 </details>
 
 Not sure which edition is right for you? Check this handy table!
