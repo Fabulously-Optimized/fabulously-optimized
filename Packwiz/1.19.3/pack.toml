@@ -1,0 +1,13 @@
+name = "Fabulously Optimized"
+author = "robotkoer"
+version = "4.5.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a92ef993ac8e783f9d357f67a70e84e12f0d50b352642345f5e40187f7ea750d"
+
+[versions]
+fabric = "0.14.11"
+minecraft = "1.19.2"
