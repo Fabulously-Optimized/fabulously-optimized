@@ -34,6 +34,13 @@ Other
 
 ## 1.19.2
 
+### 4.5.5 (2022-12-09)
+
+- Updated FabricSkyBoxes, FabricSkyBoxes Interop, Farsight, Iris Shaders, Language Reload, Lithium, Mod Menu, MemoryLeakFix, Zoomify
+- Enabled advanced tooltips (F3+H) by default
+  - This helps people use commands, get precise durability, learn English faster etc, so I believe it is useful for more than just "debugging"
+- Updated Fabric Loader to 0.14.11 everywhere
+
 ### 4.5.4 (2022-12-01)
 
 - Updated Fabric API, Fabric Language Kotlin, FerriteCore, Iris Shaders, Language Reload, Reese's Sodium Options, Sodium Extra
