@@ -1,10 +1,21 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.2",
+    "versionId": "4.6.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
+        {
+            "path": "mods/advancementinfo-1.19.3-fabric0.68.1-1.3.1.jar",
+            "hashes": {
+                "sha1": "36a765ac27ad40e85322db9b47e70787d4ee0ad3",
+                "sha512": "e4c254bb81ac60b75be7a613d781bf7692f3bc4ac04c162296dde726d2b8164099dfa4866f308d5a557e1d126ca9e1f53d69c1c7c0149872df5dc3894517f525"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1epq3jN/versions/HkMtkEM2/advancementinfo-1.19.3-fabric0.68.1-1.3.1.jar"
+            ],
+            "fileSize": 1022116
+        },
         {
             "path": "mods/animatica-0.5+1.19.jar",
             "hashes": {
@@ -15,6 +26,17 @@
                 "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"
             ],
             "fileSize": 74214
+        },
+        {
+            "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar",
+            "hashes": {
+                "sha1": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366",
+                "sha512": "1cc717aa9807f8fc5c47cd3994cd774f75118e11960fd3afbebd851d12ae8ddde91d95a6b73725543f84fa4ecefbbd0e5ccbb9e5ea7a5cd98f293fc2977c9c24"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/Jq5eCzIr/antighost-1.19.3-fabric0.68.1-1.1.5.jar"
+            ],
+            "fileSize": 45879
         },
         {
             "path": "mods/bettermounthud-1.2.1.jar",
@@ -97,6 +119,17 @@
                 "https://github.com/tr7zw/EntityCulling/releases/download/1.5.2-1.19.3/entityculling-fabric-1.5.2-mc1.19.3.jar"
             ],
             "fileSize": 76646
+        },
+        {
+            "path": "mods/entity_texture_features_fabric_1.19.3-4.2.0.1.jar",
+            "hashes": {
+                "sha1": "d099b988ca411d6630a68aa9f5dc5f0932bc9d0f",
+                "sha512": "3ce8a6c0f6030fd589ddfad4fad20a74773e5485756bf72243dc22525804a91517d6740ba9bb1edf6444c40e6cff72ff5a04d120ea63ef789ffa2222901cc9a0"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/KBKeI45D/entity_texture_features_fabric_1.19.3-4.2.0.1.jar"
+            ],
+            "fileSize": 359610
         },
         {
             "path": "mods/fabric-api-0.68.1+1.19.3.jar",
@@ -213,16 +246,16 @@
             "fileSize": 14531
         },
         {
-            "path": "mods/lithium-fabric-mc1.19.3-0.10.3.jar",
+            "path": "mods/lithium-fabric-mc1.19.3-0.10.4.jar",
             "hashes": {
-                "sha1": "bd1b6b71c47604d650ef4a307d39e8f23a142cbb",
-                "sha512": "67a6200abfb847bf6e6e7aa882c77bdc2002ef30983fdc535af2736d5c828589e13a9ce37a5dac8880d9504831e38d8fffee7fb0b94e755f3bfef208d190494c"
+                "sha1": "a1b521e18f7857a2fd327c7bebeed3128418e3c9",
+                "sha512": "2f33a06769044e43b5cfb95f1b7f8c2a14ef2f025d6d531ed64dae186eaf3c3d72eeb68f6422f7637b67c4055022c9ef8f5f582d9081dc06a4642cda4c242b82"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/3Gq9H7R9/lithium-fabric-mc1.19.3-0.10.3.jar",
-                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.19.3-0.10.3/lithium-fabric-mc1.19.3-0.10.3.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar",
+                "https://github.com/CaffeineMC/lithium-fabric/releases/download/1.19.3-0.10.4/lithium-fabric-mc1.19.3-0.10.4.jar"
             ],
-            "fileSize": 555770
+            "fileSize": 555778
         },
         {
             "path": "mods/main-menu-credits-1.1.1.jar",

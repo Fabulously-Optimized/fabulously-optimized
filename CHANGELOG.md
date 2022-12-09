@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.3 (2022-12-09)
+
+- Updated AdvancementInfo, AntiGhost, Entity Texture Features, Lithium 
+
+- Temporarily disabled Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
+
 ### 4.6.0-alpha.2 (2022-12-09)
 
 - Updated MemoryLeakFix, BetterMountHUD

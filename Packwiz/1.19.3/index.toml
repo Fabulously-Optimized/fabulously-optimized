@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2350ef98eeefb85da6e0d9dcbae2ffa8853c96d5b158a266c701546922e60309"
+hash = "df20bd148cec818d72e0b5ab442c91bb2a5c84b769ef0df04924f7985b83ec04"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "727530743381accaee97a4a9cc3db5011b4ffe11060d750d733aa812b82538c6"
+hash = "f2bc2bf583c437bc4d13bcbd22fed9082710ba2b14e35b798e7da57bd49d69c3"
 
 [[files]]
 file = "config/modmenu.json"
@@ -101,8 +101,18 @@ file = "resourcepacks/Chat Reporting Helper.zip"
 hash = "84fb1448e9d738d58a4916a15acd81dc33b76d699ee3153f5d7e34bd02de145b"
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "8310ec393091be6d401492ddfe38c83ef33a232dba5b3b1bdb57562175611558"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "181b6bda59e65cadc29604b2053955e9fd8299939ccc4604309e4ac97f2659ac"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "b023edfcaca9f400d9afed65ec077cc98a35943fedb4392542f87fbf8613e839"
 metafile = true
 
 [[files]]
@@ -138,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0b2ced37cfac1e790982182f976330350ea90f9bcc7e70d218143ff34e0efb1e"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features.pw.toml"
+hash = "9c56cf76719f88d9e235db6e9d2f3ba1c8c868810b6c6926ee05a781eee18e17"
 metafile = true
 
 [[files]]
@@ -192,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e4b32c973812c74b59b20bc3b091574d63071fb4c2774f185f31cf50ebb04cf"
+hash = "b98f4fabbf58b883dc6834edbed10749bcc5607c15a276f8073986e810f40441"
 metafile = true
 
 [[files]]
