@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.3",
+    "versionId": "4.6.0-alpha.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -210,6 +210,18 @@
             "fileSize": 41697
         },
         {
+            "path": "mods/indium-1.0.10+mc1.19.3.jar",
+            "hashes": {
+                "sha1": "5a016a84c55a026286b25c8b3686c1acece6ca6f",
+                "sha512": "3aa2d911a748e8cd383f82197b375128188eaff9b529819fd02ed190f09f88347024806396cd102c7ae96599cf2e1c7dc45c8380ad1a98f113934c3ce143da91"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/BoAba4K3/indium-1.0.10%2Bmc1.19.3.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.10%2Bmc1.19.3/indium-1.0.10%2Bmc1.19.3.jar"
+            ],
+            "fileSize": 118628
+        },
+        {
             "path": "mods/iris-mc1.19.3-1.4.6.jar",
             "hashes": {
                 "sha1": "27ab78bb9dba64010aa63d1f0b06108132569eac",
@@ -282,6 +294,18 @@
             "fileSize": 31051
         },
         {
+            "path": "mods/midnightcontrols-1.7.2+1.19.3.jar",
+            "hashes": {
+                "sha1": "e9cbcea31d42ab413f3c64753b1fb55b64333140",
+                "sha512": "25a50e6b5710c4d451860fddc5c7f0f833150488dd5bf7fbed13c9aa52b9de6b407e2b8a607de03769b30f028d17bb1828d45c1371cb061e850e1991b4dd8cea"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/bXX9h73M/versions/azYrtNJ9/midnightcontrols-1.7.2%2B1.19.3.jar",
+                "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.7.2/midnightcontrols-1.7.2%2B1.19.3.jar"
+            ],
+            "fileSize": 555577
+        },
+        {
             "path": "mods/MixinConflictHelper-1.2.0.jar",
             "hashes": {
                 "sha1": "d25e635f1059d8eedbee106ca55ce12b7055a302",
@@ -306,16 +330,16 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/modmenu-5.0.1.jar",
+            "path": "mods/modmenu-5.0.2.jar",
             "hashes": {
-                "sha1": "cb36d0c9c177b7b03bbfcf216bfa6489ddf0442b",
-                "sha512": "505b41e1b0ab26667a1887b6abc741991b00e5e85d1f14df8b0a4956e82ed7e603d97371d1c3a9cf92974dd64753a826e4ab0e496feb0503836abcf782ddf32b"
+                "sha1": "bcc0199aeaa40fabeda867d629a9fca7300056ad",
+                "sha512": "bcfee6b705a2a02932af73781133a6180560f0f2c291787029e99ff9d71fb7c3e0149d0f0298c9b91c1f49578e85f166db673e562c772225a44d1d24e6fc4685"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/IPLgxPn7/modmenu-5.0.1.jar",
-                "https://github.com/TerraformersMC/ModMenu/releases/download/v5.0.1/modmenu-5.0.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/eIrlBn1Z/modmenu-5.0.2.jar",
+                "https://github.com/TerraformersMC/ModMenu/releases/download/v5.0.2/modmenu-5.0.2.jar"
             ],
-            "fileSize": 637089
+            "fileSize": 637090
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",

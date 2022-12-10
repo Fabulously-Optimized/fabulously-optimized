@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.4 (2022-12-10)
+
+- Updated Indium, MidnightControls, Mod Menu
+- Added Chinese Traditional in MMH by eric122805
+- Updated Language Reload description in MMH
+
 ### 4.6.0-alpha.3 (2022-12-09)
 
 - Updated AdvancementInfo, AntiGhost, Entity Texture Features, Lithium 

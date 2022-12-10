@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "df20bd148cec818d72e0b5ab442c91bb2a5c84b769ef0df04924f7985b83ec04"
+hash = "c9622d94a44f66c91ee926933a7075a66c031fc9253247cb965e4baa484aae58"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f2bc2bf583c437bc4d13bcbd22fed9082710ba2b14e35b798e7da57bd49d69c3"
+hash = "df8502f5841ec137c599c64bdfde782dba67801ec2c3392c8fe742964c895cd1"
 
 [[files]]
 file = "config/modmenu.json"
@@ -38,7 +38,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "adcd87b44677e5f674cb75c9456edc8e14e9c9c70d28d7f3a283e262f697279c"
+hash = "b76bfbdaab1c66e4b622f5a4cb549fd4504f40cb6186255e5e77c4f0d14fdfb6"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -94,7 +94,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "31027fdd3f059f54bf91a8a8f19c08c0dd27d95446469f00f65ff5431d32c6b7"
+hash = "13e829f795066a9c5165e34a04b307bdbb0e99651ade94c15b7cf51f78832a83"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
@@ -191,6 +191,11 @@ hash = "cca39b10d2c4c2114da78f89e53a780e3e1440cbe3b5ffd9ced7ca02f75d0573"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "090360b549c314bb8c94c41d04a0832dd4686da956046547017c692e0f09ef59"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "41495351c7a06440696e284865a584aea86164a81b49f76bc9c125ac7f521047"
 metafile = true
@@ -221,6 +226,11 @@ hash = "f121bc8142747b9e2b9815f4629c8c7b46046ab210f7d0d312674888bbc6877e"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "42eee30bd9b283a3d88d5a906b49501a4904725e9e208a85196574f7d6de3db4"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "4d7792023b4cdd7ba399ddf95bbb3af9c3b69557ccfd7177a9aa19b07495e5b6"
 metafile = true
@@ -232,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "be981e54e68763f18dc364f51430875a48e34b9f0c5ccd8f84c2f7c94ef16136"
+hash = "7f6579fa0b374c47ac698a7d7fca6d3414231153ad83e75d2cf9295eceffd672"
 metafile = true
 
 [[files]]
