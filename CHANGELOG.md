@@ -9,6 +9,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Added Chinese Traditional in MMH by eric122805
 - Updated Language Reload description in MMH
 
+- Temporarily disabled Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
 ### 4.6.0-alpha.3 (2022-12-09)
 
 - Updated AdvancementInfo, AntiGhost, Entity Texture Features, Lithium 
