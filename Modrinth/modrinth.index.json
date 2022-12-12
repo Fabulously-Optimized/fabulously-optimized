@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.4",
+    "versionId": "4.6.0-alpha.5",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -48,6 +48,18 @@
                 "https://cdn.modrinth.com/data/kqJFAPU9/versions/wqS80NMj/bettermounthud-1.2.1.jar"
             ],
             "fileSize": 21597
+        },
+        {
+            "path": "mods/borderless-mining-1.1.6+1.19.3.jar",
+            "hashes": {
+                "sha1": "78039a4ff7edb24b1253caae42eea6c84bd72ac4",
+                "sha512": "bfef1c5285d17f6bbf602837b6fbb90344ace0cd37004facf89abd631d6c7f25134a2b12a0f6a4757c10755615840cb0d25915184e4342c0bf80a866a51ff9ab"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kYq5qkSL/versions/61bxY5nb/borderless-mining-1.1.6%2B1.19.3.jar",
+                "https://github.com/comp500/BorderlessMining/releases/download/1.1.6%2B1.19.3/borderless-mining-1.1.6%2B1.19.3.jar"
+            ],
+            "fileSize": 110949
         },
         {
             "path": "mods/Capes-1.4.5+1.19.jar",
@@ -132,15 +144,15 @@
             "fileSize": 359610
         },
         {
-            "path": "mods/fabric-api-0.68.1+1.19.3.jar",
+            "path": "mods/fabric-api-0.69.0+1.19.3.jar",
             "hashes": {
-                "sha1": "dfa4f9fc54bafbf7b7d4912a75b775788cf3cf79",
-                "sha512": "f3fcfd009d198dcb382298c38872b19e060ab983afb8279ce9fc27e67889f7e5e11f211eb4f13b3bf1f59485f6ba79855c46d1ed800830f3bacb5056333d543d"
+                "sha1": "55218d39e4447c48bab24af539e182beb8ec148f",
+                "sha512": "5bda278535ca5ec6b6e54716cd5d39ba8b573de246a27ad378207ef99d5339f78b8e8ccb72bd4d86568ffaeab2de68270b7a0666ca02e7f343a8bac21501f364"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/DTb2fq9B/fabric-api-0.68.1%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/U2QS5FNi/fabric-api-0.69.0%2B1.19.3.jar"
             ],
-            "fileSize": 1834338
+            "fileSize": 1838929
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar",
@@ -353,15 +365,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.3-v1.18.0.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.3-v1.19.0.jar",
             "hashes": {
-                "sha1": "303d10d9eef23c8ed1af632d25c17d7231e334e9",
-                "sha512": "bb64f714fa252596e4e6e0a9c0b9575a458a6684fb78b7f32b2f11db15bb1b4b585129692f3e46246066e5afd7af54210334dfcbb6bf4b19cf180192427f6f21"
+                "sha1": "c1abb72f7d8b4b00370bc6e8512ff89c81d89755",
+                "sha512": "cf83b4d9e3ad1b080e907d59122dcbfe9a76ef135946f71e6be8ed18e6b2b4efccfe9adcedb40655b4315e1f2a19e2cc5cb016c5b541c92c26ff32e166a9ecea"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/LVpBaVhB/NoChatReports-FABRIC-1.19.3-v1.18.0.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/g2k50qYw/NoChatReports-FABRIC-1.19.3-v1.19.0.jar"
             ],
-            "fileSize": 534262
+            "fileSize": 537475
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -434,16 +446,16 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-2.0.0.jar",
+            "path": "mods/YetAnotherConfigLib-2.1.0.jar",
             "hashes": {
-                "sha1": "93731851b542f63a29833d561dcfa198cfbc264a",
-                "sha512": "3c644d797075acf4ccab287f4f7ac1a06714729437a073530792da4e8ba80c4a640959d9c1a4a184d12a50312a5f3762ad96dd24cb7e44f6a181a2054f25920d"
+                "sha1": "20176711ccf609e9bb9e07166ba3e114aa008d96",
+                "sha512": "141c4c8d15dd38d25fa37f1a05b85629527bb9a30e1e2204b306a9be080ba6915a31dc37dbb1f5fd15b291478fe9fb579669962711e7688bc6f43fe94f550caa"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/UIAaWmvd/YetAnotherConfigLib-2.0.0.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.0.0/YetAnotherConfigLib-2.0.0.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/wibQ6TRj/YetAnotherConfigLib-2.1.0.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.1.0/YetAnotherConfigLib-2.1.0.jar"
             ],
-            "fileSize": 175398
+            "fileSize": 199385
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
