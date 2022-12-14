@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.5",
+    "versionId": "4.6.0-alpha.6",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -62,16 +62,27 @@
             "fileSize": 110949
         },
         {
-            "path": "mods/Capes-1.4.5+1.19.jar",
+            "path": "mods/Capes-1.5+1.19.3.jar",
             "hashes": {
-                "sha1": "ab6cc2bce19f9e4c9620afbe9b5916ff928e44d7",
-                "sha512": "d0beeaee2b624883c67353b5ee7b8f8f175fc29b9bb6d00778da2dc547c89c102d3addafaf77a8058ce2a46b9a8f4c4cf78882b8df9d74b462f30ea1c4a9d640"
+                "sha1": "09f676dc858cccff5dce62d69a522f140b887a3d",
+                "sha512": "0122ac33c438685e3c20b50664ab21f8ffdc2dd85b88dd070998ec8e1ecdb284ad7e86c5f38cac077e1a6e8e501743bc7344291e747313fec86cad78243b024b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/ic9rDGCw/Capes-1.4.5%2B1.19.jar",
-                "https://github.com/CaelTheColher/Capes/releases/download/1.4.5%2B1.19/Capes-1.4.5%2B1.19.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/Rf1xZfyj/Capes-1.5%2B1.19.3.jar",
+                "https://github.com/CaelTheColher/Capes/releases/download/1.5%2B1.19.3/Capes-1.5%2B1.19.3.jar"
             ],
-            "fileSize": 87580
+            "fileSize": 85558
+        },
+        {
+            "path": "mods/cem-0.7.1.jar",
+            "hashes": {
+                "sha1": "c99165b56680c6f99b6bef5989070bb6e817adce",
+                "sha512": "ec11fdcd8f3bea99dfafd8f23389bb8107e2f84588f00284f2199495194b810e6c0b1beeaa2ac0cd0e9dfb812fff26a5cf04b7635be7ce34d69af6244411190e"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YOQCucah/versions/BA6hkd1D/cem-0.7.1.jar"
+            ],
+            "fileSize": 1075263
         },
         {
             "path": "mods/cloth-config-9.0.94-fabric.jar",
@@ -144,15 +155,15 @@
             "fileSize": 359610
         },
         {
-            "path": "mods/fabric-api-0.69.0+1.19.3.jar",
+            "path": "mods/fabric-api-0.69.1+1.19.3.jar",
             "hashes": {
-                "sha1": "55218d39e4447c48bab24af539e182beb8ec148f",
-                "sha512": "5bda278535ca5ec6b6e54716cd5d39ba8b573de246a27ad378207ef99d5339f78b8e8ccb72bd4d86568ffaeab2de68270b7a0666ca02e7f343a8bac21501f364"
+                "sha1": "ee7af0180cb2680dbfd225338c8346af1dc78bc4",
+                "sha512": "d8a6a3e8472398c005b288b20dc5147802f88f38a843740b84f2382fe68d461cac2f9c07734e4cd95783feb422e257c167df659bb0df4fd7c6d2c79cc39d5109"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/U2QS5FNi/fabric-api-0.69.0%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/pCfxz2JH/fabric-api-0.69.1%2B1.19.3.jar"
             ],
-            "fileSize": 1838929
+            "fileSize": 1838959
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar",
