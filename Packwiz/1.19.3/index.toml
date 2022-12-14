@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c9622d94a44f66c91ee926933a7075a66c031fc9253247cb965e4baa484aae58"
+hash = "3db60e71df4737532d2bd159b2ab0dd89fb586b1c130fc1d480520062fa08266"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "df8502f5841ec137c599c64bdfde782dba67801ec2c3392c8fe742964c895cd1"
+hash = "135b4f43e9e5b7eb3f3c162a74151d63a62c1354256b48e9aa0aea026a8e4d6d"
 
 [[files]]
 file = "config/modmenu.json"
@@ -26,7 +26,7 @@ hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "ffcf8a2a08327db7a17ead4640bde4df6d97eb9253c4bf4ad2c5a5fcd1234547"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -46,7 +46,7 @@ hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "7de3087b5a435f770ed45b1b73ac9b37f3d36ab2fd71a1404d7a49e299738821"
+hash = "27960e7215edddbfacd48aee181912df8f7a99f95ff97639fbc48b9173949997"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
@@ -94,11 +94,11 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "13e829f795066a9c5165e34a04b307bdbb0e99651ade94c15b7cf51f78832a83"
+hash = "5e5fa0dfa7de4f296b33ca16611fb200069d73994e2429a7f16ede9abddbe531"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "84fb1448e9d738d58a4916a15acd81dc33b76d699ee3153f5d7e34bd02de145b"
+hash = "331d481b80ed232ceb7c7c9a70332f29a8d68032e023d9ddb511c3ad7a2f2621"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -121,8 +121,18 @@ hash = "bdbbc306c1affe5017f7ff15ffdeb053d019f7c8882253f2579b21e9a7ee06ee"
 metafile = true
 
 [[files]]
+file = "mods/borderlessmining.pw.toml"
+hash = "b6a392ba7dd5cc8a7c2fa41156da28764936f6f7ce234c07dc67aaef6e7a87d4"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
-hash = "181e51852d990e383707a23c415ab51a9bc5925298c45b6185aad23ba3956d6d"
+hash = "2f1b09edf1f8068f639b8ddad9d6c40b91f385ba0d5f3536c458c1783efc3f44"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "606c450e4f109960a84d3f8af3a989fd9fed4fca5f613510e6da7e6c94d1338d"
 metafile = true
 
 [[files]]
@@ -157,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1745f52b7225d9ff2a7bddc7dfd8eb9b6d65c324a4a39e420c946f0cb364dfd8"
+hash = "46b1d01ff523b8bb890b2b782387149dfbd101dade2b6cbcf45622e4feee91ed"
 metafile = true
 
 [[files]]
@@ -252,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "69b55583506ac5247b7477927fad1a2e84e40909297255a5937b979dcd9bcfcd"
+hash = "2942d4cbf9a81f81caa61d22478a1d416d2a90cee9db43467a776aece85cc07b"
 metafile = true
 
 [[files]]
@@ -287,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib.pw.toml"
-hash = "1636a4b46d872b09b5f59878ba7f567256e58ff8b5a59f8439ff5bf11807541d"
+hash = "5070473ef287b7e3c0b638cc2d62a8f6ab56a8c556b41afbf3db801176dd4be1"
 metafile = true
 
 [[files]]

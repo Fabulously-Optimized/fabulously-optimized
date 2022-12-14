@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.6 (2022-12-14)
+
+Resource pack features are slowly coming back :eyes:
+
+- Updated CEM, Fabric API, Fabric Capes
+- Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+.
+- Enabled Labymod and Wynntils cape types in Fabric Capes as the dev said freezes are fixed
+
+### 4.6.0-alpha.5 (2022-12-12)
+
+- Updated Borderless Mining, Fabric API, No Chat Reports, YetAnotherConfigLib
+- Temporarily disabled CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+- Updated Polish and Russian in MMH by Radplay and RozeFound
+- Added singleplayer tooltip to CRH
+
 ### 4.6.0-alpha.4 (2022-12-10)
 
 - Updated Indium, MidnightControls, Mod Menu
