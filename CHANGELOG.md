@@ -13,7 +13,7 @@ We've reached 800 000 downloads on CurseForge!
 
 .
 
-- Enabled Cosmetica cape
+- Enabled Cosmetica capes in Fabric Capes
 - Added Russian CRH translation by RozeFound
 
 ### 4.6.0-alpha.6 (2022-12-14)
