@@ -3,19 +3,36 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.7 (2022-12-15)
+
+We've reached 800 000 downloads on CurseForge!
+
+- Updated Fabric Capes, YetAnotherConfigLib
+  - Another game freeze fix
+- Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+.
+
+- Enabled Cosmetica cape
+- Added Russian CRH translation by RozeFound
+
 ### 4.6.0-alpha.6 (2022-12-14)
 
 Resource pack features are slowly coming back :eyes:
 
 - Updated CEM, Fabric API, Fabric Capes
 - Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
 .
+
 - Enabled Labymod and Wynntils cape types in Fabric Capes as the dev said freezes are fixed
 
 ### 4.6.0-alpha.5 (2022-12-12)
 
 - Updated Borderless Mining, Fabric API, No Chat Reports, YetAnotherConfigLib
 - Temporarily disabled CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+.
 
 - Updated Polish and Russian in MMH by Radplay and RozeFound
 - Added singleplayer tooltip to CRH
@@ -26,11 +43,15 @@ Resource pack features are slowly coming back :eyes:
 - Added Chinese Traditional in MMH by eric122805
 - Updated Language Reload description in MMH
 
+.
+
 - Temporarily disabled Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
 
 ### 4.6.0-alpha.3 (2022-12-09)
 
 - Updated AdvancementInfo, AntiGhost, Entity Texture Features, Lithium 
+
+.
 
 - Temporarily disabled Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
 
@@ -38,6 +59,8 @@ Resource pack features are slowly coming back :eyes:
 
 - Updated MemoryLeakFix, BetterMountHUD
 - Temporarily removed OptiGUI because it caused a crash on right click lmao
+
+.
 
 - Temporarily disabled AdvancementInfo, AntiGhost, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
 

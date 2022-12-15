@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.6",
+    "versionId": "4.6.0-alpha.7",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -62,16 +62,15 @@
             "fileSize": 110949
         },
         {
-            "path": "mods/Capes-1.5+1.19.3.jar",
+            "path": "mods/Capes-1.5.1+1.19.3.jar",
             "hashes": {
-                "sha1": "09f676dc858cccff5dce62d69a522f140b887a3d",
-                "sha512": "0122ac33c438685e3c20b50664ab21f8ffdc2dd85b88dd070998ec8e1ecdb284ad7e86c5f38cac077e1a6e8e501743bc7344291e747313fec86cad78243b024b"
+                "sha1": "bda3679007a842670200232d0b7c25762f339e2d",
+                "sha512": "46fd10f0d4e5a00abaf2907a19fe6ffb7bf995893bb362f941b0c627ce0123e6f270c4dda4e7670dd9b65764544acf6ccd82299ccc31a33b8b916a410fa182f5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/Rf1xZfyj/Capes-1.5%2B1.19.3.jar",
-                "https://github.com/CaelTheColher/Capes/releases/download/1.5%2B1.19.3/Capes-1.5%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/dSAeA4LW/Capes-1.5.1%2B1.19.3.jar"
             ],
-            "fileSize": 85558
+            "fileSize": 85768
         },
         {
             "path": "mods/cem-0.7.1.jar",
@@ -457,16 +456,15 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-2.1.0.jar",
+            "path": "mods/YetAnotherConfigLib-2.1.1.jar",
             "hashes": {
-                "sha1": "20176711ccf609e9bb9e07166ba3e114aa008d96",
-                "sha512": "141c4c8d15dd38d25fa37f1a05b85629527bb9a30e1e2204b306a9be080ba6915a31dc37dbb1f5fd15b291478fe9fb579669962711e7688bc6f43fe94f550caa"
+                "sha1": "d3f9e0d1e0f23d99126a54fbab239d4bd0423ddc",
+                "sha512": "1c07f02ec026ee743b6505967831a12fbebc4a23124070e40fbab59e620e93989c4e7b79605f46175ff0f7136ddb262a3367908eb698c589ff01671277b3c8a7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/wibQ6TRj/YetAnotherConfigLib-2.1.0.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.1.0/YetAnotherConfigLib-2.1.0.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/GkKQsCJ6/YetAnotherConfigLib-2.1.1.jar"
             ],
-            "fileSize": 199385
+            "fileSize": 207970
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
