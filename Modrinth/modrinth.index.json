@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.7",
+    "versionId": "4.6.0-alpha.8",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -68,7 +68,8 @@
                 "sha512": "46fd10f0d4e5a00abaf2907a19fe6ffb7bf995893bb362f941b0c627ce0123e6f270c4dda4e7670dd9b65764544acf6ccd82299ccc31a33b8b916a410fa182f5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/dSAeA4LW/Capes-1.5.1%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/dSAeA4LW/Capes-1.5.1%2B1.19.3.jar",
+                "https://github.com/CaelTheColher/Capes/releases/download/1.5.1%2B1.19.3/Capes-1.5.1%2B1.19.3.jar"
             ],
             "fileSize": 85768
         },
@@ -95,28 +96,28 @@
             "fileSize": 1143110
         },
         {
-            "path": "mods/CullLessLeaves-1.0.6.jar",
+            "path": "mods/CullLessLeaves-1.1.0.jar",
             "hashes": {
-                "sha1": "e721078b00197fbd71e294b5ab4702b6b64a0b71",
-                "sha512": "0adefa8366a5f38799a34371a05a2fb91bed031b0fd37321343b6d811f15e595375010db08038c6023bd0b282e4900f90809df48d5aef3ee5f931d8d57796ed1"
+                "sha1": "bdb994448b595c382537bef75fa26a944a1378a6",
+                "sha512": "4694a36449f48205f6ecc1972d8e0bca73a3d6fdc1a258c56ab12ebab39a016aec2c381e225fa252cf56037e9fffc6c16fc5128a9b263e92f57fd83d01a57010"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/H9oZ7N6p/CullLessLeaves-1.0.6.jar",
-                "https://github.com/isXander/CullLessLeaves/releases/download/1.0.6/CullLessLeaves-1.0.6.jar"
+                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/BxA1B1tp/CullLessLeaves-1.1.0.jar",
+                "https://github.com/isXander/CullLessLeaves/releases/download/1.1.0/CullLessLeaves-1.1.0.jar"
             ],
-            "fileSize": 46651
+            "fileSize": 40640
         },
         {
-            "path": "mods/Debugify-1.19.3+1.0.jar",
+            "path": "mods/Debugify-1.19.3+1.1.jar",
             "hashes": {
-                "sha1": "532e20d968298deaa7702d78b48dc004619a85f4",
-                "sha512": "c05bd922976366997bce341a58e77b921ef4151bc37595c5580efb4d531e389300f77be4e4ff65982302cfe0557377f10b13ca0bdd03c87175a94e489978685c"
+                "sha1": "d7f9cbf11bb36ef360de2b898a5a5e224eaef9e3",
+                "sha512": "0fd6e7c5f22d90c184891f9f419d5e45de7a6f4995db2b7604e5458d762705d3ba480f71774f38a90218309e52a3cddb86db2aee89d0595b85486157903d1167"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/l8A2i9nV/Debugify-1.19.3%2B1.0.jar",
-                "https://github.com/isXander/Debugify/releases/download/1.19.3%2B1.0/Debugify-1.19.3%2B1.0.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/fgjgGIfI/Debugify-1.19.3%2B1.1.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.19.3%2B1.1/Debugify-1.19.3%2B1.1.jar"
             ],
-            "fileSize": 291976
+            "fileSize": 292283
         },
         {
             "path": "mods/dynamic-fps-2.2.0.jar",
@@ -397,6 +398,18 @@
             "fileSize": 16197
         },
         {
+            "path": "mods/optigui-1.1.6.jar",
+            "hashes": {
+                "sha1": "35887bf81b9e1b6296d3955b64f37cd9a65b2785",
+                "sha512": "e5621fd410f05fb36b0da9dce7d7d71cf5d0d5aaa9a6c2398b3de7cd131f789cb2bb7d062a48dc0060b5a2faa62139c66510e71943924793be8860f149819bf7"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/HpDkLZjj/optigui-1.1.6.jar",
+                "https://github.com/opekope2/OptiGUI/releases/download/v1.1.6-1.19.3/optigui-1.1.6.jar"
+            ],
+            "fileSize": 278635
+        },
+        {
             "path": "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar",
             "hashes": {
                 "sha1": "3b48ed460ce30c38e6058fdd0c3d6a221913e4e4",
@@ -462,7 +475,8 @@
                 "sha512": "1c07f02ec026ee743b6505967831a12fbebc4a23124070e40fbab59e620e93989c4e7b79605f46175ff0f7136ddb262a3367908eb698c589ff01671277b3c8a7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/GkKQsCJ6/YetAnotherConfigLib-2.1.1.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/GkKQsCJ6/YetAnotherConfigLib-2.1.1.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.1.1/YetAnotherConfigLib-2.1.1.jar"
             ],
             "fileSize": 207970
         },
@@ -478,16 +492,16 @@
             "fileSize": 19206
         },
         {
-            "path": "mods/Zoomify-2.9.0.jar",
+            "path": "mods/Zoomify-2.9.1.jar",
             "hashes": {
-                "sha1": "0ac09c47fba094d22e52fe6e53f990be63f650d8",
-                "sha512": "01f1fcdab10eb48bd4cee7cc7bca5d74aca6af5cc770ac2d3ddad5210ec7a5475cdd5bab36bb69397a51d350ec4391774679f24480407628037d2d65d11e1ea0"
+                "sha1": "e355135cd2c8e7e91b9af37a93a3d03b5d46a7f5",
+                "sha512": "c23d79785457d56f267f0ee64a7184fa16ae7481d757b871ef317e8b573692f06d4bdd7ea8909b8821f5c6d128d2016db2ba87d4c59d337c1e2310a144f6903a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/f017okM4/Zoomify-2.9.0.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.9.0/Zoomify-2.9.0.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/YHh8fxDi/Zoomify-2.9.1.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.9.1/Zoomify-2.9.1.jar"
             ],
-            "fileSize": 522856
+            "fileSize": 521746
         }
     ],
     "dependencies": {

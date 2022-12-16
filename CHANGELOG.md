@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.8 (2022-12-16)
+
+- Updated Cull Less Leaves, Debugify, OptiGUI, Zoomify
+  - Cull Less Leaves, Debugify, Zoomify now have visual configurations again :D
+  - Game should also no longer crash on first start
+- Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, Puzzle 
+
 ### 4.6.0-alpha.7 (2022-12-15)
 
 We've reached 800 000 downloads on CurseForge!
