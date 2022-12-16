@@ -1,8 +1,4 @@
-<!--Italian translations by glaav -->
-<!--Traduzioni in italiano di glaav -->
-
 # Italiano (It)
-<!-- Use your language name, in your language as the title. Append the country in parentheses, if your language has regional variants. -->
 
 Un modpack di minecraft creato per la performance e miglioramenti grafici.
 
@@ -12,7 +8,7 @@ Un modpack di minecraft creato per la performance e miglioramenti grafici.
 
 Fabulously Optimized è di solito più veloce della OptiFine grazie a [mod moderne per la performance][1] come Sodium, Lithium e tante altre!
 
-### Parità della Optifine
+### Parità della OptiFine
 
 Fabulously Optimized [supporta quasi tutte le features della OptiFine][2], incluse le shaders, textures connesse e zoom. [Puoi anche avere il tuo mantello gratuito!][3]
 
@@ -22,12 +18,11 @@ Fabulously Optimized [include dei piccoli miglioramenti][4] che non rovinano l'e
 
 ### Funziona Ovunque!
 
-Fabulously Optimized non ha mod di content, quindi funziona su tutti i server. Il modpack [può essere usato su 5 launcher, ed è hostato su 3 siti][6] ed [è tradotto in diverse lingue][7], incluso l'italiano!.
-<!-- If Mod Menu Helper is translated to your language, end the sentence like "[translated to many languages][7], including <your language>." -->
+Fabulously Optimized non ha mod di content, quindi funziona su tutti i server. Il modpack [può essere usato su 5 launcher, ed è hostato su 3 siti][6] ed [è tradotto in diverse lingue][7], incluso l'italiano!
 
 ### Aggiornamento
 
-Fabulously Optimized [riceve aggiornamenti frequenti][5] ed è tra i primi ad essere aggiornato alle nuove versioni di minecraft.
+Fabulously Optimized [riceve aggiornamenti frequenti][5] ed è tra i primi ad essere aggiornato alle nuove versioni di Minecraft.
 
 ### Costruito su Fabric
 
