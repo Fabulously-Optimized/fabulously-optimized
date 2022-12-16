@@ -5,9 +5,9 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 [**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
 <a href="https://fabulously-optimized.gitbook.io/modpack/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/documentation/gitbook_vector.svg"></a> 
+<a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-plural_vector.svg"></a>
 <a href="https://discord.gg/fabulously-optimized-859124104644788234"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg"></a> 
 <a href="https://floss.social/@fabulouslyoptimized"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/mastodon-plural_vector.svg"></a>
-<a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-plural_vector.svg"></a>
  
 
 ## Downloads
