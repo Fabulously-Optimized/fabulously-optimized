@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "444dcdd9c3b1a1f33ae796ae500ae26e0c15465ceda012c7f936c308b7b4f461"
+hash = "91a609eb7584a7acc6f271aee37397bac4f086a20a69196b46928ad97aa49f2d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "005ea71d39b8df604997461a11324d60ed72c8b99fbf23fcff3b1735bbf9a845"
+hash = "e13a034493d362a41b86bddcd1cc1628813abc83c3da399a6bc54724b4796385"
 
 [[files]]
 file = "config/modmenu.json"
@@ -94,7 +94,7 @@ hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "5e5fa0dfa7de4f296b33ca16611fb200069d73994e2429a7f16ede9abddbe531"
+hash = "838a2f1aa41a71f4e47bf4a89f3c4a7b04943fa28150fbb19070fd3c915dc492"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
@@ -251,6 +251,11 @@ hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "7f2099a5a205f7ce1dfea0f41d2310605042a6c88375d4f7f825bc40e3ede6af"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7f6579fa0b374c47ac698a7d7fca6d3414231153ad83e75d2cf9295eceffd672"
 metafile = true
@@ -287,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "220bc42911e2f24b50c9d705a20b64a9193064a356a59ca1b98c3416a45783b9"
+hash = "9bbcf97aa5a4290e4c04610f809aacd8b4cf1b4bc31438e78d7236c022efe01c"
 metafile = true
 
 [[files]]
@@ -312,5 +317,5 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1374a255341176f98878cfa8b87db4e16d05c33e03f6be06325b1420d52b77d3"
+hash = "86ec0fb654b79f16bea7a48be8e018ca8ea6968f8af78583c78cdedb5972facf"
 metafile = true

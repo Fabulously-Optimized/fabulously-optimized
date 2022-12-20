@@ -3,12 +3,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.9 (2022-12-20)
+
+- Added Model Gap Fix - replacement for Item Model Fix, maybe permanently if it is better
+- Updated Sodium Extra, Zoomify
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, LambDynamicLights, Puzzle 
+- Updated Fabric Loader to 0.14.12 where available
+
 ### 4.6.0-alpha.8 (2022-12-16)
 
 - Updated Cull Less Leaves, Debugify, OptiGUI, Zoomify
   - Cull Less Leaves, Debugify, Zoomify now have visual configurations again :D
   - Game should also no longer crash on first start
-- Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, Puzzle 
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, Puzzle 
 
 ### 4.6.0-alpha.7 (2022-12-15)
 
@@ -16,7 +23,7 @@ We've reached 800 000 downloads on CurseForge!
 
 - Updated Fabric Capes, YetAnotherConfigLib
   - Another game freeze fix
-- Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
 
 .
 
@@ -28,7 +35,7 @@ We've reached 800 000 downloads on CurseForge!
 Resource pack features are slowly coming back :eyes:
 
 - Updated CEM, Fabric API, Fabric Capes
-- Temporarily disabled CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
 
 .
 
@@ -37,7 +44,7 @@ Resource pack features are slowly coming back :eyes:
 ### 4.6.0-alpha.5 (2022-12-12)
 
 - Updated Borderless Mining, Fabric API, No Chat Reports, YetAnotherConfigLib
-- Temporarily disabled CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+- Temporarily removed CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
 
 .
 
@@ -52,7 +59,7 @@ Resource pack features are slowly coming back :eyes:
 
 .
 
-- Temporarily disabled Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+- Temporarily removed Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
 
 ### 4.6.0-alpha.3 (2022-12-09)
 
@@ -60,7 +67,7 @@ Resource pack features are slowly coming back :eyes:
 
 .
 
-- Temporarily disabled Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
+- Temporarily removed Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
 
 ### 4.6.0-alpha.2 (2022-12-09)
 
@@ -69,7 +76,7 @@ Resource pack features are slowly coming back :eyes:
 
 .
 
-- Temporarily disabled AdvancementInfo, AntiGhost, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
+- Temporarily removed AdvancementInfo, AntiGhost, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
 
 ### 4.6.0-alpha.1 (2022-12-08)
 
@@ -80,7 +87,7 @@ But more broken mods now mean less broken mods in 1.20 💪
 
 Mods
 - Updated Cloth Config API, Debugify, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyBoxes Interop, FerriteCore, Iris Shaders, Language Reload, Lithium, Mod Menu, No Chat Reports, Sodium, Sodium Extra, Zoomify, YetAnotherConfigLib
-- Temporarily disabled AdvancementInfo, AntiGhost, BetterMountHUD, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, Puzzle 
+- Temporarily removed AdvancementInfo, AntiGhost, BetterMountHUD, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, Puzzle 
 
 Other
 - Added Chat Reporting Helper resource pack 

@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.8",
+    "versionId": "4.6.0-alpha.9",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -353,6 +353,17 @@
             "fileSize": 36039
         },
         {
+            "path": "mods/modelfix-1.9-fabric.jar",
+            "hashes": {
+                "sha1": "6481ab7b2a46c64a1b52006765338316ba4a2a45",
+                "sha512": "0148a813c3dc978688d60028c4eab0889948e66587b3917e024a37e96e794114a385117a68482e801359e7f06ad04186c557ba6d42280e6923c773622ae7be5d"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/QdG47OkI/versions/Kfbnfh5q/modelfix-1.9-fabric.jar"
+            ],
+            "fileSize": 26656
+        },
+        {
             "path": "mods/modmenu-5.0.2.jar",
             "hashes": {
                 "sha1": "bcc0199aeaa40fabeda867d629a9fca7300056ad",
@@ -434,16 +445,15 @@
             "fileSize": 88634
         },
         {
-            "path": "mods/sodium-extra-0.4.14+mc1.19.3-build.81.jar",
+            "path": "mods/sodium-extra-0.4.15+mc1.19.3-build.86.jar",
             "hashes": {
-                "sha1": "c055b3e3be876df037577626b93e249debc73904",
-                "sha512": "e1860bbdd439aa3cdc367224cd78fbae30cb54e9571a5fc7e897abac54c35a77beba47410e2f24c1e114526a10213a51d143c1c5e581e8ef013c4feedee5dcd4"
+                "sha1": "2c03d6340b3c17c9a0857741fe5bbed40737ac31",
+                "sha512": "dd53182941010c1e0059eb57a46d76e57150dd4020e86827ccf856d585ccb8478bc9fb6f9e11636be86099409d152abfc0c0dda51d24f8cf3c1680b5c27bf6f6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/dGDpjLtu/sodium-extra-0.4.14%2Bmc1.19.3-build.81.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.14/sodium-extra-0.4.14%2Bmc1.19.3-build.81.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/r5w0P2Aa/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar"
             ],
-            "fileSize": 260988
+            "fileSize": 262476
         },
         {
             "path": "mods/sodium-fabric-mc1.19.3-0.4.6+build.20.jar",
@@ -492,20 +502,19 @@
             "fileSize": 19206
         },
         {
-            "path": "mods/Zoomify-2.9.1.jar",
+            "path": "mods/Zoomify-2.9.2.jar",
             "hashes": {
-                "sha1": "e355135cd2c8e7e91b9af37a93a3d03b5d46a7f5",
-                "sha512": "c23d79785457d56f267f0ee64a7184fa16ae7481d757b871ef317e8b573692f06d4bdd7ea8909b8821f5c6d128d2016db2ba87d4c59d337c1e2310a144f6903a"
+                "sha1": "b8a3c3df58b696f0c3a03d9a7fcff4ed81c5ef57",
+                "sha512": "9207ed8211c37266086039b93cce2dcaaec473378101cdb18d46bef43a7bb4eaf4090fb3b9b76594a85e8b2a1933ffbc1ef3d9dad6e0b61978115641458904d2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/YHh8fxDi/Zoomify-2.9.1.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.9.1/Zoomify-2.9.1.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/p5RjeOJL/Zoomify-2.9.2.jar"
             ],
-            "fileSize": 521746
+            "fileSize": 638245
         }
     ],
     "dependencies": {
         "minecraft": "1.19.3",
-        "fabric-loader": "0.14.11"
+        "fabric-loader": "0.14.12"
     }
 }
