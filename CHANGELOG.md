@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.10 (2022-12-22)
+
+- Added Ukrainian MMH translation by Den4enko
+- Removed Chinese Traditional MMH translation by eric122805 (likely machine-translated)
+- Increased CRH icons' contrast
+- Updated and enforced Fabric Loader 0.14.12 everywhere
+
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, LambDynamicLights, Puzzle 
+
 ### 4.6.0-alpha.9 (2022-12-20)
 
 - Added Model Gap Fix - replacement for Item Model Fix, maybe permanently if it is better
