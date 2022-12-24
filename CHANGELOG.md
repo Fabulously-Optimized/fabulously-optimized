@@ -3,7 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.11 (2022-12-24)
+
+- Updated LambDynamicLights
+- Compressed CRH icons more, again
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, Puzzle 
+
 ### 4.6.0-alpha.10 (2022-12-22)
+
+Also known as the update that didn't get approved on CurseForge in time (though MMC version did).
 
 - Added Ukrainian MMH translation by Den4enko
 - Removed Chinese Traditional MMH translation by eric122805 (likely machine-translated)

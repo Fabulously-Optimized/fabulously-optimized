@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.10",
+    "versionId": "4.6.0-alpha.11",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -257,6 +257,17 @@
             "fileSize": 2158722
         },
         {
+            "path": "mods/lambdynamiclights-2.2.0+1.19.3.jar",
+            "hashes": {
+                "sha1": "99d55d20f77cf13221601a109b35371563975187",
+                "sha512": "03afe5064a33662bdad5bc265ccdef79ed6e2b105f2cb1b72806724896aba814412f8814e81ff0f57a091c39435916b9cd022d8d59c3cc0633ea9f04cd726846"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/9E1ECN95/lambdynamiclights-2.2.0%2B1.19.3.jar"
+            ],
+            "fileSize": 559472
+        },
+        {
             "path": "mods/language-reload-1.5.jar",
             "hashes": {
                 "sha1": "516921ce6d8b14b9b487970de2fe27d5d0a7e1eb",
@@ -451,7 +462,8 @@
                 "sha512": "dd53182941010c1e0059eb57a46d76e57150dd4020e86827ccf856d585ccb8478bc9fb6f9e11636be86099409d152abfc0c0dda51d24f8cf3c1680b5c27bf6f6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/r5w0P2Aa/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/r5w0P2Aa/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar",
+                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.15/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar"
             ],
             "fileSize": 262476
         },
