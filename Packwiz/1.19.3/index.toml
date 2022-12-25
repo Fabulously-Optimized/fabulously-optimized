@@ -10,31 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0763d32a2fb88578151a8bd590264ff8bc4d30f3c04e1d5c6858492d666d8cd8"
+hash = "184be6e12e367a4134c7232811c50ee4ba8f4c4fe1ec28968ab189abd246356c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bd468ee98ef7583941e6954919ac12e1299021e23a45f74132dbc1535763c231"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
-
-[[files]]
-file = "config/puzzle.json"
-hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
-
-[[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+hash = "95535db561d28c02c8cdc5debcf62c7634d9e23aca29e8955153362b12fccbb2"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -85,12 +65,32 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "b2d6f97d6f09d3c02504264a778ab1958378c91e5d743afed9ab71846073bf60"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "46b1d01ff523b8bb890b2b782387149dfbd101dade2b6cbcf45622e4feee91ed"
+hash = "dccce8399d097246d496fa68e0a317164ee25b2380ef9becb030d1829f1a8663"
 metafile = true
 
 [[files]]
@@ -283,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "cbfe5857490ef36a66f5806480e6f7ef7afb94cf0fdae6ef052ea4a371007582"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "1e530c44daa8f494e6ed2c277d1a546dc962042966b97d40708b5205b342ce2b"
 metafile = true
 
 [[files]]

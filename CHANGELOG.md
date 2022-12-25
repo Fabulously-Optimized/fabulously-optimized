@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-alpha.12 (2022-12-25)
+
+- Updated Fabric API, Puzzle
+- Mod Menu, No Chat Reports, Puzzle now persist your option changes across upgrades
+  - Occasionally configs will be enforced again for long-term better UX
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
 ### 4.6.0-alpha.11 (2022-12-24)
 
 - Updated LambDynamicLights
@@ -17,7 +24,6 @@ Also known as the update that didn't get approved on CurseForge in time (though 
 - Removed Chinese Traditional MMH translation by eric122805 (likely machine-translated)
 - Increased CRH icons' contrast
 - Updated and enforced Fabric Loader 0.14.12 everywhere
-
 - Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, LambDynamicLights, Puzzle 
 
 ### 4.6.0-alpha.9 (2022-12-20)

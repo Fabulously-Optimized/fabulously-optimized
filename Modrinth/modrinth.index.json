@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.11",
+    "versionId": "4.6.0-alpha.12",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -155,15 +155,15 @@
             "fileSize": 359610
         },
         {
-            "path": "mods/fabric-api-0.69.1+1.19.3.jar",
+            "path": "mods/fabric-api-0.70.0+1.19.3.jar",
             "hashes": {
-                "sha1": "ee7af0180cb2680dbfd225338c8346af1dc78bc4",
-                "sha512": "d8a6a3e8472398c005b288b20dc5147802f88f38a843740b84f2382fe68d461cac2f9c07734e4cd95783feb422e257c167df659bb0df4fd7c6d2c79cc39d5109"
+                "sha1": "4ec17c77c219cde1182079e3a7c3824ef70cf206",
+                "sha512": "f4d6c67896cc4e3495c875466fc82434af53f0146d837aed0195b07f1a3634f2cd94eb955c99817c086142556b2dcea6288f262bfd5e2e2a83d60ab9748de387"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/pCfxz2JH/fabric-api-0.69.1%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/MtLQsb99/fabric-api-0.70.0%2B1.19.3.jar"
             ],
-            "fileSize": 1838959
+            "fileSize": 1840623
         },
         {
             "path": "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar",
@@ -430,6 +430,18 @@
                 "https://github.com/opekope2/OptiGUI/releases/download/v1.1.6-1.19.3/optigui-1.1.6.jar"
             ],
             "fileSize": 278635
+        },
+        {
+            "path": "mods/puzzle-1.4.2-1.19.3.jar",
+            "hashes": {
+                "sha1": "74f5f358acde66b3ac9347f4d659598fbaae4e11",
+                "sha512": "e7c946ca7f1b05f3ebeabc943226dd36419a3f07e5a5ea89e0c4b2fecdf1cdef3b7a390b11487ecee1e05e154364b915c65ba50297548e60efac8b75d64edaf8"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/Bi6mh1Yb/puzzle-1.4.2-1.19.3.jar",
+                "https://github.com/PuzzleMC/Puzzle/releases/download/v1.4.2/puzzle-1.4.2-1.19.3.jar"
+            ],
+            "fileSize": 139404
         },
         {
             "path": "mods/reeses_sodium_options-1.4.9+mc1.19.2-build.67.jar",
