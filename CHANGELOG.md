@@ -125,6 +125,13 @@ Other
 
 ## 1.19.2
 
+### 4.5.6 (2023-01-01)
+
+- Updated Entity Texture Features, Fabric API, Fabric Language Kotlin, Iris Shaders, LambDynamicLights, Sodium Extra
+- Updated Fabric Loader to 0.14.12 everywhere
+- Set ETF's invalid path support to entities only for better mod compat
+- Added Ukrainian MMH translation by Den4enko
+
 ### 4.5.5 (2022-12-09)
 
 - Updated FabricSkyBoxes, FabricSkyBoxes Interop, Farsight, Iris Shaders, Language Reload, Lithium, Mod Menu, MemoryLeakFix, Zoomify
