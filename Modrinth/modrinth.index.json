@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.12",
+    "versionId": "4.6.0-alpha.13",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -144,15 +144,15 @@
             "fileSize": 76646
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.19.3-4.2.0.1.jar",
+            "path": "mods/entity_texture_features_fabric_1.19.3-4.3.0.jar",
             "hashes": {
-                "sha1": "d099b988ca411d6630a68aa9f5dc5f0932bc9d0f",
-                "sha512": "3ce8a6c0f6030fd589ddfad4fad20a74773e5485756bf72243dc22525804a91517d6740ba9bb1edf6444c40e6cff72ff5a04d120ea63ef789ffa2222901cc9a0"
+                "sha1": "08ddb2f0ac4b58049401658b47ec33dd833fd82f",
+                "sha512": "155fc9560661ff45e1ddebf664ea55a392bba5b35fbf10dcc984428625ac4e76d8dfb5f792f32af51f00dc8478f79dfdb32a170e106faa462e007f2cc2b4ac06"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/KBKeI45D/entity_texture_features_fabric_1.19.3-4.2.0.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/aceDD6ip/entity_texture_features_fabric_1.19.3-4.3.0.jar"
             ],
-            "fileSize": 359610
+            "fileSize": 388928
         },
         {
             "path": "mods/fabric-api-0.70.0+1.19.3.jar",
@@ -166,16 +166,16 @@
             "fileSize": 1840623
         },
         {
-            "path": "mods/fabric-language-kotlin-1.8.7+kotlin.1.7.22.jar",
+            "path": "mods/fabric-language-kotlin-1.9.0+kotlin.1.8.0.jar",
             "hashes": {
-                "sha1": "2f2d38ac49cb1882dc23aeb85e666e0bb76b872d",
-                "sha512": "e187b83944f92d79e8cb1916dabb4e806a2103580a9b8ed415da38f493bc7e807e62bb62ea373e53a1bb962747c71ebbf9597cce10b8b41679f31bce8020bd0a"
+                "sha1": "da5adc0695672002bf5d95d1da29bbd9e2c5dfb7",
+                "sha512": "44b2938cd01d20adc5c16c56a7a766c591c633dc3bc97e15e6cd5aa621095158b4a95fa5d02c84740684373c8669c7dc485ac2eddc72c9cf927d4bece8e43e3a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/yLIAMDzv/fabric-language-kotlin-1.8.7%2Bkotlin.1.7.22.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.8.7%2Bkotlin.1.7.22/fabric-language-kotlin-1.8.7%2Bkotlin.1.7.22.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.0%2Bkotlin.1.8.0/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar"
             ],
-            "fileSize": 6429262
+            "fileSize": 6484318
         },
         {
             "path": "mods/fabricskyboxes-0.6.1+mc1.19.3.jar",
@@ -233,28 +233,16 @@
             "fileSize": 41697
         },
         {
-            "path": "mods/indium-1.0.10+mc1.19.3.jar",
+            "path": "mods/iris-mc1.19.3-1.5.0.jar",
             "hashes": {
-                "sha1": "5a016a84c55a026286b25c8b3686c1acece6ca6f",
-                "sha512": "3aa2d911a748e8cd383f82197b375128188eaff9b529819fd02ed190f09f88347024806396cd102c7ae96599cf2e1c7dc45c8380ad1a98f113934c3ce143da91"
+                "sha1": "fb17402dbfb2a36499260a479f6f4a25964b2c0a",
+                "sha512": "2fde40a5e5d7922f701ac902e5eec00220864446d62def534dd72996ef3af33031f7d1520e00009a64eddf0b64615c2c95d61394fb786e17a445185247afe143"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/BoAba4K3/indium-1.0.10%2Bmc1.19.3.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.10%2Bmc1.19.3/indium-1.0.10%2Bmc1.19.3.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/Fnx41igH/iris-mc1.19.3-1.5.0.jar",
+                "https://github.com/IrisShaders/Iris/releases/download/1.5.0%2B1.19.3/iris-mc1.19.3-1.5.0.jar"
             ],
-            "fileSize": 118628
-        },
-        {
-            "path": "mods/iris-mc1.19.3-1.4.6.jar",
-            "hashes": {
-                "sha1": "27ab78bb9dba64010aa63d1f0b06108132569eac",
-                "sha512": "5c1cd14df54670d0e00a7a595c477bf1aebe712218c5044424226e86cce0a9d8287070711a11454562f6bfb564e792b1f537275dcb2fcc13b972d1ff4e88f179"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/py8Wa69O/iris-mc1.19.3-1.4.6.jar",
-                "https://github.com/IrisShaders/Iris/releases/download/1.19.3-v1.4.6/iris-mc1.19.3-1.4.6.jar"
-            ],
-            "fileSize": 2158722
+            "fileSize": 2265058
         },
         {
             "path": "mods/lambdynamiclights-2.2.0+1.19.3.jar",
@@ -268,16 +256,16 @@
             "fileSize": 559472
         },
         {
-            "path": "mods/language-reload-1.5.jar",
+            "path": "mods/language-reload-1.5.1.jar",
             "hashes": {
-                "sha1": "516921ce6d8b14b9b487970de2fe27d5d0a7e1eb",
-                "sha512": "3e3c4e4ec5cf4f53257fb09f23cc2282b8596910d0933ab883c2e2d65f7da71f4c587bd0c74f94fb738ce3a08647c15a70899e32997cc20b38da25d7513573f7"
+                "sha1": "5454c1c6da591c21245977c6fdfc696a09d0ae12",
+                "sha512": "508d36a6d5da415283af087ce6602de95bb3a9dd5dcc27e72568faea8cdc78dd7a43d7ab6cbf0c89090b23038cc639c2541bc052104ccd329f67b331594ef06e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/KVc5hHv9/language-reload-1.5.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.5/language-reload-1.5.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/PWRyGsLC/language-reload-1.5.1.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.5.1/language-reload-1.5.1.jar"
             ],
-            "fileSize": 55428
+            "fileSize": 56146
         },
         {
             "path": "mods/lazydfu-0.1.3.jar",
@@ -468,28 +456,28 @@
             "fileSize": 88634
         },
         {
-            "path": "mods/sodium-extra-0.4.15+mc1.19.3-build.86.jar",
+            "path": "mods/sodium-extra-0.4.16+mc1.19.3-build.91.jar",
             "hashes": {
-                "sha1": "2c03d6340b3c17c9a0857741fe5bbed40737ac31",
-                "sha512": "dd53182941010c1e0059eb57a46d76e57150dd4020e86827ccf856d585ccb8478bc9fb6f9e11636be86099409d152abfc0c0dda51d24f8cf3c1680b5c27bf6f6"
+                "sha1": "64aef534ebe60ec0b81fffa83053c4db55c4c5c5",
+                "sha512": "a23e2983df063407043661227db0abeb3a74b31c90dfbc0d7dc18948d569e8de285d5c874eaeb2298bd2df74121204bfa1f461a8a17d6693832445934315d3a5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/r5w0P2Aa/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.15/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/8DeIhGTv/sodium-extra-0.4.16%2Bmc1.19.3-build.91.jar",
+                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.16/sodium-extra-0.4.16%2Bmc1.19.3-build.91.jar"
             ],
-            "fileSize": 262476
+            "fileSize": 264066
         },
         {
-            "path": "mods/sodium-fabric-mc1.19.3-0.4.6+build.20.jar",
+            "path": "mods/sodium-fabric-mc1.19.3-0.4.7+build.21.jar",
             "hashes": {
-                "sha1": "a0fec74517e7719563236be8588f3ca8529411a6",
-                "sha512": "d326ee81b2f6da97004879dd3bc6ccc35d94bc46c7a0ba8c37df6a73ddb620e6d89a1b3fb2471a92af425664832edd0fab199b3d2e9bcd60aaf5e8b780d6168e"
+                "sha1": "522932af13bf5f9496a7c0467c3c6ff29f7f1991",
+                "sha512": "3529c07fda9a429c3cf8c3dd03a97f8dc08a81ab01e3a617871541d08941c02b779a8d23ba00750e08f501b5ecfda417de30ab47f32e2a564129786b7e0ea5f2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar",
-                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.3-0.4.6/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar"
+                "https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar",
+                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.3-0.4.7/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar"
             ],
-            "fileSize": 678298
+            "fileSize": 701307
         },
         {
             "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
@@ -503,16 +491,16 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-2.1.1.jar",
+            "path": "mods/YetAnotherConfigLib-2.2.0.jar",
             "hashes": {
-                "sha1": "d3f9e0d1e0f23d99126a54fbab239d4bd0423ddc",
-                "sha512": "1c07f02ec026ee743b6505967831a12fbebc4a23124070e40fbab59e620e93989c4e7b79605f46175ff0f7136ddb262a3367908eb698c589ff01671277b3c8a7"
+                "sha1": "62158cf974075dfd896540191e4ae108e6ec67b3",
+                "sha512": "3bf6d0012ba89347958d68fbf567f61b05433fc2c12b647fe244bbe91995489db3b402625696387ab7a52ea128f61abe3d3213ae35e56b32675c09739297dcad"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/GkKQsCJ6/YetAnotherConfigLib-2.1.1.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.1.1/YetAnotherConfigLib-2.1.1.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/3EWbdCzX/YetAnotherConfigLib-2.2.0.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.2.0/YetAnotherConfigLib-2.2.0.jar"
             ],
-            "fileSize": 207970
+            "fileSize": 214809
         },
         {
             "path": "mods/yosbr-0.1.1.jar",

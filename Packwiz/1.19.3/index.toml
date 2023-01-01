@@ -9,12 +9,16 @@ file = "config/debugify.json"
 hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "184be6e12e367a4134c7232811c50ee4ba8f4c4fe1ec28968ab189abd246356c"
+hash = "3d79cef73ee5bed34f9e4d6f61075f6ee0aedd1938a61e9d7e7a767465f0740b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "95535db561d28c02c8cdc5debcf62c7634d9e23aca29e8955153362b12fccbb2"
+hash = "af492a9318d0920eb85b7c14a197c622cdc35fbb319af5d5b6fba222c3c9624a"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -35,10 +39,6 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
-
-[[files]]
-file = "config/yosbr/config/entity_texture_features.json"
-hash = "1656c1ce6af02cfb451541c7d5c938c51cc9e7aee962aee526c46f4be40cada3"
 
 [[files]]
 file = "config/yosbr/config/holdthatchunk.json"
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "9c56cf76719f88d9e235db6e9d2f3ba1c8c868810b6c6926ee05a781eee18e17"
+hash = "00bccfd69909fad769d4c4c1f7dda89d03c343b968854253bd4d9eab89bb8307"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "66b57e089f4908fc98dd34e70fd55be04f35d2ed529b88966e15c8682b10dba2"
+hash = "820ebe4caec309d9593efcae8b02f35fc2c4672e6d8029ce31d2441df95d5639"
 metafile = true
 
 [[files]]
@@ -201,13 +201,8 @@ hash = "cca39b10d2c4c2114da78f89e53a780e3e1440cbe3b5ffd9ced7ca02f75d0573"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "090360b549c314bb8c94c41d04a0832dd4686da956046547017c692e0f09ef59"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
-hash = "41495351c7a06440696e284865a584aea86164a81b49f76bc9c125ac7f521047"
+hash = "5981447437ec7a8124671cbeb738a028283b3710b824a3c58c344b2eb7362ab4"
 metafile = true
 
 [[files]]
@@ -217,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "ef0f19aac80868f61dab6be6386cdf50f71be4174cf0be13bd0b15ba2b340a7c"
+hash = "98c6a3aecfa15229b3e02f3a0501c6d1192746b6412e72c679c4616aa83c0767"
 metafile = true
 
 [[files]]
@@ -302,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "9bbcf97aa5a4290e4c04610f809aacd8b4cf1b4bc31438e78d7236c022efe01c"
+hash = "294bc39dfe537f9760f96020140b80828c848809986289a087d5b4d85bc9ccd7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "897958a92fafee84ba04033f6fce9a2b1ae912309e3a46d8e43c573e69207cd4"
+hash = "ddd7d8314f2e0f40b659e0f7c7ed04295dacc40278a0030bc63d66e7d22b1c42"
 metafile = true
 
 [[files]]
@@ -317,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib.pw.toml"
-hash = "31e5a54adaf2fa071eac06f662fb66a7c2fbbb58ac653a1d561648b2726803f5"
+hash = "02f733362142989ee648e50b98435a2b4a280f611c9f5a90935a18485bb12bf6"
 metafile = true
 
 [[files]]
