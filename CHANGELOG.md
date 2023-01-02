@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.1 (2023-01-02)
+
+- Updated CIT Resewn, Language Reload, Indium
+- Updated Simplified Chinese by GodGun968
+- Removed Smooth Boot - did not seem to improve performance/needs device-specific setup
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
 ### 4.6.0-alpha.13 (2023-01-01)
 
 - Updated Entity Texture Features, Fabric Language Kotlin, Iris Shaders, Language Reload, Sodium, Sodium Extra, YetAnotherConfigLib

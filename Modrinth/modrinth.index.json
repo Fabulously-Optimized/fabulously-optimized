@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-alpha.13",
+    "versionId": "4.6.0-beta.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -83,6 +83,17 @@
                 "https://cdn.modrinth.com/data/YOQCucah/versions/BA6hkd1D/cem-0.7.1.jar"
             ],
             "fileSize": 1075263
+        },
+        {
+            "path": "mods/CITResewn-1.1.3+1.19.3.jar",
+            "hashes": {
+                "sha1": "428b61dda06632e803bb99685ba8d2bbcb34a4fb",
+                "sha512": "2bbe380cdae94f8c09b725f026c7d576fcc206abb0ad825813635997a7b986eec51ceaa9ee36deea696d57340dac7265bba8105cf5c6a614ef74355b4427add1"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/otVJckYQ/versions/hGatm5K8/CITResewn-1.1.3%2B1.19.3.jar"
+            ],
+            "fileSize": 393620
         },
         {
             "path": "mods/cloth-config-9.0.94-fabric.jar",
@@ -233,6 +244,18 @@
             "fileSize": 41697
         },
         {
+            "path": "mods/indium-1.0.11+mc1.19.3.jar",
+            "hashes": {
+                "sha1": "1d5a8121217d4699299375d60d9ced208ade5ed3",
+                "sha512": "88f82ab9e83d3b918b5d5f1930ca869ea5ac75d6a053450533cc24e8cc3468fd4b4fa0fd7f58a0a940e75fd31f540e9536fc41ecc42560d27aa9def63a01be0c"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/KqmHL1pI/indium-1.0.11%2Bmc1.19.3.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.11%2Bmc1.19.3/indium-1.0.11%2Bmc1.19.3.jar"
+            ],
+            "fileSize": 118628
+        },
+        {
             "path": "mods/iris-mc1.19.3-1.5.0.jar",
             "hashes": {
                 "sha1": "fb17402dbfb2a36499260a479f6f4a25964b2c0a",
@@ -256,16 +279,16 @@
             "fileSize": 559472
         },
         {
-            "path": "mods/language-reload-1.5.1.jar",
+            "path": "mods/language-reload-1.5.2.jar",
             "hashes": {
-                "sha1": "5454c1c6da591c21245977c6fdfc696a09d0ae12",
-                "sha512": "508d36a6d5da415283af087ce6602de95bb3a9dd5dcc27e72568faea8cdc78dd7a43d7ab6cbf0c89090b23038cc639c2541bc052104ccd329f67b331594ef06e"
+                "sha1": "9a0288fe76f2da04551ea10fff2e8f1c13196fce",
+                "sha512": "b12466c51eb58b44f95377183daf5fd05e0068e96ef0bbd6f00568be579db8aaaf0630e0241373208e0991e8bca5560bd4ed622f13d0a6634a358515c1241c87"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/PWRyGsLC/language-reload-1.5.1.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.5.1/language-reload-1.5.1.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/cioOUB8N/language-reload-1.5.2.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/v1.5.2/language-reload-1.5.2.jar"
             ],
-            "fileSize": 56146
+            "fileSize": 56228
         },
         {
             "path": "mods/lazydfu-0.1.3.jar",
@@ -442,18 +465,6 @@
                 "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.2-1.4.9/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar"
             ],
             "fileSize": 49984
-        },
-        {
-            "path": "mods/smoothboot-fabric-1.19-1.7.1.jar",
-            "hashes": {
-                "sha1": "8414cbce145a5f48102e6cc811dfd1459afe44f3",
-                "sha512": "dfe62d6ae465baa6b60249f271508bb97e5f07f663c018658dfb940f99e7fce5fa9f5b6c15e555db34b02f8db9d8e6350cb120e10469ff809480173fb8b0da49"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/FWumhS4T/versions/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar",
-                "https://github.com/UltimateBoomer/mc-smoothboot/releases/download/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar"
-            ],
-            "fileSize": 88634
         },
         {
             "path": "mods/sodium-extra-0.4.16+mc1.19.3-build.91.jar",
