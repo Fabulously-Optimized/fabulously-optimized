@@ -7,7 +7,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 - Updated Entity Texture Features, Fabric Language Kotlin, Iris Shaders, Language Reload, Sodium, Sodium Extra, YetAnotherConfigLib
 - Set and enforced ETF's invalid path support to entities only for better mod compat/to fix resource pack applying issues
-- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, LambdaBetterGrass, Puzzle 
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, LambdaBetterGrass
   - Removed Indium because it's not up to date with newest Sodium
 
 ### 4.6.0-alpha.12 (2022-12-25)
