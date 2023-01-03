@@ -7,7 +7,7 @@ simulationDistance:6
 guiScale:3
 maxFps:260
 resourcePacks:["vanilla","fabric","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","midnightcontrols:bedrock"]
-incompatibleResourcePacks:["vanilla"]
+incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
@@ -15,9 +15,9 @@ joinedFirstServer:true
 telemetryOptInExtra:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
-key_zoomify.key.gui:key.keyboard.unknown
-key_key.wi_zoom.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.fabricskyboxes.toggle:key.keyboard.unknown
