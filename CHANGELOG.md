@@ -8,7 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated Entity Texture Features, Indium, Iris Shaders, Sodium
   - Sodium and related mods improved NVIDIA crash fix
   - Entity Texture Features received bugfixes
-- Unbound Zoomify's secondary zoom (again?!) and FabricSkyBoxes' toggle keybinds
+- Unbound Zoomify's secondary zoom (again) and FabricSkyBoxes' toggle keybinds
 
 ### 4.6.0-beta.1 (2023-01-02)
 
