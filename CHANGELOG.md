@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.3 (2023-01-10)
+
+- Updated Fabric API, Language Reload, MidnightControls
+- Updated Portuguese MMH translation by PaperKing13
+
 ### 4.6.0-beta.2 (2023-01-03)
 
 - Updated Entity Texture Features, Indium, Iris Shaders, Sodium
