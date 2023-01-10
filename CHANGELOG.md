@@ -7,6 +7,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 - Updated Fabric API, Language Reload, MidnightControls
 - Updated Portuguese MMH translation by PaperKing13
+- Latest versions on Modrinth now include Minecraft version numbers
 
 ### 4.6.0-beta.2 (2023-01-03)
 
