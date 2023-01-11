@@ -8,6 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated Fabric API, Language Reload, MidnightControls
 - Updated Portuguese MMH translation by PaperKing13
 - Latest versions on Modrinth now include Minecraft version numbers
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
 
 ### 4.6.0-beta.2 (2023-01-03)
 
@@ -15,6 +16,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - Sodium and related mods improved NVIDIA crash fix
   - Entity Texture Features received bugfixes
 - Unbound Zoomify's secondary zoom (again) and FabricSkyBoxes' toggle keybinds
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
 
 ### 4.6.0-beta.1 (2023-01-02)
 
