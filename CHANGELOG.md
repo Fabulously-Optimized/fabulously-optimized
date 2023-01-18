@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.4 (2023-01-18)
+
+- Added FastQuit - makes quitting singleplayer worlds instant
+- Updated Farsight, Language Reload
+- Reduced and currently enforced Farsight distance to 16 (from 64)
+- Preemptively disabled the "accessibility onboarding" of 1.19.4
+
 ### 4.6.0-beta.3 (2023-01-10)
 
 - Updated Fabric API, Language Reload, MidnightControls

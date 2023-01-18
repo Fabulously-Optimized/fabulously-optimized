@@ -10,15 +10,19 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0c5c56dd2004da59d494c4d46acc77e4e9e28855c0b449200bd83c24f275c509"
+hash = "7ac49d60bfc4b5da83bc00e9ecf7db2acf6a7438cece49c9878a711b48d6469c"
+
+[[files]]
+file = "config/farsight.json"
+hash = "7d25ab84f33de9178a529a83c0a36bafdf096e2db2b0f377cbbb3617797ecc54"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d9dc11d57a5593b0a16daa4cbbaaa0973eef2745e753d7d06c9a5447d9b424b3"
+hash = "c05d74a65828eda949a7f4251294975e87827a7d2b64c8e68e2bc90620ecff37"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "612ec6d11cbbfed40a8cf0528010370b122d675fb3f2f5d2361ad5d45a144502"
+hash = "e74f77f8abaa1362b6117db9dc95a60d2c8a47418ceceeb8511a8fa5070770b0"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -39,6 +43,10 @@ hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
+
+[[files]]
+file = "config/yosbr/config/fastquit-config.txt"
+hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
 
 [[files]]
 file = "config/yosbr/config/holdthatchunk.json"
@@ -94,7 +102,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "3cda5867a305a3bc434feb57ba727e7dbf59ad91a7d8e5e2f25e46acad3ae15b"
+hash = "a27a15c34276a69b082fd3cb922e916002a24fabefc9aad1c96b8fce5870b43d"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
@@ -192,7 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "cb7abda638c96f6b259fafe92c4ee94e4ba08126216adbfc646209147d6c5092"
+hash = "248e44131bf9ab35abdd27646066ede72f2128d51fd43150c9676d6eb5eeb64b"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "4378ed8c8083eb922d2e4dd552b3525986cbb0d509a2d6ed0e4872866da3b0a8"
 metafile = true
 
 [[files]]
@@ -222,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "c8ff90ebc9c700b6729c9b925b8066ff7d8e87fb82aed40faf08ba5d201d3eb6"
+hash = "c4b425a811a7a60d1124fc40bd52b16300034009a744831e4ca21f6637a0b4ab"
 metafile = true
 
 [[files]]
