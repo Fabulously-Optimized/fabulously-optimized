@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.4",
+    "versionId": "4.6.0-beta.5",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -107,18 +107,6 @@
             "fileSize": 1143110
         },
         {
-            "path": "mods/CullLessLeaves-1.1.0.jar",
-            "hashes": {
-                "sha1": "bdb994448b595c382537bef75fa26a944a1378a6",
-                "sha512": "4694a36449f48205f6ecc1972d8e0bca73a3d6fdc1a258c56ab12ebab39a016aec2c381e225fa252cf56037e9fffc6c16fc5128a9b263e92f57fd83d01a57010"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/iG6ZHsUV/versions/BxA1B1tp/CullLessLeaves-1.1.0.jar",
-                "https://github.com/isXander/CullLessLeaves/releases/download/1.1.0/CullLessLeaves-1.1.0.jar"
-            ],
-            "fileSize": 40640
-        },
-        {
             "path": "mods/Debugify-1.19.3+1.1.jar",
             "hashes": {
                 "sha1": "d7f9cbf11bb36ef360de2b898a5a5e224eaef9e3",
@@ -166,15 +154,15 @@
             "fileSize": 392427
         },
         {
-            "path": "mods/fabric-api-0.72.0+1.19.3.jar",
+            "path": "mods/fabric-api-0.73.0+1.19.3.jar",
             "hashes": {
-                "sha1": "d89a3e956e4e42fd4c14f85975df948ab7a519eb",
-                "sha512": "c06ce291a927816195036044a8ee006e5a9aa8af343e0a68d92da9317b78d08d8ac0a0f8165fdbf6fedfbc68160afef27f1ee0126f7eb9eb06b9ac4062ae2f7e"
+                "sha1": "f3635ab8d209b2ff5853c3b860d2f560564a2154",
+                "sha512": "cb197c9d2615cea21228e41d42a02ffe43a00b1b9042e837e9d3c8b18883dd64d0280f24c3dc512ad8925eda1f8d44fb98bd562d5fd4d5bb812222283ee7dd0c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/vWbvdIxT/fabric-api-0.72.0%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/PbVeub96/fabric-api-0.73.0%2B1.19.3.jar"
             ],
-            "fileSize": 1893616
+            "fileSize": 1901792
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.0+kotlin.1.8.0.jar",
@@ -189,15 +177,15 @@
             "fileSize": 6484318
         },
         {
-            "path": "mods/fabricskyboxes-0.6.1+mc1.19.3.jar",
+            "path": "mods/fabricskyboxes-0.6.2+mc1.19.3.jar",
             "hashes": {
-                "sha1": "b07011498ba6dd0afcab3774a298173c4edad719",
-                "sha512": "2bd350c601695e01e431f71b4f249e38c9448296572dde07509d9cb20755725f579e3b4c5a2bb31d315289f32a2f1469d0419cb4ce80a61ea44db3d18c899399"
+                "sha1": "9e06cd799ce67d9775329eb615765e0b81f93015",
+                "sha512": "d36d30a6a66fc4d2284d0361f5c64cf3c4bdb2e298b1b334ac5f3712869c272f6dae1722d9ca5808de3b9c697a60069c5b070fc94d6f14a8bce383b8f5c344a0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YBz7DOs8/versions/dSmn5zFj/fabricskyboxes-0.6.1%2Bmc1.19.3.jar"
+                "https://cdn.modrinth.com/data/YBz7DOs8/versions/Rg1IX2YB/fabricskyboxes-0.6.2%2Bmc1.19.3.jar"
             ],
-            "fileSize": 165534
+            "fileSize": 165888
         },
         {
             "path": "mods/fabrishot-1.9.1.jar",
@@ -244,15 +232,15 @@
             "fileSize": 120325
         },
         {
-            "path": "mods/fsb-interop-1.1.3+mc1.19.3-build.26.jar",
+            "path": "mods/fsb-interop-1.1.4+mc1.19.3-build.30.jar",
             "hashes": {
-                "sha1": "68878fe40e8ef08ada1986e44a9f6198a2c46ca9",
-                "sha512": "69df91a2fc619cdfe0132d82d30f39ffbed971b9c48e775c0caf777ab1c6f7fab0bc299b96608040b3b6cf0db983d63f1b7cba35dbba8ad5e64fc0b6c8778618"
+                "sha1": "ebeb62c54db4e87fb2bac0bc19dfccf2117e31a7",
+                "sha512": "fbd6ef1445e101b7e552f8563241c7414060a9cfa4949bfd1e80ab458867e30b1d5d57c284588cabdab51be7dbd4448310b769d4bfceb984ec2add1a5599cf22"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HpdHOPOp/versions/HnTOwhb8/fsb-interop-1.1.3%2Bmc1.19.3-build.26.jar"
+                "https://cdn.modrinth.com/data/HpdHOPOp/versions/kvoqBDF3/fsb-interop-1.1.4%2Bmc1.19.3-build.30.jar"
             ],
-            "fileSize": 41697
+            "fileSize": 41699
         },
         {
             "path": "mods/indium-1.0.12+mc1.19.3.jar",
@@ -386,15 +374,15 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/modelfix-1.9-fabric.jar",
+            "path": "mods/modelfix-1.10-fabric.jar",
             "hashes": {
-                "sha1": "6481ab7b2a46c64a1b52006765338316ba4a2a45",
-                "sha512": "0148a813c3dc978688d60028c4eab0889948e66587b3917e024a37e96e794114a385117a68482e801359e7f06ad04186c557ba6d42280e6923c773622ae7be5d"
+                "sha1": "fd52ec87add371140066fc3ae95d68c83f8a6ee5",
+                "sha512": "07d0c6ef84a92aeb53b0dcb663f6a5118b3fea9dc60b62aa0c318fd0234c0ca651603faffd044679e6e372fec52242528246ad282d336882f4bf484cd30bd909"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QdG47OkI/versions/Kfbnfh5q/modelfix-1.9-fabric.jar"
+                "https://cdn.modrinth.com/data/QdG47OkI/versions/i0mERlxq/modelfix-1.10-fabric.jar"
             ],
-            "fileSize": 26656
+            "fileSize": 63315
         },
         {
             "path": "mods/modmenu-5.0.2.jar",
@@ -418,6 +406,18 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19.1-1.1.1/morechathistory-1.19.1-1.1.1.jar"
             ],
             "fileSize": 11223
+        },
+        {
+            "path": "mods/moreculling-1.19.3-0.14.0.jar",
+            "hashes": {
+                "sha1": "1fe9803f9b4b1c17b9197ac9349a472df12498f8",
+                "sha512": "2f2bd3907f230bfd5376135d3d1169e27ff10e4ab70c444d1bfd9620618aa002ee977ecf933862cf11708d3e476fedf42c5ec5838c7dfc9bbeb4d24c7d405f1b"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/AbG6tNda/moreculling-1.19.3-0.14.0.jar",
+                "https://github.com/fxmorin/MoreCulling/releases/download/v0.14.0/moreculling-1.19.3-0.14.0.jar"
+            ],
+            "fileSize": 1217661
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.19.3-v1.19.0.jar",
@@ -549,6 +549,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.3",
-        "fabric-loader": "0.14.12"
+        "fabric-loader": "0.14.13"
     }
 }

@@ -3,12 +3,33 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.5 (2023-01-25)
+
+- Added MoreCulling - does everything Cull Less Leaves does while having more optimizations
+- Removed Cull Less Leaves - replaced by MoreCulling
+- Added Fast Better Grass resource pack
+  - Imitates OptiFine's Better Grass (fast mode); fancy mode cannot be replicated
+  - Serves as a substitute to LambdaBetterGrass in case that doesn't become usable in time
+  - Must be the first activated resource pack to work
+  - Uses only models, so it works with any other resource pack (breaks varied textures though, if any)
+- Updated Fabric API, FabricSkyBoxes, FabricSkyBoxes Interop, Model Gap Fix
+- Updated and enforced Fabric Loader 0.14.13
+- Enforced Farsight length back to 64 due to unexpected side effects (limiting max render distance)
+  - Will consider other measures if this causes problems
+- Updated Russian, Korean and Polish MMH translations by RozeFound, AlphaKR93, RadPlay respectively
+- More MMH wording changes
+  - Item Model Fix is now considered an alternative to Model Gap Fix instead of the opposite
+  - Cull Less Leaves is now considered an alternative to MoreCulling
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+  - As an effort to speed up 1.19.3 release, between these only Continuity will now be considered a required mod before FO 4.6.0 is released, others will (may) be re-added later 
+
 ### 4.6.0-beta.4 (2023-01-18)
 
 - Added FastQuit - makes quitting singleplayer worlds instant
 - Updated Farsight, Language Reload
 - Reduced and currently enforced Farsight distance to 16 (from 64)
 - Preemptively disabled the "accessibility onboarding" of 1.19.4
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
 
 ### 4.6.0-beta.3 (2023-01-10)
 
