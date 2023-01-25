@@ -18,7 +18,7 @@ Fabulously Optimized [include dei piccoli miglioramenti][4] che non rovinano l'e
 
 ### Funziona Ovunque!
 
-Fabulously Optimized non ha mod di content, quindi funziona su tutti i server. Il modpack [può essere usato su 5 launcher, ed è hostato su 3 siti][6] ed [è tradotto in diverse lingue][7], incluso l'italiano!
+Fabulously Optimized non ha mod di content, quindi funziona su tutti i server. Il modpack [può essere usato su 5 launcher, ed è hostato su 3 siti][6] ed [è tradotto in diverse lingue][7].
 
 ### Aggiornamento
 
