@@ -4,7 +4,11 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
-[![Wiki](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/documentation/gitbook_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/) [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/fabulously-optimized-859124104644788234) [![Mastodon](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/mastodon-plural_vector.svg)](https://floss.social/@fabulouslyoptimized) [![Translate](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-plural_vector.svg)](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
+<a href="https://fabulously-optimized.gitbook.io/modpack/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/documentation/gitbook_vector.svg"></a> 
+<a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/translate/generic-plural_vector.svg"></a>
+
+<a href="https://discord.gg/fabulously-optimized-859124104644788234"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/discord-plural_vector.svg"></a> 
+<a href="https://floss.social/@fabulouslyoptimized"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/mastodon-plural_vector.svg"></a>
 
 ## Downloads
 
@@ -16,11 +20,12 @@ Supports CurseForge Launcher, MultiMC, Prism Launcher, GDLauncher, and vanilla l
   <summary>Alternative downloads</summary>
 
 _These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.5.4/Fabulously.Optimized.MC.1.19.2.auto-update.zip) | [1.19.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.6.0-alpha.1/Fabulously.Optimized.MC.1.19.3.auto-update.zip)
+* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.5.6/Fabulously.Optimized.MC.1.19.2.auto-update.zip) | [1.19.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.6.0-beta.5/Fabulously.Optimized.MC.1.19.3.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
-* [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) (separate download of the pack that is bundled in FO)
+* [Chat Reporting Helper resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper) (bundled in FO)
   * The resource pack also expects [FO's configuration of NCR](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config/yosbr/config/NoChatReports) - unpack these to `.../.minecraft/config/NoChatReports`
+* [Fast Better Grass resource pack](https://kinolien.github.io/gitzip/?download=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Fast%20Better%20Grass) (bundled in FO)
 </details>
 
 Not sure which edition is right for you? Check this handy table!
