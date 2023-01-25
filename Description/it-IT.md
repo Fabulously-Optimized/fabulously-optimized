@@ -32,7 +32,7 @@ Rispetto a Forge, Fabric è più veloce, si aggiorna e carica più velocemente, 
 
 Fabulously Optimized [è open source][8] come molte delle sue mod. Siamo aperti a suggerimenti dagli utenti e a collaborare con gli sviluppdatori delle mod per creare una migliore esperienza per tutti.
 
-### Community
+### Comunità
 
 Siamo una community crescente di membri che vogliono discutere riguardo il modpack e aiutarsi a vicenda. [Unisciti a noi oggi!][10]
 
