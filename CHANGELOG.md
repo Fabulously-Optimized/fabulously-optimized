@@ -3,12 +3,160 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.5 (2023-01-25)
+
+- Added MoreCulling - does everything Cull Less Leaves does while having more optimizations
+- Removed Cull Less Leaves - replaced by MoreCulling
+- Added Fast Better Grass resource pack
+  - Imitates OptiFine's Better Grass (fast mode); fancy mode cannot be replicated
+  - Serves as a substitute to LambdaBetterGrass in case that doesn't become usable in time
+  - Must be the first activated resource pack to work
+  - Uses only models, so it works with any other resource pack (breaks varied textures though, if any)
+- Updated Fabric API, FabricSkyBoxes, FabricSkyBoxes Interop, Model Gap Fix
+- Updated and enforced Fabric Loader 0.14.13
+- Enforced Farsight length back to 64 due to unexpected side effects (limiting max render distance)
+  - Will consider other measures if this causes problems
+- Updated Russian, Korean and Polish MMH translations by RozeFound, AlphaKR93, RadPlay respectively
+- More MMH wording changes
+  - Item Model Fix is now considered an alternative to Model Gap Fix instead of the opposite
+  - Cull Less Leaves is now considered an alternative to MoreCulling
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+  - As an effort to speed up 1.19.3 release, between these only Continuity will now be considered a required mod before FO 4.6.0 is released, others will (may) be re-added later 
+
+### 4.6.0-beta.4 (2023-01-18)
+
+- Added FastQuit - makes quitting singleplayer worlds instant
+- Updated Farsight, Language Reload
+- Reduced and currently enforced Farsight distance to 16 (from 64)
+- Preemptively disabled the "accessibility onboarding" of 1.19.4
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
+### 4.6.0-beta.3 (2023-01-10)
+
+- Updated Fabric API, Language Reload, MidnightControls
+- Updated Portuguese MMH translation by PaperKing13
+- Latest versions on Modrinth now include Minecraft version numbers
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
+### 4.6.0-beta.2 (2023-01-03)
+
+- Updated Entity Texture Features, Indium, Iris Shaders, Sodium
+  - Sodium and related mods improved NVIDIA crash fix
+  - Entity Texture Features received bugfixes
+- Unbound Zoomify's secondary zoom (again) and FabricSkyBoxes' toggle keybinds
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
+### 4.6.0-beta.1 (2023-01-02)
+
+- Updated CIT Resewn, Language Reload, Indium
+- Updated Simplified Chinese by GodGun968
+- Removed Smooth Boot - did not seem to improve performance/needs device-specific setup
+- Temporarily removed Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
+### 4.6.0-alpha.13 (2023-01-01)
+
+- Updated Entity Texture Features, Fabric Language Kotlin, Iris Shaders, Language Reload, Sodium, Sodium Extra, YetAnotherConfigLib
+- Set and enforced ETF's invalid path support to entities only for better mod compat/to fix resource pack applying issues
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, LambdaBetterGrass
+  - Removed Indium because it's not up to date with newest Sodium
+
+### 4.6.0-alpha.12 (2022-12-25)
+
+- Updated Fabric API, Puzzle
+- Mod Menu, No Chat Reports, Puzzle now persist your option changes across upgrades
+  - Occasionally configs will be enforced again for long-term better UX
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass
+
+### 4.6.0-alpha.11 (2022-12-24)
+
+- Updated LambDynamicLights
+- Compressed CRH icons more, again
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, Puzzle 
+
+### 4.6.0-alpha.10 (2022-12-22)
+
+Also known as the update that didn't get approved on CurseForge in time (though MMC version did).
+
+- Added Ukrainian MMH translation by Den4enko
+- Removed Chinese Traditional MMH translation by eric122805 (likely machine-translated)
+- Increased CRH icons' contrast
+- Updated and enforced Fabric Loader 0.14.12 everywhere
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, LambDynamicLights, Puzzle 
+
+### 4.6.0-alpha.9 (2022-12-20)
+
+- Added Model Gap Fix - replacement for Item Model Fix, maybe permanently if it is better
+- Updated Sodium Extra, Zoomify
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, LambdaBetterGrass, LambDynamicLights, Puzzle 
+- Updated Fabric Loader to 0.14.12 where available
+
+### 4.6.0-alpha.8 (2022-12-16)
+
+- Updated Cull Less Leaves, Debugify, OptiGUI, Zoomify
+  - Cull Less Leaves, Debugify, Zoomify now have visual configurations again :D
+  - Game should also no longer crash on first start
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, Puzzle 
+
+### 4.6.0-alpha.7 (2022-12-15)
+
+We've reached 800 000 downloads on CurseForge!
+
+- Updated Fabric Capes, YetAnotherConfigLib
+  - Another game freeze fix
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+.
+
+- Enabled Cosmetica capes in Fabric Capes
+- Added Russian CRH translation by RozeFound
+
+### 4.6.0-alpha.6 (2022-12-14)
+
+Resource pack features are slowly coming back :eyes:
+
+- Updated CEM, Fabric API, Fabric Capes
+- Temporarily removed CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+.
+
+- Enabled Labymod and Wynntils cape types in Fabric Capes as the dev said freezes are fixed
+
+### 4.6.0-alpha.5 (2022-12-12)
+
+- Updated Borderless Mining, Fabric API, No Chat Reports, YetAnotherConfigLib
+- Temporarily removed CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+.
+
+- Updated Polish and Russian in MMH by Radplay and RozeFound
+- Added singleplayer tooltip to CRH
+
+### 4.6.0-alpha.4 (2022-12-10)
+
+- Updated Indium, MidnightControls, Mod Menu
+- Added Chinese Traditional in MMH by eric122805
+- Updated Language Reload description in MMH
+
+.
+
+- Temporarily removed Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Item Model Fix, LambdaBetterGrass, LambDynamicLights, OptiGUI, Puzzle 
+
+### 4.6.0-alpha.3 (2022-12-09)
+
+- Updated AdvancementInfo, AntiGhost, Entity Texture Features, Lithium 
+
+.
+
+- Temporarily removed Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
+
 ### 4.6.0-alpha.2 (2022-12-09)
 
 - Updated MemoryLeakFix, BetterMountHUD
 - Temporarily removed OptiGUI because it caused a crash on right click lmao
 
-- Temporarily disabled AdvancementInfo, AntiGhost, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
+.
+
+- Temporarily removed AdvancementInfo, AntiGhost, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, OptiGUI, Puzzle 
 
 ### 4.6.0-alpha.1 (2022-12-08)
 
@@ -19,7 +167,7 @@ But more broken mods now mean less broken mods in 1.20 💪
 
 Mods
 - Updated Cloth Config API, Debugify, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyBoxes Interop, FerriteCore, Iris Shaders, Language Reload, Lithium, Mod Menu, No Chat Reports, Sodium, Sodium Extra, Zoomify, YetAnotherConfigLib
-- Temporarily disabled AdvancementInfo, AntiGhost, BetterMountHUD, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, Puzzle 
+- Temporarily removed AdvancementInfo, AntiGhost, BetterMountHUD, Borderless Mining, CEM, CIT Resewn, Colormatic, Continuity, Enhanced Block Entities, Entity Texture Features, Indium, Item Model Fix, LambdaBetterGrass, LambDynamicLights, MidnightControls, Puzzle 
 
 Other
 - Added Chat Reporting Helper resource pack 
@@ -33,6 +181,20 @@ Other
 - Updated and enforced Fabric Loader 0.14.11 everywhere
 
 ## 1.19.2
+
+### 4.5.6 (2023-01-01)
+
+- Updated Entity Texture Features, Fabric API, Fabric Language Kotlin, Iris Shaders, LambDynamicLights, Sodium Extra
+- Updated Fabric Loader to 0.14.12 everywhere
+- Set ETF's invalid path support to entities only for better mod compat
+- Added Ukrainian MMH translation by Den4enko
+
+### 4.5.5 (2022-12-09)
+
+- Updated FabricSkyBoxes, FabricSkyBoxes Interop, Farsight, Iris Shaders, Language Reload, Lithium, Mod Menu, MemoryLeakFix, Zoomify
+- Enabled advanced tooltips (F3+H) by default
+  - This helps people use commands, get precise durability, learn English faster etc, so I believe it is useful for more than just "debugging"
+- Updated Fabric Loader to 0.14.11 everywhere
 
 ### 4.5.4 (2022-12-01)
 
