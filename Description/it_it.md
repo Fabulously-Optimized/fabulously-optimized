@@ -2,7 +2,7 @@
 
 Un modpack di minecraft creato per la performance e miglioramenti grafici.
 
-[![Current review](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![Rassegna attuale](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### Performance
 
