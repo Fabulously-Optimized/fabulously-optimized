@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.5",
+    "versionId": "4.6.0-beta.5-rp.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -545,6 +545,17 @@
                 "https://cdn.modrinth.com/data/w7ThoJFB/versions/p5RjeOJL/Zoomify-2.9.2.jar"
             ],
             "fileSize": 638245
+        },
+        {
+            "path": "resourcepacks/TheWildUpdate.zip",
+            "hashes": {
+                "sha1": "c7351bbe69c6c904c46082fa21c98aae65bbb296",
+                "sha512": "d607f7e94ac2f0d507cb0f9f78e4e28eeec86012e1461884940109cbdeaeab8cb32fd8028d6a8e83178722de94f512e8182153051dc50de94f9782bf52fcdfb0"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/2OpJ6qTh/versions/hCxB55Ur/TheWildUpdate.zip"
+            ],
+            "fileSize": 193923
         }
     ],
     "dependencies": {

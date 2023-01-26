@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.5-rp.1 (2023-01-26)
+
+A test release containing my resource pack Update Edition for determining how well do linked resource packs work.
+
+https://www.curseforge.com/minecraft/texture-packs/update-edition
+https://modrinth.com/resourcepack/update-edition
+
+Because this is available on both CF and MR, MMC-Export successfully detected the link and uses the Modrinth version in Packwiz.
+
 ### 4.6.0-beta.5 (2023-01-25)
 
 - Added MoreCulling - does everything Cull Less Leaves does while having more optimizations
