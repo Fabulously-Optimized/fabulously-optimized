@@ -1,4 +1,4 @@
-Fabulously Optimized includes some resource packs for a better experience. These resource packs only change very specific resources, they do not change the look of game environment overall.
+Fabulously Optimized includes some resource packs for a better experience. These resource packs only change very specific resources, and they are compatible with other resource packs.
 
 [What do they do?](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
 
