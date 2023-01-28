@@ -62,7 +62,7 @@ By using this modpack, you agree to the following:
   
   <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
   
-  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
+  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
   
   Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
   ```html
@@ -72,7 +72,7 @@ By using this modpack, you agree to the following:
   <!-- HTML (resizeable) -->
   <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
   ```
-  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
+  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
   
   Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
   ```html
