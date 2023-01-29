@@ -18,12 +18,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
   <details>
   
-    - CF <https://www.curseforge.com/minecraft/texture-packs/fast-better-grass>
-    - MR <https://modrinth.com/resourcepack/fast-better-grass>
-    - PMC <https://www.planetminecraft.com/texture-pack/fast-better-grass>
-
+    - CF https://www.curseforge.com/minecraft/texture-packs/fast-better-grass
+    - MR https://modrinth.com/resourcepack/fast-better-grass
+    - PMC https://www.planetminecraft.com/texture-pack/fast-better-grass
+  
   </details>
-
+  
 - Updated Russian in MMH by RozeFound
 - FastChest is no longer considered an Enhanced Block Entities alternative
 - Removed Farsight config
