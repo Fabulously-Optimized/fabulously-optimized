@@ -10,15 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ce734442b281fba760de6d62bdc6a0446d4b31f487b84a0818b56a7993c302ef"
-
-[[files]]
-file = "config/farsight.json"
-hash = "ba30aa56801d8fb4734ad170c1191f12ce1f1970c0b6ef9de7598e56f3aa5020"
+hash = "c80cdc11c9589dcd86b71bd0453b84a6ddd40afa539f26dd1400094b2205ec7c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "897dc8d4d0634ab93d6d213b71be7bb02a568defe19dae265e84ef85b955770c"
+hash = "bc15fbf25cd81a318cc57400c286e9056985ca244b027892131d5ca3ae2549db"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -113,10 +109,6 @@ file = "resourcepacks/Chat Reporting Helper.zip"
 hash = "116811a9848393ef84ef8f457268543d11102244383e16792918dac9ca6cf102"
 
 [[files]]
-file = "resourcepacks/Fast Better Grass.zip"
-hash = "30b71aaba5cc6f2be81e8962f54ede81fd0922bbe9343bda03faa2f9da2e6157"
-
-[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "8310ec393091be6d401492ddfe38c83ef33a232dba5b3b1bdb57562175611558"
 metafile = true
@@ -129,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/antighost.pw.toml"
 hash = "b023edfcaca9f400d9afed65ec077cc98a35943fedb4392542f87fbf8613e839"
+metafile = true
+
+[[files]]
+file = "mods/betterbeds.pw.toml"
+hash = "e32d39231226295367d30ab01e9a542b1ae3644dc2b38e05f005c37cf10d0bce"
 metafile = true
 
 [[files]]
@@ -293,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70fb928b92b2c7f8b2ba667bcbd6c0d1d68189fa146363c42633afe4b78229c0"
+hash = "39eba70e3364fbfbfed8dc04ffb4c9a8e0679a342e05916306a86ca42a416720"
 metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "2942d4cbf9a81f81caa61d22478a1d416d2a90cee9db43467a776aece85cc07b"
+hash = "494600107f9f5795094d5f41cc5fd02cd77a093a919abe1ab9953f8d5c90c6f0"
 metafile = true
 
 [[files]]
@@ -349,4 +346,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "86ec0fb654b79f16bea7a48be8e018ca8ea6968f8af78583c78cdedb5972facf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Fast_Better_Grass.pw.toml"
+hash = "16687487f47771adc2cbb021de843ea985112aa49ff8b549e56319921b03a18c"
 metafile = true
