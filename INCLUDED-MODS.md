@@ -1,6 +1,6 @@
 # Included mods
 
-Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions. You can also find the version-specific mod list by clicking on the version on CurseForge or Modrinth.
+Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods have been obsoleted or superseded by better alternatives in the newer versions - [see the changelog for full info](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). You can also find the version-specific mod list by clicking on the version on CurseForge or Modrinth.
 
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
