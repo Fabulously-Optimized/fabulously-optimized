@@ -3,6 +3,31 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.6 (2023-01-29)
+
+100k downloads on Modrinth!
+
+- Added Better Beds as a (temporary) alternative to Enhanced Block Entities
+- Updated MoreCulling, No Chat Reports
+- Fast Better Grass resource pack is now separately distributed
+  - Which means you can recommend it to friends who don't use FO yet :)
+  - Will remain bundled in FO for as long as needed though, so **you don't need to download it separately**
+  - Fixed bugs with randomized textures and dirt paths
+  - New icon
+  - Download links for those interested:
+
+  <details>
+  
+    - CF https://www.curseforge.com/minecraft/texture-packs/fast-better-grass
+    - MR https://modrinth.com/resourcepack/fast-better-grass
+    - PMC https://www.planetminecraft.com/texture-pack/fast-better-grass
+  
+  </details>
+  
+- Updated Russian in MMH by RozeFound
+- FastChest is no longer considered an Enhanced Block Entities alternative
+- Removed Farsight config
+
 ### 4.6.0-beta.5-rp.1 (2023-01-26)
 
 A test release containing my resource pack Update Edition for determining how well do linked resource packs work.
