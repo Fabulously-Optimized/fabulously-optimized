@@ -5,7 +5,7 @@
 * [triphora](https://github.com/triphora) who suggested and helped with the Modrinth format and now moderates my Discord server
 * [RozeFound](https://github.com/RozeFound) for helping with Python scripts and providing lots of constructive feedback for the pack
 * [TheMadHau5](https://github.com/themadhau5), [redbrain](https://github.com/redbrain), [Kichura](https://github.com/Kichura) for the [fancy mod table](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md) 
-* [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) for the [Packwiz mod ignoring tutorials](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update#can-i-ignore-some-of-the-mods)
+* [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) for the [Packwiz mod ignoring tutorials](https://fabulously-optimized.gitbook.io/modpack/multimc-auto-update#can-i-ignore-some-of-the-mods)
 * Other people creating pull requests for [the main project](https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors) and [the wiki](https://github.com/Fabulously-Optimized/wiki/graphs/contributors)
 * [People who have created videos about the modpack](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 * Everyone who has suggested ideas and reported bugs!

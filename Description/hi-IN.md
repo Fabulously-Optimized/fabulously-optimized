@@ -72,18 +72,18 @@ Fabulously Optimized [खुल कोड के साथ है][8] और 
 ### इस मोडपैक को उस करके, [आप हमारे निम्नलिखित अस्वीकरणो से सहमत होते हैं][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
-[2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
-[3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
+[2]: https://fabulously-optimized.gitbook.io/modpack/give-up-optifine
+[3]: https://fabulously-optimized.gitbook.io/modpack/free-cape
 [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
 [5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
-[7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
+[7]: https://fabulously-optimized.gitbook.io/modpack/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
 [10]: https://discord.gg/yxaXtaQqdB
 [11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
-[13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
+[13]: https://fabulously-optimized.gitbook.io/modpack/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
 [16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md

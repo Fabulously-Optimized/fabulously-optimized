@@ -1,5 +1,5 @@
 # Fabulously Optimized changelog
-This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
+This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/version-support).
 
 ## 1.19.3
 
@@ -390,7 +390,7 @@ A small reminder, somewhat related to the Iris bugfix:
 If you see that your resourcepack says "contains broken paths" as you try to activate it, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`. 
 That way everyone will have resource packs that work better and have less bugs!
 
-More info: https://fabulously-optimized.gitbook.io/modpack/readme/resource-pack-issues
+More info: https://fabulously-optimized.gitbook.io/modpack/resource-pack-issues
 
 - Updated CIT Resewn, Iris Shaders, YetAnotherConfigLib, Zoomify
   - CIT Resewn and Iris have bugfixes
@@ -438,7 +438,7 @@ Thank you for 600k+ downloads on CurseForge, 30k+ downloads and 200+ followers o
 
 **Major changes in 3.12.2 -> 4.2.0**
 
-- Added No Chat Reports - replaces misleading chat indicators with accurate ones, opts out from chat signing where possible. More info: https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq
+- Added No Chat Reports - replaces misleading chat indicators with accurate ones, opts out from chat signing where possible. More info: https://fabulously-optimized.gitbook.io/modpack/chat-reporting-faq
 - Added Mixin Config Helper - shows an user-readable alert when two mods conflict
 - Added MixinTrace - helps developers find the cause of crashes
 - Removed Don't Clear Chat History - had several issues, including unintended features on 1.19
@@ -554,7 +554,7 @@ FO 4.2.0 is still estimated to be released in August, we have just a few more th
 
 ### 4.1.0-alpha.1 (2022-07-26)
 
-It's time to start testing 1.19.1. Read the FAQ: https://fabulously-optimized.gitbook.io/modpack/readme/1-19-1-faq
+It's time to start testing 1.19.1. Read the FAQ: https://fabulously-optimized.gitbook.io/modpack/1-19-1-faq
 Also, we've reached 500k downloads on CurseForge and almost 20k downloads on Modrinth! Thank you again for your support!
 
 - Updated Debugify, Fabric API, MemoryLeakFix, Mod Menu, More Chat History, MoreCulling, No Chat Reports

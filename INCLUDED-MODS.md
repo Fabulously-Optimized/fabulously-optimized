@@ -2,7 +2,7 @@
 
 Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions. You can also find the version-specific mod list by clicking on the version on CurseForge or Modrinth.
 
-The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
+The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/changed-options).
 
 ## Smooth
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | Description |
@@ -40,7 +40,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's custom entity models - [(partial support at this time)](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) |
 | [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | &nbsp;&nbsp;✔️ |  |  |  | Lets you change fog settings (distance, density, dimensions, etc.) |
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's random and emissive mobs support |
-| [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's and other mods' capes, [(instructions for a free cape)](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape) |
+| [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's and other mods' capes, [(instructions for a free cape)](https://fabulously-optimized.gitbook.io/modpack/free-cape) |
 | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes) | [AMereBagatelle](https://www.curseforge.com/members/amerebagatelle) |  |  |  | &nbsp;&nbsp;✔️ | Adds custom skybox support |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Lets you take a high-res screenshot with F9 |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | [someaddon](https://www.curseforge.com/members/someaddon) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️¹ | Keeps far loaded chunks visible in servers, increasing visible render distance |
@@ -65,7 +65,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
 | [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) | [anar4732](https://www.curseforge.com/members/anar4732) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Keeps typed message history across worlds |
-| [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes [a set of bugs](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
+| [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes [a set of bugs](https://fabulously-optimized.gitbook.io/modpack/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
 | [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://www.curseforge.com/members/flashyreese) |  |  |  | &nbsp;&nbsp;✔️ | Adds OptiFine resourcepack support to FabricSkyboxes |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | [altrisi](https://www.curseforge.com/members/altrisi) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Fixes the game freezing when you open resource pack folders, a screenshot etc. |
 | [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) | [ImUrX](https://www.curseforge.com/members/imurx/projects) |  | &nbsp;&nbsp;✔️ |  |  | Adds the audio output option like 1.18 |
@@ -100,7 +100,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 
 ## Alternative mods
 
-Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with a red asterisk `*`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
+Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with a red asterisk `*`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/disabling-mods) existing mods.
 
 | Name | Author | Alternative for | Description |
 |---|---|---|---|
