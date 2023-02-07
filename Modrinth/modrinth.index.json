@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.6",
+    "versionId": "4.6.0-beta.7",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -165,27 +165,26 @@
             "fileSize": 392427
         },
         {
-            "path": "mods/fabric-api-0.73.0+1.19.3.jar",
+            "path": "mods/fabric-api-0.73.2+1.19.3.jar",
             "hashes": {
-                "sha1": "f3635ab8d209b2ff5853c3b860d2f560564a2154",
-                "sha512": "cb197c9d2615cea21228e41d42a02ffe43a00b1b9042e837e9d3c8b18883dd64d0280f24c3dc512ad8925eda1f8d44fb98bd562d5fd4d5bb812222283ee7dd0c"
+                "sha1": "91bf7a32f56a74f188804bfef7e28663fecc6c8a",
+                "sha512": "5be0518a8b08fbb45c0fdd283be12baf1f034a652a0e17052a57f46adf123db72181494df4b03d544bafef17f0f0f2fbf846ba70edfcd26c6f328bbeadb90379"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/PbVeub96/fabric-api-0.73.0%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/WJ830YlF/fabric-api-0.73.2%2B1.19.3.jar"
             ],
-            "fileSize": 1901792
+            "fileSize": 1902189
         },
         {
-            "path": "mods/fabric-language-kotlin-1.9.0+kotlin.1.8.0.jar",
+            "path": "mods/fabric-language-kotlin-1.9.1+kotlin.1.8.10.jar",
             "hashes": {
-                "sha1": "da5adc0695672002bf5d95d1da29bbd9e2c5dfb7",
-                "sha512": "44b2938cd01d20adc5c16c56a7a766c591c633dc3bc97e15e6cd5aa621095158b4a95fa5d02c84740684373c8669c7dc485ac2eddc72c9cf927d4bece8e43e3a"
+                "sha1": "12f265ea91e73ac2c74c6f66d446671122bbb1c8",
+                "sha512": "2c95e763bda39d471b5e252ba00b68b296d0bdb4c78f666886f6ebae99d2e7583b8a664fa35f2248dc844db66c7b77d2c3fde1d41801d070fc8083ddda886c0a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.0%2Bkotlin.1.8.0/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/lgFl3olb/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar"
             ],
-            "fileSize": 6484318
+            "fileSize": 6484582
         },
         {
             "path": "mods/fabricskyboxes-0.6.2+mc1.19.3.jar",
@@ -254,28 +253,26 @@
             "fileSize": 41699
         },
         {
-            "path": "mods/indium-1.0.12+mc1.19.3.jar",
+            "path": "mods/indium-1.0.13+mc1.19.3.jar",
             "hashes": {
-                "sha1": "3973971e4785428f91799162b6d208c6409fb5cf",
-                "sha512": "e899fc790cc3687ecb1892fd309506468c952d703bab8b6c291309789937676de04f5387c776e55e8cdc0d366efbd8b42a3d379b4fbe857626b1703d131ba520"
+                "sha1": "1879fb26de4dec5048ef4abcde77ae351d06dc65",
+                "sha512": "177965ffa774d4e109764c6772668e36fe32f4d8bf89e552f6d232c7fb439633945592cba9d3fe898445d12d6db0fd4b111e6c987e16c2e8541cf561a98a8816"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/85NvAOjQ/indium-1.0.12%2Bmc1.19.3.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.12%2Bmc1.19.3/indium-1.0.12%2Bmc1.19.3.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/tMamyl08/indium-1.0.13%2Bmc1.19.3.jar"
             ],
-            "fileSize": 118628
+            "fileSize": 113706
         },
         {
-            "path": "mods/iris-mc1.19.3-1.5.1.jar",
+            "path": "mods/iris-mc1.19.3-1.5.2.jar",
             "hashes": {
-                "sha1": "bfd36e8fb2577990e23612ed73d27b6ae2fffca2",
-                "sha512": "5f6e7e493841eac375729caa00de338aeb8ef06f118aed77edf4cdd1a0c85d9eb755acd1a192cbfd413dc9688cfd5fa6742b7a5f66def7deceba755b872311b5"
+                "sha1": "b6404f241552c4ff296ee867f95b4229495ca35c",
+                "sha512": "240765b6911e5295e4a8a772d29767a3b2292614516fb3c9c0b981aec568c3d9fbd462dfbc992acd13cff7bb177bc5418843de3d2c783b63f3d37292a6066037"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/Sg0JZGHa/iris-mc1.19.3-1.5.1.jar",
-                "https://github.com/IrisShaders/Iris/releases/download/1.5.1%2B1.19.3/iris-mc1.19.3-1.5.1.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/ExtC2pRY/iris-mc1.19.3-1.5.2.jar"
             ],
-            "fileSize": 2265058
+            "fileSize": 2290376
         },
         {
             "path": "mods/lambdynamiclights-2.2.0+1.19.3.jar",
@@ -489,28 +486,26 @@
             "fileSize": 49984
         },
         {
-            "path": "mods/sodium-extra-0.4.16+mc1.19.3-build.91.jar",
+            "path": "mods/sodium-extra-0.4.17+mc1.19.3-build.95.jar",
             "hashes": {
-                "sha1": "64aef534ebe60ec0b81fffa83053c4db55c4c5c5",
-                "sha512": "a23e2983df063407043661227db0abeb3a74b31c90dfbc0d7dc18948d569e8de285d5c874eaeb2298bd2df74121204bfa1f461a8a17d6693832445934315d3a5"
+                "sha1": "9951496edb671104806a986c80fb55891829eb39",
+                "sha512": "38f747fd785c2cbb3c5a783ebdce27950f7e552c9e03beb6d27a9551cedf8a69a0e9c7677c9051cf946e3bffdcc6664322e24514f4397b06acec7b77d2e7ac31"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/8DeIhGTv/sodium-extra-0.4.16%2Bmc1.19.3-build.91.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.16/sodium-extra-0.4.16%2Bmc1.19.3-build.91.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/wA35IJw8/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar"
             ],
-            "fileSize": 264066
+            "fileSize": 264450
         },
         {
-            "path": "mods/sodium-fabric-mc1.19.3-0.4.8+build.22.jar",
+            "path": "mods/sodium-fabric-mc1.19.3-0.4.9+build.23.jar",
             "hashes": {
-                "sha1": "aea08dfce8efb8589b6983146d64544119ba3435",
-                "sha512": "517ab5863bb20c70581683a3e1e408a5d80cd742fcaeabe40c651e4d7567c393fd1a06de9e3250f19e6745201b734414e974e173da719fad2eb3fbc540991fb0"
+                "sha1": "14abd0a08804dc67ec6bc8a83d5062f806db6fc9",
+                "sha512": "f2d75f2ca519e1949cdd6e95cb855895c554f085796dca616680f3f0ea74f9dedb9114264b2cf867f4904640548cb41626e8059b0008ea39cf967feb59876316"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar",
-                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.3-0.4.8/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar"
+                "https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar"
             ],
-            "fileSize": 715490
+            "fileSize": 707249
         },
         {
             "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
@@ -571,6 +566,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.3",
-        "fabric-loader": "0.14.13"
+        "fabric-loader": "0.14.14"
     }
 }
