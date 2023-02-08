@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.7",
+    "versionId": "4.6.0-beta.8",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -83,17 +83,6 @@
                 "https://github.com/CaelTheColher/Capes/releases/download/1.5.1%2B1.19.3/Capes-1.5.1%2B1.19.3.jar"
             ],
             "fileSize": 85768
-        },
-        {
-            "path": "mods/cem-0.7.1.jar",
-            "hashes": {
-                "sha1": "c99165b56680c6f99b6bef5989070bb6e817adce",
-                "sha512": "ec11fdcd8f3bea99dfafd8f23389bb8107e2f84588f00284f2199495194b810e6c0b1beeaa2ac0cd0e9dfb812fff26a5cf04b7635be7ce34d69af6244411190e"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/YOQCucah/versions/BA6hkd1D/cem-0.7.1.jar"
-            ],
-            "fileSize": 1075263
         },
         {
             "path": "mods/CITResewn-1.1.3+1.19.3.jar",
@@ -182,7 +171,8 @@
                 "sha512": "2c95e763bda39d471b5e252ba00b68b296d0bdb4c78f666886f6ebae99d2e7583b8a664fa35f2248dc844db66c7b77d2c3fde1d41801d070fc8083ddda886c0a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/lgFl3olb/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/lgFl3olb/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.1%2Bkotlin.1.8.10/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar"
             ],
             "fileSize": 6484582
         },
@@ -259,7 +249,8 @@
                 "sha512": "177965ffa774d4e109764c6772668e36fe32f4d8bf89e552f6d232c7fb439633945592cba9d3fe898445d12d6db0fd4b111e6c987e16c2e8541cf561a98a8816"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/tMamyl08/indium-1.0.13%2Bmc1.19.3.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/tMamyl08/indium-1.0.13%2Bmc1.19.3.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.13%2Bmc1.19.3/indium-1.0.13%2Bmc1.19.3.jar"
             ],
             "fileSize": 113706
         },
@@ -270,7 +261,8 @@
                 "sha512": "240765b6911e5295e4a8a772d29767a3b2292614516fb3c9c0b981aec568c3d9fbd462dfbc992acd13cff7bb177bc5418843de3d2c783b63f3d37292a6066037"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/ExtC2pRY/iris-mc1.19.3-1.5.2.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/ExtC2pRY/iris-mc1.19.3-1.5.2.jar",
+                "https://github.com/IrisShaders/Iris/releases/download/1.5.2%2B1.19.3/iris-mc1.19.3-1.5.2.jar"
             ],
             "fileSize": 2290376
         },
@@ -492,7 +484,8 @@
                 "sha512": "38f747fd785c2cbb3c5a783ebdce27950f7e552c9e03beb6d27a9551cedf8a69a0e9c7677c9051cf946e3bffdcc6664322e24514f4397b06acec7b77d2e7ac31"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/wA35IJw8/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/wA35IJw8/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar",
+                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.17/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar"
             ],
             "fileSize": 264450
         },
@@ -503,7 +496,8 @@
                 "sha512": "f2d75f2ca519e1949cdd6e95cb855895c554f085796dca616680f3f0ea74f9dedb9114264b2cf867f4904640548cb41626e8059b0008ea39cf967feb59876316"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar"
+                "https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar",
+                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.3-0.4.9/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar"
             ],
             "fileSize": 707249
         },
