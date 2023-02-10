@@ -3,6 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.8 (2023-02-08)
+
+- (Temporarily) removed Custom Entity Models (CEM)
+  - Apparently it is not compatible with the new Sodium yet, so mobs turned invisible when a model-changing resource pack was active
+
+### 4.6.0-beta.7 (2023-02-07)
+
+- Updated Fabric API, Fabric Language Kotlin, Indium, Iris Shaders, Sodium, Sodium Extra
+  - Sodium and Iris improved performance, others received bugfixes
+- Updated Polish, Korean and Ukrainian MMH by Radplay, myself, Den4enko
+- Translated CRH to Korean by AlphaKR93
+- Unified spacing in MMH and CRH language files on the repo (in the resource pack they are minified)
+- Updated and enforced Fabric Loader 0.14.14
+
 ### 4.6.0-beta.6 (2023-01-29)
 
 100k downloads on Modrinth!
