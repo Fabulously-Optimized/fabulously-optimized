@@ -40,7 +40,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 
 > **K**: Kuidas paigaldada/uuendada/mode lisada/midagi muud?
 > 
-> **V**: [Vastused on meie vikis.](https://fabulously-optimized.gitbook.io/modpack/et-ee)
+> **V**: [Vastused on meie vikis.][11]
 
 
 > **K**: Midagi läks katki/Peaksid midagi lisama!
@@ -82,6 +82,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [10]: https://discord.gg/yxaXtaQqdB
 [10]: https://discord.gg/yxaXtaQqdB
+[11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
