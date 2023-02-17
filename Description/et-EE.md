@@ -6,7 +6,7 @@ Fabricul põhinev Minecrafti modipakk, mis keskendub jõudluse ning graafika tä
 
 ### Jõudlus
 
-Fabulously Optimized on üldjuhul OptiFine'ist kiirem tänu [modernstele jõudlusmodidele][1] nagu Sodium, Lithium ja teised!
+Fabulously Optimized on üldjuhul OptiFine'ist kiirem tänu [kaasaegsetele jõudlusmodidele][1] nagu Sodium, Lithium ja teised!
 
 ### OptiFine'i-võrdsus
 
