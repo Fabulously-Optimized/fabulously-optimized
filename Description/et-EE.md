@@ -1,5 +1,4 @@
 # Eesti keel
-<!-- Use your language name, in your language as the title. Append the country in parentheses, if your language has regional variants. -->
 
 Fabricul põhinev Minecrafti modipakk, mis keskendub jõudluse ning graafika täiendustele.
 
@@ -19,7 +18,9 @@ Fabulously Optimized [sisaldab paar pisiparandust][4], mis ei kaota puhta Minecr
 
 ### Töötab kõikjal
 
-Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.<!-- If Mod Menu Helper is translated to your language, end the sentence like "\[translated to many languages\]\[7\], including <your language>." -->### Kaasaegne
+Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
+
+### Kaasaegne
 
 Fabulously Optimized [saab kiireid uuendusi][5] ning on üks esimestest modipakkidest, mis täieneb uusimatele Minecrafti versioonidele.
 
