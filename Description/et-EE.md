@@ -18,7 +18,7 @@ Fabulously Optimized [sisaldab paar pisiparandust][4], mis ei kaota puhta Minecr
 
 ### Töötab kõikjal
 
-Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
+Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avaldatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
 
 ### Kaasaegne
 
@@ -70,7 +70,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > **V**: [Tule ja vestle meiega Discordis!][10]
 
 ### Seda modipakki kasutades [nõustud järgnevate lahtiütlustega][15].
-
+<!-- [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257 -->
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
 [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
