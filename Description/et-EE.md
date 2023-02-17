@@ -18,7 +18,7 @@ Fabulously Optimized [sisaldab paar pisiparandust][4], mis ei kaota puhta Minecr
 
 ### Töötab kõikjal
 
-Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avaldatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
+Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
 
 ### Kaasaegne
 
@@ -30,7 +30,7 @@ Võrreldes Forge'iga on Fabric kerge, uueneb ja laadib kiiresti, sealjuures omad
 
 ### Avatud arendus
 
-Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Me tervitame kasutajate ettepanekuid ja teeme koostööd modiarendajatega, et luua kõigile parem kasutajakogemus.
+Fabulously Optimized [on avatud lähtekoodiga][8] ning seda on ka enamus selle modidest. Me tervitame kasutajate ettepanekuid ja teeme koostööd modiarendajatega, et luua parem kasutajakogemus kõigile.
 
 ### Abivalmis kogukond
 
@@ -60,7 +60,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 
 > **K**: Kas ma vajan seda modipakki ka serveris?
 > 
-> **V**: Ei, see pakk töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13]
+> **V**: No, the pack works on all servers that allow vanilla clients. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
