@@ -40,7 +40,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 
 > **K**: Kuidas paigaldada/uuendada/mode lisada/midagi muud?
 > 
-> **V**: [Vastused on meie vikis.](https://fabulously-optimized.gitbook.io/modpack/et-ee)
+> **V**: [Vastused on meie vikis.][11]
 
 
 > **K**: Midagi läks katki/Peaksid midagi lisama!
