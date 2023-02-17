@@ -60,7 +60,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 
 > **K**: Kas ma vajan seda modipakki ka serveris?
 > 
-> **V**: No, the pack works on all servers that allow vanilla clients. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13]
+> **V**: Ei, see pakk töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
@@ -70,7 +70,7 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > **V**: [Tule ja vestle meiega Discordis!][10]
 
 ### Seda modipakki kasutades [nõustud järgnevate lahtiütlustega][15].
-<!-- [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257 -->
+
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
 [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
