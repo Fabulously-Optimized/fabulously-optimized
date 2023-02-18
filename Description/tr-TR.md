@@ -1,4 +1,4 @@
-# Türkçe
+# Türkçe (TR)
 
 Performans ve grafik iyileştirmelerine odaklanan Minecraft için Fabric tabanlı bir mod paketidir.
 
@@ -48,7 +48,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 > **C**: [GitHub'ımıza gönderin.][8]
 
 
-> **S**: İçinde hangi modlar var?
+> **S**: İçinde hangi modlar var? 
 > 
 > **C**: Herhangi bir sürüme tıklayın ve aşağı kaydırın [veya karşılaştırma tablosuna bakın][12].
 
@@ -60,7 +60,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 
 > **S**: Sunucuda mod paketine ihtiyacım var mı?
 > 
-> **C**: Hayır, bu vanilya istemcilerine izin veren tüm sunucularda çalışır. [Ayrıntılı cevap ve sunucu ipuçları burada.][13]
+> **C**: Hayır, bu vanilya istemcilerine izin veren tüm sunucularda çalışır. [Ayrıntılı cevap ve sunucu ipuçları burada.][13] 
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Bir hostinge ihtiyacınız varsa, buraya tıklayın - ilk ay için %25 indirim!][14]
 
@@ -79,8 +79,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[10]: https://discord.gg/yxaXtaQqdB
+[9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
 [10]: https://discord.gg/yxaXtaQqdB
 [11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
