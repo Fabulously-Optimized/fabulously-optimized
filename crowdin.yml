@@ -3,6 +3,7 @@ files:
     ignore:
       - README.md
     translation: /Description/%locale%.md
+    export_only_approved: true
   - source: Mod Menu Helper/assets/fo/lang/en_us.json
     translation: /%original_path%/%locale_with_underscore%.json
     export_only_approved: true
