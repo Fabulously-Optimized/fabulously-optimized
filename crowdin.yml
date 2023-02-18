@@ -5,5 +5,7 @@ files:
     translation: /Description/%locale%.md
   - source: Mod Menu Helper/assets/fo/lang/en_us.json
     translation: /%original_path%/%locale_with_underscore%.json
+    export_only_approved: true
   - source: Chat Reporting Helper/assets/fo/lang/en_us.json
     translation: /%original_path%/%locale_with_underscore%.json
+    export_only_approved: true
