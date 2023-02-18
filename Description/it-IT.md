@@ -1,4 +1,4 @@
-# Italiano
+# Italiano (It)
 
 Un modpack di minecraft creato per la performance e miglioramenti grafici.
 
@@ -79,8 +79,7 @@ Siamo una community crescente di membri che vogliono discutere riguardo il modpa
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[10]: https://discord.gg/yxaXtaQqdB
+[9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
 [10]: https://discord.gg/yxaXtaQqdB
 [11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
