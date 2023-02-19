@@ -1,8 +1,6 @@
-# Ελληνικά (Ελλάδας)
+# Ελληνικά
 
-Ένα πακέτο τροποποιήσεων βασισμένο στο Fabric, το οποίο στοχεύει σε βελτιώσεις απόδοσης και γραφικών.
-
-Αναθεώριση του πακέτου (στα Αγγλικά):
+Ένα πακέτο τροποποιήσεων βασισμένο στο Fabric, το οποίο στοχεύει σε βελτιώσεις απόδοσης και γραφικών. Αναθεώριση του πακέτου (στα Αγγλικά):
 
 [![Παρούσα αναθεώριση](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
@@ -36,7 +34,7 @@
 
 ### Υποστηρικτική κοινώτητα
 
-Έχουμε μία αυξανόμενη κοινώτητα αποτελούμενη από φιλικά μέλη, στα οποία αρέσει να συζητούν για το πακέτο  και να βοηθούν ο ένας τον άλλο. [Γίνε και 'συ ένας από 'μας!][10]
+Το Fabulously Optimized [είναι ανοιχτού κώδικα][8], όπως και οι περισσότερες τροποποιήσεις που διαθέτει. Εξελίσσεται με ιδέες της κοινώτητας και συνεργάζεται με τους δημιουργούς των τροποποιήσεων ώστε να δημιουργήσει μια καλύτερη εμπειρία για όλους.
 
 ## Συχνές Ερωτήσεις
 
@@ -50,14 +48,19 @@
 > **Απ.**: [Ανέβασέ το στο GitHub μας.][8]
 
 
-> **Ερ.**: Τι τροποποιήσεις περιλαμβάνονται; 
+> **Ερ.**: Τι τροποποιήσεις περιλαμβάνονται;
 > 
 > **Απ.**: Κάνε κλικ στην οποιαδήποτε έκδοση και περιηγήσου προς τα κάτω [ή δες τον κατάλογο σύγκρισης][12].
 
 
 > **Ερ.**: Χρειάζεται το πακέτο να είναι και στον διακομιστή;
 > 
-> **Απ.**: Όχι, το πακέτο λειτουργεί σε όλους τους διακομιστές οι οποίοι επιτρέπουν vanilla πελάτες. [Λεπτομερής απάντηση και συμβουλές για διακομιστές βρίσκονται εδώ.][13] 
+> **Απ.**: Όχι, το πακέτο λειτουργεί σε όλους τους διακομιστές οι οποίοι επιτρέπουν vanilla πελάτες. [Λεπτομερής απάντηση και συμβουλές για διακομιστές βρίσκονται εδώ.][13]
+
+
+> **Ερ.**: Έχω κι άλλες ερωτήσεις!
+> 
+> **Απ.**: [Έλα και συνομίλησε μαζί μας στο Discord!][10]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Αν χρειάζεσαι έναν host, πάτησε εδώ - μείον 25% για τον πρώτο μήνα!][14]
 
@@ -76,11 +79,10 @@
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
+[8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [10]: https://discord.gg/yxaXtaQqdB
 [11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
-[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
