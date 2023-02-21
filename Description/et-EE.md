@@ -1,12 +1,12 @@
 # Eesti keel
 
-Fabricul põhinev Minecrafti modipakk, mis keskendub jõudluse ning graafika täiendustele. 
+Fabricul põhinev Minecrafti modipakk, mis keskendub jõudluse ning graafika täiendustele.
 
 [![Arvustus/juhend](https://img.youtube.com/vi/z0jKe8XgdP0/hqdefault.jpg)](https://www.youtube.com/watch?v=z0jKe8XgdP0)
 
 ### Jõudlus
 
-Fabulously Optimized on üldjuhul OptiFine'ist kiirem tänu [modernstele jõudlusmodidele][1] nagu Sodium, Lithium ja teised!
+Fabulously Optimized on üldjuhul OptiFine'ist kiirem tänu [kaasaegsetele jõudlusmodidele][1] nagu Sodium, Lithium ja teised!
 
 ### OptiFine'i-võrdsus
 
@@ -48,19 +48,19 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 > **V**: [Postita see meie GitHubi.][8]
 
 
-> **K**: Mis modid sellel on? 
+> **K**: Mis modid sellel on?
 > 
 > **V**: Klõpsa mistahes versiooni ja keri alla [või vaata võrdlustabelit][12].
 
 
 > **K**: Mulle meeldib see modipakk. Kuidas saan kaasa aidata?
->
+> 
 > **V**: [Kaasa aitamise viisid on kirjeldatud siin.][16] Suur tänu!
 
 
 > **K**: Kas ma vajan seda modipakki ka serveris?
 > 
-> **V**: Ei, see pakk töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13] 
+> **V**: Ei, see pakk töötab igas serveris, mis lubavad muutmata mängukliente. [Täpsem vastus ja serveri seadistusnõuanded leiad siit.][13]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Kui vajad hosti, vajuta siia - esimese kuu saad 25% soodsamalt!][14]
 
@@ -79,7 +79,8 @@ Meil on kasvav kogukond sõbralikest liikmetest, kes soovivad modipakki arutada 
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
+[8]: https://github.com/Fabulously-Optimized/fabulously-optimized
+[10]: https://discord.gg/yxaXtaQqdB
 [10]: https://discord.gg/yxaXtaQqdB
 [11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
