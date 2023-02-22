@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.9 (2023-02-12)
+
+- Re-added Custom Entity Models
+- Updated Indium, MoreCulling
+- Translated MMH to Italian by glaav
+
+### 4.6.0-beta.8 (2023-02-08)
+
+- (Temporarily) removed Custom Entity Models (CEM)
+  - Apparently it is not compatible with the new Sodium yet, so mobs turned invisible when a model-changing resource pack was active
+
 ### 4.6.0-beta.7 (2023-02-07)
 
 - Updated Fabric API, Fabric Language Kotlin, Indium, Iris Shaders, Sodium, Sodium Extra

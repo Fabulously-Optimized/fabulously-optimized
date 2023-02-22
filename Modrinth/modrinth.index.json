@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.7",
+    "versionId": "4.6.0-beta.9",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -85,15 +85,15 @@
             "fileSize": 85768
         },
         {
-            "path": "mods/cem-0.7.1.jar",
+            "path": "mods/cem-0.7.2.jar",
             "hashes": {
-                "sha1": "c99165b56680c6f99b6bef5989070bb6e817adce",
-                "sha512": "ec11fdcd8f3bea99dfafd8f23389bb8107e2f84588f00284f2199495194b810e6c0b1beeaa2ac0cd0e9dfb812fff26a5cf04b7635be7ce34d69af6244411190e"
+                "sha1": "7ae726e10febcd22c8ec4b8bc49bca3f9239d6aa",
+                "sha512": "e1cf538d08acd58e98c975a572adf22afeab6461e30e16010d88350eac9062ffc018c8f14e1c7f84fceeac1dc3bd4656bc4299c45fe619e688c68627dc89052a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YOQCucah/versions/BA6hkd1D/cem-0.7.1.jar"
+                "https://cdn.modrinth.com/data/YOQCucah/versions/pl1Xneet/cem-0.7.2.jar"
             ],
-            "fileSize": 1075263
+            "fileSize": 1075702
         },
         {
             "path": "mods/CITResewn-1.1.3+1.19.3.jar",
@@ -253,13 +253,13 @@
             "fileSize": 41699
         },
         {
-            "path": "mods/indium-1.0.13+mc1.19.3.jar",
+            "path": "mods/indium-1.0.14+mc1.19.3.jar",
             "hashes": {
-                "sha1": "1879fb26de4dec5048ef4abcde77ae351d06dc65",
-                "sha512": "177965ffa774d4e109764c6772668e36fe32f4d8bf89e552f6d232c7fb439633945592cba9d3fe898445d12d6db0fd4b111e6c987e16c2e8541cf561a98a8816"
+                "sha1": "6dbdca98673403365e87a940f9e7a2a631fa7c30",
+                "sha512": "3117387a555bd196138ca07b47922ac4fb4aac4e7d8aca86b003859485900f7d215ea2ca050febe1e05fab3ad7784a680fb5f67aa7e1a3330b80cf36db50af91"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/tMamyl08/indium-1.0.13%2Bmc1.19.3.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/U94NcDpV/indium-1.0.14%2Bmc1.19.3.jar"
             ],
             "fileSize": 113706
         },
@@ -416,16 +416,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/moreculling-1.19.3-0.15.0.jar",
+            "path": "mods/moreculling-1.19.3-0.16.0.jar",
             "hashes": {
-                "sha1": "62b30956a2794149e9d4050ce064f2de1d0a1ea4",
-                "sha512": "516e0cebff2fd4bf7cd361a652ebfdda6cc8373afc6e9992ebcbfece386fc16079426938b2f425e6caeffff9af3b3c75344481d495b20b348e776d6c9de9e195"
+                "sha1": "79840c76a3d3b5ecccde00462e3a129316e38c02",
+                "sha512": "9ff3352a7a70c8730800aaf7b5b5612db3fb4c1f177322f6d50ecc522fd385437dae8589a01950fd23bd85cbc0c3b19d6e93ad9aaaec471523a37cc9299ec632"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/UNJJKrgF/moreculling-1.19.3-0.15.0.jar",
-                "https://github.com/fxmorin/MoreCulling/releases/download/v0.15.0-1.19.3/moreculling-1.19.3-0.15.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/ENUmMM2R/moreculling-1.19.3-0.16.0.jar"
             ],
-            "fileSize": 1229689
+            "fileSize": 1233391
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.19.3-v2.0.0.jar",

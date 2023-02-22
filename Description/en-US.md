@@ -1,5 +1,4 @@
-# English (US)
-<!-- Use your language name, in your language as the title. Append the country in parentheses, if your language has regional variants. -->
+# English
 
 A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
@@ -20,7 +19,6 @@ Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanil
 ### Works everywhere
 
 Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 5 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
-<!-- If Mod Menu Helper is translated to your language, end the sentence like "[translated to many languages][7], including <your language>." -->
 
 ### Up to date
 
