@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.9",
+    "versionId": "4.6.0-beta.10",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -73,16 +73,15 @@
             "fileSize": 110949
         },
         {
-            "path": "mods/Capes-1.5.1+1.19.3.jar",
+            "path": "mods/capes-1.5.2+1.19.3-fabric.jar",
             "hashes": {
-                "sha1": "bda3679007a842670200232d0b7c25762f339e2d",
-                "sha512": "46fd10f0d4e5a00abaf2907a19fe6ffb7bf995893bb362f941b0c627ce0123e6f270c4dda4e7670dd9b65764544acf6ccd82299ccc31a33b8b916a410fa182f5"
+                "sha1": "40d00563fd7ae4ce59b522834c9fba0dcaaa8ce5",
+                "sha512": "78fbe86b9e74d4a5f8d5288b8e52d57dcf6461f81e8baa3c298ac7f29f9fae75ebbd706106012fee7d3ce53fb2a62beef78d3f3353aa11bd4b2d5e79f9aef618"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/dSAeA4LW/Capes-1.5.1%2B1.19.3.jar",
-                "https://github.com/CaelTheColher/Capes/releases/download/1.5.1%2B1.19.3/Capes-1.5.1%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/kXfWiNN7/capes-1.5.2%2B1.19.3-fabric.jar"
             ],
-            "fileSize": 85768
+            "fileSize": 128677
         },
         {
             "path": "mods/cem-0.7.2.jar",
@@ -142,38 +141,37 @@
             "fileSize": 89446
         },
         {
-            "path": "mods/entityculling-fabric-1.5.2-mc1.19.3.jar",
+            "path": "mods/entityculling-fabric-1.6.1-mc1.19.3.jar",
             "hashes": {
-                "sha1": "d7157000d649d721f6bac30aa81876ebc56a26c0",
-                "sha512": "29a9d611c194e7b26db6a139e0c83ceb1fd0fcda1ebc871435c3eb92e2288b7431043356e2c6c7467856ae637e50b63392808f9fe649dc52911637ade65d7b31"
+                "sha1": "9d289e59681072d0caeae8fefbd164872a82d856",
+                "sha512": "ae2cc8ea72baf4c3836871c9024796e09469d0a74454a55841331ef3224ed7f63af127e510884ccd5cdcf70bae1d06a4a79ab88e2c558e8489aa827a9a538728"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/bRBO9ZzX/entityculling-fabric-1.5.2-mc1.19.3.jar",
-                "https://github.com/tr7zw/EntityCulling/releases/download/1.5.2-1.19.3/entityculling-fabric-1.5.2-mc1.19.3.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/AdkBUIRs/entityculling-fabric-1.6.1-mc1.19.3.jar"
             ],
-            "fileSize": 76646
+            "fileSize": 56415
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.19.3-4.3.1.jar",
+            "path": "mods/entity_texture_features_fabric_1.19.3-4.3.2.jar",
             "hashes": {
-                "sha1": "37a90e140e52355dde6aa6729ba7ff1298d337ce",
-                "sha512": "fe47272914e0c53c55bc4dc34dea238c31a5d24763b252e3d2946f0b7e2677d3d78103d51dac98cb3d6e8d5460ec17fce4dab23e7032bf174327180346c4df7c"
+                "sha1": "d530feb8c907a560d167699d1d89ebb254f5abdc",
+                "sha512": "6900d8a79da1a22dd6186b48418e6b4d493d8446a59614f6259ca2b6b93fee97a68a60f9735bc30cc4e5e33a2ad5de75aa007f4050ed9b73474bcc637810a87f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/ukr1WwVj/entity_texture_features_fabric_1.19.3-4.3.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/wxqoWaxp/entity_texture_features_fabric_1.19.3-4.3.2.jar"
             ],
-            "fileSize": 392427
+            "fileSize": 413022
         },
         {
-            "path": "mods/fabric-api-0.73.2+1.19.3.jar",
+            "path": "mods/fabric-api-0.74.0+1.19.3.jar",
             "hashes": {
-                "sha1": "91bf7a32f56a74f188804bfef7e28663fecc6c8a",
-                "sha512": "5be0518a8b08fbb45c0fdd283be12baf1f034a652a0e17052a57f46adf123db72181494df4b03d544bafef17f0f0f2fbf846ba70edfcd26c6f328bbeadb90379"
+                "sha1": "119d1710004834d83f34d2b8519aebedba981979",
+                "sha512": "e19ceb464cb34e5f48a0f684a4d0ac3efe1c2a7309431f9c0f993f7d939c4c6e93c384e0ef841184605daa5093dc5dbcf4c63e87a77e58d8ef568afce0587adb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/WJ830YlF/fabric-api-0.73.2%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/1ld37x4U/fabric-api-0.74.0%2B1.19.3.jar"
             ],
-            "fileSize": 1902189
+            "fileSize": 1909108
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.1+kotlin.1.8.10.jar",
@@ -393,16 +391,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-5.0.2.jar",
+            "path": "mods/modmenu-5.1.0-beta.4.jar",
             "hashes": {
-                "sha1": "bcc0199aeaa40fabeda867d629a9fca7300056ad",
-                "sha512": "bcfee6b705a2a02932af73781133a6180560f0f2c291787029e99ff9d71fb7c3e0149d0f0298c9b91c1f49578e85f166db673e562c772225a44d1d24e6fc4685"
+                "sha1": "d259056e4c63fd3b60e9a006bc2b7e6e7f784114",
+                "sha512": "daff931b0d444112dff2ada99d79a6e35c3a0d961159742617ff99cc3d045734be7ea08cb02a2285f25ea135b04f455eba3c0b19d2c89e28699c93b648237673"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/eIrlBn1Z/modmenu-5.0.2.jar",
-                "https://github.com/TerraformersMC/ModMenu/releases/download/v5.0.2/modmenu-5.0.2.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/RtaGQNyd/modmenu-5.1.0-beta.4.jar"
             ],
-            "fileSize": 637090
+            "fileSize": 680580
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -565,6 +562,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.3",
-        "fabric-loader": "0.14.14"
+        "fabric-loader": "0.14.15"
     }
 }

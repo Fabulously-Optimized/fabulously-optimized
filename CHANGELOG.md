@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.10 (2023-02-23)
+
+- Updated Fabric Capes, Entity Culling, Entity Texture Features, Fabric API, Mod Menu
+- Disabled Mod Menu's mod update checker and enforced config
+- Updated CRH translations in English, Estonian, Korean
+- Updated and enforced Fabric Loader 0.14.15
+
 ### 4.6.0-beta.9 (2023-02-12)
 
 - Re-added Custom Entity Models
