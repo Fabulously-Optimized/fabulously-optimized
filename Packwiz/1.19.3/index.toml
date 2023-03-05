@@ -10,15 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "218249dc5a44fbb9e36d790f2b43fb4d66dc5355c86d32c538a31faf27a188c2"
+hash = "3a75468b068a00468890eefd5a98adb4e90be340cc78cf4fa61f07e6d37286a7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4432c2fce4ab1d5a79075f718302d1c58ac631f248d6eea4be621b36ae313271"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "245846dc2c37fcebaccc08299c0b345552c2f031b5603b68b0bc3a1b869224c0"
+hash = "2dc59edb73e0f4ba3a149f711660d567b4b5a69ac28aef76d8b89c250d2931ce"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -45,6 +41,10 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
 
 [[files]]
+file = "config/yosbr/config/fabric_loader_dependencies.json"
+hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
+
+[[files]]
 file = "config/yosbr/config/fastquit-config.txt"
 hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
 
@@ -55,10 +55,6 @@ hash = "acc20d0a92edcf0497ebb62c7c673a8d9c99d872890bb53027722390f453e9dc"
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
-
-[[files]]
-file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -110,7 +106,7 @@ hash = "125d6c869a09bb5d215833248289dd572d66ce967961f5375aaa35caab24beac"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "8bee916f3fc0877e6cc8d4c4bf633a64b4630936c16999b24ec80387a9ab9830"
+hash = "3373b6d91c459262a2e6c2e673098132609b53df73b6afaf4d424ea2d86bd85b"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -128,11 +124,6 @@ hash = "b023edfcaca9f400d9afed65ec077cc98a35943fedb4392542f87fbf8613e839"
 metafile = true
 
 [[files]]
-file = "mods/betterbeds.pw.toml"
-hash = "e32d39231226295367d30ab01e9a542b1ae3644dc2b38e05f005c37cf10d0bce"
-metafile = true
-
-[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "bdbbc306c1affe5017f7ff15ffdeb053d019f7c8882253f2579b21e9a7ee06ee"
 metafile = true
@@ -144,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "9c24daecd999a5602fefa3a5a2504e75583ab1ecd88e29ea7fcab79b81846679"
+hash = "6bda1d6e217b5fb97a0006e99871367658c1b17220fdd3d3b1a90b5fc454ea8c"
 metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "17c08979233c9748e50abf2b94a39d0ff323e9addf36505c208eaa3e0714c631"
+hash = "ee3bdb9b1293bb25e0979e030750a9d788a2edb0e7c854f0f63b9101443e6f44"
 metafile = true
 
 [[files]]
@@ -173,18 +164,23 @@ hash = "3b3d6b2c0a9256dab61c5e084b3a89d1f946cac9c2da8601dbc184d82053584c"
 metafile = true
 
 [[files]]
+file = "mods/enhancedblockentities.pw.toml"
+hash = "578a704b4f0767fcd311ccd170a6e674a2178cf00f973ae33fae1e65599f64cf"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d50351d5201a0d1d21c8b2caa9b123cfaf46765287d4a21fd12dde57e79124dc"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "4234ad268b9008f0d357cca196b50327df3923c0594465a99f9a190d7135666a"
+hash = "a0712066132be92036c967095502caadb46a151a55fe7bbbf600518987e7d70f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3660f1c597684fd3b7be1d20ad5d244b25b043d58f661e20af32fb988ee3d2c1"
+hash = "de4c8ba57b81c8945a096b98e1bcbc1d255d6ee119bd24370d78f0bc39952c93"
 metafile = true
 
 [[files]]
@@ -249,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b98f4fabbf58b883dc6834edbed10749bcc5607c15a276f8073986e810f40441"
+hash = "08b6840d90ad5333764f7f109f42ac7391d9f0ac4961faf6e0ccfc62b9daf8d6"
 metafile = true
 
 [[files]]
