@@ -3,6 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.11 (2023-03-05)
+
+Casual reminder: if you get any questions or issues while using FO, our Discord (https://discord.gg/yxaXtaQqdB) is the first place to ask in. Asking in other generic or mod-specific servers may not give you the same support, as they don't know how FO is configured.
+
+- Readded Enhanced Block Entities
+- Removed Better Beds
+- Updated Custom Entity Models, Entity Texture Features, Fabric API, Lithium
+- Updated CRH translations in English, Estonian, Korean
+- Updated Fabric Loader to 0.14.17 and enforced 0.14.14
+  - Mainly because 0.14.15+ is still considered a beta, so some vanilla users got confused on how to install it. But I consider 0.14.17 to be stable enough anyway, so ¯\\\_(ツ)_/¯
+- Updated the way FO warns about old Loader and logs about FO version
+  - You may now get an error if you install FO with a partial config
+
+### 4.6.0-beta.10 (2023-02-23)
+
+- Updated Fabric Capes, Entity Culling, Entity Texture Features, Fabric API, Mod Menu
+- Disabled Mod Menu's mod update checker and enforced config
+- Updated and enforced Fabric Loader 0.14.15
+
 ### 4.6.0-beta.9 (2023-02-12)
 
 - Re-added Custom Entity Models
