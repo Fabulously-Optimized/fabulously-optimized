@@ -1,6 +1,9 @@
 {
     "pack": {
-        "pack_format": 12,
-        "description": "Explains chat reporting with simple phrases and icons"
+        "pack_format": 13,
+        "description": {
+            "translate": "fo.resourcePack.chatreportinghelper",
+            "fallback": "§7Explains chat reporting with simple phrases and icons§r"
+        }
     }
 }
