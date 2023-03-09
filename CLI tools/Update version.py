@@ -22,8 +22,5 @@ title_screen_obj["main_menu"]["bottom_right"][0]["text"] = "Fabulously Optimized
 save_file(title_screen_path, title_screen_obj)
 
 warning_file_obj = load_json(warning_path)
-try:
-    warning_file_obj["overrides"]["fabric-api"]["+recommends"]["Fabulously Optimized"] = ">" + new_version
-except KeyError:
-    warning_file_obj["overrides"]["fabric"]["+recommends"]["Fabulously Optimized"] = ">" + new_version
+warning_file_obj["overrides"]["minecraft"]["+recommends"]["Fabulously Optimized"] = ">" + new_version
 save_file(warning_path, warning_file_obj)
