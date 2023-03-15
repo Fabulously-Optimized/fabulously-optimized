@@ -1,4 +1,5 @@
 {
+    "fo.resourcePack.chatreportinghelper": "§7Простое объяснение системы жалоб с иконками§r",
     "gui.socialInteractions.tooltip.report": "Пожаловаться на игрока в Mojang",
     "gui.socialInteractions.narration.report": "Пожаловаться на игрока %s в Mojang",
     "gui.socialInteractions.tooltip.report.disabled": "Жалобы в Mojang в данный момент не доступны.",
@@ -12,7 +13,7 @@
     "gui.nochatreports.safety_status.unintrusive": "Жалобы в Mojang на других игроков доступны. Подтвердите в Социальных Взаимодействиях.",
     "gui.nochatreports.safety_status.insecure": "Жалобы в Mojang на других игроков разрешены.",
     "gui.nochatreports.safety_status.insecure_signing": "Вы разрешили подавать на вас жалобы в Mojang.",
-    "gui.nochatreports.safety_status.realms": "Жалобы в Mojang на других игроков доступны. Mojang так-же просматривает чат чтобы выявлять нарушения до того как на них пожалуются.",
+    "gui.nochatreports.safety_status.realms": "Жалобы в Mojang на других игроков доступны. Mojang также просматривает чат, чтобы выявлять нарушения до того, как на них пожалуются.",
     "gui.nochatreports.safety_status.unknown": "Статус жалоб не известен, отправьте сообщение чтобы обновить статус.",
     "gui.nochatreports.safety_status.undefined": "Невозможно получить статус жалоб из-за ошибки. Попробуйте перезапустить игру.",
     "gui.nochatreports.signing_status.allowed_realms": "На ваши сообщения всегда можно подать жалобу в Mojang на серверах типа Realms.",
@@ -27,5 +28,5 @@
     "gui.nochatreports.signing_mode.prompt.tooltip": "Жалобы отключены по стандарту, но если сервер этого потребует, вас спросят о разрешении.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Жалобы на ваши сообщения будут включены только если этого потребует сервер.",
     "gui.nochatreports.signing_required.contents": "Этот сервер требует чтобы на все сообщения в чате можно было пожаловаться в Mojang. \n\nНажмите на \"Allow Signing\" чтобы разрешить это и ещё раз отправить сообщение.",
-    "gui.nochatreports.realms_warning.contents": "Важная пометка касательно Realms:\n• На любое сообщение можно подать жалобу в Mojang.\n• Mojang просматривает чат чтобы выявить нарушения до того как на них подадут жалобу.\n• Ненормативная лексика фильтруется по умолчанию. Взрослые могут откличть его для себя на minecraft.net."
+    "gui.nochatreports.realms_warning.contents": "Важная пометка касательно Realms:\n• На любое сообщение можно подать жалобу в Mojang.\n• Mojang просматривает чат, чтобы выявить нарушения, до того как на них подадут жалобу.\n• Фильтр ненормативной лексики включен по умолчанию. Взрослые могут отключить его для себя на minecraft.net."
 }
