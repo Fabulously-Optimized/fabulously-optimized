@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.6.0-beta.11",
+    "versionId": "4.6.0-beta.12",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -176,27 +176,27 @@
             "fileSize": 1926981
         },
         {
-            "path": "mods/fabric-language-kotlin-1.9.1+kotlin.1.8.10.jar",
+            "path": "mods/fabric-language-kotlin-1.9.2+kotlin.1.8.10.jar",
             "hashes": {
-                "sha1": "12f265ea91e73ac2c74c6f66d446671122bbb1c8",
-                "sha512": "2c95e763bda39d471b5e252ba00b68b296d0bdb4c78f666886f6ebae99d2e7583b8a664fa35f2248dc844db66c7b77d2c3fde1d41801d070fc8083ddda886c0a"
+                "sha1": "5a68b37cd9e3f13337f7959d82fcfe21b749e5c6",
+                "sha512": "aa6b385ac7f90e2da3dfd89598ec8d733a35beed35f5995f29227b432ec7cc882155e91edcdae82a4b6e9649acae7b5b13e848411c21b34787559b5f14492113"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/lgFl3olb/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.1%2Bkotlin.1.8.10/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/Ibros2FW/fabric-language-kotlin-1.9.2%2Bkotlin.1.8.10.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.2%2Bkotlin.1.8.10/fabric-language-kotlin-1.9.2%2Bkotlin.1.8.10.jar"
             ],
-            "fileSize": 6484582
+            "fileSize": 6520805
         },
         {
-            "path": "mods/fabricskyboxes-0.6.2+mc1.19.3.jar",
+            "path": "mods/fabricskyboxes-0.6.4+mc1.19.3.jar",
             "hashes": {
-                "sha1": "9e06cd799ce67d9775329eb615765e0b81f93015",
-                "sha512": "d36d30a6a66fc4d2284d0361f5c64cf3c4bdb2e298b1b334ac5f3712869c272f6dae1722d9ca5808de3b9c697a60069c5b070fc94d6f14a8bce383b8f5c344a0"
+                "sha1": "7461b3f81c0e84dbc001db0c1b5d61cf6b077107",
+                "sha512": "c2f30d206c2728383f641c2bdfe79d74fb524d53b1b8288edd7243442a84e55524e21bdbdf9877ffdf0f393485ebca2c0d7531763d4a052573596e841054e86f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YBz7DOs8/versions/Rg1IX2YB/fabricskyboxes-0.6.2%2Bmc1.19.3.jar"
+                "https://cdn.modrinth.com/data/YBz7DOs8/versions/l6X3fwKo/fabricskyboxes-0.6.4%2Bmc1.19.3.jar"
             ],
-            "fileSize": 165888
+            "fileSize": 168222
         },
         {
             "path": "mods/fabrishot-1.9.1.jar",
@@ -289,16 +289,16 @@
             "fileSize": 559472
         },
         {
-            "path": "mods/language-reload-1.5.4+1.19.3.jar",
+            "path": "mods/language-reload-1.5.6+1.19.3.jar",
             "hashes": {
-                "sha1": "6305f50f62b7d1d795a0b633cc9c2f3e504c61b7",
-                "sha512": "0d3bc8c77de6b66011b40637e521c05090157198f0d2e36b81c33635f4801550294fc42f6acb73cad1a2396a4e0b735abc5f24ef3b0ee7dfb7921460cec25b01"
+                "sha1": "738b03dbd921a17b41016e52d9d89a629586a3f2",
+                "sha512": "82dc3dbc3a1f6a3d2480ba159b5f6129937284ef3398285df875ab316b66e06fcf0bb30f10dcf9ea6d10cfb735f4027af32ddb1cd472a5cb1be7c72d50e6dbad"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/oXvCLSpY/language-reload-1.5.4%2B1.19.3.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.4%2B1.19.3/language-reload-1.5.4%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/6MS2uDat/language-reload-1.5.6%2B1.19.3.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.6%2B1.19.3/language-reload-1.5.6%2B1.19.3.jar"
             ],
-            "fileSize": 57192
+            "fileSize": 63353
         },
         {
             "path": "mods/lazydfu-0.1.3.jar",
@@ -337,16 +337,16 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/memoryleakfix-1.19.3-0.7.0.jar",
+            "path": "mods/memoryleakfix-1.19.3-0.8.0.jar",
             "hashes": {
-                "sha1": "9fae1093c64b47d6b97ee825ed3d9b725490700c",
-                "sha512": "b0d85f7aaf31c67a3b891d31b39fd172a1ed679533de40871124e19d2e6e0b4eec64134c6d0b998871716573b99d0f57de7635b7af838d89a75e214bbc3b3264"
+                "sha1": "2c83e025d1d6ff65f8638650616f07d09f2372f9",
+                "sha512": "8dc8dd113ad0de04cb6191ae96381682f65696bd46dbd51072ef769f41469e61390993e97b84be69f2a63d6d6b14138c475038666dc4e7cde101bf5a8c91c0cf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/YtNQP5gX/memoryleakfix-1.19.3-0.7.0.jar",
-                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.7.0-1.19.3/memoryleakfix-1.19.3-0.7.0.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/xn2d7ltf/memoryleakfix-1.19.3-0.8.0.jar",
+                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v0.8.0-1.19.x/memoryleakfix-1.19.3-0.8.0.jar"
             ],
-            "fileSize": 31051
+            "fileSize": 33851
         },
         {
             "path": "mods/midnightcontrols-1.7.3+1.19.3.jar",
@@ -488,16 +488,16 @@
             "fileSize": 49984
         },
         {
-            "path": "mods/sodium-extra-0.4.17+mc1.19.3-build.95.jar",
+            "path": "mods/sodium-extra-0.4.18+mc1.19.3-build.99.jar",
             "hashes": {
-                "sha1": "9951496edb671104806a986c80fb55891829eb39",
-                "sha512": "38f747fd785c2cbb3c5a783ebdce27950f7e552c9e03beb6d27a9551cedf8a69a0e9c7677c9051cf946e3bffdcc6664322e24514f4397b06acec7b77d2e7ac31"
+                "sha1": "08fcbb4dd1a4fa81a3bab5ebb5da4bd6ef06f611",
+                "sha512": "77c31a006b7560609b000f7484cdc738ebd655ab106be698db56d7d7009bd67f36919eead8e6ba15f6fdaf575064df588a0b1dccf09afccd1278e4ff3730c3e6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/wA35IJw8/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.17/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/Fo9beybz/sodium-extra-0.4.18%2Bmc1.19.3-build.99.jar",
+                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.3-0.4.18/sodium-extra-0.4.18%2Bmc1.19.3-build.99.jar"
             ],
-            "fileSize": 264450
+            "fileSize": 327125
         },
         {
             "path": "mods/sodium-fabric-mc1.19.3-0.4.9+build.23.jar",

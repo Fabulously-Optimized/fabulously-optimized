@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.3
 
+### 4.6.0-beta.12 (2023-03-15)
+
+- Updated Fabric Language Kotlin, FabricSkyboxes, Language Reload, MemoryLeakFix, Sodium Extra
+- Enforced Fabric Loader 0.14.17
+- Updated MMH and CRH translations in Greek, Korean, Russian
+
 ### 4.6.0-beta.11 (2023-03-05)
 
 Casual reminder: if you get any questions or issues while using FO, our Discord (https://discord.gg/yxaXtaQqdB) is the first place to ask in. Asking in other generic or mod-specific servers may not give you the same support, as they don't know how FO is configured.
