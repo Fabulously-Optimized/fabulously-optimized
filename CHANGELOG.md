@@ -17,6 +17,11 @@ Who let the mods out?!
 
 ## 1.19.3
 
+### 4.6.0-beta.13 (2023-03-16)
+
+- Updated Lithium, FabricSkyboxes
+  - Lithium had bugfixes, FSB fixed some resource pack compat
+
 ### 4.6.0-beta.12 (2023-03-15)
 
 - Updated Fabric Language Kotlin, FabricSkyboxes, Language Reload, MemoryLeakFix, Sodium Extra
