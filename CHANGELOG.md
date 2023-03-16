@@ -1,7 +1,39 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.19.4
+
+### 4.7.0-alpha.2 (2023-03-16)
+
+- Updated Cloth Config API, FabricSkyboxes, Mod Menu
+  - Mods button now appears on pause menu, FSB fixed some resource pack compat
+- Readded Lithium 
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, FerriteCore, LambDynamicLights, MemoryLeakFix, MoreCulling, No Chat Reports
+
+### 4.7.0-alpha.1 (2023-03-15)
+
+Who let the mods out?!
+
+- Updated Debugify, Entity Culling, Entity Texture Features, Fabric API, FabricSkyboxes, FabricSkyBoxes Interop, Fast Better Grass, Indium, Iris Shaders, Language Reload, MidnightControls, Mod Menu, Puzzle, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib
+  - Known bug: pause menu lacks the Mods button
+- Forced Borderless Mining, Capes
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, FerriteCore, LambDynamicLights, Lithium, MemoryLeakFix, MoreCulling, No Chat Reports
+- MMH, CRH, FBG descriptions are now translatable
+- All 4.6.0-beta.12 changes
+  - The "accessibility onboarding" was already previously disabled
+
 ## 1.19.3
+
+### 4.6.0-beta.13 (2023-03-16)
+
+- Updated Lithium, FabricSkyboxes
+  - Lithium had bugfixes, FSB fixed some resource pack compat
+
+### 4.6.0-beta.12 (2023-03-15)
+
+- Updated Fabric Language Kotlin, FabricSkyboxes, Language Reload, MemoryLeakFix, Sodium Extra
+- Enforced Fabric Loader 0.14.17
+- Updated MMH and CRH translations in Greek, Korean, Russian
 
 ### 4.6.0-beta.11 (2023-03-05)
 

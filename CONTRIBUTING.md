@@ -10,6 +10,7 @@ So you like this modpack and want to support it? That's great! In this page I ha
   * give the pack and mod devs money, other launchers currently do not.
 * **[❤️ Heart and comment on AlternativeTo](https://alternativeto.net/software/fabulously-optimized/about/)**
   * Please sign up before doing it, otherwise it will not count ☹️
+* **[🦸 Get a free FO cape](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape)** 
 * **[🛑 Disable ad blocker on Modrinth](https://docs.modrinth.com/docs/details/ads/#browser-extensions)**
   * [...and then maybe browse my content a bit to give me ad money?](https://modrinth.com/user/robotkoer)
   * I do _not_ recommend disabling it on CurseForge due to the intrusive ads there.

@@ -4,7 +4,7 @@ user_path = os.path.expanduser("~")
 cf_path = user_path + "/curseforge/minecraft/Instances/Fabulously Optimized/"
 mmc_path = user_path + "/Documents/MultiMC/instances/Fabulously Optimized/minecraft/"
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-minecraft_version = "1.19.3"
+minecraft_version = "1.19.4"
 packwiz_path = git_path + "Packwiz/" + minecraft_version
 
 # Functions
