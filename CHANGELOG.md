@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.2 (2023-03-16)
+
+- Updated Cloth Config API, FabricSkyboxes, Mod Menu
+  - Mods button now appears on pause menu, FSB fixed some resource pack compat
+- Readded Lithium 
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, FerriteCore, LambDynamicLights, MemoryLeakFix, MoreCulling, No Chat Reports
+
 ### 4.7.0-alpha.1 (2023-03-15)
 
 Who let the mods out?!

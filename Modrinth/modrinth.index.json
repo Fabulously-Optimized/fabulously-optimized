@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.1",
+    "versionId": "4.7.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -63,15 +63,15 @@
             "fileSize": 128677
         },
         {
-            "path": "mods/cloth-config-9.0.94-fabric.jar",
+            "path": "mods/cloth-config-10.0.96-fabric.jar",
             "hashes": {
-                "sha1": "9b218b97186b75e5701b343dddfea1081d8ba48d",
-                "sha512": "a06b7cd8f472c177621680d6688ad45010b8605fad49207c92066a1d682ec602aeaaa68ffd1488a87587f4207b9efb22147a1d9cc987c4a6ffd42d5c9620e13b"
+                "sha1": "9bd3ad20afbcd4622d194853aa8e03c4f9d9050f",
+                "sha512": "2c2ca9ad15fa08e0013505e0fbd661e0ff9861eba5df175037cc948197d7d9c4c6983d0f026321a71e7855fc4941e279ede9c930e2ca373b38402dfd70cc6376"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9s6osm5g/versions/M3yxljrZ/cloth-config-9.0.94-fabric.jar"
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/6XGTNEII/cloth-config-10.0.96-fabric.jar"
             ],
-            "fileSize": 1143110
+            "fileSize": 1146510
         },
         {
             "path": "mods/Debugify-1.19.4+1.0.jar",
@@ -144,13 +144,13 @@
             "fileSize": 6520805
         },
         {
-            "path": "mods/fabricskyboxes-0.6.4+mc1.19.4.jar",
+            "path": "mods/fabricskyboxes-0.6.5+mc1.19.4.jar",
             "hashes": {
-                "sha1": "748dd368cf9ed66f5014250dd2196ab8ff24b9b1",
-                "sha512": "28f68b8e501926650265bb5123d92478264feeba4829a4e93eda555f299648758f3e02c3f4df49e01a5b482851977abb23c96a65df7fd4358a562387b5ac2959"
+                "sha1": "1b05437fbc8a7f7f376ae8e93336092352e5ef3d",
+                "sha512": "871ccb1e08abbbe2111850d1ad45bcf111600a9f6db968ba4db64c90f47dd8198e211714a1c08d80a1e4405c1edfd4d3274ca60cb47c1eeeae4cbd798fa60946"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YBz7DOs8/versions/D2kr1TZN/fabricskyboxes-0.6.4%2Bmc1.19.4.jar"
+                "https://cdn.modrinth.com/data/YBz7DOs8/versions/836K5lNR/fabricskyboxes-0.6.5%2Bmc1.19.4.jar"
             ],
             "fileSize": 168214
         },
@@ -247,6 +247,18 @@
             "fileSize": 14531
         },
         {
+            "path": "mods/lithium-fabric-mc1.19.4-0.11.1.jar",
+            "hashes": {
+                "sha1": "69aa137957af4f0f701f6a7663c6d8646f84a1cc",
+                "sha512": "f2bd271e30e5ed9f097d592db5e859208a1c6abe727dc51f83879b837c843b4f6453e99f1ca8d5225f896233ab8f7dbbb3300f10396d2a1cd2957937acfd1aa7"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/14hWYkog/lithium-fabric-mc1.19.4-0.11.1.jar",
+                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.19.4-0.11.1/lithium-fabric-mc1.19.4-0.11.1.jar"
+            ],
+            "fileSize": 639391
+        },
+        {
             "path": "mods/main-menu-credits-1.1.1.jar",
             "hashes": {
                 "sha1": "7df757c8d19a13da60c7b85f13870965d61c71d8",
@@ -306,15 +318,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-6.1.0-rc.1.jar",
+            "path": "mods/modmenu-6.1.0-rc.2.jar",
             "hashes": {
-                "sha1": "305063e9acf4050aedea9f210d07806a4b26d412",
-                "sha512": "a2fc764fa01e02b47586bf381556f793810d798d8975d8243c99fd545a1476bd50ef369a14a78bcdec90ff83848c28389228f1e03f9deb81f88d580caef089f1"
+                "sha1": "91be09156788b04aee29ea081b01972e736584a6",
+                "sha512": "47611f1a5f048bbcf94a1c8ab69d6a5863c73b6206bf4afbc3fdff1876eeab9da4da121fa8b26e974f6e224c192405569ef39d43aed7b475b9627acd2ce7ddc6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/U31K6311/modmenu-6.1.0-rc.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/JYTmttex/modmenu-6.1.0-rc.2.jar"
             ],
-            "fileSize": 704577
+            "fileSize": 719245
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
