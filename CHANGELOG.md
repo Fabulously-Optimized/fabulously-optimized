@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.3 (2023-03-17)
+
+- Readded FerriteCore, No Chat Reports, MoreCulling
+- Updated Capes, Fabric API, Mod Menu
+  - You can now click on the list icons in Mod Menu to open mod config, if one exists; on pause menu Bugs button is replaced with Mods
+- Temporarily removed AdvancementInfo, CIT Resewn, Custom Entity Models, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
+### 4.7.0-alpha.2-2 (2023-03-17)
+
+Modrinth-exclusive reupload to fix the Prism Launcher crash. Visible version is still "4.7.0-alpha.2".
+
 ### 4.7.0-alpha.2 (2023-03-16)
 
 - Updated Cloth Config API, FabricSkyboxes, Mod Menu
@@ -23,6 +34,10 @@ Who let the mods out?!
   - The "accessibility onboarding" was already previously disabled
 
 ## 1.19.3
+
+### 4.6.0-beta.13-2 (2023-03-17)
+
+Modrinth-exclusive reupload to fix the Prism Launcher crash. Visible version is still "4.6.0-beta.13".
 
 ### 4.6.0-beta.13 (2023-03-16)
 
