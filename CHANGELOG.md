@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.2-2 (2023-03-17)
+
+Modrinth-exclusive reupload to fix the launcher crashing. Visible version is still "4.7.0-alpha.2".
+
 ### 4.7.0-alpha.2 (2023-03-16)
 
 - Updated Cloth Config API, FabricSkyboxes, Mod Menu
@@ -23,6 +27,10 @@ Who let the mods out?!
   - The "accessibility onboarding" was already previously disabled
 
 ## 1.19.3
+
+### 4.6.0-beta.13-2 (2023-03-17)
+
+Modrinth-exclusive reupload to fix the launcher crashing. Visible version is still "4.6.0-beta.13".
 
 ### 4.6.0-beta.13 (2023-03-16)
 
