@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.2",
+    "versionId": "4.7.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -53,14 +53,13 @@
         {
             "path": "mods/capes-1.5.2+1.19.3-fabric.jar",
             "hashes": {
-                "sha1": "40d00563fd7ae4ce59b522834c9fba0dcaaa8ce5",
-                "sha512": "78fbe86b9e74d4a5f8d5288b8e52d57dcf6461f81e8baa3c298ac7f29f9fae75ebbd706106012fee7d3ce53fb2a62beef78d3f3353aa11bd4b2d5e79f9aef618"
+                "sha1": "2464dba794972e50e277b822efbf3025cd8ec68c",
+                "sha512": "10c1477f459685eda01a6cfcd520c047f1e611e107b5198ced556971ddd0b8fe41574a263c579cb4fe352b3a72eb9b088d8b8623bae425e331ff140901878905"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/kXfWiNN7/capes-1.5.2%2B1.19.3-fabric.jar",
-                "https://github.com/CaelTheColher/Capes/releases/download/fabric-1.5.2%2B1.19.3/capes-1.5.2%2B1.19.3-fabric.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/kXfWiNN7/capes-1.5.2%2B1.19.3-fabric.jar"
             ],
-            "fileSize": 128677
+            "fileSize": 128670
         },
         {
             "path": "mods/cloth-config-10.0.96-fabric.jar",
@@ -121,15 +120,15 @@
             "fileSize": 412965
         },
         {
-            "path": "mods/fabric-api-0.75.3+1.19.4.jar",
+            "path": "mods/fabric-api-0.76.0+1.19.4.jar",
             "hashes": {
-                "sha1": "b736d5977d5c32f4049f9fb0d234f481d3d24b98",
-                "sha512": "d04e7c69bb5a83a9d3e749bbc686b1455250749f59a7f1a97b57c4072d3fec17c5abe0b0a02cf26dce3b3785db8222c19ca7e9dedb81c10034c9c3156d81fd74"
+                "sha1": "3914550ad467d47a3e027a24bf2d51f5f68b2e5a",
+                "sha512": "4b114c2f9fdd2bf46d66f33747ebd48bf73958914478996bad1453aee2f12b4f9483daea90a036efcd25dd9a73964f783eb63dcb30460126e1880c78fa01ae94"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/67xsScMW/fabric-api-0.75.3%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Pz1hLqTB/fabric-api-0.76.0%2B1.19.4.jar"
             ],
-            "fileSize": 1927235
+            "fileSize": 1940163
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.2+kotlin.1.8.10.jar",
@@ -186,6 +185,17 @@
                 "https://cdn.modrinth.com/data/x1hIzbuY/versions/5HxlwbWf/fastquit-2.1.0%2B1.19.3.jar"
             ],
             "fileSize": 73758
+        },
+        {
+            "path": "mods/ferritecore-5.2.0-fabric.jar",
+            "hashes": {
+                "sha1": "ed6fa9a9365d4e58db6703479a44cc6aed5add2f",
+                "sha512": "56a4ac2ed002260ee451fa9d33169ddcd01473bf46eee97061666b13fa386cd23e15238a72729e55f32d81cce8ae049c80caabf1947ba998258282226289be0c"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar"
+            ],
+            "fileSize": 124924
         },
         {
             "path": "mods/fsb-interop-1.2.0+mc1.19.4-build.31.jar",
@@ -318,15 +328,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-6.1.0-rc.2.jar",
+            "path": "mods/modmenu-6.1.0-rc.4.jar",
             "hashes": {
-                "sha1": "91be09156788b04aee29ea081b01972e736584a6",
-                "sha512": "47611f1a5f048bbcf94a1c8ab69d6a5863c73b6206bf4afbc3fdff1876eeab9da4da121fa8b26e974f6e224c192405569ef39d43aed7b475b9627acd2ce7ddc6"
+                "sha1": "d3ec07e6358e95b5ed775ea5a8b1ea938f108a53",
+                "sha512": "9ee46a42321b46c8b8b69536bb91a0d57e81fec90b8c81c2ba20ce843be3fd0da9a151c4044921178579043ac47860f18554c8046f026350c681d443d5235ca7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/JYTmttex/modmenu-6.1.0-rc.2.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/5e62j63G/modmenu-6.1.0-rc.4.jar"
             ],
-            "fileSize": 719245
+            "fileSize": 722362
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -338,6 +348,29 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19.1-1.1.1/morechathistory-1.19.1-1.1.1.jar"
             ],
             "fileSize": 11223
+        },
+        {
+            "path": "mods/moreculling-1.19.4-0.17.0.jar",
+            "hashes": {
+                "sha1": "91d4fdb4786d2dfe56a84dff552bcadbebc88cec",
+                "sha512": "bf01675be88b4770f6fa6197644978912e9d3fd547c8eeeb709102088a15b0570043f5b05c93f7d600a08ff80dad1f00b3fd52f2fb1243f9268b837e6329be52"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/A9LKf67q/moreculling-1.19.4-0.17.0.jar",
+                "https://github.com/fxmorin/MoreCulling/releases/download/v0.17.0-1.19.4/moreculling-1.19.4-0.17.0.jar"
+            ],
+            "fileSize": 1235479
+        },
+        {
+            "path": "mods/NoChatReports-FABRIC-1.19.4-v2.1.0.jar",
+            "hashes": {
+                "sha1": "f852462c10abc323e2ef7646768b4d203ae2f956",
+                "sha512": "431025fc4bed576dabe5cef3f3c45362fe69484951e0585b65e79b72f523e793fd8dab48bfa133b956beaddc8c96a2c83329f7eba92ebeea282748dbb010e208"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/6yybObpX/NoChatReports-FABRIC-1.19.4-v2.1.0.jar"
+            ],
+            "fileSize": 574991
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",

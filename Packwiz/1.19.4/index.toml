@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d30f60cc2a66465a6efcea25eb32d272f4bf567e8cc3836437c89e10fd3e4d51"
+hash = "1034a8346d0e51e2ec8dc9a0f407b84c0380adf1c5cb10dd1d7b370831b0235a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3080a6720c06e596fd24eb72de3bd9003d88628e7f48173ec3bc67b242cc79cc"
+hash = "fb0fee8856a41dcb60891257ae67af14b5cb8019ddc29251bbd1175bd46fcb6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -70,7 +70,7 @@ hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "245846dc2c37fcebaccc08299c0b345552c2f031b5603b68b0bc3a1b869224c0"
+hash = "2ca0b6ea8ddc8977842be32eb7db1d9589f5be2fad980dd505d780dacee441f2"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "6bda1d6e217b5fb97a0006e99871367658c1b17220fdd3d3b1a90b5fc454ea8c"
+hash = "b6fdebc38bf3e988d5386bd781394545a06456e0f8fd238f2a380023de2165a7"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0e0647c3de8692e860440ac3b29321534e30be11a309a2dca979e3b2cb0b884b"
+hash = "294850f9051ce78c562e9273ef3a24d10d2647097edc02a138836725b5a1c5dd"
 metafile = true
 
 [[files]]
@@ -186,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "4378ed8c8083eb922d2e4dd552b3525986cbb0d509a2d6ed0e4872866da3b0a8"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "61ef8d453af948c20fac3a9bf99e11e12f77325070fa68ad68b83089a96ad569"
 metafile = true
 
 [[files]]
@@ -245,12 +250,22 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "18ee6fc5bb760f2414db36b81628ee1a0c67837971bae740bab25acce9dd6161"
+hash = "3bb3d17562861ca6c37a862f406e5d51bf94e3cc2b5006c3aaa2867c51f1c593"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "2bf8a3291d840b5f6ca368d86e005740cf6156f2c51364c29eb5cb3d157a45a2"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "db37d57adc3779c2db85517569783149b88fabe8507d4918bc68fc43fd8cc49d"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "9a8fe194dc16525f38e61586ed990751300f1e286294507d8f49598b3d8264f8"
 metafile = true
 
 [[files]]
