@@ -10,11 +10,19 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1034a8346d0e51e2ec8dc9a0f407b84c0380adf1c5cb10dd1d7b370831b0235a"
+hash = "17aedd10ceb578e47341993842e9bd781d1ef94d03647a832c5ce0a093689279"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fb0fee8856a41dcb60891257ae67af14b5cb8019ddc29251bbd1175bd46fcb6b"
+hash = "0b27a2c81267c2d6c056a8f11fd60ed506ade3cdfdbce5bb91b4842d5fa37224"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "8b65b158abe60f5bc72cdd8c7db455612266a6e617febbad1b1fda916502a975"
+
+[[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "191e639b8f651327cf24e5befc95ec77d5ac3d7143a1bd5d1c1d72bc7400dd3a"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -69,10 +77,6 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "2ca0b6ea8ddc8977842be32eb7db1d9589f5be2fad980dd505d780dacee441f2"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "97a19031a10809c206b89c366bf1e802e4f2d39e9df798c3c627bf0d63448447"
 
@@ -89,10 +93,6 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 
@@ -102,11 +102,11 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "f5ae279de7e98b253f031c0e6aad1f8baf66883ab99fd630922d59a69b486147"
+hash = "0ac022388a6127ae845ad9e33298d9b6d7646618c23302196fe4dab746cc50be"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "0dcd6b1b5fe41471cc481ac820797201f2d9ca046d90c344f786924bb691ff09"
+hash = "390d368b19c274c63a1b4e366dc85b50598d5b799a936aa37875ecd0bd6a0a1f"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -125,12 +125,17 @@ metafile = true
 
 [[files]]
 file = "mods/borderlessmining.pw.toml"
-hash = "b6a392ba7dd5cc8a7c2fa41156da28764936f6f7ce234c07dc67aaef6e7a87d4"
+hash = "64b46649facff7bb1b20ed8bb93f7ece4f8e397e5a18f670aba5b741fa16973f"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "b6fdebc38bf3e988d5386bd781394545a06456e0f8fd238f2a380023de2165a7"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "39d591da20da0e1d262adf2e3407c6c57904eca5b14e48310836c90d2362a470"
 metafile = true
 
 [[files]]
@@ -230,7 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "cd55e2e36b16da957a2cf2a774655464151cc4aa9d09974d00e51be8ba061e77"
+hash = "e55608355a86866c5b1f7e34ab1cd8aff69ff43a927a28d18783b840103103b8"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "58a81dd97cf82ec59e4d12157bc43c4a862a1282c39b6c8624c0578e48ec0264"
 metafile = true
 
 [[files]]
@@ -275,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "cbfe5857490ef36a66f5806480e6f7ef7afb94cf0fdae6ef052ea4a371007582"
+hash = "1f132526501a4836860b0d1fd66850df4e2931f9ba7ca95dea9dec321a6539c8"
 metafile = true
 
 [[files]]

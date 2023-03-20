@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.4 (2023-03-20)
+
+- Updated Borderless Mining, MidnightControls, OptiGUI
+- Readded Custom Entity Models
+- Updated Traditional and Simplified Chinese translations for MMH and CRH
+- Temporarily disabled chat status indicator because it interferes with chat log navigation
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
 ### 4.7.0-alpha.3 (2023-03-17)
 
 - Readded FerriteCore, No Chat Reports, MoreCulling
