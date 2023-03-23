@@ -43,6 +43,13 @@ Who let the mods out?!
 
 ## 1.19.3
 
+### 4.6.0-beta.14 (2023-03-23)
+
+- Updated Capes, Fabric API, MoreCulling, OptiGUI
+- Updated MMH and CRH translations
+- Updated and enforced Fabric Loader 0.14.18
+- Mod Menu config enforced again to hide a library
+
 ### 4.6.0-beta.13-2 (2023-03-17)
 
 Modrinth-exclusive reupload to fix the Prism Launcher crash. Visible version is still "4.6.0-beta.13".
