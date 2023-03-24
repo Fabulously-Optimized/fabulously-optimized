@@ -50,6 +50,49 @@ Who let the mods out?!
 
 ## 1.19.3
 
+### 4.6.0 (2023-03-24)
+
+Your eyes are not deceiving you. After 3.5 months of development, 4.6.0 is finally released!
+
+**Due to several config changes, it is recommended (but not required) to delete your `options.txt` before upgrading to this version.** Or, if you've already updated, you can just delete it now and it'll update on next launch. Instructions: <https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions#resetting-settings>
+
+Major changes from 4.5.6 -> 4.6.0:
+
+- Added FastQuit - makes quitting singleplayer worlds instant
+- Added MoreCulling - does everything Cull Less Leaves does while having more optimizations
+- Added Model Gap Fix - fixes transparent gaps in held items
+- Removed Smooth Boot - needs device-specific setup, default config is not suitable for every device
+- Removed Cull Less Leaves - replaced by MoreCulling
+- Removed Item Model Fix - replaced by Model Gap Fix
+- Removed Colormatic - not updated yet, may be re-added later
+- Removed LambdaBetterGrass - no longer supported on Fabric
+
+- Added Chat Reporting Helper resource pack 
+  - Designed to concisely inform players of chat reporting's existence and where/how it applies, without perceiving it as "good" or "bad"
+  - Makes No Chat Reports icons more neutral
+  - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
+  - Translations welcome on Crowdin 
+- Added Fast Better Grass resource pack
+  - Imitates OptiFine's Better Grass (fast mode); fancy mode cannot be replicated yet
+  - Serves as a substitute to LambdaBetterGrass
+  - Must be the first activated resource pack to work
+  - Uses only models, so it works with any other resource pack
+
+- Re-enabled more cape providers on Fabric Capes
+    - Please let us know if you get more performance issues on servers due to that
+- Enabled operator blocks in creative menu (if you have operator access)
+- Preemptively disabled the "accessibility onboarding" of 1.19.4
+- Unbound some Zoomify's and FabricSkyBoxes' unexpected keybinds
+- Various language updates
+- Updated and enforced Fabric Loader 0.14.18
+
+See the changelog for a full list of changes.
+
+Changes from 4.6.0-beta.14 -> 4.6.0:
+
+- Readded Continuity
+- Enforced No Chat Reports and Fabric Capes configs again for 4.5.6 upgraders
+
 ### 4.6.0-beta.14 (2023-03-23)
 
 - Updated Capes, Fabric API, MoreCulling, OptiGUI

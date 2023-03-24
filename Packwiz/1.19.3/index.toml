@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -10,27 +14,27 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "89cd63533df25e72a6f48137759bc688e4195198b2682a5b85977c5d115c6f40"
+hash = "31ebb69ebb022f446a827495f959fa63b85f6f71c02ac92fb4572a6f58574f8b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "99eff072e09df063cdb0dd7295e8cb788171692c4bb3ec29845372d57a57bc2d"
+hash = "660bc89de0897042376ab4c155f090b8f1aa56f9b3f6a98b4b091cbfdbd6172f"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "2cd343833ce25596404f0c4c8841355157372152985058673ada3d22d79fa23b"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "193b9ea611fa490856a4e795a8d1a6a2a0cc4c9c78f62384d5cac0d90bbd2431"
+hash = "b6391f031359d96e6e41363e9876cc06e28dcb6a4f4f51eabe5c2101fa2b8f37"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
@@ -87,10 +91,6 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -151,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "70a11caaea34a1f42da47128409cede3075e719d226e6aa8b9743498200565b0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7c5caeb7e0652bdaa73614281535d015fb45ef303edb607f4dc4baa4c493bbac"
 metafile = true
 
 [[files]]
