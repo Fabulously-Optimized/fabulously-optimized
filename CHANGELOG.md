@@ -73,6 +73,8 @@ Major changes from 4.5.6 -> 4.6.0:
 - Removed Colormatic - not updated yet, may be re-added later
 - Removed LambdaBetterGrass - no longer supported on Fabric
 
+.
+
 - Added Chat Reporting Helper resource pack 
   - Designed to concisely inform players of chat reporting's existence and where/how it applies, without perceiving it as "good" or "bad"
   - Makes No Chat Reports icons more neutral
@@ -83,6 +85,8 @@ Major changes from 4.5.6 -> 4.6.0:
   - Serves as a substitute to LambdaBetterGrass
   - Must be the first activated resource pack to work
   - Uses only models, so it works with any other resource pack
+
+.
 
 - Re-enabled more cape providers on Fabric Capes
     - Please let us know if you get more performance issues on servers due to that
