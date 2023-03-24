@@ -3,6 +3,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.5 (2023-03-23)
+
+- Updated No Chat Reports
+   - Enabled chat status indicator again as the bug is fixed
+- Updated MMH translations in Simplified Chinese
+- Updated and enforced Fabric Loader 0.14.18
+
+### 4.7.0-alpha.4 (2023-03-20)
+
+- Updated Borderless Mining, MidnightControls, OptiGUI
+- Readded Custom Entity Models
+- Updated Traditional and Simplified Chinese translations for MMH and CRH
+- Temporarily disabled chat status indicator because it interferes with chat log navigation
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
 ### 4.7.0-alpha.3 (2023-03-17)
 
 - Readded FerriteCore, No Chat Reports, MoreCulling
@@ -34,6 +49,13 @@ Who let the mods out?!
   - The "accessibility onboarding" was already previously disabled
 
 ## 1.19.3
+
+### 4.6.0-beta.14 (2023-03-23)
+
+- Updated Capes, Fabric API, MoreCulling, OptiGUI
+- Updated MMH and CRH translations
+- Updated and enforced Fabric Loader 0.14.18
+- Mod Menu config enforced again to hide a library
 
 ### 4.6.0-beta.13-2 (2023-03-17)
 

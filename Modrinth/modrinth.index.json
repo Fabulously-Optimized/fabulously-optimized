@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.3",
+    "versionId": "4.7.0-alpha.5",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -39,16 +39,16 @@
             "fileSize": 21597
         },
         {
-            "path": "mods/borderless-mining-1.1.6+1.19.3.jar",
+            "path": "mods/borderless-mining-1.1.7+1.19.4.jar",
             "hashes": {
-                "sha1": "78039a4ff7edb24b1253caae42eea6c84bd72ac4",
-                "sha512": "bfef1c5285d17f6bbf602837b6fbb90344ace0cd37004facf89abd631d6c7f25134a2b12a0f6a4757c10755615840cb0d25915184e4342c0bf80a866a51ff9ab"
+                "sha1": "25160d941e60eccf683163d516cdcd5164a2f89f",
+                "sha512": "1683bb2ca6fc8086cf89e5c365312b6dd0f590ea20e66bf95657921d7b720ca177fe0bdafb3cac8c87d8684d8b748a299f25850ee6692bc657852ff00a3ba92d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/61bxY5nb/borderless-mining-1.1.6%2B1.19.3.jar",
-                "https://github.com/comp500/BorderlessMining/releases/download/1.1.6%2B1.19.3/borderless-mining-1.1.6%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/kYq5qkSL/versions/n8nRcdvu/borderless-mining-1.1.7%2B1.19.4.jar",
+                "https://github.com/comp500/BorderlessMining/releases/download/1.1.7%2B1.19.4/borderless-mining-1.1.7%2B1.19.4.jar"
             ],
-            "fileSize": 110949
+            "fileSize": 112954
         },
         {
             "path": "mods/capes-1.5.2+1.19.3-fabric.jar",
@@ -60,6 +60,17 @@
                 "https://cdn.modrinth.com/data/89Wsn8GD/versions/kXfWiNN7/capes-1.5.2%2B1.19.3-fabric.jar"
             ],
             "fileSize": 128670
+        },
+        {
+            "path": "mods/cem-0.7.3.jar",
+            "hashes": {
+                "sha1": "9012ad2ef4824f659709580d9c28cfc733017a2d",
+                "sha512": "705179f75c874883f3058667a8bab0f8d5e93fe123a3122895623fe58aeb702b98f7f6aa70e900b28cc721fd0d0c6bf1ca90163cc30327500a464841af4a0e5f"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YOQCucah/versions/aEQ5odDW/cem-0.7.3.jar"
+            ],
+            "fileSize": 1080905
         },
         {
             "path": "mods/cloth-config-10.0.96-fabric.jar",
@@ -281,16 +292,28 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/midnightcontrols-1.8.0+1.19.4.jar",
+            "path": "mods/midnightcontrols-1.8.1+1.19.4.jar",
             "hashes": {
-                "sha1": "658e13a259aabe059e90aeb964eb7e6455b732f2",
-                "sha512": "42b624055473a823a808f85edfd9562de45f551ca5b51926f67b3afd47d40e12fe2eccb6a8df48bfbcb95c878745227d9f9327265d97d2f8bac203da8a695b12"
+                "sha1": "c61ae7c390282e078ab9421d9da234437cdbd6f4",
+                "sha512": "ef000ef495fef67822fbcedae75be1b5de10688020613f3f99e1ed7122041e1ebae43cf3a05a93aaee957dab08be6133aa34d0232f52e5342769f7d31aa927a6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/bXX9h73M/versions/9XWTMlED/midnightcontrols-1.8.0%2B1.19.4.jar",
-                "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.8.0/midnightcontrols-1.8.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/bXX9h73M/versions/zAWwNTEr/midnightcontrols-1.8.1%2B1.19.4.jar",
+                "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.8.1/midnightcontrols-1.8.1%2B1.19.4.jar"
             ],
-            "fileSize": 566089
+            "fileSize": 570006
+        },
+        {
+            "path": "mods/midnightlib-fabric-1.2.1.jar",
+            "hashes": {
+                "sha1": "f1ee38331dbf7e0fff5a825007cf261dbea56e1b",
+                "sha512": "01de48ae5342bdd0a1396f6d6b3db8cf8693fbb5c4256fe48d15e6b3688f10be79d2f8fdc08c53e316e67410db376d8b30297912dc8d59cdd2e157125927d4e2"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/codAaoxh/versions/Atr5M7ky/midnightlib-fabric-1.2.1.jar",
+                "https://github.com/TeamMidnightDust/MidnightLib/releases/download/1.2.1/midnightlib-fabric-1.2.1.jar"
+            ],
+            "fileSize": 68792
         },
         {
             "path": "mods/MixinConflictHelper-1.2.0.jar",
@@ -362,15 +385,15 @@
             "fileSize": 1235479
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.4-v2.1.0.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.4-v2.1.1.jar",
             "hashes": {
-                "sha1": "f852462c10abc323e2ef7646768b4d203ae2f956",
-                "sha512": "431025fc4bed576dabe5cef3f3c45362fe69484951e0585b65e79b72f523e793fd8dab48bfa133b956beaddc8c96a2c83329f7eba92ebeea282748dbb010e208"
+                "sha1": "09129a9ad265b60776e18169993ef917535f4ba7",
+                "sha512": "be5e1f1c27703e440b475027958116bcddd02ce24ea86af4aa2144d2826eeba7e438dc18fa002eaa4c5266c2386adebfa303b563a8e4ce8cd7a035e1f4f55f3e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/6yybObpX/NoChatReports-FABRIC-1.19.4-v2.1.0.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/UB0mRick/NoChatReports-FABRIC-1.19.4-v2.1.1.jar"
             ],
-            "fileSize": 574991
+            "fileSize": 583671
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -384,16 +407,16 @@
             "fileSize": 16197
         },
         {
-            "path": "mods/optigui-1.1.6.jar",
+            "path": "mods/optigui-2.0.0-beta.2.jar",
             "hashes": {
-                "sha1": "35887bf81b9e1b6296d3955b64f37cd9a65b2785",
-                "sha512": "e5621fd410f05fb36b0da9dce7d7d71cf5d0d5aaa9a6c2398b3de7cd131f789cb2bb7d062a48dc0060b5a2faa62139c66510e71943924793be8860f149819bf7"
+                "sha1": "288154bc7d22d6276ab638c01a7e02670e0b9470",
+                "sha512": "fcb5077465ca9ea5b22702988c085d08f593cb0696ebe0ebe116d1a239dbe7c93611ee2301361cab69d7eba6e9c592ba903876963f6413de63ab5168da7f31a1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/HpDkLZjj/optigui-1.1.6.jar",
-                "https://github.com/opekope2/OptiGUI/releases/download/v1.1.6-1.19.3/optigui-1.1.6.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/vJb4cpaY/optigui-2.0.0-beta.2.jar",
+                "https://github.com/opekope2/OptiGUI-Next/releases/download/2.0.0-beta.2/optigui-2.0.0-beta.2.jar"
             ],
-            "fileSize": 278635
+            "fileSize": 628745
         },
         {
             "path": "mods/puzzle-1.5.0+1.19.4.jar",
@@ -502,6 +525,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.4",
-        "fabric-loader": "0.14.17"
+        "fabric-loader": "0.14.18"
     }
 }

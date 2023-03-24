@@ -10,11 +10,15 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f4f06b0f74a1328f559860cc8db3315ca2310269313c2b4b9f1cae626fd8cfed"
+hash = "89cd63533df25e72a6f48137759bc688e4195198b2682a5b85977c5d115c6f40"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "58e2bae2a502bb5c7c710ab4c3e5324024b96e7a458e8bcc247d7bbf958e29d1"
+hash = "99eff072e09df063cdb0dd7295e8cb788171692c4bb3ec29845372d57a57bc2d"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "2cd343833ce25596404f0c4c8841355157372152985058673ada3d22d79fa23b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -69,10 +73,6 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "245846dc2c37fcebaccc08299c0b345552c2f031b5603b68b0bc3a1b869224c0"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "97a19031a10809c206b89c366bf1e802e4f2d39e9df798c3c627bf0d63448447"
 
@@ -102,11 +102,11 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "cb2555f4fdcc6c3bdb47f07cc5a8a92998a27f9273befe3836d3c6b652032ee4"
+hash = "f7726af8c3b091f9dd74d3051d750ca17186c9c341c38551e51674f221ee522b"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "d434a29ba370ba43ca34b1c6b44a7f882869a136bf935729bd53db965c1c824d"
+hash = "6d62635db2b57c9bf5b5d6666a10f79641281569f8c54b3f2e7db44eaceb8fc8"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "6bda1d6e217b5fb97a0006e99871367658c1b17220fdd3d3b1a90b5fc454ea8c"
+hash = "b6fdebc38bf3e988d5386bd781394545a06456e0f8fd238f2a380023de2165a7"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "de4c8ba57b81c8945a096b98e1bcbc1d255d6ee119bd24370d78f0bc39952c93"
+hash = "756764e9f03a62019eb6ee5589c640b1c6210855055b66aeadd74aacd8ca466e"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ce12417586a03a7d277ee5afcf5b52439464e54de56200aadc13965bc0586d99"
+hash = "d552aa730368d565ba80e32900b1817441e42450f52ac268f4f36ca7a66a4b24"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "cbfe5857490ef36a66f5806480e6f7ef7afb94cf0fdae6ef052ea4a371007582"
+hash = "1f132526501a4836860b0d1fd66850df4e2931f9ba7ca95dea9dec321a6539c8"
 metafile = true
 
 [[files]]
