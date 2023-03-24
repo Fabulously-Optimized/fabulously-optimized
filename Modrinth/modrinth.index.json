@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.5",
+    "versionId": "4.7.0-alpha.6",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -82,6 +82,17 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/6XGTNEII/cloth-config-10.0.96-fabric.jar"
             ],
             "fileSize": 1146510
+        },
+        {
+            "path": "mods/continuity-3.0.0-beta.2+1.19.3.jar",
+            "hashes": {
+                "sha1": "229057727abf35e0469527b94d84d96e1770c156",
+                "sha512": "8905878952c0bd85d9b2bf3b2917232ac825dce4e77eb0aac10e80d28bdae019e3d37529f6c280e4904f918297eca87f174a9a6d8d2e5a20679ac5f01f1baf6a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2%2B1.19.3.jar"
+            ],
+            "fileSize": 1145374
         },
         {
             "path": "mods/Debugify-1.19.4+1.0.jar",

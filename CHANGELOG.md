@@ -3,12 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.6 (2023-03-24)
+
+- Readded Continuity
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
 ### 4.7.0-alpha.5 (2023-03-23)
 
 - Updated No Chat Reports
    - Enabled chat status indicator again as the bug is fixed
 - Updated MMH translations in Simplified Chinese
 - Updated and enforced Fabric Loader 0.14.18
+- Temporarily removed AdvancementInfo, CIT Resewn, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
 
 ### 4.7.0-alpha.4 (2023-03-20)
 

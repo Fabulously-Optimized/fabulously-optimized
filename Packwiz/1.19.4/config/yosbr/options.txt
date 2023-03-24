@@ -6,8 +6,8 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-resourcePacks:["vanilla","fabric","midnightcontrols:bedrock","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","midnightcontrols:bedrock","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true
