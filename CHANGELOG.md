@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.7 (2023-03-25)
+
+- Readded CIT Resewn
+- Updated Entity Texture Features, OptiGUI
+- Not yet available: AdvancementInfo, Enhanced Block Entities, LambDynamicLights, MemoryLeakFix
+
 ### 4.7.0-alpha.6 (2023-03-24)
 
 - Readded Continuity

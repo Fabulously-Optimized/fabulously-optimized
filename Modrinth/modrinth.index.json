@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.6",
+    "versionId": "4.7.0-alpha.7",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -73,6 +73,17 @@
             "fileSize": 1080905
         },
         {
+            "path": "mods/CITResewn-1.1.3+1.19.4.jar",
+            "hashes": {
+                "sha1": "d0e3a9625a55d4992fbb2c8302360c592e22af91",
+                "sha512": "a5182de09ae72301182734eae01744e6fb9b9e689d173e2bf96aa7777e89fa0d26bbf83a39699e619be915601f1935301047363844ece1edc651864a02d8a0f2"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/otVJckYQ/versions/8oMEcc2E/CITResewn-1.1.3%2B1.19.4.jar"
+            ],
+            "fileSize": 394402
+        },
+        {
             "path": "mods/cloth-config-10.0.96-fabric.jar",
             "hashes": {
                 "sha1": "9bd3ad20afbcd4622d194853aa8e03c4f9d9050f",
@@ -131,15 +142,15 @@
             "fileSize": 56582
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.19.4-4.3.4.jar",
+            "path": "mods/entity_texture_features_fabric_1.19.4-4.3.5.jar",
             "hashes": {
-                "sha1": "bb4e6894bdc08e42a84c5e262ccdd40c361129b1",
-                "sha512": "1f4414d70123a792685d37eb794adc7b69470d3078d4fc25c65c2cb7277e87eb7e3ac59e81013a4ae48c58d6ae00ddac2f513cfb9b503f86237cbfac2611fe54"
+                "sha1": "7e59cc6f46f24255c612f3410e5f081fd93bb74d",
+                "sha512": "4f4c79a2428b2792d8f47214358b8e614841cf442dc992ae1465ce30443a5e1bddd551a16446bbfb7185a3d5413f55fce952e0e696264a3d81cbde114ad9cc37"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/yRJhlMwY/entity_texture_features_fabric_1.19.4-4.3.4.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/4WOYtIge/entity_texture_features_fabric_1.19.4-4.3.5.jar"
             ],
-            "fileSize": 412965
+            "fileSize": 414560
         },
         {
             "path": "mods/fabric-api-0.76.0+1.19.4.jar",
@@ -418,16 +429,16 @@
             "fileSize": 16197
         },
         {
-            "path": "mods/optigui-2.0.0-beta.2.jar",
+            "path": "mods/optigui-2.0.0-beta.3.jar",
             "hashes": {
-                "sha1": "288154bc7d22d6276ab638c01a7e02670e0b9470",
-                "sha512": "fcb5077465ca9ea5b22702988c085d08f593cb0696ebe0ebe116d1a239dbe7c93611ee2301361cab69d7eba6e9c592ba903876963f6413de63ab5168da7f31a1"
+                "sha1": "bb61c5649c1bb027df3f7f2b952fc4885c13eaee",
+                "sha512": "cded2a1b99b1f16bf201d3156b18361139a3b3810f452bcc284d91e61da3ebc408f04503956ff22205e58af2fd924a73ca10d8540adc8f380bc987d6bd56274c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/vJb4cpaY/optigui-2.0.0-beta.2.jar",
-                "https://github.com/opekope2/OptiGUI-Next/releases/download/2.0.0-beta.2/optigui-2.0.0-beta.2.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/TM9YqUwX/optigui-2.0.0-beta.3.jar",
+                "https://github.com/opekope2/OptiGUI-Next/releases/download/2.0.0-beta.3/optigui-2.0.0-beta.3.jar"
             ],
-            "fileSize": 628745
+            "fileSize": 700195
         },
         {
             "path": "mods/puzzle-1.5.0+1.19.4.jar",
