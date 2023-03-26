@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-alpha.8 (2023-03-26)
+
+- Readded MemoryLeakFix
+- Removed Mixin Conflict Helper - did not prove useful
+- Removed LazyDFU - no longer needed in 1.19.4
+- Removed MidnightLib - was not supposed to be separately included
+- Updated Custom Entity Models
+- Disabled OptiGUI's log recommendation
+- Enforced Mod Menu config to hide a library
+- Not yet available: AdvancementInfo, Enhanced Block Entities, LambDynamicLights
+
 ### 4.7.0-alpha.7 (2023-03-25)
 
 - Readded CIT Resewn

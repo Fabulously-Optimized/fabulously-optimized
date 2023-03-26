@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.7",
+    "versionId": "4.7.0-alpha.8",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -64,13 +64,13 @@
         {
             "path": "mods/cem-0.7.3.jar",
             "hashes": {
-                "sha1": "9012ad2ef4824f659709580d9c28cfc733017a2d",
-                "sha512": "705179f75c874883f3058667a8bab0f8d5e93fe123a3122895623fe58aeb702b98f7f6aa70e900b28cc721fd0d0c6bf1ca90163cc30327500a464841af4a0e5f"
+                "sha1": "81f6ad8f2a8cd3b18a81234a30b6bb06674069b8",
+                "sha512": "df24197b2483fdadfc1692d0108567e778d747f6cdaefde76630d28477f8de16e0fdbd450e70eddfe917a277fb6f94028443423b83f9e6a290d34493c283369e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YOQCucah/versions/aEQ5odDW/cem-0.7.3.jar"
+                "https://cdn.modrinth.com/data/YOQCucah/versions/xlUWeQ8T/cem-0.7.3.jar"
             ],
-            "fileSize": 1080905
+            "fileSize": 1081296
         },
         {
             "path": "mods/CITResewn-1.1.3+1.19.4.jar",
@@ -278,18 +278,6 @@
             "fileSize": 62666
         },
         {
-            "path": "mods/lazydfu-0.1.3.jar",
-            "hashes": {
-                "sha1": "0dfa8b03ed408fb7fdada29e01cfebba02af1049",
-                "sha512": "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar",
-                "https://github.com/astei/lazydfu/releases/download/v0.1.3/lazydfu-0.1.3.jar"
-            ],
-            "fileSize": 14531
-        },
-        {
             "path": "mods/lithium-fabric-mc1.19.4-0.11.1.jar",
             "hashes": {
                 "sha1": "69aa137957af4f0f701f6a7663c6d8646f84a1cc",
@@ -314,6 +302,18 @@
             "fileSize": 14190
         },
         {
+            "path": "mods/memoryleakfix-fabric-1.17+-1.0.0-beta.5.jar",
+            "hashes": {
+                "sha1": "fc9eeba0ab05686358121934c998e4821c6f7dd2",
+                "sha512": "e011874a0bcdfeb2700ff56b7e6b3b3407dedf156091a2392ca55334884d0fede150506b8ee22ddf9b6f5c72ac913583a8cda1f52af490a3a63be2ff0c38f400"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/LiwSZxV8/memoryleakfix-fabric-1.17%2B-1.0.0-beta.5.jar",
+                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v1.0.0-beta.5/memoryleakfix-fabric-1.17%2B-1.0.0-beta.5.jar"
+            ],
+            "fileSize": 146899
+        },
+        {
             "path": "mods/midnightcontrols-1.8.1+1.19.4.jar",
             "hashes": {
                 "sha1": "c61ae7c390282e078ab9421d9da234437cdbd6f4",
@@ -324,30 +324,6 @@
                 "https://github.com/TeamMidnightDust/MidnightControls/releases/download/v1.8.1/midnightcontrols-1.8.1%2B1.19.4.jar"
             ],
             "fileSize": 570006
-        },
-        {
-            "path": "mods/midnightlib-fabric-1.2.1.jar",
-            "hashes": {
-                "sha1": "f1ee38331dbf7e0fff5a825007cf261dbea56e1b",
-                "sha512": "01de48ae5342bdd0a1396f6d6b3db8cf8693fbb5c4256fe48d15e6b3688f10be79d2f8fdc08c53e316e67410db376d8b30297912dc8d59cdd2e157125927d4e2"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/codAaoxh/versions/Atr5M7ky/midnightlib-fabric-1.2.1.jar",
-                "https://github.com/TeamMidnightDust/MidnightLib/releases/download/1.2.1/midnightlib-fabric-1.2.1.jar"
-            ],
-            "fileSize": 68792
-        },
-        {
-            "path": "mods/MixinConflictHelper-1.2.0.jar",
-            "hashes": {
-                "sha1": "d25e635f1059d8eedbee106ca55ce12b7055a302",
-                "sha512": "a385cd827d83cd9e180d3206e35fa9f66786e3335dda184ae14f83c8e812e15df9fb53cbbff1005a3189b4218486ddf249ea4ebd22b4aae55265f3fe0ecc930d"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/MR1VIQJJ/versions/8dRAFcey/MixinConflictHelper-1.2.0.jar",
-                "https://github.com/isXander/MixinConflictHelper/releases/download/1.2.0/MixinConflictHelper-1.2.0.jar"
-            ],
-            "fileSize": 171690
         },
         {
             "path": "mods/mixintrace-1.1.1+1.17.jar",

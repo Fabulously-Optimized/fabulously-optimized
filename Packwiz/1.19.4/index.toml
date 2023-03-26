@@ -10,15 +10,15 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "30ecb5be311aaf6f6494fbf432cd00152316a8c5f3ffca9d2efb514c053cf552"
+hash = "3419dec52bf430951edb6f124b6a23fdad36ee4fc00a25f043fcdaf87dacbc54"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "48abcd80eb2f22a3a916fcf2291d822dc704f90c4990503c3dedadcf2ffc075c"
+hash = "bfda8badfdaf669469dab582fcd77a9f9effc21ee5a5f33af1b9f085ede0c021"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+file = "config/modmenu.json"
+hash = "05cd0b4d25256b468968d0886b0956218e55188cbd9406c204e22a98690a0942"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -73,10 +73,6 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "8b65b158abe60f5bc72cdd8c7db455612266a6e617febbad1b1fda916502a975"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "97a19031a10809c206b89c366bf1e802e4f2d39e9df798c3c627bf0d63448447"
 
@@ -91,6 +87,10 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "39d591da20da0e1d262adf2e3407c6c57904eca5b14e48310836c90d2362a470"
+hash = "eb03f929a1b10f9d66a0755f4e4da6d0f320b6032888af8ca7c0cbe8b25cf75a"
 metafile = true
 
 [[files]]
@@ -229,11 +229,6 @@ hash = "8b6676f4c7330e532dc04d4209a5b9d10d6e32d9db6b0b0f6db1b9d2df26d28f"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "caf5cf800e403f44a64813bf8f4263dd9743983d66a5fabb9bc03d4560996394"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "1a9b19f754179d965cbafd4f3742c74dae03d3252f88a3c9b0fdbd500972bc23"
 metafile = true
@@ -244,18 +239,13 @@ hash = "bf619ec7dae9e2dcd694424a7c702c7fa1f549c3589f9ea0f4ef4d40d9041c2a"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "44bfefa13883569a07558cb67369f72e9f7f7f55c872b2a6ed00d0807b70c014"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "e55608355a86866c5b1f7e34ab1cd8aff69ff43a927a28d18783b840103103b8"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "58a81dd97cf82ec59e4d12157bc43c4a862a1282c39b6c8624c0578e48ec0264"
-metafile = true
-
-[[files]]
-file = "mods/mixin-conflict-helper.pw.toml"
-hash = "4d7792023b4cdd7ba399ddf95bbb3af9c3b69557ccfd7177a9aa19b07495e5b6"
 metafile = true
 
 [[files]]
