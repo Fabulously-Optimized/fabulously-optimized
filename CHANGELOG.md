@@ -133,7 +133,7 @@ Modrinth-exclusive reupload to fix the Prism Launcher crash. Visible version is 
 
 ### 4.6.0-beta.11 (2023-03-05)
 
-Casual reminder: if you get any questions or issues while using FO, our Discord (https://discord.gg/yxaXtaQqdB) is the first place to ask in. Asking in other generic or mod-specific servers may not give you the same support, as they don't know how FO is configured.
+Casual reminder: if you get any questions or issues while using FO, our Discord (https://fabulously-optimized.github.io/discord) is the first place to ask in. Asking in other generic or mod-specific servers may not give you the same support, as they don't know how FO is configured.
 
 - Readded Enhanced Block Entities
 - Removed Better Beds
@@ -1610,7 +1610,7 @@ Other stuff
 
 ### 2.2.0 (2021-09-29)
 
-New mods, new Mod Menu style and a new Discord server! https://discord.gg/yxaXtaQqdB
+New mods, new Mod Menu style and a new Discord server! https://fabulously-optimized.github.io/discord
 Also known as "the update that couldn't be installed with CurseForge Launcher".
 
 New mods
