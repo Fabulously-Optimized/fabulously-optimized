@@ -3,12 +3,11 @@ filename = "Zoomify-2.9.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1e369df6e207cdd7c7cc073e211b97bc8be17f74"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/p5RjeOJL/Zoomify-2.9.2.jar"
+hash-format = "sha512"
+hash = "9207ed8211c37266086039b93cce2dcaaec473378101cdb18d46bef43a7bb4eaf4090fb3b9b76594a85e8b2a1933ffbc1ef3d9dad6e0b61978115641458904d2"
 
 [update]
-[update.curseforge]
-file-id = 4184889
-project-id = 574741
-release-channel = "beta"
+[update.modrinth]
+mod-id = "w7ThoJFB"
+version = "p5RjeOJL"
