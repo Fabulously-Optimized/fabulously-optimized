@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-beta.1 (2023-03-28)
+
+FPS go brrr
+
+- Added ImmediatelyFast - improves FPS of mobs, containers, particles, text
+- Updated MemoryLeakFix
+- Updated Korean and Chinese Traditional translations
+
 ### 4.7.0-alpha.8 (2023-03-26)
 
 - Readded MemoryLeakFix

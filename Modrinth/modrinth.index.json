@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-alpha.8",
+    "versionId": "4.7.0-beta.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -242,6 +242,18 @@
             "fileSize": 43235
         },
         {
+            "path": "mods/ImmediatelyFast-1.1.11+1.19.4.jar",
+            "hashes": {
+                "sha1": "4a04d69a0ac83709462460ffa8e9e58695d52a02",
+                "sha512": "696724d8bf2148be286bfb5f0e4d51902e423062cf5824d871072d6890ea7f976285dfb98d69e764f563d57dfb37623d4c29a01d21ae7df5bfb7551210fc7bda"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/IpEJi0ih/ImmediatelyFast-1.1.11%2B1.19.4.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.1.11%2B1.19.4/ImmediatelyFast-1.1.11%2B1.19.4.jar"
+            ],
+            "fileSize": 180510
+        },
+        {
             "path": "mods/indium-1.0.15+mc1.19.4.jar",
             "hashes": {
                 "sha1": "5391112f63ca8d07b370759da8480a8aafe0d483",
@@ -302,16 +314,16 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/memoryleakfix-fabric-1.17+-1.0.0-beta.5.jar",
+            "path": "mods/memoryleakfix-fabric-1.17+-1.0.0-beta.7.jar",
             "hashes": {
-                "sha1": "fc9eeba0ab05686358121934c998e4821c6f7dd2",
-                "sha512": "e011874a0bcdfeb2700ff56b7e6b3b3407dedf156091a2392ca55334884d0fede150506b8ee22ddf9b6f5c72ac913583a8cda1f52af490a3a63be2ff0c38f400"
+                "sha1": "230f4d32a68049c45041e768c2f9c2b7e841258c",
+                "sha512": "ed18b816eb61b595e9e3218e384f50d177b2d528c6db70d310c7a0fdb96f4d8716ee89e0b051f7079f86ec5eee322a28367da4e23fc4a013585304ef567228f9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/LiwSZxV8/memoryleakfix-fabric-1.17%2B-1.0.0-beta.5.jar",
-                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v1.0.0-beta.5/memoryleakfix-fabric-1.17%2B-1.0.0-beta.5.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/qg92ypPl/memoryleakfix-fabric-1.17%2B-1.0.0-beta.7.jar",
+                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v1.0.0-beta.7/memoryleakfix-fabric-1.17%2B-1.0.0-beta.7.jar"
             ],
-            "fileSize": 146899
+            "fileSize": 146923
         },
         {
             "path": "mods/midnightcontrols-1.8.1+1.19.4.jar",
