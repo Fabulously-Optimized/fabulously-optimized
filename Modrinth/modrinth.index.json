@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-beta.1",
+    "versionId": "4.7.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -278,6 +278,17 @@
             "fileSize": 2302466
         },
         {
+            "path": "mods/lambdynamiclights-2.3.0+1.19.4.jar",
+            "hashes": {
+                "sha1": "f6e1621f9ee31263919b75af6d6851089c355b02",
+                "sha512": "4b51218260e3e9a1500308e9525d9297daf0c5184219d35fe96ce527c30215d135b25b2df4baf4fa3117f1dd7b0f76cf7a9f535f65e3238fc0f28d251a30b71a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/7Cx8p05b/lambdynamiclights-2.3.0%2B1.19.4.jar"
+            ],
+            "fileSize": 561327
+        },
+        {
             "path": "mods/language-reload-1.5.5+1.19.4.jar",
             "hashes": {
                 "sha1": "263f9a551974ddd3a1331468680b482bc56e0ff8",
@@ -488,16 +499,16 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-2.3.0.jar",
+            "path": "mods/YetAnotherConfigLib-2.3.1.jar",
             "hashes": {
-                "sha1": "b1c2611c955da883bb89314258ed6b2b2926f283",
-                "sha512": "8b8834a13723d86e85e7170f3d527a76154cd9675c3c2a4d9531e0dad251f8b3b6a6ebc204a2ecd382634b5ce971d8857c5ad7dbee0927150e65074f0fdd25eb"
+                "sha1": "e4f00af82c5bdf15b4a5192dd90b2c884c05ba6e",
+                "sha512": "5baaa701821cca301c0010d8b5a8f4fc6c735a2e05df10b81ed89f8b55da7b560028091025e00507fe9160cbde812dcd910114fddec403020f4d521d8bca75b5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/RmZvIqeu/YetAnotherConfigLib-2.3.0.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.3.0/YetAnotherConfigLib-2.3.0.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/A04AftxZ/YetAnotherConfigLib-2.3.1.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.3.1/YetAnotherConfigLib-2.3.1.jar"
             ],
-            "fileSize": 204595
+            "fileSize": 204867
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
