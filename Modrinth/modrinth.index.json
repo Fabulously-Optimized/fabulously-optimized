@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-beta.2",
+    "versionId": "4.7.0-beta.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -60,17 +60,6 @@
                 "https://cdn.modrinth.com/data/89Wsn8GD/versions/kXfWiNN7/capes-1.5.2%2B1.19.3-fabric.jar"
             ],
             "fileSize": 128670
-        },
-        {
-            "path": "mods/cem-0.7.3.jar",
-            "hashes": {
-                "sha1": "81f6ad8f2a8cd3b18a81234a30b6bb06674069b8",
-                "sha512": "df24197b2483fdadfc1692d0108567e778d747f6cdaefde76630d28477f8de16e0fdbd450e70eddfe917a277fb6f94028443423b83f9e6a290d34493c283369e"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/YOQCucah/versions/xlUWeQ8T/cem-0.7.3.jar"
-            ],
-            "fileSize": 1081296
         },
         {
             "path": "mods/CITResewn-1.1.3+1.19.4.jar",
@@ -142,6 +131,17 @@
             "fileSize": 56582
         },
         {
+            "path": "mods/entity_model_features_fabric_1.19.4-0.2.4.jar",
+            "hashes": {
+                "sha1": "15def86a3e9f27943156337001f86fb645b7526a",
+                "sha512": "2681adbd8e2596c1274ac3cfe52bad8587f961e222f275727eb1fb9fb26f0da636eee315ec2b043cd24356fdee59fb119fa2cdbb4a2dbff7eb57dbd4a925d320"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/yYaRtPUw/entity_model_features_fabric_1.19.4-0.2.4.jar"
+            ],
+            "fileSize": 438746
+        },
+        {
             "path": "mods/entity_texture_features_fabric_1.19.4-4.3.5.jar",
             "hashes": {
                 "sha1": "7e59cc6f46f24255c612f3410e5f081fd93bb74d",
@@ -164,16 +164,16 @@
             "fileSize": 1940163
         },
         {
-            "path": "mods/fabric-language-kotlin-1.9.2+kotlin.1.8.10.jar",
+            "path": "mods/fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar",
             "hashes": {
-                "sha1": "5a68b37cd9e3f13337f7959d82fcfe21b749e5c6",
-                "sha512": "aa6b385ac7f90e2da3dfd89598ec8d733a35beed35f5995f29227b432ec7cc882155e91edcdae82a4b6e9649acae7b5b13e848411c21b34787559b5f14492113"
+                "sha1": "2a3d3f8aa263ba7748550a94e97cf760712bc2c6",
+                "sha512": "84d88bec4cde93834f47e8c786b52991eceafe7a3e85dc8842a1e4b9b959020e3afe68ff2d961a2d8b5ac7443cbc271d1f070ec668d8ae8f930b3ca7007a9ac6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/Ibros2FW/fabric-language-kotlin-1.9.2%2Bkotlin.1.8.10.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.2%2Bkotlin.1.8.10/fabric-language-kotlin-1.9.2%2Bkotlin.1.8.10.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/MkcO8aQ0/fabric-language-kotlin-1.9.3%2Bkotlin.1.8.20.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.3%2Bkotlin.1.8.20/fabric-language-kotlin-1.9.3%2Bkotlin.1.8.20.jar"
             ],
-            "fileSize": 6520805
+            "fileSize": 6578015
         },
         {
             "path": "mods/fabricskyboxes-0.6.5+mc1.19.4.jar",
@@ -325,16 +325,15 @@
             "fileSize": 14190
         },
         {
-            "path": "mods/memoryleakfix-fabric-1.17+-1.0.0-beta.7.jar",
+            "path": "mods/memoryleakfix-fabric-1.17+-1.0.0.jar",
             "hashes": {
-                "sha1": "230f4d32a68049c45041e768c2f9c2b7e841258c",
-                "sha512": "ed18b816eb61b595e9e3218e384f50d177b2d528c6db70d310c7a0fdb96f4d8716ee89e0b051f7079f86ec5eee322a28367da4e23fc4a013585304ef567228f9"
+                "sha1": "899018ccd70447efe2f198701aeb52bd5eed7c12",
+                "sha512": "e503dffbb091a421017e942a185f87aa3aaeca8c489e272c06655ac443a3d07e9d7400b564fc5cb468e5990ca02c3ee96d19e525fb887d0625be7ad5a1126db4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NRjRiSSD/versions/qg92ypPl/memoryleakfix-fabric-1.17%2B-1.0.0-beta.7.jar",
-                "https://github.com/fxmorin/MemoryLeakFix/releases/download/v1.0.0-beta.7/memoryleakfix-fabric-1.17%2B-1.0.0-beta.7.jar"
+                "https://cdn.modrinth.com/data/NRjRiSSD/versions/PtXTwQt6/memoryleakfix-fabric-1.17%2B-1.0.0.jar"
             ],
-            "fileSize": 146923
+            "fileSize": 146933
         },
         {
             "path": "mods/midnightcontrols-1.8.1+1.19.4.jar",
@@ -546,6 +545,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.4",
-        "fabric-loader": "0.14.18"
+        "fabric-loader": "0.14.19"
     }
 }

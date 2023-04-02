@@ -10,11 +10,11 @@ hash = "76e6ca1ea09f13d97c2f13bd1ffc5dba6e7f5f610112763bcb0d2d27c9199b84"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f8c41a542bfbad086dbfbb20bf0235a2435b9f7a4f84a5ac67e94be4bcabb1f1"
+hash = "950d99b7b1d07c54939d3d50d4524f85ff1a7c36d4d8ea62f751edca733aaa8b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "878c1a9803383132ca2a688ed66215f4d5f403928b0cc0f630973e3d9697fd69"
+hash = "00bbe092696ae8e5d7df5b0452e5140dcc13778ebf6223122062cba63c91d122"
 
 [[files]]
 file = "config/modmenu.json"
@@ -126,11 +126,6 @@ hash = "b6fdebc38bf3e988d5386bd781394545a06456e0f8fd238f2a380023de2165a7"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "eb03f929a1b10f9d66a0755f4e4da6d0f320b6032888af8ca7c0cbe8b25cf75a"
-metafile = true
-
-[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "fbc0d426c5035a94ef922a9acac048ae1fab1fe459b45e841e5b288e66b99975"
 metafile = true
@@ -156,6 +151,11 @@ hash = "3b3d6b2c0a9256dab61c5e084b3a89d1f946cac9c2da8601dbc184d82053584c"
 metafile = true
 
 [[files]]
+file = "mods/entity_model_features.pw.toml"
+hash = "05ea77806c3a52e44dd5ae107e1a78f77b8b20b5216c1a03facb943a8df7d7f2"
+metafile = true
+
+[[files]]
 file = "mods/entity_texture_features.pw.toml"
 hash = "b831e7ff27dbe6bd8871155a97cde000c2ea88b0def57dde3f0eed73a60a4a5d"
 metafile = true
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "860a1c62c4fab41dc5f0084a7f83cf21c9d87a201a0593d049208114146e11ad"
+hash = "cef05d8db8ea72a37f1c8d7418ccb446278dd17d2b9d2f8bd087e505adfc90ec"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9a96ab68d759583d44587bae21ce41196c116dcdbacd14247955e394387703a5"
+hash = "295fc4a373635cba66d10cc200075c22b785fae9d4b6be513725abbeb93c2e62"
 metafile = true
 
 [[files]]
@@ -341,4 +341,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "b2042ee3660c206ce505278885c2379c81f4fc7a154beb891c62bd6b32530e02"
+hash = "d4edc9d4ffd3ed762b391b72ca37a1d4bfcf19df982bfde99ea54835a0ca9318"
