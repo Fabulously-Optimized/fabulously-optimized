@@ -3,6 +3,34 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-beta.3 (2023-04-02)
+
+- Added Entity Model Features - a better maintained OptiFine's custom models mod
+  - Latest version of Fresh Animations works seamlessly, other packs may still not be perfect but better overall
+- Removed CEM - less compatible and maintained than EMF
+- Updated Fabric Language Kotlin, MemoryLeakFix
+- Updated Korean, Chinese Traditional, Chinese Simplified in MMH
+- Updated Fabric Loader to 0.14.19 where available
+
+### 4.7.0-beta.2 (2023-03-29)
+
+Did you know? You can search "OptiFine" in Mod Menu to find out which mods provide OptiFine features.
+
+- Readded LambDynamicLights
+- Updated YetAnotherConfig
+- Added Spanish CRH translation, updated Chinese Traditional MMH translation
+- Updated ImmediatelyFast MMH description
+- Not yet available: AdvancementInfo, Enhanced Block Entities
+
+### 4.7.0-beta.1 (2023-03-28)
+
+FPS go brrr
+
+- Added ImmediatelyFast - improves FPS of mobs, containers, particles, text
+- Updated MemoryLeakFix
+- Updated Korean and Chinese Traditional translations
+- Not yet available: AdvancementInfo, Enhanced Block Entities, LambDynamicLights
+
 ### 4.7.0-alpha.8 (2023-03-26)
 
 - Readded MemoryLeakFix

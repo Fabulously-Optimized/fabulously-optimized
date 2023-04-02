@@ -58,7 +58,7 @@ if not mmc_export_packwiz_export and not refresh_only:
         os.system(packwiz_exe_path + " remove entityculling")
         os.system(packwiz_exe_path + " mr install entityculling")
         
-elif not mmc_export_packwiz_export and refresh_only: 
+elif refresh_only: 
     os.system(packwiz_exe_path + " refresh")
 
 # Copy fresh manifest/modlist to git
