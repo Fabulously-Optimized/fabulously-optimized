@@ -1,6 +1,6 @@
 So you like this modpack and want to support it? That's great! In this page I have listed the ways you can contribute.
 
-### Support
+### Support us
 
 * **[⬇️ Download the pack from CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/)**
   * More specifically, using either
