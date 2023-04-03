@@ -1,10 +1,21 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-beta.3",
+    "versionId": "4.7.0-beta.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
+        {
+            "path": "mods/advancementinfo-1.19.4-fabric0.76.0-1.3.1.jar",
+            "hashes": {
+                "sha1": "bbd9b0f2f2cc9913082b1476232ada6acb76bac1",
+                "sha512": "7a983166bd9a5ea81c8a4fbfe5261333eb7207cc5080ee0306b62f260113c2fdce68a4c1c7d5275d09b9155e245e59d41e33f50fbb8b498b1a422b9e80fda9d3"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1epq3jN/versions/FURXdWNB/advancementinfo-1.19.4-fabric0.76.0-1.3.1.jar"
+            ],
+            "fileSize": 1041527
+        },
         {
             "path": "mods/animatica-0.5+1.19.jar",
             "hashes": {
