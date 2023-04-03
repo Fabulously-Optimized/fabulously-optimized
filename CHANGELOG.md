@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0-beta.4 (2023-04-03)
+
+- Readded AdvancementInfo
+- Enabled bugfix for MC-577 - "Mouse buttons block all inventory controls that are not default"
+- Updated MMH translation for Chinese Traditional
+- Cleaned Mod Menu config a bit
+- Not yet available: Enhanced Block Entities
+
 ### 4.7.0-beta.3 (2023-04-02)
 
 - Added Entity Model Features - a better maintained OptiFine's custom models mod
@@ -11,6 +19,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated Fabric Language Kotlin, MemoryLeakFix
 - Updated Korean, Chinese Traditional, Chinese Simplified in MMH
 - Updated Fabric Loader to 0.14.19 where available
+- Not yet available: AdvancementInfo, Enhanced Block Entities
 
 ### 4.7.0-beta.2 (2023-03-29)
 
