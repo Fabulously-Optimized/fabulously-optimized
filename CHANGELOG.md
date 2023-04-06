@@ -110,6 +110,11 @@ Who let the mods out?!
 
 ## 1.19.3
 
+### 4.6.1 (2023-04-06)
+
+- Updated Fabric Language Kotlin, MemoryLeakFix, OptiGUI
+- Updated Fabric Loader to 0.14.19
+
 ### 4.6.0 (2023-03-24)
 
 Your eyes are not deceiving you. After 3.5 months of development, 4.6.0 is finally released!
