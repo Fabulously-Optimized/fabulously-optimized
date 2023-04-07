@@ -110,6 +110,11 @@ Who let the mods out?!
 
 ## 1.19.3
 
+### 4.6.1 (2023-04-06)
+
+- Updated Fabric Language Kotlin, MemoryLeakFix, OptiGUI
+- Updated Fabric Loader to 0.14.19
+
 ### 4.6.0 (2023-03-24)
 
 Your eyes are not deceiving you. After 3.5 months of development, 4.6.0 is finally released!
@@ -430,6 +435,15 @@ Other
 - Updated and enforced Fabric Loader 0.14.11 everywhere
 
 ## 1.19.2
+
+### 4.5.7 (2023-04-06)
+
+Yup, that happened. 
+Due to Minecraft's new release schedule, I can see that some players still need to use 1.19.2, so I've decided to update the mods for you, to fix some crashes with additional mods.
+Keep in mind that this version is still outdated and you should upgrade ASAP.
+
+- Updated Capes, Continuity, Custom Entity Models, Entity Culling, Entity Texture Features, Fabric API, Fabric Language Kotlin, FabricSkyboxes, Iris Shaders, Language Reload, Lithium, MemoryLeakFix, MidnightControls, Puzzle, YetAnotherConfigLib
+- Updated Fabric Loader to 0.14.19
 
 ### 4.5.6 (2023-01-01)
 
