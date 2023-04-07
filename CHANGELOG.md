@@ -3,6 +3,30 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.0 (2023-04-07)
+
+4.7.0 is now out! Major changes from 4.6.0 -> 4.7.0:
+
+- Added ImmediatelyFast - optimizes mobs, container blocks, GUI, HUD
+- Added Entity Model Features - a better maintained OptiFine's custom models mod
+- Removed CEM - less compatible and maintained than EMF
+- Removed Mixin Conflict Helper - did not prove useful
+- Removed LazyDFU - no longer needed in 1.19.4
+- Removed Enhanced Block Entities - not yet updated, to be readded later
+
+- Bundled resource pack descriptions are now translatable
+- Enabled bugfix for MC-577 - "Mouse buttons block all inventory controls that are not default"
+- You can now click on the list icons in Mod Menu to open mod config, if one exists; on pause menu Bugs button is replaced with Mods
+- Various language updates
+- Updated and enforced Fabric Loader 0.14.19
+
+Changes from 4.7.0-beta.4 -> 4.7.0:
+
+- Updated Fabric API, YetAnotherConfigLib
+- Updated and enforced Fabric Loader 0.14.19 everywhere
+
+See the changelog for a full list of changes.
+
 ### 4.7.0-beta.4 (2023-04-03)
 
 - Readded AdvancementInfo

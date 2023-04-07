@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.0-beta.4",
+    "versionId": "4.7.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -164,15 +164,15 @@
             "fileSize": 414560
         },
         {
-            "path": "mods/fabric-api-0.76.0+1.19.4.jar",
+            "path": "mods/fabric-api-0.77.0+1.19.4.jar",
             "hashes": {
-                "sha1": "3914550ad467d47a3e027a24bf2d51f5f68b2e5a",
-                "sha512": "4b114c2f9fdd2bf46d66f33747ebd48bf73958914478996bad1453aee2f12b4f9483daea90a036efcd25dd9a73964f783eb63dcb30460126e1880c78fa01ae94"
+                "sha1": "b7b15b1f1fd5c2bcb31180093bf9e76d48824ebb",
+                "sha512": "0e18c6f1b45a784483e33c861a4f6056e7e4c54c3368b6c2bf626b0628c3a6dd8152b3fc35cd663ac3f5e3e7a4fbbd17bd3399d902dd5e0011bf066012adc1c9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Pz1hLqTB/fabric-api-0.76.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/9Oj5Kedy/fabric-api-0.77.0%2B1.19.4.jar"
             ],
-            "fileSize": 1940163
+            "fileSize": 1951536
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar",
@@ -509,16 +509,15 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-2.3.1.jar",
+            "path": "mods/YetAnotherConfigLib-2.4.0.jar",
             "hashes": {
-                "sha1": "e4f00af82c5bdf15b4a5192dd90b2c884c05ba6e",
-                "sha512": "5baaa701821cca301c0010d8b5a8f4fc6c735a2e05df10b81ed89f8b55da7b560028091025e00507fe9160cbde812dcd910114fddec403020f4d521d8bca75b5"
+                "sha1": "d7a984e51a5db72256fe93ac428b840dcd4f80f3",
+                "sha512": "3d3c2e608af52cb18e41efeab83552d39bcf65b69d4fc09f4c532a73926ea908ca119252ab3fbbd36cceab922b9ec7ca2ee35843ed03450db57457b5a1cd7c99"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/A04AftxZ/YetAnotherConfigLib-2.3.1.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.3.1/YetAnotherConfigLib-2.3.1.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/RLTQViRg/YetAnotherConfigLib-2.4.0.jar"
             ],
-            "fileSize": 204867
+            "fileSize": 207900
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
