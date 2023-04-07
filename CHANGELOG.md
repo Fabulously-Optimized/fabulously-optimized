@@ -14,6 +14,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Removed LazyDFU - no longer needed in 1.19.4
 - Removed Enhanced Block Entities - not yet updated, to be readded later
 
+.
+
 - Bundled resource pack descriptions are now translatable
 - Enabled bugfix for MC-577 - "Mouse buttons block all inventory controls that are not default"
 - You can now click on the list icons in Mod Menu to open mod config, if one exists; on pause menu Bugs button is replaced with Mods
