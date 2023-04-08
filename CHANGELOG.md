@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.1 (2023-04-08)
+
+- Updated Iris
+  - Major update that adds new shader features, improves OptiFine compat, fixes bugs
+  - "Achieved 99% compatibility with OptiFine shaders"
+
 ### 4.7.0 (2023-04-07)
 
 4.7.0 is now out! Major changes from 4.6.0 -> 4.7.0:
