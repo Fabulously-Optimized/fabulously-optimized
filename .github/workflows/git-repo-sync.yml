@@ -7,6 +7,7 @@ on:
 
 jobs:
   sync-bitbucket:
+    if: github.repository_owner == 'Fabulously-Optimized'
     runs-on: ubuntu-22.04
     name: Git Repo Sync - BitBucket
     steps:
