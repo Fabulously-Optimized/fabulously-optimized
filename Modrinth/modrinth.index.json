@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.1",
+    "versionId": "4.7.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -142,15 +142,15 @@
             "fileSize": 56582
         },
         {
-            "path": "mods/entity_model_features_fabric_1.19.4-0.2.4.jar",
+            "path": "mods/entity_model_features_fabric_1.19.4-0.2.5.jar",
             "hashes": {
-                "sha1": "15def86a3e9f27943156337001f86fb645b7526a",
-                "sha512": "2681adbd8e2596c1274ac3cfe52bad8587f961e222f275727eb1fb9fb26f0da636eee315ec2b043cd24356fdee59fb119fa2cdbb4a2dbff7eb57dbd4a925d320"
+                "sha1": "e17a9a1165a05ae27cbd100dc7c8066f7e40c2ab",
+                "sha512": "477c816dc7db3fcdfbcae24502fd6e8cd350fa868435964a2d00a4795ee8536c2d18bd095765979175732171c88b711326f3832177f93effac8bc53196252acb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/yYaRtPUw/entity_model_features_fabric_1.19.4-0.2.4.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/TEAO0eWy/entity_model_features_fabric_1.19.4-0.2.5.jar"
             ],
-            "fileSize": 438746
+            "fileSize": 440383
         },
         {
             "path": "mods/entity_texture_features_fabric_1.19.4-4.3.5.jar",
@@ -164,15 +164,15 @@
             "fileSize": 414560
         },
         {
-            "path": "mods/fabric-api-0.77.0+1.19.4.jar",
+            "path": "mods/fabric-api-0.78.0+1.19.4.jar",
             "hashes": {
-                "sha1": "b7b15b1f1fd5c2bcb31180093bf9e76d48824ebb",
-                "sha512": "0e18c6f1b45a784483e33c861a4f6056e7e4c54c3368b6c2bf626b0628c3a6dd8152b3fc35cd663ac3f5e3e7a4fbbd17bd3399d902dd5e0011bf066012adc1c9"
+                "sha1": "3e8df96145957b37ea547e523654f7319ea6a921",
+                "sha512": "4c20197ec5680711b062787a2bf057bffa443ce0e7c6d575ba0f611eb51b525c595dab20493747cd001d5994e70b8e1f0af89f4a57d780709c653dad4f1868e0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/9Oj5Kedy/fabric-api-0.77.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/unERf4ZJ/fabric-api-0.78.0%2B1.19.4.jar"
             ],
-            "fileSize": 1951536
+            "fileSize": 1956600
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar",
@@ -253,16 +253,15 @@
             "fileSize": 43235
         },
         {
-            "path": "mods/ImmediatelyFast-1.1.11+1.19.4.jar",
+            "path": "mods/ImmediatelyFast-1.1.12+1.19.4.jar",
             "hashes": {
-                "sha1": "4a04d69a0ac83709462460ffa8e9e58695d52a02",
-                "sha512": "696724d8bf2148be286bfb5f0e4d51902e423062cf5824d871072d6890ea7f976285dfb98d69e764f563d57dfb37623d4c29a01d21ae7df5bfb7551210fc7bda"
+                "sha1": "5decd30626ebbb25550eec1487d86a09fb4f9174",
+                "sha512": "ef21a07e74ce258b7ed9d0aafaa933dc6582e1c29b3b8dd0dd3dd1ec3b4ae057777e53fca40dd0ca5a31d59d1318b30cd947bf24df3081405f41c22a6d1a3097"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/IpEJi0ih/ImmediatelyFast-1.1.11%2B1.19.4.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.1.11%2B1.19.4/ImmediatelyFast-1.1.11%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/8IFFeKYy/ImmediatelyFast-1.1.12%2B1.19.4.jar"
             ],
-            "fileSize": 180510
+            "fileSize": 187195
         },
         {
             "path": "mods/indium-1.0.15+mc1.19.4.jar",

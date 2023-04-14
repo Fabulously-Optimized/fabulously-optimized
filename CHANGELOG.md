@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.2 (2023-04-14)
+
+- Updated Entity Model Features, Fabric API, ImmediatelyFast
+
 ### 4.7.1 (2023-04-08)
 
 - Updated Iris
