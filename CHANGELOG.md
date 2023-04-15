@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.7.3 (2023-04-15)
+
+Did you know "iris" is a regional term for soft toffee candy? 🍬
+
+- Updated Iris
+  - Bugfixes
+
 ### 4.7.2 (2023-04-14)
 
 - Updated Entity Model Features, Fabric API, ImmediatelyFast
