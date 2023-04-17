@@ -5,6 +5,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 4.7.4 (2023-04-16)
 
+This version was released partially and marked as alpha on Modrinth due to external matters. Updating not advised, but if you did, it is fine.
+
 - Updated Mod Menu, Zoomify, YetAnotherConfigLib
   - Mod Menu is now separately bundled on CF (more info on FO issue #626)
 - Updated Chinese Simplified translations
@@ -15,6 +17,8 @@ Did you know "iris" is a regional term for soft toffee candy? 🍬
 
 - Updated Iris
   - Bugfixes
+
+
 
 ### 4.7.2 (2023-04-14)
 
