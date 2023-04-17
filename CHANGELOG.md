@@ -18,8 +18,6 @@ Did you know "iris" is a regional term for soft toffee candy? 🍬
 - Updated Iris
   - Bugfixes
 
-
-
 ### 4.7.2 (2023-04-14)
 
 - Updated Entity Model Features, Fabric API, ImmediatelyFast
