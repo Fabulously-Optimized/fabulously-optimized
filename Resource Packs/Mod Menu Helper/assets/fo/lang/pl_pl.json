@@ -1,4 +1,5 @@
 {
+    "fo.resourcePack.modmenuhelper": "§7Lista głównych funkcji i opcji modów w Mod Menu§r",
     "modmenu.dropInfo.line1": "Mody FO mają §9✎§r lub §8✎§r, alternatywy mają §c*§r;",
     "modmenu.dropInfo.line2": "Inne mody nie są wspierane",
     "modmenu.summaryTranslation.advancementinfo": "Większy, bardziej intuicyjny ekran postępów\n§9✎§8 Kolory, rozmiar okna informacyjnego, ...",
@@ -19,8 +20,9 @@
     "modmenu.summaryTranslation.debugify": "Usuwa błędy, wyłącza zbieranie danych Mojangu\n§9✎§8 Po więcej informacji, zobacz wiki FO",
     "modmenu.summaryTranslation.dynamicfps": "Zmniejsza FPS'y w tle\n§9✎§8 Przełącz mod, przywróć po najechaniu myszką, ...",
     "modmenu.summaryTranslation.enhancedblockentities": "Wydajniejsze skrzynie, tablice, łóżnka, itd.\n§9✎§8 Bloki do usprawnienia, metoda",
+    "modmenu.summaryTranslation.entity_model_features": "Niestandardowe byty OptiFine'a (beta)\n§8✎ (tylko zaawansowane opcje)",
     "modmenu.summaryTranslation.entity_texture_features": "Różne i emisyjne moby OptiFine'a\n§9✎§8 Różne moby, emisyjność, mruganie oczu, ...",
-    "modmenu.summaryTranslation.entityculling": "Zapobiega renderowaniu modów za ścianami\n§8✎ (Tylko zaawansowane opcje)",
+    "modmenu.summaryTranslation.entityculling": "Zapobiega renderowaniu mobów za ścianami\n§8✎ (Tylko zaawansowane opcje)",
     "modmenu.summaryTranslation.fabricskyboxes": "Niestandardowe nieba\n§9✎§8 Rozwiń aby skonfigurować (Kliknij na ikonę ▼)",
     "modmenu.summaryTranslation.fsb-interop": "Wspracie OptiFine'a dla FabricSkyBoxes\n§9✎§8 Wsparcie OptiFine'a/MCPatcher'a/natywne, ...",
     "modmenu.summaryTranslation.fabrishot": "Rób zrzuty ekranu w HD klikając F9\n§9✎§8 Nadpisz F2, rozdzielczość, skrót klawiszowy, ...",
@@ -29,6 +31,7 @@
     "modmenu.summaryTranslation.ferritecore": "Zmniejsza użycie RAM'u\n§8✎ (tylko zaawansowane opcje)",
     "modmenu.summaryTranslation.holdthatchunk": "§c*§r Utrzymuje chunki widoczne na serwerach\n§8✎ (tylko zaawansowane opcje)",
     "modmenu.summaryTranslation.iris": "Shadery OptiFine'a\n§9✎§8 Przełącz mod, wybierz shader, skróty klawiszowe, ...",
+    "modmenu.summaryTranslation.immediatelyfast": "Optymalizacja mobów, bloków kontenerów, interfejsu, HUD\n§8✎ (tylko opcje zaawansowane)",
     "modmenu.summaryTranslation.itemmodelfix": "§c*§r Łata przezroczyste linie w przedmiotach\n§9✎§8 Metoda",
     "modmenu.summaryTranslation.lambdabettergrass": "\"Lepsza trawa\" OptiFine'a\n§9✎§8 Jakość, śnieg, paczka zasobów",
     "modmenu.summaryTranslation.lambdynlights": "\"Dynamiczne światła\" OptiFine'a\n§9✎§8 Jakość, ustawienia bytów, ...",
@@ -52,5 +55,6 @@
     "modmenu.summaryTranslation.reeses-sodium-options": "Pionowe ustawienia graficzne\n§8✎ (brak opcji)",
     "modmenu.summaryTranslation.sodium-extra": "Ustawienia graficzne OptiFine'a\n§9✎§8 W ustaw. graficznych: animacje, cząstki, ...",
     "modmenu.summaryTranslation.yosbr": "Domyślne ustawienia modpacka\n§9✎§8 Aby zresetować, zobacz wiki FO",
-    "modmenu.summaryTranslation.zoomify": "Przybliż trzymając C\n§9✎§8 Dystans, kamera kinowa, skrót klawiszowy, ..."
+    "modmenu.summaryTranslation.zoomify": "Przybliż trzymając C\n§9✎§8 Dystans, kamera kinowa, skrót klawiszowy, ...",
+    "fo.resourcePack.fastbettergrass": "§7Lepsza trawa OF (szybka)§r\n§4Musi być pierwsza aby działać§r"
 }
