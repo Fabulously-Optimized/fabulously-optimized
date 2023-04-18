@@ -28,10 +28,9 @@ body:
     description: Which launcher are you using?
     options:
       - CurseForge Launcher
+      - Prism Launcher
       - MultiMC
       - MultiMC (auto-update)
-      - GDLauncher
-      - Prism Launcher
       - Minecraft Launcher (vanilla)
   validations:
     required: true
