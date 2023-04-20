@@ -18,7 +18,7 @@ New CurseForge site, [new install instructions](https://fabulously-optimized.git
 - Disabled water sensitivity check and block entities in LambDynamicLights to improve performance
 - Changed "Copy all 3 folders!" to "Copy all 3 folders and add Sodium!" in legacy MultiMC version
   - Plus it is now clickable at least on Windows to open install instructions in browser
-  - As the new install instructions say, MultiMC users are now encouraged to download through Modrinth instead, this version is available mainly for vanilla users
+  - As the new install instructions say, MultiMC users are now encouraged to download through Modrinth instead, that version is available mainly for vanilla users
 
 ### 4.7.4 (2023-04-16)
 
