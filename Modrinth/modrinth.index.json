@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.7.4",
+    "versionId": "4.8.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
     "files": [
@@ -106,16 +106,15 @@
             "fileSize": 1145374
         },
         {
-            "path": "mods/Debugify-1.19.4+1.0.jar",
+            "path": "mods/Debugify-1.19.4+2.1.jar",
             "hashes": {
-                "sha1": "b41c76e5556b68913e80b660c8ec4d08716d43cf",
-                "sha512": "1db1ca5a764ec25ef290f2af1912e3ddad29698417bc5bf1183246b573c63f985d087d8a228c218a734289a46e25a31c1852c519e872b062febcc5d3b20c57a2"
+                "sha1": "9c77d3447900cde75345c9522c94862b4eed569f",
+                "sha512": "6899885b866d914977557325ae587ccb205706a8cc809dd2956c540c53d6bafa236eb409715c0f8fe16ccdef393afd302d20c0938d6de8ea31c5d5a93b0a88d1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/GtD9tAHh/Debugify-1.19.4%2B1.0.jar",
-                "https://github.com/isXander/Debugify/releases/download/1.19.4%2B1.0/Debugify-1.19.4%2B1.0.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/oevI3RPR/Debugify-1.19.4%2B2.1.jar"
             ],
-            "fileSize": 290451
+            "fileSize": 333341
         },
         {
             "path": "mods/dynamic-fps-2.2.0.jar",
@@ -128,6 +127,17 @@
                 "https://github.com/juliand665/Dynamic-FPS/releases/download/2.2.0/dynamic-fps-2.2.0.jar"
             ],
             "fileSize": 89446
+        },
+        {
+            "path": "mods/e4mc-3.0.0.jar",
+            "hashes": {
+                "sha1": "f2ea7e4ca0a327cc4d1dd5aa4e1be3e1ab0173d5",
+                "sha512": "27b14731feac0d100d5594ce7cfcac834713e6162d507a3d77d8826fd4a1022a68167071ef422bcef107c5cb0f099a37a13a0babe5cddaca46098aaf5ed43b27"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/RYu0blcO/e4mc-3.0.0.jar"
+            ],
+            "fileSize": 148094
         },
         {
             "path": "mods/entityculling-fabric-1.6.2-mc1.19.4.jar",
@@ -380,15 +390,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-6.1.0.jar",
+            "path": "mods/modmenu-6.2.0.jar",
             "hashes": {
-                "sha1": "038aa9f481cf7d2d2c23291d284c20700b1b397b",
-                "sha512": "0219785efc84eb48a61ba499cae3c7c91aecff9a84df597c536561a22618f224038691cdba1d9eafb63e4148a9126f3bcbcc72fa848908dc416e6700e661a2d9"
+                "sha1": "68b2a97cc93b5b7be73c931904cca0a690ebf6a9",
+                "sha512": "1323a551518a8ac352c133fde6bab4471582dadfc9a7ccf5925330a32f26ff817ee61cd68e08bcd7c2c493148f116ca5acc0a592328191bc626cb25d57ffa825"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/nM5QaZNo/modmenu-6.1.0.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/aMxXwo9x/modmenu-6.2.0.jar"
             ],
-            "fileSize": 722456
+            "fileSize": 722214
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",

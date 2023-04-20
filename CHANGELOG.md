@@ -3,9 +3,26 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.8.0 (2023-04-20)
+
+New CurseForge site, [new install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) and a new mod!
+
+- Added e4mc - allows opening worlds to public access the same way you can open to LAN
+  - Just click "Open to LAN" on a local world and you'll get an IP to share with friends
+  - Works like normal LAN, so you + 7 players can be online and it will turn off when you leave
+  - Other players don't need to do anything special to join, don't even need the mod
+  - Can be stopped in a LAN session with a click
+- Updated Debugify, Zoomify, YetAnotherConfigLib, Mod Menu
+  - Mod Menu is now separately bundled on CF (more info on FO issue #626)
+- Updated Polish and Chinese Simplified (4.7.4) translations
+- Disabled water sensitivity check and block entities in LambDynamicLights to improve performance
+- Changed "Copy all 3 folders!" to "Copy all 3 folders and add Sodium!" in legacy MultiMC version
+  - Plus it is now clickable at least on Windows to open install instructions in browser
+  - As the new install instructions say, MultiMC users are now encouraged to download through Modrinth instead, this version is available mainly for vanilla users
+
 ### 4.7.4 (2023-04-16)
 
-This version was released partially and marked as alpha on Modrinth due to external matters. Updating not advised, but if you did, it is fine.
+Partially released version due to external matters, marked as alpha on Modrinth.
 
 - Updated Mod Menu, Zoomify, YetAnotherConfigLib
   - Mod Menu is now separately bundled on CF (more info on FO issue #626)

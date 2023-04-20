@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Copy all 3 folders and add Sodium!.url"
+hash = "79731de8a72814f5e0e0014010d3ad12df39d25c38fca377c095c3a50ab0d7f6"
+
+[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -10,11 +14,11 @@ hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f16b456becb81fc59b897649677cf9a84813d2a5ccd0357a6793f05366062ceb"
+hash = "c52441ce10123bedcac92b17c6c12f6858fa0709bd6be50052fd8d9fdb3f5d1c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9904648d2a1d9bb13391f943b2cb32067c5f5515a18118846f26a013f1166035"
+hash = "0f514bc351f615852fc65d72e59b48bd6653ffc44a5c691b64584a2ca3fc5b9e"
 
 [[files]]
 file = "config/modmenu.json"
@@ -62,7 +66,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "5b83dbf79c2df634529371bb6fe139fadaf485710212080363a522f2f5983ca6"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
 file = "config/yosbr/config/midnightcontrols.json"
@@ -102,7 +106,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "226f537108f5bdfee20299813a56d265d67a80ba44c71b79a2c1d3ab4a19a0bc"
+hash = "c58985564e077256c6b6b8e342f8a7cd56533985da14ec2b8a410494f2ca986b"
 
 [[files]]
 file = "resourcepacks/Chat Reporting Helper.zip"
@@ -155,12 +159,17 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "3782ca1cb7deea04513da1cd834eb52b66fe9e3f2895bf15daea362fd0789fcf"
+hash = "bc2e5d48d17c7a698c1533de52afb6c3652d670ad6cd8c808f4a6737fcbd5da9"
 metafile = true
 
 [[files]]
 file = "mods/dynamicfps.pw.toml"
 hash = "3b3d6b2c0a9256dab61c5e084b3a89d1f946cac9c2da8601dbc184d82053584c"
+metafile = true
+
+[[files]]
+file = "mods/e4mc_minecraft.pw.toml"
+hash = "f99b11f9c689295a830e45b4f688c2e134cf45e13ce1657256ba6bdd09332b29"
 metafile = true
 
 [[files]]
@@ -275,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "bd1b0e40ee960208964c93bc107e85de714db466f71644cfb1b03525164d07fe"
+hash = "abf9f4828f9b397617d000d5ab5482c9e89e1da6ec0576fbbee1c9af7dfc74a1"
 metafile = true
 
 [[files]]
