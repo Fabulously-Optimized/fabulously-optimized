@@ -3,7 +3,6 @@ from zipfile import ZipFile
 from io import BytesIO
 
 import os
-from zipfile import ZipFile
 from shutil import unpack_archive
 from pathlib import Path
 import toml # pip install toml
