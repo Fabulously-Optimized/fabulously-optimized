@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.8.1 (2023-04-21)
+
+- Updated Debugify, Entity Model Features
+  - Debugify fixed a macOS crash
+- Updated Chinese Simplified and Traditional translations
+- Adjusted Modrinth pack manifest
+
 ### 4.8.0 (2023-04-20)
 
 New CurseForge site, [new install instructions](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) and a new mod!

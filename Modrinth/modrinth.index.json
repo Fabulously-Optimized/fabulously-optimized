@@ -1,9 +1,9 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.8.0",
+    "versionId": "4.8.1",
     "name": "Fabulously Optimized",
-    "summary": "Improve your graphics and performance with this simple modpack. Experimental releases on Modrinth!",
+    "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
         {
             "path": "mods/advancementinfo-1.19.4-fabric0.76.0-1.3.1.jar",
@@ -106,15 +106,15 @@
             "fileSize": 1145374
         },
         {
-            "path": "mods/Debugify-1.19.4+2.1.jar",
+            "path": "mods/Debugify-1.19.4+2.2.jar",
             "hashes": {
-                "sha1": "9c77d3447900cde75345c9522c94862b4eed569f",
-                "sha512": "6899885b866d914977557325ae587ccb205706a8cc809dd2956c540c53d6bafa236eb409715c0f8fe16ccdef393afd302d20c0938d6de8ea31c5d5a93b0a88d1"
+                "sha1": "58fdeaea295d537d021d4123ee4dbdd8550e8563",
+                "sha512": "996487403a41a00f3d66dd6be81e8e5557cdf2e0a0a4ea85c1a3f704ab1cd0b3555f34eb70ea70385c5460930b56bb6eb3472c8ceeb0a3ddfda5a7a5c12f0a5e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/oevI3RPR/Debugify-1.19.4%2B2.1.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/jskCDMsk/Debugify-1.19.4%2B2.2.jar"
             ],
-            "fileSize": 333341
+            "fileSize": 333345
         },
         {
             "path": "mods/dynamic-fps-2.2.0.jar",
@@ -152,15 +152,15 @@
             "fileSize": 56582
         },
         {
-            "path": "mods/entity_model_features_fabric_1.19.4-0.2.5.jar",
+            "path": "mods/entity_model_features_fabric_1.19.4-0.2.6.jar",
             "hashes": {
-                "sha1": "e17a9a1165a05ae27cbd100dc7c8066f7e40c2ab",
-                "sha512": "477c816dc7db3fcdfbcae24502fd6e8cd350fa868435964a2d00a4795ee8536c2d18bd095765979175732171c88b711326f3832177f93effac8bc53196252acb"
+                "sha1": "a165bf382eed65205910ef9a17ef1a226802d161",
+                "sha512": "c73b5237fcd437cec887bc9a86ab52be2f18fc5e07003d1b77c40564380211db911a0b4e81b945bf327465bff86d441e24f9c13a8daead52431d03fce9b3a85d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/TEAO0eWy/entity_model_features_fabric_1.19.4-0.2.5.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/deVKWS49/entity_model_features_fabric_1.19.4-0.2.6.jar"
             ],
-            "fileSize": 440383
+            "fileSize": 442467
         },
         {
             "path": "mods/entity_texture_features_fabric_1.19.4-4.3.5.jar",
