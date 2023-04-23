@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.8.1",
+    "versionId": "4.8.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -152,37 +152,37 @@
             "fileSize": 56582
         },
         {
-            "path": "mods/entity_model_features_fabric_1.19.4-0.2.6.jar",
+            "path": "mods/entity_model_features_fabric_1.19.4-0.2.7.jar",
             "hashes": {
-                "sha1": "a165bf382eed65205910ef9a17ef1a226802d161",
-                "sha512": "c73b5237fcd437cec887bc9a86ab52be2f18fc5e07003d1b77c40564380211db911a0b4e81b945bf327465bff86d441e24f9c13a8daead52431d03fce9b3a85d"
+                "sha1": "e8990fee332836a742703f8877278fa750b0d2d3",
+                "sha512": "44d28afdfefb9d42ef2054690c99b6b6c0745d13d2a5f4a86e2ac972094c81a3a207faa59617e0976f57a300792d0a0566d8e2085bbee5c3fcb59d7a74bbcade"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/deVKWS49/entity_model_features_fabric_1.19.4-0.2.6.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/8GH17mIS/entity_model_features_fabric_1.19.4-0.2.7.jar"
             ],
-            "fileSize": 442467
+            "fileSize": 444573
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.19.4-4.3.5.jar",
+            "path": "mods/entity_texture_features_fabric_1.19.4-4.4.0.jar",
             "hashes": {
-                "sha1": "7e59cc6f46f24255c612f3410e5f081fd93bb74d",
-                "sha512": "4f4c79a2428b2792d8f47214358b8e614841cf442dc992ae1465ce30443a5e1bddd551a16446bbfb7185a3d5413f55fce952e0e696264a3d81cbde114ad9cc37"
+                "sha1": "f5812a12861e1ae149ebe498502bce53b4904ac1",
+                "sha512": "2ca498e475ed422f59e521732510ad739ca481659d8713b0d0ef3d8d83f60468fec0e3d7d2f1a4a4b9427bac58e028314cf9bf940fa63b1a37385a4d47e2f3f1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/4WOYtIge/entity_texture_features_fabric_1.19.4-4.3.5.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/lUY6MJko/entity_texture_features_fabric_1.19.4-4.4.0.jar"
             ],
-            "fileSize": 414560
+            "fileSize": 434226
         },
         {
-            "path": "mods/fabric-api-0.78.0+1.19.4.jar",
+            "path": "mods/fabric-api-0.79.0+1.19.4.jar",
             "hashes": {
-                "sha1": "3e8df96145957b37ea547e523654f7319ea6a921",
-                "sha512": "4c20197ec5680711b062787a2bf057bffa443ce0e7c6d575ba0f611eb51b525c595dab20493747cd001d5994e70b8e1f0af89f4a57d780709c653dad4f1868e0"
+                "sha1": "86c50d213d062f4fd47fa8b97131384f50a9ad95",
+                "sha512": "118d29615d93083e59c0d39a9a0ef60cf56f7df2d19a68251fdb5a15f76c79761e0d68d13cc99b3dfc1a2ea9f709dab11a7898bff8c77435c1fd1edef9ecc178"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/unERf4ZJ/fabric-api-0.78.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qvrUMd9Z/fabric-api-0.79.0%2B1.19.4.jar"
             ],
-            "fileSize": 1956600
+            "fileSize": 1966138
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar",
@@ -390,15 +390,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-6.2.0.jar",
+            "path": "mods/modmenu-6.2.1.jar",
             "hashes": {
-                "sha1": "68b2a97cc93b5b7be73c931904cca0a690ebf6a9",
-                "sha512": "1323a551518a8ac352c133fde6bab4471582dadfc9a7ccf5925330a32f26ff817ee61cd68e08bcd7c2c493148f116ca5acc0a592328191bc626cb25d57ffa825"
+                "sha1": "e87ca1aa589c1d706830856ee1632d99adacacbf",
+                "sha512": "b9e293a119c8ced8cdf38ec2f3cb68a731cb136986982c835198eeb4266076080b840ed97bae74f177ca9ae711e0db78630e4e42b2930389e1be1813eb76860f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/aMxXwo9x/modmenu-6.2.0.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/yjjsLqbS/modmenu-6.2.1.jar"
             ],
-            "fileSize": 722214
+            "fileSize": 722293
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -517,15 +517,15 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/YetAnotherConfigLib-2.4.1.jar",
+            "path": "mods/YetAnotherConfigLib-2.4.2.jar",
             "hashes": {
-                "sha1": "68e18b57211ca8cceb9b7c84872cf2e1402c6414",
-                "sha512": "16ae2806ff01e5165e982ac35f6ea5447eb8b6c96ee7e30dfc27b59476b54c8c3fbeb56fe39bb6c9c307487b9d9df594d60c870e1e71ee99fbee23170042c237"
+                "sha1": "5328834d7fccf42703a79e5e8b7b82902bf5522a",
+                "sha512": "95ca18415dd2005efece74985b1b2902fcaa7a538ad174749db93446b37d7fd854ba4cb1b645fa01f3fba8cd6b76f79bc7b846ec51880e995ac266dc61a15a53"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/51iCmuDG/YetAnotherConfigLib-2.4.1.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/sj4aPwnQ/YetAnotherConfigLib-2.4.2.jar"
             ],
-            "fileSize": 208936
+            "fileSize": 209107
         },
         {
             "path": "mods/yosbr-0.1.1.jar",

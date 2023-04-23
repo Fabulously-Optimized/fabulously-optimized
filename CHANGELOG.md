@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.8.2 (2023-04-22)
+
+- Updated Entity Model Features, Entity Texture Features, Fabric API, Mod Menu, YetAnotherConfigLib
+- Moved Mod Menu's config to YOSBR
+- Updated legacy MultiMC version's description
+- Updated vanilla installation dummy file's link
+  - MultiMC (auto-update) no longer has that file
+
 ### 4.8.1 (2023-04-21)
 
 - Updated Debugify, Entity Model Features

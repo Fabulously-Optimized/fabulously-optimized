@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Copy all 3 folders and add Sodium!.url"
-hash = "79731de8a72814f5e0e0014010d3ad12df39d25c38fca377c095c3a50ab0d7f6"
-
-[[files]]
 file = "config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
@@ -14,15 +10,11 @@ hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "545224d051da9b2647f7519cd28598c852be5e2e02216810668c2aceee5aa7ef"
+hash = "23b2f3e81050079808116efd97b0405d0313d77775acdfc259de661b19278c24"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "aecc8f610295d8db8552e2196a54952b4e604a83797034da610cd9d65749ed52"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
+hash = "3d619651e1cc95002c2787f3fb9be598a8c8512810f06dfd398d39015295dd7d"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -75,6 +67,10 @@ hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -179,17 +175,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "783296352548d903ad16ca64440702e7ab4adb8d0874b52daa8a0681345ee959"
+hash = "7fbf0ed096ed4d7f137c475ba5670bc3abe0f96c5c010778ce31aa881f7a6444"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "b831e7ff27dbe6bd8871155a97cde000c2ea88b0def57dde3f0eed73a60a4a5d"
+hash = "d2377d3e2e77423d3f2484de6115fe6cb236d723f50ed1a400f15f77dca39d03"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "23d84de8d113e9cbec75ac274bf68859e1c5a612cc1979cd9f89c42a1e1bfc9e"
+hash = "5b3c42c6cbf6d41ec3149435efa35e9e459a73aff589d07cd16809df3dcd9bba"
 metafile = true
 
 [[files]]
@@ -284,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "abf9f4828f9b397617d000d5ab5482c9e89e1da6ec0576fbbee1c9af7dfc74a1"
+hash = "7332dfe2de4bf26667ccdeeb6d53eb0a2f36395b3fa1601e3a9ed7afc55b277c"
 metafile = true
 
 [[files]]
@@ -339,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib.pw.toml"
-hash = "7259f61501ecbf6fcaafc70ca0abb0a61a31fbb3ee20256a58f09364118cec05"
+hash = "e5e4d9d46d0950637f5a60d123d0818e6bd1f4e0fdd1217d4b93466e8a231fd5"
 metafile = true
 
 [[files]]
