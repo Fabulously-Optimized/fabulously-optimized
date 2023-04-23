@@ -3,7 +3,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
-### 4.8.2 (2023-04-22)
+### 4.8.2 (2023-04-23)
 
 - Updated Entity Model Features, Entity Texture Features, Fabric API, Mod Menu, YetAnotherConfigLib
 - Moved Mod Menu's config to YOSBR
