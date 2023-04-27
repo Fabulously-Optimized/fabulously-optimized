@@ -36,7 +36,7 @@ Not sure which edition is right for you? Check this handy table!
 | Easy pack upgrade | ✅ | ✅ | ❌ | ✅ | ❌ |
 | Easy pack upgrade for newer MC | ✅ | ✅ | ❌ | ❌ | ❌ |
 | Add mods with few clicks | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Supports the modpack and mods | ✅ | ●¹ | ✅ | ❌ | ✅ |
+| Supports the modpack and mods | ✅ | ●¹ | ●¹ | ❌ | ✅ |
 | Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ |
 | Linux support | ❌ | ✅ | ✅ | ✅ | ✅ |
 | Unique feature | 1-click install | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
