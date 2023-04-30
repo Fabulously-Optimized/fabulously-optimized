@@ -1,4 +1,5 @@
 {
+    "fo.resourcePack.modmenuhelper": "§7Lists mods' main features and options in Mod Menu§r",
     "modmenu.dropInfo.line1": "Οι τροποποιήσεις του FO έχουν §9✎§r ή §8✎§r",
     "modmenu.dropInfo.line2": "οι εναλλακτικές έχουν §c*§r, οι υπόλοιπες δεν υποστηρίζονται",
     "modmenu.summaryTranslation.advancementinfo": "Μεγαλύτερη, εξυπνότερη οθόνη επιτευγμάτων\n§9✎§8 Χρώματα, μέγεθος του πεδίου πληροφοριών, …",
@@ -15,12 +16,14 @@
     "modmenu.summaryTranslation.colormatic": "Τα ορισμένα χρώματα του OptiFine\n§9✎§8 Καθαρός ουρανός/κενό, απαλότερο φως",
     "modmenu.summaryTranslation.continuity": "Οι ενωμένοι κύβοι του OptiFine\n§9✎§8 Άνοιγμα/Κλέισιμο, μέθοδος, πακέτα πόρων",
     "modmenu.summaryTranslation.cull-less-leaves": "§c*§r Γρηγορότερα φύλλα δέντρων\n§9✎§8 Άνοιγμα/Κλέισιμο, βάθος φύλλων",
-    "modmenu.summaryTranslation.cem": "§c*§r Οι ορισμένες οντότητες του OptiFine\n§9✎§8 Υποστήριξη OptiFine, διόρθωση μοντέλων",
+    "modmenu.summaryTranslation.cem": "§c*§r OptiFine's custom entities (alpha)\n§9✎§8 OptiFine support, model fix",
     "modmenu.summaryTranslation.debugify": "Αποσφαλμάτωση, παύση αποστολής διαγνωστικών\n§9✎§8 Δείτε το wiki του FO για περισσοτ. πληροφορίες",
     "modmenu.summaryTranslation.dynamicfps": "Μειώνει τα FPS στο παρασκήνιο\n§9✎§8 Άνοιγμα/Κλέισιμο, επαναφορά στο κράτημα, …",
     "modmenu.summaryTranslation.enhancedblockentities": "Γρηγορότερα σεντούκια, πινακίδες, κρεβάτια κτλ.\n§9✎§8 Κύβοι για βελτίωση, μέθοδος",
+    "modmenu.summaryTranslation.entity_model_features": "§c*§r Οι ορισμένες οντότητες του OptiFine (beta)\n§8✎ (μόνο εξειδικευμένες επιλογές)",
     "modmenu.summaryTranslation.entity_texture_features": "Οι τυχαίες & φωτεινές οντότητες του OptiFine\n§9✎§8 Τυχαίες οντότητες, λαμπρότητα, …",
     "modmenu.summaryTranslation.entityculling": "Κρύβει οντότητες που είναι πίσω από τοίχους\n§8✎ (μόνο εξειδικευμένες επιλογές)",
+    "modmenu.summaryTranslation.e4mc_minecraft": "Open worlds to public just like LAN\n§8✎ Manage through LAN settings",
     "modmenu.summaryTranslation.fabricskyboxes": "Προσαρμοζόμενος ουρανός\n§9✎§8 Ανοίξτε το για επεξεργασία (πατήστε το ▼)",
     "modmenu.summaryTranslation.fsb-interop": "Υποστήριξη OptiFine για το FabricSkyboxes\n§9✎§8 Υποστήριξη OptiFine/MCPatcher/άμεση, …",
     "modmenu.summaryTranslation.fabrishot": "Στιγμιότυπα οθόνης υψηλής ανάλυσης\n§9✎§8 Προσπέλαση F2, ανάλυση, πλήκτρο, …",
@@ -29,6 +32,7 @@
     "modmenu.summaryTranslation.ferritecore": "Μείωση χρήσης RAM μνήμης\n§8✎ (μόνο εξειδικευμένες επιλογές)",
     "modmenu.summaryTranslation.holdthatchunk": "§c*§r Ανοιχτά φορτωμένα κομμάτια server\n§8✎ (μόνο εξειδικευμένες επιλογές)",
     "modmenu.summaryTranslation.iris": "Οι σκιάσεις του OptiFine\n§9✎§8 Άνοιγμα/Κλέισιμο, επιλογή σκιάσεων, πλήκτρο …",
+    "modmenu.summaryTranslation.immediatelyfast": "Optimize mobs, container blocks, GUI, HUD\n§8✎ (only advanced options)",
     "modmenu.summaryTranslation.itemmodelfix": "§c*§r Διόρθωση διαφανών γραμμών στα αντικείμενα\n§9✎§8 Μέθοδος",
     "modmenu.summaryTranslation.lambdabettergrass": "Το \"βελτιωμένο γρασίδι\" του OptiFine\n§9✎§8 Ποιότητα, χιονισμένο γρασίδι, πακέτο πόρων",
     "modmenu.summaryTranslation.lambdynlights": "Τα \"δυναμικά φώτα\" του OptiFine\n§9✎§8 Ποιότητα, επιλογές για οντότητες, …",
@@ -52,5 +56,6 @@
     "modmenu.summaryTranslation.reeses-sodium-options": "Κάθετες ρυθμίσεις γραφικών\n§8✎ (χωρίς επιλογές)",
     "modmenu.summaryTranslation.sodium-extra": "Οι γραφικές επιλογές του OptiFine\n§9✎§8 Στις ρυθμίσεις γραφικών: animations, …",
     "modmenu.summaryTranslation.yosbr": "Οι προεπιλεγμένες ρυθμίσεις του πακέτου\n§9✎§8 Για την επαναφορά τους, δείτε το wiki",
-    "modmenu.summaryTranslation.zoomify": "Ζουμ πατώντας το Ψ\n§9✎§8 Απόσταση, κινηματογραφική κάμερα, πλήκτρο, …"
+    "modmenu.summaryTranslation.zoomify": "Ζουμ πατώντας το Ψ\n§9✎§8 Απόσταση, κινηματογραφική κάμερα, πλήκτρο, …",
+    "fo.resourcePack.fastbettergrass": "§7OptiFine's Better Grass (fast)§r\n§4Must be the first to work§r"
 }
