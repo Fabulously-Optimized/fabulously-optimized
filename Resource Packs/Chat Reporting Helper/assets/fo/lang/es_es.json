@@ -3,10 +3,8 @@
     "gui.socialInteractions.tooltip.report": "Reportar al jugador a Mojang",
     "gui.socialInteractions.narration.report": "Reportar al jugador %s a Mojang",
     "gui.socialInteractions.tooltip.report.disabled": "El chat de reportes de Mojang no está disponible actualmente",
-    "gui.socialInteractions.tooltip.report.no_messages": "El chat del jugador %s es reportable, pero no se ha dicho nada.",
-    "gui.socialInteractions.tooltip.report.not_reportable": "Este server o jugador ha desactivado el reporte del chat a Mojang",
     "gui.chatReport.describe": "Compartir más detalles ayudará a Mojang a tomar una decisión mejor informada. Ten en cuenta que estos reportes no son visibles para los administradores del servidor.",
-    "gui.nochatreports.secure_chat": "Esta opción está desactivada para prevenir la ocultación accidental de mensajes del chat de jugadores aleatorios. Usa las interacciones sociales para ignorar jugadores individuales.",
+    "gui.nochatreports.verified_server": "Este server ha deshabilitado los reportes de chat a Mojang",
     "gui.nochatreports.no_reporting": "Este server ha deshabilitado los reportes de chat a Mojang",
     "gui.nochatreports.safety_status.secure": "Los mensajes de otros no pueden reportarse a Mojang.",
     "gui.nochatreports.safety_status.singleplayer": "Tus mensajes no son reportables a Mojang en el modo \"Un Jugador\"",
@@ -27,6 +25,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Estás usando una cuenta offline o tienes problemas de internet. Si el server requiere mensajes reportables, no podrás chatear.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "Tus mensajes no son reportables por defecto, se le solicitará cuando el servidor lo requiera.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Tus mensajes serán reportables solo si es requerido por el servidor",
-    "gui.nochatreports.signing_required.contents": "Este servidor requiere que todos los mensajes del chat sean reportables a Mojang.\n\nHaz click en \"Allow Signing\" para permitirlo y reenviar tu mensaje.",
     "gui.nochatreports.realms_warning.contents": "Información importante sobre Realms:\n• Los mensajes de todos en el chat pueden ser reportados a Mojang.\n• Mojang está monitoreando el chat para encontrar infracciones antes de tener que ser reportadas.\n• El filtro de insultos esta habilitado por defecto. Los adultos pueden desactivarlo por ellos mismos en minecraft.net."
 }
