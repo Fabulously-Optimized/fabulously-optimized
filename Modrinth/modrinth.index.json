@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.8.3",
+    "versionId": "4.9.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -112,7 +112,8 @@
                 "sha512": "996487403a41a00f3d66dd6be81e8e5557cdf2e0a0a4ea85c1a3f704ab1cd0b3555f34eb70ea70385c5460930b56bb6eb3472c8ceeb0a3ddfda5a7a5c12f0a5e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/jskCDMsk/Debugify-1.19.4%2B2.2.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/jskCDMsk/Debugify-1.19.4%2B2.2.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.19.4%2B2.2/Debugify-1.19.4%2B2.2.jar"
             ],
             "fileSize": 333345
         },
@@ -174,15 +175,15 @@
             "fileSize": 434226
         },
         {
-            "path": "mods/fabric-api-0.79.0+1.19.4.jar",
+            "path": "mods/fabric-api-0.80.0+1.19.4.jar",
             "hashes": {
-                "sha1": "86c50d213d062f4fd47fa8b97131384f50a9ad95",
-                "sha512": "118d29615d93083e59c0d39a9a0ef60cf56f7df2d19a68251fdb5a15f76c79761e0d68d13cc99b3dfc1a2ea9f709dab11a7898bff8c77435c1fd1edef9ecc178"
+                "sha1": "d1e66307336d0c6b99e9457d2088d116183533fe",
+                "sha512": "f42cd2079ac87a39b1a53f1d90e09b2cf1a2c5abe38d2c6394f34c473f105a726a04880e71bf83c022418ffc9c5334c2bf29032d1385523fef144def7d013448"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qvrUMd9Z/fabric-api-0.79.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/s5UrEfIY/fabric-api-0.80.0%2B1.19.4.jar"
             ],
-            "fileSize": 1966138
+            "fileSize": 1971567
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
@@ -191,7 +192,8 @@
                 "sha512": "8e40d55cabd2e7801c5bff020bfefc072facaf86ef14e119f248e212f49caff350c3fe044fd99a1b1a087b0466409be7c1c3e0f0dbd9e07e568a13625dfda342"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/qgTQJrUS/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/qgTQJrUS/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.4%2Bkotlin.1.8.21/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar"
             ],
             "fileSize": 6578017
         },
@@ -268,7 +270,8 @@
                 "sha512": "ef21a07e74ce258b7ed9d0aafaa933dc6582e1c29b3b8dd0dd3dd1ec3b4ae057777e53fca40dd0ca5a31d59d1318b30cd947bf24df3081405f41c22a6d1a3097"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/8IFFeKYy/ImmediatelyFast-1.1.12%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/8IFFeKYy/ImmediatelyFast-1.1.12%2B1.19.4.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.1.12/ImmediatelyFast-1.1.12%2B1.19.4.jar"
             ],
             "fileSize": 187195
         },
@@ -291,7 +294,8 @@
                 "sha512": "a6bfa3d815e1d65b68e788ed30b18220bee09e35e66726dbcad9b6aee7c44bfec853076d41724ace3e162d48f8a17ec672cf71bd2a40c5d4cd660de44552d60b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/347HlKZS/iris-mc1.19.4-1.6.1.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/347HlKZS/iris-mc1.19.4-1.6.1.jar",
+                "https://github.com/IrisShaders/Iris/releases/download/1.6.1%2B1.19.4/iris-mc1.19.4-1.6.1.jar"
             ],
             "fileSize": 2348076
         },
@@ -337,7 +341,8 @@
                 "sha512": "ffd34a0fb7d0eda309af8deb0a06cae8c367e954e4452fef50a25bf2e3639aa998b4d1dcf0f74be61e51d7ccca175a80631927878a07103ca9da40492fd43467"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qJDfP7WN/versions/hWX5REu6/main-menu-credits-1.1.2.jar"
+                "https://cdn.modrinth.com/data/qJDfP7WN/versions/hWX5REu6/main-menu-credits-1.1.2.jar",
+                "https://github.com/isXander/main-menu-credits/releases/download/1.1.2/main-menu-credits-1.1.2.jar"
             ],
             "fileSize": 14340
         },
@@ -388,15 +393,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-6.2.1.jar",
+            "path": "mods/modmenu-6.2.2.jar",
             "hashes": {
-                "sha1": "e87ca1aa589c1d706830856ee1632d99adacacbf",
-                "sha512": "b9e293a119c8ced8cdf38ec2f3cb68a731cb136986982c835198eeb4266076080b840ed97bae74f177ca9ae711e0db78630e4e42b2930389e1be1813eb76860f"
+                "sha1": "186f6aecea667d94aed67187d1d70cbd01a34d54",
+                "sha512": "f7f273d96cced94c2f616c48081321b349272826df8f99ee96a3ddb2208a32871c054292702be76bb4624f901c4df0ca784fa496eea16dc7cd67702b09f2b342"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/yjjsLqbS/modmenu-6.2.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/iZRiOnnj/modmenu-6.2.2.jar"
             ],
-            "fileSize": 722293
+            "fileSize": 722329
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -492,18 +497,6 @@
             "fileSize": 326095
         },
         {
-            "path": "mods/sodium-fabric-mc1.19.4-0.4.10+build.24.jar",
-            "hashes": {
-                "sha1": "b060680929d7a6d130fb980a9f9907461df05fa1",
-                "sha512": "61562626870aa4067657d2687d1fce80fb7d62af32fd68a22708e24ee5b84b39d16b26ccf4db8f53f2da42ba1916d6a5e11efc476cb5c2a8644207659fd5dfef"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar",
-                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.4-0.4.10/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar"
-            ],
-            "fileSize": 711302
-        },
-        {
             "path": "mods/starlight-1.1.1+fabric.ae22326.jar",
             "hashes": {
                 "sha1": "de6fe932555604345477db89b59d59249909c640",
@@ -521,7 +514,8 @@
                 "sha512": "970693359b9933d8499e7e35b0318d4f3b29994af53feef376ccde98ec9a20deb02de036ccc1f54b916bc564f2cfc0c70170ae82bc57fab9d10428ed4464d508"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/NZpUvhBc/yet-another-config-lib-fabric-2.5.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/NZpUvhBc/yet-another-config-lib-fabric-2.5.0%2B1.19.4.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.5.0%2B1.19.4/yet-another-config-lib-fabric-2.5.0%2B1.19.4.jar"
             ],
             "fileSize": 220972
         },
@@ -543,9 +537,21 @@
                 "sha512": "783abd8b03767e9038b7bc80c1b5eb575b277e43aecb893110f5c13c3635a2ea3075335c98b6cef7c6e956c2273e83887bb1ba5fde8acd3208e23d14e1784ede"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.9.4/Zoomify-2.9.4.jar"
             ],
             "fileSize": 656151
+        },
+        {
+            "path": "resourcepacks/Chat Reporting Helper.zip",
+            "hashes": {
+                "sha1": "7fbc210e6602bf684f7b56767f17c2214f0bf445",
+                "sha512": "9679c98366a637ae710e30201c157866f369d9dfebb0734be741329e684d091fe8106407b3c9afc254f366e4327d17616aeef1f7ba90b353b6a076794fa2b84e"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/JXC01pGv/Chat%20Reporting%20Helper.zip"
+            ],
+            "fileSize": 18415
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
