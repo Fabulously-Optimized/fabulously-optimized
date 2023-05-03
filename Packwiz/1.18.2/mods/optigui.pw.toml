@@ -3,11 +3,11 @@ filename = "optigui-1.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b63489a74158f6f1940a83a42a1effa9a0bb7a47"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/v1.1.0%2B1.18.2/optigui-1.1.0.jar"
+hash-format = "sha512"
+hash = "81f69091ef5b648c3557a93afc42939aa7d7ec85b48e4bfb90c7038048c022aaacaf950dba5664ac957f4f1641a43c349e08d53c553b94b1161dea6f5d6c85a8"
 
 [update]
-[update.curseforge]
-file-id = 3807066
-project-id = 619986
+[update.modrinth]
+mod-id = "JuksLGBQ"
+version = "KWUgM1Pm"

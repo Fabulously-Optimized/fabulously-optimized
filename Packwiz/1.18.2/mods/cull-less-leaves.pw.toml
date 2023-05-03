@@ -3,11 +3,11 @@ filename = "CullLessLeaves-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "784f03a763ae04cd4c8df4af74b10f2efbe8f186"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/iG6ZHsUV/versions/1.0.1/CullLessLeaves-1.0.1.jar"
+hash-format = "sha512"
+hash = "8d54bdeabca56a4cf9c8cc648923eee779266fa78e9ceb6b282304f378751aaf4d571493c347454c076affe4c8a8a2a41cb5bed5c46832505f5754a702c5f7ae"
 
 [update]
-[update.curseforge]
-file-id = 3790158
-project-id = 619718
+[update.modrinth]
+mod-id = "iG6ZHsUV"
+version = "ndxl1iq4"

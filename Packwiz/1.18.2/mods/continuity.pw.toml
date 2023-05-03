@@ -3,11 +3,11 @@ filename = "continuity-2.0.1+1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0ccc70d5e03526597558829bffba2ff3bf5db5c4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1%2B1.18.2/continuity-2.0.1%2B1.18.2.jar"
+hash-format = "sha512"
+hash = "1a1827fa6c4358726fea893947dc463c7c1ae13aa6ca0b92918a93f21775edb6efbc718e794902ac521f8ed4cd2ea5c041d46fe0ba7f9ca3bd2b4b3cbf088777"
 
 [update]
-[update.curseforge]
-file-id = 3927269
-project-id = 531351
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "jjpzIZoY"

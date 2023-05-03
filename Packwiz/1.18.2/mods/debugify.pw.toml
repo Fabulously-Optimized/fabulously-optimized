@@ -3,11 +3,11 @@ filename = "debugify-1.11.0-fabric-1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c1722e40c0592204e3664c482be3533fc185e578"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/1.11.0-fabric/debugify-1.11.0-fabric-1.18.2.jar"
+hash-format = "sha512"
+hash = "88a54e4e18d5fe73592169c6b90f9053fec2a7f4d75860c0b69dce6693374c3dc9afa2ae2c212550fea03594ad79f3a01bed3f27c10aecf3447036dbda4b49de"
 
 [update]
-[update.curseforge]
-file-id = 3812300
-project-id = 596224
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "ltSWiXrH"

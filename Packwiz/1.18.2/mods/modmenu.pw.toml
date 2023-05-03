@@ -3,11 +3,11 @@ filename = "modmenu-3.2.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "463fecec40447519a9a32c1c178a962799583add"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.3/modmenu-3.2.3.jar"
+hash-format = "sha512"
+hash = "e5cb08f55ad3b678a02bfe56c47b378cbfd92a5002807786d64eedf035c07ccbd68af5a72672ae159c18a3fe46871502aa281c0e9ef9e6731e1dca02fc942761"
 
 [update]
-[update.curseforge]
-file-id = 3850113
-project-id = 308702
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "cx9D94fU"

@@ -3,11 +3,11 @@ filename = "lambdabettergrass-1.2.4+1.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c3a7ee079b6344222d36cc1615bb2ffe1359e8ff"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4%2B1.18/lambdabettergrass-1.2.4%2B1.18.jar"
+hash-format = "sha512"
+hash = "23b4d8013db11225dce178d648afaf424ee6381344779412fbef0c30503c9f07a08818e954aa0242fe3a6984d0db2a8fe95fedf8fd800c85f03718830014a6e6"
 
 [update]
-[update.curseforge]
-file-id = 3833479
-project-id = 400322
+[update.modrinth]
+mod-id = "2Uev7LdA"
+version = "LpLEGUBZ"

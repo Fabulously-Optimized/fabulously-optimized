@@ -3,11 +3,11 @@ filename = "fabrishot-1.7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "343f31455c666b3979026d8a983abfa9c8ca0c9e"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.7.0/fabrishot-1.7.0.jar"
+hash-format = "sha512"
+hash = "b8febec8bbebf485ca863c7390e7daaa0ad9b533d5a58d4582a3dbd9f0effc3a87ede54f2cb0525e4efbb7637c4bf7ba6420afc6903a04d3b7dc49d659700110"
 
 [update]
-[update.curseforge]
-file-id = 3672013
-project-id = 404870
+[update.modrinth]
+mod-id = "3qsfQtE9"
+version = "MydLWyXb"

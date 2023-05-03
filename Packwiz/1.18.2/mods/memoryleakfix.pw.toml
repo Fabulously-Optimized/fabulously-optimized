@@ -3,11 +3,11 @@ filename = "memoryleakfix-1.18.2-0.7.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fa27ac9b26a78772b36cb879809302900c3a5185"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0-1.18/memoryleakfix-1.18.2-0.7.0.jar"
+hash-format = "sha512"
+hash = "9d1d666ab1f26659fa56a070a6aed0366a4fb8e2b1333b4eed884b891431b4d73ebcdba64a6107dbf5c1f8defe6b66e4b0df6d9df30b8d68c87e90cc8fd65da5"
 
 [update]
-[update.curseforge]
-file-id = 3910621
-project-id = 627566
+[update.modrinth]
+mod-id = "NRjRiSSD"
+version = "fDYPSGrC"

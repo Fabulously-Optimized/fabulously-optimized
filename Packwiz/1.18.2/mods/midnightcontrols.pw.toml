@@ -3,11 +3,11 @@ filename = "midnightcontrols-1.5.0+1.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ee6c425b2b9d71cab01db7d9c9fceca6d045c212"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/1.5.0%2B1.18/midnightcontrols-1.5.0%2B1.18.jar"
+hash-format = "sha512"
+hash = "446a49044578286283ff9eb4e73e9eabd9c99c530c1478086ae197d1c57b230dac34bffddf5d6fb22b7a52458ca86079a2a6b9069071077251d7d159f22909b5"
 
 [update]
-[update.curseforge]
-file-id = 3914071
-project-id = 621768
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "XraETmwy"

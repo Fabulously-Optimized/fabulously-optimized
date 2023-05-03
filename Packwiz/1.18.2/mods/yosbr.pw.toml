@@ -3,11 +3,11 @@ filename = "yosbr-0.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0643830cab952fc96872702e681b863b550c8530"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar"
+hash-format = "sha512"
+hash = "8edd47fcda376658b5fb8bfb333c441ecaa1fe834d3deaa6b9895bb9c7dfc004d2e8ccc12a41e4b79f10e6634824837b5536c3bb81289e137abc6079d1c871c3"
 
 [update]
-[update.curseforge]
-file-id = 2934596
-project-id = 374274
+[update.modrinth]
+mod-id = "WwbubTsV"
+version = "dStXfyg3"

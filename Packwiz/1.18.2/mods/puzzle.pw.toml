@@ -3,11 +3,11 @@ filename = "puzzle-1.4.0-1.18.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "979ad124b3e7030bb589eb7f3f72f65b7740e45f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/1.4.0-1.18/puzzle-1.4.0-1.18.jar"
+hash-format = "sha512"
+hash = "c338d6da8082068d91fd032a52be9cc040400e5c4fe60792d4124606a23f248a2bc8953139bc1e398fb595c1968c4157ee643feb337238484b2b0b0407b10897"
 
 [update]
-[update.curseforge]
-file-id = 3912554
-project-id = 563977
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "R9FfGWqP"

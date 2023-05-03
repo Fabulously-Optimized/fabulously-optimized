@@ -3,11 +3,11 @@ filename = "indium-1.0.7+mc1.18.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5f5e0910181572f844171ed4f2f11e23f3c68af6"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7%2Bmc1.18.2/indium-1.0.7%2Bmc1.18.2.jar"
+hash-format = "sha512"
+hash = "cdd32ac79e7cb423af95dbd618c383a9e240e84f53eeb02029f679142e4b980e39c7db8190a2cdb542c23067d56c6b7d29bc21204709028ee5538a659f7cf95f"
 
 [update]
-[update.curseforge]
-file-id = 3911811
-project-id = 459496
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "H45YVREb"

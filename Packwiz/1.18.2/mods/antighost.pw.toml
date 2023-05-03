@@ -3,11 +3,11 @@ filename = "antighost-1.18.2-fabric0.47.10-1.1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b9a690827fdaa60388bc297d6bf339c7ffd68261"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.18.2-fabric0.47.10-1.1.4/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
+hash-format = "sha512"
+hash = "6b72a53bb0829028ac93f6065d0955611268964249795fd09ca0556aa4b4eb80a51e91d3de2e5afdf6e82e4bfa44bb22fa606114710cda243fdc8e2f5aa61ae2"
 
 [update]
-[update.curseforge]
-file-id = 3687749
-project-id = 273279
+[update.modrinth]
+mod-id = "Jw3Wx1KR"
+version = "JX1vBTrB"

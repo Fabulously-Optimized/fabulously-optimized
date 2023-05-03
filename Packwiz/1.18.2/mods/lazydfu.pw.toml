@@ -3,11 +3,11 @@ filename = "lazydfu-0.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2efec5781f1271bdcdae462eee402ccb97bff6fe"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar"
+hash-format = "sha512"
+hash = "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498"
 
 [update]
-[update.curseforge]
-file-id = 3209972
-project-id = 433518
+[update.modrinth]
+mod-id = "hvFnDODi"
+version = "C6e265zK"
