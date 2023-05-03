@@ -23,7 +23,7 @@ _These downloads do not yet support the modpack or the mods :(_
 * [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.7.0-beta.3/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
-* Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper)
+* Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
 [Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
 [Planet Minecraft](https://www.planetminecraft.com/texture-pack/chat-reporting-helper) (bundled in FO)
 * Fast Better Grass resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fast-better-grass) (bundled in FO)
