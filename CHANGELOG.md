@@ -12,6 +12,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - Vanilla users do not have to download Sodium separately in this version
   - MultiMC (auto-update) will still get 4.9.0 due to above
 
+### 4.9.1 (2023-05-09)
+
+Note: due to previously mentioned issues, the latest Sodium has now been taken down. Therefore FO 4.10.0-beta.1 is no longer supported and the betas will not continue at the moment.
+
+- Updated Chat Reporting Helper, YetAnotherConfigLib
+- Disabled "fast buffer upload" on ImmediatelyFast to prevent issues on older computers
+
 ### 4.9.0 (2023-05-02)
 
 - Updated Fabric API, Farsight (CurseForge only), Mod Menu

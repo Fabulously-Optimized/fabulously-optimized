@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.9.0",
+    "versionId": "4.9.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -112,7 +112,8 @@
                 "sha512": "996487403a41a00f3d66dd6be81e8e5557cdf2e0a0a4ea85c1a3f704ab1cd0b3555f34eb70ea70385c5460930b56bb6eb3472c8ceeb0a3ddfda5a7a5c12f0a5e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/jskCDMsk/Debugify-1.19.4%2B2.2.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/jskCDMsk/Debugify-1.19.4%2B2.2.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.19.4%2B2.2/Debugify-1.19.4%2B2.2.jar"
             ],
             "fileSize": 333345
         },
@@ -191,7 +192,8 @@
                 "sha512": "8e40d55cabd2e7801c5bff020bfefc072facaf86ef14e119f248e212f49caff350c3fe044fd99a1b1a087b0466409be7c1c3e0f0dbd9e07e568a13625dfda342"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/qgTQJrUS/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/qgTQJrUS/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.4%2Bkotlin.1.8.21/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar"
             ],
             "fileSize": 6578017
         },
@@ -268,7 +270,8 @@
                 "sha512": "ef21a07e74ce258b7ed9d0aafaa933dc6582e1c29b3b8dd0dd3dd1ec3b4ae057777e53fca40dd0ca5a31d59d1318b30cd947bf24df3081405f41c22a6d1a3097"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/8IFFeKYy/ImmediatelyFast-1.1.12%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/8IFFeKYy/ImmediatelyFast-1.1.12%2B1.19.4.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.1.12/ImmediatelyFast-1.1.12%2B1.19.4.jar"
             ],
             "fileSize": 187195
         },
@@ -291,7 +294,8 @@
                 "sha512": "a6bfa3d815e1d65b68e788ed30b18220bee09e35e66726dbcad9b6aee7c44bfec853076d41724ace3e162d48f8a17ec672cf71bd2a40c5d4cd660de44552d60b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/347HlKZS/iris-mc1.19.4-1.6.1.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/347HlKZS/iris-mc1.19.4-1.6.1.jar",
+                "https://github.com/IrisShaders/Iris/releases/download/1.6.1%2B1.19.4/iris-mc1.19.4-1.6.1.jar"
             ],
             "fileSize": 2348076
         },
@@ -337,7 +341,8 @@
                 "sha512": "ffd34a0fb7d0eda309af8deb0a06cae8c367e954e4452fef50a25bf2e3639aa998b4d1dcf0f74be61e51d7ccca175a80631927878a07103ca9da40492fd43467"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qJDfP7WN/versions/hWX5REu6/main-menu-credits-1.1.2.jar"
+                "https://cdn.modrinth.com/data/qJDfP7WN/versions/hWX5REu6/main-menu-credits-1.1.2.jar",
+                "https://github.com/isXander/main-menu-credits/releases/download/1.1.2/main-menu-credits-1.1.2.jar"
             ],
             "fileSize": 14340
         },
@@ -515,15 +520,16 @@
             "fileSize": 127465
         },
         {
-            "path": "mods/yet-another-config-lib-fabric-2.5.0+1.19.4.jar",
+            "path": "mods/yet-another-config-lib-fabric-2.5.1+1.19.4.jar",
             "hashes": {
-                "sha1": "d3d883312fa6a42f56874df30d171efd443d7ed2",
-                "sha512": "970693359b9933d8499e7e35b0318d4f3b29994af53feef376ccde98ec9a20deb02de036ccc1f54b916bc564f2cfc0c70170ae82bc57fab9d10428ed4464d508"
+                "sha1": "3a693d9ff4afdc08f17f34665c562eebe847884e",
+                "sha512": "6e7f8180a5541168f6964906b6066a35a36d06f1ef520048cf4669476cd7d4261c792f3641bab83e8da64935d588c344babeede05fb0a7473a5e6e171f159645"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/NZpUvhBc/yet-another-config-lib-fabric-2.5.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/M5iKxVFU/yet-another-config-lib-fabric-2.5.1%2B1.19.4.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/2.5.1%2B1.19.4/yet-another-config-lib-fabric-2.5.1%2B1.19.4.jar"
             ],
-            "fileSize": 220972
+            "fileSize": 220930
         },
         {
             "path": "mods/yosbr-0.1.1.jar",
@@ -543,20 +549,21 @@
                 "sha512": "783abd8b03767e9038b7bc80c1b5eb575b277e43aecb893110f5c13c3635a2ea3075335c98b6cef7c6e956c2273e83887bb1ba5fde8acd3208e23d14e1784ede"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.9.4/Zoomify-2.9.4.jar"
             ],
             "fileSize": 656151
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "7fbc210e6602bf684f7b56767f17c2214f0bf445",
-                "sha512": "9679c98366a637ae710e30201c157866f369d9dfebb0734be741329e684d091fe8106407b3c9afc254f366e4327d17616aeef1f7ba90b353b6a076794fa2b84e"
+                "sha1": "9aa9f916ab2ccf3a017138996f4813451d85b52d",
+                "sha512": "707d6954462932df553ffa4f333cf36b90709fbe60fa336436e3a6b5ae6fb0c25bb1fc53f834146e14b17d09774595ed7a1bfc7c3b5386610c6a0ecfcccf2780"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/JXC01pGv/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/CqQiUzNM/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 18415
+            "fileSize": 18760
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
