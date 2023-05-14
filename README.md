@@ -46,12 +46,13 @@ Not sure which edition is right for you? Check this handy table!
 
 ## Accessibility
 
-Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version. Read more on [Changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
+Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version. Read more on [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 * The first-run accessibility screen is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
   * Languages screen can be accessed by pressing "right arrow" and "enter"
   * Accessibility screen can be accessed by pressing "left arrow", "left arrow" and "enter"
 * Users can search for and select multiple languages
+  * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
   * Items have the original names on their tooltips for command usage purposes
 * Game controllers are supported
 * [Several launchers are supported](#downloads)
