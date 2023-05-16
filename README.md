@@ -44,6 +44,21 @@ Not sure which edition is right for you? Check this handy table!
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
 
+## Accessibility
+
+Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version. Read more on [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
+
+* The first-run accessibility screen introduced in 1.19.4 is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
+  * Languages screen can be accessed by pressing "right arrow" and "enter"
+  * Accessibility screen can be accessed by pressing "left arrow", "left arrow" and "enter"
+* Users can search for and select multiple languages
+  * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
+  * Items have the original names on their tooltips for command usage purposes
+* Game controllers are supported
+* [Several launchers are supported](#downloads)
+* [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
+* Splash screen is black, similar to Bedrock Edition
+
 ## Disclaimers
 
 By using this modpack, you agree to the following:
@@ -54,7 +69,7 @@ By using this modpack, you agree to the following:
 * This modpack disables the [third-party server disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
     *  [The "social interactions" screen](https://minecraft.fandom.com/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
-    * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
+    * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user - adhering to server's intent. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
 * Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 
