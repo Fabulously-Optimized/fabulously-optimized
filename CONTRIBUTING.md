@@ -18,3 +18,4 @@ So you like this modpack and want to support it? That's great! In this page I ha
 * **[🧪 Test mods that are planned to be included](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+is%3Aopen+label%3A%22feedback%2Ftesters+wanted%22)**
 * **[🌐 Translate the modpack and mods](https://fabulously-optimized.gitbook.io/modpack/readme/language-support)** 
 * **[📝 Contribute to the wiki](https://github.com/Fabulously-Optimized/wiki/issues)**
+* **[🧑‍💻 Help with programming things](https://github.com/Fabulously-Optimized/fabulously-optimized/labels/help%20wanted)
