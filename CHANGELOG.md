@@ -5,12 +5,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 4.10.0-beta.1 (2023-05-02)
 
+**This version is no longer supported, use 4.9.1 or later.**
+
 - All 4.9.0 changes
 - Updated Sodium, Sodium Extra, Iris, Indium
   - It is in beta because the Sodium changes may have caused mod compatibility problems (crashes, freezes etc.) and there is a known memory leak when switching dimensions (portals, hub-based servers, etc.)
   - On the positive side, chunk rendering "up to 30% faster", plus other rendering improvements
   - Vanilla users do not have to download Sodium separately in this version
   - MultiMC (auto-update) will still get 4.9.0 due to above
+
+### 4.9.3 (2023-05-17)
+
+Casual reminder for those who add custom mods to FO: please update FO first and then update your mods individually. 
+Updating all mods at once is not advised, as it may cause unexpected behavior and conflicts, especially when it updates FO mods.
+
+- Updated Chat Reporting Helper, e4mc, No Chat Reports
+- Various minor changes to Mod Menu Helper
+  - Updated Chinese Traditional
 
 ### 4.9.2 (2023-05-10)
 
