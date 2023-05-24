@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.9.3",
+    "versionId": "4.9.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -175,15 +175,15 @@
             "fileSize": 444201
         },
         {
-            "path": "mods/fabric-api-0.80.0+1.19.4.jar",
+            "path": "mods/fabric-api-0.81.1+1.19.4.jar",
             "hashes": {
-                "sha1": "d1e66307336d0c6b99e9457d2088d116183533fe",
-                "sha512": "f42cd2079ac87a39b1a53f1d90e09b2cf1a2c5abe38d2c6394f34c473f105a726a04880e71bf83c022418ffc9c5334c2bf29032d1385523fef144def7d013448"
+                "sha1": "15af0813d0522c2137bb4ed2cc46603843bc7169",
+                "sha512": "8a18881b8257a96f187737719572292a0821f286e3305361120584a94afda06f8cb72c1021d986556510e45816202a0154a29625c2b30fce9c9466f1c597e5e2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/s5UrEfIY/fabric-api-0.80.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qMk5NmAs/fabric-api-0.81.1%2B1.19.4.jar"
             ],
-            "fileSize": 1971567
+            "fileSize": 1984944
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
@@ -427,15 +427,15 @@
             "fileSize": 1235479
         },
         {
-            "path": "mods/NoChatReports-FABRIC-1.19.4-v2.1.2.jar",
+            "path": "mods/NoChatReports-FABRIC-1.19.4-v2.1.3.jar",
             "hashes": {
-                "sha1": "c0b44012c7a0fbd6e5b2a2a919a7618f58af18d0",
-                "sha512": "abe5680c5342a5619d27a4375cf5636424d62e7b9990ccd506b540c99b733bd0dc248c0edf312fc1d5d99545a1c3a5da302cd59337085c61a422d5cef7d96995"
+                "sha1": "f891089dff8f0d028b8a039a77186ab40275885a",
+                "sha512": "6b4d663cb26fff8336b452a73b91854452e82a233ac67bbb1e0d994fdfc5ea689792cb403a669a14d3dcf33bf1096ec9ce9d90bc587a3285efbe65d22d82fe7b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/h1AaG3zP/NoChatReports-FABRIC-1.19.4-v2.1.2.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/9vFakLOL/NoChatReports-FABRIC-1.19.4-v2.1.3.jar"
             ],
-            "fileSize": 609610
+            "fileSize": 611926
         },
         {
             "path": "mods/nofade-1.18-2.0.1.jar",
@@ -449,16 +449,15 @@
             "fileSize": 16197
         },
         {
-            "path": "mods/optigui-2.0.0-beta.3.jar",
+            "path": "mods/optigui-2.1.0-beta.2.jar",
             "hashes": {
-                "sha1": "bb61c5649c1bb027df3f7f2b952fc4885c13eaee",
-                "sha512": "cded2a1b99b1f16bf201d3156b18361139a3b3810f452bcc284d91e61da3ebc408f04503956ff22205e58af2fd924a73ca10d8540adc8f380bc987d6bd56274c"
+                "sha1": "eb8e38e64133704b3162b0893e1116fb59245679",
+                "sha512": "4d373d249ca35c5b6d401ff3fb317701298862bf17b4179f937343348ef8385ee38b65c867d8f26af714717cae179dc4a9d5c43d947eeaec45d9a5bd398c6af4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/TM9YqUwX/optigui-2.0.0-beta.3.jar",
-                "https://github.com/opekope2/OptiGUI-Next/releases/download/2.0.0-beta.3/optigui-2.0.0-beta.3.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/LVdJJtmU/optigui-2.1.0-beta.2.jar"
             ],
-            "fileSize": 700195
+            "fileSize": 691258
         },
         {
             "path": "mods/puzzle-1.5.0+1.19.4.jar",
@@ -557,13 +556,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "c8a47e6e2614e081e82b46f8ee1833f4660136ce",
-                "sha512": "891e7942f3547f9c95ffae58fa5f8884b56f3c41ac1e074e5d30d5d75cf6a32105e5395a78f1e77e2021e5a70ea06659e4d308f06fdadae1b0724493f84ca36d"
+                "sha1": "2ae82288d66aad6a8079eae55a1d3b3069859e3c",
+                "sha512": "6b10d6739117e302906deea8c2bf0ccd04a33b7195be4de1f6ae26dad0f5559dcf27a489b3220bb55b422bb5921e1f451de44457c2d43acc86e107ac12e3afc3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/861KZZWZ/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/6z8xjGCu/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 20700
+            "fileSize": 19115
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",

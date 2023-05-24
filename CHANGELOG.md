@@ -14,6 +14,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - Vanilla users do not have to download Sodium separately in this version
   - MultiMC (auto-update) will still get 4.9.0 due to above
 
+### 4.9.4 (2023-05-24)
+
+- Updated Chat Reporting Helper, Fabric API, No Chat Reports, OptiGUI
+- Updated Chinese Traditional and Simplified translations
+- Removed unneeded Fabric Loader dependencies 
+
 ### 4.9.3 (2023-05-17)
 
 Casual reminder for those who add custom mods to FO: please update FO first and then update your mods individually. 
