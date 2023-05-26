@@ -46,7 +46,7 @@ Not sure which edition is right for you? Check this handy table!
 
 ## Accessibility
 
-Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version. Read more on [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
+Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
 
 * The first-run accessibility screen introduced in 1.19.4 is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
   * Languages screen can be accessed by pressing "right arrow" and "enter"
@@ -58,6 +58,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
 * [Several launchers are supported](#downloads)
 * [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
 * Splash screen is black, similar to Bedrock Edition
+* Other [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) to match users' expectations
 
 ## Disclaimers
 
