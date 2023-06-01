@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.0 (2023-06-01)
+
+- Added Better Beds - a replacement to Enhanced Block Entities while it is not up to date
+- Removed Animatica - apparently it is _not_ yet compatible with 1.19.4 and one user found it out the hard way
+- Updated Fabric API, FabricSkyboxes, FabricSkyboxes Interop, OptiGUI
+- Updated and enforced Fabric Loader 0.14.21
+- Added French translation to Mod Menu Helper
+- (This version does not have 4.10.0-beta.1 changes)
+
 ### 4.10.0-beta.1 (2023-05-02)
 
 **This version is no longer supported, use 4.9.1 or later.**

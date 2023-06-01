@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.9.4",
+    "versionId": "4.10.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -17,17 +17,6 @@
             "fileSize": 1041527
         },
         {
-            "path": "mods/animatica-0.5+1.19.jar",
-            "hashes": {
-                "sha1": "d58560b9c226df726bdddc7ab25748a158a0cb3d",
-                "sha512": "c445bc7cb4b235af85193dba03c13142face27b5975558a8a39f81b1f2e98808a3ec528f4113cad076586685adbb2819b42cac0078e426ad07761b81ac76dc53"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"
-            ],
-            "fileSize": 74214
-        },
-        {
             "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar",
             "hashes": {
                 "sha1": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366",
@@ -37,6 +26,17 @@
                 "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/Jq5eCzIr/antighost-1.19.3-fabric0.68.1-1.1.5.jar"
             ],
             "fileSize": 45879
+        },
+        {
+            "path": "mods/betterbeds-1.3.0-1.19.3.jar",
+            "hashes": {
+                "sha1": "be8020ab06b679bb33f93a7e9ade8a783985eab0",
+                "sha512": "47c9237393b83c5eee2c82b48fefc82bf4ff932161e78fac0318f52cfc33615b19a0a7e5cacfecf2ef35d603da5af9c69bdaf365db4de1eb1aa90aae647d18f7"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar"
+            ],
+            "fileSize": 50218
         },
         {
             "path": "mods/bettermounthud-1.2.1.jar",
@@ -175,15 +175,15 @@
             "fileSize": 444201
         },
         {
-            "path": "mods/fabric-api-0.81.1+1.19.4.jar",
+            "path": "mods/fabric-api-0.82.0+1.19.4.jar",
             "hashes": {
-                "sha1": "15af0813d0522c2137bb4ed2cc46603843bc7169",
-                "sha512": "8a18881b8257a96f187737719572292a0821f286e3305361120584a94afda06f8cb72c1021d986556510e45816202a0154a29625c2b30fce9c9466f1c597e5e2"
+                "sha1": "7e97964869f08b387a5d7627341302bcc0b827b1",
+                "sha512": "5ad1964629460ca962d9c5a980da1ef9d7c777df3b5bae60f77c9d2b635ef27ccb07ab49b2df5b99e76b6093db9afdfd530ce76b80dc278524a34678489a52e2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qMk5NmAs/fabric-api-0.81.1%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/B7GygbYq/fabric-api-0.82.0%2B1.19.4.jar"
             ],
-            "fileSize": 1984944
+            "fileSize": 1986952
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
@@ -198,15 +198,15 @@
             "fileSize": 6578017
         },
         {
-            "path": "mods/fabricskyboxes-0.6.5+mc1.19.4.jar",
+            "path": "mods/fabricskyboxes-0.7.0+mc1.19.4.jar",
             "hashes": {
-                "sha1": "1b05437fbc8a7f7f376ae8e93336092352e5ef3d",
-                "sha512": "871ccb1e08abbbe2111850d1ad45bcf111600a9f6db968ba4db64c90f47dd8198e211714a1c08d80a1e4405c1edfd4d3274ca60cb47c1eeeae4cbd798fa60946"
+                "sha1": "4cef8eb08f622f840bb94221ed7d93d3666c8774",
+                "sha512": "801bfd80f031d34239590653a720d2a8a40265643f0f4db262b136a00b8f6c11ef0758d3d931535841ac0486239ecd24870708d5c14f7cf7683625e1da299d1c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YBz7DOs8/versions/836K5lNR/fabricskyboxes-0.6.5%2Bmc1.19.4.jar"
+                "https://cdn.modrinth.com/data/YBz7DOs8/versions/hahpALIM/fabricskyboxes-0.7.0%2Bmc1.19.4.jar"
             ],
-            "fileSize": 168214
+            "fileSize": 181826
         },
         {
             "path": "mods/fabrishot-1.9.2.jar",
@@ -253,15 +253,15 @@
             "fileSize": 124924
         },
         {
-            "path": "mods/fsb-interop-1.2.0+mc1.19.4-build.31.jar",
+            "path": "mods/fsb-interop-1.3.1+mc1.19.4-build.33.jar",
             "hashes": {
-                "sha1": "828946056bbf4964b4dea59df73f1fcfda9d40b7",
-                "sha512": "9132f7b6e93202dd2a35ad764dc757e3af516b14ff83656729f75f319ec57a48e11bd7706a8616b0c721866cb574e9799cecc54b44aaab79302afb03b377a1ac"
+                "sha1": "e6438834a93cf025885aecd1b856179d63d0c82c",
+                "sha512": "565d3b95bf5e11eefe5230cf09cb7d2391bde843521ad6e94246ab39d9d26a9dc06d766e8e242320b68310fdc8aadb6a4c86267d7ff42832d0106cf8ff9c73ca"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HpdHOPOp/versions/Ubocf3Zc/fsb-interop-1.2.0%2Bmc1.19.4-build.31.jar"
+                "https://cdn.modrinth.com/data/HpdHOPOp/versions/PJFkb67M/fsb-interop-1.3.1%2Bmc1.19.4-build.33.jar"
             ],
-            "fileSize": 43235
+            "fileSize": 45932
         },
         {
             "path": "mods/ImmediatelyFast-1.1.12+1.19.4.jar",
@@ -449,15 +449,16 @@
             "fileSize": 16197
         },
         {
-            "path": "mods/optigui-2.1.0-beta.2.jar",
+            "path": "mods/optigui-2.1.0-beta.3.jar",
             "hashes": {
-                "sha1": "eb8e38e64133704b3162b0893e1116fb59245679",
-                "sha512": "4d373d249ca35c5b6d401ff3fb317701298862bf17b4179f937343348ef8385ee38b65c867d8f26af714717cae179dc4a9d5c43d947eeaec45d9a5bd398c6af4"
+                "sha1": "ad7d443eee67f8ff5f1eb954dda813fd277f6102",
+                "sha512": "52a6324076a945d26b3543b88455306a62313a0737742b2ea96b4b7d363564531841072b9873c7eeff293118e57de5eb6d6c56695a63429c27f6ea2c2ffd3fd1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/LVdJJtmU/optigui-2.1.0-beta.2.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/XflepaVP/optigui-2.1.0-beta.3.jar",
+                "https://github.com/opekope2/OptiGUI/releases/download/2.1.0-beta.3/optigui-2.1.0-beta.3.jar"
             ],
-            "fileSize": 691258
+            "fileSize": 692439
         },
         {
             "path": "mods/puzzle-1.5.0+1.19.4.jar",
@@ -578,6 +579,6 @@
     ],
     "dependencies": {
         "minecraft": "1.19.4",
-        "fabric-loader": "0.14.19"
+        "fabric-loader": "0.14.21"
     }
 }
