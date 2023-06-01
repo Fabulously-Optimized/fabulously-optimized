@@ -16,7 +16,7 @@ jobs:
            zipBall: false
 
        - name: Publish to CurseForge
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            curseforge-id: 396246
            curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
