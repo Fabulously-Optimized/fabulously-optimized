@@ -7,7 +7,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ## Smooth
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | &nbsp;1.20 | Description |
 |---|---|---|---|---|---|---|---|
-| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✔️ |  |  |  |  | Makes beds render faster |
+| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✔️ |  |  |  | &nbsp;&nbsp;✔️ | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Renders Minecraft slower if it is in the background to reduce CPU usage |
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Makes chests, signs, beds, etc. render faster |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Stops rendering entities that are behind walls |
@@ -33,7 +33,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | &nbsp;1.20 | Description |
 |---|---|---|---|---|---|---|---|
 | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes the advancement pages bigger, adds a requirement list and search bar |
-| [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's animated textures support |
+| [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Adds OptiFine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's and other mods' capes, [(instructions for a free cape)](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape) |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine's custom item textures support |
