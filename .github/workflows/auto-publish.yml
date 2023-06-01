@@ -6,18 +6,14 @@ jobs:
   publish-to-curseforge:
     runs-on: ubuntu-22.04
     steps:
-       - name: Get the version
-         id: get_version
-         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\/v/}
-         
        - name: Download the pack files
-         uses: robinraju/release-downloader@v1.5
+         uses: robinraju/release-downloader@v1.8
+         id: download-files
          with:
-           name: "*.zip"
+           fileName: "*.zip"
            latest: true
            tarBall: false
            zipBall: false
-           out-file-path: .
 
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.2
@@ -26,27 +22,29 @@ jobs:
            curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
            curseforge-files: '*.zip'
            loaders: fabric
-           game-versions: '1.19.2'
-           version: ${{ steps.get_version.outputs.version }} for 1.19.2 (CurseForge)  
+           game-versions: '1.19.4'
+           version: ${{ steps.download-files.outputs.tag_name }} for 1.19.4  
            
   publish-to-modrinth:
     runs-on: ubuntu-22.04
     steps:
        - name: Download the pack files
-         uses: robinraju/release-downloader@v1.5
+         uses: robinraju/release-downloader@v1.8
+         id: download-files
          with:
-           name: "*.mrpack"
+           fileName: "*.mrpack"
            latest: true
            tarBall: false
            zipBall: false
-           out-file-path: .
+           
            
        - name: Publish to Modrinth
-         uses: Kir-Antipov/mc-publish@v3.2
+         uses: Kir-Antipov/mc-publish@v3.3
          with:
            modrinth-id: 1KVo5zza
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
-           modrinth-files: '*.mrpack'
+           files: '*.mrpack'
            loaders: fabric
-           game-versions: '1.19.2'
+           game-versions: '1.19.4'
+           version: ${{ steps.download-files.outputs.tag_name }} for 1.19.4
