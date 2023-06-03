@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.1 (2023-06-03)
+
+- Updated Fabric API, FabricSkyboxes, No Chat Reports
+  - FabricSkyboxes fixed an issue with custom skies and shaders
+- Fixed Mod Menu Helper's alternative mod indicators not being blue per recent change
+
 ### 4.10.0 (2023-06-01)
 
 - Added Better Beds - a replacement to Enhanced Block Entities while it is not up to date
