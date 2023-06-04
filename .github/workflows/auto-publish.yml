@@ -5,6 +5,7 @@ on:
 jobs:
   publish-to-curseforge:
     runs-on: ubuntu-22.04
+    environment: github-actions
     steps:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
@@ -23,10 +24,11 @@ jobs:
            curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
            curseforge-files: '*.zip'
            loaders: fabric
-           game-versions: ${{ env.MC_VERSION }}
+           game-versions: ${{ vars.MC_VERSION }}
            
   publish-to-modrinth:
     runs-on: ubuntu-22.04
+    environment: github-actions
     steps:
        - name: Download the pack files
          uses: robinraju/release-downloader@v1.8
@@ -47,4 +49,4 @@ jobs:
            modrinth-unfeature-mode: subset
            files: '*.mrpack'
            loaders: fabric
-           game-versions: ${{ env.MC_VERSION }}
+           game-versions: ${{ vars.MC_VERSION }}
