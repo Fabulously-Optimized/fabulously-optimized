@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.2 (2023-06-06)
+
+- Updated e4mc, Indium, Chat Reporting Helper
+- Updated Polish and Ukrainian translation
+- Attempted to remove "Beasts of the New World"
+  - It is a Forge mod that never was in FO, but somehow showed up in 4.10.1 for CurseForge Launcher... Luckily the mod jar itself was _not_ downloaded even there.
+
 ### 4.10.1 (2023-06-03)
 
 - Updated Fabric API, FabricSkyboxes, No Chat Reports

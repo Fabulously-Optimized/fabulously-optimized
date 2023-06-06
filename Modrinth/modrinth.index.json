@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.10.1",
+    "versionId": "4.10.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -130,15 +130,15 @@
             "fileSize": 89446
         },
         {
-            "path": "mods/e4mc-3.1.0.jar",
+            "path": "mods/e4mc-3.2.0+1.19.4-fabric.jar",
             "hashes": {
-                "sha1": "223c73a3da0ea515c10ca10b03d0b282cf6fafec",
-                "sha512": "fb3a38cc4e954049a90532fc9917b82e3e9d1d9d40b2c321ba5a9555856d63a61961fff8432aca327b828fed00495b1c11f6215a34093e8bac84bb94a284297d"
+                "sha1": "601600a3977a9a60b1eb4fb293e5252467922bfa",
+                "sha512": "f72a3312706185995342db3a9a008d3136d5c68dde32282613022cfe86095945c298ae7a6bf2111e2d90f07bee175365f8fb735fb11065c02dbc3efdc8122341"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qANg5Jrr/versions/OswvfQpX/e4mc-3.1.0.jar"
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/jWzkvN1j/e4mc-3.2.0%2B1.19.4-fabric.jar"
             ],
-            "fileSize": 149388
+            "fileSize": 159100
         },
         {
             "path": "mods/entityculling-fabric-1.6.2-mc1.19.4.jar",
@@ -276,16 +276,15 @@
             "fileSize": 187195
         },
         {
-            "path": "mods/indium-1.0.15+mc1.19.4.jar",
+            "path": "mods/indium-1.0.18+mc1.19.4.jar",
             "hashes": {
-                "sha1": "5391112f63ca8d07b370759da8480a8aafe0d483",
-                "sha512": "0fb97e69139b32770dfd46be39dac7109e08261bc95ae7dbb0b96743af4125af3e7a31c8a0078de2aec50f62f46aa519a22602971fab9b34d30074715414b088"
+                "sha1": "f7b0af5b2376433246f623b227c85382f42d4c36",
+                "sha512": "daf13ea9e5a23427500ec1e0ce0350cb5cf85139086ddd079c203f9eb85274f102c9e849c661e6b82277eca4ec97ebf53b719b6799514844c75a3c18af579ac1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/qqiFL8NF/indium-1.0.15%2Bmc1.19.4.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.15%2Bmc1.19.4/indium-1.0.15%2Bmc1.19.4.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/M7szjcI4/indium-1.0.18%2Bmc1.19.4.jar"
             ],
-            "fileSize": 113989
+            "fileSize": 115023
         },
         {
             "path": "mods/iris-mc1.19.4-1.6.3.jar",
@@ -557,13 +556,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "2ae82288d66aad6a8079eae55a1d3b3069859e3c",
-                "sha512": "6b10d6739117e302906deea8c2bf0ccd04a33b7195be4de1f6ae26dad0f5559dcf27a489b3220bb55b422bb5921e1f451de44457c2d43acc86e107ac12e3afc3"
+                "sha1": "082ab1dfb0b39e99fc59bba413753d5b9bd9f047",
+                "sha512": "9a6d0149405c72b39b6464473a7d9c0c1c0a4a05a16346b0d4ee360e54bcc09882b0ae0b05e07da1f2fb2e915e5dd9e7592b45cdcee16dd717b4c294666bfc1f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/6z8xjGCu/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/aPm7UDFh/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 19115
+            "fileSize": 21427
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
