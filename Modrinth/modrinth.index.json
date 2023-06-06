@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.10.2",
+    "versionId": "4.10.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -276,15 +276,16 @@
             "fileSize": 187195
         },
         {
-            "path": "mods/indium-1.0.18+mc1.19.4.jar",
+            "path": "mods/indium-1.0.15+mc1.19.4.jar",
             "hashes": {
-                "sha1": "f7b0af5b2376433246f623b227c85382f42d4c36",
-                "sha512": "daf13ea9e5a23427500ec1e0ce0350cb5cf85139086ddd079c203f9eb85274f102c9e849c661e6b82277eca4ec97ebf53b719b6799514844c75a3c18af579ac1"
+                "sha1": "5391112f63ca8d07b370759da8480a8aafe0d483",
+                "sha512": "0fb97e69139b32770dfd46be39dac7109e08261bc95ae7dbb0b96743af4125af3e7a31c8a0078de2aec50f62f46aa519a22602971fab9b34d30074715414b088"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/M7szjcI4/indium-1.0.18%2Bmc1.19.4.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/qqiFL8NF/indium-1.0.15%2Bmc1.19.4.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.15%2Bmc1.19.4/indium-1.0.15%2Bmc1.19.4.jar"
             ],
-            "fileSize": 115023
+            "fileSize": 113989
         },
         {
             "path": "mods/iris-mc1.19.4-1.6.3.jar",

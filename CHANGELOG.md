@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.3 (2023-06-06)
+
+- Reverted Indium update
+  - Some resource packs started crashing and skipping chunks (underlying cause is Continuity)
+
 ### 4.10.2 (2023-06-06)
 
 - Updated e4mc, Indium, Chat Reporting Helper
