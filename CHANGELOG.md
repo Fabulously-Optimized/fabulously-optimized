@@ -3,6 +3,28 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.2 (2023-06-06)
+
+- Updated e4mc, Indium, Chat Reporting Helper
+- Updated Polish and Ukrainian translation
+- Attempted to remove "Beasts of the New World"
+  - It is a Forge mod that never was in FO, but somehow showed up in 4.10.1 for CurseForge Launcher... Luckily the mod jar itself was _not_ downloaded even there.
+
+### 4.10.1 (2023-06-03)
+
+- Updated Fabric API, FabricSkyboxes, No Chat Reports
+  - FabricSkyboxes fixed an issue with custom skies and shaders
+- Fixed Mod Menu Helper's alternative mod indicators not being blue per recent change
+
+### 4.10.0 (2023-06-01)
+
+- Added Better Beds - a replacement to Enhanced Block Entities while it is not up to date
+- Removed Animatica - apparently it is _not_ yet compatible with 1.19.4 and one user found it out the hard way
+- Updated Fabric API, FabricSkyboxes, FabricSkyboxes Interop, OptiGUI
+- Updated and enforced Fabric Loader 0.14.21
+- Added French translation to Mod Menu Helper
+- (This version does not have 4.10.0-beta.1 changes)
+
 ### 4.10.0-beta.1 (2023-05-02)
 
 **This version is no longer supported, use 4.9.1 or later.**
@@ -13,6 +35,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - On the positive side, chunk rendering "up to 30% faster", plus other rendering improvements
   - Vanilla users do not have to download Sodium separately in this version
   - MultiMC (auto-update) will still get 4.9.0 due to above
+
+### 4.9.4 (2023-05-24)
+
+- Updated Chat Reporting Helper, Fabric API, No Chat Reports, OptiGUI
+- Updated Chinese Traditional and Simplified translations
+- Removed unneeded Fabric Loader dependencies 
 
 ### 4.9.3 (2023-05-17)
 

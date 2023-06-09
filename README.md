@@ -20,7 +20,7 @@ Supports CurseForge Launcher, Prism Launcher, MultiMC, and vanilla launcher.
   <summary>Alternative downloads</summary>
 
 _These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.7.0-beta.3/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
+* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 * Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
@@ -46,7 +46,7 @@ Not sure which edition is right for you? Check this handy table!
 
 ## Accessibility
 
-Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version. Read more on [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
+Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
 
 * The first-run accessibility screen introduced in 1.19.4 is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
   * Languages screen can be accessed by pressing "right arrow" and "enter"
@@ -58,6 +58,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
 * [Several launchers are supported](#downloads)
 * [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
 * Splash screen is black, similar to Bedrock Edition
+* Other [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) to match users' expectations
 
 ## Disclaimers
 
