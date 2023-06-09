@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.4 (2023-06-09)
+
+Here's a quick update to remind you that Fabulously Optimized is safe and the 1.20 alpha will come soon. Or is it 1.20.1? Ah, who knows.
+
+- Updated Fabric Language Kotlin, ImmediatelyFast, Language Reload, No Chat Reports, OptiGUI, YetAnotherConfigLib
+  - Zoomify update skipped because it crashes ¯\\\_(ツ)_/¯
+- Updated Brazilian Portuguese and Ukrainian translation
+- Removed ImmediatelyFast workaround
+
 ### 4.10.3 (2023-06-06)
 
 - Reverted Indium update
