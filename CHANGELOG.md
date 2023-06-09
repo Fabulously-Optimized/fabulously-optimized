@@ -3,6 +3,33 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.4 (2023-06-09)
+
+Here's a quick update to remind you that Fabulously Optimized is safe and the 1.20 alpha will come soon. Or is it 1.20.1? Ah, who knows.
+
+- Updated Fabric Language Kotlin, ImmediatelyFast, Language Reload, No Chat Reports, OptiGUI, YetAnotherConfigLib
+  - Zoomify update skipped because it crashes ¯\\\_(ツ)_/¯
+- Updated Brazilian Portuguese and Ukrainian translation
+- Removed ImmediatelyFast workaround
+
+### 4.10.3 (2023-06-06)
+
+- Reverted Indium update
+  - Some resource packs started crashing and skipping chunks (underlying cause is Continuity)
+
+### 4.10.2 (2023-06-06)
+
+- Updated e4mc, Indium, Chat Reporting Helper
+- Updated Polish and Ukrainian translation
+- Attempted to remove "Beasts of the New World"
+  - It is a Forge mod that never was in FO, but somehow showed up in 4.10.1 for CurseForge Launcher... Luckily the mod jar itself was _not_ downloaded even there.
+
+### 4.10.1 (2023-06-03)
+
+- Updated Fabric API, FabricSkyboxes, No Chat Reports
+  - FabricSkyboxes fixed an issue with custom skies and shaders
+- Fixed Mod Menu Helper's alternative mod indicators not being blue per recent change
+
 ### 4.10.0 (2023-06-01)
 
 - Added Better Beds - a replacement to Enhanced Block Entities while it is not up to date
