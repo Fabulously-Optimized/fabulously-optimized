@@ -4,6 +4,7 @@ on:
     types: [published]
 jobs:
   publish-to-curseforge:
+    if: github.repository_owner == 'Fabulously-Optimized'
     runs-on: ubuntu-22.04
     environment: github-actions
     steps:
@@ -38,7 +39,6 @@ jobs:
            latest: true
            tarBall: false
            zipBall: false
-           
            
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.3
