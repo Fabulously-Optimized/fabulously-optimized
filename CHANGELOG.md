@@ -1,6 +1,24 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20
+
+### 5.0.0-alpha.1 (2023-06-xx)
+
+This is it, the first alpha! Took more time than expected but it was worth the wait.
+
+- Added Fadeless - direct replacement for the NoFade mod
+- Removed No Fade - no longer works, abandoned
+- Removed Starlight - no longer needed
+- Updated Better Mount HUD, Cloth Config API, CIT Resewn, Debugify, Dynamic FPS, Entity Culling, Entity Model Features, Entity Texture Features, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, ImmediatelyFast, Indium, Iris, LanguageReload, Lithium, MemoryLeakFix, MidnightControls, Mod Menu, No Chat Reports, OptiGUI, Puzzle, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib, Zoomify
+- Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights, MoreCulling
+  - Currently Hold That Chunk is present on all editions as Farsight is broken
+- Force-enabled Borderless Mining, Capes
+- Disabled EMF in Puzzle
+- Updated Brazilian Portuguese translation
+- Note: MultiMC legacy deprecation is still planned, but it will stay available until the vanilla installer is usable.
+  - Vanilla users no longer have to install Sodium separately
+
 ## 1.19.4
 
 ### 4.10.4 (2023-06-09)
