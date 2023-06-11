@@ -3,7 +3,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20
 
-### 5.0.0-alpha.1 (2023-06-xx)
+### 5.0.0-alpha.1 (2023-06-11)
 
 This is it, the first alpha! Took more time than expected but it was worth the wait.
 
