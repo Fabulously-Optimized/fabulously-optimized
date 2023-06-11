@@ -25,7 +25,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  |  | Optimizes light rendering |
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Improves the overall responsiveness of the game (less likely to freeze) |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes general rendering to improve FPS, adds some graphics options |
-| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Optimizes light rendering |
+| [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | [Spottedstar](https://www.curseforge.com/members/Spottedstar) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  | Optimizes light rendering |
 
 ¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
