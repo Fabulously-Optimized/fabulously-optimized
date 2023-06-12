@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.0.0-alpha.1",
+    "versionId": "5.1.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -51,15 +51,16 @@
             "fileSize": 112954
         },
         {
-            "path": "mods/capes-1.5.2+1.19.3-fabric.jar",
+            "path": "mods/capes-1.5.2+1.20-fabric.jar",
             "hashes": {
-                "sha1": "2464dba794972e50e277b822efbf3025cd8ec68c",
-                "sha512": "10c1477f459685eda01a6cfcd520c047f1e611e107b5198ced556971ddd0b8fe41574a263c579cb4fe352b3a72eb9b088d8b8623bae425e331ff140901878905"
+                "sha1": "5444e301346383f6133189e66069e970d4a126fc",
+                "sha512": "e8e0b46e6a7da55e83a3883497e29666941cf865c6166b319d56ba574a5124d864353be257c05468f3626813c28544c69fb8015fb24acc41a7ef9356b83714eb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/kXfWiNN7/capes-1.5.2%2B1.19.3-fabric.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/z2zOEvPP/capes-1.5.2%2B1.20-fabric.jar",
+                "https://github.com/CaelTheColher/Capes/releases/download/fabric-1.5.2%2B1.20/capes-1.5.2%2B1.20-fabric.jar"
             ],
-            "fileSize": 128670
+            "fileSize": 170082
         },
         {
             "path": "mods/CITResewn-1.1.3+1.20.jar",
@@ -84,27 +85,27 @@
             "fileSize": 1147729
         },
         {
-            "path": "mods/continuity-3.0.0-beta.2+1.19.3.jar",
+            "path": "mods/continuity-3.0.0-beta.2+1.20.jar",
             "hashes": {
-                "sha1": "229057727abf35e0469527b94d84d96e1770c156",
-                "sha512": "8905878952c0bd85d9b2bf3b2917232ac825dce4e77eb0aac10e80d28bdae019e3d37529f6c280e4904f918297eca87f174a9a6d8d2e5a20679ac5f01f1baf6a"
+                "sha1": "c5157819671612384834730a877eec5c484b5cf9",
+                "sha512": "516ace2e6f11ee8a7559d4519350cf00743d17ad6170c18886f9cd45c89900e86a6cd4e0ba67877657387d0a91704b6e57584a228d5c74889f6e84fd38857f5d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2%2B1.19.3.jar"
+                "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0-beta.2%2B1.20.jar"
             ],
-            "fileSize": 1145374
+            "fileSize": 1143994
         },
         {
-            "path": "mods/Debugify-1.20+1.1.jar",
+            "path": "mods/Debugify-1.20.1+1.0.jar",
             "hashes": {
-                "sha1": "0d41f4f555a8b87ae0f6df21b91021cc3341db59",
-                "sha512": "b48865d81f8580f67dbc817287677652180eb0ad207f73f5a40710b5bd6addca12afa9bfa7596f3d434815d03b6a2a156eec62b283deaa12c2f91dae997a4bd8"
+                "sha1": "cb8a56d0af7016e2cf01d1a5b2fb74b16bdba8d6",
+                "sha512": "99ddff693211eed091b5200a15c83bbb0b229cb1a0f3e96caf34a875445cb3bbcb010c43af2df065b6d8e0c10fe96364f34fd9e0552e5d4f38c6f5f82bc778c1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/7SaNcvDx/Debugify-1.20%2B1.1.jar",
-                "https://github.com/isXander/Debugify/releases/download/1.20%2B1.1/Debugify-1.20%2B1.1.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6ckEWNPu/Debugify-1.20.1%2B1.0.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.20.1%2B1.0/Debugify-1.20.1%2B1.0.jar"
             ],
-            "fileSize": 332507
+            "fileSize": 334677
         },
         {
             "path": "mods/dynamic-fps-2.3.0.jar",
@@ -164,15 +165,15 @@
             "fileSize": 444056
         },
         {
-            "path": "mods/fabric-api-0.83.0+1.20.jar",
+            "path": "mods/fabric-api-0.83.0+1.20.1.jar",
             "hashes": {
-                "sha1": "3b0bcacbb175ae6adbbb2af203fce3a37189e494",
-                "sha512": "b121ee00b13804d6850cdf506f9b216348a76ee8c1998492062d1b3d09f7ee921c89153449fd9d8ad907d1b8efb660a9cf4c540c20dc0ae892e0f567ac6541fe"
+                "sha1": "26ca3122ef4186e55fd853d29008275a0de81ff9",
+                "sha512": "13b5d10a07d3f51db39fe785be5bc921fd78ba7aea3f24b958176258ce54baca16c65d8527729c4a6bc7fdab2818d7ad7efea9f63bcb396af9d39c3db935128c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/n2c5lxAo/fabric-api-0.83.0%2B1.20.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/rSrmGeeJ/fabric-api-0.83.0%2B1.20.1.jar"
             ],
-            "fileSize": 1974627
+            "fileSize": 1974601
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
@@ -254,16 +255,16 @@
             "fileSize": 26471
         },
         {
-            "path": "mods/ImmediatelyFast-1.1.13+1.20.jar",
+            "path": "mods/ImmediatelyFast-1.1.15+1.20.1.jar",
             "hashes": {
-                "sha1": "c015e478c818eaa72115ca6ee62dc7ecd72759fc",
-                "sha512": "7849d3a9b995f74ef9716e7612a38da5e985730faa54432f8e28f50d3d798c6a5244c15349e826a4b83950ea0da8cc6a04846476434a0d0ab74e75fd706a7153"
+                "sha1": "8853f6cdd2332e23cd8e09e377612a384353f208",
+                "sha512": "88f2afb595b9be007eee13fee6a22c58000065493a88c6e08e1d78466671efe0cf4af518ea5a84ed84bc8b32c6e5b9ada5a1fb391d4e64bc089fbaa0f9a7c07c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/Jci0UG9F/ImmediatelyFast-1.1.13%2B1.20.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.1.13/ImmediatelyFast-1.1.13%2B1.20.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/4IDo27OL/ImmediatelyFast-1.1.15%2B1.20.1.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.1.15/ImmediatelyFast-1.1.15%2B1.20.1.jar"
             ],
-            "fileSize": 185605
+            "fileSize": 245228
         },
         {
             "path": "mods/indium-1.0.18+mc1.20.jar",
@@ -300,18 +301,6 @@
                 "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.7%2B1.20/language-reload-1.5.7%2B1.20.jar"
             ],
             "fileSize": 64133
-        },
-        {
-            "path": "mods/lithium-fabric-mc1.20-0.11.2.jar",
-            "hashes": {
-                "sha1": "c19b1fb8ffda09f5bd22cbef8691aa6fed181d90",
-                "sha512": "12e0eb858ce8bec1b19bf8cbde7d90edc5a40f8bbfd0a785ef548ce1691aa8d293f8637421c095d3ab1da84ed1fc440c63edc823cb5b19864988cc785ad9a28d"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2KMrj5c1/lithium-fabric-mc1.20-0.11.2.jar",
-                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.20-0.11.2/lithium-fabric-mc1.20-0.11.2.jar"
-            ],
-            "fileSize": 645863
         },
         {
             "path": "mods/main-menu-credits-1.1.2.jar",
@@ -475,15 +464,15 @@
             "fileSize": 796379
         },
         {
-            "path": "mods/yosbr-0.1.1.jar",
+            "path": "mods/yosbr-0.1.2.jar",
             "hashes": {
-                "sha1": "0643830cab952fc96872702e681b863b550c8530",
-                "sha512": "8edd47fcda376658b5fb8bfb333c441ecaa1fe834d3deaa6b9895bb9c7dfc004d2e8ccc12a41e4b79f10e6634824837b5536c3bb81289e137abc6079d1c871c3"
+                "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
+                "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/WwbubTsV/versions/0.1.1/yosbr-0.1.1.jar"
+                "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
             ],
-            "fileSize": 19206
+            "fileSize": 17373
         },
         {
             "path": "mods/Zoomify-2.10.0.jar",
@@ -521,7 +510,7 @@
         }
     ],
     "dependencies": {
-        "minecraft": "1.20",
+        "minecraft": "1.20.1",
         "fabric-loader": "0.14.21"
     }
 }

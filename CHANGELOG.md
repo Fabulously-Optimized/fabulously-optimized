@@ -1,6 +1,15 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.1
+
+### 5.1.0-alpha.1 (2023-06-12)
+
+- Updated Capes, Continuity, Debugify, Fabric API, Fabric Language Kotlin, ImmediatelyFast, YOSBR
+  - CIT Resewn and Debugify will now persist your changes to their options
+- Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights, Lithium, MoreCulling
+- Force-enabled Borderless Mining, OptiGUI
+
 ## 1.20
 
 ### 5.0.0-alpha.1 (2023-06-11)

@@ -1,24 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/citresewn.json"
-hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
-
-[[files]]
-file = "config/debugify.json"
-hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a8d750cc4c3a9723282fcfeb8b882acc11ab47b3340a048d7406cf376de53898"
+hash = "9733c8605b1b3282f658a316b158360a597f8afce0c67cce15b9d02ddf495467"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "859e34b70c9430605631ec5fdb9d43ead8318b24a8baa9e1cb26c5d5b19361ef"
+hash = "b2a5ef7eb1eecb64ff5272c22e776a19fd9ceeaac9ff7fef1fb14b77b600f3b1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e840840d9d85a5722e3a9fdce284048916259088a074513b9fd116ff08e4f585"
+hash = "cc304f44e001650437f30afc48f2cda0d53c21b3d8bedc20772a3990324b4d98"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -31,6 +23,14 @@ hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "b6fdebc38bf3e988d5386bd781394545a06456e0f8fd238f2a380023de2165a7"
+hash = "46b374d7fe5d804f9bf848b7e842ff31f55ab80dd4c0ee3699b38461be96006f"
 metafile = true
 
 [[files]]
@@ -141,12 +141,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "7c5caeb7e0652bdaa73614281535d015fb45ef303edb607f4dc4baa4c493bbac"
+hash = "a99896357ea97ffa4c34d0b2a59252003a38714a8280c7803f33a38192a67ee7"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "6719f0a25609762408233f4826be8872e0508c9c1ebe16ba9a631a3f89ef3a05"
+hash = "3270a34e47dae60e8b7db563349b0b787271290776430581f36c8417d3055f8f"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "333cbe6d99393791a6ec11774f496131ec9fa8f8becdc9f5fa0ea79dd6247ebc"
+hash = "53f958f1de119c206249b4891efcd7550bb0284603edf9250df81116db142bca"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a58b5d45eb34a87798c5746f6027b74f2ce9d8442ae0cf487e803532786f4d22"
+hash = "f05603d3eedcc8bcfa724d7be8c138e36ccd12608650995f9779052cd600244a"
 metafile = true
 
 [[files]]
@@ -232,11 +232,6 @@ metafile = true
 [[files]]
 file = "mods/languagereload.pw.toml"
 hash = "122d3d07c920c2154e1c041f3acd17c4b4f1c2556b57418adebe2b46aaaef1ca"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "b6de5927635eec4e625581fd4457ff16bb023068ed2d14622c0e708f88794ead"
 metafile = true
 
 [[files]]
@@ -311,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "9dffabf569e9e1b272c7311579a4a758a88e551bf2b2c1d75319489656053c55"
+hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
 metafile = true
 
 [[files]]
