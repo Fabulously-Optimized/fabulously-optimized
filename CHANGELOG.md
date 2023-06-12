@@ -21,6 +21,14 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 
 ## 1.19.4
 
+### 4.10.5 (2023-06-12)
+
+- Updated ImmediatelyFast, OptiGUI, YOSBR
+  - CIT Resewn and Debugify will now persist your changes to their options
+- Updated Brazilian Portuguese translation
+- Disabled EMF in Puzzle
+- Fixed MultiMC (auto-update) version
+
 ### 4.10.4 (2023-06-09)
 
 Here's a quick update to remind you that Fabulously Optimized is safe and the 1.20 alpha will come soon. Or is it 1.20.1? Ah, who knows.

@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/citresewn.json"
-hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
-
-[[files]]
-file = "config/debugify.json"
-hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3daa18c95ee3394971f1d538666c9dd1d6fc49f28a4130a0ca22e9b184abf007"
+hash = "71c7446f16d684297cac768f61b99402f63ad337891e55943d57b73e88d525d6"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0f1a49e0dd6a2a55bb8c24936f9f1bc663cb4f8af613f500d160f6a14bade2d2"
+hash = "e2882a538a7ff3f3a6770f35ffc87052edad01f5bdc7a5408dd42644720a7e6c"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -31,6 +23,14 @@ hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -78,7 +78,7 @@ hash = "97a19031a10809c206b89c366bf1e802e4f2d39e9df798c3c627bf0d63448447"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "1db967817059276c90dd3fd34e2573abe7883f2a169285a2c03632f6c9d31fe8"
+hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -102,7 +102,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "9ec909c5cb055ae7f74d0944b9be3946ea3f7d44fe7a10f294e44c167a56697c"
+hash = "2ed7d045641e5b5012a2a541c02694d08e7ff090c0c2e50d1efd2aca1cc1a6a2"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6737a505531bcd75f50641ffa2affb9392d693ba673c9ab6134c32cf9ada8f8b"
+hash = "510f14852b84214ee2e9a7dc71f438912d38b3464d793d1bae09ccae3c34885e"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "25326011a7bd5d2e8aeef5ed25f3fde80898bc5a7744f9935c37e9f751f142e0"
+hash = "aa662f7b6251a81d47c2e2131bad682d7f514ba5aaa720129bb5c53cf80f8925"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "9dffabf569e9e1b272c7311579a4a758a88e551bf2b2c1d75319489656053c55"
+hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
 metafile = true
 
 [[files]]
