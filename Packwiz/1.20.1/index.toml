@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9733c8605b1b3282f658a316b158360a597f8afce0c67cce15b9d02ddf495467"
+hash = "e2b66125f8e09dab1d87968d68bc45e0e4f98150b88cb6ac255e49e3c1412f4c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b2a5ef7eb1eecb64ff5272c22e776a19fd9ceeaac9ff7fef1fb14b77b600f3b1"
+hash = "c25fb82cad0d025a65b0ee8c4982edfc5c20a4a07ef3376d9dbca50f402a8da1"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "53f958f1de119c206249b4891efcd7550bb0284603edf9250df81116db142bca"
+hash = "b0381b59e083a3c3d15ffb64c347f24ef185edce14b76ba51fa1046f37aefbb5"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsb-interop.pw.toml"
-hash = "c44a30e6eadd17f75b313f1bf26011c58b4c60af96a2cfe1f042e3510adec127"
+hash = "b8a10a0d4ae283f67a27e8c360d2ffa6f265945471a3cc85b917ab75c4942511"
 metafile = true
 
 [[files]]
@@ -232,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/languagereload.pw.toml"
 hash = "122d3d07c920c2154e1c041f3acd17c4b4f1c2556b57418adebe2b46aaaef1ca"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ff1e17e5c0670835621e2dcc69e6d29908c928253fa43019bca2f69c983776e6"
 metafile = true
 
 [[files]]
@@ -270,13 +275,18 @@ hash = "2bf8a3291d840b5f6ca368d86e005740cf6156f2c51364c29eb5cb3d157a45a2"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "1b7cb86c5cee5cce221a7b7c5a2cc5e682addcd6e383dec5e324b56fcf329dea"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "d3a760f6ae8911ab42b674b554ac624e6e78969e332bde962fa6555b261fca7d"
+hash = "7e768213e221f5f59c8cf7e9916f3edc154235da378077b5ac9d32690aedde52"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "aa662f7b6251a81d47c2e2131bad682d7f514ba5aaa720129bb5c53cf80f8925"
+hash = "75a1ddf873abbb7428c45146ee8d8532396f54481b86d9eb845a396f68851257"
 metafile = true
 
 [[files]]

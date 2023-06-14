@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-alpha.2 (2023-06-14)
+
+- Updated Fabric API, FabricSkyboxes Interop, Lithium, MoreCulling, No Chat Reports, OptiGUI
+- Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights
+- Force-enabled Borderless Mining
+
 ### 5.1.0-alpha.1 (2023-06-12)
 
 - Updated Capes, Continuity, Debugify, Fabric API, Fabric Language Kotlin, ImmediatelyFast, YOSBR
