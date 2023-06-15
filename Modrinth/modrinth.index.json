@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-alpha.2",
+    "versionId": "5.1.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -96,16 +96,15 @@
             "fileSize": 1143994
         },
         {
-            "path": "mods/Debugify-1.20.1+1.0.jar",
+            "path": "mods/Debugify-1.20.1+1.1.jar",
             "hashes": {
-                "sha1": "cb8a56d0af7016e2cf01d1a5b2fb74b16bdba8d6",
-                "sha512": "99ddff693211eed091b5200a15c83bbb0b229cb1a0f3e96caf34a875445cb3bbcb010c43af2df065b6d8e0c10fe96364f34fd9e0552e5d4f38c6f5f82bc778c1"
+                "sha1": "eb59b04e71c23da7533c737ab20c79f753866862",
+                "sha512": "3c582b04b159150099262a967bfdb067f072e3dc5ff4a5fdd22b1d601da5ea445de34b6df53c24dbeb11f3457a409f931ad566be9223a9374a48cd1a4d2a117c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6ckEWNPu/Debugify-1.20.1%2B1.0.jar",
-                "https://github.com/isXander/Debugify/releases/download/1.20.1%2B1.0/Debugify-1.20.1%2B1.0.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/GTuKuQLA/Debugify-1.20.1%2B1.1.jar"
             ],
-            "fileSize": 334677
+            "fileSize": 334708
         },
         {
             "path": "mods/dynamic-fps-2.3.0.jar",

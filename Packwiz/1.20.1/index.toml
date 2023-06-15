@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e2b66125f8e09dab1d87968d68bc45e0e4f98150b88cb6ac255e49e3c1412f4c"
+hash = "2c10012abf9f7fcefb2a0e4e652658acbafae0e7e3db357f3c2cafbb71b6003d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c25fb82cad0d025a65b0ee8c4982edfc5c20a4a07ef3376d9dbca50f402a8da1"
+hash = "674de304264a077a57167ecc660e540bf548f49675f02e874d7e356dc490923c"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "1109f4903f0e0cff3b055e1f3fad6fe4672ff19ba4ad7ed6797d03440d2ca74e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -57,6 +61,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "803ff4e47c28c30ff514ec5b3f35509f2e94f51ff649e882386b761235dbd06a"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
@@ -74,7 +82,7 @@ hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "97a19031a10809c206b89c366bf1e802e4f2d39e9df798c3c627bf0d63448447"
+hash = "1109f4903f0e0cff3b055e1f3fad6fe4672ff19ba4ad7ed6797d03440d2ca74e"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -146,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "3270a34e47dae60e8b7db563349b0b787271290776430581f36c8417d3055f8f"
+hash = "f7177d565bc9ad9f7b8bfcc58fbf4d63969723e22199fe6da0f6a996c76bf598"
 metafile = true
 
 [[files]]

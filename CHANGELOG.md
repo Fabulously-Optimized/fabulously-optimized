@@ -3,7 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-alpha.3 (2023-06-15)
+
+- Updated Debugify
+- Worked around hanging sign crash
+- Added fallback string to Main Menu Credits
+
 ### 5.1.0-alpha.2 (2023-06-14)
+
+Partly released version because CF delayed with approval and rejected the vanilla version.
 
 - Updated Fabric API, FabricSkyboxes Interop, Lithium, MoreCulling, No Chat Reports, OptiGUI
 - Temporarily removed AdvancementInfo, Farsight, FastQuit, LambDynamicLights
