@@ -3,6 +3,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.1 (2023-06-19)
+
+- Added Animatica - it still works
+  - It turned out that not everyone could reproduce the game freeze, and those who could, could even reproduce it in Minecraft 1.18.2. As such, this is a bug with a specific resource pack and some other variables (e.g. GPU), not a universal not-yet-updated-mod bug. Therefore, FO will continue to include the mod again.
+- Updated AdvancementInfo, Farsight, Mod Menu, MoreCulling, YetAnotherConfigLib
+  - CurseForge/MMC (AU) version will now use Farsight again
+- Removed hanging sign crash workaround
+- Disabled Borderless Mining config GUI for now (the config _file_ still works)
+- Fixed Fadeless not having MMH strings
+- Updated Chinese Traditional translation
+- Temporarily removed FastQuit, LambDynamicLights
+- Force-enabled Animatica, Borderless Mining
+
 ### 5.1.0-alpha.3 (2023-06-15)
 
 - Updated Debugify

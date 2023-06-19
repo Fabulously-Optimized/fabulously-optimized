@@ -1,10 +1,32 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-alpha.3",
+    "versionId": "5.1.0-beta.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
+        {
+            "path": "mods/advancementinfo-1.20-fabric0.83.0-1.3.1.jar",
+            "hashes": {
+                "sha1": "f9fec84bb07089fde690e227f79b0c519eb0437c",
+                "sha512": "1300cdd18d17b9fe021fedc5312616a004edca0805e986f3aab77f379b38fff0fa089614baa8d2415929b3b138c99d6cb3aed4ba30f0978acd4fbce4bb9c8b67"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G1epq3jN/versions/KeVl7NVo/advancementinfo-1.20-fabric0.83.0-1.3.1.jar"
+            ],
+            "fileSize": 43864
+        },
+        {
+            "path": "mods/animatica-0.5+1.19.jar",
+            "hashes": {
+                "sha1": "d58560b9c226df726bdddc7ab25748a158a0cb3d",
+                "sha512": "c445bc7cb4b235af85193dba03c13142face27b5975558a8a39f81b1f2e98808a3ec528f4113cad076586685adbb2819b42cac0078e426ad07761b81ac76dc53"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"
+            ],
+            "fileSize": 74214
+        },
         {
             "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar",
             "hashes": {
@@ -102,7 +124,8 @@
                 "sha512": "3c582b04b159150099262a967bfdb067f072e3dc5ff4a5fdd22b1d601da5ea445de34b6df53c24dbeb11f3457a409f931ad566be9223a9374a48cd1a4d2a117c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/GTuKuQLA/Debugify-1.20.1%2B1.1.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/GTuKuQLA/Debugify-1.20.1%2B1.1.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.20.1%2B1.1/Debugify-1.20.1%2B1.1.jar"
             ],
             "fileSize": 334708
         },
@@ -221,6 +244,17 @@
             "fileSize": 7876
         },
         {
+            "path": "mods/farsight-fabric-1.20.1-3.7.jar",
+            "hashes": {
+                "sha1": "b045e7ac468a78922515c180d4403f8380ec9fec",
+                "sha512": "2052b50afc2643fc39d12ba1e6aa2f275c925f71c7e3bf327a9b2af7144617365d7760c34c58af3edd59e7c091e8a36df788e8d84e41b08cbb6fe7bdcb559c40"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/LXJlc5WJ/versions/TbJQtyy8/holdthatchunk-2.0.1%2B1.19.jar"
+            ],
+            "fileSize": 26471
+        },
+        {
             "path": "mods/ferritecore-6.0.0-fabric.jar",
             "hashes": {
                 "sha1": "5a57ea73c3c7c0cc300d69611a9cad93baf8e9ab",
@@ -241,17 +275,6 @@
                 "https://cdn.modrinth.com/data/HpdHOPOp/versions/pA1F353z/fsb-interop-1.3.2%2Bmc1.20-build.36.jar"
             ],
             "fileSize": 46165
-        },
-        {
-            "path": "mods/holdthatchunk-2.0.1+1.19.jar",
-            "hashes": {
-                "sha1": "b045e7ac468a78922515c180d4403f8380ec9fec",
-                "sha512": "2052b50afc2643fc39d12ba1e6aa2f275c925f71c7e3bf327a9b2af7144617365d7760c34c58af3edd59e7c091e8a36df788e8d84e41b08cbb6fe7bdcb559c40"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/LXJlc5WJ/versions/TbJQtyy8/holdthatchunk-2.0.1%2B1.19.jar"
-            ],
-            "fileSize": 26471
         },
         {
             "path": "mods/ImmediatelyFast-1.1.15+1.20.1.jar",
@@ -371,15 +394,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-7.0.1.jar",
+            "path": "mods/modmenu-7.1.0.jar",
             "hashes": {
-                "sha1": "7210fab34b5ffe9f43207e2a74c7d4b8cdf5b165",
-                "sha512": "4573f699d177b28a05a5f3f208b264bf985d73042c796c9a08ad4123b78a5d4af7421ce939d0dfb21fee468000b4a6a8968094d44dac4146773b693447bfd055"
+                "sha1": "7d26ff2477ad8a083f11c1006a2b87ff1c121b62",
+                "sha512": "a4ace64412564f15c88f6e78916fe4197b9dfb04d23fa25649c0a5b5dc2041d17c4bdf3c1f726359561cb60eb680f3f8e45ababc1614f9dc089cb0c645b6e430"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/RTFDnTKf/modmenu-7.0.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/zv46i3PW/modmenu-7.1.0.jar"
             ],
-            "fileSize": 718157
+            "fileSize": 717936
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -393,16 +416,16 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/moreculling-1.20-0.18.0.jar",
+            "path": "mods/moreculling-1.20-0.18.1.jar",
             "hashes": {
-                "sha1": "48f7c6cd5701c26d6f0444b4a44f3c8a909a6d0b",
-                "sha512": "5e82639424ae7e6a41e5efdc2a322a44fb94d671696fac6e8c1662ffc66134d30e3195075ac59b7dd6fdb80364ffd6a4b8f3c2f0a56e5c22a83a05bb87974626"
+                "sha1": "388ad05e95d8c317911a53d57fe960e68661c69a",
+                "sha512": "7b342825d4abdfbdd930ff6ab380445cd15933ba39a290326b12f74a455030ed1d5d1f5332c2d27975342386b5c7285c77b39d5d52b218edc4355cc356529025"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/iI8jIji6/moreculling-1.20-0.18.0.jar",
-                "https://github.com/fxmorin/MoreCulling/releases/download/v0.18.0-1.20.x/moreculling-1.20-0.18.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/BbgZWSfa/moreculling-1.20-0.18.1.jar",
+                "https://github.com/fxmorin/MoreCulling/releases/download/v0.18.1-1.20.x/moreculling-1.20-0.18.1.jar"
             ],
-            "fileSize": 333267
+            "fileSize": 333228
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.20.1-v2.2.1.jar",
@@ -475,16 +498,16 @@
             "fileSize": 717030
         },
         {
-            "path": "mods/yet-another-config-lib-fabric-3.0.1+1.20.jar",
+            "path": "mods/yet-another-config-lib-fabric-3.0.2+1.20.jar",
             "hashes": {
-                "sha1": "16fecb6e49775715a8e15f9ee55dedace2f41f32",
-                "sha512": "0c1a99560ca945f09bbc1ff056733355941248e48b085766ea81a1fa0dd9caea2f4f96b3c24e2e7bd9ffda97227b3057b0a73ba7d979f1fa7d6cde7c49a63708"
+                "sha1": "c1c8904d658393871840d19871238416793f661b",
+                "sha512": "92dd17673b68fd4e9049759aece626598333d7c9a0ff3cfad2320d0f06627cc82e8e3fef24ced70e150d1b14ea36ee936a7fc4aba7ca429df56a6cebdd5f34d4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/ZqWkEgYo/yet-another-config-lib-fabric-3.0.1%2B1.20.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.0.1%2B1.20/yet-another-config-lib-fabric-3.0.1%2B1.20.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/zJ1Wh6pM/yet-another-config-lib-fabric-3.0.2%2B1.20.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.0.2%2B1.20/yet-another-config-lib-fabric-3.0.2%2B1.20.jar"
             ],
-            "fileSize": 796379
+            "fileSize": 796708
         },
         {
             "path": "mods/yosbr-0.1.2.jar",
@@ -512,11 +535,11 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "8232126661053b9772154fa2af75ebe756a86657",
-                "sha512": "95ad17ad335f43522f2cecc8f1f0b822c93baea75060b35801e251fc5188852a6fa0be5af27ee80b2915d2f9d9ea5b19ae3eef7f3c396cf7304737374c539159"
+                "sha1": "3a30ada608303157bb04f235c449eaa617d0eda5",
+                "sha512": "26c020912501ae7113ec6f9b2cfd0135458d26d6cc3d222f136dda4fedf0cbde214e789ab7860c9d5129ad43df82f350b1dcfa0f888614570f44e1a3ad68ccae"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/lW34Xt8V/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/vNwSJbfg/Chat%20Reporting%20Helper.zip"
             ],
             "fileSize": 23103
         },
