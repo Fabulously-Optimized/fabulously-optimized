@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.2 (2023-06-20)
+
+Almost ready with the existing mods, though continue testing it for stability.
+
+- Updated Dynamic FPS, LambDynamicLights
+- Temporarily removed FastQuit
+- Force-enabled Animatica, Borderless Mining
+
 ### 5.1.0-beta.1 (2023-06-19)
 
 - Added Animatica - it still works

@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-beta.1",
+    "versionId": "5.1.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -130,16 +130,16 @@
             "fileSize": 334708
         },
         {
-            "path": "mods/dynamic-fps-2.3.0.jar",
+            "path": "mods/dynamic-fps-2.4.0.jar",
             "hashes": {
-                "sha1": "5aa5c98b9cc47dae201733d9c8fb86f8e9ac3a81",
-                "sha512": "34faea76ca257cd41b708065d0dd84a69ac695f924a7c3ddb5928759b3c3503117c3bc25f5b59bb21251cd3a6dd1cc1d5ad847bc4f98a0a02849d4153bef0873"
+                "sha1": "8f8dc48343df6bd07aad944f4fe09f33dc737184",
+                "sha512": "4eb6ba150ef34f846c1552e0b1e6ba692f21e9347fcbc28d4c3d802a901a4d06d62bd54c24d4006dbf0872e2a4daf41e8379dd867aeb52173aca550159b9974c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tChVqk53/dynamic-fps-2.3.0.jar",
-                "https://github.com/juliand665/Dynamic-FPS/releases/download/2.3.0/dynamic-fps-2.3.0.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Usg995P0/dynamic-fps-2.4.0.jar",
+                "https://github.com/juliand665/Dynamic-FPS/releases/download/2.4.0/dynamic-fps-2.4.0.jar"
             ],
-            "fileSize": 74356
+            "fileSize": 80221
         },
         {
             "path": "mods/e4mc-3.2.0+1.19.4-fabric.jar",
@@ -311,6 +311,17 @@
                 "https://github.com/IrisShaders/Iris/releases/download/1.6.4%2B1.20/iris-mc1.20-1.6.4.jar"
             ],
             "fileSize": 2368109
+        },
+        {
+            "path": "mods/lambdynamiclights-2.3.1+1.20.1.jar",
+            "hashes": {
+                "sha1": "bb009883b87e45f069e83d44f2e6d559eee757e4",
+                "sha512": "ad06dd1057c01586a3f46cc0efb92f74c8f4f6781aabf44a3f4a2d1581c4ecf7eeb837e7c850deed03e07ee8381076bdde653b44998df82fe1df6654abdef69d"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/Vsx4I8Np/lambdynamiclights-2.3.1%2B1.20.1.jar"
+            ],
+            "fileSize": 566197
         },
         {
             "path": "mods/language-reload-1.5.7+1.20.jar",

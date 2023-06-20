@@ -2,19 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b17ab23c7940879f5cd0df17523d109023323ed18dfe72ad807e1ca3539afdc2"
+hash = "9a77fb2f7f85bceca182a86d5dcba4b6c4eea911d84b248d806f1476382e721e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "87f5d5b7115b2f1f8263ee696e609701ca3a49616a8e3e6a143c09c51e6f5789"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "6ffa2f6bb07987809a01c6f120f92e62869bd539a53512fbe8f573622051a60c"
-
-[[files]]
-file = "config/moreculling.toml"
-hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
+hash = "07c2593fefc4b2ed968570865db6aa782790b0ab5e560c46cd8888669808a6f4"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -81,8 +73,12 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "6ffa2f6bb07987809a01c6f120f92e62869bd539a53512fbe8f573622051a60c"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "1109f4903f0e0cff3b055e1f3fad6fe4672ff19ba4ad7ed6797d03440d2ca74e"
+hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -169,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamicfps.pw.toml"
-hash = "9e367a3b4407bf1941a5b7cc7041545d1a243e30440262c9d7cd745e1b0b8535"
+hash = "2f97c60c94970f11901d0cd28279d0e95e5122dbe954a86ec66c83e2e66e4f12"
 metafile = true
 
 [[files]]
@@ -245,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "1f617d264ae48e96ae9269400a16dc93fa011a89c6e6ec17189ae5121a217df9"
+metafile = true
+
+[[files]]
+file = "mods/lambdynlights.pw.toml"
+hash = "3454ba8fd73bb6187232dd8bab7fa60cb0cadc4b754e48f82b017e7df84045ca"
 metafile = true
 
 [[files]]
@@ -324,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "65566d1b6863c17b379cab231b99f35e5bd84531e2bc399b1251997a9b9110b2"
+hash = "736bb573b96ab40f1afaa6e0353f03b509bc164285821fe8a16e99d9ccce8dbf"
 metafile = true
 
 [[files]]
