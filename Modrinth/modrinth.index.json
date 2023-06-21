@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-beta.2",
+    "versionId": "5.1.0-beta.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -17,15 +17,15 @@
             "fileSize": 43864
         },
         {
-            "path": "mods/animatica-0.5+1.19.jar",
+            "path": "mods/animatica-0.6+1.20.jar",
             "hashes": {
-                "sha1": "d58560b9c226df726bdddc7ab25748a158a0cb3d",
-                "sha512": "c445bc7cb4b235af85193dba03c13142face27b5975558a8a39f81b1f2e98808a3ec528f4113cad076586685adbb2819b42cac0078e426ad07761b81ac76dc53"
+                "sha1": "3bcb19c759f313e69d3f7848b03c48f15167b88d",
+                "sha512": "7d50f3f34479f8b052bfb9e2482603b4906b8984039777dc2513ecf18e9af2b599c9d094e88cec774f8525345859e721a394c8cd7c14a789c9538d2533c71d65"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"
+                "https://cdn.modrinth.com/data/PRN43VSY/versions/uNgEPb10/animatica-0.6%2B1.20.jar"
             ],
-            "fileSize": 74214
+            "fileSize": 69810
         },
         {
             "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar",
@@ -118,6 +118,18 @@
             "fileSize": 1143994
         },
         {
+            "path": "mods/Controlify-1.3.1+1.20.jar",
+            "hashes": {
+                "sha1": "90a200592b9bd4dd8b5359211d683068d55cb8f6",
+                "sha512": "f71d723dadf6f983ff12f6ea0d2b17a5ab6cd472abc6b28365f782d16a64209de52d433ee610ed3d06e93e527717f6c08096489c34dabd59f2d0289853a04d42"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/FLIWpoEL/Controlify-1.3.1%2B1.20.jar",
+                "https://github.com/isXander/Controlify/releases/download/1.3.1%2B1.20/Controlify-1.3.1%2B1.20.jar"
+            ],
+            "fileSize": 1871594
+        },
+        {
             "path": "mods/Debugify-1.20.1+1.1.jar",
             "hashes": {
                 "sha1": "eb59b04e71c23da7533c737ab20c79f753866862",
@@ -187,15 +199,15 @@
             "fileSize": 444056
         },
         {
-            "path": "mods/fabric-api-0.83.1+1.20.1.jar",
+            "path": "mods/fabric-api-0.84.0+1.20.1.jar",
             "hashes": {
-                "sha1": "3616f70a677bd680c9fcced41a2117a9f099c550",
-                "sha512": "e1aa8d7a8306750de3dccd4cfec31bc4f642bec2a4480af45d20646f26da5b23a13a63de494bdcc7e6a27f5d5537698ca193cebd729a07e373b821f28d9aef61"
+                "sha1": "b6df5dd417d08cfd8565e1ce1a8c1f39219c67fe",
+                "sha512": "91659e8e853e7dc9e40448685d2023352487b036594ba7d5182ede20cb54fc2dd24a386926ef664b00665fa193eaf2a86939da0a2035ab98633c10e4b52a15a3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/K1pOTt6K/fabric-api-0.83.1%2B1.20.1.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/FLGCXPFi/fabric-api-0.84.0%2B1.20.1.jar"
             ],
-            "fileSize": 1975789
+            "fileSize": 1967926
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
@@ -371,17 +383,6 @@
             "fileSize": 143643
         },
         {
-            "path": "mods/midnightcontrols-1.8.2+1.20.jar",
-            "hashes": {
-                "sha1": "12ca313a138705adad5200a7edc216f233ecb24b",
-                "sha512": "bccfb1070c051ca349fd1feafda8a6e3c48783ce00d3ab8d5ad51e9aa4c208a81ac810b33cafc740fa684ab7b896b9fd55020ef40e9824a36c5bb1f560cdfee0"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/bXX9h73M/versions/Ek4mkpRw/midnightcontrols-1.8.2%2B1.20.jar"
-            ],
-            "fileSize": 562210
-        },
-        {
             "path": "mods/mixintrace-1.1.1+1.17.jar",
             "hashes": {
                 "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
@@ -483,6 +484,18 @@
                 "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20-1.5.1/reeses_sodium_options-1.5.1%2Bmc1.20-build.74.jar"
             ],
             "fileSize": 54237
+        },
+        {
+            "path": "mods/Rrls-1.20-3.0.0-fabric.jar",
+            "hashes": {
+                "sha1": "186996dcda4ae2080e8c199c88c68a44e3959cb2",
+                "sha512": "a15e991ce8f3720598a47c73b90cfd0807852ed411363d00ed5fe66f5d36eadd13eb8221caf88b6556c86ee903bb60df4ad04ef73b82d4f75e790043190ea21a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/5jATPwpP/Rrls-1.20-3.0.0-fabric.jar",
+                "https://github.com/dimadencep/RemoveReloadingScreen/releases/download/1.20-3.0.0/Rrls-1.20-3.0.0-fabric.jar"
+            ],
+            "fileSize": 185770
         },
         {
             "path": "mods/sodium-extra-0.4.20+mc1.20-build.103.jar",

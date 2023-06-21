@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9a77fb2f7f85bceca182a86d5dcba4b6c4eea911d84b248d806f1476382e721e"
+hash = "1c7992b0a18b058976095e038e53201fc08f27286a124df1ba02add244b00e51"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "07c2593fefc4b2ed968570865db6aa782790b0ab5e560c46cd8888669808a6f4"
+hash = "8d2e7bac3530ca369e89b4060b506dc0f990e38592c3296f52722c80c5d2e926"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "cc304f44e001650437f30afc48f2cda0d53c21b3d8bedc20772a3990324b4d98"
+hash = "735cef650db1f6820755ed3224fe663fcd9336fe571d603e6b49068c7868af12"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -27,6 +27,10 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -106,7 +110,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "30e19924787201248f7a17b81a28cf2dfa36b044c1b5b23f01a22ad2afbb2d9b"
+hash = "7c6b0dcec2beb3065b378d6a75fb53d69fc83cc0ad70ae44909fec69b5549a4c"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -115,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "181b6bda59e65cadc29604b2053955e9fd8299939ccc4604309e4ac97f2659ac"
+hash = "65df17c363eed6e37080d134f548a22aa0b14a9fecf94d5045d5b451bdeb88f4"
 metafile = true
 
 [[files]]
@@ -159,6 +163,11 @@ hash = "a99896357ea97ffa4c34d0b2a59252003a38714a8280c7803f33a38192a67ee7"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "6a23bf29279370db449363dd966988104ecd109444d4bde036516da84a3f4f92"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "f7177d565bc9ad9f7b8bfcc58fbf4d63969723e22199fe6da0f6a996c76bf598"
 metafile = true
@@ -190,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b0381b59e083a3c3d15ffb64c347f24ef185edce14b76ba51fa1046f37aefbb5"
+hash = "c38b0e3cda97998e3c241cdb8c9e142d7286c7482d61e1eb88d3977b3f6f8557"
 metafile = true
 
 [[files]]
@@ -269,11 +278,6 @@ hash = "13ca48713a50af57796f5252317d156fcfbde3325a021187410ff85db7e0f182"
 metafile = true
 
 [[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "a20d5a58944f864486b032842c5b440ab848e6c31c9cdfb2dfe6569d78e30462"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
@@ -319,13 +323,18 @@ hash = "2c4c14cf325fa22c0786e872ee0b36646790706da68bdfd32e33c28805be3e8a"
 metafile = true
 
 [[files]]
+file = "mods/rrls.pw.toml"
+hash = "5605ef5ee24e9aa224d861c12fe5758dba901207a0f083a14145951bcbebdfa2"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7a9517fd58e106598c4f52881986de3339197eec01d85dd11d6c74dd7257b658"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "736bb573b96ab40f1afaa6e0353f03b509bc164285821fe8a16e99d9ccce8dbf"
+hash = "65566d1b6863c17b379cab231b99f35e5bd84531e2bc399b1251997a9b9110b2"
 metafile = true
 
 [[files]]

@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.3 (2023-06-21)
+
+Time to test new mods!
+
+- Added Controlify - a more featured and maintained controller mod
+- Added Remove Reloading Screen - makes resource packs load in the background, allowing you to do other things while waiting
+- Removed MidnightControls - no longer receiving feature updates, potentially discontinued soon
+- Updated Animatica, Fabric API
+  - Previously mentioned freeze is now fixed in Animatica
+- Temporarily removed FastQuit
+- Force-enabled Borderless Mining
+
 ### 5.1.0-beta.2 (2023-06-20)
 
 Almost ready with the existing mods, though continue testing it for stability.
