@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1c7992b0a18b058976095e038e53201fc08f27286a124df1ba02add244b00e51"
+hash = "77bd5006aaf0404e7ac563af81098d990cada563e051f68de2946117d186409c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8d2e7bac3530ca369e89b4060b506dc0f990e38592c3296f52722c80c5d2e926"
+hash = "05b58e349bd889aca4fecdb7c1ec48c01d82da3bd7caecbde5b5645fc1e63feb"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -49,8 +53,8 @@ file = "config/yosbr/config/fabric_loader_dependencies.json"
 hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
 
 [[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "b04558e3aa16f01cb56278cbb0ae1a2a7c65b5288ee056865a07b2764a850f65"
+file = "config/yosbr/config/fastquit.toml"
+hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
 [[files]]
 file = "config/yosbr/config/holdthatchunk.json"
@@ -75,10 +79,6 @@ hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "6ffa2f6bb07987809a01c6f120f92e62869bd539a53512fbe8f573622051a60c"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -110,7 +110,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "7c6b0dcec2beb3065b378d6a75fb53d69fc83cc0ad70ae44909fec69b5549a4c"
+hash = "1ee6a8693aa9e050ae66e575e9518edfc331109f3fa48ee2abdcc99915cdd153"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderlessmining.pw.toml"
-hash = "64b46649facff7bb1b20ed8bb93f7ece4f8e397e5a18f670aba5b741fa16973f"
+hash = "9ff8f4849fa3f67c9f4793b41f4104d28fd8927d2644a151e85f4da3d2ed761d"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "4fcc158eecc17087c671edf24a5037baf4edbdcf3bbf040910f2901b09daa8cf"
+hash = "eb6a5472fda45f8cbb09907dff6f0c728988438335726d400fd6636fc3eecc8e"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6f5d26e9943c5837bc2094d0a0dca55e3ec6251d9a1efd867e0bc5d1f388cb18"
+hash = "5a4df8dc160330199303764b7d3bb4f7d3ce15f8c14c65eed1ad794b8c0ed534"
 metafile = true
 
 [[files]]
@@ -225,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "968192cb6a523f5f9e83e0e5c7866995402e1f69166e7c95dcf0be800e08456f"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "c2287fadaaa7823fa86bbb1401a6000998c8afe1605e5b1c2d3db747fa032648"
 metafile = true
 
 [[files]]
@@ -249,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1f617d264ae48e96ae9269400a16dc93fa011a89c6e6ec17189ae5121a217df9"
+hash = "92c8cc2b6a72e68f874e9e57515d06de3570b628422408523e5b584fef025480"
 metafile = true
 
 [[files]]
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "122d3d07c920c2154e1c041f3acd17c4b4f1c2556b57418adebe2b46aaaef1ca"
+hash = "21a2419f108b99b45613df390480778254e9c5cec614a667736d819232ef310e"
 metafile = true
 
 [[files]]
@@ -284,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "24e905f67dfa82bbc818cd97e9cdf8e3652ec7db77b761c9c2174aa89ece8419"
+hash = "38f94a9f4aaff8aa39f36b963c15c8e740e55cbce6d5d43681a62c073fdb1c80"
 metafile = true
 
 [[files]]
@@ -334,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "65566d1b6863c17b379cab231b99f35e5bd84531e2bc399b1251997a9b9110b2"
+hash = "e3dcb6e90d56978dbb9b17551f89f209e65254abe00747cf422eafc59eebff70"
 metafile = true
 
 [[files]]

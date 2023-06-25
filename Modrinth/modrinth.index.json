@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-beta.3",
+    "versionId": "5.1.0-beta.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -61,16 +61,16 @@
             "fileSize": 21587
         },
         {
-            "path": "mods/borderless-mining-1.1.7+1.19.4.jar",
+            "path": "mods/borderless-mining-1.1.8+1.20.1.jar",
             "hashes": {
-                "sha1": "25160d941e60eccf683163d516cdcd5164a2f89f",
-                "sha512": "1683bb2ca6fc8086cf89e5c365312b6dd0f590ea20e66bf95657921d7b720ca177fe0bdafb3cac8c87d8684d8b748a299f25850ee6692bc657852ff00a3ba92d"
+                "sha1": "dbdb8a0600679f3c76480ae5d0995e2334773ce3",
+                "sha512": "ca30d3fea6cae4c206789d7461edeedfb294a96e5eaebf60075baf3326e1021979cd94e29ade9096f25bfeb8cb36b6c6659d480ad24b1572c0c79efc6ee5e420"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/n8nRcdvu/borderless-mining-1.1.7%2B1.19.4.jar",
-                "https://github.com/comp500/BorderlessMining/releases/download/1.1.7%2B1.19.4/borderless-mining-1.1.7%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/kYq5qkSL/versions/lhrW53q7/borderless-mining-1.1.8%2B1.20.1.jar",
+                "https://github.com/comp500/BorderlessMining/releases/download/1.1.8%2B1.20.1/borderless-mining-1.1.8%2B1.20.1.jar"
             ],
-            "fileSize": 112954
+            "fileSize": 118295
         },
         {
             "path": "mods/capes-1.5.2+1.20-fabric.jar",
@@ -177,15 +177,15 @@
             "fileSize": 57722
         },
         {
-            "path": "mods/entity_model_features_fabric_1.20-0.2.10.jar",
+            "path": "mods/entity_model_features_fabric_1.20-0.2.11.jar",
             "hashes": {
-                "sha1": "f45aeaba567f9a5dbb9e43da4c3598d43750d21d",
-                "sha512": "ccb63c0b49e8a5693c1d9cd6d1fd78251738d53b4b0fa03ef8619f64e90a28d57ccb31a0cecd5d9d33caf2fda1620a9e1407edf6f21d659454ca4ff228f19b47"
+                "sha1": "c0481a39a05d484096fec589318e9dd545199416",
+                "sha512": "54c9855ee2a985c3e76c1f48beb4efbd850e672897a7216513b895a74cfb2e64dee44e48b117aa41bbf8de5fb844dd8ecf4ee7e3bc1fee59fe4e6dbbe8bd4317"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/NF2Ro84F/entity_model_features_fabric_1.20-0.2.10.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/nqu0vi2x/entity_model_features_fabric_1.20-0.2.11.jar"
             ],
-            "fileSize": 456082
+            "fileSize": 465856
         },
         {
             "path": "mods/entity_texture_features_fabric_1.20-4.4.4.jar",
@@ -210,16 +210,16 @@
             "fileSize": 1967926
         },
         {
-            "path": "mods/fabric-language-kotlin-1.9.5+kotlin.1.8.22.jar",
+            "path": "mods/fabric-language-kotlin-1.9.6+kotlin.1.8.22.jar",
             "hashes": {
-                "sha1": "6dab5c754ec04e671e505df685befcedef27f42e",
-                "sha512": "8fda82f8a1fdc104fc33b54e35413590541ade39091df8464d31387ef8b5bc7f7a55dabba32109b79c54d8fdf40b7cd60240da131be68f450887a3345823c16b"
+                "sha1": "3e94269eef4a0a5217a79259788521b453f40010",
+                "sha512": "2bff613afef78297b059e7c86ac886a916ffa6f6a81eba0e989a56bc039fd03cad4addb09f89fa08ff81c90cc6e9a9966bfbcce64e9966538b8ad7815efd1a6d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/ADg3gvlr/fabric-language-kotlin-1.9.5%2Bkotlin.1.8.22.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.5%2Bkotlin.1.8.22/fabric-language-kotlin-1.9.5%2Bkotlin.1.8.22.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/5J7lguFF/fabric-language-kotlin-1.9.6%2Bkotlin.1.8.22.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.9.6%2Bkotlin.1.8.22/fabric-language-kotlin-1.9.6%2Bkotlin.1.8.22.jar"
             ],
-            "fileSize": 6631025
+            "fileSize": 6632587
         },
         {
             "path": "mods/fabricskyboxes-0.7.1+mc1.20.jar",
@@ -265,6 +265,17 @@
                 "https://cdn.modrinth.com/data/LXJlc5WJ/versions/TbJQtyy8/holdthatchunk-2.0.1%2B1.19.jar"
             ],
             "fileSize": 26471
+        },
+        {
+            "path": "mods/fastquit-3.0.0-beta.1+1.20+.jar",
+            "hashes": {
+                "sha1": "901d58f437f7585e4e805d30457d72ce7543fe03",
+                "sha512": "f0e44224f36096ce1579134dfba4ccea664ec2cb6f328db9ba7ca1efbc682c3ec27aef481b01f11410055963858d1903bd1bcb42a4f2274e4c91bcc61e547fb8"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/x1hIzbuY/versions/E1amq7WP/fastquit-3.0.0-beta.1%2B1.20%2B.jar"
+            ],
+            "fileSize": 76917
         },
         {
             "path": "mods/ferritecore-6.0.0-fabric.jar",
@@ -336,16 +347,16 @@
             "fileSize": 566197
         },
         {
-            "path": "mods/language-reload-1.5.7+1.20.jar",
+            "path": "mods/language-reload-1.5.8+1.20.1.jar",
             "hashes": {
-                "sha1": "5e69cd99068102861258cc3aa2be4958f732e278",
-                "sha512": "fd926f3728983ed85c9f4a8a3a0c8544af64aef5ac6fd0e133dbd43b4d7cd17f07539a98b00a146fa3788b5d5980fa4979dbafffb255ec66799fe58c17c20e54"
+                "sha1": "c6d1806fbf8c2cd5969f4d7ee51519ef5c3210d6",
+                "sha512": "60d2c61f10a2ec2abcda6a7f9d41cf8b80d01ef29f8643e63193bab2a6047f6e406e3e4b7836ce3590f0ff70fddd42c6be03df6c67b7fd71b9eb9853a605673c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/lFKmtdMw/language-reload-1.5.7%2B1.20.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.7%2B1.20/language-reload-1.5.7%2B1.20.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/vMtWVHDJ/language-reload-1.5.8%2B1.20.1.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.8%2B1.20.1/language-reload-1.5.8%2B1.20.1.jar"
             ],
-            "fileSize": 64133
+            "fileSize": 64151
         },
         {
             "path": "mods/lithium-fabric-mc1.20.1-0.11.2.jar",
@@ -395,15 +406,15 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/modelfix-1.10-fabric.jar",
+            "path": "mods/modelfix-1.14-fabric.jar",
             "hashes": {
-                "sha1": "fd52ec87add371140066fc3ae95d68c83f8a6ee5",
-                "sha512": "07d0c6ef84a92aeb53b0dcb663f6a5118b3fea9dc60b62aa0c318fd0234c0ca651603faffd044679e6e372fec52242528246ad282d336882f4bf484cd30bd909"
+                "sha1": "7c6a38565820d9c1941eb9d1aadaae75cb11ed8b",
+                "sha512": "892fcccb853e097c3bc11b7205ccd7e99432a6eefee0a6803432d2aa91411eaf0ade9efbd301f5b6991e9efa265cacf67f67518181c3bd2e1ab178e76a4b18c9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QdG47OkI/versions/i0mERlxq/modelfix-1.10-fabric.jar"
+                "https://cdn.modrinth.com/data/QdG47OkI/versions/r6uVoUxU/modelfix-1.14-fabric.jar"
             ],
-            "fileSize": 63315
+            "fileSize": 65430
         },
         {
             "path": "mods/modmenu-7.1.0.jar",

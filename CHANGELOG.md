@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.4 (2023-06-25)
+
+- Updated Borderless Mining, Entity Model Features, Fabric Language Kotlin, FastQuit, Language Reload, Model Gap Fix
+- Unhid Borderless Mining config GUI
+- Updated Polish, Brazilian Portuguese, Ukrainian, Simplified Chinese
+
 ### 5.1.0-beta.3 (2023-06-21)
 
 Time to test new mods!
