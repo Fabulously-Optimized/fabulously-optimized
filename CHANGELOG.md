@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.5 (2023-06-26)
+
+- Added Enhanced Block Entities - finally updated lol
+- Removed Better Beds - replaced by EBE
+- Updated FastQuit, No Chat Reports, Remove Reloading Screen
+
 ### 5.1.0-beta.4 (2023-06-25)
 
 - Updated Borderless Mining, Entity Model Features, Fabric Language Kotlin, FastQuit, Language Reload, Model Gap Fix

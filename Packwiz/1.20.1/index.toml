@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "77bd5006aaf0404e7ac563af81098d990cada563e051f68de2946117d186409c"
+hash = "48c4fdfb24e340e2050385f7e62bf88d3aa706ce77608b2fd1cf10b4338b7ee9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "05b58e349bd889aca4fecdb7c1ec48c01d82da3bd7caecbde5b5645fc1e63feb"
+hash = "7bd04a1a614398ea78c156cca06808a3fbdae3d01b5352d05b28d38915215f60"
 
 [[files]]
 file = "config/modmenu.json"
@@ -128,11 +128,6 @@ hash = "b023edfcaca9f400d9afed65ec077cc98a35943fedb4392542f87fbf8613e839"
 metafile = true
 
 [[files]]
-file = "mods/betterbeds.pw.toml"
-hash = "e32d39231226295367d30ab01e9a542b1ae3644dc2b38e05f005c37cf10d0bce"
-metafile = true
-
-[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "3c166fe5bb9777c16f216d1858ddfa04fea30076e100ddcbca28e8d026e225fe"
 metafile = true
@@ -183,6 +178,11 @@ hash = "ca199c56727323ca124d5c4c4d6be14748d6602ca94e17daca9d7046f80170e4"
 metafile = true
 
 [[files]]
+file = "mods/enhancedblockentities.pw.toml"
+hash = "abac7fa35a6bd77c59fe23d31ffa4f31d09421fdfd0bf137dca9701142e17322"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
 metafile = true
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
-hash = "c2287fadaaa7823fa86bbb1401a6000998c8afe1605e5b1c2d3db747fa032648"
+hash = "5a75de5c6b0d7399a76172bc9ed9865f54b85c535b6658dcb47fc0dc92bcaaaa"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "7e768213e221f5f59c8cf7e9916f3edc154235da378077b5ac9d32690aedde52"
+hash = "5ce2f4ca8c22e9bd1def9f669d7ce1b4f61ed7fcbea57c8678f97239f8f8d94c"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "5605ef5ee24e9aa224d861c12fe5758dba901207a0f083a14145951bcbebdfa2"
+hash = "0cb3bdbf727015acdfa5e51baf669aa07f9ac30b200bfe02f24e6441548855cb"
 metafile = true
 
 [[files]]
