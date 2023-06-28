@@ -1,20 +1,20 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-beta.5",
+    "versionId": "5.1.0-beta.6",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
         {
-            "path": "mods/advancementinfo-1.20-fabric0.83.0-1.3.1.jar",
+            "path": "mods/advancementinfo-1.20-fabric0.83.0-1.4.jar",
             "hashes": {
-                "sha1": "f9fec84bb07089fde690e227f79b0c519eb0437c",
-                "sha512": "1300cdd18d17b9fe021fedc5312616a004edca0805e986f3aab77f379b38fff0fa089614baa8d2415929b3b138c99d6cb3aed4ba30f0978acd4fbce4bb9c8b67"
+                "sha1": "dfa603a2db09d6e303dd2991f016550ae156e3d1",
+                "sha512": "ff10a77f831354f757c1ba4b6906e612549f3ac0dd3b15101dae29a459937bfceabe5e7ce7cd9126e58833a69e5a4ba04993dfcf2098830b9ccf2c192dddc0e5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/G1epq3jN/versions/KeVl7NVo/advancementinfo-1.20-fabric0.83.0-1.3.1.jar"
+                "https://cdn.modrinth.com/data/G1epq3jN/versions/gfcbMV82/advancementinfo-1.20-fabric0.83.0-1.4.jar"
             ],
-            "fileSize": 43864
+            "fileSize": 43895
         },
         {
             "path": "mods/animatica-0.6+1.20.jar",
@@ -28,15 +28,15 @@
             "fileSize": 69810
         },
         {
-            "path": "mods/antighost-1.19.3-fabric0.68.1-1.1.5.jar",
+            "path": "mods/antighost-1.20-fabric0.83.0-1.1.5.jar",
             "hashes": {
-                "sha1": "e1dbabc4007d1cc6132bf8e9df71b45e688cd366",
-                "sha512": "1cc717aa9807f8fc5c47cd3994cd774f75118e11960fd3afbebd851d12ae8ddde91d95a6b73725543f84fa4ecefbbd0e5ccbb9e5ea7a5cd98f293fc2977c9c24"
+                "sha1": "202078e8dd3be4a34d09e7008875df296266866b",
+                "sha512": "df28a808d5da0549dfca35b1924f8577265d01b15bc4dd53ff8a7a8e2da70c2ad90310db78e3c631fc83826dc2ba5a00651737c8aba979e2c516fd9183497618"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/Jq5eCzIr/antighost-1.19.3-fabric0.68.1-1.1.5.jar"
+                "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/RzyN0vkk/antighost-1.20-fabric0.83.0-1.1.5.jar"
             ],
-            "fileSize": 45879
+            "fileSize": 47162
         },
         {
             "path": "mods/bettermounthud-1.2.2.jar",
@@ -107,16 +107,15 @@
             "fileSize": 1143994
         },
         {
-            "path": "mods/Controlify-1.3.1+1.20.jar",
+            "path": "mods/Controlify-1.3.2+1.20.jar",
             "hashes": {
-                "sha1": "90a200592b9bd4dd8b5359211d683068d55cb8f6",
-                "sha512": "f71d723dadf6f983ff12f6ea0d2b17a5ab6cd472abc6b28365f782d16a64209de52d433ee610ed3d06e93e527717f6c08096489c34dabd59f2d0289853a04d42"
+                "sha1": "0849867549ac86877bedc3cce91f9f57553916b2",
+                "sha512": "6fcb183f5657dae07aee38238bbdee8aad993affb7bda99000b5094da58601f468a8c8dae298abe99624298c2dfa6658eacc195314f98d5fa04aa3d829119ec3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/FLIWpoEL/Controlify-1.3.1%2B1.20.jar",
-                "https://github.com/isXander/Controlify/releases/download/1.3.1%2B1.20/Controlify-1.3.1%2B1.20.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/qHzBhRrd/Controlify-1.3.2%2B1.20.jar"
             ],
-            "fileSize": 1871594
+            "fileSize": 1873408
         },
         {
             "path": "mods/Debugify-1.20.1+1.1.jar",
@@ -570,13 +569,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "3a30ada608303157bb04f235c449eaa617d0eda5",
-                "sha512": "26c020912501ae7113ec6f9b2cfd0135458d26d6cc3d222f136dda4fedf0cbde214e789ab7860c9d5129ad43df82f350b1dcfa0f888614570f44e1a3ad68ccae"
+                "sha1": "71eb1ce45d7f85499504bc65f87a5b85dc541033",
+                "sha512": "9edbf03298d02554202d8d8c38db30a661394251fc21f4eaae060e982866a84f97877127b78bc3a8a7fc2080ad7c11e696af44b8ec5dc146693dfc67b4931744"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/vNwSJbfg/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/L6ypR15j/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 23103
+            "fileSize": 26786
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",

@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.6 (2023-06-28)
+
+- Updated AdvancementInfo, AntiGhost, Controlify
+- Added Romanian and updated French translations
+- Worked around advancement screen glitches/freeze
+
 ### 5.1.0-beta.5 (2023-06-26)
 
 - Added Enhanced Block Entities - finally updated lol

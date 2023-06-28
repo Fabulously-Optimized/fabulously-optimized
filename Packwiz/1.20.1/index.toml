@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "48c4fdfb24e340e2050385f7e62bf88d3aa706ce77608b2fd1cf10b4338b7ee9"
+hash = "3f3bd07a85fe2487cbc592333436c4225698c28c2ae531478faeab570713cf23"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "cd7f530bd2d4479e4ee132fb75f0d3275c86cd1d06a8e512634c118a2d68b51a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7bd04a1a614398ea78c156cca06808a3fbdae3d01b5352d05b28d38915215f60"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
+hash = "d6f26975effa4c3a31b0b9fa1f5615fc6a405f67133dcd40d8bd13db6788b2c9"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -81,6 +81,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "e4b230e3eccc42c8b650eebb49945f4d9bde3746e5de2e969a89c18e8c4ef85f"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "250965108408ff2b4b0a8388eff286a5ebca573507b805dcbca8ea19841b86a2"
 
@@ -110,11 +114,11 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "1ee6a8693aa9e050ae66e575e9518edfc331109f3fa48ee2abdcc99915cdd153"
+hash = "7de410ca317eb5e2c2542774e201549def1d29f271522eb4136ca6caead35e71"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
-hash = "92c321212b9a1da76cecf8515b98df218a5b61843343552ce6fd7c4610a1b4e8"
+hash = "bc152bd80888c6e54544a034c8d50d9b6e6672d4dd271f6a363153b21f9e5f3d"
 metafile = true
 
 [[files]]
@@ -124,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "b023edfcaca9f400d9afed65ec077cc98a35943fedb4392542f87fbf8613e839"
+hash = "0991a1ba8449cb9b99040bfdaf563d98b64b1d22a6ed2bccc401d2af1fdc731c"
 metafile = true
 
 [[files]]
@@ -159,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6a23bf29279370db449363dd966988104ecd109444d4bde036516da84a3f4f92"
+hash = "55fe5e2b3f43067be4ee53e37dda9e059cf73d9ae367e4183456c8051eff3f5e"
 metafile = true
 
 [[files]]
@@ -359,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "c66f0d6f531a83745d6fd55b925143a6dfb415d53b4e835bf304cbe856e2a17b"
+hash = "81b1f08e8a2aa1937d03d5bd9f45b5cc553b0361102573ac159a2d080fc41dde"
 metafile = true
 
 [[files]]
