@@ -60,7 +60,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
 * [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
 * Splash screen is black, similar to Bedrock Edition
 * Other [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) to match users' expectations
-* For more accessibility features, try the mod [Minecraft Access](https://modrinth.com/mod/minecraft-access/versions)
+* For more accessibility features, try the mod [Minecraft Access](https://modrinth.com/mod/minecraft-access/)
 
 ## Disclaimers
 
