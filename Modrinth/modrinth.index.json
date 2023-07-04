@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0-beta.6",
+    "versionId": "5.1.0-beta.7",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -107,15 +107,16 @@
             "fileSize": 1143994
         },
         {
-            "path": "mods/Controlify-1.3.2+1.20.jar",
+            "path": "mods/Controlify-1.4.0+1.20.jar",
             "hashes": {
-                "sha1": "0849867549ac86877bedc3cce91f9f57553916b2",
-                "sha512": "6fcb183f5657dae07aee38238bbdee8aad993affb7bda99000b5094da58601f468a8c8dae298abe99624298c2dfa6658eacc195314f98d5fa04aa3d829119ec3"
+                "sha1": "325e0ae3b5395e759401cc16a111ac53ccbcf13e",
+                "sha512": "2a5651104f58ac6a4a391cbd72dc5f1ca0718a3d185565bc3cbdead33e5fcd879e5661849f846a52fc8ecc20788b2ca411a86ba15867ecea792f8c16ba095df4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/qHzBhRrd/Controlify-1.3.2%2B1.20.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/h5ZThJ8W/Controlify-1.4.0%2B1.20.jar",
+                "https://github.com/isXander/Controlify/releases/download/1.4.0%2B1.20/Controlify-1.4.0%2B1.20.jar"
             ],
-            "fileSize": 1873408
+            "fileSize": 1875458
         },
         {
             "path": "mods/Debugify-1.20.1+1.1.jar",
@@ -232,15 +233,16 @@
             "fileSize": 181850
         },
         {
-            "path": "mods/fabrishot-1.9.2.jar",
+            "path": "mods/fabrishot-1.10.0.jar",
             "hashes": {
-                "sha1": "e96bd70b49bbc49f13284b3a80bff974d0932ebd",
-                "sha512": "1dc9ca80115137f56d8f54d2cbed47b4a72e543caa9bfe37f4a2e53e2ea5e8ceabf7eb44742c738c561168e228c3d6ba9a0ae55d91402040babe4f0505a56b4b"
+                "sha1": "15cd04a988726aa4f45fe59813c384329f5d8b94",
+                "sha512": "153386dfd14e1d5731dd71baa336409c526711ec117d149cf145bc4c90bc1aa2aaf63e748443aa5fcb81651ae2f2e9470300cb3262c3b4ab67d8db558bd1523f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/IkbywOGy/fabrishot-1.9.2.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/fLwacDtJ/fabrishot-1.10.0.jar",
+                "https://github.com/ramidzkh/fabrishot/releases/download/1.10.0/fabrishot-1.10.0.jar"
             ],
-            "fileSize": 43716
+            "fileSize": 44182
         },
         {
             "path": "mods/fadeless-1.0.1.jar",
