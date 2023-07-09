@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/debugify.json"
+hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f85cf0da97789a93916c4f57ae1d34944b297a544a87ed4e56b7b2787340ab41"
+hash = "38bcca77ad4e9964cc9804d504c8771f2954f96ddacd18d97a42876e468f8327"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "cd7f530bd2d4479e4ee132fb75f0d3275c86cd1d06a8e512634c118a2d68b51a"
+hash = "108d423c8fef187f051d9e58d34030c255b646c41d848930fe93b128508c4e3a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4fda0f29ebb06f096b651ea67b694ffacbe5776cfc1ca9e4e92ffca662c51b16"
+hash = "ef7ca7bbf2018690ec70421bbdec1a2e80bca1b0212553abde4894835039cd21"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -35,10 +39,6 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 [[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
-
-[[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -114,7 +114,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "7de410ca317eb5e2c2542774e201549def1d29f271522eb4136ca6caead35e71"
+hash = "8277b942b7fb84a18176f53aa15166a3260289d790ccaf7e7613846c2774b725"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -163,12 +163,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "e34862e77a1fe59ef5c1031d92cf00c803ef683c278a1c55f2485170e0060dbc"
+hash = "0bbac6a74d71759d472042edf69e9d21f2b6164e4505fba922f3a187ba2ddf13"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "f7177d565bc9ad9f7b8bfcc58fbf4d63969723e22199fe6da0f6a996c76bf598"
+hash = "9326ad2077287f079ab68743e5d597af75bf7f166927079fcfa7545fc86c4cd5"
 metafile = true
 
 [[files]]
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5a4df8dc160330199303764b7d3bb4f7d3ce15f8c14c65eed1ad794b8c0ed534"
+hash = "11f0ea2ecf7afcbaa0a1c6874feeb4a1d77e1c620441ed71875e18af67712299"
 metafile = true
 
 [[files]]
@@ -248,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f05603d3eedcc8bcfa724d7be8c138e36ccd12608650995f9779052cd600244a"
+hash = "b2e7ccef00d5a38196acba0e6ef3bbe12f3062ecd7ee7b3581c78d7214141a80"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "c0b59e6a01005aa93d354c58e02548b047f685f03396b67529753a600426d28f"
+hash = "d68ee0730a3f46d2c82a1c0be43573e7fe405f2fd32f52feb1542180dc6c0124"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "21a90e6165da9a6e470d7a326018d67b1fd224de186ab3de396213ea9506b7cf"
+hash = "de670e76012520bd29da5555726e03f4bd1bc62bbe82ec1168a50a4de152761c"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "81b1f08e8a2aa1937d03d5bd9f45b5cc553b0361102573ac159a2d080fc41dde"
+hash = "55a56f4663367ae418c9899f5e6db145700ffed78dedb64465abeba0aa8f4e5c"
 metafile = true
 
 [[files]]

@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.8 (2023-07-09)
+
+- Updated Controlify, Debugify, Fabric Language Kotlin, ImmediatelyFast, Indium, YetAnotherConfigLib
+- Updated Russian and Chinese Traditional translations
+- Enabled fix for MC-263865 "Fullscreen state isn't saved"
+
 ### 5.1.0-beta.7 (2023-07-04)
 
 - Updated Controlify, Fabrishot
