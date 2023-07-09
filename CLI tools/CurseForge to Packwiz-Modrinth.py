@@ -145,7 +145,7 @@ def main() -> int:
                 print("Moved " + pack + " to desktop")
         os.system(packwiz_exe_path + " refresh")
     
-    if not refresh_only and minecraft_version == "1.19.4":
+    if not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
         mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
         remove_mod_from_archive("Sodium", mmc_zip_path)
