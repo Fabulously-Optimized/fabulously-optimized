@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.9 (2023-07-11)
+
+- Updated Cloth Config API, Controlify, Entity Model Features, Fabric API, Indium
+- Hidden some irrelevant warnings on logs
+
 ### 5.1.0-beta.8 (2023-07-09)
 
 - Updated Controlify, Debugify, Fabric Language Kotlin, ImmediatelyFast, Indium, YetAnotherConfigLib

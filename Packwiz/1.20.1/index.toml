@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/debugify.json"
-hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "38bcca77ad4e9964cc9804d504c8771f2954f96ddacd18d97a42876e468f8327"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "108d423c8fef187f051d9e58d34030c255b646c41d848930fe93b128508c4e3a"
+hash = "4a699fdc1969d2bd1407ee2e2affb6323912aeed6a7b24420544be267ed56865"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ef7ca7bbf2018690ec70421bbdec1a2e80bca1b0212553abde4894835039cd21"
+hash = "834ab59b52defb7790be8b9e069ef2fc74a1cac58c3cbdb1787719bcb611da45"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -39,6 +31,10 @@ hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 [[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -153,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6ad1232c234e042f0abdd2a02878a34c87ed151bac5095a241fec709716b275f"
+hash = "3774cefdeef0f7e171793e1b79e8f7a52f538aee8349bac0366758c8f9cb5d23"
 metafile = true
 
 [[files]]
@@ -163,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0bbac6a74d71759d472042edf69e9d21f2b6164e4505fba922f3a187ba2ddf13"
+hash = "ef6d5652c627c25a6bae2273b83715b44a260fee1a3cdbe2356c2b0363fa71a0"
 metafile = true
 
 [[files]]
@@ -193,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "2b9c923d5ad3e4fd3cb9c3073e6cf025ccce4983caaaef9123126e76af35b779"
+hash = "62cffb92facf0e02259f8346d10b6c07e9a71ef43294e7f25a444b5796a34e96"
 metafile = true
 
 [[files]]
@@ -203,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c38b0e3cda97998e3c241cdb8c9e142d7286c7482d61e1eb88d3977b3f6f8557"
+hash = "0f1b421caacfe730f7fd70f5857da5a3dd1bc15b3c3ea87c02c7c7feed83a059"
 metafile = true
 
 [[files]]
@@ -253,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "d68ee0730a3f46d2c82a1c0be43573e7fe405f2fd32f52feb1542180dc6c0124"
+hash = "a3cdbb046021c386b62ac097524fb15563491285780230c9222af741b1cc827e"
 metafile = true
 
 [[files]]
