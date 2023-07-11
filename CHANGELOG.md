@@ -3,6 +3,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0-beta.9 (2023-07-11)
+
+- Updated Cloth Config API, Controlify, Entity Model Features, Fabric API, Indium
+- Hidden some irrelevant warnings on logs
+
+### 5.1.0-beta.8 (2023-07-09)
+
+- Updated Controlify, Debugify, Fabric Language Kotlin, ImmediatelyFast, Indium, YetAnotherConfigLib
+- Updated Russian and Chinese Traditional translations
+- Enabled fix for MC-263865 "Fullscreen state isn't saved"
+
+### 5.1.0-beta.7 (2023-07-04)
+
+- Updated Controlify, Fabrishot
+
 ### 5.1.0-beta.6 (2023-06-28)
 
 - Updated AdvancementInfo, AntiGhost, Controlify
@@ -94,6 +109,17 @@ This is it, the first alpha! Took more time than expected but it was worth the w
   - Vanilla users no longer have to install Sodium separately
 
 ## 1.19.4
+
+### 4.11.0 (2023-07-11)
+
+- Added Animatica - the issue has been fixed
+- Added Enhanced Block Entities - finally updated!
+- Added Remove Reloading Screen - makes resource packs load in the background, allowing you to do other things while waiting
+- Removed Better Beds - replaced by Enhanced Block Entities
+- Updated Capes, Cloth Config API, Fabric API, Fabric Language Kotlin, Entity Model Features, FabricSkyboxes Interop, Farsight, ImmediatelyFast, Indium, LambDynamicLights, Language Reload, OptiGUI, YetAnotherConfigLib
+- Updated translations
+- Backported config changes from 5.1.0-beta.8
+- Hidden some irrelevant warnings on logs
 
 ### 4.10.5 (2023-06-12)
 
