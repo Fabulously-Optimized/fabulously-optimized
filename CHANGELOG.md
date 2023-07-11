@@ -105,6 +105,17 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 
 ## 1.19.4
 
+### 4.11.0 (2023-07-11)
+
+- Added Animatica - the issue has been fixed
+- Added Enhanced Block Entities - finally updated!
+- Added Remove Reloading Screen - makes resource packs load in the background, allowing you to do other things while waiting
+- Removed Better Beds - replaced by Enhanced Block Entities
+- Updated Capes, Cloth Config API, Fabric API, Fabric Language Kotlin, Entity Model Features, FabricSkyboxes Interop, Farsight, ImmediatelyFast, Indium, LambDynamicLights, Language Reload, OptiGUI, YetAnotherConfigLib
+- Updated translations
+- Backported config changes from 5.1.0-beta.8
+- Hidden some irrelevant warnings on logs
+
 ### 4.10.5 (2023-06-12)
 
 - Updated ImmediatelyFast, OptiGUI, YOSBR
