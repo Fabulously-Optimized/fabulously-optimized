@@ -40,8 +40,7 @@ body:
     label: Confirm
     options:
       - label: This bug report is about an issue with the modpack itself, I have not modified the mods nor added any resource packs. If this is not the case, I know that I should post the issue to modpack's Discord instead.
-        validations:
-          required: true
+        required: true
     
 - type: textarea
   attributes:
