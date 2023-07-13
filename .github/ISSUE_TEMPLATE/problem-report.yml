@@ -1,5 +1,5 @@
 name: Bug report
-description: Report an issue with the modpack. For bad FPS and crashes you'll get a faster answer from our Discord
+description: Report an issue with the modpack in its unmodified state. For other issues, use Discord.
 labels: bug
 body:
 - type: markdown
@@ -37,11 +37,10 @@ body:
 
 - type: checkboxes
   attributes:
-    label: Other things
-    description: Check if applicable.
+    label: Confirm
     options:
-      - label: I updated FO to a newer version (mention, what version to what version)
-      - label: I added/removed some mods or resource packs (mention, which ones)
+      - label: This bug report is about an issue with the modpack itself, I have not modified the mods nor added any resource packs. If this is not the case, I know that I should post the issue to modpack's Discord support channel instead.
+        required: true
     
 - type: textarea
   attributes:

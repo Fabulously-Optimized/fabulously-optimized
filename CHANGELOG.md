@@ -3,6 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.0 (2023-07-13)
+
+Aaand it's out! Major changes from 4.11.0 -> 5.1.0:
+
+- Added Controlify - a more featured and maintained controller mod
+- Added Fadeless - direct replacement for the No Fade mod
+- Removed MidnightControls - no longer receiving feature updates, potentially discontinued soon
+- Removed No Fade - no longer works, abandoned
+- Removed Starlight - no longer needed
+- Enabled fix for MC-263865 "Fullscreen state isn't saved"
+- Updated translations
+- Vanilla users should currently continue installing FO as they did before, no changes yet.
+
+Changes from 5.1.0-beta.9 -> 5.1.0:
+
+- Updated Controlify, Entity Model Features, FabricSkyboxes, Puzzle
+- Updated Italian translation
+- Updated some MMH strings
+
 ### 5.1.0-beta.9 (2023-07-11)
 
 - Updated Cloth Config API, Controlify, Entity Model Features, Fabric API, Indium
