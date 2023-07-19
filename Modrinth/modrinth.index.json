@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.1.0",
+    "versionId": "5.1.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -141,15 +141,15 @@
             "fileSize": 80221
         },
         {
-            "path": "mods/e4mc-3.2.0+1.19.4-fabric.jar",
+            "path": "mods/e4mc-4.0.0+1.19.4-fabric.jar",
             "hashes": {
-                "sha1": "601600a3977a9a60b1eb4fb293e5252467922bfa",
-                "sha512": "f72a3312706185995342db3a9a008d3136d5c68dde32282613022cfe86095945c298ae7a6bf2111e2d90f07bee175365f8fb735fb11065c02dbc3efdc8122341"
+                "sha1": "a98f4733559128b879d6178972d1c3a880284310",
+                "sha512": "65f00aacc15d194ab9c3e436b995697753ee66d46cb18cc490fa15f404d38c4bec6457f202947df23080039f7f8ef8581f565b1ea05c8559f165e8f943461d9e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qANg5Jrr/versions/jWzkvN1j/e4mc-3.2.0%2B1.19.4-fabric.jar"
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/EaPCW4md/e4mc-4.0.0%2B1.19.4-fabric.jar"
             ],
-            "fileSize": 159100
+            "fileSize": 12666908
         },
         {
             "path": "mods/enhancedblockentities-0.9+1.20.jar",
@@ -287,15 +287,15 @@
             "fileSize": 124927
         },
         {
-            "path": "mods/fsb-interop-1.3.2+mc1.20-build.36.jar",
+            "path": "mods/fsb-interop-1.3.3+mc1.20-build.46.jar",
             "hashes": {
-                "sha1": "817c4abb1a0815bc5eb5504390ab2ce976f4154f",
-                "sha512": "ac61eb6666e690d8f2461ac41879fe67fb9474394f44b0aa17168dc626b36333a74c12964cdbdc3172e6da4da20a16c812e86f4c6cae08f99b23ce6ac01a5eb9"
+                "sha1": "0dd2ab9c4bf868d664cb4b8d00e7e0b8408e5e28",
+                "sha512": "3c3daebe93a5a63a69f1d073f1c8be9d13afceae6a2459a65f2abb4869f2b95a22747698c8b6db1d4c2a6c6b91e998fe268fe3088ca92fcca2955e86929449d9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/HpdHOPOp/versions/pA1F353z/fsb-interop-1.3.2%2Bmc1.20-build.36.jar"
+                "https://cdn.modrinth.com/data/HpdHOPOp/versions/Y5qDVQ5H/fsb-interop-1.3.3%2Bmc1.20-build.46.jar"
             ],
-            "fileSize": 46165
+            "fileSize": 46867
         },
         {
             "path": "mods/ImmediatelyFast-1.1.16+1.20.1.jar",
@@ -458,16 +458,15 @@
             "fileSize": 619812
         },
         {
-            "path": "mods/optigui-2.1.2.jar",
+            "path": "mods/optigui-2.1.3.jar",
             "hashes": {
-                "sha1": "ec6ee4f47fbe7850866ca2fac9aed14d9c4f0336",
-                "sha512": "11d64058815d97fdce9a29831d67ca5469748a2be2e9a89c148c3f00e2f85430bbba3193276405c271eea7c5bfe9308fc34df5f8f1d271e2e55052bc3bed2971"
+                "sha1": "ea8a41f084edde77f23c2b5eb0e1b9a38b8128b5",
+                "sha512": "68eda317c714a700f9953a84e18f76a7d01452476663c16c22011b7e76b85c8875b6747cbef20e5f27b50ae7b25303fbd2157f84c6326739a0c7720d43f635c0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/YU9Yi2mO/optigui-2.1.2.jar",
-                "https://github.com/opekope2/OptiGUI/releases/download/2.1.2/optigui-2.1.2.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/41AoOR3G/optigui-2.1.3.jar"
             ],
-            "fileSize": 725768
+            "fileSize": 778585
         },
         {
             "path": "mods/puzzle-1.5.2+1.20.jar",
@@ -505,16 +504,15 @@
             "fileSize": 186296
         },
         {
-            "path": "mods/sodium-extra-0.4.20+mc1.20-build.103.jar",
+            "path": "mods/sodium-extra-0.4.23+mc1.20.1-build.106.jar",
             "hashes": {
-                "sha1": "6cf2844ca0cfd0b8adb8a0d86e0c635ce0c0f4ef",
-                "sha512": "b1328e7b6ab81caea85e3b4361761d56d215f54001835d8c09238ae5888c9d1814aee52a481baac79ffd62d599976322d42d6118d999d41bdff0520c98583f44"
+                "sha1": "6fc3a23a9e221e97dae58e582b3532a5dabfd670",
+                "sha512": "66b73d30b59ec044267fbef4f240fdaae1970d6f24ea2b67439dbdd9f7d2e60d06930afe9006e12940b32b6eabf85c0cb9bd42120ba08f224ae19c752b86054e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/kTxAMqAj/sodium-extra-0.4.20%2Bmc1.20-build.103.jar",
-                "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.20-0.4.20/sodium-extra-0.4.20%2Bmc1.20-build.103.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/Tf56kC8G/sodium-extra-0.4.23%2Bmc1.20.1-build.106.jar"
             ],
-            "fileSize": 339186
+            "fileSize": 349339
         },
         {
             "path": "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar",
@@ -565,13 +563,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "f279fffe828b787b512ecfb1dd5e176614d783f4",
-                "sha512": "8363d0d8116fc0e9ca238c2e261085cccdbfc5301e260681124999d5c98f6799cb7f5f8b5a421f3f42df83468e01fc77c27038dc9c2f442a79fa4e2a545ddd75"
+                "sha1": "f748d536f34dcf3e2f9edcd4cc69021f981e4b9d",
+                "sha512": "2de4920ee3fa632417c70ca0c4cd388b4d5bf0b721168608efbb42add62bd8059103df538a883b2df3a68eb63d153ed8ea4765d681462115af7d3a8d526af560"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/Bltq5GHv/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/DRaVYgzW/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 28636
+            "fileSize": 30559
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",

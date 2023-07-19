@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.1.1 (2023-07-19)
+
+- Updated e4mc, FabricSkyboxes Interop, OptiGUI, Sodium Extra
+  - Mod Menu update skipped due to a bug
+- Added Vietnamese and updated Italian, Polish, Portuguese (Brazilian), Chinese (Simplified) translations
+
 ### 5.1.0 (2023-07-13)
 
 Aaand it's out! Major changes from 4.11.0 -> 5.1.0:
