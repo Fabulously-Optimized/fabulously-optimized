@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0d3aa45e58504e65e2dbdcc9da869d218fc9c86734d193a02ca8598b1c75de0b"
+hash = "b8c36aa5cc0aeb1522be3a0b2c10df603707b89bf63ac1acf57a842c5beff94d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0f5a702f9b2a83eb24a8e0ef02bb50903019ab00dd676e7ade46f171d4eb5f58"
+hash = "aff4a2c1c3f37a19add6ff97eccd55cdbce6a71d00025dd50a599caa9de5a0a5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "735cef650db1f6820755ed3224fe663fcd9336fe571d603e6b49068c7868af12"
+hash = "8ee3d84907824eea9ff0ee1f8d289ab8d5ac97793cde120f630d85f96c63ab65"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "a99896357ea97ffa4c34d0b2a59252003a38714a8280c7803f33a38192a67ee7"
+hash = "b2ff77837c1d567a80a0b6e9cbcaad901f4a7b468c42eb7ceeab658640f7250c"
 metafile = true
 
 [[files]]
@@ -199,12 +199,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0f1b421caacfe730f7fd70f5857da5a3dd1bc15b3c3ea87c02c7c7feed83a059"
+hash = "8688a751f2c87c79eca4a5a42e39211177bdda51f1c6e62349691faa188e2ec6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "11f0ea2ecf7afcbaa0a1c6874feeb4a1d77e1c620441ed71875e18af67712299"
+hash = "96894becb83952f56cd2fdba6f69c3eb1a9282c13e63363fa6c83717c2e8d6fc"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "968192cb6a523f5f9e83e0e5c7866995402e1f69166e7c95dcf0be800e08456f"
+hash = "161387186b13e4ad434cc4a92b9fd315ac30b98881c4d7849ef5b8ee52099943"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "b8ce37d18891f24b2d334d33c0418643087c6a234a995f6ccd667df7af98fd60"
+hash = "70ae3a41c953a21d879183e52706031cd25c9ebffbdff478d5d0cddb50ef656a"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "de670e76012520bd29da5555726e03f4bd1bc62bbe82ec1168a50a4de152761c"
+hash = "93267c2751b96362180f31b749a63bbe3750642c2ba52a4c299e8e606ea336be"
 metafile = true
 
 [[files]]
@@ -365,4 +365,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
 hash = "1185e63e7327860f0e1f0a1e3c4f96bd83dfd3ac524fd2ac8e93b360bcb18e9c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Translations_for_Sodium.pw.toml"
+hash = "babe37470bafe497c63e48608a9bd6447cd7d311851173b8f658a9d496c76fda"
 metafile = true
