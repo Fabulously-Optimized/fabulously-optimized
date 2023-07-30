@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.2.1 (2023-07-30)
+
+Fabulously Optimized remains unaffected from the Bleeding Pipe/MC Mad Gadget vulnerability.
+
+- Updated Controlify, Fabric API, ImmediatelyFast, Reese's Sodium Options
+- Updated Chinese Traditional, French, German (partial), Russian translations
+
 ### 5.2.0 (2023-07-24)
 
 - Added Translations for Sodium - unofficial, but already quite complete crowd-sourced translations
