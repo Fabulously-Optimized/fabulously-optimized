@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.2.1",
+    "versionId": "5.2.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -300,15 +300,15 @@
             "fileSize": 46867
         },
         {
-            "path": "mods/ImmediatelyFast-1.1.20+1.20.1.jar",
+            "path": "mods/ImmediatelyFast-1.1.24+1.20.1.jar",
             "hashes": {
-                "sha1": "5f09f9699836dcee66b44e7937956931694cccf9",
-                "sha512": "5f77eea7295b56e1bb17e1e0a3cc3cbda17b70de7c454c3476cad28b5d9c9a6506f7a5f34679a307076491db5f58f49b235d6e294648c140ea9105971c4861a7"
+                "sha1": "e1dbd51997060173382e31977752afe5cdc379a1",
+                "sha512": "70a243d13d582993fccbb1a08c6f0b58ec0c8a290c221fe8916d93c67381d2640887c368de7667f87c56a66966dded49e968340a4f697098d59bfd192100d7dd"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/1BSUFszc/ImmediatelyFast-1.1.24%2B1.20.1.jar"
             ],
-            "fileSize": 260452
+            "fileSize": 260466
         },
         {
             "path": "mods/indium-1.0.21+mc1.20.1.jar",
@@ -507,15 +507,15 @@
             "fileSize": 186296
         },
         {
-            "path": "mods/sodium-extra-0.4.23+mc1.20.1-build.106.jar",
+            "path": "mods/sodium-extra-0.4.25+mc1.20.1-build.108.jar",
             "hashes": {
-                "sha1": "6fc3a23a9e221e97dae58e582b3532a5dabfd670",
-                "sha512": "66b73d30b59ec044267fbef4f240fdaae1970d6f24ea2b67439dbdd9f7d2e60d06930afe9006e12940b32b6eabf85c0cb9bd42120ba08f224ae19c752b86054e"
+                "sha1": "5c014bc317e0f4dc30f6c795eb8578e84f5aa87f",
+                "sha512": "6fffbcde9b7da6e22e74167d7779cd0fb90a4ae52a62e88429421933772547849926e703ea6f8d8350b765f0cc2edaf730b68c4a73e235fc031dd3132dc0e619"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/Tf56kC8G/sodium-extra-0.4.23%2Bmc1.20.1-build.106.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/jy7D3eLo/sodium-extra-0.4.25%2Bmc1.20.1-build.108.jar"
             ],
-            "fileSize": 349339
+            "fileSize": 363360
         },
         {
             "path": "mods/sodium-fabric-mc1.20-0.4.10+build.27.jar",
@@ -553,27 +553,26 @@
             "fileSize": 17373
         },
         {
-            "path": "mods/Zoomify-2.10.0.jar",
+            "path": "mods/Zoomify-2.11.0.jar",
             "hashes": {
-                "sha1": "21a75350e0f2a904076d2af505a4b077b8ff6438",
-                "sha512": "9c09690ea86b1a9401361cd3f760bb1cbc850e5f6901edee84d488bf284437149e16711cbbdd0ea01cf3123c61bf5baa254e5c4b8305d30bdc573e5b4b7cf583"
+                "sha1": "a19c88540fed62082b5646c018bb69ac92851615",
+                "sha512": "992e6ed52fc3be408a282d15c6d1252cc3374dc3640a387392d217f34afd51745c7e8d4fab60fe24db6168f94a49218acc03fe2f745d3755ead302f8b045d742"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/1mKrqlvv/Zoomify-2.10.0.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.10.0/Zoomify-2.10.0.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/tv8GIQDa/Zoomify-2.11.0.jar"
             ],
-            "fileSize": 724365
+            "fileSize": 996712
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "f748d536f34dcf3e2f9edcd4cc69021f981e4b9d",
-                "sha512": "2de4920ee3fa632417c70ca0c4cd388b4d5bf0b721168608efbb42add62bd8059103df538a883b2df3a68eb63d153ed8ea4765d681462115af7d3a8d526af560"
+                "sha1": "523548d7c461c979b85586730de3fedfa2bda169",
+                "sha512": "88fdd78a8b45536d273b4a442b439bbe51a315067b7f52dd5d99176faf2636f12cb512468da0e8fa80d634fab1e900b0306b070607766c06232106d2e163710d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/DRaVYgzW/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/i6BLAbO7/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 30559
+            "fileSize": 32450
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -589,13 +588,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "7617fe1b819694f0888122caecb92f7dac0bcea8",
-                "sha512": "40679f3d6be7094a8eaf74eb221fc7c7c430ca89cc80ef74cf1a7c5963cae16ec6ff33946dddc563f79ea425a83c0023eee18b3856f85682cf54ba2f6dd2cbf6"
+                "sha1": "353f05f786fb85e25aa35eaa3613e18383fda478",
+                "sha512": "2e4d515023fd3b7f64d6272d703527d8dbabd1aad96f45188fe5f9f229209f75fca23de672bddab7bd7486e78d1afa8b26026476c19338e5612fb6b477396d72"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/pbearc8g/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/Naw32Asd/SodiumTranslations.zip"
             ],
-            "fileSize": 140643
+            "fileSize": 149674
         }
     ],
     "dependencies": {

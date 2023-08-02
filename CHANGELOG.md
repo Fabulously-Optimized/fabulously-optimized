@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.2.2 (2023-08-02)
+
+- Updated ImmediatelyFast, Sodium Extra, Zoomify, Translations for Sodium
+- Updated Chinese Traditional, German
+- "Fix ghost blocks with /ghost" is now clickable
+
 ### 5.2.1 (2023-07-30)
 
 Fabulously Optimized remains unaffected from the Bleeding Pipe/MC Mad Gadget vulnerability.

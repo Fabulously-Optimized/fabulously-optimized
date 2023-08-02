@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 
-cf_path = Path(Path.home(), "/curseforge/minecraft/Instances/Fabulously Optimized/")
+cf_path = Path(Path.home(), "curseforge/minecraft/Instances/Fabulously Optimized/")
 title_screen_path = Path(cf_path, "config/isxander-main-menu-credits.json")
 warning_path = Path(cf_path, "config/fabric_loader_dependencies.json")
 
