@@ -75,6 +75,7 @@ By using this modpack, you agree to the following:
 * [Per the privacy and familiarity goals](https://fabulously-optimized.gitbook.io/modpack/readme/resource-pack-issues), the modpack disables Mojang's analytics collection, individual mod update checkers and donor features, and any other network services that may invade privacy or cause confusion. All of these can be re-enabled by users in respective configs.
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
 * Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
+* NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
 <br>
 <details>
