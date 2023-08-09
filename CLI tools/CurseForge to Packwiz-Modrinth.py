@@ -148,7 +148,7 @@ def main() -> int:
     if not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
         mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
-        remove_mod_from_archive("Sodium", mmc_zip_path)
+        #remove_mod_from_archive("Sodium", mmc_zip_path)
         remove_mod_from_archive("Iris", mmc_zip_path)
 
     return 0
