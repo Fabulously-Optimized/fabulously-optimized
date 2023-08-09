@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.2.3 (2023-08-09)
+
+- Updated Entity Texture Features, Controlify, FabricSkyboxes Interop, ImmediatelyFast, MoreCulling, Translations for Sodium
+- Updated Fabric Loader to 0.14.22
+- Renamed the "Copy all 3 folders and add Sodium!" to "Install instructions"
+- Vanilla users need to manually add Sodium and Iris on this version
+
 ### 5.2.2 (2023-08-02)
 
 - Updated ImmediatelyFast, Sodium Extra, Zoomify, Translations for Sodium
