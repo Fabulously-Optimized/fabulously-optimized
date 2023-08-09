@@ -14,7 +14,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
-Supports CurseForge Launcher, Prism Launcher, MultiMC, and vanilla launcher.
+Supports CurseForge Launcher, PolyMC, MultiMC, and vanilla launcher.
 
 <details>
   <summary>Alternative downloads</summary>
@@ -30,9 +30,9 @@ _These downloads do not yet support the modpack or the mods :(_
 </details>
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [PolyMC](https://polymc.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
 |---|---|---|---|---|---|
-| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) |
+| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#polymc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) |
 | Easy install | ✅ | ✅ | ✅ | ✅ | ❌ |
 | Easy pack upgrade | ✅ | ✅ | ❌ | ✅ | ❌ |
 | Easy pack upgrade for newer MC | ✅ | ✅ | ❌ | ❌ | ❌ |
