@@ -16,6 +16,11 @@ Sodium received a major update that should improve performance a lot, however it
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
 
+### 5.2.4 (2023-08-15)
+
+- Updated Controlify, Fabric API, ImmediatelyFast, Remove Reloading Screen, Sodium Extra, Translations for Sodium
+- Updated translations in 7 languages
+
 ### 5.2.3 (2023-08-09)
 
 - Updated Entity Texture Features, Controlify, FabricSkyboxes Interop, ImmediatelyFast, MoreCulling, Translations for Sodium
