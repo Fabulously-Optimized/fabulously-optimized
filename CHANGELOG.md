@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.2 (2023-08-15)
+
+- Updated Iris, Sodium, Sodium Extra, Indium
+  - Known bug: fog settings may not work
+  - Also another Sodium release will come soon to fix more bugs
+- Other changes from 5.2.4
+- Vanilla users don't need to add anything on this version
+- This version is not available on MultiMC (auto-update)
+
 ### 5.3.0-beta.1 (2023-08-09)
 
 Sodium received a major update that should improve performance a lot, however it may break some mods, notably LambDynamicLights - hence the beta.
