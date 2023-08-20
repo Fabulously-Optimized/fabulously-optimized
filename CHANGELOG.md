@@ -10,6 +10,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Increased EntityCulling's sleep delay to potentially improve performance
 - Enabled ModernFix's Dynamic Resources to potentially improve performance, reduce startup time and RAM usage
   - If you notice any new issues, this is probably why - please let me know!
+- Not available on MultiMC (auto-update)
 
 ### 5.3.0-beta.2 (2023-08-15)
 
