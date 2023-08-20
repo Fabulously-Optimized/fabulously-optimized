@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.3 (2023-08-20)
+
+- Updated Cupboard, Iris, Indium, ModernFix, Sodium
+- Other changes from 5.2.5
+- Increased EntityCulling's sleep delay to potentially improve performance
+- Enabled ModernFix's Dynamic Resources to potentially improve performance, reduce startup time and RAM usage
+  - If you notice any new issues, this is probably why - please let me know!
+
 ### 5.3.0-beta.2 (2023-08-15)
 
 - Updated Iris, Sodium, Sodium Extra, Indium
