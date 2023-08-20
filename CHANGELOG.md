@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.3-mr.1 (2023-08-20)
+
+Modrinth version received a hotfix because I missed one mod 🏃
+
 ### 5.3.0-beta.3 (2023-08-20)
 
 - Updated Cupboard, Iris, Indium, ModernFix, Sodium
