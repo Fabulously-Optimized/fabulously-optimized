@@ -38,6 +38,10 @@ Sodium received a major update that should improve performance a lot, however it
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
 
+### 5.2.6 (2023-08-26)
+
+- Updated Entity Texture Features, e4mc, Fabric Language Kotlin
+
 ### 5.2.5 (2023-08-20)
 
 - Updated Controlify, ImmediatelyFast
