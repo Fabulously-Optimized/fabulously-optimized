@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.5 (2023-09-01)
+
+- Updated Cupboard, MemoryLeakFix, ModernFix, ImmediatelyFast
+ - ImmediatelyFast got a rewrite, so let's try it on the beta first
+- Other changes from 5.2.7
+- Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
+  - Are you seeing better performance near trees? Do you like how the leaves look? Let me know.
+- Removed duplicate version of Sodium
+
 ### 5.3.0-beta.4 (2023-08-26)
 
 - Updated ModernFix, Reese's Sodium Options
