@@ -3,6 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.4 (2023-08-26)
+
+- Updated ModernFix, Reese's Sodium Options
+- Reverted EntityCulling's sleep delay
+- Other changes from 5.2.6
+
+### 5.3.0-beta.3-mr.1 (2023-08-20)
+
+Modrinth version received a hotfix because I missed one mod 🏃
+
+### 5.3.0-beta.3 (2023-08-20)
+
+- Updated Cupboard, Iris, Indium, ModernFix, Sodium
+- Other changes from 5.2.5
+- Increased EntityCulling's sleep delay to potentially improve performance
+- Enabled ModernFix's Dynamic Resources to potentially improve performance, reduce startup time and RAM usage
+  - If you notice any new issues, this is probably why - please let me know!
+- Not available on MultiMC (auto-update)
+
 ### 5.3.0-beta.2 (2023-08-15)
 
 - Updated Iris, Sodium, Sodium Extra, Indium
@@ -24,6 +43,15 @@ Sodium received a major update that should improve performance a lot, however it
 - Other changes from 5.2.3
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
+
+### 5.2.6 (2023-08-26)
+
+- Updated Entity Texture Features, e4mc, Fabric Language Kotlin
+
+### 5.2.5 (2023-08-20)
+
+- Updated Controlify, ImmediatelyFast
+- Updated translations in Chinese Simplified and Traditional
 
 ### 5.2.4 (2023-08-15)
 
