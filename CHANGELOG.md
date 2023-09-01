@@ -44,6 +44,13 @@ Sodium received a major update that should improve performance a lot, however it
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
 
+### 5.2.7 (2023-09-01)
+
+- Updated Fabric Language Kotlin, YetAnotherConfigLib, Zoomify, Translations for Sodium
+  - Mod menu/Zoomify/Controlify crash should now be fixed
+  - ImmediatelyFast update temporarily postponed due to incompatibility
+- Updated most Chat Reporting Helper phrases to be more clear
+
 ### 5.2.6 (2023-08-26)
 
 - Updated Entity Texture Features, e4mc, Fabric Language Kotlin
