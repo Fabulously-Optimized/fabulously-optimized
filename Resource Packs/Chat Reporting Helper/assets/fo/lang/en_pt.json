@@ -1,16 +1,17 @@
 {
-    "chat.tag.modified": "Player message that can be reported to Mojang, but has been modified by the server. Original:",
-    "chat.tag.not_secure": "Player message that cannot be reported to Mojang.",
-    "chat.tag.system": "Server message or player message that cannot be reported to Mojang.",
-    "chat.tag.system_single_player": "Server message or player message that cannot be reported to Mojang.",
+    "chat.tag.modified": "Player message that is reportable to Mojang, but has been modified by the server. Original:",
+    "chat.tag.not_secure": "Player message that is not reportable to Mojang.",
+    "chat.tag.system": "Server message or player message that is not reportable to Mojang.",
+    "chat.tag.system_single_player": "Server message or player message that is not reportable to Mojang.",
     "multiplayer.unsecureserver.toast.title": "Chat reporting is optional",
-    "multiplayer.unsecureserver.toast": "Players can use mods to make their chat messages unreportable to Mojang",
+    "multiplayer.unsecureserver.toast": "Players can use mods to make their messages not reportable to Mojang",
     "gui.socialInteractions.tooltip.report": "Report player to Mojang",
     "gui.socialInteractions.narration.report": "Report player %s to Mojang",
-    "gui.socialInteractions.tooltip.report.disabled": "Mojang's chat reporting is currently unavailable.",
-    "gui.socialInteractions.tooltip.report.no_messages": "Player %s's chat is potentially reportable, but they haven't said anything.",
-    "gui.socialInteractions.tooltip.report.not_reportable": "This player or server has disabled reporting chat to Mojang.",
-    "gui.chatReport.describe": "Sharing details will help Mojang make a well-informed decision. Keep in mind that these reports are not seen by server admins.",
+    "gui.socialInteractions.tooltip.report.disabled": "Mojang's player reporting is currently unavailable.",
+    "gui.socialInteractions.tooltip.report.not_reportable": "This player or server has made their messages not reportable to Mojang.",
+    "gui.abuseReport.message": "Where did you observe the bad behavior?\nThis will help Mojang in researching your case.\nThese reports are not seen by server admins.",
+    "gui.chatReport.describe": "Sharing details will help Mojang make a well-informed decision. This report cannot be seen by server admins.",
+    "gui.abuseReport.describe": "Sharing details will help Mojang make a well-informed decision. This report cannot be seen by server admins.",
     "options.onlyShowSecureChat": "Hide Modded Chat",
-    "options.onlyShowSecureChat.tooltip": "Hides messages from players who have made their chat unreportable to Mojang."
+    "options.onlyShowSecureChat.tooltip": "Hides chat from players who have made their messages not reportable to Mojang."
 }

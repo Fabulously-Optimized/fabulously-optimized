@@ -1,6 +1,6 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7用简单的短语和图标解释聊天报告§r",
-    "chat.tag.modified": "玩家的消息不能被报告给Mojang，但已被服务器修改。原消息：",
+    "chat.tag.modified": "可以被报告给Mojang，但玩家消息已被服务器修改。原消息：",
     "chat.tag.not_secure": "玩家的消息不能被报告给Mojang。",
     "chat.tag.system": "服务器消息或玩家消息不能被报告给Mojang。",
     "chat.tag.system_single_player": "服务器消息或玩家消息不能被报告给Mojang。",
@@ -9,7 +9,6 @@
     "gui.socialInteractions.tooltip.report": "向Mojang报告玩家",
     "gui.socialInteractions.narration.report": "向Mojang报告玩家%s",
     "gui.socialInteractions.tooltip.report.disabled": "Mojang的聊天报告目前无法使用。",
-    "gui.socialInteractions.tooltip.report.no_messages": "玩家%s的聊天可能是可报告的，但他们没有说任何话。",
     "gui.socialInteractions.tooltip.report.not_reportable": "该玩家或服务器已禁止将聊天报告给Mojang。",
     "gui.chatReport.describe": "提供详情可以帮助Mojang更严谨地做出决定。请记住，这些报告不会被服务器管理员看到。",
     "options.onlyShowSecureChat": "隐藏被修改的消息",

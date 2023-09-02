@@ -3,6 +3,84 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.5 (2023-09-01)
+
+- Updated Cupboard, MemoryLeakFix, ModernFix, ImmediatelyFast
+ - ImmediatelyFast got a rewrite, so let's try it on the beta first
+- Other changes from 5.2.7
+- Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
+  - Are you seeing better performance near trees? Do you like how the leaves look? Let me know.
+- Removed duplicate version of Sodium
+
+### 5.3.0-beta.4 (2023-08-26)
+
+- Updated ModernFix, Reese's Sodium Options
+- Reverted EntityCulling's sleep delay
+- Other changes from 5.2.6
+
+### 5.3.0-beta.3-mr.1 (2023-08-20)
+
+Modrinth version received a hotfix because I missed one mod 🏃
+
+### 5.3.0-beta.3 (2023-08-20)
+
+- Updated Cupboard, Iris, Indium, ModernFix, Sodium
+- Other changes from 5.2.5
+- Increased EntityCulling's sleep delay to potentially improve performance
+- Enabled ModernFix's Dynamic Resources to potentially improve performance, reduce startup time and RAM usage
+  - If you notice any new issues, this is probably why - please let me know!
+- Not available on MultiMC (auto-update)
+
+### 5.3.0-beta.2 (2023-08-15)
+
+- Updated Iris, Sodium, Sodium Extra, Indium
+  - Known bug: fog settings may not work
+  - Also another Sodium release will come soon to fix more bugs
+- Other changes from 5.2.4
+- Vanilla users don't need to add anything on this version
+- This version is not available on MultiMC (auto-update)
+
+### 5.3.0-beta.1 (2023-08-09)
+
+Sodium received a major update that should improve performance a lot, however it may break some mods, notably LambDynamicLights - hence the beta.
+
+- Added ModernFix - faster launch and world loading, reduced RAM usage
+- Added Cupboard - a Farsight dependency, for editions where Farsight is present
+  - Hidden on Mod Menu
+- Updated Farsight, Indium, Iris Shaders, Reese's Sodium Options, Sodium, Sodium Extra
+- Enforced Fabric Loader 0.14.22
+- Other changes from 5.2.3
+- Vanilla users need to manually add Iris on this version
+- This version is not available on MultiMC (auto-update)
+
+### 5.2.7 (2023-09-01)
+
+- Updated Fabric Language Kotlin, YetAnotherConfigLib, Zoomify, Translations for Sodium
+  - Mod menu/Zoomify/Controlify crash should now be fixed
+  - ImmediatelyFast update temporarily postponed due to incompatibility
+- Updated most Chat Reporting Helper phrases to be more clear
+
+### 5.2.6 (2023-08-26)
+
+- Updated Entity Texture Features, e4mc, Fabric Language Kotlin
+
+### 5.2.5 (2023-08-20)
+
+- Updated Controlify, ImmediatelyFast
+- Updated translations in Chinese Simplified and Traditional
+
+### 5.2.4 (2023-08-15)
+
+- Updated Controlify, Fabric API, ImmediatelyFast, Remove Reloading Screen, Sodium Extra, Translations for Sodium
+- Updated translations in 7 languages
+
+### 5.2.3 (2023-08-09)
+
+- Updated Entity Texture Features, Controlify, FabricSkyboxes Interop, ImmediatelyFast, MoreCulling, Translations for Sodium
+- Updated Fabric Loader to 0.14.22
+- Renamed the "Copy all 3 folders and add Sodium!" to "Install instructions"
+- Vanilla users need to manually add Sodium and Iris on this version
+
 ### 5.2.2 (2023-08-02)
 
 - Updated ImmediatelyFast, Sodium Extra, Zoomify, Translations for Sodium
