@@ -6,7 +6,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 5.3.0-beta.5 (2023-09-01)
 
 - Updated Cupboard, MemoryLeakFix, ModernFix, ImmediatelyFast
- - ImmediatelyFast got a rewrite, so let's try it on the beta first
+  - Mod menu/Zoomify/Controlify crash should now be fixed
+  - ImmediatelyFast got a rewrite, so let's try it on the beta first
 - Other changes from 5.2.7
 - Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
   - Are you seeing better performance near trees? Do you like how the leaves look? Let me know.
@@ -53,10 +54,16 @@ Sodium received a major update that should improve performance a lot, however it
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
 
+### 5.2.8 (2023-09-03)
+
+- Updated Dynamic FPS, Fabric API, ImmediatelyFast, MemoryLeakFix, Remove Reloading Screen
+- Updated Chinese (Traditional), English (Canada), Estonian, Russian, Ukrainian translations
+- Cleaned up some outdated mod configs
+- Enabled and clarified Sodium donation button in video settings
+
 ### 5.2.7 (2023-09-01)
 
 - Updated Fabric Language Kotlin, YetAnotherConfigLib, Zoomify, Translations for Sodium
-  - Mod menu/Zoomify/Controlify crash should now be fixed
   - ImmediatelyFast update temporarily postponed due to incompatibility
 - Updated most Chat Reporting Helper phrases to be more clear
 

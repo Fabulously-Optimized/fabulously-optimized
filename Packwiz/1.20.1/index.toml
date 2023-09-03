@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b4bcf0d6e5287a868bb3d626b5d8ee43038f2ed6347dab6b46b2df89cc7f776e"
+hash = "c78e77b77e768d80b44d6f329d9acd0e2e521de2081775673923c73f6b77ab04"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "27c452f191684c7361f8961b5c11377334ad777ecfe38cdf08d2f1af41612ff0"
+hash = "848ad817d10df6a9f1785161afd043bf066035426446e9656ad3904920a61a33"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -37,8 +37,8 @@ file = "config/yosbr/config/debugify.json"
 hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -74,7 +74,7 @@ hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
 
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
-hash = "f7f7122784c7a6bcdb034e663fd756e16ffe69a668cb1b334e2be622f8c7bd55"
+hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -90,11 +90,7 @@ hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
-
-[[files]]
-file = "config/yosbr/config/tr7zwDonorSettings.json"
-hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
+hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -110,7 +106,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "9f41739b4204a806cfe81bb74443ff9f8805c098b92cc9ac1fbf4046215af5d2"
+hash = "d687364b303b6c517ce46eb4dd00dbcc4a7bea77ca457703e370d6f02683014c"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -168,8 +164,8 @@ hash = "9326ad2077287f079ab68743e5d597af75bf7f166927079fcfa7545fc86c4cd5"
 metafile = true
 
 [[files]]
-file = "mods/dynamicfps.pw.toml"
-hash = "2f97c60c94970f11901d0cd28279d0e95e5122dbe954a86ec66c83e2e66e4f12"
+file = "mods/dynamic_fps.pw.toml"
+hash = "d6f6d05971f22a4cc235e852b14a364cbba8e8f9825d4c5b777d9b51f77f9c62"
 metafile = true
 
 [[files]]
@@ -199,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d621b679e0938d3c13bd74627504a0e8ab2859f9163d138d747dcc3f969764ef"
+hash = "75184f3480fe2f26bd0288831b5b66141cd1a8efa0870eb5e63d32978ebac18f"
 metafile = true
 
 [[files]]
@@ -244,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "78efcb68ebda6efbf3129e55aa952377f87b4d41b34e32325cad49145253c8ef"
+hash = "a50d7602a74ac5d6fc4a1c1407ee4c79c37d05ebe4f10eae03f2d056849bbd2a"
 metafile = true
 
 [[files]]
@@ -279,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "13ca48713a50af57796f5252317d156fcfbde3325a021187410ff85db7e0f182"
+hash = "927b2db24dc601770f9fb90d7e00f055187615eaec308290b5416b41cdf93a4d"
 metafile = true
 
 [[files]]
@@ -329,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "e65963cce2caccbccaff1bb076763ded2a9bfddd48463cd5e256f839580d370e"
+hash = "cffd60573f67b64aaf7ce5b2896cb90a2d6732473fb7e95f60904592d2e4dd62"
 metafile = true
 
 [[files]]
@@ -359,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "61716355bdcb9b0d200c7c7cc45e4d1b3e7c052f525c2dcd76a3cca871dd4cca"
+hash = "ae2295aab9bb1a4dfc789c0ea928c7eb44cdbd878795bf7d3b8390517c096c22"
 metafile = true
 
 [[files]]
