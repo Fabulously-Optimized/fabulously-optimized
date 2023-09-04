@@ -11,7 +11,7 @@ jobs:
     name: Git Repo Sync - BitBucket
     steps:
     - name: Checkout the Repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - name: Synchronize code to other Git platforms
