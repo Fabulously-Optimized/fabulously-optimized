@@ -16,7 +16,7 @@ def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str) -> N
         print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
 
-def copy_to_archive(from_path: Path, to_path: Path, archive_path: Path) -> None:
+def copy_to_archive(from_path: Path, to_path: str, archive_path: Path) -> None:
     files = []
 
     with zipfile.ZipFile(archive_path, "r") as archive:
@@ -46,7 +46,7 @@ with open(Path(git_path, "MultiMC/Fabulously Optimized x.y.z/instance.cfg"), "r+
 
 copy_to_archive(
     Path(git_path, "MultiMC/Fabulously Optimized x.y.z/instance.cfg"),
-    Path(f"Fabulously Optimized {version}/instance.cfg"),
+    f"Fabulously Optimized {version}/instance.cfg",
     Path(output_path, f"Fabulously Optimized {version}.zip"),
 )
 copy_file(
