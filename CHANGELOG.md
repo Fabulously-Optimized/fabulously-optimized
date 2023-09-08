@@ -58,6 +58,11 @@ Sodium received a major update that should improve performance a lot, however it
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
 
+### 5.2.9 (2023-09-08)
+
+- Updated Dynamic FPS, Fabric API, FastQuit
+- Updated translations in 5 languages
+
 ### 5.2.8 (2023-09-03)
 
 - Updated Dynamic FPS, Fabric API, ImmediatelyFast, MemoryLeakFix, Remove Reloading Screen
