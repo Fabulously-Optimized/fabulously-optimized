@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0-beta.7 (2023-09-08)
+
+- Removed LambDynamicLights to better indicate that it doesn't work with the new Sodium/Fabric API yet
+- Changes from 5.2.9
+
 ### 5.3.0-beta.6 (2023-09-03)
 
 - Changes from 5.2.8
