@@ -12,7 +12,7 @@ body:
 - type: input
   attributes:
     label: CurseForge link
-    description: If it exists, please write it.
+    description: If you know the link, please write it. If you don't know the link, do you know the dev's stance? (e.g. pending approval, planned, considering, not considering, etc.)
     placeholder: https://www.curseforge.com/minecraft/mc-mods/...
   validations:
     required: false
@@ -38,7 +38,7 @@ body:
 - type: input
   attributes:
     label: Modrinth link
-    description: If it exists, please write it.
+    description: If you know the link, please write it. If you don't know the link, do you know the dev's stance? (e.g. pending approval, planned, considering, not considering, etc.)
     placeholder: https://modrinth.com/mod/...
   validations:
     required: false
