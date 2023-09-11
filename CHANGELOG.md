@@ -8,6 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Added ModernFix - faster launch and world loading, reduced RAM usage
 - Added Cupboard - a Farsight dependency, for editions where Farsight is present
   - Hidden on Mod Menu
+- Updated Sodium and its dependencies, which should bring a lot of performance improvements
 - Enabled ModernFix's Dynamic Resources to improve performance, reduce startup time and RAM usage
 - Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
 - Enforced Fabric Loader 0.14.22
