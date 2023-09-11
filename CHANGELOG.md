@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0 (2023-09-11)
+
+- Added ModernFix - faster launch and world loading, reduced RAM usage
+- Added Cupboard - a Farsight dependency, for editions where Farsight is present
+  - Hidden on Mod Menu
+- Enabled ModernFix's Dynamic Resources to improve performance, reduce startup time and RAM usage
+- Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
+- Enforced Fabric Loader 0.14.22
+- Vanilla users don't need to add anything on this version
+
+#### Changes 5.3.0-beta.7 -> 5.3.0
+
+- Readded LambDynamicLights
+- Updated Dynamic FPS, ImmediatelyFast, Mod Menu
+  - Reduced the list of hidden mods in Mod Menu (now properly marked as libraries)
+- Updated French translation
+
 ### 5.3.0-beta.7 (2023-09-08)
 
 - Removed LambDynamicLights to better indicate that it doesn't work with the new Sodium/Fabric API yet
