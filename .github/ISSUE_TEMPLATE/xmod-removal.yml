@@ -1,0 +1,39 @@
+name: Mod removal
+description: Suggest a mod to be removed from Fabulously Optimized
+labels: mod, remove
+body:
+- type: markdown
+  attributes:
+    value: |
+      ## "Remove mod name" ⤴️
+      Before you request a mod removal, [please search](https://github.com/Fabulously-Optimized/fabulously-optimized/issues) if it has already been requested.
+      [Consider the principles as well.](https://fabulously-optimized.gitbook.io/modpack/readme/principles)
+
+- type: input
+  attributes:
+    label: Original issue
+    description: Write the GitHub link or issue ID where the mod was initially proposed for addition.
+    placeholder: "#1234"
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why should it be in the modpack
+    description: Think of or copy reasons from the original issue about why the mod was initially added.
+  validations:
+    required: true
+
+- type: textarea
+  attributes:
+    label: Why shouldn't it be in the modpack
+    description: Write detailed arguments about why you think the mod should be removed. Be polite.
+  validations:
+      required: true
+
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you want to add?
+  validations:
+    required: false

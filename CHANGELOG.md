@@ -3,10 +3,38 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.0 (2023-09-11)
+
+- Added ModernFix - faster launch and world loading, reduced RAM usage
+- Added Cupboard - a Farsight dependency, for editions where Farsight is present
+  - Hidden on Mod Menu
+- Updated Sodium and its dependencies, which should bring a lot of performance improvements
+- Enabled ModernFix's Dynamic Resources to improve performance, reduce startup time and RAM usage
+- Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
+- Enforced Fabric Loader 0.14.22
+- Vanilla users don't need to add anything on this version
+
+#### Changes 5.3.0-beta.7 -> 5.3.0
+
+- Readded LambDynamicLights
+- Updated Dynamic FPS, ImmediatelyFast, Mod Menu
+  - Reduced the list of hidden mods in Mod Menu (now properly marked as libraries)
+- Updated French translation
+
+### 5.3.0-beta.7 (2023-09-08)
+
+- Removed LambDynamicLights to better indicate that it doesn't work with the new Sodium/Fabric API yet
+- Changes from 5.2.9
+
+### 5.3.0-beta.6 (2023-09-03)
+
+- Changes from 5.2.8
+
 ### 5.3.0-beta.5 (2023-09-01)
 
 - Updated Cupboard, MemoryLeakFix, ModernFix, ImmediatelyFast
- - ImmediatelyFast got a rewrite, so let's try it on the beta first
+  - Mod menu/Zoomify/Controlify crash should now be fixed
+  - ImmediatelyFast got a rewrite, so let's try it on the beta first
 - Other changes from 5.2.7
 - Changed MoreCulling's leaf culling mode to "check surrounding" for improved performance
   - Are you seeing better performance near trees? Do you like how the leaves look? Let me know.
@@ -53,10 +81,21 @@ Sodium received a major update that should improve performance a lot, however it
 - Vanilla users need to manually add Iris on this version
 - This version is not available on MultiMC (auto-update)
 
+### 5.2.9 (2023-09-08)
+
+- Updated Dynamic FPS, Fabric API, FastQuit
+- Updated translations in 5 languages
+
+### 5.2.8 (2023-09-03)
+
+- Updated Dynamic FPS, Fabric API, ImmediatelyFast, MemoryLeakFix, Remove Reloading Screen
+- Updated Chinese (Traditional), English (Canada), Estonian, Russian, Ukrainian translations
+- Cleaned up some outdated mod configs
+- Enabled and clarified Sodium donation button in video settings
+
 ### 5.2.7 (2023-09-01)
 
 - Updated Fabric Language Kotlin, YetAnotherConfigLib, Zoomify, Translations for Sodium
-  - Mod menu/Zoomify/Controlify crash should now be fixed
   - ImmediatelyFast update temporarily postponed due to incompatibility
 - Updated most Chat Reporting Helper phrases to be more clear
 
