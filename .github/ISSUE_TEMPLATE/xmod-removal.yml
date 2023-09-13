@@ -13,7 +13,7 @@ body:
   attributes:
     label: Existing issue ID
     description: Write the GitHub link or issue ID where the mod was initially proposed for addition.
-    placeholder: \#...
+    placeholder: #1234
   validations:
     required: true
 
