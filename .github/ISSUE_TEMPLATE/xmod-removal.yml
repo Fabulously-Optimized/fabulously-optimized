@@ -19,17 +19,17 @@ body:
 
 - type: textarea
   attributes:
-    label: Why shouldn't it be in the modpack
-    description: Write detailed arguments about why you think the mod should be removed. Be polite.
-  validations:
-      required: true
-
-- type: textarea
-  attributes:
     label: Why should it be in the modpack
     description: Think of or copy reasons from the original issue about why the mod was initially added.
   validations:
     required: true
+
+- type: textarea
+  attributes:
+    label: Why shouldn't it be in the modpack
+    description: Write detailed arguments about why you think the mod should be removed. Be polite.
+  validations:
+      required: true
 
 - type: textarea
   attributes:
