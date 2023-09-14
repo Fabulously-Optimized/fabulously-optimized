@@ -37,3 +37,10 @@ body:
     description: Anything else you want to add?
   validations:
     required: false
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+      - label: This mod removal request was written in good faith, taking into consideration why the mod was added in the first place. I also confirm that this is not a mod replacement request - for that purpose I should use the normal mod request form.
+        required: true
