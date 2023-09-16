@@ -48,10 +48,10 @@ Not sure which edition is right for you? Check this handy table!
 
 Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
 
-* The first-run accessibility screen introduced in 1.19.4 is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
-  * Languages screen can be accessed by pressing "right arrow" and "enter"
-  * Accessibility screen can be accessed by pressing "left arrow", "left arrow" and "enter"
-  * Narrator can be directly enabled by pressing Control + B.
+* The first-run accessibility screen is not used, to make setup smoother and faster. Instead, users can continue to take advantage of the menu keyboard support.
+  * Languages screen can be accessed by pressing <kbd>→</kbd> <kbd>Enter</kbd>.
+  * Accessibility screen can be accessed by pressing <kbd>←</kbd> <kbd>←</kbd> <kbd>Enter</kbd>.
+  * Narrator can be directly enabled by pressing <kbd>Ctrl</kbd> + <kbd>B</kbd>.
 * Users can search for and select multiple languages
   * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
   * Items have the original names on their tooltips for command usage purposes
