@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.1 (2023-09-16)
+
+- Updated Entity Model Features, Cupboard, ImmediatelyFast
+  - Custom model support in resource packs should now be near-perfect!
+- Updated French and Ukrainian translations
+
 ### 5.3.0 (2023-09-11)
 
 - Added ModernFix - faster launch and world loading, reduced RAM usage

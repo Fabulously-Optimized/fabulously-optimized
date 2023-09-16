@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.3.0",
+    "versionId": "5.3.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -176,15 +176,15 @@
             "fileSize": 57722
         },
         {
-            "path": "mods/entity_model_features_fabric_1.20-0.2.13.jar",
+            "path": "mods/entity_model_features_fabric_1.20-1.0.jar",
             "hashes": {
-                "sha1": "51f2b622ba468261c6a8fa92f8273139c87ef014",
-                "sha512": "88d382d3bf02d5c39667c3c93a27bfaa7284c70be1e4b2a30ee00329eeeada6a86d553b3c9ba27341aad78efd98e88a7b9861d5ef219c12b6cdf155dbaecbe80"
+                "sha1": "8f92545d6b91f4dec7db418b1ddf125a69ad2222",
+                "sha512": "280664e4482dc33ec66e7511ba6832ed10fc51a0a6885d21eaeb6c634816a77f13c6e6f0b128e74ea40949390ba6afed0b68d151d9c1f7163396b3a3748201f4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/b1pJegrh/entity_model_features_fabric_1.20-0.2.13.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/toEX8PUQ/entity_model_features_fabric_1.20-1.0.jar"
             ],
-            "fileSize": 483141
+            "fileSize": 291578
         },
         {
             "path": "mods/entity_texture_features_fabric_1.20-4.5.1.jar",
@@ -300,15 +300,15 @@
             "fileSize": 49507
         },
         {
-            "path": "mods/ImmediatelyFast-1.2.3+1.20.1.jar",
+            "path": "mods/ImmediatelyFast-1.2.4+1.20.1.jar",
             "hashes": {
-                "sha1": "229f50f333148f6f131fec59e600a0461e3acf06",
-                "sha512": "86f1cb99e4fc0c8323677fd6c02bda1cdd76003aa66af485b04576ccd67086c9b372cd71e5510395bfe91a1c97299d1308ebded02da9e8af24db0e5a92f24315"
+                "sha1": "fc2327b3e67c012949b0febac6effe3604bf894e",
+                "sha512": "07c8b0bfe2c032985a664109abe5d55e6eae2faed8b72b38e19af824a38cf08086c31e198fa1890e9871baacdc2421a8bb0fa0c67a08057235b64f3d946319b5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/bHjLCRu6/ImmediatelyFast-1.2.3%2B1.20.1.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/NJ17fqEK/ImmediatelyFast-1.2.4%2B1.20.1.jar"
             ],
-            "fileSize": 596411
+            "fileSize": 625873
         },
         {
             "path": "mods/indium-1.0.25+mc1.20.1.jar",
@@ -577,35 +577,35 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "ae655a2db8be34b9eab51f72acd08cd13a9ea29c",
-                "sha512": "a6e0927e76da8fb2ab5dcfb578b437fcf8834ae6936b05edf13ad595c511e3ad75b11f70f9a59d3f3efcc013bc82153c5ebbb05ea49c1b5e5d6e283bbdb1c72d"
+                "sha1": "4b3c263defd89be217bddec65543d0be15cd10f9",
+                "sha512": "1eef4eb345e9cb424e024adc59366f633cf20cbe14a0703564812b507cfb8ca118025445e96aeb715866f6c0651760a924de74652362ad26c96be8f440a508e8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/dnv1Qtty/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/7zxgLdb2/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 32376
+            "fileSize": 32592
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
             "hashes": {
-                "sha1": "99112956b043d060c7bd0a726d57b9f080fb1b87",
-                "sha512": "6b60d4c6842f1c4f5b9bbba6e839ed822fd95888600bd9ce39d293c96f47ec39305fb85c56f8fc3f41f090a94b17898c7f0caebfa746ac3e9fd27df347b21340"
+                "sha1": "6f131609ff5f63d1d0035bc5b0a5147614c851b2",
+                "sha512": "58b62ed7dcfb1b49fed31ec64cef22160bb3625648268287a21b7c6594a20f51a1f9c1dfd1a24587b6b525199859c78f7145670611d1f7348f0ddc61efc90b4a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/dspVZXKP/versions/85UDyEcd/Fast%20Better%20Grass.zip"
+                "https://cdn.modrinth.com/data/dspVZXKP/versions/SrnJOvoP/Fast%20Better%20Grass.zip"
             ],
-            "fileSize": 10943
+            "fileSize": 10974
         },
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "afb7b38d75094a2dd6a2058ee64d551aea57d345",
-                "sha512": "532cb472cedf81600826162aa2db253cd4e503365e347513cafd2fec2d215a0f5f1fb71198b2fe8482a61bbda1ff03f6d6361dfc488acad634113450d5d6d90c"
+                "sha1": "b28addbb6b991205c111a8fdcb90bd6f594664e7",
+                "sha512": "bff528173607b35677e42b46d5b5b1b4d70cc36e466422c38958f2b1ccee5e2b1ad6753a3cc434853efe33b1e56179306ead2d83b3a9331d342d3fe43ba10883"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/umg6sh43/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/zPaf4AJw/SodiumTranslations.zip"
             ],
-            "fileSize": 159975
+            "fileSize": 159997
         }
     ],
     "dependencies": {
