@@ -17,8 +17,16 @@ file = "config/isxander-main-menu-credits.json"
 hash = "859e34b70c9430605631ec5fdb9d43ead8318b24a8baa9e1cb26c5d5b19361ef"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "e840840d9d85a5722e3a9fdce284048916259088a074513b9fd116ff08e4f585"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -89,20 +97,8 @@ file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "ef73ff0fcd6f7e7f3727f493ab61fdc8a65d710475426a55f72eb772ef0ed309"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "f8120fc5db92a8923a02424e0b9a32e72ca1606ef01eda7661dff7aafdba6b44"
+file = "config/yosbr/options.txt"
+hash = "e840840d9d85a5722e3a9fdce284048916259088a074513b9fd116ff08e4f585"
 
 [[files]]
 file = "mods/antighost.pw.toml"
@@ -160,11 +156,6 @@ hash = "ca199c56727323ca124d5c4c4d6be14748d6602ca94e17daca9d7046f80170e4"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
-metafile = true
-
-[[files]]
 file = "mods/entity_model_features.pw.toml"
 hash = "4fcc158eecc17087c671edf24a5037baf4edbdcf3bbf040910f2901b09daa8cf"
 metafile = true
@@ -172,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
 hash = "d8a626fcad947cc8ec16f59b03dda8c755a36142ca7b73c31dc9c6fc8a096e65"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
 metafile = true
 
 [[files]]
@@ -230,6 +226,11 @@ hash = "1f617d264ae48e96ae9269400a16dc93fa011a89c6e6ec17189ae5121a217df9"
 metafile = true
 
 [[files]]
+file = "mods/isxander-main-menu-credits.pw.toml"
+hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
+metafile = true
+
+[[files]]
 file = "mods/languagereload.pw.toml"
 hash = "122d3d07c920c2154e1c041f3acd17c4b4f1c2556b57418adebe2b46aaaef1ca"
 metafile = true
@@ -237,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b6de5927635eec4e625581fd4457ff16bb023068ed2d14622c0e708f88794ead"
-metafile = true
-
-[[files]]
-file = "mods/isxander-main-menu-credits.pw.toml"
-hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
 
 [[files]]
@@ -328,3 +324,7 @@ metafile = true
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
 hash = "1185e63e7327860f0e1f0a1e3c4f96bd83dfd3ac524fd2ac8e93b360bcb18e9c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "f8120fc5db92a8923a02424e0b9a32e72ca1606ef01eda7661dff7aafdba6b44"
