@@ -2,23 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d96ebc203623ca1d848126606140e52d3db084303f2af0578eae11d7ccbe6d1a"
+hash = "aa3467720fa1e9a5938204f1a0d4171b587b9f6db79051af55a62e1e138b7936"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "14d37de0bb20a67692c1166e5a7bc67e16f36f0161cc867ba480039c8acde867"
+hash = "98ceda199afc9e62457938be8ce282e7c466410f04f18cf7516d1b598c09d814"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+file = "config/yosbr/options.txt"
+hash = "8ee3d84907824eea9ff0ee1f8d289ab8d5ac97793cde120f630d85f96c63ab65"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -105,8 +97,20 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "8ee3d84907824eea9ff0ee1f8d289ab8d5ac97793cde120f630d85f96c63ab65"
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "38b62922e546b8ecb5dbfe19ee937ea6da707b3a2dca5b2189efbd7fbf817ff4"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -184,18 +188,18 @@ hash = "abac7fa35a6bd77c59fe23d31ffa4f31d09421fdfd0bf137dca9701142e17322"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
+metafile = true
+
+[[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "13c3368d05c8ba08b4b72bfd7bb2ae8e5056f96211d36e3cb71e7deb3fc3048c"
+hash = "6b87ceb674f0b5d095b74c69c2341a1ffead3aadb45d19f97d082799d99bba1e"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
 hash = "5085d767f86648589568e82404d44c3c7eb7d0b619bd2f21566cd19ddfc622d8"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "9d43225a578cd36fbaf754c73a8ba77d8583b1c34bdcb9fdd8199b6a807bdf94"
 metafile = true
 
 [[files]]
@@ -255,12 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e902dedae59ffe4ae5c63fce1cebb54d5759a3feb91d0fd9621f01899aca7b59"
-metafile = true
-
-[[files]]
-file = "mods/isxander-main-menu-credits.pw.toml"
-hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
+hash = "9ce71e149c9786910651ff8a5bedba7f74b8cf111adfceb9e9b7be52763b897e"
 metafile = true
 
 [[files]]
@@ -276,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "ff1e17e5c0670835621e2dcc69e6d29908c928253fa43019bca2f69c983776e6"
+metafile = true
+
+[[files]]
+file = "mods/isxander-main-menu-credits.pw.toml"
+hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
 
 [[files]]
@@ -345,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cf88d8bf663398339fff2fbfbd422fc635321c97d8416311ade8db8ee54b72da"
+hash = "556cc3fb58bffdab78a273d9699355e0b9176093ccbb41b9906ad36d3284851c"
 metafile = true
 
 [[files]]
@@ -371,15 +375,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
 hash = "91c0f92acd96cb462cf502b35bccbac8075c6a6370373e6974f190d74d96877c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/Mod Menu Helper.zip"
-hash = "5e5516c8f3f31e0122ff5736a42d029a1c17a5c6d8ede5403211d2327d0d44de"
-
-[[files]]
-file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "f0a3da7ea94db610992f5aa2c9e2857c115ee4cd8ae02af91c5831f6eae3d57c"
 metafile = true
 
 [[files]]

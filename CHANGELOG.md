@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.1
 
+### 5.3.2 (2023-09-20)
+
+- Updated Entity Model Features, Sodium, Iris
+  - EMF got an important performance fix, others got smaller bugfixes
+- Updated Italian, Polish, Vietnamese translations
+
 ### 5.3.1 (2023-09-16)
 
 - Updated Entity Model Features, Cupboard, ImmediatelyFast
