@@ -1,6 +1,14 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.2
+
+### 5.4.0-alpha.1 (2023-09-22)
+
+- Removed Farsight, Cupboard, Hold That Chunk - disparity, bugs and other concerns
+- Updated Cloth Config API, Dynamic FPS, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Reese's Sodium Options, Remove Reloading Screen, Sodium Extra, Sodium, Iris, Mod Menu
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Entity Model Features, Entity Texture Features, Enhanced Block Entities, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+
 ## 1.20.1
 
 ### 5.3.2 (2023-09-20)
