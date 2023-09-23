@@ -13,6 +13,10 @@ Now that's early!
 
 ## 1.20.1
 
+### 5.3.3 (2023-09-23)
+
+- Updated Dynamic FPS, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Indium
+
 ### 5.3.2 (2023-09-20)
 
 - Updated Entity Model Features, Sodium, Iris
