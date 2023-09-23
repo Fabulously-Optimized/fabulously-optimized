@@ -65,7 +65,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Ensures all possible tooltips fit to screen |
 
-¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk [for extended testing](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/437).
+¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk because Farsight could not be distributed there.
 
 ## Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
