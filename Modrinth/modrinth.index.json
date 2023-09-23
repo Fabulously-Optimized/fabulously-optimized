@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.4.0-alpha.1",
+    "versionId": "5.4.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -86,15 +86,37 @@
             "fileSize": 59348
         },
         {
-            "path": "mods/fabric-api-0.89.1+1.20.2.jar",
+            "path": "mods/entity_model_features_fabric_1.20.2-1.0.2.jar",
             "hashes": {
-                "sha1": "c921011283ece35f2ead4bbf7d9aaf2270fbbd7a",
-                "sha512": "094b65ed6d979d2f6ffa885ae74fdb9d62a03e2e8a1a975e0ccf67e6e5d9dfc46bdf719392bb90c9f3abefe82761389060f9a9e91a30755f3bee814f4b6448b4"
+                "sha1": "da7b47d0faa415b90333656efb8f6e864e47dd2e",
+                "sha512": "895045a7be4a7acd6ad8723c549bc8100d018c5a65a22f1ad929459ec76138509c5291fe89dd1eb6b0585b8a2d210cc12d29eae12b44d9a757b002276d0010af"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/lRcC0FRh/fabric-api-0.89.1%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/eg7GqpgR/entity_model_features_fabric_1.20.2-1.0.2.jar"
             ],
-            "fileSize": 2083143
+            "fileSize": 290541
+        },
+        {
+            "path": "mods/entity_texture_features_fabric_1.20.2-4.5.1.jar",
+            "hashes": {
+                "sha1": "fe092506cb0d63b6c4907ddd3696b9d1a10e0a36",
+                "sha512": "eb435c56d72c4db651a2dd6828271a204142761657b5888a17dbe4a0bf53d0efd5ab7094ea479d503bb388d7f7c2d9f672fe695ffb716802be50736233d7ac80"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/1Y3lxOX6/entity_texture_features_fabric_1.20.2-4.5.1.jar"
+            ],
+            "fileSize": 459111
+        },
+        {
+            "path": "mods/fabric-api-0.89.2+1.20.2.jar",
+            "hashes": {
+                "sha1": "a008c21963ee7ccf42a4693cb08bcb853079a722",
+                "sha512": "6b166f8204c1783825b821741813b803daeebd1fb53018ec217cb305bd2c952d53d85a4b5df7bbf996718d8ab5080f6466b3436a18aa17257729cb6afe27d9f9"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/1Pj9mogm/fabric-api-0.89.2%2B1.20.2.jar"
+            ],
+            "fileSize": 2083196
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar",
@@ -189,16 +211,16 @@
             "fileSize": 625874
         },
         {
-            "path": "mods/indium-1.0.25+mc1.20.1.jar",
+            "path": "mods/indium-1.0.27+mc1.20.1.jar",
             "hashes": {
-                "sha1": "5f7a6c0d6a3dfadc87d6135889ab937d09fdcaa0",
-                "sha512": "5732b11f0205f252e3f4003ab82b44beae4ea1e40c2008eab31a54c1935498db9a9e4b32c677479952fe1e725e1fbdd666730ef65ee6a22bc0fd692e56cb34ba"
+                "sha1": "8c8e6b96243155b41f2f9d29d5940ee895bcb141",
+                "sha512": "c6e6627b8bb6a40497f27f86619ee5f17f68386f10585b4944e1aad01337a8f55be7401bc1824c69f94d755db3faaf16537b1d2d2cd282d24393d61df9b6fbef"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/6UQwWURe/indium-1.0.25%2Bmc1.20.1.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.25%2Bmc1.20.1/indium-1.0.25%2Bmc1.20.1.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/Lue6O9z9/indium-1.0.27%2Bmc1.20.1.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.27%2Bmc1.20.1/indium-1.0.27%2Bmc1.20.1.jar"
             ],
-            "fileSize": 106684
+            "fileSize": 104807
         },
         {
             "path": "mods/iris-mc1.20.2-1.6.9.jar",
@@ -337,18 +359,6 @@
             "fileSize": 371323
         },
         {
-            "path": "mods/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
-            "hashes": {
-                "sha1": "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
-                "sha512": "de0ec6cc85a9b90a4a2dc43ca81db962691cb95362bde8db54115c8fadf257d97fc05267832b14f2e576af4743dfde9d79e3deeea0b46b2685085fa1e21d50ee"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar",
-                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar"
-            ],
-            "fileSize": 507710
-        },
-        {
             "path": "mods/sodium-fabric-mc1.20.2-0.5.3.jar",
             "hashes": {
                 "sha1": "37d1fb5be973beba13b88ae6a6f8158dc80a12ad",
@@ -408,13 +418,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "b28addbb6b991205c111a8fdcb90bd6f594664e7",
-                "sha512": "bff528173607b35677e42b46d5b5b1b4d70cc36e466422c38958f2b1ccee5e2b1ad6753a3cc434853efe33b1e56179306ead2d83b3a9331d342d3fe43ba10883"
+                "sha1": "bc187ddf44d2e6514ff950142d53b81850b32831",
+                "sha512": "aa6a0f202b9bd6a5b1872fff3336dd8e3e5dd0d048633a923d5d29196e8f13c9987a291953bcd6fb54c64b1a43aa45966b7ebb6390e00ae772a2692fd332bbdb"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/zPaf4AJw/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/SBSzeDhE/SodiumTranslations.zip"
             ],
-            "fileSize": 159997
+            "fileSize": 164699
         }
     ],
     "dependencies": {

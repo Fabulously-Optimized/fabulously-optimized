@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "249d6273a9cb17fa339c88e7f4e6bc4793cc860c556e66994de79ccc2f434067"
+hash = "d80fef7e294e636aa5a36b6ca52237c2e8c5d9c9989f2c98c545e2aa0e670e68"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "da9f0419a0fa706abcac61c9a815540ab8fe9445f633bb66ba35a466da8830d5"
+hash = "07b619ea4291ea13f9680c755c8463eec7f95bf6ecce28339caa8af34b7e2619"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "daf71693d477674b2f444eb2afc8f57740bcbc8b5a83dbb824ad313ee8e071a4"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -77,10 +81,6 @@ file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "dacff858c9d3d3d96a4b6b902133d0691e320e21a2f57adc6bb6cb9875763582"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
@@ -144,8 +144,18 @@ hash = "676d42752de490a571af628b9a353885bcc30dcdb133d1fe32be4bb78ac4a01a"
 metafile = true
 
 [[files]]
+file = "mods/entity_model_features.pw.toml"
+hash = "eb39be2dca654d390b8afe985434bcf96590b166df847c36de16c33d0f288f68"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features.pw.toml"
+hash = "a4cc7834848f6dce87672aa01b583f13e00809b08797f04fa2995c0b72412a7f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "83003fe069bfee8dba432f373754fcab081fe593458e632115550b63662a22bb"
+hash = "daf44f64081b0429108582f5bc60fcce51888a802cadff204f05104d954be529"
 metafile = true
 
 [[files]]
@@ -190,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35b1798606e1f40369f4303610ec1f01bf74b0d5572a0384b6ee182139ac968f"
+hash = "74302037e7ad7670973671237dbdea6dab5d2272500e073f9af641fe3878cb29"
 metafile = true
 
 [[files]]
@@ -255,11 +265,6 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5e59b879af18066335b469a34330db57fb9cc74e2b03aaf200deed10815a137b"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
 hash = "2ba79840f134759faf13090f58cad2768a23b72d29318233d97dee644286fc77"
 metafile = true
 
@@ -285,5 +290,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "669967ca42b69bbacfae3726b32d74c4642c9d0ffda114420a382a524a5cc3d0"
+hash = "50752a5d67f20d7a8e3b6a3561324e39d49b07409ea1405ac9f83295dac669ea"
 metafile = true
