@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d80fef7e294e636aa5a36b6ca52237c2e8c5d9c9989f2c98c545e2aa0e670e68"
+hash = "57d0dc7394150ee7ae332deedab78cacde08f6bbcb22fc00e41a6a8e53a36836"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "07b619ea4291ea13f9680c755c8463eec7f95bf6ecce28339caa8af34b7e2619"
+hash = "f110fe2d5c96016eeaf391616908fc51ce2784001fbf4d9eddf06410064d11bc"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "daf71693d477674b2f444eb2afc8f57740bcbc8b5a83dbb824ad313ee8e071a4"
+hash = "c192955f98ef0a57f7b50e40220c5b4c0005e5c8859edc881ecee96fe95fc263"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -107,11 +107,6 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "38b62922e546b8ecb5dbfe19ee937ea6da707b3a2dca5b2189efbd7fbf817ff4"
-
-[[files]]
-file = "mods/antighost.pw.toml"
-hash = "0991a1ba8449cb9b99040bfdaf563d98b64b1d22a6ed2bccc401d2af1fdc731c"
-metafile = true
 
 [[files]]
 file = "mods/bettermounthud.pw.toml"
@@ -214,6 +209,16 @@ hash = "f2f723ac496acb07b53e04d91823141e08557568c33759db046ae8b1d6387150"
 metafile = true
 
 [[files]]
+file = "mods/languagereload.pw.toml"
+hash = "9d1353871d6b3af0d73888edd330a42e321b2b85b60aaf25c06b0f7748a0570d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2e0fd691be28b97a84a49bb490a39aa6ac5068f012202e43e0d2ff26c6125445"
+metafile = true
+
+[[files]]
 file = "mods/isxander-main-menu-credits.pw.toml"
 hash = "a8c3a598ab5619672bd3516198953e6e19efcafe00533a67e5119d612bd62ac9"
 metafile = true
@@ -226,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "38f94a9f4aaff8aa39f36b963c15c8e740e55cbce6d5d43681a62c073fdb1c80"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5e377b60e5af7130ba174a67239c2d43960231b1181bc0ad4e186fb15f9e29c5"
 metafile = true
 
 [[files]]
@@ -245,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "35f482aa3e8acb36cadafa8ef0832c8760b576c94731eaaecdf6b8e60359ddc5"
+hash = "83bd85bd70d961f783039936a1c5c24ae6d5e91f28c3404686f555553ae0e0f7"
 metafile = true
 
 [[files]]
@@ -270,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "4ab6c8b946ce15fd3d747354627c2012bd94a00ced254ac58d9655753fb88744"
+hash = "464ec1b02db4123a22718b720ba7f12aee51b9e8b0fcdf5dab18ce779f960233"
 metafile = true
 
 [[files]]

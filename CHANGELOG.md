@@ -3,13 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.4.0-alpha.3 (2023-09-25)
+
+- Updated Language Reload, Lithium, ModernFix, Puzzle, YetAnotherConfigLib
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Controlify, Debugify, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+
 ### 5.4.0-alpha.2 (2023-09-23)
 
 - Updated Fabric API, Indium, Entity Model Features, Entity Texture Features
 - Removed duplicate Sodium
 - Hid the config buttons of mods whose config GUI currently crashes
   - Use the config file instead, for the time being
-- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Entity Model Features, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
 
 ### 5.4.0-alpha.1 (2023-09-22)
 
