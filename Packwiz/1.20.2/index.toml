@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "57d0dc7394150ee7ae332deedab78cacde08f6bbcb22fc00e41a6a8e53a36836"
+hash = "00107cde76c6a76c1fcb77af6b3312194af62d55e901892141b3382bbc594300"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f110fe2d5c96016eeaf391616908fc51ce2784001fbf4d9eddf06410064d11bc"
+hash = "463866f69c26a02141fdfe6e2149aef25590c0c9fa60f9ba9934874afab97a70"
 
 [[files]]
 file = "config/modmenu.json"
@@ -121,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "0a319d7c830b78544461a966d5cd6218b091ed8db29b2e842202af3eb1ac8fc2"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "4ba7f21c3b00283b3420279c0ecb69b3072c2ea3cd3ff527c8ec2068dda896ea"
 metafile = true
 
 [[files]]
@@ -240,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "066ff4681e83e5d41addd5c5a06320edcb34b769d6aa3c97115c3683bfbe1736"
+hash = "72c14f80c01a91085225b316e0e93ac39036d75c626ef69f33d9492695c23ffb"
 metafile = true
 
 [[files]]
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "2e0d757e7237216942c72bf8dbb8805ead00be6b9ab59b7933729101b171fe4a"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "d9c8353976b3543ac685f84582049df9a589bcddb85aa116ff86b446bbd64629"
 metafile = true
 
 [[files]]
@@ -290,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "c839af5c34415a7a58492d2af7127fe6c5f0a78f3b21621becbfc947848dd5df"
+hash = "9d7c9ed44bfae7cc9295070866aa6e78c82358d28fc4ac4a2e1e490f133fb41c"
 metafile = true
 
 [[files]]

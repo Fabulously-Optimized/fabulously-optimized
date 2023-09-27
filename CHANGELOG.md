@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.4.0-alpha.4 (2023-09-27)
+
+- Updated Controlify, Mod Menu, No Chat Reports
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Debugify, MemoryLeakFix, OptiGUI, Zoomify
+
 ### 5.4.0-alpha.3 (2023-09-25)
 
 - Updated Language Reload, Lithium, ModernFix, Puzzle, YetAnotherConfigLib

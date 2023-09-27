@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.4.0-alpha.3",
+    "versionId": "5.4.0-alpha.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -38,6 +38,18 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/LnfolBYb/cloth-config-12.0.109-fabric.jar"
             ],
             "fileSize": 1159520
+        },
+        {
+            "path": "mods/Controlify-1.7.0-beta.2+1.20.jar",
+            "hashes": {
+                "sha1": "7e29c9d9d3231b9b0a964d14c15be777376a7459",
+                "sha512": "333059cdbd4eb8db86dedb44ddd711fb27adfde5c39274b37798be58b812bcc96f9686dfec70e2cb3c9649704aa191cd8a318925fa23b210d557b45bf2fb1c37"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/QPb34aQS/Controlify-1.7.0-beta.2%2B1.20.jar",
+                "https://github.com/isXander/Controlify/releases/download/1.7.0-beta.2%2B1.20/Controlify-1.7.0-beta.2%2B1.20.jar"
+            ],
+            "fileSize": 2055220
         },
         {
             "path": "mods/dynamic-fps-3.2.0+minecraft-1.20.0.jar",
@@ -304,15 +316,15 @@
             "fileSize": 516122
         },
         {
-            "path": "mods/modmenu-8.0.0-beta.2.jar",
+            "path": "mods/modmenu-8.0.0.jar",
             "hashes": {
-                "sha1": "bd249640216551c9f62f2ec3a1fdbcd94b001af4",
-                "sha512": "4734fb036dc039c3d5ef253f01cd08fc5ac3354d7b3c803072bd29587a7e8a6d7d1cd9feb2b3737153b4a24d28a5df0df68d81eed59fcc1bb4995ea1c096822f"
+                "sha1": "6c781bc4ebf6b11296715c663bc1c7542e4eb630",
+                "sha512": "cc27c98c68127c42ab7c1272d156a8dce4f0c00bc6b7b0c8c302c27a01c97096a01409186281f7dc9b631f60587cac26c87898fa6df56a0169a9a0ced44eb344"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/sMAXpy0X/modmenu-8.0.0-beta.2.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/TwfjidT5/modmenu-8.0.0.jar"
             ],
-            "fileSize": 727336
+            "fileSize": 727276
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -336,6 +348,17 @@
                 "https://github.com/fxmorin/MoreCulling/releases/download/v0.19.0-1.20.x/moreculling-1.20.1-0.19.0.jar"
             ],
             "fileSize": 334034
+        },
+        {
+            "path": "mods/NoChatReports-FABRIC-1.20.2-v2.3.1.jar",
+            "hashes": {
+                "sha1": "cb77c14bfc458066eda3c7962c3286e0f973725e",
+                "sha512": "145944cb1993872f7634f9d73db15f8146646d92a6a4e11237b2386b88306fccf2405da259df1958b0f0ff92a6a11485778c4fe74ffa5e10e59d1a466214f513"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/xQyq2W5g/NoChatReports-FABRIC-1.20.2-v2.3.1.jar"
+            ],
+            "fileSize": 719016
         },
         {
             "path": "mods/puzzle-1.6.0+1.20.2.jar",
@@ -420,13 +443,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "4b3c263defd89be217bddec65543d0be15cd10f9",
-                "sha512": "1eef4eb345e9cb424e024adc59366f633cf20cbe14a0703564812b507cfb8ca118025445e96aeb715866f6c0651760a924de74652362ad26c96be8f440a508e8"
+                "sha1": "b05fed902d4e391c9f1c22c2f1a2d9634d9f512b",
+                "sha512": "cb278dee5398e4c788de7cf480a0247eb453179bd6d228ae9d69ea47f6bfa606eac4b00b8b44ae1ca048826f921c3c8430c52109f94a6e14f8c267d9d1a55e4b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/7zxgLdb2/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/JymGii0x/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 32592
+            "fileSize": 47483
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
