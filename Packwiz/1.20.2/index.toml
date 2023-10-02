@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "00107cde76c6a76c1fcb77af6b3312194af62d55e901892141b3382bbc594300"
+hash = "a4edaacce1fe82b1ac0e7c76f6db106d62aa087c18ba506212b7610054e947e2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "463866f69c26a02141fdfe6e2149aef25590c0c9fa60f9ba9934874afab97a70"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "c192955f98ef0a57f7b50e40220c5b4c0005e5c8859edc881ecee96fe95fc263"
+hash = "dd2a962974cfa5bb54d5fd3b04616f5b9283f02352ca8f3b02f7babdf68fc164"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -38,7 +34,7 @@ hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "eef3cca5127037fc337391ef49889a03e7102d6c2d1af866dcf007353b52324b"
+hash = "d5cc0bf222ff1fa9fcc1293a443a3ea340710c68db96261fbc8d0f42d8aec491"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -79,6 +75,10 @@ hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "c192955f98ef0a57f7b50e40220c5b4c0005e5c8859edc881ecee96fe95fc263"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -124,13 +124,23 @@ hash = "0a319d7c830b78544461a966d5cd6218b091ed8db29b2e842202af3eb1ac8fc2"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "2481588ce600e2a77400f48b193a44db3d2dee7a3d571db332ea70c1cd57375a"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "4ba7f21c3b00283b3420279c0ecb69b3072c2ea3cd3ff527c8ec2068dda896ea"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "458653fc6189fa2cd4b624e52c9a37a028a5e1f5b98df40e2e3321578b3a5e3c"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "da6ac98c41c8c294ed749c6514011f15d8abee8a518674d0953e1b5f18eabfa9"
+hash = "cf288276dffdb3d163b7f1420756382b4ef8cbb1bfbda9f1e4e685f2616a8736"
 metafile = true
 
 [[files]]
@@ -155,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "daf44f64081b0429108582f5bc60fcce51888a802cadff204f05104d954be529"
+hash = "674af9e910341712d07964a2bd892c08da97a98b8c67c0a54361dcf7fa7802a1"
 metafile = true
 
 [[files]]
@@ -240,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5e377b60e5af7130ba174a67239c2d43960231b1181bc0ad4e186fb15f9e29c5"
+hash = "5f049d167d260813ff3d4136e386d7997f46171e7fe54d60ce6ec2c04403bfbc"
 metafile = true
 
 [[files]]
@@ -290,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "464ec1b02db4123a22718b720ba7f12aee51b9e8b0fcdf5dab18ce779f960233"
+hash = "89833ed52e9ac2859a23180b4dbab392a76532053255870535fc23508430eb2a"
 metafile = true
 
 [[files]]
@@ -300,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "9d7c9ed44bfae7cc9295070866aa6e78c82358d28fc4ac4a2e1e490f133fb41c"
+hash = "008a46d443b9f09f5378dfba618fb7aea1fd32443cb18e91a4b34feff21b438f"
 metafile = true
 
 [[files]]
@@ -310,5 +320,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "50752a5d67f20d7a8e3b6a3561324e39d49b07409ea1405ac9f83295dac669ea"
+hash = "ae8f911259b2193a089cca03409653cb0c66a5e6a6eccc91a2f2f34963c88518"
 metafile = true
