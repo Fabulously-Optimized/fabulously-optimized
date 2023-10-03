@@ -7,17 +7,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 - Updated Continuity, Debugify, Dynamic FPS, Fabric API, ModernFix, YetAnotherConfigLib
 - Updated Chinese Simplified, Korean translations
-- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, MemoryLeakFix, OptiGUI, Zoomify
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI, Zoomify
 
 ### 5.4.0-alpha.4 (2023-09-27)
 
 - Updated Controlify, Mod Menu, No Chat Reports
-- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Debugify, MemoryLeakFix, OptiGUI, Zoomify
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, MemoryLeakFix, OptiGUI, Zoomify
 
 ### 5.4.0-alpha.3 (2023-09-25)
 
 - Updated Language Reload, Lithium, ModernFix, Puzzle, YetAnotherConfigLib
-- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Controlify, Debugify, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
 
 ### 5.4.0-alpha.2 (2023-09-23)
 
@@ -25,7 +25,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Removed duplicate Sodium
 - Hid the config buttons of mods whose config GUI currently crashes
   - Use the config file instead, for the time being
-- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
 
 ### 5.4.0-alpha.1 (2023-09-22)
 
