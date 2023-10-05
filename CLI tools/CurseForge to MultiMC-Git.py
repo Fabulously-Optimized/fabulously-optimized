@@ -5,7 +5,7 @@ from pathlib import Path
 cf_path = Path(Path.home(), "curseforge/minecraft/Instances/Fabulously Optimized/")
 mmc_path = Path(Path.home(), "Documents/MultiMC/instances/Fabulously Optimized/minecraft/")
 git_path = Path(Path.home(), "Documents/GitHub/fabulously-optimized/")
-minecraft_version = "1.20.1"
+minecraft_version = "1.20.2"
 packwiz_path = Path(git_path, "Packwiz", minecraft_version)
 
 

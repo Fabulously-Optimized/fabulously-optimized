@@ -45,7 +45,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  | &nbsp;&nbsp;✅ |  |  | Makes tree leaves faster without compromising on appearance |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Adds OptiFine's custom entity models (alpha) |
 | [Custom Fog](https://www.curseforge.com/minecraft/mc-mods/custom-fog) | [Setadokalo](https://www.curseforge.com/members/setadokalo) | &nbsp;&nbsp;✅ |  |  |  |  | Lets you change fog settings (distance, density, dimensions, etc.) |
-| [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's custom entity models (beta) |
+| [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's custom entity models |
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben_0](https://www.curseforge.com/members/traben_0) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's random and emissive mobs support |
 | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes) | [AMereBagatelle](https://www.curseforge.com/members/amerebagatelle) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds custom skybox support |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | [ramidzkh](https://www.curseforge.com/members/ramidzkh) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Lets you take a high-res screenshot with F9 |
@@ -55,7 +55,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/Pepper_Bell) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Fixes transparent gaps in held items |
 | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Adds OptiFine's "better grass" and "better snow" |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) | [LambdAurora](https://www.curseforge.com/members/LambdAurora) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper |
-| [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar) |  |  |  | &nbsp;&nbsp;✅ |  |  Fixes transparent gaps in items and blocks | 
+| [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  Fixes transparent gaps in items and blocks | 
 | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Stops rendering hidden sides of certain blocks |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Keeps player inventory in place when under potion effects |
 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds some minor OptiFine features like resource pack-provided splash screen |
@@ -65,7 +65,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Ensures all possible tooltips fit to screen |
 
-¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk [for extended testing](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/437).
+¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk because Farsight could not be distributed there.
 
 ## Functional
 | Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |

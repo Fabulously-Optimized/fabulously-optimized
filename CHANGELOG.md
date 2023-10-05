@@ -1,7 +1,57 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.2
+
+### 5.4.0-alpha.5 (2023-10-02)
+
+- Updated Continuity, Debugify, Dynamic FPS, Fabric API, ModernFix, YetAnotherConfigLib
+- Updated Chinese Simplified, Korean translations
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI, Zoomify
+
+### 5.4.0-alpha.4 (2023-09-27)
+
+- Updated Controlify, Mod Menu, No Chat Reports
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, MemoryLeakFix, OptiGUI, Zoomify
+
+### 5.4.0-alpha.3 (2023-09-25)
+
+- Updated Language Reload, Lithium, ModernFix, Puzzle, YetAnotherConfigLib
+- Temporarily removed AdvancementInfo, Animatica, AntiGhost, Capes, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+
+### 5.4.0-alpha.2 (2023-09-23)
+
+- Updated Fabric API, Indium, Entity Model Features, Entity Texture Features
+- Removed duplicate Sodium
+- Hid the config buttons of mods whose config GUI currently crashes
+  - Use the config file instead, for the time being
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+
+### 5.4.0-alpha.1 (2023-09-22)
+
+Now that's early!
+
+- Removed Farsight, Cupboard, Hold That Chunk - disparity, bugs and other concerns
+- Updated Cloth Config API, Dynamic FPS, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Reese's Sodium Options, Remove Reloading Screen, Sodium Extra, Sodium, Iris, Mod Menu
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Entity Model Features, Entity Texture Features, Enhanced Block Entities, Indium, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
+
 ## 1.20.1
+
+### 5.3.3 (2023-09-23)
+
+- Updated Dynamic FPS, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Indium
+
+### 5.3.2 (2023-09-20)
+
+- Updated Entity Model Features, Sodium, Iris
+  - EMF got an important performance fix, others got smaller bugfixes
+- Updated Italian, Polish, Vietnamese translations
+
+### 5.3.1 (2023-09-16)
+
+- Updated Entity Model Features, Cupboard, ImmediatelyFast
+  - Custom model support in resource packs should now be near-perfect!
+- Updated French and Ukrainian translations
 
 ### 5.3.0 (2023-09-11)
 
