@@ -27,7 +27,7 @@
     "gui.nochatreports.safety_status.realms": "Teiste sõnumid on Mojangile raporteeritavad. Mojang jälgib vestlust ka passiivselt, vältimaks rikkumisi.",
     "gui.nochatreports.safety_status.unknown": "Vestlusest raporteerimise olek pole hetkel teada. Oleku saamiseks saada üks sõnum.",
     "gui.nochatreports.safety_status.undefined": "Vestlusest raporteerimise olek on vea tõttu teadmata. Proovi mäng taaskäivitada.",
-    "gui.nochatreports.signing_status.allowed_realms": "Sinu sõnumid on Realmsis alati Mojangile raporteeritavad.",
+    "gui.nochatreports.signing_status.allowed_realms": "Sinu sõnumid on Realmsis alati Mojangile raporteeritavad. Mojang jälgib rikkumiste vältimiseks vestlust ka passiivselt.",
     "gui.nochatreports.signing_status.allowed": "Sinu sõnumid on sinu valikul Mojangile raporteeritavad.",
     "gui.nochatreports.signing_status.allowed_session": "Sinu sõnumid on Mojangile raporteeritavad. Et kontrollida, kas see on jätkuvalt vajalik, liitu serveriga uuesti.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Sinu sõnumid saavad olema Mojangile raporteeritavad kohe, kui oled ühe saatnud.",
@@ -40,5 +40,5 @@
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Sinu sõnumid on raporteeritavad vaid siis, kui server seda nõuab.",
     "gui.nochatreports.signing_required.contents": "See server nõuab kõigi mängijasõnumite Mojangile raporteeritavust. Mittenõustumisel saad sa siiski kasutada mistahes käsklusi, mis ei ole vestlusega seotud.\n\nNõustumiseks ja vestluse lubamiseks klõpsa \"Luba signeerimine\".",
     "chat.nochatreports.disabled.signing_requested": "See server nõuab, et mängijasõnumid oleksid Mojangile raporteeritavad. Kasuta hüpikut või vestluse kilbinuppu sellega nõustumiseks ja vestluse lubamiseks.",
-    "gui.nochatreports.realms_warning.contents": "Oluline teave Realmsi kohta:\n• Vestlussõnumid on Mojangile raporteeritavad.\n• Mojang jälgib rikkumiste vältimiseks vestlust passiivselt\n• Roppuste filter on vaikimisi lubatud. Täiskasvanud saavad lubada roppuste nägemist aadressil minecraft.net."
+    "gui.nochatreports.realms_warning.contents": "Oluline teave Realmsi kohta:\n• Vestlussõnumid on Mojangile raporteeritavad.\n• Mojang jälgib rikkumiste vältimiseks vestlust passiivselt.\n• Roppuste filter on vaikimisi lubatud. Täiskasvanud saavad lubada roppuste nägemist aadressil minecraft.net."
 }
