@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-alpha.1 (2023-10-06)
+
+Continuing from 5.4.0-alpha.5.
+
+- Updated ImmediatelyFast, Zoomify
+- Changes from 5.4.0
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: Borderless Mining, LambDynamicLights
+
 ### 5.4.0-alpha.5 (2023-10-02)
 
 - Updated Continuity, Debugify, Dynamic FPS, Fabric API, ModernFix, YetAnotherConfigLib
