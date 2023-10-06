@@ -37,6 +37,17 @@ Now that's early!
 
 ## 1.20.1
 
+### 5.4.0 (2023-10-06)
+
+What's that - 1.20.2? No, just a bigger update for 1.20.1, which means a version bump.
+FO now has full parity between CurseForge and Modrinth versions!
+
+- Removed Farsight, Cupboard, Hold That Chunk - disparity, bugs and other concerns (see #656 on GitHub)
+- Remove AntiGhost - actual issue (supposedly) fixed since 1.19, more networking benefits were done in vanilla 1.20, mod could never be automated, liability and sustainability concerns
+- Updated Continuity, Dynamic FPS, Fabric API, ImmediatelyFast, Language Reload, ModernFix, YetAnotherConfigLib
+- Disabled the FO-introduced Realms warning screen as it is no longer deemed necessary
+- Removed some old strings from MMH
+
 ### 5.3.3 (2023-09-23)
 
 - Updated Dynamic FPS, Entity Culling, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Indium
