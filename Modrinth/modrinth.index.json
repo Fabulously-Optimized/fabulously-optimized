@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.4.0-alpha.5",
+    "versionId": "5.5.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -223,16 +223,16 @@
             "fileSize": 49485
         },
         {
-            "path": "mods/ImmediatelyFast-1.2.5+1.20.2.jar",
+            "path": "mods/ImmediatelyFast-1.2.6+1.20.2.jar",
             "hashes": {
-                "sha1": "046be599b651a200b843642a1182124126f157e0",
-                "sha512": "3fd3df647939bb2cc0f9947ebd78db4e3c5858dc0f138550a8c92723dbbdb7bf103acb1cc5128ce0795fb3ef4210a8079f2167124c59e740d28e16022d295e2b"
+                "sha1": "13b4fd8f0214d36a01b2c874f0f88c9ddb2dd556",
+                "sha512": "cbb1933e5c8ed4ba7749bb29dabb2edb40a15793e437ac59c2a63a421e309c887f1d9715424520ba1faf0ad211350eeb411f7c067c2c6ed2294ff9b621379940"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/cswW9vJQ/ImmediatelyFast-1.2.5%2B1.20.2.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.5/ImmediatelyFast-1.2.5%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/mbeaDZtb/ImmediatelyFast-1.2.6%2B1.20.2.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.6/ImmediatelyFast-1.2.6%2B1.20.2.jar"
             ],
-            "fileSize": 625874
+            "fileSize": 657143
         },
         {
             "path": "mods/indium-1.0.27+mc1.20.1.jar",
@@ -368,7 +368,7 @@
             },
             "downloads": [
                 "https://cdn.modrinth.com/data/51shyZVL/versions/Bu5pCvCn/moreculling-1.20.1-0.19.0.jar",
-                "https://github.com/fxmorin/MoreCulling/releases/download/v0.19.0-1.20.x/moreculling-1.20.1-0.19.0.jar"
+                "https://github.com/FxMorin/MoreCulling/releases/download/v0.19.0-1.20.x/moreculling-1.20.1-0.19.0.jar"
             ],
             "fileSize": 334034
         },
@@ -464,15 +464,27 @@
             "fileSize": 17373
         },
         {
-            "path": "resourcepacks/Chat Reporting Helper.zip",
+            "path": "mods/Zoomify-2.12.0.jar",
             "hashes": {
-                "sha1": "f1b526f9bb34648824292151992146b389caeb61",
-                "sha512": "b43f5b19ae3cd54b9341847d22d9196237b9efa11891cbe874ec2162900ccffde291dcf487ba3266d05a6dfaddd682f081241772c42e4a8a7f7685112db2f3f4"
+                "sha1": "3c19eb8318cf29689e0e08c9d0abe1a2f46dd650",
+                "sha512": "e04cef21e62bcd100df8351e47939dfc62b6f2f74aadf8b6b6abf04e07d285ecf2eeab27445d315d0e655c8a2ac69f5298240d8db0baa6d2fcadc8421f05beb7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/gQYPMAdZ/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/QRQLkNPJ/Zoomify-2.12.0.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.12.0/Zoomify-2.12.0.jar"
             ],
-            "fileSize": 48122
+            "fileSize": 1038997
+        },
+        {
+            "path": "resourcepacks/Chat Reporting Helper.zip",
+            "hashes": {
+                "sha1": "97247137cb6ecbaa246062970e63e0c1c3a455c8",
+                "sha512": "0de5642b05494984e312c638c99f73983fdeeae42a3d0ddc5095efe146db46c7e4d49128ddc4f2a77f8c89c9819c303ec7d1ba3e350dd09bc5a433c458c1b36b"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/ow6CfFvU/Chat%20Reporting%20Helper.zip"
+            ],
+            "fileSize": 48188
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
