@@ -113,8 +113,8 @@ Mods that are usually not included in the latest modpack (may be on legacy or be
 
 | Name | Author | Alternative for | Description |
 |---|---|---|---|
-| [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger) | [shedaniel](https://www.curseforge.com/members/shedaniel/) | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | Makes advancements larger, but has no filters and maybe less datapack/mod compat |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust/) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the beds render faster |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) | A slightly less compatible custom entity models mod |
 | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) | [isXander](https://www.curseforge.com/members/xanderisdev) | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | Makes only the leaves cull faster |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/pepper_bell/) | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) | Uses a different, potentially more intensive method for fixing models |
+| [MidnightControls](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify)  | A controller support mod with slightly different features |

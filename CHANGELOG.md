@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-alpha.2 (2023-10-08)
+
+- Added Better Beds - a replacement for EBE while it is not yet updated
+- Updated Fabric API
+- Updated Vietnamese, Chinese Traditional, Korean translations
+- Added a nice error message for instances that may accidentally upgrade with Hold That Chunk still present
+- Updated alternative mod list
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: Borderless Mining, LambDynamicLights
+
 ### 5.5.0-alpha.1 (2023-10-06)
 
 Continuing from 5.4.0-alpha.5.

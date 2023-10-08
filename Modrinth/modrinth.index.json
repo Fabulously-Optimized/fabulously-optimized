@@ -1,10 +1,21 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.5.0-alpha.1",
+    "versionId": "5.5.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
+        {
+            "path": "mods/betterbeds-1.3.0-1.19.3.jar",
+            "hashes": {
+                "sha1": "be8020ab06b679bb33f93a7e9ade8a783985eab0",
+                "sha512": "47c9237393b83c5eee2c82b48fefc82bf4ff932161e78fac0318f52cfc33615b19a0a7e5cacfecf2ef35d603da5af9c69bdaf365db4de1eb1aa90aae647d18f7"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar"
+            ],
+            "fileSize": 50218
+        },
         {
             "path": "mods/bettermounthud-1.2.2.jar",
             "hashes": {
@@ -132,15 +143,15 @@
             "fileSize": 459111
         },
         {
-            "path": "mods/fabric-api-0.89.3+1.20.2.jar",
+            "path": "mods/fabric-api-0.90.0+1.20.2.jar",
             "hashes": {
-                "sha1": "de8d59b597ee5bbf1434e495c0cbc3772b1a414a",
-                "sha512": "7d3b3a7f1c63426d819ff427563569381181c2f1335714176e94feb3359dd1c1b3e4c8c5b6d3d5fea69541a22ac0caead8ff6dbde43bf35aa73883a14fc2e046"
+                "sha1": "57f3a073dc52365cb6f9b81dc360d1cd3a6c7cc7",
+                "sha512": "196efbe20a2097e44521f6d314e7a6bda4f5494d02de770e27838c9e0da92b1501487c51c5c28c65a8882e1940f239e196176c359ed5e1af7aa4830d97246148"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Hi8quJUM/fabric-api-0.89.3%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Hk8zAzIB/fabric-api-0.90.0%2B1.20.2.jar"
             ],
-            "fileSize": 2084853
+            "fileSize": 2085125
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.10+kotlin.1.9.10.jar",
@@ -478,13 +489,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "97247137cb6ecbaa246062970e63e0c1c3a455c8",
-                "sha512": "0de5642b05494984e312c638c99f73983fdeeae42a3d0ddc5095efe146db46c7e4d49128ddc4f2a77f8c89c9819c303ec7d1ba3e350dd09bc5a433c458c1b36b"
+                "sha1": "c89855a5cca442ef4829673fadbad1ce7a8060c6",
+                "sha512": "8c099493bff688c90d1ef34035126d58bc55acc42e73a82b35c9f69810ffc093f93dc133ac9a2925d1c093399e6d25371824360923e9c7023d5446a8877ce83d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/ow6CfFvU/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/quDOG96q/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 48188
+            "fileSize": 48207
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -500,13 +511,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "62ed41f6029339bd6e19fd6ba3c27f08f1ae0570",
-                "sha512": "3ffa73c1312581a04d6366d8beda05d64fb168e35bc5208c477bdf3fb64b2d33caa33a01022ec0725d67ae478423f0e25ac9db26690c7ef136be4e913d63f96a"
+                "sha1": "d1c5c752e945411325ad05e041615fbff3bdbf46",
+                "sha512": "f345ce9605c9c65fa3ed27a46da8e4c37ee8d65041b67b1e2414b4f4e443946bbef02fc5a026672ea662b19621dbc9cb5638b98387901816cb1f37606c3f76c4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/t0smQMux/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/hJtGlWlj/SodiumTranslations.zip"
             ],
-            "fileSize": 164771
+            "fileSize": 164737
         }
     ],
     "dependencies": {
