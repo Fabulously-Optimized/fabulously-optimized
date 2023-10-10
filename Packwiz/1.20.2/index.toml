@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a4edaacce1fe82b1ac0e7c76f6db106d62aa087c18ba506212b7610054e947e2"
+hash = "b02f1bed024225894667ef39b312e98c1dbef68daf3f4f0d9e896d2be68d3822"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dd2a962974cfa5bb54d5fd3b04616f5b9283f02352ca8f3b02f7babdf68fc164"
+hash = "f969960c215edd375d43796cbe77da2cb75d87e4d761de138627b930b265151b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bfeb0adb550b349b845bf0c1ce2e04d96a6adb0399d05d764c161aceeb99f730"
+hash = "3726397a0653de32af2af47d736d8d13b05b55f30c059cc9656757979a6c8b25"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -58,7 +58,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "803ff4e47c28c30ff514ec5b3f35509f2e94f51ff649e882386b761235dbd06a"
+hash = "e9c780a3548faea77d7230f83a97497cf30ae5148d1855c632310f6fb69a5cec"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -94,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
+hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -106,7 +106,12 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "38b62922e546b8ecb5dbfe19ee937ea6da707b3a2dca5b2189efbd7fbf817ff4"
+hash = "e027f04dedaed010438f22d7e1d5ce9a357ce673ee72aef1f29f4e952a75ee70"
+
+[[files]]
+file = "mods/betterbeds.pw.toml"
+hash = "e32d39231226295367d30ab01e9a542b1ae3644dc2b38e05f005c37cf10d0bce"
+metafile = true
 
 [[files]]
 file = "mods/bettermounthud.pw.toml"
@@ -165,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "674af9e910341712d07964a2bd892c08da97a98b8c67c0a54361dcf7fa7802a1"
+hash = "3b83fe74a07af53b4f0bc3d6359dabea9e099505d03b6ee2be6cbff9ed7e4ba9"
 metafile = true
 
 [[files]]
@@ -205,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b5c304a735e8cb38e0ab6aa8f7af2886d7d3edb28632557a29c138eb345b45b3"
+hash = "e4f2d24cf50fbc3e0edbed72881b7b0fd154bf9cc4d5f8d1b388f1af10f730b3"
 metafile = true
 
 [[files]]
@@ -309,8 +314,13 @@ hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "10f38e5987b54c59e5d5d5045a8b48d108a297ce29fc3b8d6de1564b2e3e70bc"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "008a46d443b9f09f5378dfba618fb7aea1fd32443cb18e91a4b34feff21b438f"
+hash = "a9d325d82f0136726b4e8d399a50042f286edb5044ee71fbdddd34cf408a659e"
 metafile = true
 
 [[files]]
@@ -320,5 +330,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "ae8f911259b2193a089cca03409653cb0c66a5e6a6eccc91a2f2f34963c88518"
+hash = "6031124daba2b737f030da773ed6937f93a321eabe62857c7028531af10fb9bc"
 metafile = true

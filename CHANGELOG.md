@@ -3,6 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-alpha.2 (2023-10-08)
+
+- Added Better Beds - a replacement for EBE while it is not yet updated
+- Updated Fabric API
+- Updated Vietnamese, Chinese Traditional, Korean translations
+- Added a nice error message for instances that may accidentally upgrade with Hold That Chunk still present
+- Updated alternative mod list
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: Borderless Mining, LambDynamicLights
+
+### 5.5.0-alpha.1 (2023-10-06)
+
+Continuing from 5.4.0-alpha.5.
+
+- Updated ImmediatelyFast, Zoomify
+- Changes from 5.4.0
+- Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: Borderless Mining, LambDynamicLights
+
 ### 5.4.0-alpha.5 (2023-10-02)
 
 - Updated Continuity, Debugify, Dynamic FPS, Fabric API, ModernFix, YetAnotherConfigLib
@@ -36,6 +55,17 @@ Now that's early!
 - Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Entity Model Features, Entity Texture Features, Enhanced Block Entities, Indium, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
 
 ## 1.20.1
+
+### 5.4.0 (2023-10-06)
+
+What's that - 1.20.2? No, just a bigger update for 1.20.1, which means a version bump.
+FO now has full parity between CurseForge and Modrinth versions!
+
+- Removed Farsight, Cupboard, Hold That Chunk - disparity, bugs and other concerns (see #656 on GitHub)
+- Removed AntiGhost - actual issue (supposedly) fixed since 1.19, more networking benefits were done in vanilla 1.20, mod could never be automated, liability and sustainability concerns
+- Updated Continuity, Dynamic FPS, Fabric API, ImmediatelyFast, Language Reload, ModernFix, YetAnotherConfigLib
+- Disabled the FO-introduced Realms warning screen as it is no longer deemed necessary
+- Removed some old strings from MMH
 
 ### 5.3.3 (2023-09-23)
 
