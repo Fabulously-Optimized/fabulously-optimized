@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b02f1bed024225894667ef39b312e98c1dbef68daf3f4f0d9e896d2be68d3822"
+hash = "f88a05c347d4032940dbfc464d775d8a80d5cf2c995c7041490b3bf7187f7529"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f969960c215edd375d43796cbe77da2cb75d87e4d761de138627b930b265151b"
+hash = "06647a641dff03c984ab4144cdcf45cdbe7204250f4644b349e2703e5cd2896f"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "b7a85711335dea8c5da3a3b25890f7539463bc92347124ed16fc583d7a0137a8"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -77,10 +81,6 @@ file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "c192955f98ef0a57f7b50e40220c5b4c0005e5c8859edc881ecee96fe95fc263"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
@@ -106,7 +106,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "e027f04dedaed010438f22d7e1d5ce9a357ce673ee72aef1f29f4e952a75ee70"
+hash = "bb7469629c49e2275a9bcdcf168879253fb6cd639df12f29325e460ffab9366e"
 
 [[files]]
 file = "mods/betterbeds.pw.toml"
@@ -120,7 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/borderlessmining.pw.toml"
-hash = "9ff8f4849fa3f67c9f4793b41f4104d28fd8927d2644a151e85f4da3d2ed761d"
+hash = "5a556c11e63e10346fc83a280dfeb6835c58baf7b15bf763b43e6d43e33a8e96"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
 metafile = true
 
 [[files]]
@@ -255,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5f049d167d260813ff3d4136e386d7997f46171e7fe54d60ce6ec2c04403bfbc"
+hash = "e230d0cb61422ee51b17856ef3d6da42fcdc240b5246884f1ccf2110d125cd3f"
 metafile = true
 
 [[files]]
@@ -320,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "a9d325d82f0136726b4e8d399a50042f286edb5044ee71fbdddd34cf408a659e"
+hash = "7a1c2d3ce56b4eb6f43ef2bc544e9f65db4732113d07f5d97d13cfe83dafa9f7"
 metafile = true
 
 [[files]]

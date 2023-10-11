@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.5.0-alpha.2",
+    "versionId": "5.5.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -28,16 +28,28 @@
             "fileSize": 21587
         },
         {
-            "path": "mods/borderless-mining-1.1.8+1.20.1.jar",
+            "path": "mods/borderless-mining-1.1.9+1.20.2.jar",
             "hashes": {
-                "sha1": "dbdb8a0600679f3c76480ae5d0995e2334773ce3",
-                "sha512": "ca30d3fea6cae4c206789d7461edeedfb294a96e5eaebf60075baf3326e1021979cd94e29ade9096f25bfeb8cb36b6c6659d480ad24b1572c0c79efc6ee5e420"
+                "sha1": "cf26d4615041f2db6df6b6906c5475fac05030e0",
+                "sha512": "8b58ab2c2ada9f8267aaf127ba7886c3fa8e915194e95c187fb52c11bb3c0a63d6c6455fc14e5bba2694c848e09c426350b3b00a2267dd0248e9ce670fe2e70a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/lhrW53q7/borderless-mining-1.1.8%2B1.20.1.jar",
-                "https://github.com/comp500/BorderlessMining/releases/download/1.1.8%2B1.20.1/borderless-mining-1.1.8%2B1.20.1.jar"
+                "https://cdn.modrinth.com/data/kYq5qkSL/versions/r2hHx4zB/borderless-mining-1.1.9%2B1.20.2.jar",
+                "https://github.com/comp500/BorderlessMining/releases/download/1.1.9%2B1.20.2/borderless-mining-1.1.9%2B1.20.2.jar"
             ],
-            "fileSize": 118295
+            "fileSize": 121765
+        },
+        {
+            "path": "mods/capes-1.5.3+1.20.2-fabric.jar",
+            "hashes": {
+                "sha1": "c1a62a847753d9ae039bff35050326a081d2e500",
+                "sha512": "385be9c93aa4d4ed4e8225c9a1ca6c4dc93ed0dfd0d645b3760b7e4bf6288d7bc0d5cbe256c5faffc2b27e9db6905612b7153f56bcc463abfe9e2c66ec9c0b34"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/dEq1ncBU/capes-1.5.3%2B1.20.2-fabric.jar",
+                "https://github.com/CaelTheColher/Capes/releases/download/fabric-1.5.3%2B1.20.2/capes-1.5.3%2B1.20.2-fabric.jar"
+            ],
+            "fileSize": 209297
         },
         {
             "path": "mods/cloth-config-12.0.109-fabric.jar",
@@ -339,15 +351,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.7.5+mc1.20.2.jar",
+            "path": "mods/modernfix-fabric-5.8.1+mc1.20.2.jar",
             "hashes": {
-                "sha1": "c675e92a1f99d94792f15119cfcdfa28be56f8b3",
-                "sha512": "2d6cd93ba581f48ee588aa3030eb5f79d25a8e82e9522d59d4cbbbd1601abe8cd577c2ccec28c946291ccd20cbccbe2bbf4bfc43404c5161e235842fc61de04b"
+                "sha1": "c7706febd46e37d9c6b04ee057875bbefc99efc9",
+                "sha512": "4ff35db3f997cbe54580db4bf73df92095496dae817952d9cba7ad7c03a5894b3d63248ff1dbd77135c97bcb4de2a03cfc98e23e6baf1d766d13f8a1c7300f9c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/ADyFF3WV/modernfix-fabric-5.7.5%2Bmc1.20.2.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/5YONh7M3/modernfix-fabric-5.8.1%2Bmc1.20.2.jar"
             ],
-            "fileSize": 525666
+            "fileSize": 529808
         },
         {
             "path": "mods/modmenu-8.0.0.jar",
@@ -489,13 +501,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "c89855a5cca442ef4829673fadbad1ce7a8060c6",
-                "sha512": "8c099493bff688c90d1ef34035126d58bc55acc42e73a82b35c9f69810ffc093f93dc133ac9a2925d1c093399e6d25371824360923e9c7023d5446a8877ce83d"
+                "sha1": "18359c0e71431dc6019d961d77bfd3b974b77d3b",
+                "sha512": "85246570c772bd2ca0068f22eb622f595bc56439814c14a869a4f70d8a30597f9f515d7b81de30ab2a316240dde89dc86b2b9feac2711840c687e6868b8c96f1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/quDOG96q/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/sKEVyFr2/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 48207
+            "fileSize": 48281
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -522,6 +534,6 @@
     ],
     "dependencies": {
         "minecraft": "1.20.2",
-        "fabric-loader": "0.14.22"
+        "fabric-loader": "0.14.23"
     }
 }
