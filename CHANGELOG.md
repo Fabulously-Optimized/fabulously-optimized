@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-alpha.3 (2023-10-11)
+
+- Updated Borderless Mining, Capes, ModernFix
+- Updated Romanian and Portuguese (Brazil) translations
+- Updated and enforced Fabric Loader 0.14.23
+  - Better warning screens in case of mod conflicts! 
+- Temporarily removed AdvancementInfo, Animatica, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: LambDynamicLights
+
 ### 5.5.0-alpha.2 (2023-10-08)
 
 - Added Better Beds - a replacement for EBE while it is not yet updated
