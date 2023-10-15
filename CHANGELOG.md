@@ -65,6 +65,12 @@ Now that's early!
 
 ## 1.20.1
 
+### 5.4.1 (2023-10-06)
+
+- Updated Iris, Fabric API, FabricSkyboxes Interop, ModernFix
+- Updated Fabric Loader to 0.14.23
+  - Better warning screens in case of mod conflicts! 
+
 ### 5.4.0 (2023-10-06)
 
 What's that - 1.20.2? No, just a bigger update for 1.20.1, which means a version bump.
