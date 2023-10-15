@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-alpha.4 (2023-10-15)
+
+- Updated FabricSkyboxes Interop, Iris
+- Temporarily removed AdvancementInfo, Animatica, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: LambDynamicLights
+
 ### 5.5.0-alpha.3 (2023-10-11)
 
 - Updated Borderless Mining, Capes, ModernFix
@@ -65,7 +71,7 @@ Now that's early!
 
 ## 1.20.1
 
-### 5.4.1 (2023-10-06)
+### 5.4.1 (2023-10-15)
 
 - Updated Iris, Fabric API, FabricSkyboxes Interop, ModernFix
 - Updated Fabric Loader to 0.14.23

@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f88a05c347d4032940dbfc464d775d8a80d5cf2c995c7041490b3bf7187f7529"
+hash = "364e801a3bf45950809f0df4b072f75eded96917a8120af2d780b90588790ab2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "06647a641dff03c984ab4144cdcf45cdbe7204250f4644b349e2703e5cd2896f"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "b7a85711335dea8c5da3a3b25890f7539463bc92347124ed16fc583d7a0137a8"
+hash = "9715837c08d34ef53b23208a5116787853d7d2eb2b3a6e29d65d848dd2424369"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -79,6 +75,10 @@ hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "b7a85711335dea8c5da3a3b25890f7539463bc92347124ed16fc583d7a0137a8"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsb-interop.pw.toml"
-hash = "61a9fe25a409ba6067e93592eb68e5a6b38d97785306d0bccaff090d8f488a70"
+hash = "31e3db7c895d5a4bcbaf68c196036b6b345264ab18ed74437a46819345ea4e01"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a2ad5bc00f9c50bd17babf8e4a8649564c2fe21817d00843aa7aa84766521ece"
+hash = "3925d6c07bb9946583454dc4491523990a7c2100cff9d4ffb7acfae4837f0d13"
 metafile = true
 
 [[files]]
