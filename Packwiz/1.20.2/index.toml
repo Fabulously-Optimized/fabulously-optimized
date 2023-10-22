@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "364e801a3bf45950809f0df4b072f75eded96917a8120af2d780b90588790ab2"
+hash = "06d33dd693f14e84dfdb4ce03330e9b6ffaa3ccaf297cf12f55db948058e664c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9715837c08d34ef53b23208a5116787853d7d2eb2b3a6e29d65d848dd2424369"
+hash = "c8b1a1ab6e9be8c7457a9fc9e83791a80634b9b48b492df7b46a77683a99cf7e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -49,6 +49,10 @@ file = "config/yosbr/config/fabric_loader_dependencies.json"
 hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
 
 [[files]]
+file = "config/yosbr/config/fabrishot.properties"
+hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
+
+[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
@@ -85,6 +89,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b2ff60a305956fb2a381c6c61d960d2b220d83d9c7737e2ac4ab34a1f604af56"
 
 [[files]]
+file = "config/yosbr/config/PaginatedAdvancements.json5"
+hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
@@ -106,7 +114,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "bb7469629c49e2275a9bcdcf168879253fb6cd639df12f29325e460ffab9366e"
+hash = "781ae6eb961f2c00e44db233f59670ada436dd525e9dab486ff1959e80a75a0a"
 
 [[files]]
 file = "mods/betterbeds.pw.toml"
@@ -284,6 +292,11 @@ hash = "d9c8353976b3543ac685f84582049df9a589bcddb85aa116ff86b446bbd64629"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "b906de5364359c5753abd5d974e0e516b85c9eb52a7cb086221f213279e83e14"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "83bd85bd70d961f783039936a1c5c24ae6d5e91f28c3404686f555553ae0e0f7"
 metafile = true
@@ -325,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "7a1c2d3ce56b4eb6f43ef2bc544e9f65db4732113d07f5d97d13cfe83dafa9f7"
+hash = "513b7c2fe3e40565b99662cf6bdded425fee4271be3d044f185e9c123447033f"
 metafile = true
 
 [[files]]
@@ -335,5 +348,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "6031124daba2b737f030da773ed6937f93a321eabe62857c7028531af10fb9bc"
+hash = "68f35b30f1de13300839a8f17568effbc20b1b27a77e8e8c46d1985ac61fc985"
 metafile = true

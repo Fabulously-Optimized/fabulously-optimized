@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-beta.1 (2023-10-22)
+
+- Added Paginated Advancements - per your request, here is a more vanilla-looking advancement screen, with the same requirement info!
+  - How do you like it? Give feedback on GitHub #746
+  - Therefore, AdvancementInfo is considered "removed" (though it wasn't in the alpha in the first place)
+- Mod Menu Helper has new icons 🛠🔀 and better support for English variants
+- "Open to LAN" has been changed to "Open to Internet" to raise e4mc awareness
+- Fabrishot is now reminded in the pause menu and the image files mention "4K"
+- Updated Polish translation
+- Temporarily removed Animatica, CIT Resewn, (Enhanced Block Entities), MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: LambDynamicLights
+
 ### 5.5.0-alpha.4 (2023-10-15)
 
 - Updated FabricSkyboxes Interop, Iris

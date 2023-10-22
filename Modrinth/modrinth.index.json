@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.5.0-alpha.4",
+    "versionId": "5.5.0-beta.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -407,6 +407,17 @@
             "fileSize": 719016
         },
         {
+            "path": "mods/paginatedadvancements-2.4.1.jar",
+            "hashes": {
+                "sha1": "672e228c9d55c5e51d597427aa8044110bb37a09",
+                "sha512": "49cb1878c1836d764bf4e2ba7b95bf10ab52b6f282fee806d3b6b7ee16c7034410fb78027252e8a899607914e5a8e7d30ff310a192d242cd17459546e7b7c9ac"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/pJogNFap/versions/oXi6DwzD/paginatedadvancements-2.4.1.jar"
+            ],
+            "fileSize": 131166
+        },
+        {
             "path": "mods/puzzle-1.6.0+1.20.2.jar",
             "hashes": {
                 "sha1": "dfb0b32b72f86d751a063d2fcb6341f95968f589",
@@ -501,13 +512,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "18359c0e71431dc6019d961d77bfd3b974b77d3b",
-                "sha512": "85246570c772bd2ca0068f22eb622f595bc56439814c14a869a4f70d8a30597f9f515d7b81de30ab2a316240dde89dc86b2b9feac2711840c687e6868b8c96f1"
+                "sha1": "7567ba802e91bdea0a41ae699946045ab1518bd2",
+                "sha512": "1a8d39ca77188e4359929af59b52ce6b60d31ba8b2eab146ddd5f3f5e8ff9f9330dab2b10e429e4f522ce29d13415c372b81ce8b526c467c3ae701e5faa0ba6d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/sKEVyFr2/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/lqCTic2a/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 48281
+            "fileSize": 50288
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -523,13 +534,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "d1c5c752e945411325ad05e041615fbff3bdbf46",
-                "sha512": "f345ce9605c9c65fa3ed27a46da8e4c37ee8d65041b67b1e2414b4f4e443946bbef02fc5a026672ea662b19621dbc9cb5638b98387901816cb1f37606c3f76c4"
+                "sha1": "fbc9454ba8128a530cf77cdaf7b942cb968c91a4",
+                "sha512": "c0275d4f1cc6b097d7cfeaf44a5aa60b7d1f51993e65b966f33cb9024e3d716321bab48da2b8bc6f2047e8a2a13250e083686b9ce4c4d0a474ad540b3c0a5aac"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/hJtGlWlj/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/buNkqWOG/SodiumTranslations.zip"
             ],
-            "fileSize": 164737
+            "fileSize": 164722
         }
     ],
     "dependencies": {
