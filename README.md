@@ -67,6 +67,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
 By using this modpack, you agree to the following:
 
 * The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.
+  * The modpack supports controllers, whose usage may trigger anticheats on some servers due to unexpectedly smooth movement. Check server rules before using. 
 * This modpack disables the [third-party server disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
     *  [The "social interactions" screen](https://minecraft.wiki/w/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
