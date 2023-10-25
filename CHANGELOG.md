@@ -3,7 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-beta.2 (2023-10-25)
+
+Have you tried turning it off and on again?
+
+- Readded Animatica, CITResewn, OptiGUI
+  - These mods were _not_ updated right now, they were simply retested and found to be still working in 1.20.2. They probably weren't working in previous tests just because some dependencies needed updates.
+  - Known issue: OptiGUI villager GUIs look a bit wonky
+- Updated Fabric API, FerriteCore, Paginated Advancements
+- Updated Polish, Russian, Vietnamese, Chinese Traditional translations
+- Updated and enforced Fabric Loader 0.14.24
+- Fixed Hold That Chunk crash detection
+
+- Force-enabled: OptiGUI
+- Not yet available: (Enhanced Block Entities), MemoryLeakFix
+- Visual config temp. disabled: LambDynamicLights
+
 ### 5.5.0-beta.1 (2023-10-22)
+
+You _betta_ update!
 
 - Added Paginated Advancements - per your request, here is a more vanilla-looking advancement screen, with the same requirement info!
   - How do you like it? Give feedback on GitHub #746

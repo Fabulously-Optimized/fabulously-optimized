@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "984637c3b98e61c424b4cfa1015e1f44861d4a8896b544f3879882faa71705f8"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "06d33dd693f14e84dfdb4ce03330e9b6ffaa3ccaf297cf12f55db948058e664c"
+hash = "204f0c4ef6ecde29971dc94259c918b4bb062f26e0b4d78180d9bd7d3d890a5f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c8b1a1ab6e9be8c7457a9fc9e83791a80634b9b48b492df7b46a77683a99cf7e"
+hash = "63a97c8968c4a0825781c875ebf4d0bef6b7bac125f0c27791b348b1ac5d892e"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -25,10 +33,6 @@ file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
-
-[[files]]
 file = "config/yosbr/config/controlify.json"
 hash = "122efb712417e034281b2d1d431026569038f05d86fbf7df3b0f9b66e769d2e0"
 
@@ -39,10 +43,6 @@ hash = "d5cc0bf222ff1fa9fcc1293a443a3ea340710c68db96261fbc8d0f42d8aec491"
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
-
-[[files]]
-file = "config/yosbr/config/entity_texture_features.json"
-hash = "eefa86fa9a8df6eda5d39d3bbbf53138a44df71a01a24262c27584badea97d79"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
@@ -114,7 +114,12 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "781ae6eb961f2c00e44db233f59670ada436dd525e9dab486ff1959e80a75a0a"
+hash = "880ed47796f5efc51dc04076327b8df30553e796bab47f208e4af2f62a603ffc"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "65df17c363eed6e37080d134f548a22aa0b14a9fecf94d5045d5b451bdeb88f4"
+metafile = true
 
 [[files]]
 file = "mods/betterbeds.pw.toml"
@@ -134,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
+metafile = true
+
+[[files]]
+file = "mods/citresewn.pw.toml"
+hash = "2d15ca4433c2f72c9993abeb452efc16ec5a1b70be1fef99e998d6e9aa4dc2bd"
 metafile = true
 
 [[files]]
@@ -183,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3b83fe74a07af53b4f0bc3d6359dabea9e099505d03b6ee2be6cbff9ed7e4ba9"
+hash = "c9e0e5b30511b93a6dfbdbfe288dbd995271a57869cbe0ba7f4a34429caa6d37"
 metafile = true
 
 [[files]]
@@ -213,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "c895b10d9f5fda7098a2ca162639a850e9dfaeec43ff24fe09830f7491acc7c4"
+hash = "b7e46c064d700c2cc83158064ea77becc48afb4696a7c377b570ad963b7463ed"
 metafile = true
 
 [[files]]
@@ -292,8 +302,13 @@ hash = "d9c8353976b3543ac685f84582049df9a589bcddb85aa116ff86b446bbd64629"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "70ae3a41c953a21d879183e52706031cd25c9ebffbdff478d5d0cddb50ef656a"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "b906de5364359c5753abd5d974e0e516b85c9eb52a7cb086221f213279e83e14"
+hash = "da1a36a95cf65ff6b733b585e476d2a0ac2b874f1722e0a6ec01e907247aa15e"
 metafile = true
 
 [[files]]
@@ -338,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "513b7c2fe3e40565b99662cf6bdded425fee4271be3d044f185e9c123447033f"
+hash = "5b528a4df3e4083d846abecda4b463a06c99c5ac16ecfe3a4efbe6f2ead8406a"
 metafile = true
 
 [[files]]
