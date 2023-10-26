@@ -15,6 +15,8 @@ Have you tried turning it off and on again?
 - Updated and enforced Fabric Loader 0.14.24
 - Fixed Hold That Chunk crash detection
 
+.
+
 - Force-enabled: OptiGUI
 - Not yet available: (Enhanced Block Entities), MemoryLeakFix
 - Visual config temp. disabled: LambDynamicLights
