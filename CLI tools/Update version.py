@@ -2,9 +2,9 @@ import json
 from pathlib import Path
 
 
-curseforge_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
-title_screen_path = curseforge_path / "config/isxander-main-menu-credits.json"
-warning_path = curseforge_path / "config/fabric_loader_dependencies.json"
+mmc_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
+title_screen_path = mmc_path / "config/isxander-main-menu-credits.json"
+warning_path = mmc_path / "config/fabric_loader_dependencies.json"
 
 
 def load_json(path: Path):

@@ -4,7 +4,7 @@ import zipfile
 from pathlib import Path
 
 
-multimc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/"
+mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/"
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 output_path = Path.home() / "Desktop/"
 
@@ -36,7 +36,7 @@ def copy_to_archive(from_path: Path, to_path: str, archive_path: Path):
 version = "0.0.0"
 pattern = re.compile(r"\d+\.\d+\.\d+-?\w*\.?\d*")
 
-with open(multimc_path / "instance.cfg", "r") as file:
+with open(mmc_path / "instance.cfg", "r") as file:
     if match := pattern.search(file.read()):
         version = match.group()
 
@@ -53,14 +53,14 @@ copy_to_archive(
 )
 
 copy_file(
-    multimc_path / "mmc-pack.json",
+    mmc_path / "mmc-pack.json",
     git_path / "MultiMC/Fabulously Optimized x.y.z/mmc-pack.json",
     "MultiMC mmc-pack.json",
     "Git",
 )
 
 copy_file(
-    multimc_path / "pack.png",
+    mmc_path / "pack.png",
     git_path / "MultiMC/Fabulously Optimized x.y.z/pack.png",
     "MultiMC pack.png",
     "Git",
