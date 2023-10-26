@@ -2,9 +2,9 @@ import json
 from pathlib import Path
 
 
-cf_path = Path(Path.home(), "curseforge/minecraft/Instances/Fabulously Optimized/")
-title_screen_path = Path(cf_path, "config/isxander-main-menu-credits.json")
-warning_path = Path(cf_path, "config/fabric_loader_dependencies.json")
+curseforge_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
+title_screen_path = curseforge_path / "config/isxander-main-menu-credits.json"
+warning_path = curseforge_path / "config/fabric_loader_dependencies.json"
 
 
 def load_json(path: Path):
@@ -12,7 +12,7 @@ def load_json(path: Path):
         return json.load(f)
 
 
-def save_file(path: Path, obj) -> None:
+def save_file(path: Path, obj):
     with open(path, "w") as f:
         json.dump(obj, f, separators=(",", ":"))
 
