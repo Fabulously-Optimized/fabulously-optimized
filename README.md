@@ -53,6 +53,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
   * Accessibility screen can be accessed by pressing <kbd>←</kbd> <kbd>←</kbd> <kbd>Enter</kbd>.
   * Narrator can be directly enabled by pressing <kbd>Ctrl</kbd> + <kbd>B</kbd>.
 * Users can search for and select multiple languages
+  * User's native language is automatically applied when possible
   * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
   * Items have the original names on their tooltips for command usage purposes
 * Game controllers are supported
