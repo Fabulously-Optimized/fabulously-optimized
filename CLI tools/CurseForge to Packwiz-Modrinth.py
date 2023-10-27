@@ -30,10 +30,11 @@ packwiz_modrinth_export = False
 def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
     with ZipFile(from_zip, "r") as archive:
         if from_file in archive.namelist():
+            print(f"Copying {from_desc} to {to_desc}")
             archive.extract(from_file, to_path)
-            print("Copied " + from_desc + " to " + to_desc)
+            print(f"Copied {from_desc} to {to_desc}")
         else:
-            print("Skipped " + from_desc + " copying to " + to_desc + ", didn't exist")
+            print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
 
 def remove_from_archive(file_path, archive_path):
@@ -156,7 +157,7 @@ def main() -> int:
                         "Git",
                     )
                 os.replace(packwiz_path + "\\" + pack, os.path.expanduser("~/Desktop") + "\\" + pack)
-                print("Moved " + pack + " to desktop")
+                print(f"Moved {pack} to desktop")
         os.system(packwiz_exe_path + " refresh")
 
     return 0
