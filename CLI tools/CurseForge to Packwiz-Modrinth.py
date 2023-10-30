@@ -1,5 +1,6 @@
 import os
 import json
+from typing import IO
 from pathlib import Path
 from zipfile import ZipFile
 from shutil import unpack_archive
@@ -27,7 +28,7 @@ mmc_export_modrinth_export = True
 packwiz_modrinth_export = False
 
 
-def extract_file(from_zip, from_file, to_path, from_desc, to_desc) -> None:
+def extract_file(from_zip: str, from_file: str, to_path: str, from_desc: str, to_desc: str) -> None:
     with ZipFile(from_zip, "r") as archive:
         if from_file in archive.namelist():
             print(f"Copying {from_desc} to {to_desc}")
@@ -37,7 +38,7 @@ def extract_file(from_zip, from_file, to_path, from_desc, to_desc) -> None:
             print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
 
-def remove_from_archive(file_path, archive_path) -> None:
+def remove_from_archive(file_path: str, archive_path: str) -> None:
     files = []
 
     with ZipFile(archive_path) as archive:
@@ -50,13 +51,13 @@ def remove_from_archive(file_path, archive_path) -> None:
             archive.writestr(filename, content)
 
 
-def read_mod_meta(file_handle) -> dict:
+def read_mod_meta(file_handle: IO[bytes]) -> dict:
     with ZipFile(file_handle) as archive:
         data = archive.read("fabric.mod.json")
         return json.loads(data, strict=False)
 
 
-def remove_mod_from_archive(mod_name, archive_path) -> None:
+def remove_mod_from_archive(mod_name: str, archive_path: str) -> None:
     with ZipFile(archive_path) as archive:
         for zipinfo in archive.infolist():
             name = zipinfo.filename
@@ -93,30 +94,43 @@ def main():
             toml.dump(pack_toml, f)
 
         # Packwiz import
-        os.system(packwiz_exe_path + ' curseforge import "' + cf_zip_path + '"')
+        os.system(f'{packwiz_exe_path} curseforge import "{cf_zip_path}"')
         if hydrogen:
-            os.system(packwiz_exe_path + " remove hydrogen")
-            os.system(packwiz_exe_path + " mr install hydrogen")
+            os.system(f"{packwiz_exe_path} remove hydrogen")
+            os.system(f"{packwiz_exe_path} mr install hydrogen")
         if modrinth_overrides:
-            os.system(packwiz_exe_path + " remove entityculling")
-            os.system(packwiz_exe_path + " mr install entityculling")
+            os.system(f"{packwiz_exe_path} remove entityculling")
+            os.system(f"{packwiz_exe_path} mr install entityculling")
 
     elif refresh_only:
-        os.system(packwiz_exe_path + " refresh")
+        os.system(f"{packwiz_exe_path} refresh")
 
     # Copy fresh manifest/modlist to git
     if not is_legacy and not refresh_only:
         extract_file(cf_zip_path, "manifest.json", git_path + "CurseForge", "CurseForge manifest.json", "Git")
         extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
 
-    # Export packwiz pack via mmc-export method
+    # Export Packwiz pack via mmc-export method
     if mmc_export_packwiz_export and not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
         mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
         packwiz_config = git_path + "Packwiz\\mmc-export.toml"
 
-        cmd = f'mmc-export -i "{mmc_zip_path}" -f packwiz --modrinth-search loose -o "{mmc_zip_root}" -c "{packwiz_config}" -v {pack_version} --provider-priority Modrinth CurseForge Other --scheme mmc_export_packwiz_output'
-        os.system(cmd)
+        os.system(
+            " ".join(
+                (
+                    "mmc-export",
+                    f'-i "{mmc_zip_path}"',
+                    "-f packwiz",
+                    "--modrinth-search loose",
+                    f'-o "{mmc_zip_root}"',
+                    f'-c "{packwiz_config}"',
+                    f"-v {pack_version}",
+                    "--provider-priority Modrinth CurseForge Other",
+                    "--scheme mmc_export_packwiz_output",
+                )
+            )
+        )
 
         packwiz_zip_path = Path(mmc_zip_root) / "mmc_export_packwiz_output.zip"
         packwiz_out_path = Path(git_path) / "Packwiz" / minecraft_version
@@ -131,8 +145,20 @@ def main():
         mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
         modrinth_config = git_path + "Modrinth\\mmc-export.toml"
 
-        cmd = f'mmc-export -i "{mmc_zip_path}" -f Modrinth --modrinth-search loose -o "{mmc_zip_root}" -c "{modrinth_config}" -v {pack_version} --scheme {"{name}-{version}"}'
-        os.system(cmd)
+        os.system(
+            " ".join(
+                (
+                    "mmc-export",
+                    f'-i "{mmc_zip_path}"',
+                    "-f Modrinth",
+                    "--modrinth-search loose",
+                    f'-o "{mmc_zip_root}"',
+                    f'-c "{modrinth_config}"',
+                    f"-v {pack_version}",
+                    f'--scheme {"{name}-{version}"}',
+                )
+            )
+        )
 
         if not is_legacy:
             extract_file(
@@ -143,9 +169,9 @@ def main():
                 "Git",
             )
 
-    # Export Modrinth pack and manifest via packwiz method
+    # Export Modrinth pack and manifest via Packwiz method
     if packwiz_modrinth_export:
-        os.system(packwiz_exe_path + " modrinth export")
+        os.system(f"{packwiz_exe_path} modrinth export")
         for pack in os.listdir(packwiz_path):
             if pack.endswith(".mrpack"):
                 if not is_legacy:
@@ -158,7 +184,7 @@ def main():
                     )
                 os.replace(packwiz_path + "\\" + pack, os.path.expanduser("~/Desktop") + "\\" + pack)
                 print(f"Moved {pack} to desktop")
-        os.system(packwiz_exe_path + " refresh")
+        os.system(f"{packwiz_exe_path} refresh")
 
 
 if __name__ == "__main__":
