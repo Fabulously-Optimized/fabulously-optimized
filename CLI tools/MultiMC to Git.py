@@ -9,7 +9,7 @@ git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 output_path = Path.home() / "Desktop/"
 
 
-def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str):
+def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str) -> None:
     if from_path.is_file():
         print(f"Copying {from_desc} to {to_desc}")
         shutil.copy2(from_path, to_path)
@@ -18,7 +18,7 @@ def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str):
         print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
 
-def copy_to_archive(from_path: Path, to_path: str, archive_path: Path):
+def copy_to_archive(from_path: Path, to_path: str, archive_path: Path) -> None:
     files = []
 
     with zipfile.ZipFile(archive_path, "r") as archive:

@@ -9,7 +9,7 @@ cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
 mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/minecraft/"
 
 
-def remove_dir(path: Path, description: str):
+def remove_dir(path: Path, description: str) -> None:
     if path.is_dir():
         print(f"Deleting {description}")
         shutil.rmtree(path)
@@ -18,7 +18,7 @@ def remove_dir(path: Path, description: str):
         print(f"Skipped {description} deletion, didn't exist")
 
 
-def remove_file(path: Path, description: str):
+def remove_file(path: Path, description: str) -> None:
     if path.is_file():
         print(f"Deleting {description}")
         path.unlink()
@@ -27,7 +27,7 @@ def remove_file(path: Path, description: str):
         print(f"Skipped {description} deletion, didn't exist")
 
 
-def copy_dir(from_path: Path, to_path: Path, from_desc: str, to_desc: str):
+def copy_dir(from_path: Path, to_path: Path, from_desc: str, to_desc: str) -> None:
     if from_path.is_dir():
         print(f"Copying {from_desc} to {to_desc}")
         shutil.copytree(from_path, to_path, dirs_exist_ok=True)
@@ -36,7 +36,7 @@ def copy_dir(from_path: Path, to_path: Path, from_desc: str, to_desc: str):
         print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
 
-def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str):
+def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str) -> None:
     if from_path.is_file():
         print(f"Copying {from_desc} to {to_desc}")
         shutil.copy2(from_path, to_path)

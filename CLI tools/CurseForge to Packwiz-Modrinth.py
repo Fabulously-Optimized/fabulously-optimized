@@ -27,7 +27,7 @@ mmc_export_modrinth_export = True
 packwiz_modrinth_export = False
 
 
-def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
+def extract_file(from_zip, from_file, to_path, from_desc, to_desc) -> None:
     with ZipFile(from_zip, "r") as archive:
         if from_file in archive.namelist():
             print(f"Copying {from_desc} to {to_desc}")
@@ -37,7 +37,7 @@ def extract_file(from_zip, from_file, to_path, from_desc, to_desc):
             print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
 
-def remove_from_archive(file_path, archive_path):
+def remove_from_archive(file_path, archive_path) -> None:
     files = []
 
     with ZipFile(archive_path) as archive:
@@ -50,13 +50,13 @@ def remove_from_archive(file_path, archive_path):
             archive.writestr(filename, content)
 
 
-def read_mod_meta(file_handle):
+def read_mod_meta(file_handle) -> dict:
     with ZipFile(file_handle) as archive:
         data = archive.read("fabric.mod.json")
         return json.loads(data, strict=False)
 
 
-def remove_mod_from_archive(mod_name, archive_path):
+def remove_mod_from_archive(mod_name, archive_path) -> None:
     with ZipFile(archive_path) as archive:
         for zipinfo in archive.infolist():
             name = zipinfo.filename
@@ -72,7 +72,7 @@ def remove_mod_from_archive(mod_name, archive_path):
                     return
 
 
-def main() -> int:
+def main():
     mod_files = os.listdir(mods_path)
     if not refresh_only:
         for item in mod_files:
@@ -159,8 +159,6 @@ def main() -> int:
                 os.replace(packwiz_path + "\\" + pack, os.path.expanduser("~/Desktop") + "\\" + pack)
                 print(f"Moved {pack} to desktop")
         os.system(packwiz_exe_path + " refresh")
-
-    return 0
 
 
 if __name__ == "__main__":

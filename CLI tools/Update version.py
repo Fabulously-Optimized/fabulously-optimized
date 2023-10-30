@@ -7,12 +7,12 @@ title_screen_path = mmc_path / "config/isxander-main-menu-credits.json"
 warning_path = mmc_path / "config/fabric_loader_dependencies.json"
 
 
-def load_json(path: Path):
+def load_json(path: Path) -> dict:
     with open(path, "r") as f:
         return json.load(f)
 
 
-def save_file(path: Path, obj):
+def save_file(path: Path, obj) -> None:
     with open(path, "w") as f:
         json.dump(obj, f, separators=(",", ":"))
 
