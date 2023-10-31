@@ -1,5 +1,6 @@
 import os
 import json
+import shlex
 from typing import IO
 from pathlib import Path
 from zipfile import ZipFile
@@ -117,17 +118,17 @@ def main():
         packwiz_config = git_path + "Packwiz\\mmc-export.toml"
 
         os.system(
-            " ".join(
+            shlex.join(
                 (
                     "mmc-export",
-                    f'-i "{mmc_zip_path}"',
-                    "-f packwiz",
-                    "--modrinth-search loose",
-                    f'-o "{mmc_zip_root}"',
-                    f'-c "{packwiz_config}"',
-                    f"-v {pack_version}",
-                    "--provider-priority Modrinth CurseForge Other",
-                    "--scheme mmc_export_packwiz_output",
+                    "-i", mmc_zip_path,
+                    "-f", "packwiz",
+                    "--modrinth-search", "loose",
+                    "-o", mmc_zip_root,
+                    "-c", packwiz_config,
+                    "-v", pack_version,
+                    "--provider-priority", "Modrinth", "CurseForge", "Other",
+                    "--scheme", "mmc_export_packwiz_output",
                 )
             )
         )
@@ -146,16 +147,16 @@ def main():
         modrinth_config = git_path + "Modrinth\\mmc-export.toml"
 
         os.system(
-            " ".join(
+            shlex.join(
                 (
                     "mmc-export",
-                    f'-i "{mmc_zip_path}"',
-                    "-f Modrinth",
-                    "--modrinth-search loose",
-                    f'-o "{mmc_zip_root}"',
-                    f'-c "{modrinth_config}"',
-                    f"-v {pack_version}",
-                    f'--scheme {"{name}-{version}"}',
+                    "-i", mmc_zip_path,
+                    "-f", "Modrinth",
+                    "--modrinth-search", "loose",
+                    "-o", mmc_zip_root,
+                    "-c", modrinth_config,
+                    "-v", pack_version,
+                    "--scheme", "{name}-{version}",
                 )
             )
         )
