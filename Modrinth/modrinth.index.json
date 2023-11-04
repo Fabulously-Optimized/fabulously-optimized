@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.5.0-beta.2",
+    "versionId": "5.5.0-beta.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -166,15 +166,15 @@
             "fileSize": 290541
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.20.2-4.5.1.jar",
+            "path": "mods/entity_texture_features_fabric_1.20.2-4.6.jar",
             "hashes": {
-                "sha1": "fe092506cb0d63b6c4907ddd3696b9d1a10e0a36",
-                "sha512": "eb435c56d72c4db651a2dd6828271a204142761657b5888a17dbe4a0bf53d0efd5ab7094ea479d503bb388d7f7c2d9f672fe695ffb716802be50736233d7ac80"
+                "sha1": "3a5b2eb22ddd89a76c09ddc254889d1ba9557422",
+                "sha512": "61468eff26277659f2bcbcb5abebc23e7d291834578172f348fe5b019c50d8d0745d5482dc6e8c5434b5e73c7121e71c3323251f23701a12154b819d4eb58d9e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/1Y3lxOX6/entity_texture_features_fabric_1.20.2-4.5.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/nnUuovth/entity_texture_features_fabric_1.20.2-4.6.jar"
             ],
-            "fileSize": 459111
+            "fileSize": 518027
         },
         {
             "path": "mods/fabric-api-0.90.4+1.20.2.jar",
@@ -373,15 +373,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.8.1+mc1.20.2.jar",
+            "path": "mods/modernfix-fabric-5.9.0+mc1.20.2.jar",
             "hashes": {
-                "sha1": "c7706febd46e37d9c6b04ee057875bbefc99efc9",
-                "sha512": "4ff35db3f997cbe54580db4bf73df92095496dae817952d9cba7ad7c03a5894b3d63248ff1dbd77135c97bcb4de2a03cfc98e23e6baf1d766d13f8a1c7300f9c"
+                "sha1": "38caab9e0574ccadc51e4e545f20a4a4102c2133",
+                "sha512": "c9ac955e20d1f5e70992569a02dc0dadfa1d3ea3803d0f0151f538f542a67eec13551a32927a5dac4714fa96f6248932d46d032743241272edbb2ae65f469511"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/5YONh7M3/modernfix-fabric-5.8.1%2Bmc1.20.2.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/6jU8mhig/modernfix-fabric-5.9.0%2Bmc1.20.2.jar"
             ],
-            "fileSize": 529808
+            "fileSize": 531564
         },
         {
             "path": "mods/modmenu-8.0.0.jar",
@@ -429,16 +429,15 @@
             "fileSize": 719016
         },
         {
-            "path": "mods/optigui-2.1.5.jar",
+            "path": "mods/optigui-2.1.6.jar",
             "hashes": {
-                "sha1": "1560d8656027c31b6bc3a60e39c51f50eb45e482",
-                "sha512": "53f12cf6ccca11403df545c5ac608aefbbf69c37ac1d5e98336155e48d222fee923a341d96e012af48ee71805e7e900bd2be66babd4e8bd5a5248224987da60e"
+                "sha1": "e6ca2301b2a2aff1d44cb7c7d2ff757f87ce8bd7",
+                "sha512": "b53632fcc30c99e0ca60a616d3382c7feabb459c426fb1ec80974743bc8d0cb478fd0f49dd9ed77e7cb44c5a8f84ffd15c89952d70ea42fb4067fe2cffcd43e1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/x0k8u61W/optigui-2.1.5.jar",
-                "https://github.com/opekope2/OptiGUI/releases/download/2.1.5/optigui-2.1.5.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/rBFq3aQs/optigui-2.1.6.jar"
             ],
-            "fileSize": 778903
+            "fileSize": 780580
         },
         {
             "path": "mods/paginatedadvancements-2.4.2.jar",
@@ -463,16 +462,15 @@
             "fileSize": 134047
         },
         {
-            "path": "mods/reeses_sodium_options-1.6.5+mc1.20.2-build.96.jar",
+            "path": "mods/reeses_sodium_options-1.7.0+mc1.20.2-build.97.jar",
             "hashes": {
-                "sha1": "c77155eed72144525d377d0385ddc1d0d18ece6e",
-                "sha512": "7460ba985a98f21e525f7ad1f404b854e61f3f7d344b6cfb1fc7d1857d6bd08d23087c1415f712eb48824c7cd67e35ad325450c4bc18a639f7fcd8559e57fd31"
+                "sha1": "5ab271d5c698f96618f717a231218810afc927b0",
+                "sha512": "445ad9aa5109fd2e885e5b02be02ee5119a6a11e78cb5814ae42d347214723d7a1a69dcffc4e9f547d4d4fa1b11ffb860e50de7f4adc6e619ddeb73a5c2c72d4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Bh37bMuy/versions/UpKbnidp/reeses_sodium_options-1.6.5%2Bmc1.20.2-build.96.jar",
-                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20.2-1.6.5/reeses_sodium_options-1.6.5%2Bmc1.20.2-build.96.jar"
+                "https://cdn.modrinth.com/data/Bh37bMuy/versions/YxKBGhki/reeses_sodium_options-1.7.0%2Bmc1.20.2-build.97.jar"
             ],
-            "fileSize": 72491
+            "fileSize": 75122
         },
         {
             "path": "mods/Rrls-3.2.1-1.20.2-fabric.jar",
@@ -486,15 +484,15 @@
             "fileSize": 139203
         },
         {
-            "path": "mods/sodium-extra-0.5.2+mc1.20.2-build.113.jar",
+            "path": "mods/sodium-extra-0.5.3+mc1.20.2-build.114.jar",
             "hashes": {
-                "sha1": "89b9467dec7694d1b2c10294d0ff4315859381df",
-                "sha512": "f1cecdef2bd3cf6f0aa36f4335593d5b39ae52e9c897be09b0320733676a1c7dc0bed4507dc1f066b1221cc5c1d7de2409abad7dfcb6548121fcbe2a888390e8"
+                "sha1": "36f5fbe6b699600b648bdbb854c9f54d54fd9444",
+                "sha512": "3de3f21f2668889a63b29459c9a93322af7a9a4ce243b9d8039d2651ad7da783c005d71936a9f2a76f9686432a969fabe1e0fff812db3c2a8aced89c3997c610"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/PtjYWJkn/versions/zgaajBnP/sodium-extra-0.5.2%2Bmc1.20.2-build.113.jar"
+                "https://cdn.modrinth.com/data/PtjYWJkn/versions/e8Jw5Pey/sodium-extra-0.5.3%2Bmc1.20.2-build.114.jar"
             ],
-            "fileSize": 371323
+            "fileSize": 365767
         },
         {
             "path": "mods/sodium-fabric-mc1.20.2-0.5.3.jar",
@@ -546,13 +544,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "343418679dbb9f3ebe1cd2c85f5a4234e106aa71",
-                "sha512": "68f8056f1e2351c58d77e6b72938c2f8daf248507168683f29147bf24f00c1d88fd1fb2aa2940e452a23079aa86c969236fe43f66a1aa522dc0172ef067a4e9a"
+                "sha1": "1d1e7e03b1e5dd4500fffa43b9dd11aa2b91f4c1",
+                "sha512": "105165d5f0258689e1e083c065b52161d80d13bcd089e1e41517d28084d1701fe4ac7a4bff4be1b8c34cddc4899836c9bc4ce410f23dbf82530f363040b44615"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/haXf0NKx/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/fBHcTlZz/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 50284
+            "fileSize": 50280
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",

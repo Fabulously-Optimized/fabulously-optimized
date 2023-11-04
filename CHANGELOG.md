@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-beta.3 (2023-10-31)
+
+- Updated Entity Texture Features, ModernFix, OptiGUI, Reese's Sodium Options, Sodium Extra
+  - Skipped Fabric Language Kotlin as it made OptiGUI crash
+- Minor changes in MMH
+- Updated Italian, Chinese Traditional translations
+- Visual config temp. disabled: LambDynamicLights
+- Not yet available: (Enhanced Block Entities, MemoryLeakFix)
+
 ### 5.5.0-beta.2 (2023-10-25)
 
 Have you tried turning it off and on again?
@@ -14,6 +23,8 @@ Have you tried turning it off and on again?
 - Updated Polish, Russian, Vietnamese, Chinese Traditional translations
 - Updated and enforced Fabric Loader 0.14.24
 - Fixed Hold That Chunk crash detection
+
+.
 
 - Force-enabled: OptiGUI
 - Not yet available: (Enhanced Block Entities), MemoryLeakFix
