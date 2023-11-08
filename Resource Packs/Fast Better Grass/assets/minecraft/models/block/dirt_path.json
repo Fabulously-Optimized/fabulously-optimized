@@ -27,16 +27,6 @@
         "south": { "uv": [0, 15, 16, 16], "texture": "#top" , "cullface": "south"},
         "west": { "uv": [0, 15, 16, 16], "texture": "#top", "cullface": "west" }
       }
-    },
-    {
-      "from": [16.008, 0, 16.008],
-      "to": [-0.008, -1, -0.008],
-      "faces": {
-        "north": { "uv": [0, 16, 16, 15], "texture": "#top", "cullface": "down" },
-        "east": { "uv": [0, 16, 16, 15], "texture": "#top", "cullface": "down"  },
-        "south": { "uv": [0, 16, 16, 15], "texture": "#top" , "cullface": "down"},
-        "west": { "uv": [0, 16, 16, 15], "texture": "#top", "cullface": "down" }
-      }
     }
   ]
 }
