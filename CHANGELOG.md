@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-beta.5 (2023-11-09)
+
+- Reverted Controlify due to chat-related crashes
+- Further simplified the block model of dirt paths in Fast Better Grass
+- Updated Russian, Estonian translations
+- Visual config temp. disabled: LambDynamicLights
+- Not yet available: (Enhanced Block Entities, MemoryLeakFix)
+
+### 5.5.0-beta.4 (2023-11-08)
+
+- Updated Entity Model Features, Entity Texture Features, Controlify, Fabric API, Fabric Language Kotlin, ModernFix
+  - If you join a new server with a game controller, Controlify will now remind you to check rules and disable analog input there if necessary
+- Improved the look of dirt paths in Fast Better Grass
+- Updated Chinese Simplified, Chinese Traditional, Italian, Russian translations
+- Visual config temp. disabled: LambDynamicLights
+- Not yet available: (Enhanced Block Entities, MemoryLeakFix)
+
 ### 5.5.0-beta.3 (2023-10-31)
 
 - Updated Entity Texture Features, ModernFix, OptiGUI, Reese's Sodium Options, Sodium Extra
