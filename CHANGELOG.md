@@ -3,6 +3,36 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0 (2023-11-11)
+
+5.5.0 is now out, so tell your friends to [download.fo](https://download.fo)!
+
+**Major changes:**
+
+- Added Paginated Advancements - a more vanilla-looking advancement screen, with the same requirement info
+- Added Better Beds - a replacement for EBE while it is not yet updated
+- Removed AdvancementInfo - per public vote
+- Removed Enhanced Block Entities - not yet updated
+- Removed MemoryLeakFix - not yet updated 
+
+.
+
+- Improved the look and performance of dirt paths in Fast Better Grass
+- Mod Menu Helper has new icons 🛠🔀 and better support for English variants
+- "Open to LAN" has been changed to "Open to Internet" to raise e4mc awareness
+- Fabrishot is now reminded in the pause menu and the image files mention "4K"
+- If you join a new server with a game controller, Controlify will now remind you to check rules and disable analog input there if necessary
+- Added an error message for Prism instances that may accidentally upgrade with Hold That Chunk still present
+- Updated alternative mod list
+- Updated and enforced Fabric Loader 0.14.24
+
+**Changes from 5.5.0-beta.5 to 5.5.0:**
+
+- Updated ImmediatelyFast, Controlify, LambDynamicLights
+- Added Malay translation, updated Chinese Traditional
+- Unhid LambDynamicLights' settings button in Mod Menu
+- Updated title screen version number link
+
 ### 5.5.0-beta.5 (2023-11-09)
 
 - Reverted Controlify due to chat-related crashes

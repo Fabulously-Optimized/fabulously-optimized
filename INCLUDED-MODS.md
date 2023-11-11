@@ -5,11 +5,11 @@ Here you can find the mod comparison table between the currently supported Minec
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 ## Smooth
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description |
 |---|---|---|---|---|---|---|---|
-| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✅ |  |  |  |  | Makes beds render faster |
+| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✅ |  |  |  | &nbsp;&nbsp;✅ | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Renders Minecraft slower if it is in the background to reduce CPU usage |
-| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes chests, signs, beds, etc. render faster |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  | Makes chests, signs, beds, etc. render faster |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | [tr9zw](https://www.curseforge.com/members/tr9zw) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Stops rendering entities that are behind walls |
 | [Fadeless](https://www.curseforge.com/minecraft/mc-mods/fadeless) | [DerpDerpling](https://legacy.curseforge.com/members/DerpDerpling/projects) |  |  |  |  | &nbsp;&nbsp;✅ | Makes game startup and resource packs switch faster by removing fade animations |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest) | [fake_domi](https://www.curseforge.com/members/fake_domi) | &nbsp;&nbsp;✅ |  |  |  |  | Makes chests render faster |
@@ -20,7 +20,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload) | [Jerozgen](https://www.curseforge.com/members/Jerozgen) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes language switching instant, adds a searchbar |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu) | [tuxed](https://www.curseforge.com/members/tuxed) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  | Makes the game startup faster |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Optimizes game physics and chunk loading |
-| [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Fixes several memory leaks |
+| [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  | Fixes several memory leaks |
 | [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | [embeddedt](https://www.curseforge.com/members/embeddedt/) |  |  |  |  | &nbsp;&nbsp;✅ | Improves performance, reduces RAM use, fixes bugs |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  | Makes game startup and resource packs switch faster by removing fade animations |
 | [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Optimizes light rendering |
@@ -32,9 +32,9 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Pretty
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description |
 |---|---|---|---|---|---|---|---|
-| [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes the advancement pages bigger, adds a requirement list and search bar |
+| [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  | Makes the advancement pages bigger, adds a requirement list and search bar |
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's animated textures support |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | [Lortseam_](https://www.curseforge.com/members/Lortseam_) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes) | [VictorKohler](https://www.curseforge.com/members/VictorKohler) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's and other mods' capes, [(instructions for a free cape)](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape) |
@@ -58,6 +58,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  Fixes transparent gaps in items and blocks | 
 | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | [FX_PR0CESS](https://www.curseforge.com/members/fx_pr0cess) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Stops rendering hidden sides of certain blocks |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Keeps player inventory in place when under potion effects |
+| [Paginated Advancements](https://www.curseforge.com/minecraft/mc-mods/paginated-advancements) | [DaFuqsy](https://legacy.curseforge.com/members/dafuqsy/) |  |  |  |  | &nbsp;&nbsp;✅ | Makes the advancement pages bigger, adds a requirement list |
 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds some minor OptiFine features like resource pack-provided splash screen |
 | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui) | [opekope2](https://www.curseforge.com/members/opekope2) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds OptiFine's custom GUI support |
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) | [FlashyReese](https://www.cursefo&nbsp;&nbsp;rge.com/members/FlashyReese) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes Sodium's settings vertical, centered and scrollable |
@@ -68,7 +69,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk because Farsight could not be distributed there.
 
 ## Functional
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description |
 |---|---|---|---|---|---|---|---|
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
@@ -94,7 +95,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
+| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.2 | Description |
 |---|---|---|---|---|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  | Makes some mods work |
 | [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes some mods work |
