@@ -2,8 +2,8 @@ So you like this modpack and want to support it? That's great! In this page I ha
 
 ### Support us
 
-* **[▶️ Play using CurseForge Launcher](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/)**
-  * Using CurseForge Launcher gives the pack and mod devs money, other launchers currently do not.
+* **▶️ Play using [CurseForge Launcher](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) or [Modrinth App](https://modrinth.com/modpack/fabulously-optimized)**
+  * Using one of these launchers gives the pack and mod devs money, other launchers currently do not.
 * **[❤️ Heart and comment on AlternativeTo](https://alternativeto.net/software/fabulously-optimized/about/)**
   * Please sign up before doing it, otherwise it will not count ☹️
 * **[🦸 Get a free FO cape](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape)** 
