@@ -3,6 +3,70 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.0-beta.5 (2023-11-09)
+
+- Reverted Controlify due to chat-related crashes
+- Further simplified the block model of dirt paths in Fast Better Grass
+- Updated Russian, Estonian translations
+- Visual config temp. disabled: LambDynamicLights
+- Not yet available: (Enhanced Block Entities, MemoryLeakFix)
+
+### 5.5.0-beta.4 (2023-11-08)
+
+- Updated Entity Model Features, Entity Texture Features, Controlify, Fabric API, Fabric Language Kotlin, ModernFix
+  - If you join a new server with a game controller, Controlify will now remind you to check rules and disable analog input there if necessary
+- Improved the look of dirt paths in Fast Better Grass
+- Updated Chinese Simplified, Chinese Traditional, Italian, Russian translations
+- Visual config temp. disabled: LambDynamicLights
+- Not yet available: (Enhanced Block Entities, MemoryLeakFix)
+
+### 5.5.0-beta.3 (2023-10-31)
+
+- Updated Entity Texture Features, ModernFix, OptiGUI, Reese's Sodium Options, Sodium Extra
+  - Skipped Fabric Language Kotlin as it made OptiGUI crash
+- Minor changes in MMH
+- Updated Italian, Chinese Traditional translations
+- Visual config temp. disabled: LambDynamicLights
+- Not yet available: (Enhanced Block Entities, MemoryLeakFix)
+
+### 5.5.0-beta.2 (2023-10-25)
+
+Have you tried turning it off and on again?
+
+- Readded Animatica, CITResewn, OptiGUI
+  - These mods were _not_ updated right now, they were simply retested and found to be still working in 1.20.2. They probably weren't working in previous tests just because some dependencies needed updates.
+  - Known issue: OptiGUI villager GUIs look a bit wonky
+- Updated Fabric API, FerriteCore, Paginated Advancements
+- Updated Polish, Russian, Vietnamese, Chinese Traditional translations
+- Updated and enforced Fabric Loader 0.14.24
+- Fixed Hold That Chunk crash detection
+
+.
+
+- Force-enabled: OptiGUI
+- Not yet available: (Enhanced Block Entities), MemoryLeakFix
+- Visual config temp. disabled: LambDynamicLights
+
+### 5.5.0-beta.1 (2023-10-22)
+
+You _betta_ update!
+
+- Added Paginated Advancements - per your request, here is a more vanilla-looking advancement screen, with the same requirement info!
+  - How do you like it? Give feedback on GitHub #746
+  - Therefore, AdvancementInfo is considered "removed" (though it wasn't in the alpha in the first place)
+- Mod Menu Helper has new icons 🛠🔀 and better support for English variants
+- "Open to LAN" has been changed to "Open to Internet" to raise e4mc awareness
+- Fabrishot is now reminded in the pause menu and the image files mention "4K"
+- Updated Polish translation
+- Temporarily removed Animatica, CIT Resewn, (Enhanced Block Entities), MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: LambDynamicLights
+
+### 5.5.0-alpha.4 (2023-10-15)
+
+- Updated FabricSkyboxes Interop, Iris
+- Temporarily removed AdvancementInfo, Animatica, CIT Resewn, Enhanced Block Entities, MemoryLeakFix, OptiGUI
+- Visual config temp. disabled: LambDynamicLights
+
 ### 5.5.0-alpha.3 (2023-10-11)
 
 - Updated Borderless Mining, Capes, ModernFix
@@ -64,6 +128,12 @@ Now that's early!
 - Temporarily removed AdvancementInfo, Animatica, Capes, CIT Resewn, Continuity, Controlify, Debugify, Entity Model Features, Entity Texture Features, Enhanced Block Entities, Indium, Language Reload, Lithium, ModernFix, MemoryLeakFix, No Chat Reports, OptiGUI, Zoomify
 
 ## 1.20.1
+
+### 5.4.1 (2023-10-15)
+
+- Updated Iris, Fabric API, FabricSkyboxes Interop, ModernFix
+- Updated Fabric Loader to 0.14.23
+  - Better warning screens in case of mod conflicts! 
 
 ### 5.4.0 (2023-10-06)
 
