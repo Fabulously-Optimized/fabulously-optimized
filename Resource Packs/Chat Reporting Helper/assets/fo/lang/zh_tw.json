@@ -16,8 +16,8 @@
     "options.onlyShowSecureChat": "隱藏被修改過的訊息",
     "options.onlyShowSecureChat.tooltip": "隱藏無法向 Mojang 檢舉的玩家聊天訊息。",
     "gui.nochatreports.secure_chat": "隱藏無法向 Mojang 檢舉的玩家聊天訊息。由於這會影響 No Chat Reports 的訊息，因此被停用。",
-    "gui.nochatreports.verified_server": "此伺服器已將聊天訊息設為無法向 Mojang 檢舉。",
-    "gui.nochatreports.no_reporting": "此伺服器已將聊天訊息設為無法向 Mojang 檢舉。",
+    "gui.nochatreports.verified_server": "這個伺服器已將聊天訊息設為無法向 Mojang 檢舉。",
+    "gui.nochatreports.no_reporting": "這個伺服器已將聊天訊息設為無法向 Mojang 檢舉。",
     "gui.nochatreports.ncr_toggle_tooltip": "§lNo Chat Reports：§r%1$s\n若停用，玩家訊息將可以向 Mojang 檢舉並且聊天盾牌按鈕也會被隱藏。此選項不會影響其他 No Chat Reports 選項。",
     "gui.nochatreports.safety_status.secure": "其他玩家的訊息無法向 Mojang 檢舉。",
     "gui.nochatreports.safety_status.singleplayer": "在單人遊戲和由你開啟的區網世界中，訊息無法向 Mojang 檢舉。",
@@ -39,6 +39,6 @@
     "gui.nochatreports.signing_mode.prompt.tooltip": "你的訊息預設無法檢舉，當伺服器要求時會提醒你。",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "僅在伺服器要求時，你的訊息才可向 Mojang 檢舉。",
     "gui.nochatreports.signing_required.contents": "此伺服器要求所有訊息都可以向 Mojang 檢舉。如果你不同意，你仍然可以使用任何與聊天無關的指令。\n\n點擊「允許簽章」以啟用聊天功能。",
-    "chat.nochatreports.disabled.signing_requested": "此伺服器要求玩家訊息可以向 Mojang 檢舉。使用提示畫面或聊天盾牌按鈕以接受並啟用聊天功能。",
+    "chat.nochatreports.disabled.signing_requested": "這個伺服器要求玩家訊息可以向 Mojang 檢舉。使用提示畫面或聊天盾牌按鈕以接受並啟用聊天功能。",
     "gui.nochatreports.realms_warning.contents": "關於 Realms 的重要資訊：\n• 聊天訊息都可以向 Mojang 檢舉。\n• Mojang 會使用自動化聊天監控，以找出違規行為。\n• 髒話過濾器預設啟用。成年玩家可以在 minecraft.net 啟用查看顯示髒話。"
 }
