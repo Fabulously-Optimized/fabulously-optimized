@@ -30,7 +30,7 @@ _These downloads do not yet support the modpack or the mods :(_
 </details>
 
 Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
+| Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla - manual install) |
 |---|---|---|---|---|---|---|
 | Installation tutorial | [Tutorial](https://wiki.download.fo/readme/install-instructions#curseforge-app) |  [Tutorial](https://wiki.download.fo/readme/install-instructions#modrinth-app) | [Tutorial](https://wiki.download.fo/readme/install-instructions#prism-launcher) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc-auto-update) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) |
 | Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
