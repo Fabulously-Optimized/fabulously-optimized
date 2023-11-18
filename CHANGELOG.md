@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.5.1 (2023-11-18)
+
+- Updated Cloth Config API, Fabric Language Kotlin, ModernFix, Remove Reloading Screen
+- Added Malay (Jawi); updated Malay, Chinese Traditional translations
+
 ### 5.5.0 (2023-11-11)
 
 5.5.0 is now out, so tell your friends to [download.fo](https://download.fo)!

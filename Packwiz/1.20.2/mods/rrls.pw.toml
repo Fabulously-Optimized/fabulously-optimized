@@ -1,14 +1,13 @@
 name = "Remove Reloading Screen"
-filename = "Rrls-3.2.1-1.20.2-fabric.jar"
+filename = "rrls-3.2.2+mc1.20.2-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "110d4de12c313451194097682939064eea344d47"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/yx8wrcH9/rrls-3.2.2%2Bmc1.20.2-fabric.jar"
+hash-format = "sha512"
+hash = "890f5f601b2a3e10f5714f454b94f4e3812966ecb47d943ad9d15a006a168ab7d7e0d08e926f9aa9bcd64db4074f92d3f10e2423e597182bbceb6bc51de8802a"
 
 [update]
-[update.curseforge]
-file-id = 4761825
-project-id = 833233
-release-channel = "beta"
+[update.modrinth]
+mod-id = "ZP7xHXtw"
+version = "yx8wrcH9"

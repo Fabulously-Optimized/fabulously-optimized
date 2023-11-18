@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.5.0",
+    "versionId": "5.5.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -74,15 +74,15 @@
             "fileSize": 394652
         },
         {
-            "path": "mods/cloth-config-12.0.109-fabric.jar",
+            "path": "mods/cloth-config-12.0.110-fabric.jar",
             "hashes": {
-                "sha1": "66ebcea9ec4ce863f0cc99e56d91a4c1a4e276a4",
-                "sha512": "8eb6b7e886e5799d57d616445135ddce3dcab83d24a0f389fe44109fe29aafc711d3c146dfe0a62a0859e42c4cce02a23fda568632db754fa089fdc91b63f06d"
+                "sha1": "f2995b22a60898af1df649d9ef8a64db0ececd34",
+                "sha512": "e6d15b6cecbc585589bd227ec405fecf08cf84f45eabbe370d844d783299be867fe3d668ebc3565aa33d63c0af986fae79d713df574e632407cad6d3afd76e6c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9s6osm5g/versions/LnfolBYb/cloth-config-12.0.109-fabric.jar"
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/HvC4UPrB/cloth-config-12.0.110-fabric.jar"
             ],
-            "fileSize": 1159520
+            "fileSize": 1142047
         },
         {
             "path": "mods/continuity-3.0.0-beta.4+1.20.2.jar",
@@ -187,16 +187,15 @@
             "fileSize": 2083338
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.13+kotlin.1.9.20.jar",
+            "path": "mods/fabric-language-kotlin-1.10.14+kotlin.1.9.20.jar",
             "hashes": {
-                "sha1": "e7b4b15b8fa5095e47ef6890a39bca76307fa185",
-                "sha512": "0e8fc3b26fc9e91860994e458c1e74604034ceee0aa90970093fc6cc9b04f5cb78e4fd307b9a3f34b26da0ebdca1b314e45a387e3eeed3a0b9a41445464f9395"
+                "sha1": "059a4773fbf8bec52f9827881ae63c428c5c5424",
+                "sha512": "cbd38fe70896df559f15810d832526ec8aaaa623ebdf0031011f45e5c550dc5fc354965a13c9d87e40aacc9abe0446880cb7943f97f0efb1f1e6b0c7a53e7626"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/atZwzPrT/fabric-language-kotlin-1.10.13%2Bkotlin.1.9.20.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.13%2Bkotlin.1.9.20/fabric-language-kotlin-1.10.13%2Bkotlin.1.9.20.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/vnTAITh8/fabric-language-kotlin-1.10.14%2Bkotlin.1.9.20.jar"
             ],
-            "fileSize": 6727164
+            "fileSize": 6728141
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -371,15 +370,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.9.2+mc1.20.2.jar",
+            "path": "mods/modernfix-fabric-5.9.3+mc1.20.2.jar",
             "hashes": {
-                "sha1": "6aba5f6a104f9f61abcde453dd6a34ded0ae7174",
-                "sha512": "c50fe61e765216a5a4c301f47bdfdea2e01c2fdf9cfa3a34dae5cb59d01efb79106794740d296a6aba3a48a4bcece3c3a478717faf7fb2065e1c9086efcb037b"
+                "sha1": "eb64e7015d9b2150d725d16f7e4cf60c4e002a14",
+                "sha512": "4184bc16b6f266357294834ec838947b0685b6a604fc61e70d3e436421918b432a36f46b86d978b5066aee23bbd01562a5d0800499002b28875841edf655aee3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/r62BNWkZ/modernfix-fabric-5.9.2%2Bmc1.20.2.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/nYh2qee4/modernfix-fabric-5.9.3%2Bmc1.20.2.jar"
             ],
-            "fileSize": 531712
+            "fileSize": 531647
         },
         {
             "path": "mods/modmenu-8.0.0.jar",
@@ -473,15 +472,15 @@
             "fileSize": 75122
         },
         {
-            "path": "mods/Rrls-3.2.1-1.20.2-fabric.jar",
+            "path": "mods/rrls-3.2.2+mc1.20.2-fabric.jar",
             "hashes": {
-                "sha1": "110d4de12c313451194097682939064eea344d47",
-                "sha512": "f63e67bfb45fdcccc799fa66f9731dc83c901bd07d0670121d4a9085f2075dd383f66190333849bf1ce96379e435765d6f2ce9776bc88955812f0d557c02be6b"
+                "sha1": "f304a380c20aa9064d8d303e23d3ce1ba1931a71",
+                "sha512": "890f5f601b2a3e10f5714f454b94f4e3812966ecb47d943ad9d15a006a168ab7d7e0d08e926f9aa9bcd64db4074f92d3f10e2423e597182bbceb6bc51de8802a"
             },
             "downloads": [
-                "https://github.com/dima-dencep/rrls/releases/download/1.20.2-3.2.1/Rrls-3.2.1-1.20.2-fabric.jar"
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/yx8wrcH9/rrls-3.2.2%2Bmc1.20.2-fabric.jar"
             ],
-            "fileSize": 139203
+            "fileSize": 147719
         },
         {
             "path": "mods/sodium-extra-0.5.3+mc1.20.2-build.114.jar",
@@ -544,13 +543,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "800e12794164aedad2685da72aecf55e3599df83",
-                "sha512": "5ddce1d38f1dbb46a714702b38ace1435f82ba770778c319558adfcc6ab67bedf3b115472ff1770ee1c70f82e9284d62949eb5adecb02da6c53991f974ff0765"
+                "sha1": "23419e29ad2ab76e5fdcbaa1a4a43959a2c040db",
+                "sha512": "42bf8ac596603dd4253cc9996d52a9a848cc5267e4ffca80b7d8739178c5d40bdffff419881000a40069a740d5f0e601bb1fbc691dac5828375764ca04cc24c1"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/Srwwuu3m/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/mD4cUkN5/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 51981
+            "fileSize": 53992
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -566,13 +565,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "a9503597d1542691353242997ab4b746e9d308dc",
-                "sha512": "51225d6fe8f484c0fcac79a17a4e47fbf2da6737407babe1864b8f9cecbbc5047e8f25c24350077b17492c875d9c91445972bdda7a57f1dca69d82ae3cff51c0"
+                "sha1": "97d30d2841624868c7aabc19973772b20f092524",
+                "sha512": "6e1ed8852730264b0b745241ebf9f921150e85b2f3dc336b3aa3a6d6aa29ce458396985d759e18d2b9cee441a47305d2208691cf2718751279ca8bd329105cc7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/DLZqoWj6/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/CeCmsjs8/SodiumTranslations.zip"
             ],
-            "fileSize": 168972
+            "fileSize": 169568
         }
     ],
     "dependencies": {
