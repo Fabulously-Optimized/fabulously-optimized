@@ -41,7 +41,7 @@ Not sure which edition is right for you? Check this handy table!
 | Supports the modpack and mods | ✅ | ✅ | ●¹ | ●¹ | ●¹ | ✅ |
 | Can be used offline | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Unique feature | 1-click install | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
+| Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
 
