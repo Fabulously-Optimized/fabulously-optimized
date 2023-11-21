@@ -14,7 +14,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://download.fo/curseforge) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://download.fo/modrinth) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://download.fo/install)
 
-We encourage using CurseForge Launcher, Modrinth App, Prism Launcher, MultiMC, or vanilla launcher.
+We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or vanilla launcher.
 
 <details>
   <summary>Alternative downloads</summary>
