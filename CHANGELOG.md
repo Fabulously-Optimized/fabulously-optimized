@@ -10,7 +10,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Removed Fadeless - feature now configurable in RRLS
 - Updated Cloth Config API, Fabric API, Fabric Language Kotlin, Language Reload
 - Updated Malay, Malay (Jawi) and French translations
-- The startup animation splash is now set from 0 seconds to 0.5 seconds (compared to vanilla 2 seconds)
+- The startup animation splash is now set to 0.5 seconds (compared to vanilla 2 seconds, previous FO version 0 seconds)
   - The value can be adjusted in Remove Reloading Screen settings
 - Updated MultiMC legacy instance note
 
