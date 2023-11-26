@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.6.0 (2023-11-26)
+
+- Added Enhanced Block Entities - updated to 1.20.2
+- Removed Better Beds - replaced by EBE as it updated
+- Removed Fadeless - feature now configurable in RRLS
+- Updated Cloth Config API, Fabric API, Fabric Language Kotlin, Language Reload
+- Updated Malay, Malay (Jawi) and French translations
+- The startup animation splash is now set from 0 seconds to 0.5 seconds (compared to vanilla 2 seconds)
+  - The value can be adjusted in Remove Reloading Screen settings
+- Updated MultiMC legacy instance note
+
 ### 5.5.1 (2023-11-18)
 
 - Updated Cloth Config API, Fabric Language Kotlin, ModernFix, Remove Reloading Screen

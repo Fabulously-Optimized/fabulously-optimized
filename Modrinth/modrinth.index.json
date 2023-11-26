@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.5.1",
+    "versionId": "5.6.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -15,17 +15,6 @@
                 "https://cdn.modrinth.com/data/PRN43VSY/versions/uNgEPb10/animatica-0.6%2B1.20.jar"
             ],
             "fileSize": 69810
-        },
-        {
-            "path": "mods/betterbeds-1.3.0-1.19.3.jar",
-            "hashes": {
-                "sha1": "be8020ab06b679bb33f93a7e9ade8a783985eab0",
-                "sha512": "47c9237393b83c5eee2c82b48fefc82bf4ff932161e78fac0318f52cfc33615b19a0a7e5cacfecf2ef35d603da5af9c69bdaf365db4de1eb1aa90aae647d18f7"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar"
-            ],
-            "fileSize": 50218
         },
         {
             "path": "mods/bettermounthud-1.2.2.jar",
@@ -74,15 +63,15 @@
             "fileSize": 394652
         },
         {
-            "path": "mods/cloth-config-12.0.110-fabric.jar",
+            "path": "mods/cloth-config-12.0.111-fabric.jar",
             "hashes": {
-                "sha1": "f2995b22a60898af1df649d9ef8a64db0ececd34",
-                "sha512": "e6d15b6cecbc585589bd227ec405fecf08cf84f45eabbe370d844d783299be867fe3d668ebc3565aa33d63c0af986fae79d713df574e632407cad6d3afd76e6c"
+                "sha1": "fadc64d481a2c0601ea5ca1e0c190aa7a06f84b0",
+                "sha512": "e1dc26bdf29c433e2530130bfc66bce53ed1881b87a9e71859b20510d58239ff1653c913f57c3879959c82bbf457e3d3bd09f4acd1fed00e82a59eb56a57315d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9s6osm5g/versions/HvC4UPrB/cloth-config-12.0.110-fabric.jar"
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/jvy82BGQ/cloth-config-12.0.111-fabric.jar"
             ],
-            "fileSize": 1142047
+            "fileSize": 1142044
         },
         {
             "path": "mods/continuity-3.0.0-beta.4+1.20.2.jar",
@@ -102,7 +91,8 @@
                 "sha512": "9b34170241e77ce147daea2e09a5b64cc9380739b5fbd892490ca52d60ceecb50b2ebb795ff163221c31277f97f271583ee82da91183d10b3f479d5b0d833b50"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/E0IjfW25/Controlify-1.7.0%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/E0IjfW25/Controlify-1.7.0%2B1.20.2.jar",
+                "https://github.com/isXander/Controlify/releases/download/1.7.0%2B1.20.2/Controlify-1.7.0%2B1.20.2.jar"
             ],
             "fileSize": 2114744
         },
@@ -142,6 +132,17 @@
             "fileSize": 275794
         },
         {
+            "path": "mods/enhancedblockentities-0.9.1+1.20.2.jar",
+            "hashes": {
+                "sha1": "7d40ccbc5355602325ad3e633592441a63a3999a",
+                "sha512": "c6f2c68254624d3add2645766b5ceb467bba9931d5ef357d0d580352b12ed102ce33818be4ca318e97edb34eeb771672b81725f9aee75114e4eb508c8a05396d"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/OVuFYfre/versions/eIFo7wvq/enhancedblockentities-0.9.1%2B1.20.2.jar"
+            ],
+            "fileSize": 492605
+        },
+        {
             "path": "mods/entityculling-fabric-1.6.2-mc1.20.1.jar",
             "hashes": {
                 "sha1": "8e4be2bb9703deddb3d3d212c812cdc1f9de072b",
@@ -176,26 +177,27 @@
             "fileSize": 519036
         },
         {
-            "path": "mods/fabric-api-0.90.7+1.20.2.jar",
+            "path": "mods/fabric-api-0.91.0+1.20.2.jar",
             "hashes": {
-                "sha1": "63d54b41e3dbc3357bd3adc044db4f0df64df141",
-                "sha512": "d335416818f6ee89c27f5851c39131ee4900511ff5576f0a9ce7e561711075938aace9b18df447b964e63ae685ae05d615bbac5cf60b7ea1403b4484dd5ba243"
+                "sha1": "a2116afcae86c07a72467b1b33f4c8db27871f02",
+                "sha512": "5c6dcaf3bd358bdab4d3eb06e7260485568f68ed5992d2d46dd6371eb739a90f964c3d7c8a63039e4064764d2a2c5be1ed7f48d7dc1a315f8e93b50adde2be8f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/FhOnpSMY/fabric-api-0.90.7%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/mAiJMJSa/fabric-api-0.91.0%2B1.20.2.jar"
             ],
-            "fileSize": 2083338
+            "fileSize": 2084187
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.14+kotlin.1.9.20.jar",
+            "path": "mods/fabric-language-kotlin-1.10.15+kotlin.1.9.21.jar",
             "hashes": {
-                "sha1": "059a4773fbf8bec52f9827881ae63c428c5c5424",
-                "sha512": "cbd38fe70896df559f15810d832526ec8aaaa623ebdf0031011f45e5c550dc5fc354965a13c9d87e40aacc9abe0446880cb7943f97f0efb1f1e6b0c7a53e7626"
+                "sha1": "206faa3c1ce1711463b69f1b549699ccdd5f14d0",
+                "sha512": "8872b42766e9835256667646ca05ea98b1214b4bd7161e5b3525407ce2b1ac445a9cf91a64dabe4aa7dbe75c442d79267752d99406071b6807ceff6d983bfef8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/vnTAITh8/fabric-language-kotlin-1.10.14%2Bkotlin.1.9.20.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/psNjlsLR/fabric-language-kotlin-1.10.15%2Bkotlin.1.9.21.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.15%2Bkotlin.1.9.21/fabric-language-kotlin-1.10.15%2Bkotlin.1.9.21.jar"
             ],
-            "fileSize": 6728141
+            "fileSize": 6728109
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -219,18 +221,6 @@
                 "https://github.com/ramidzkh/fabrishot/releases/download/1.10.0/fabrishot-1.10.0.jar"
             ],
             "fileSize": 44182
-        },
-        {
-            "path": "mods/fadeless-1.0.1.jar",
-            "hashes": {
-                "sha1": "8a48f9abfa26e4abc06490c6e818f5cf6af1c280",
-                "sha512": "8baece2486a29354276fbfbcb267ada333c26c59b3bd662101c309aea15689e06411d5e43e557601fb53288258a7b4239f34d573131972b098aaf69ff943ac96"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/ncKjyGm3/versions/j53ChsnW/fadeless-1.0.1.jar",
-                "https://github.com/DerpDerpling/Fadeless/releases/download/1.0.1/fadeless-1.0.1.jar"
-            ],
-            "fileSize": 7876
         },
         {
             "path": "mods/fastquit-3.0.0+1.20+.jar",
@@ -272,7 +262,8 @@
                 "sha512": "669a625894f175bc818062a194fb52b6163b2ddcb60cfb57a93efbb1c4e855b20200e175e225f86870cfde0846b80a50084088a2aefe6783cc2b49a6de59b2ba"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/yciHw2oP/ImmediatelyFast-1.2.7%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/yciHw2oP/ImmediatelyFast-1.2.7%2B1.20.2.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.7/ImmediatelyFast-1.2.7%2B1.20.2.jar"
             ],
             "fileSize": 677724
         },
@@ -311,16 +302,16 @@
             "fileSize": 567734
         },
         {
-            "path": "mods/language-reload-1.5.9+1.20.2.jar",
+            "path": "mods/language-reload-1.5.10+1.20.2.jar",
             "hashes": {
-                "sha1": "dc73cb01963e7e445cb25e92ad4a17d7f850e89d",
-                "sha512": "8a890341aaf0f478bd1c3bef2dc7b7ab44b2be58e08154c034c6abf1dd7abb4ada5f03158106cd132e5046ae7227c45ea755bb4b5bd04e116106af9c1b05fd47"
+                "sha1": "7084e2388108d88b66794251b3f5005fecd24a2a",
+                "sha512": "991015e77fa58f131d3b6c01986ad35d21fbbbf84c30d502239e97e2752db7c8971a14df296299de22fef981c88d56a8e4346a17b6910ced59414dd5bc9392f4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/esJ7h38a/language-reload-1.5.9%2B1.20.2.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.9%2B1.20.2/language-reload-1.5.9%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/fzDEYGk2/language-reload-1.5.10%2B1.20.2.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.10%2B1.20.2/language-reload-1.5.10%2B1.20.2.jar"
             ],
-            "fileSize": 201117
+            "fileSize": 200770
         },
         {
             "path": "mods/lithium-fabric-mc1.20.2-0.12.0.jar",
@@ -478,7 +469,8 @@
                 "sha512": "890f5f601b2a3e10f5714f454b94f4e3812966ecb47d943ad9d15a006a168ab7d7e0d08e926f9aa9bcd64db4074f92d3f10e2423e597182bbceb6bc51de8802a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/yx8wrcH9/rrls-3.2.2%2Bmc1.20.2-fabric.jar"
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/yx8wrcH9/rrls-3.2.2%2Bmc1.20.2-fabric.jar",
+                "https://github.com/dima-dencep/rrls/releases/download/3.2.2%2Bmc1.20.2/rrls-3.2.2%2Bmc1.20.2-fabric.jar"
             ],
             "fileSize": 147719
         },
@@ -543,13 +535,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "23419e29ad2ab76e5fdcbaa1a4a43959a2c040db",
-                "sha512": "42bf8ac596603dd4253cc9996d52a9a848cc5267e4ffca80b7d8739178c5d40bdffff419881000a40069a740d5f0e601bb1fbc691dac5828375764ca04cc24c1"
+                "sha1": "462f8cbc0727b3242b28bd5ed885052b1d197771",
+                "sha512": "d84f79af9730a3e5e12363ac3886b7831edecae6c84b65003745d177c4064ee17b5ed6416aed1f8c254d995e2ac5e15d65dc553763d971443539b263bb360d79"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/mD4cUkN5/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/2vSy3UV7/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 53992
+            "fileSize": 53993
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
