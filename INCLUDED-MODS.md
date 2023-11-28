@@ -109,7 +109,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 
 ## Alternative mods
 
-Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with a red asterisk `*`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
+Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with yellow arrows `🔀`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
 
 | Name | Author | Alternative for | Description |
 |---|---|---|---|
