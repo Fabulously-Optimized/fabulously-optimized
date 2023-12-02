@@ -3,7 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.6.2 (2023-12-02)
+
+- Fixed Sodium translations not being applied
+
 ### 5.6.1 (2023-12-02)
+
+_Due to a CurseForge App bug, this version never appeared on CurseForge._
 
 - Updated Fabric API, Remove Reloading Screen
 - Updated Fabric Loader to 0.15.0
