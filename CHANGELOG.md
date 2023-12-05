@@ -3,6 +3,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.6.2 (2023-12-02)
+
+- Fixed Sodium translations not being applied
+
+### 5.6.1 (2023-12-02)
+
+_Due to a CurseForge App bug, this version never appeared on CurseForge._
+
+- Updated Fabric API, Remove Reloading Screen
+- Updated Fabric Loader to 0.15.0
+- Updated Chinese Traditional translation and RRLS description on MMH
+- Enabled inventory item optimization in ImmediatelyFast
+- Adjusted broken paths option to fix the [DUMMY]-crash
+- Updated MultiMC (auto-update) instance note
+
 ### 5.6.0 (2023-11-26)
 
 - Added Enhanced Block Entities - updated to 1.20.2
