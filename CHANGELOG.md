@@ -1,6 +1,14 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.4
+
+### 5.8.0-alpha.1 (2023-12-07)
+
+- Updated Fabric API
+- Force-enabled Controlify, Debugify, Indium, Iris, OptiGUI
+- Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
+
 ## 1.20.3
 
 ### 5.7.0-alpha.1 (2023-12-07)
@@ -12,7 +20,7 @@ This bug is fixed in Minecraft 1.20.4 and as such, this is probably the first an
 - Updated Entity Texture Features, Controlify, Debugify, Fabric API, Iris, Language Reload, ModernFix, Mod Menu, No Chat Reports, Sodium, YetAnotherConfigLib
   - Skipped Entity Model Features update due to incompatibilities
 - Enforced Fabric Loader 0.15.0
-- Force-enabled OptiGUI, Indium
+- Force-enabled Indium, OptiGUI
 - Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
 
 ## 1.20.2

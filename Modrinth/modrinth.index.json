@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.7.0-alpha.1",
+    "versionId": "5.8.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -155,15 +155,15 @@
             "fileSize": 414627
         },
         {
-            "path": "mods/fabric-api-0.91.1+1.20.3.jar",
+            "path": "mods/fabric-api-0.91.1+1.20.4.jar",
             "hashes": {
-                "sha1": "f5441238d7e0a8ed39f2153a15b85c0112910867",
-                "sha512": "03acb0086fcd89ba1b4f5f069a38318536e0e5aefff9722b0068b0fd09563123bf6493a16f4e6cac2816fccbdfe1c4bdacfe29de5f15603c3b5a15bcc8ef5b6a"
+                "sha1": "7da732cac557b1ecc65b618fd9c79128c504c724",
+                "sha512": "1e0e9afa545079e79f88f4062c566549995c9aa5f005fd73cc75a1b8b4db525373b6614484740937f44e39ea2349db9b43c1f7839bbe784500ca26b765563b07"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Yolngp3s/fabric-api-0.91.1%2B1.20.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Uppy4qHd/fabric-api-0.91.1%2B1.20.4.jar"
             ],
-            "fileSize": 2080725
+            "fileSize": 2080696
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar",
@@ -477,7 +477,7 @@
         }
     ],
     "dependencies": {
-        "minecraft": "1.20.3",
+        "minecraft": "1.20.4",
         "fabric-loader": "0.15.0"
     }
 }
