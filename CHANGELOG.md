@@ -13,9 +13,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 5.7.0-alpha.1 (2023-12-07)
 
-:warning: Warning: This version of Minecraft adds the ability to insert items to decorated pots, however if you do only that in a given chunk and then leave the world, your items will be lost. The workaround is to edit _anything else_ in the same chunks that you have a pot in, then it will save properly. You may want to use F3+G to see the chunks.
-
-This bug is fixed in Minecraft 1.20.4 and as such, this is probably the first and last version of FO for 1.20.3.
+:warning: Warning: In Minecraft 1.20.3 you can add items to decorated pots, but you must also change something else within the same chunk for it to save properly. You can use F3+G to see chunk borders. This bug is fixed in Minecraft 1.20.4 and as such, this is probably the first and last version of FO for 1.20.3.
 
 - Updated Entity Texture Features, Controlify, Debugify, Fabric API, Iris, Language Reload, ModernFix, Mod Menu, No Chat Reports, Sodium, YetAnotherConfigLib
   - Skipped Entity Model Features update due to incompatibilities
