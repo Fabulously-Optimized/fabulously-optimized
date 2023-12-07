@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.6.2",
+    "versionId": "5.6.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -188,16 +188,15 @@
             "fileSize": 2085868
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.15+kotlin.1.9.21.jar",
+            "path": "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar",
             "hashes": {
-                "sha1": "206faa3c1ce1711463b69f1b549699ccdd5f14d0",
-                "sha512": "8872b42766e9835256667646ca05ea98b1214b4bd7161e5b3525407ce2b1ac445a9cf91a64dabe4aa7dbe75c442d79267752d99406071b6807ceff6d983bfef8"
+                "sha1": "c411b587ba7b272b956605e5ee2ad10985e38ec9",
+                "sha512": "a8cd43f7b946c5c3229f179eee24d8ec8624b9646f27e1a4022e67281a2e142e35a13d537287718ea86b93d7a9b24169c464219806f36eefec53dfb70cc037c5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/psNjlsLR/fabric-language-kotlin-1.10.15%2Bkotlin.1.9.21.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.15%2Bkotlin.1.9.21/fabric-language-kotlin-1.10.15%2Bkotlin.1.9.21.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/VJUqKopR/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar"
             ],
-            "fileSize": 6728109
+            "fileSize": 6728096
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -361,15 +360,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.9.3+mc1.20.2.jar",
+            "path": "mods/modernfix-fabric-5.10.0+mc1.20.2.jar",
             "hashes": {
-                "sha1": "eb64e7015d9b2150d725d16f7e4cf60c4e002a14",
-                "sha512": "4184bc16b6f266357294834ec838947b0685b6a604fc61e70d3e436421918b432a36f46b86d978b5066aee23bbd01562a5d0800499002b28875841edf655aee3"
+                "sha1": "27d66e836e9f022954dc3e5daf0d6f7bfeb5ba4c",
+                "sha512": "f9caa30ac765e4bfc637fa2ca1c619157588ab6635f1791b07f42abdb2ae47e0714648f21910aaec9709fb3b94f490bbd5e5add07053a007e3a00129fe237805"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/nYh2qee4/modernfix-fabric-5.9.3%2Bmc1.20.2.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/IC7LBv4d/modernfix-fabric-5.10.0%2Bmc1.20.2.jar"
             ],
-            "fileSize": 531647
+            "fileSize": 544859
         },
         {
             "path": "mods/modmenu-8.0.0.jar",

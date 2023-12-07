@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.2
 
+### 5.6.3 (2023-12-07)
+
+- Updated Fabric Language Kotlin, ModernFix
+  - Sodium and Iris updates skipped due to incompatibilities
+- Updated Italian, Malay, Malay (Jawi), Polish, Romanian, Vietnamese, Chinese Traditional and Simplified translations
+
 ### 5.6.2 (2023-12-02)
 
 - Fixed Sodium translations not being applied

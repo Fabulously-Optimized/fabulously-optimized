@@ -5,20 +5,12 @@ file = "config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
-file = "config/entity_texture_features.json"
-hash = "cef51db1150ae1f30f504c8932c274ba174441d4fa177cda048b407da59d5865"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "addc242d38df7c06ae7c9295ae4ce62c838eb5224a3ee796526711d6abda8289"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
+hash = "78ba4845ecc0819838ca81caa89599ddbf1c3533ac61622064f533b414bebc5b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1f13c8ad2b4b194757895cca79dbd9ad74084a2be706d0fc6d1c17faf31bc442"
+hash = "c8ad1a03bfb39834755d02235c95230163c243a60e1ad94b125f1ab38f26c3d8"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -49,6 +41,10 @@ file = "config/yosbr/config/dynamic_fps.json"
 hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
 
 [[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "cef51db1150ae1f30f504c8932c274ba174441d4fa177cda048b407da59d5865"
+
+[[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
 hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
 
@@ -59,6 +55,10 @@ hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "3bc3e90be75188a9798eec3a4239a2b53f6be990e620c32594a17844645c5fbb"
+hash = "b1694c2b9e886c20e1bba65543c56aeb0a0dc5f797b55b63d4a6bfa8dc1cc422"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "54db7e2b74a2bf050e69e27db45c6a4c434da51398fcbfaa1db5b3019c651061"
+hash = "d6692113ebcb981e954027b0c8e159d3d093f1b16b72eeb25a339486d0f23330"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0c819d82356d9914c761a88e47aed1dec5376cf1720bf517964967b9d5390a92"
+hash = "02871b402fdfa0ba6e119239ec56e45f93f0a99b73bb85acfdc1671e6754f9f1"
 metafile = true
 
 [[files]]
