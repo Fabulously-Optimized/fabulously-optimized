@@ -1,6 +1,20 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.3
+
+### 5.7.0-alpha.1 (2023-12-07)
+
+:warning: Warning: This version of Minecraft adds the ability to insert items to decorated pots, however if you do only that in a given chunk and then leave the world, your items will be lost. The workaround is to edit _anything else_ in the same chunks that you have a pot in, then it will save properly. You may want to use F3+G to see the chunks.
+
+This bug is fixed in Minecraft 1.20.4 and as such, this is probably the first and last version of FO for 1.20.3.
+
+- Updated Entity Texture Features, Controlify, Debugify, Fabric API, Iris, Language Reload, ModernFix, Mod Menu, No Chat Reports, Sodium, YetAnotherConfigLib
+  - Skipped Entity Model Features update due to incompatibilities
+- Enforced Fabric Loader 0.15.0
+- Force-enabled OptiGUI, Indium
+- Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
+
 ## 1.20.2
 
 ### 5.6.3 (2023-12-07)
