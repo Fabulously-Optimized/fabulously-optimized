@@ -11,7 +11,7 @@ import toml  # pip install toml
 
 user_path = os.path.expanduser("~")
 git_path = user_path + "\\Documents\\GitHub\\fabulously-optimized\\"
-minecraft_version = "1.20.2"
+minecraft_version = "1.20.4"
 packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = os.path.join("..", "packwiz.exe")
 mods_path = packwiz_path + "mods"
@@ -182,8 +182,8 @@ def main():
     if not refresh_only:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
         mmc_zip_path = mmc_zip_root + "\\Fabulously Optimized " + pack_version + ".zip"
-        remove_mod_from_archive("Sodium", mmc_zip_path)
-        remove_mod_from_archive("Iris", mmc_zip_path)
+        #remove_mod_from_archive("Sodium", mmc_zip_path)
+        #remove_mod_from_archive("Iris", mmc_zip_path)
 
 
 if __name__ == "__main__":

@@ -6,15 +6,11 @@ hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c2f25147937d5621aebd7838522603267ea30aa5eca9dbb92a811c99c4b7c9db"
+hash = "78ba4845ecc0819838ca81caa89599ddbf1c3533ac61622064f533b414bebc5b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "547da6ae126c764360b00e334e77c3a66f66ee048c5d66882bcfb471b3e2104b"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "89a7af00ca38519e83575601dece118e5ed6da33a3d4219e52ea3b04d5dbe45b"
+hash = "c8ad1a03bfb39834755d02235c95230163c243a60e1ad94b125f1ab38f26c3d8"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -46,7 +42,7 @@ hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "984637c3b98e61c424b4cfa1015e1f44861d4a8896b544f3879882faa71705f8"
+hash = "cef51db1150ae1f30f504c8932c274ba174441d4fa177cda048b407da59d5865"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
@@ -59,6 +55,10 @@ hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -101,6 +101,10 @@ file = "config/yosbr/config/puzzle.json"
 hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
 [[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "89a7af00ca38519e83575601dece118e5ed6da33a3d4219e52ea3b04d5dbe45b"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
@@ -118,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "27d0f30e48bdd58d39155fa767298c2087baade10cd88150fbb048501a308328"
+hash = "b1694c2b9e886c20e1bba65543c56aeb0a0dc5f797b55b63d4a6bfa8dc1cc422"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -197,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "41a32ec4d62ef9d8bb37f55c03175a27bd3d7c2e48f29520f3ba4c09373a9b28"
+hash = "058940feb6c2fc7605562fce3e771544bad228a5dbee972f77165c7ed3b01360"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "54db7e2b74a2bf050e69e27db45c6a4c434da51398fcbfaa1db5b3019c651061"
+hash = "d6692113ebcb981e954027b0c8e159d3d093f1b16b72eeb25a339486d0f23330"
 metafile = true
 
 [[files]]
@@ -277,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0c819d82356d9914c761a88e47aed1dec5376cf1720bf517964967b9d5390a92"
+hash = "02871b402fdfa0ba6e119239ec56e45f93f0a99b73bb85acfdc1671e6754f9f1"
 metafile = true
 
 [[files]]
@@ -322,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "30d508f7499dfb83be5b1ba70916ab56cf3848e595bc48d4456ab466a2074e1f"
+hash = "10c00327cd05085ac76c5b8112b90659f79761edaac8b49ccbb3207f2309d06b"
 metafile = true
 
 [[files]]
@@ -357,10 +361,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "0c1343f7a182947f954600684278341ca6a04777f19a95a3572aea2a57692cd7"
+hash = "29e217821eaad5d505bd20ffce827d911ec7313ad7962f8e86e71f9a47ac5dfd"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "adb3794f6d062bf70af90c8c6ee9bb9102efde40d02e1758460a57555873ae3a"
+hash = "9a2ec6cf30bb50d2158d2d53d319654af13c29fa4131cc61e5706a3d766f8d50"
 metafile = true

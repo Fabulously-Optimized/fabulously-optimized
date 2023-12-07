@@ -1,7 +1,50 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.4
+
+### 5.8.0-alpha.1 (2023-12-07)
+
+- Updated Fabric API
+- Force-enabled Controlify, Debugify, Indium, Iris, OptiGUI
+- Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
+
+## 1.20.3
+
+### 5.7.0-alpha.1 (2023-12-07)
+
+:warning: Warning: This version of Minecraft adds the ability to insert items to decorated pots, however if you do only that in a given chunk and then leave the world, your items will be lost. The workaround is to edit _anything else_ in the same chunks that you have a pot in, then it will save properly. You may want to use F3+G to see the chunks.
+
+This bug is fixed in Minecraft 1.20.4 and as such, this is probably the first and last version of FO for 1.20.3.
+
+- Updated Entity Texture Features, Controlify, Debugify, Fabric API, Iris, Language Reload, ModernFix, Mod Menu, No Chat Reports, Sodium, YetAnotherConfigLib
+  - Skipped Entity Model Features update due to incompatibilities
+- Enforced Fabric Loader 0.15.0
+- Force-enabled Indium, OptiGUI
+- Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
+
 ## 1.20.2
+
+### 5.6.3 (2023-12-07)
+
+- Updated Fabric Language Kotlin, ModernFix
+  - Sodium and Iris updates skipped due to incompatibilities
+- Updated Italian, Malay, Malay (Jawi), Polish, Romanian, Vietnamese, Chinese Traditional and Simplified translations
+
+### 5.6.2 (2023-12-02)
+
+- Fixed Sodium translations not being applied
+
+### 5.6.1 (2023-12-02)
+
+_Due to a CurseForge App bug, this version never appeared on CurseForge._
+
+- Updated Fabric API, Remove Reloading Screen
+- Updated Fabric Loader to 0.15.0
+- Updated Chinese Traditional translation and RRLS description on MMH
+- Enabled inventory item optimization in ImmediatelyFast
+- Adjusted broken paths option to fix the [DUMMY]-crash
+- Updated MultiMC (auto-update) instance note
 
 ### 5.6.0 (2023-11-26)
 
