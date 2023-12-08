@@ -6,6 +6,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 <a href="https://wiki.download.fo/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
 <a href="https://download.fo/translate"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
+<a href="https://download.fo/rate"><img alt="Translate" height="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/8611110/289104479-b3748636-fd8a-4509-88d2-36020cf82c85.svg"></a>
 
 <a href="https://download.fo/discord"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
 <a href="https://download.fo/mastodon"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
