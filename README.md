@@ -6,14 +6,17 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 <a href="https://wiki.download.fo/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
 <a href="https://download.fo/translate"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
-<a href="https://download.fo/rate"><img alt="Rate" height="40" src="https://github.com/Fabulously-Optimized/fabulously-optimized/assets/8611110/1b67cf22-893e-461d-9600-158ae4c3e00c"></a>
+<a href="https://download.fo/rate"><img alt="Rate" height="40" src="https://github.com/Fabulously-Optimized/fabulously-optimized/assets/8611110/fce9cc22-36a7-4dad-89cf-b47a2f08daa8"></a>
 
 <a href="https://download.fo/discord"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
 <a href="https://download.fo/mastodon"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
 
 ## Downloads
 
-[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://download.fo/curseforge) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://download.fo/modrinth) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://download.fo/install)
+[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://download.fo/curseforge) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://download.fo/modrinth)
+<a href="https://download.fo/install"><img alt="How to install" height="28" src="https://github.com/Fabulously-Optimized/fabulously-optimized/assets/8611110/0aaed593-9791-4d24-8a64-8552e6bffa07"></a>
+
+
 
 We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or vanilla launcher.
 
