@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-alpha.2 (2023-12-10)
+
+- Readded Entity Model Features, ImmediatelyFast, Paginated Advancements
+- Updated Entity Texture Features, Cloth Config API, Fabric API, Iris, No Chat Reports, Sodium, YetAnotherConfigLib 
+- Updated and enforced Fabric Loader 0.15.1
+- Force-enabled Controlify, Debugify, Indium, Iris, OptiGUI
+- Temporarily removed CITResewn, FastQuit, FerriteCore, LambDynamicLights, Lithium
+
 ### 5.8.0-alpha.1 (2023-12-07)
 
 - Updated Fabric API
