@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-alpha.3-mr.1 (2023-12-14)
+
+A reupload for Modrinth and MultiMC (auto-update) to fix the Fabric Loader version setting.
+Version suffix is not visible in-game. 
+
 ### 5.8.0-alpha.3 (2023-12-14)
 
 - Readded FerriteCore
