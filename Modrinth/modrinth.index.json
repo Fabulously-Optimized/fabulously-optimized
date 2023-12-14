@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-alpha.2",
+    "versionId": "5.8.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -132,16 +132,16 @@
             "fileSize": 492605
         },
         {
-            "path": "mods/entityculling-fabric-1.6.2-mc1.20.1.jar",
+            "path": "mods/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
             "hashes": {
-                "sha1": "8e4be2bb9703deddb3d3d212c812cdc1f9de072b",
-                "sha512": "0080d3733f77e6b2e80e40d5d7bfe63dd125d94984bf92568d3434ff281f68123ec382ee53eba021278c01059299c12492dd518e61de1247f5cf7e8040bc98f1"
+                "sha1": "898794f5fe7051ce2c58c3c32e34d785fec7761d",
+                "sha512": "39cead9d742acbf031375323a0418d82fd6d5957f69e29a1ddfa493b9d932e2d824b13c46c8882417249d3407f145909ef4923514335d7e89af15c73946c7c20"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/BDwHAdWc/entityculling-fabric-1.6.2-mc1.20.1.jar",
-                "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20.2/entityculling-fabric-1.6.2-mc1.20.1.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
+                "https://github.com/tr7zw/EntityCulling/releases/download/1.6.3.1-1.20.4/entityculling-fabric-1.6.3.1-mc1.20.4.jar"
             ],
-            "fileSize": 59348
+            "fileSize": 59359
         },
         {
             "path": "mods/entity_model_features_fabric_1.20.3-1.2.jar",
@@ -212,6 +212,17 @@
             "fileSize": 44182
         },
         {
+            "path": "mods/ferritecore-6.0.3-fabric.jar",
+            "hashes": {
+                "sha1": "f2bbb773f4213d36201b76820f206e2a6f213c0c",
+                "sha512": "709ab6362dd1dcc432edd1e6c33aafba6f2d12be701bc14911107340f8ac2466779c4e57d8a303f0350c46478f23008e6eeca78e4eadedd0bdee63d4ae72ed9a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar"
+            ],
+            "fileSize": 125100
+        },
+        {
             "path": "mods/fsb-interop-1.3.6+mc1.20.2-build.52.jar",
             "hashes": {
                 "sha1": "f7c17f6c6bc49f5078e9631019f544b4dd696420",
@@ -247,15 +258,15 @@
             "fileSize": 104807
         },
         {
-            "path": "mods/iris-mc1.20.4-1.6.13.jar",
+            "path": "mods/iris-mc1.20.4-1.6.14.jar",
             "hashes": {
-                "sha1": "78c18c30c02acb80a0aa1f89f028091e5702fb10",
-                "sha512": "d672afa992eb25b357675d6cdab64e827958a03a8bd91549a9e7adbfdb606332b280e499842e1d17b66cabb47a0b392886b29e9149f1d358154dfb24fa0ad398"
+                "sha1": "7e62bb2851f2afc06946ea3fc170173528aefdbb",
+                "sha512": "a37762196bf78a1d05e848321bc02aa30df1fa97ba312d7177e52444fce06a2a75b2ae2338bdc9f51250d9008e2d931c9f03addca5c57551a64e65418806da49"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/xzCURg7P/iris-mc1.20.4-1.6.13.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/Xl7oywRL/iris-mc1.20.4-1.6.14.jar"
             ],
-            "fileSize": 2415648
+            "fileSize": 2400882
         },
         {
             "path": "mods/language-reload-1.5.10+1.20.3.jar",
@@ -305,15 +316,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.10.0+mc1.20.3.jar",
+            "path": "mods/modernfix-fabric-5.10.2+mc1.20.4.jar",
             "hashes": {
-                "sha1": "446e7d56ff9dbfc69322f002148fde99897fa4d7",
-                "sha512": "073547a897fb5353672a371738f623999d927472c7fd9025ee1d699d206c88f2b54b3d5ceb1da25b3473a9fce15dab617bb5401f6eb524129445b5e35e934c16"
+                "sha1": "286c2aab866377f5d6667015e01f79ade8acbe42",
+                "sha512": "b45e31d7ecc584058fca3fdf5a60bd6b70384ce7cfc05070d630dcaa1b749ff29a32af3c0709c3105dddf3e83399b6ce160a5e614ea480ddae70383b775c93fd"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/vxDb5tOq/modernfix-fabric-5.10.0%2Bmc1.20.3.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/MypV6XBd/modernfix-fabric-5.10.2%2Bmc1.20.4.jar"
             ],
-            "fileSize": 601319
+            "fileSize": 449803
         },
         {
             "path": "mods/modmenu-9.0.0-pre.1.jar",
@@ -384,15 +395,15 @@
             "fileSize": 70974
         },
         {
-            "path": "mods/puzzle-1.6.0+1.20.2.jar",
+            "path": "mods/puzzle-1.6.1+1.20.4.jar",
             "hashes": {
-                "sha1": "dfb0b32b72f86d751a063d2fcb6341f95968f589",
-                "sha512": "3f5b555e97281a310c2973273076e7a7edf0764b154426319a8213ae31bf11a37dd9ddb041ae19ab94d16c368ca615f6eba33959fdc9d04749a872c892f5b7f2"
+                "sha1": "599f203de21541d4ff9dee52a007c0999fe95059",
+                "sha512": "8dccc609d7fd64f265714dc788a7c3d4355e120ca9610ecc65e05924faf2b59a85a40a4feb9b23e5b26d75eaf60230edd53ede92d4fbaa720b2d7caba4ceca9a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3IuO68q1/versions/832Mh47P/puzzle-1.6.0%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/1srBlHhv/puzzle-1.6.1%2B1.20.4.jar"
             ],
-            "fileSize": 134047
+            "fileSize": 128303
         },
         {
             "path": "mods/reeses_sodium_options-1.7.0+mc1.20.2-build.97.jar",

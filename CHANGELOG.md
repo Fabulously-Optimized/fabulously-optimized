@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-alpha.3 (2023-12-14)
+
+- Readded FerriteCore
+- Updated Entity Culling, Iris, ModernFix, Puzzle
+- Updated French translation
+- Updated and enforced Fabric Loader 0.15.2
+- Force-enabled Controlify, Debugify, Indium, OptiGUI
+- Temporarily removed CITResewn, FastQuit, LambDynamicLights, Lithium
+
 ### 5.8.0-alpha.2 (2023-12-10)
 
 - Readded Entity Model Features, ImmediatelyFast, Paginated Advancements
