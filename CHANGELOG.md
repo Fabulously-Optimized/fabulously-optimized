@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-alpha.4 (2023-12-18)
+
+- Updated Dynamic FPS, OptiGUI, Fabrishot, Fabric API
+- Updated Chinese Traditional translation
+- Force-enabled Controlify, Debugify, Indium
+- Temporarily removed CITResewn, FastQuit, LambDynamicLights, Lithium
+
 ### 5.8.0-alpha.3-mr.1 (2023-12-14)
 
 A reupload for Modrinth and MultiMC (auto-update) to fix the Fabric Loader version setting.

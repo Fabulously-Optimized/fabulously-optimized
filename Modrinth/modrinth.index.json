@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-alpha.3",
+    "versionId": "5.8.0-alpha.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -98,16 +98,15 @@
             "fileSize": 365763
         },
         {
-            "path": "mods/dynamic-fps-3.2.1+minecraft-1.20.0.jar",
+            "path": "mods/dynamic-fps-3.3.1+minecraft-1.20.0.jar",
             "hashes": {
-                "sha1": "d4edd1828b1595eca7be0d36d1cc45b189a17a6e",
-                "sha512": "6ca9280ee22153552cdb4a75454850c2b75914d661afdea97c11a7c70370631f8f1574233c52ab46e36e97b9caed3f3574eee95169b2382d1b7a1e96973bdb77"
+                "sha1": "e357bcf2e63a4c02bd50c1ba9974cc2a395bc9c4",
+                "sha512": "e59e708d7b09726fbb1bdb053574da291126bdc0b15b83c18cda8c26cb12072be09798651b3dff7d2253cbeff4739598a505efe4ade3dc83d7ef8cfd861dab1c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/MJxmQ042/dynamic-fps-3.2.1%2Bminecraft-1.20.0.jar",
-                "https://github.com/juliand665/Dynamic-FPS/releases/download/3.2.1/dynamic-fps-3.2.1%2Bminecraft-1.20.0.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tBXQeb6B/dynamic-fps-3.3.1%2Bminecraft-1.20.0.jar"
             ],
-            "fileSize": 70316
+            "fileSize": 78387
         },
         {
             "path": "mods/e4mc-4.0.1+1.19.4-fabric.jar",
@@ -166,15 +165,15 @@
             "fileSize": 417224
         },
         {
-            "path": "mods/fabric-api-0.91.2+1.20.4.jar",
+            "path": "mods/fabric-api-0.91.3+1.20.4.jar",
             "hashes": {
-                "sha1": "dd4e591b4d56fa6cd32f6e1b7f2b89361a20afe2",
-                "sha512": "25a77645234edb9014ca9670e6bf56d60cc85caa679f0341abea0e0a5d9022118ce082504d629d9e7c8d28b67e2a45c89a319d347840b3230d4d85138d6e739c"
+                "sha1": "97e7a40a02f291a618ab7a63d5bd08dbcb50995e",
+                "sha512": "b5f7aa913ecfe85a1d7607e36b10d67c43e600179fad9a57d940a1ee1b795289acd9b5f5a75d8bb4f814af5f880207c024c1ebcbe4fbbdc173ecb8e93f8e74e5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/yGY1P8Yr/fabric-api-0.91.2%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/JQ07mKWY/fabric-api-0.91.3%2B1.20.4.jar"
             ],
-            "fileSize": 2080894
+            "fileSize": 2080845
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar",
@@ -200,16 +199,15 @@
             "fileSize": 207267
         },
         {
-            "path": "mods/fabrishot-1.10.0.jar",
+            "path": "mods/fabrishot-1.12.0.jar",
             "hashes": {
-                "sha1": "15cd04a988726aa4f45fe59813c384329f5d8b94",
-                "sha512": "153386dfd14e1d5731dd71baa336409c526711ec117d149cf145bc4c90bc1aa2aaf63e748443aa5fcb81651ae2f2e9470300cb3262c3b4ab67d8db558bd1523f"
+                "sha1": "90d268381013f84e3a34a4e183c7f617d7314684",
+                "sha512": "3bc5b9595838987c87680f1de29cde6c55da9de5a7e2f264e8d39f05ca2b07c837e970459c7bc6cfc51f9c299c4a75e6473640cb4a189f1028fd45bb1a4d5a2f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/fLwacDtJ/fabrishot-1.10.0.jar",
-                "https://github.com/ramidzkh/fabrishot/releases/download/1.10.0/fabrishot-1.10.0.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/QAIZAV4p/fabrishot-1.12.0.jar"
             ],
-            "fileSize": 44182
+            "fileSize": 46649
         },
         {
             "path": "mods/ferritecore-6.0.3-fabric.jar",
@@ -372,16 +370,15 @@
             "fileSize": 721079
         },
         {
-            "path": "mods/optigui-2.1.6.jar",
+            "path": "mods/optigui-2.1.7.jar",
             "hashes": {
-                "sha1": "e6ca2301b2a2aff1d44cb7c7d2ff757f87ce8bd7",
-                "sha512": "b53632fcc30c99e0ca60a616d3382c7feabb459c426fb1ec80974743bc8d0cb478fd0f49dd9ed77e7cb44c5a8f84ffd15c89952d70ea42fb4067fe2cffcd43e1"
+                "sha1": "47040b4c65b6381ca61bc3af61fee4df279b5eec",
+                "sha512": "d4b32aafbb4a1939476636906bd9fefaae23f7bd83ca39a94071a58fad3603d2efb3656c811291f68017f053b0f8aaf471d470fe4b9d5de21f256dfbbede76fa"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/rBFq3aQs/optigui-2.1.6.jar",
-                "https://github.com/opekope2/OptiGUI/releases/download/2.1.6/optigui-2.1.6.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/xpfegZsE/optigui-2.1.7.jar"
             ],
-            "fileSize": 780580
+            "fileSize": 780572
         },
         {
             "path": "mods/paginatedadvancements-2.4.2.jar",
@@ -512,13 +509,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "be40438ce306369abcfcf5d5fcda1489d15e25f6",
-                "sha512": "05f5cd1006b46cb7f2c4df9c77c3a21a386203c3a45e04cf8600656aa1f3affb0a0c95edaa76a3305ba192a7ad9855ef708d8aa2799b8411c1f62e2ec42293ea"
+                "sha1": "fac795281dda61b30ea0470bd120a52483fc83a8",
+                "sha512": "7482a763889fb11381429a48fe1410a78293a92ab6221fb019e1a5e321ef91135eea7ea61be7c4f8381211d19f34fe3175410a4184330ac7807327b33c65f001"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/90djltEk/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/QIUzFOtg/SodiumTranslations.zip"
             ],
-            "fileSize": 173325
+            "fileSize": 174684
         }
     ],
     "dependencies": {
