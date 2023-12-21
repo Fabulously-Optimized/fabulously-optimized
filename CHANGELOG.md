@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.1 (2023-12-21)
+
+Did you know that the next planned version of Minecraft is 1.20.5?
+
+- Readded Lithium
+- Updated Fabrishot, Indium, Cloth Config, Mod Menu
+- Updated and enforced Fabric Loader 0.15.3
+- Force-enabled: Controlify, Debugify
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-alpha.4 (2023-12-18)
 
 - Updated Dynamic FPS, OptiGUI, Fabrishot, Fabric API

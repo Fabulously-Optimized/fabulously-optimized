@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-alpha.4",
+    "versionId": "5.8.0-beta.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -52,15 +52,15 @@
             "fileSize": 209297
         },
         {
-            "path": "mods/cloth-config-13.0.114-fabric.jar",
+            "path": "mods/cloth-config-13.0.121-fabric.jar",
             "hashes": {
-                "sha1": "79bad6f25b5c2c21147475f2bcdb102120bb8d74",
-                "sha512": "146ee4ac2092e45b9574c54ef59d897d54700dfcfa353f3b6965342261a94d83b902cf4c90d5c0691c5c7018e2f49660cd8f32aa9abe185ad03117906cf8a924"
+                "sha1": "e20f396a937a09b686aa986c802643b9adbb311e",
+                "sha512": "05a389ce4383c7b202e6aa7b37f39da01b6ee1f5b22dad076d528891b5ef8bcae335b2d7930b33b753ad34f1a61bae52f3447f74a4df6739239344674b59b0c5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9s6osm5g/versions/YFpDLLdu/cloth-config-13.0.114-fabric.jar"
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/eBZiZ9NS/cloth-config-13.0.121-fabric.jar"
             ],
-            "fileSize": 1142068
+            "fileSize": 1142084
         },
         {
             "path": "mods/continuity-3.0.0-beta.4+1.20.2.jar",
@@ -104,7 +104,8 @@
                 "sha512": "e59e708d7b09726fbb1bdb053574da291126bdc0b15b83c18cda8c26cb12072be09798651b3dff7d2253cbeff4739598a505efe4ade3dc83d7ef8cfd861dab1c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tBXQeb6B/dynamic-fps-3.3.1%2Bminecraft-1.20.0.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tBXQeb6B/dynamic-fps-3.3.1%2Bminecraft-1.20.0.jar",
+                "https://github.com/juliand665/Dynamic-FPS/releases/download/3.3.1/dynamic-fps-3.3.1%2Bminecraft-1.20.0.jar"
             ],
             "fileSize": 78387
         },
@@ -199,15 +200,16 @@
             "fileSize": 207267
         },
         {
-            "path": "mods/fabrishot-1.12.0.jar",
+            "path": "mods/fabrishot-1.12.1.jar",
             "hashes": {
-                "sha1": "90d268381013f84e3a34a4e183c7f617d7314684",
-                "sha512": "3bc5b9595838987c87680f1de29cde6c55da9de5a7e2f264e8d39f05ca2b07c837e970459c7bc6cfc51f9c299c4a75e6473640cb4a189f1028fd45bb1a4d5a2f"
+                "sha1": "c348c0966a2169a67f6a40f80a85c699104a8642",
+                "sha512": "b9dd8ec0dc7d78ca3b339c20428ab12e7fd099873f418a22d02d91a3605c9f47260bcbcc5977d19c4b5049eb8f69557c2157f83c96b1e1b90f7395ea6f44f675"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/QAIZAV4p/fabrishot-1.12.0.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/crC7YOpw/fabrishot-1.12.1.jar",
+                "https://github.com/ramidzkh/fabrishot/releases/download/1.12.1/fabrishot-1.12.1.jar"
             ],
-            "fileSize": 46649
+            "fileSize": 51064
         },
         {
             "path": "mods/ferritecore-6.0.3-fabric.jar",
@@ -244,16 +246,16 @@
             "fileSize": 218785
         },
         {
-            "path": "mods/indium-1.0.27+mc1.20.1.jar",
+            "path": "mods/indium-1.0.28+mc1.20.4.jar",
             "hashes": {
-                "sha1": "8c8e6b96243155b41f2f9d29d5940ee895bcb141",
-                "sha512": "c6e6627b8bb6a40497f27f86619ee5f17f68386f10585b4944e1aad01337a8f55be7401bc1824c69f94d755db3faaf16537b1d2d2cd282d24393d61df9b6fbef"
+                "sha1": "58dd40a3047dc9539996258a884fc92a0cced2e7",
+                "sha512": "cdd8395b5c91fac0a4f3d6d7b94dee44dc6b585e86dbc8dce47945b1a5738fdb0b6a571a28ba47ef06a451b2fe45a28dffe6d55a7212d3dd38c73b2c4fd56231"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/Lue6O9z9/indium-1.0.27%2Bmc1.20.1.jar",
-                "https://github.com/comp500/Indium/releases/download/1.0.27%2Bmc1.20.1/indium-1.0.27%2Bmc1.20.1.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/tD2IqHXC/indium-1.0.28%2Bmc1.20.4.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.28%2Bmc1.20.4/indium-1.0.28%2Bmc1.20.4.jar"
             ],
-            "fileSize": 104807
+            "fileSize": 104806
         },
         {
             "path": "mods/iris-mc1.20.4-1.6.14.jar",
@@ -277,6 +279,18 @@
                 "https://github.com/Jerozgen/LanguageReload/releases/download/1.5.10%2B1.20.3/language-reload-1.5.10%2B1.20.3.jar"
             ],
             "fileSize": 200750
+        },
+        {
+            "path": "mods/lithium-fabric-mc1.20.4-0.12.1.jar",
+            "hashes": {
+                "sha1": "4a0744beb2246d93cb475d21a5a53faa556956e0",
+                "sha512": "70bea154eaafb2e4b5cb755cdb12c55d50f9296ab4c2855399da548f72d6d24c0a9f77e3da2b2ea5f47fa91d1258df4d08c6c6f24a25da887ed71cea93502508"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4-0.12.1.jar",
+                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.20.4-0.12.1/lithium-fabric-mc1.20.4-0.12.1.jar"
+            ],
+            "fileSize": 716022
         },
         {
             "path": "mods/main-menu-credits-1.1.2.jar",
@@ -325,15 +339,15 @@
             "fileSize": 449803
         },
         {
-            "path": "mods/modmenu-9.0.0-pre.1.jar",
+            "path": "mods/modmenu-9.0.0.jar",
             "hashes": {
-                "sha1": "940a5614137befcad119740e20a2cfceb254307a",
-                "sha512": "0c69d9a6231cbd244a36b2f67e50567eda3b07bda3b9d1a927b84a1cd30fbb840bf4c94c4b2f94fd46fe82d18c0b2389fecebd161c9ccc48927b854224f68810"
+                "sha1": "eb09a3b6668407df4ad9b24849d52a38c448877e",
+                "sha512": "62ae3152d6dfd2745b95a6572f085bf8deb708d183a4234e6f72ae7b07f05a787454d4f289cee96d4e0f7efab026ed6073659d1aebb87530abeb7ddcfc0fe40b"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/4EYB2Bxx/modmenu-9.0.0-pre.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/sjtVVlsA/modmenu-9.0.0.jar"
             ],
-            "fileSize": 724562
+            "fileSize": 724484
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -376,7 +390,8 @@
                 "sha512": "d4b32aafbb4a1939476636906bd9fefaae23f7bd83ca39a94071a58fad3603d2efb3656c811291f68017f053b0f8aaf471d470fe4b9d5de21f256dfbbede76fa"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/xpfegZsE/optigui-2.1.7.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/xpfegZsE/optigui-2.1.7.jar",
+                "https://github.com/opekope2/OptiGUI/releases/download/2.1.7/optigui-2.1.7.jar"
             ],
             "fileSize": 780572
         },
@@ -436,6 +451,18 @@
                 "https://cdn.modrinth.com/data/PtjYWJkn/versions/e8Jw5Pey/sodium-extra-0.5.3%2Bmc1.20.2-build.114.jar"
             ],
             "fileSize": 365767
+        },
+        {
+            "path": "mods/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
+            "hashes": {
+                "sha1": "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
+                "sha512": "de0ec6cc85a9b90a4a2dc43ca81db962691cb95362bde8db54115c8fadf257d97fc05267832b14f2e576af4743dfde9d79e3deeea0b46b2685085fa1e21d50ee"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar",
+                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar"
+            ],
+            "fileSize": 507710
         },
         {
             "path": "mods/sodium-fabric-mc1.20.3-0.5.5.jar",
@@ -520,6 +547,6 @@
     ],
     "dependencies": {
         "minecraft": "1.20.4",
-        "fabric-loader": "0.15.2"
+        "fabric-loader": "0.15.3"
     }
 }
