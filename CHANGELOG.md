@@ -52,6 +52,13 @@ Version suffix is not visible in-game.
 
 ## 1.20.2
 
+### 5.6.4 (2023-12-21)
+
+- Updated OptiGUI, Entity Model Features, Entity Texture Features, Dynamic FPS, ImmediatelyFast, Cloth Config, ModernFix, Mod Menu, Fabrishot, Fabric API, Entity Culling
+  - Sodium, Indium, Iris updates skipped due to incompatibilities
+- Updated Fabric Loader to 0.15.3
+- Updated French and Chinese Traditional translations
+
 ### 5.6.3 (2023-12-07)
 
 - Updated Fabric Language Kotlin, ModernFix
