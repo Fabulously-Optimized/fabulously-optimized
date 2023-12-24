@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-beta.1",
+    "versionId": "5.8.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -74,28 +74,28 @@
             "fileSize": 1050675
         },
         {
-            "path": "mods/Controlify-1.7.0+1.20.3.jar",
+            "path": "mods/Controlify-1.7.0+1.20.4.jar",
             "hashes": {
-                "sha1": "d44c13b8a50af7c38f4e40dc12dd3394cd7bcf1f",
-                "sha512": "8f61fc16d641f78a7750eda90631c61d1ef26bbec85b19c609031d1a36083a543eca6463ae798dc577ccd74f450dfb8bfebba56ff7b9110ee692de97b46859f6"
+                "sha1": "8ba3da5285b71995d4779687a37a2b3a053b35b3",
+                "sha512": "2ae38edde6770e56bcc1a707564d3ff7f82b33b12728ca4ff2e063a9bfa9ea3eaf3d39b1aad8d2272aa79589b51ad0afb75a450260ef1735c97a309e5d986cee"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/1sbnpZZs/Controlify-1.7.0%2B1.20.3.jar",
-                "https://github.com/isXander/Controlify/releases/download/1.7.0%2B1.20.3/Controlify-1.7.0%2B1.20.3.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/ATnQknqh/Controlify-1.7.0%2B1.20.4.jar",
+                "https://github.com/isXander/Controlify/releases/download/1.7.0%2B1.20.4/Controlify-1.7.0%2B1.20.4.jar"
             ],
-            "fileSize": 2133496
+            "fileSize": 2133490
         },
         {
-            "path": "mods/Debugify-1.20.3+1.1.jar",
+            "path": "mods/Debugify-1.20.4+1.0.jar",
             "hashes": {
-                "sha1": "2fbcf37cbeddc94a9349bf90fbcb9c2261c48400",
-                "sha512": "cddeb0e49d32c97d2cd2844b18af402b2534002926a6d06f414ed5842de719cd38e438b1c7104f78e4ee8d1cd8cfc366d41c7c8942fe850b88f850f0700be266"
+                "sha1": "1e5ad7a619ca72824e7196403aae44ebb0a2468e",
+                "sha512": "70057dc68154a9a195bb0f73dcda1af587917b312714338db6d68dfc6c8c429bbd133624f047af3e7cc4ef2de273bc4d2698d1c5fd1075160bcd3c1972c263ab"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/vJOKWGcy/Debugify-1.20.3%2B1.1.jar",
-                "https://github.com/isXander/Debugify/releases/download/1.20.3%2B1.1/Debugify-1.20.3%2B1.1.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/gGTvKKDk/Debugify-1.20.4%2B1.0.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.20.4%2B1.0/Debugify-1.20.4%2B1.0.jar"
             ],
-            "fileSize": 365763
+            "fileSize": 270298
         },
         {
             "path": "mods/dynamic-fps-3.3.1+minecraft-1.20.0.jar",
@@ -177,16 +177,16 @@
             "fileSize": 2080845
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar",
+            "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
             "hashes": {
-                "sha1": "c411b587ba7b272b956605e5ee2ad10985e38ec9",
-                "sha512": "a8cd43f7b946c5c3229f179eee24d8ec8624b9646f27e1a4022e67281a2e142e35a13d537287718ea86b93d7a9b24169c464219806f36eefec53dfb70cc037c5"
+                "sha1": "02e0af07d7c1476a6bd0530d0dacf0a2a9f8a8ea",
+                "sha512": "764a95b0c0c9020adf44e378afff6ca2b241f5e44e8e4fc05ad7878a6d242208b48ffb523be12d82d63b2fbd706cc82468645e947a0d52229b44f50191b1b533"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/VJUqKopR/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.16%2Bkotlin.1.9.21/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.17%2Bkotlin.1.9.22/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar"
             ],
-            "fileSize": 6728096
+            "fileSize": 6732012
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -328,15 +328,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.10.2+mc1.20.4.jar",
+            "path": "mods/modernfix-fabric-5.11.0+mc1.20.4.jar",
             "hashes": {
-                "sha1": "286c2aab866377f5d6667015e01f79ade8acbe42",
-                "sha512": "b45e31d7ecc584058fca3fdf5a60bd6b70384ce7cfc05070d630dcaa1b749ff29a32af3c0709c3105dddf3e83399b6ce160a5e614ea480ddae70383b775c93fd"
+                "sha1": "275f603ea4d1e2bdebde8ebacc3004035c53d126",
+                "sha512": "b44fc5b3cc65a0d2044ac47d1254b6e432c3cf4a087b37eb763b8b8af6b5a9965f6e4219b0451b0a880617fa7facb5be4e974b0a049c35bf4059dae7115ed4d5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/MypV6XBd/modernfix-fabric-5.10.2%2Bmc1.20.4.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/DAzGqP8u/modernfix-fabric-5.11.0%2Bmc1.20.4.jar"
             ],
-            "fileSize": 449803
+            "fileSize": 451839
         },
         {
             "path": "mods/modmenu-9.0.0.jar",
@@ -453,18 +453,6 @@
             "fileSize": 365767
         },
         {
-            "path": "mods/sodium-fabric-mc1.16.5-0.2.0+build.4.jar",
-            "hashes": {
-                "sha1": "bf03460f1f82f355d1fe23a27ee81c3ed24e54dc",
-                "sha512": "de0ec6cc85a9b90a4a2dc43ca81db962691cb95362bde8db54115c8fadf257d97fc05267832b14f2e576af4743dfde9d79e3deeea0b46b2685085fa1e21d50ee"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar",
-                "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar"
-            ],
-            "fileSize": 507710
-        },
-        {
             "path": "mods/sodium-fabric-mc1.20.3-0.5.5.jar",
             "hashes": {
                 "sha1": "999eb53c5761850e99d234812dd0f710640b79a5",
@@ -514,13 +502,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "776947da213d7c461775c4168f84e8468493b416",
-                "sha512": "1b2869996f59b199cd1b0aac1b8495ef6efcfdbfee21daa7989359b35571c08c14697c608e4915ff192d511acd41e5b255a3c81195465c891cb57361f15affce"
+                "sha1": "daf4bfc8cfaf8aedef28ffd271487c06bca101ea",
+                "sha512": "afe66a26c8675040076deedb31bfb71890dc70b21236d001f2289281da620bfaee20128e85fddf39de4aff13be4849e18e41d3562a06fe198ff4c8d3674aa065"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/tDqbwxyq/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/1SHtlNIB/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 53994
+            "fileSize": 54009
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -536,13 +524,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "fac795281dda61b30ea0470bd120a52483fc83a8",
-                "sha512": "7482a763889fb11381429a48fe1410a78293a92ab6221fb019e1a5e321ef91135eea7ea61be7c4f8381211d19f34fe3175410a4184330ac7807327b33c65f001"
+                "sha1": "1a9055f56ead39233ee79f5ea9232a9a43db31be",
+                "sha512": "916d36c23d665549354a9c11467148fe5213a366bd7dd7c1b62c04406cd02347f98b8f30f52429989e392f25f31cefb0eeb9eaec32ccb8536b5a8d9423230ae9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/QIUzFOtg/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/s2FqIXh9/SodiumTranslations.zip"
             ],
-            "fileSize": 174684
+            "fileSize": 174841
         }
     ],
     "dependencies": {

@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.2 (2023-12-24)
+
+- Updated Controlify, Debugify, Fabric Language Kotlin, ModernFix
+- Removed duplicate Sodium
+- Updated Chinese Traditional translations
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.1 (2023-12-21)
 
 Did you know that the next planned version of Minecraft is 1.20.5?
