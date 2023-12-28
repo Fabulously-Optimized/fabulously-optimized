@@ -4,13 +4,13 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 [**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://wiki.download.fo/readme/changed-options) | [**❤️ Support and contribute**](https://download.fo/thanks)
 
-<a href="https://wiki.download.fo/"><img alt="Wiki" height="60" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://download.fo/translate"><img alt="Translate" height="60" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
+<a href="https://wiki.download.fo/"><img alt="Wiki" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://download.fo/translate"><img alt="Translate" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
 
-<a href="https://download.fo/rate"><img height="60" src="https://github.com/PSGitHubUser1/fabulously-optimized/assets/90406016/c2b91fcf-0d7c-41ec-8af6-b4a5671c8bed"></a>&nbsp;&nbsp;
-<a href="https://download.fo/discord"><img alt="Discord" height="60" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
+<a href="https://download.fo/rate"><img height="50" src="https://github.com/PSGitHubUser1/fabulously-optimized/assets/90406016/c2b91fcf-0d7c-41ec-8af6-b4a5671c8bed"></a>&nbsp;&nbsp;
+<a href="https://download.fo/discord"><img alt="Discord" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
 
-<a href="https://download.fo/mastodon"><img alt="Mastodon" height="60" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>&nbsp;
+<a href="https://download.fo/mastodon"><img alt="Mastodon" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>&nbsp;
 
 ## Downloads
 
