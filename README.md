@@ -42,7 +42,7 @@ Not sure which edition is right for you? Check this handy table!
 | Add mods with few clicks | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | Supports the modpack and mods | ✅ | ✅ | ●¹ | ●¹ | ●¹ | ●¹ |
 | Can be used offline | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows, macOS, Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
