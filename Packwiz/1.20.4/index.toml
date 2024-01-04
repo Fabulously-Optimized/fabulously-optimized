@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/citresewn.json"
-hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5acf512802d5341bb9d879cc998299cdafbcfaf884a25511ede83b75bba17def"
+hash = "354f79941d6e5eaa1d2c0088771d55c4af251660bd9bd048ffe4cc9705f6e8aa"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cb3608fec5b5dd266874687af72073e0a6aeaac839e681305dbac6c94f847e86"
+hash = "4935537fecc3926ea81beee1b71e542c6a7248689fb50932634977165c5ce8e3"
 
 [[files]]
 file = "config/modmenu.json"
@@ -31,6 +27,10 @@ hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
@@ -102,7 +102,7 @@ hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "89a7af00ca38519e83575601dece118e5ed6da33a3d4219e52ea3b04d5dbe45b"
+hash = "ade080447491d2a630c65b7343df636833f8283fe5af9db74b51c4e122bf0550"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "c01246e5aecb2198cdad019aecd19a88575fb7956adc4277dda2740dfaefea83"
+hash = "4d7172e3ebf5aa457ac2524e78f2c445e3afbd928f24c00e886f7abd9f90e0dc"
 metafile = true
 
 [[files]]
@@ -186,17 +186,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "51cbafd397e6d907f25effa59199e84ee6f4319b37e8d3151cf5ccd31c11b279"
+hash = "0b2b22cd209550512b1b2a512fea58a3750bc326a2969c8edb7db91969531671"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "f8000c743650484042abe5064e135545c272a78ce5236b704b43f195593a46cb"
+hash = "ea10b5b7e39c19097369a740027040a228cc2e9a211315ed270ee97f17e505c1"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a936ffd4606e1990368c56bef026760c3508a862ee65252dd6ef06d8fbecedbf"
+hash = "827a9a5e6568235833e91a87c4777f149fad881b179565f32f6fbd1288183b54"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a32bf0d290f5261cb418bf7275e32513f1123eb129c3feb23c7b830de54a6fa6"
+hash = "c41545db29bd83bba79e70a8029b7b306a680c5e9e95943c791ac8094bc0b949"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "10c00327cd05085ac76c5b8112b90659f79761edaac8b49ccbb3207f2309d06b"
+hash = "d1119f47d9250059595a246067e0d751b5a6944b6c9fa4cfd74bc49e10df9392"
 metafile = true
 
 [[files]]

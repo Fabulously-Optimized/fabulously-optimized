@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.3 (2024-01-03)
+
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, ModernFix, RemoveReloadingScreen
+- Disabled RemoveReloadingScreen's April Fools easter egg
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.2 (2023-12-24)
 
 - Updated Controlify, Debugify, Fabric Language Kotlin, ModernFix
