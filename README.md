@@ -6,7 +6,7 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 <a href="https://wiki.download.fo/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
 <a href="https://download.fo/translate"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
-<a href="https://download.fo/rate"><img alt="Rate" height="40" src="https://github.com/Fabulously-Optimized/fabulously-optimized/assets/8611110/fce9cc22-36a7-4dad-89cf-b47a2f08daa8"></a>
+<a href="https://download.fo/rate"><img alt="Rate" height="40" src="https://github.com/PSGitHubUser1/fabulously-optimized/assets/90406016/c2b91fcf-0d7c-41ec-8af6-b4a5671c8bed"></a>
 
 <a href="https://download.fo/discord"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
 <a href="https://download.fo/mastodon"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
@@ -16,15 +16,13 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://download.fo/curseforge) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://download.fo/modrinth)
 <a href="https://download.fo/install"><img alt="How to install" height="28" src="https://github.com/Fabulously-Optimized/fabulously-optimized/assets/8611110/0aaed593-9791-4d24-8a64-8552e6bffa07"></a>
 
-
-
 We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or vanilla launcher.
 
 <details>
   <summary>Alternative downloads</summary>
 
-_These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://wiki.download.fo/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.1/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-alpha.1/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
+_These downloads may not fully support the modpack or the mods :(_
+* [MultiMC (auto-update)](https://wiki.download.fo/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.4/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-alpha.3/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
 * ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
 * [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 * Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
@@ -44,7 +42,7 @@ Not sure which edition is right for you? Check this handy table!
 | Add mods with few clicks | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | Supports the modpack and mods | ✅ | ✅ | ●¹ | ●¹ | ●¹ | ●¹ |
 | Can be used offline | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows, macOS, Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
@@ -62,6 +60,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
   * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
   * Items have the original names on their tooltips for command usage purposes
 * Game controllers are supported
+* Local worlds can optionally be played with friends through the Internet (see disclaimers below)
 * [Several launchers are supported](#downloads)
 * [The purpose and settings for each included mod are displayed in the mod menu](https://wiki.download.fo/readme/changed-options#resource-packs)
 * Splash screen is black, similar to Bedrock Edition
@@ -78,6 +77,11 @@ By using this modpack, you agree to the following:
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
     *  [The "social interactions" screen](https://minecraft.wiki/w/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
     * On servers where chat signing is optional, the modpack opts out of it for the playing user to adhere to server's intent. An indicator icon is added to inform players of the signing status in the server (whether the server supports Mojang's chat safety features). [Read more](https://wiki.download.fo/readme/chat-reporting-faq#what-does-this-modpack-do-for-me).
+* The modpack features [e4mc](https://modrinth.com/mod/e4mc), which gives users the ability to let their friends connect to their world through the internet, without the use of additional software or mods on the friend side.
+  * The feature is (only!) activated by the usual means of opening a world to LAN, so the world can be connected both through LAN and from Internet.
+  * A proxy server in one of the four locations in the world is used to generate a randomized "IP" (technically, a subdomain) where other players can connect to. The host's own IP address is never shared, and the generated "IP" varies every time.
+  * LAN- and Internet-sharing are automatically disabled once the host disconnects the world. The host can also close the Internet sharing manually for the session by clicking on the link in chat that appeared during creation.
+  * Both LAN and Internet variants use the same world settings (gamemode, cheats enabled, etc.), including the player limit of host + up to 7 players.
 * [Per the privacy and familiarity goals](https://wiki.download.fo/readme/principles), the modpack disables Mojang's analytics collection, individual mod update checkers and cosmetic donor features, plus any other network services that may invade privacy or cause confusion. All of these can be re-enabled by users in the respective configs.
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://wiki.download.fo/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
 * Yes, you can fork/remix this pack [according to the license](LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).

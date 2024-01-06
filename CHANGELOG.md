@@ -3,6 +3,61 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.3 (2024-01-03)
+
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, ModernFix, RemoveReloadingScreen
+- Disabled RemoveReloadingScreen's April Fools easter egg
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
+### 5.8.0-beta.2 (2023-12-24)
+
+- Updated Controlify, Debugify, Fabric Language Kotlin, ModernFix
+- Removed duplicate Sodium
+- Updated Chinese Traditional translations
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
+### 5.8.0-beta.1 (2023-12-21)
+
+Did you know that the next planned version of Minecraft is 1.20.5?
+
+- Readded Lithium
+- Updated Fabrishot, Indium, Cloth Config, Mod Menu
+- Updated and enforced Fabric Loader 0.15.3
+- Force-enabled: Controlify, Debugify
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
+### 5.8.0-alpha.4 (2023-12-18)
+
+- Updated Dynamic FPS, OptiGUI, Fabrishot, Fabric API
+- Updated Chinese Traditional translation
+- Force-enabled Controlify, Debugify, Indium
+- Temporarily removed CITResewn, FastQuit, LambDynamicLights, Lithium
+
+### 5.8.0-alpha.3-mr.1 (2023-12-14)
+
+A reupload for Modrinth and MultiMC (auto-update) to fix the Fabric Loader version setting.
+Version suffix is not visible in-game. 
+
+### 5.8.0-alpha.3 (2023-12-14)
+
+- Readded FerriteCore
+- Updated Entity Culling, Iris, ModernFix, Puzzle
+- Updated French translation
+- Updated and enforced Fabric Loader 0.15.2
+- Force-enabled Controlify, Debugify, Indium, OptiGUI
+- Temporarily removed CITResewn, FastQuit, LambDynamicLights, Lithium
+
+### 5.8.0-alpha.2 (2023-12-10)
+
+- Readded Entity Model Features, ImmediatelyFast, Paginated Advancements
+- Updated Entity Texture Features, Cloth Config API, Fabric API, Iris, No Chat Reports, Sodium, YetAnotherConfigLib 
+- Updated and enforced Fabric Loader 0.15.1
+- Force-enabled Controlify, Debugify, Indium, Iris, OptiGUI
+- Temporarily removed CITResewn, FastQuit, FerriteCore, LambDynamicLights, Lithium
+
 ### 5.8.0-alpha.1 (2023-12-07)
 
 - Updated Fabric API
@@ -22,6 +77,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
 
 ## 1.20.2
+
+### 5.6.4 (2023-12-21)
+
+- Updated OptiGUI, Entity Model Features, Entity Texture Features, Dynamic FPS, ImmediatelyFast, Cloth Config, ModernFix, Mod Menu, Fabrishot, Fabric API, Entity Culling
+  - Sodium, Indium, Iris updates skipped due to incompatibilities
+- Updated Fabric Loader to 0.15.3
+- Updated French and Chinese Traditional translations
 
 ### 5.6.3 (2023-12-07)
 
