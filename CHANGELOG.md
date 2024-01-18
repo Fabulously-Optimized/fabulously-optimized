@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.5 (2024-01-17)
+
+- Readded FastQuit
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, ModernFix, Remove Reloading Screen, Zoomify
+- Updated Ukrainian translation
+- Updated and enforced Fabric Loader 0.15.5
+- Not yet available: CITResewn, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
+### 5.8.0-beta.4 (2024-01-11)
+
+- Updated Fabric API, ModernFix, Remove Reloading Screen
+  - Skipped MoreCulling update due to a bug
+- Updated Russian translation
+- Not yet available: CITResewn, FastQuit, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.3 (2024-01-03)
 
 - Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, ModernFix, RemoveReloadingScreen

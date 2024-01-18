@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "354f79941d6e5eaa1d2c0088771d55c4af251660bd9bd048ffe4cc9705f6e8aa"
+hash = "949e50aceb2ba946ff4ccbb41064cbe77472a0deb949d5869be1b604b04a0d83"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4935537fecc3926ea81beee1b71e542c6a7248689fb50932634977165c5ce8e3"
+hash = "62467b962cf303a6c15a2cca55cf3f27e581ea4f28110f99e857a12af2e528c5"
 
 [[files]]
 file = "config/modmenu.json"
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "5cc43f6eda17bc068c4d0e8657e3cb1f4e9adbc858c0d09dda139ca9f6034670"
+hash = "270f2b7ed18ed0988856c47bd6395adc868047f5868af8bab47c08e23708987f"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "4d7172e3ebf5aa457ac2524e78f2c445e3afbd928f24c00e886f7abd9f90e0dc"
+hash = "3fc8b9a5db887a1bfe4d85bc532591208a414a4caec8c5ae822e172093b07c9a"
 metafile = true
 
 [[files]]
@@ -186,17 +186,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "0b2b22cd209550512b1b2a512fea58a3750bc326a2969c8edb7db91969531671"
+hash = "707a0b18e97c6bc2c6477bc157d16930d60a1ed0b21860e0997d583023053b73"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "ea10b5b7e39c19097369a740027040a228cc2e9a211315ed270ee97f17e505c1"
+hash = "6c068867ff45ba72219a09405aa6461a477b4cb452efb48df162e14e4ed37d87"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "827a9a5e6568235833e91a87c4777f149fad881b179565f32f6fbd1288183b54"
+hash = "988b70aefac2046deb931958234ffe8d18b12a427cd9d704d47efe0288761878"
 metafile = true
 
 [[files]]
@@ -212,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "9320866236b43f1a6610e0656a504ab5fc45df2b5bf0b42df5cbfbac2e9f221e"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "6ff05404cca11475e2e4b436b092a61cef75e36af38ee9931c009dcc8734e77a"
 metafile = true
 
 [[files]]
@@ -266,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c41545db29bd83bba79e70a8029b7b306a680c5e9e95943c791ac8094bc0b949"
+hash = "bd0df0d74c464494468e39578a769ac20bd2ec527fc5a2348dc80e06b98103cd"
 metafile = true
 
 [[files]]
@@ -311,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "d1119f47d9250059595a246067e0d751b5a6944b6c9fa4cfd74bc49e10df9392"
+hash = "4bbb5f8851f92752278be103f5747625b30b39804eb5b434345a079a759991a3"
 metafile = true
 
 [[files]]
@@ -336,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "10f38e5987b54c59e5d5d5045a8b48d108a297ce29fc3b8d6de1564b2e3e70bc"
+hash = "fc17aaf440b65f3c4ab3d97c5b03aa0963248b4ab6c642b0daf3a27180ecb1c5"
 metafile = true
 
 [[files]]
@@ -351,5 +356,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "e998521eefb84ac72743826ad9d3e82dadc7c75e3b44a7ee3443b40d286bc2b5"
+hash = "36cc855d0aa7748e6be288f6bbce9ca579d5acfe60a6ec270ffc7195efce023c"
 metafile = true
