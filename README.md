@@ -18,7 +18,9 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 <sub>By downloading Fabulously Optimized, you have acknowledged [the disclaimers](https://download.fo/terms).</sub>
 
-We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or official Minecraft Launcher. Not sure which edition is right for you? Check this handy table!
+We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or official Minecraft Launcher. 
+
+Not sure which edition is right for you? Check this handy table!
 
 | Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla - manual install) |
 |---|---|---|---|---|---|---|
