@@ -95,6 +95,14 @@ Version suffix is not visible in-game.
 
 ## 1.20.2
 
+### 5.6.5 (2024-01-22)
+
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, Fabric Language Kotlin, MoreCulling, Remove Reloading Screen, Zoomify
+  - Sodium, Indium, Iris updates not planned for 1.20.2 due to incompatibilities
+- Enabled end gateway culling in MoreCulling
+- Updated Fabric Loader to 0.15.6
+- Backported other changes from 5.8.0-beta.5
+
 ### 5.6.4 (2023-12-21)
 
 - Updated OptiGUI, Entity Model Features, Entity Texture Features, Dynamic FPS, ImmediatelyFast, Cloth Config, ModernFix, Mod Menu, Fabrishot, Fabric API, Entity Culling
