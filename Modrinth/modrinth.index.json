@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-beta.5",
+    "versionId": "5.8.0-beta.6",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -74,16 +74,15 @@
             "fileSize": 1050675
         },
         {
-            "path": "mods/Controlify-1.7.0+1.20.4.jar",
+            "path": "mods/Controlify-1.8.1+1.20.4.jar",
             "hashes": {
-                "sha1": "8ba3da5285b71995d4779687a37a2b3a053b35b3",
-                "sha512": "2ae38edde6770e56bcc1a707564d3ff7f82b33b12728ca4ff2e063a9bfa9ea3eaf3d39b1aad8d2272aa79589b51ad0afb75a450260ef1735c97a309e5d986cee"
+                "sha1": "25c740455648bccae00008ae677f11d1c0a08a2c",
+                "sha512": "60c773bb981eb94c41db0b6bec5e45dc74c7194f4e33e905b512fdc5dea8439c35fb62bfd831e14f2272fbffdb2cdc0a7bbb509ad2c56348f3d535572000b44a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/ATnQknqh/Controlify-1.7.0%2B1.20.4.jar",
-                "https://github.com/isXander/Controlify/releases/download/1.7.0%2B1.20.4/Controlify-1.7.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar"
             ],
-            "fileSize": 2133490
+            "fileSize": 2127904
         },
         {
             "path": "mods/Debugify-1.20.4+1.0.jar",
@@ -166,15 +165,15 @@
             "fileSize": 445430
         },
         {
-            "path": "mods/fabric-api-0.94.0+1.20.4.jar",
+            "path": "mods/fabric-api-0.95.0+1.20.4.jar",
             "hashes": {
-                "sha1": "d047f81854ab1246511cf80bba8645fd2e8f5c27",
-                "sha512": "51f54bcce9ff12d8dbffeee6ea6c67517569503d19bc20965dfed6179f959a2f42532a9649948d462ac091268c8a174fcd63bdac5a61c26fe2163cfd32f215c7"
+                "sha1": "e072a9dd8fccc9ffe61196f3379439788109d048",
+                "sha512": "12246e59e86df7623478f0a7a81913c9152c620cb8db63594f3459e99443dbceddb68917204b4e7912e4fa7d0dd98da56df5b3360c3e37c24dbd249ed6fd27cf"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/jYPNoqlj/fabric-api-0.94.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/cXkV2nJO/fabric-api-0.95.0%2B1.20.4.jar"
             ],
-            "fileSize": 2097457
+            "fileSize": 2135135
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
@@ -372,16 +371,15 @@
             "fileSize": 11223
         },
         {
-            "path": "mods/moreculling-1.20.1-0.19.0.jar",
+            "path": "mods/moreculling-1.20.4-0.22.0.jar",
             "hashes": {
-                "sha1": "2b781b5ec7aa1b13f49a5fcc761a6b3f57c1e05f",
-                "sha512": "de1e00d14d0f682341863028fa970f929ced6b6cdc6f6105b99c0adb0b4be07c24f89ce95f256999acd4469590d40ddedeb41d6466d723d314ad16b6e456ebed"
+                "sha1": "07458b4026ee84bdac2949516f246f582fa2410e",
+                "sha512": "58c2560cc2e52d205ec7dd19163357f1520f4a13c2c3466f76d719b1e81c98f25a86f0baaf9af345dd94d53393860f5b815f4ee92f41eb39ce3a96755ac0d222"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/Bu5pCvCn/moreculling-1.20.1-0.19.0.jar",
-                "https://github.com/FxMorin/MoreCulling/releases/download/v0.19.0-1.20.x/moreculling-1.20.1-0.19.0.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/JTsfNvX1/moreculling-1.20.4-0.22.0.jar"
             ],
-            "fileSize": 334034
+            "fileSize": 268120
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
@@ -476,16 +474,15 @@
             "fileSize": 903118
         },
         {
-            "path": "mods/yet-another-config-lib-fabric-3.3.1+1.20.4.jar",
+            "path": "mods/yet-another-config-lib-fabric-3.3.2+1.20.4.jar",
             "hashes": {
-                "sha1": "454de6336b06d181c7e6829aaf63b09c4717e257",
-                "sha512": "3bc6c44e609437c8309d1cd7434b7870b240a363cf46f662d330f46f6ece7e5134900c6ae2551ad07c7f182aa3c5454c1f349f99c2fadfd46be0f2c9d08ca7d4"
+                "sha1": "9cbb8f3401160ec4422630bbf930208a898fe320",
+                "sha512": "597073b3835ce1d4c0f9e4ba835bd565871fa49a8feee41b90213480a76d251e2a57a71729f132e4b908ef50a5602cff90c330da229db605014e26e856cfcbc8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/cwavYrLH/yet-another-config-lib-fabric-3.3.1%2B1.20.4.jar",
-                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.3.1%2B1.20.4/yet-another-config-lib-fabric-3.3.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/StXMrAsz/yet-another-config-lib-fabric-3.3.2%2B1.20.4.jar"
             ],
-            "fileSize": 971663
+            "fileSize": 979275
         },
         {
             "path": "mods/yosbr-0.1.2.jar",
@@ -535,17 +532,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "f24ccfeab1dcc524b72aa82815e728681b26a038",
-                "sha512": "56344855e34936bda5f1dcb2024540f224d953543d6bcf97fcd88040cf334aed84e823bcb26720113a3cc55547c05bc472e5c9b6afea8587db0c00492390608d"
+                "sha1": "444c0a8d8ed1a5140664524b076e2b6a99d3b691",
+                "sha512": "69bd189a22cf997a5b3444d254f3c8131e89bd1b4e40565248fab712d7b66327a99c73700864f61723f2eb0e09174871700ff74d84bbffc57e078f9065ef6a78"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/ZOE9JArR/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/FYqmjitN/SodiumTranslations.zip"
             ],
-            "fileSize": 176561
+            "fileSize": 176978
         }
     ],
     "dependencies": {
         "minecraft": "1.20.4",
-        "fabric-loader": "0.15.5"
+        "fabric-loader": "0.15.6"
     }
 }

@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.6 (2024-01-22)
+
+- Updated Controlify, Fabric API, MoreCulling, YetAnotherConfigLib
+- Enabled end gateway culling in MoreCulling
+- Updated and enforced Fabric Loader to 0.15.6
+- Not yet available: CITResewn, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.5 (2024-01-17)
 
 - Readded FastQuit
