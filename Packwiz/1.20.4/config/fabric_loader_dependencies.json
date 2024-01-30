@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.6"}},"minecraft":{"+recommends":{"Fabulously Optimized":">5.8.0-beta.6"},"+breaks":{"holdthatchunk":"<=2.0.1"}},"lambdynlights":{"recommends":{}}}}
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.15.6"}},"minecraft":{"+recommends":{"Fabulously Optimized":">5.8.0-beta.7"},"+breaks":{"holdthatchunk":"<=2.0.1"}},"lambdynlights":{"recommends":{}},"indium":{"-depends":{"sodium":""}},"sodium":{"-breaks":{"indium":""}}}}

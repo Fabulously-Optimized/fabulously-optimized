@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.7 (2024-01-30)
+
+- Updated Entity Texture Features, Fabric API, Iris, More Chat History, MoreCulling, Reese's Sodium Options, Sodium, Sodium Extra
+  - Sodium no longer crashes with RivaTuner/MSI Afterburner! The update also had other internal changes, so report in #support if anything got broken.
+- Disabled Sodium's donation prompt
+  - The donation link can still be found in video settings and Mod Menu
+- Force-enabled: Indium
+- Not yet available: CITResewn, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.6 (2024-01-22)
 
 - Updated Controlify, Fabric API, MoreCulling, YetAnotherConfigLib
