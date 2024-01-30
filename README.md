@@ -16,20 +16,9 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://download.fo/curseforge) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://download.fo/modrinth)
 <a href="https://download.fo/install"><img alt="How to install" height="28" src="https://github.com/Fabulously-Optimized/fabulously-optimized/assets/8611110/0aaed593-9791-4d24-8a64-8552e6bffa07"></a>
 
-We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or vanilla launcher.
+<sub>By downloading Fabulously Optimized, you have acknowledged [the disclaimers](https://download.fo/terms).</sub>
 
-<details>
-  <summary>Alternative downloads</summary>
-
-_These downloads may not fully support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://wiki.download.fo/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.4/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-alpha.3/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
-* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
-* [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
-* Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
-[Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
-[Planet Minecraft](https://www.planetminecraft.com/texture-pack/chat-reporting-helper) (bundled in FO)
-* Fast Better Grass resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fast-better-grass) (bundled in FO)
-</details>
+We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or official Minecraft Launcher. 
 
 Not sure which edition is right for you? Check this handy table!
 
@@ -47,69 +36,14 @@ Not sure which edition is right for you? Check this handy table!
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
 
-## Accessibility
-
-Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
-
-* The first-run accessibility screen is not used, to make setup smoother and faster. Instead, users can continue to take advantage of the menu keyboard support.
-  * Languages screen can be accessed by pressing <kbd>→</kbd> <kbd>Enter</kbd>.
-  * Accessibility screen can be accessed by pressing <kbd>←</kbd> <kbd>←</kbd> <kbd>Enter</kbd>.
-  * Narrator can be directly enabled by pressing <kbd>Ctrl</kbd> + <kbd>B</kbd>.
-* Users can search for and select multiple languages
-  * User's native language is automatically applied (where supported)
-  * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
-  * Items have the original names on their tooltips for command usage purposes
-* Game controllers are supported
-* Local worlds can optionally be played with friends through the Internet (see disclaimers below)
-* [Several launchers are supported](#downloads)
-* [The purpose and settings for each included mod are displayed in the mod menu](https://wiki.download.fo/readme/changed-options#resource-packs)
-* Splash screen is black, similar to Bedrock Edition
-* Other [changed options](https://wiki.download.fo/readme/changed-options) to match users' expectations
-* For more accessibility features, try the mod [Minecraft Access](https://modrinth.com/mod/minecraft-access/)
-
-## Disclaimers
-
-By using this modpack, you agree to the following:
-
-* The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.
-  * The modpack supports controllers with analog input, whose usage may trigger anticheats on some servers due to unexpectedly smooth movement. If the playing server rules disallow analog input, the user is expected to add the server to mod whitelist, or disable analog input entirely.
-* This modpack disables the [third-party server disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png), so if you are using the multiplayer function, you also agree to the following: 
-    > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
-    *  [The "social interactions" screen](https://minecraft.wiki/w/wiki/Social_Interactions_screen#Usage) can be used by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
-    * On servers where chat signing is optional, the modpack opts out of it for the playing user to adhere to server's intent. An indicator icon is added to inform players of the signing status in the server (whether the server supports Mojang's chat safety features). [Read more](https://wiki.download.fo/readme/chat-reporting-faq#what-does-this-modpack-do-for-me).
-* The modpack features [e4mc](https://modrinth.com/mod/e4mc), which gives users the ability to let their friends connect to their world through the internet, without the use of additional software or mods on the friend side.
-  * The feature is (only!) activated by the usual means of opening a world to LAN, so the world can be connected both through LAN and from Internet.
-  * A proxy server in one of the four locations in the world is used to generate a randomized "IP" (technically, a subdomain) where other players can connect to. The host's own IP address is never shared, and the generated "IP" varies every time.
-  * LAN- and Internet-sharing are automatically disabled once the host disconnects the world. The host can also close the Internet sharing manually for the session by clicking on the link in chat that appeared during creation.
-  * Both LAN and Internet variants use the same world settings (gamemode, cheats enabled, etc.), including the player limit of host + up to 7 players.
-* [Per the privacy and familiarity goals](https://wiki.download.fo/readme/principles), the modpack disables Mojang's analytics collection, individual mod update checkers and cosmetic donor features, plus any other network services that may invade privacy or cause confusion. All of these can be re-enabled by users in the respective configs.
-* Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://wiki.download.fo/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
-* Yes, you can fork/remix this pack [according to the license](LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
-* NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
-
-<br>
 <details>
-  
-  <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
-  
-  <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
-  
-  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  ```html
-  <!-- Markdown -->
-  [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://download.fo)
+  <summary>Alternative downloads</summary>
 
-  <!-- HTML (resizeable) -->
-  <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
-  ```
-  <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
-  
-  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  ```html
-  <!-- Markdown -->
-  [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_46h.png)](https://download.fo)
-  <!-- HTML (resizeable) -->
-  <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
-  ```
-  
+_These downloads may not fully support the modpack or the mods :(_
+* [MultiMC (auto-update)](https://wiki.download.fo/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.5/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-beta.6/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
+* [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+* Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
+[Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
+[Planet Minecraft](https://www.planetminecraft.com/texture-pack/chat-reporting-helper) (bundled in FO)
+* Fast Better Grass resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fast-better-grass) (bundled in FO)
 </details>
