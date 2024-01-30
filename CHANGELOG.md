@@ -6,7 +6,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 5.8.0-beta.7 (2024-01-30)
 
 - Updated Entity Texture Features, Fabric API, Iris, More Chat History, MoreCulling, Reese's Sodium Options, Sodium, Sodium Extra
-  - Sodium no longer crashes with RivaTuner/MSI Afterburner! The update also had other internal changes, so report in #support if anything got broken.
+  - Sodium no longer crashes with RivaTuner/MSI Afterburner! The update also had other internal changes, so report in FO #support if anything got broken.
 - Disabled Sodium's donation prompt
   - The donation link can still be found in video settings and Mod Menu
 - Force-enabled: Indium
