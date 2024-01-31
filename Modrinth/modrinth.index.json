@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-beta.7",
+    "versionId": "5.8.0-beta.8",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -80,7 +80,8 @@
                 "sha512": "60c773bb981eb94c41db0b6bec5e45dc74c7194f4e33e905b512fdc5dea8439c35fb62bfd831e14f2272fbffdb2cdc0a7bbb509ad2c56348f3d535572000b44a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/6GKVGWLK/Controlify-1.8.1%2B1.20.4.jar",
+                "https://github.com/isXander/Controlify/releases/download/1.8.1%2B1.20.4/Controlify-1.8.1%2B1.20.4.jar"
             ],
             "fileSize": 2127904
         },
@@ -327,6 +328,18 @@
             "fileSize": 36039
         },
         {
+            "path": "mods/ModDetectionPreventer+1.20.4-1.1.0.jar",
+            "hashes": {
+                "sha1": "e5f8b13d0632df9dea85c8d98fd4845d857a9730",
+                "sha512": "5d86c1bce1bb73490ef3ce39f06b414d8c7b2be6cd40493e8a878dc9244936db5249ae0d6e1d09bebe8aa518bd50ea70ccb3693b272d71c1d52dff0dc1e37647"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/lnxQbnYZ/versions/r2Smj2SL/ModDetectionPreventer%2B1.20.4-1.1.0.jar",
+                "https://github.com/JustAlittleWolf/ModDetectionPreventer/releases/download/1.1.0/ModDetectionPreventer%2B1.20.4-1.1.0.jar"
+            ],
+            "fileSize": 50427
+        },
+        {
             "path": "mods/modelfix-1.14-fabric.jar",
             "hashes": {
                 "sha1": "7c6a38565820d9c1941eb9d1aadaae75cb11ed8b",
@@ -433,7 +446,8 @@
                 "sha512": "251c68efb573bf6c8f49acd42ebe82862e76ab9da39446833d3604e4d38783c47f29057f994856e668e06dbed27e47c6df215641ad354ffb960d852485e8e281"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iukh1sNN/reeses_sodium_options-1.7.1%2Bmc1.20.4-build.100.jar"
+                "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iukh1sNN/reeses_sodium_options-1.7.1%2Bmc1.20.4-build.100.jar",
+                "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20.4-1.7.1/reeses_sodium_options-1.7.1%2Bmc1.20.4-build.100.jar"
             ],
             "fileSize": 77433
         },
@@ -478,7 +492,8 @@
                 "sha512": "597073b3835ce1d4c0f9e4ba835bd565871fa49a8feee41b90213480a76d251e2a57a71729f132e4b908ef50a5602cff90c330da229db605014e26e856cfcbc8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/StXMrAsz/yet-another-config-lib-fabric-3.3.2%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/StXMrAsz/yet-another-config-lib-fabric-3.3.2%2B1.20.4.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.3.2%2B1.20.4/yet-another-config-lib-fabric-3.3.2%2B1.20.4.jar"
             ],
             "fileSize": 979275
         },

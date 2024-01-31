@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.8 (2024-01-31)
+
+- Added Mod Detection Preventer - fixes a bug that allowed servers to limit your access or abilities if you have specific mods
+  - This has nothing to do with cheats, network-using mods (e.g. minimaps) or hiding Fabric in general, it is solely for vanilla-like mods that FO already contains
+  - Breaking server rules will still get you punished, as you might expect
+- Updated Chinese Traditional translation
+- Re-enabled Sodium's donation prompt
+- Force-enabled: Indium
+- Not yet available: CITResewn, LambDynamicLights
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.7 (2024-01-30)
 
 - Updated Entity Texture Features, Fabric API, Iris, More Chat History, MoreCulling, Reese's Sodium Options, Sodium, Sodium Extra

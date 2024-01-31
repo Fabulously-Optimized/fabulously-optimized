@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2c26ea7e509af22a080b503b611b3c0447dc1fad4e7959000ef26660243fa978"
+hash = "c475497fcd72c577451aa36316a7373e9a042aec852566d9b1ccb2034652e28c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0f30c1089e76ac0459952bc82446d76e1469259d91e6c0ecca1f676471016c14"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "d4c83780aabc989ff6b251082aaa08d9ac1b2ac10575c60fb4a9a49347a5696f"
+hash = "e1e5d548f91a3eb7a2666a528a51272e0fdd0ef125c94d2518ba3e177863a284"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -109,6 +105,10 @@ file = "config/yosbr/config/rrls.toml"
 hash = "ade080447491d2a630c65b7343df636833f8283fe5af9db74b51c4e122bf0550"
 
 [[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "b5f29426c9855d21030150cd46735f040577f6cfe69dc1d44e9c65f4ae7189a2"
+hash = "67ba494d458fb726ae485ed013a1885e88b712362840e75e6009553bddd2ac8c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -262,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
+metafile = true
+
+[[files]]
+file = "mods/moddetectionpreventer.pw.toml"
+hash = "7aeef08cebaa845bda4ce5e55035241c4845061f4dde1d45aeffeeb7fee53825"
 metafile = true
 
 [[files]]
