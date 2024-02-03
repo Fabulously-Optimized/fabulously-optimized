@@ -1,5 +1,5 @@
 {
-    "fo.resourcePack.chatreportinghelper": "§7간단한 문구와 아이콘으로 채팅 리포팅을 설명합니다§r",
+    "fo.resourcePack.chatreportinghelper": "§7간단한 문구와 아이콘으로 채팅 신고를 설명합니다§r",
     "chat.tag.modified": "Mojang에 신고할 수 있지만 서버에서 수정한 플레이어 채팅입니다. 원본:",
     "chat.tag.not_secure": "Mojang에 신고할 수 없는 플레이어 채팅입니다.",
     "chat.tag.system": "Mojang에 신고할 수 없는 서버 또는 플레이어 채팅입니다.",
@@ -27,7 +27,7 @@
     "gui.nochatreports.safety_status.realms": "다른 플레이어들의 채팅이 Mojang으로 신고될 수 있으며, 위반 사항이 있는지 채팅을 모니터링 중입니다.",
     "gui.nochatreports.safety_status.unknown": "아직 채팅을 신고할 수 있는지 확인할 수 없습니다. 채팅을 보내 확인할 수 있습니다.",
     "gui.nochatreports.safety_status.undefined": "예기치 못한 오류가 발생하여 채팅을 신고할 수 있는지 확인하는 데 실패했습니다. 게임을 재시작해 주십시오.",
-    "gui.nochatreports.signing_status.allowed_realms": "렐름에선 당신의 채팅을 언제나 신고할 수 있습니다.",
+    "gui.nochatreports.signing_status.allowed_realms": "렐름에서는 항상 채팅이 Mojang에게 신고될 수 있습니다. Mojang은 또한 위반 사항이 있는지 수동으로 채팅을 확인하고 있습니다.",
     "gui.nochatreports.signing_status.allowed": "당신의 채팅은 당신의 선택에 따라 Mojang에 신고할 수 있습니다.",
     "gui.nochatreports.signing_status.allowed_session": "당신의 메시지는 Mojang에 신고할 수 있습니다. 여전히 필요한지 확인하려면 서버에 다시 참여하세요.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "채팅을 보내면 채팅을 신고할 수 있습니다.",
