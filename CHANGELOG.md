@@ -3,17 +3,25 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.9-b (2024-02-08)
+
+- An alternative version based on 5.8.0-beta.9-a that downgrades Sodium, Sodium Extra, Reese's Sodium Options, Indium to work with Iris 1.6.14
+- Not available on MultiMC (auto-update)
+- Not yet available: CITResewn
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.9-a (2024-02-08)
 
 - Readded LambDynamicLights
 - Updated Entity Texture Features, Fabric API, ImmediatelyFast, Indium, ModernFix, Reese's Sodium Options, Sodium
 - Updated Korean, Malay, Malay (Jawi), Russian, Ukrainian, Vietnamese, Chinese Traditional translations
+- Fixed Continuity resource packs not being applied
 - Disabled VSync - new users will now see FO's benefits instantly, have less input lag and better framerate with shaders
   - If you still benefitted from VSync, the option remains there and in some devices there is also an "Adaptive" option.
   - Does not affect existing instances or their updates - only new instances.
   - Will be monitoring for your support requests and feedback to see if there is any drawback to this change.
 - Not yet available: CITResewn, Iris
-  - Iris 1.6.15 was pulled due to a performance issue and the previous version is not compatible with latest Sodium, hence this version of FO does not include Iris.
+  - Iris 1.6.15 was pulled due to a performance issue and its previous version is not compatible with the latest Sodium, hence this version of FO does not include Iris.
 - Visual config temp. disabled: Borderless Mining
 
 ### 5.8.0-beta.8 (2024-01-31)
