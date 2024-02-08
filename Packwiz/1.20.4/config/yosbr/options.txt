@@ -1,19 +1,18 @@
 version:3700
-autoJump:false
-operatorItemsTab:true
-snooperEnabled:false
-darkMojangStudiosBackground:true
-simulationDistance:6
-guiScale:3
-maxFps:260
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
 advancedItemTooltips:true
-tutorialStep:none
-skipMultiplayerWarning:true
+darkMojangStudiosBackground:true
+enableVsync:false
+guiScale:3
+incompatibleResourcePacks:["e4mc_minecraft","modernfix","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","continuity:default_resourcepacks/default"]
 joinedFirstServer:true
-telemetryOptInExtra:false
+maxFps:260
 onboardAccessibility:false
+operatorItemsTab:true
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix_resourcepacks/glass_pane_culling_fix","continuity:default_resourcepacks/default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+simulationDistance:6
+skipMultiplayerWarning:true
+telemetryOptInExtra:false
+tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
