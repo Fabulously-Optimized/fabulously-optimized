@@ -21,7 +21,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - Does not affect existing instances or their updates - only new instances.
   - Will be monitoring for your support requests and feedback to see if there is any drawback to this change.
 - Not yet available: CITResewn, Iris
-  - Iris 1.6.15 was pulled due to a performance issue and its previous version is not compatible with the latest Sodium, hence this version of FO does not include Iris.
+  - Iris 1.6.15 was pulled due to a performance issue and its previous version is not compatible with the latest Sodium, hence this version of FO does not include Iris. This will be fixed when the next version of Sodium arrives.
 - Visual config temp. disabled: Borderless Mining
 
 ### 5.8.0-beta.8 (2024-01-31)
