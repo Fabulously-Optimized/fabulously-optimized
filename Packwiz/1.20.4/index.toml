@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9845dfa7fadd8d36033c769d19d8b49eafde7a2daee63b613d104b15303677ee"
+hash = "77cf41dbf2d0b1a9e090a0a1cfb301f06e83bc1fa22534f877bd4a3d98969b86"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4f51d98b72f6b90cca1e0b9083d5fc5a8bbdf5d9f9e43e7b8cd4eb74d956141c"
+hash = "362abc7bd0c18f5d4e21c0a6511adb32a8d062e7d90c496ad7fe5cd663d5876b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "4b2a0e6e3cbcea13d4d803b7f6649509da501db23dda0fea1edeecae04a6d490"
+hash = "f419e52807fae6dc32d64ab5675aca95daa98b5562acc27173e9c6722b649e9e"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fa2e9fd11b7ae06d554a29c064dbe43f865fe3bf95f762f65f682fdec2205fa5"
+hash = "e6647f767a909001df4bc8037ca217c95b1633983ab83ed0f42815cf85e131bc"
 metafile = true
 
 [[files]]
@@ -237,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "fc34f10a6ed5a5e2eef2d290b651622939feaf00b5e3d67d3085c1f547181dff"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "2bd94d1d142a96594c05096798ad98774d0e52012ceccfa78bafc7622a9ccb0c"
 metafile = true
 
 [[files]]
@@ -361,5 +366,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "dd87ca7728c798af92b0442f1ca20668ccc059d5d3d15f33c302fe771acdc7c8"
+hash = "d435a8d25a2f83e23563bd234f11961254f6e7ec04935250694715fff3ab5a55"
 metafile = true

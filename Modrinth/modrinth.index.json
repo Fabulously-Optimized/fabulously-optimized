@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-beta.9-a",
+    "versionId": "5.8.0-beta.10",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -166,15 +166,15 @@
             "fileSize": 449202
         },
         {
-            "path": "mods/fabric-api-0.95.4+1.20.4.jar",
+            "path": "mods/fabric-api-0.96.0+1.20.4.jar",
             "hashes": {
-                "sha1": "f6d5bec4885374d8d7b35e745fff765069afe5dc",
-                "sha512": "a50ad75003e89289930e9fe65be18b1cabe9aa4bc5179c72f2f23096451f92064d93625f74c0094d9ae8a02f43ad847d2f4fb11fafe88534ebd1a566b0d9d7f1"
+                "sha1": "4ba8c9dc57172d229985db2d37fff6f8a3e6ba44",
+                "sha512": "8dd212b43aa49a9feb898d123a11549546afe1e226dfd8579ef643905b3ef2bf0f41912f0942c9d3037478905d27358e9677e36c2f17427ac5d93cbd08837b4e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/cpC3P6YE/fabric-api-0.95.4%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/bnOsLTYu/fabric-api-0.96.0%2B1.20.4.jar"
             ],
-            "fileSize": 2141107
+            "fileSize": 2149806
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
@@ -267,6 +267,17 @@
                 "https://github.com/comp500/Indium/releases/download/1.0.30%2Bmc1.20.4/indium-1.0.30%2Bmc1.20.4.jar"
             ],
             "fileSize": 104805
+        },
+        {
+            "path": "mods/iris-mc1.20.4-1.6.17.jar",
+            "hashes": {
+                "sha1": "42e06f32cd7036c10d69564a64ce1d08afe3c613",
+                "sha512": "2a9b725a720296b23666e7443ed23c37172ece3f0678457fb8b204a287cbe1d03726ddcfb20f3fbc2bd5e6cd8d1d74e80817b374b93db0c95537859b4e1b3ad1"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar"
+            ],
+            "fileSize": 2421865
         },
         {
             "path": "mods/lambdynamiclights-2.3.4+1.20.4.jar",
@@ -545,13 +556,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "7b183e4d8b0fdf188bf1b2ede4ae7e83fe464451",
-                "sha512": "2721a676b2a52936379c9f8206db3ee8798e32dff5ac23c33fef7ab0b8ba6e0c9755394726d2afabc47f461de886019a9a6839ec9dc09637815e7312269120f8"
+                "sha1": "ef0e6ccdd49010f15078d3986cc941067d7b3d14",
+                "sha512": "aab72edc62fefbe271ff44587825b78b6f997d4b2de9cb2eec56b2d03906b2bf9b36e6ff46b9c37b497918985f9ac7b4969b43ed4847077c8a016dd4252bc2aa"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/9shpx7NM/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/ThdOVcfs/SodiumTranslations.zip"
             ],
-            "fileSize": 152635
+            "fileSize": 158837
         }
     ],
     "dependencies": {

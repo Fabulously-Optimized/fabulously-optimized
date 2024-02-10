@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.10 (2024-02-10)
+
+No more choosing, get it all!
+
+- Readded updated Iris that works with latest Sodium
+- Updated Fabric API
+- Updated Italian translation
+- Not yet available: CITResewn
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.9-b (2024-02-08)
 
 - An alternative version based on 5.8.0-beta.9-a that downgrades Sodium, Sodium Extra, Reese's Sodium Options, Indium to work with Iris 1.6.14
