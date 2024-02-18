@@ -8,8 +8,8 @@ jobs:
     runs-on: ubuntu-22.04
     environment: github-actions
     steps:
-       - name: Download the pack files
-         uses: robinraju/release-downloader@v1.8
+       - name: Download pack files
+         uses: robinraju/release-downloader@v1.9
          id: download-files
          with:
            fileName: "*.zip"
@@ -32,8 +32,8 @@ jobs:
     runs-on: ubuntu-22.04
     environment: github-actions
     steps:
-       - name: Download the pack files
-         uses: robinraju/release-downloader@v1.8
+       - name: Download pack files
+         uses: robinraju/release-downloader@v1.9
          id: download-files
          with:
            fileName: "*.mrpack"
