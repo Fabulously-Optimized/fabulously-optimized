@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-beta.10",
+    "versionId": "5.8.0-beta.11",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -98,16 +98,15 @@
             "fileSize": 270298
         },
         {
-            "path": "mods/dynamic-fps-3.3.3+minecraft-1.20.0.jar",
+            "path": "mods/dynamic-fps-3.4.1+minecraft-1.20.4-fabric.jar",
             "hashes": {
-                "sha1": "2f6a1fc113bd6bdd6f12edb2ca95c87a44a7d301",
-                "sha512": "4184f0c81700962073df0945e95e82cdb36e15e50e14e8bf53f6e61baba6160a3253f6082c6d6c7fcef565dcf8ff4d49b850fc847e1153875db4356993189ba6"
+                "sha1": "04c581d562417a6f4add8af0c55ba66d165eabaf",
+                "sha512": "b71bab29f90bc7462a683220fa78b578372f5520d8879cdf1fa467f57528b1dc3a40f9bfd6440d43aeff7b5adfdf89ba6e46bdaf8688066ae9e35782b136b7e0"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6ZZnpiKt/dynamic-fps-3.3.3%2Bminecraft-1.20.0.jar",
-                "https://github.com/juliand665/Dynamic-FPS/releases/download/3.3.3/dynamic-fps-3.3.3%2Bminecraft-1.20.0.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/akci2PEc/dynamic-fps-3.4.1%2Bminecraft-1.20.4-fabric.jar"
             ],
-            "fileSize": 78714
+            "fileSize": 94005
         },
         {
             "path": "mods/e4mc-4.0.1+1.19.4-fabric.jar",
@@ -166,27 +165,26 @@
             "fileSize": 449202
         },
         {
-            "path": "mods/fabric-api-0.96.0+1.20.4.jar",
+            "path": "mods/fabric-api-0.96.3+1.20.4.jar",
             "hashes": {
-                "sha1": "4ba8c9dc57172d229985db2d37fff6f8a3e6ba44",
-                "sha512": "8dd212b43aa49a9feb898d123a11549546afe1e226dfd8579ef643905b3ef2bf0f41912f0942c9d3037478905d27358e9677e36c2f17427ac5d93cbd08837b4e"
+                "sha1": "b217f6c99f04527c025c8c36ef4efe41cb2aef2d",
+                "sha512": "39322c66d30a2d6be6b0d5dd1c2df58b781182b3dedd7635ac44817a4b90dbe87f3caa22954e89ae4de1204e19df522ed2318d6682d1f3cd13316169c7c5f781"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/bnOsLTYu/fabric-api-0.96.0%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Ca6gRk94/fabric-api-0.96.3%2B1.20.4.jar"
             ],
-            "fileSize": 2149806
+            "fileSize": 2152862
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.17+kotlin.1.9.22.jar",
+            "path": "mods/fabric-language-kotlin-1.10.18+kotlin.1.9.22.jar",
             "hashes": {
-                "sha1": "02e0af07d7c1476a6bd0530d0dacf0a2a9f8a8ea",
-                "sha512": "764a95b0c0c9020adf44e378afff6ca2b241f5e44e8e4fc05ad7878a6d242208b48ffb523be12d82d63b2fbd706cc82468645e947a0d52229b44f50191b1b533"
+                "sha1": "d7ab57b7e96bd5181efddea60452be0350bc49e6",
+                "sha512": "d7a9989f9e47c1c10e3c33551478cd9422250bf4f61e7f8ff3b6ee16c87e7dc458fed998c963a2e1c3bc39b7d338e9e334ce70ecdb0e66011d71e8948216e21c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.17%2Bkotlin.1.9.22/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/vlhvI5Li/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar"
             ],
-            "fileSize": 6732012
+            "fileSize": 6727951
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -463,16 +461,15 @@
             "fileSize": 77393
         },
         {
-            "path": "mods/rrls-3.3.0+mc1.20.4-fabric.jar",
+            "path": "mods/rrls-4.0.2+mc1.20.4-fabric.jar",
             "hashes": {
-                "sha1": "32ceeefa9223b3a5f6aaf0b723be96895c83f914",
-                "sha512": "8bae66554f6cce83b45b15e0d6ba4a315dcfae83d05ddc76e9f511da95272d5ca6bce4a3b2440d3ee2c3b5596d3646be39184594258c94d2577c0c85ce62c830"
+                "sha1": "f76b3b6e2325602dcf412722e9ac04cfda16ccb6",
+                "sha512": "f765ba12979fa88eab895cb6dbb9bbe6512bc238e853b07a5d167fbefab0454af9b2d6eeb12dbcfcba615d8e2e76e8d304aa97bd866499b87e90a770ee5950a4"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/yMnDeXZU/rrls-3.3.0%2Bmc1.20.4-fabric.jar",
-                "https://github.com/dima-dencep/rrls/releases/download/1.20.4-3.3.0/rrls-3.3.0%2Bmc1.20.4-fabric.jar"
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/hAO2J982/rrls-4.0.2%2Bmc1.20.4-fabric.jar"
             ],
-            "fileSize": 155112
+            "fileSize": 160857
         },
         {
             "path": "mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
@@ -556,17 +553,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "ef0e6ccdd49010f15078d3986cc941067d7b3d14",
-                "sha512": "aab72edc62fefbe271ff44587825b78b6f997d4b2de9cb2eec56b2d03906b2bf9b36e6ff46b9c37b497918985f9ac7b4969b43ed4847077c8a016dd4252bc2aa"
+                "sha1": "52ffd39c03b188819b8a16e8b6d4c0bf7afcc109",
+                "sha512": "50670c5f097c6ddf2d83448dba212bffb1336dc67fe43f47b4eaf73b8e6358b14080592f8cb0f30b9765daaa8b468e285dccf244c7b25f50b91468f0dee4396a"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/ThdOVcfs/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/2g8eQdpU/SodiumTranslations.zip"
             ],
-            "fileSize": 158837
+            "fileSize": 162215
         }
     ],
     "dependencies": {
         "minecraft": "1.20.4",
-        "fabric-loader": "0.15.6"
+        "fabric-loader": "0.15.7"
     }
 }

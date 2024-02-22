@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.11 (2024-02-22)
+
+- Updated Dynamic FPS, Fabric API, Fabric Language Kotlin, Remove Reloading Screen
+- Updated and enforced Fabric Loader 0.15.7
+- Updated Chinese Traditional translations
+- Adjusted Borderless Mining in MMH to describe how to edit its options
+- Not yet available: CITResewn
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.10 (2024-02-10)
 
 No more choosing, get it all!
