@@ -22,17 +22,17 @@ We encourage using CurseForge App, Modrinth App, Prism Launcher, MultiMC, or off
 
 Not sure which edition is right for you? Check this handy table!
 
-| Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla - manual install) |
-|---|---|---|---|---|---|---|
-| Installation tutorial | [Tutorial](https://wiki.download.fo/readme/install-instructions#curseforge-app) |  [Tutorial](https://wiki.download.fo/readme/install-instructions#modrinth-app) | [Tutorial](https://wiki.download.fo/readme/install-instructions#prism-launcher) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc-auto-update) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) |
-| Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Easy pack upgrade | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Easy pack upgrade for newer MC | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Add mods with few clicks | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Supports the modpack and mods | ✅ | ✅ | ●¹ | ●¹ | ●¹ | ●¹ |
-| Can be used offline | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Windows, macOS, Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
+| Feature/Edition | [CurseForge App](https://www.curseforge.com/download/app) | [Modrinth App](https://modrinth.com/app) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [GDLauncher Carbon](https://gdlauncher.com/) | [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla - manual install) |
+|---|---|---|---|---|---|---|---|
+| Installation tutorial | [Tutorial](https://wiki.download.fo/readme/install-instructions#curseforge-app) |  [Tutorial](https://wiki.download.fo/readme/install-instructions#modrinth-app) | [Tutorial](https://wiki.download.fo/readme/install-instructions#prism-launcher) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc) | [Tutorial](https://wiki.download.fo/readme/install-instructions#multimc-auto-update) | [Tutorial](https://wiki.download.fo/readme/install-instructions#gdlauncher-carbon) | [Tutorial](https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla) |
+| Easy install | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+| Easy pack upgrade | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ |
+| Easy pack upgrade for newer MC | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Add mods with few clicks | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Supports the modpack and mods | ✅ | ✅ | ●¹ | ●¹ | ●¹ | ✅ | ●¹ |
+| Can be used offline | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Windows, macOS, Linux support | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Unique feature | 1-click install from site | Import from other launchers | Steam Deck support | Nostalgic UI | Always up to date | Cool features | Familiarity |
 
 ¹ Supports the modpack by increasing its download count, but not with monetary benefits.
 
