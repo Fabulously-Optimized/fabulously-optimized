@@ -1,1 +1,3 @@
-# [This page has moved, click here](https://download.fo/thanks)
+# Contributing #
+
+See <https://download.fo/thanks>
