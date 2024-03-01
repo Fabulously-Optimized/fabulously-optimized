@@ -1,10 +1,6 @@
-<img
-  src="https://download.fo/icon.png"
-  alt="Fabulously Optimized logo"
-  align="right" width="10%" height="10%"
-/>
+<img src="https://download.fo/icon.png" alt="FO logo" align="right" width="10%" height="10%"/>
 
-# [Fabulously Optimized][url-website] #
+# Fabulously Optimized
 
 <!-- ( ): add badges -->
 [`Website`][url-website]
@@ -17,8 +13,6 @@
 [`Translate`][url-translate]
 [`Rate`][url-rate]
 
-> Tell your friends to [download.fo][url-website]!
-
 A simple Minecraft modpack focusing on performance
 and graphics enhancements.
 
@@ -26,58 +20,52 @@ and graphics enhancements.
 - [Options][url-options]
 - [Resource Packs][url-rp]
 
-## Downloads ##
-
-> By downloading Fabulously Optimized, you have
-> acknowledged the [disclaimers][url-terms].
+## Download
 
 [`CurseForge`][url-cf]
 [`Modrinth`][url-modrinth]
 [`Installation Guide`][url-install]
+
+> By downloading Fabulously Optimized, you have
+> acknowledged the [disclaimers][url-terms].
 
 We recommend and support the following launchers:
 
 - [CurseForge App][url-app-cf]
 - [Modrinth App][url-app-modrinth]
 - [Prism Launcher][url-app-prism]
-- [MultiMC][url-app-multimc]
-- [Minecraft Launcher (vanilla)][url-app-vanilla]
+- [MultiMC][url-app-multimc] (+ [auto-update](#multimc-auto-update))
+- [Vanilla Minecraft Launcher][url-app-vanilla]
 - Or download from [GitHub releases][url-app-github]
-
-Read more in the [Installation Guide][url-install].
-
-<details><summary>Compare the launchers</summary>
 
 All launchers can be used offline, and they run on
 🪟 Windows, 🐧 Linux and 🍏 macOS.
 
-| Launcher                                          | Tutorial                      | Installing | Upgrading | Adding mods | Supporting modpack and mods |
-| ------------------------------------------------- | ----------------------------- | :--------: | :-------: | :---------: | :-------------------------: |
-| 🔨 [CurseForge App][url-app-cf]                    | [Open][url-tutorial-cf]       |   ✅ Easy   |  ✅ Easy   |   ✅ Easy    |            ✅ Yes            |
-| ⭐ [Modrinth App][url-app-modrinth]                | [Open][url-tutorial-modrinth] |   ✅ Easy   |  ✅ Easy   |   ✅ Easy    |            ✅ Yes            |
-| 💎 [Prism Launcher][url-app-prism]                 | [Open][url-tutorial-prism]    |   ✅ Easy   |  ✅ Easy   |   ✅ Easy    |         ➖ Partially         |
-| 🪟 [MultiMC][url-app-multimc]                      | [Open][url-tutorial-multimc]  |   ✅ Easy   | ❌ Manual  |  ❌ Manual   |         ➖ Partially         |
-| 🔄️ [MultiMC (auto-update)][url-app-multimc]        | [Open][url-tutorial-mmcu]     |   ✅ Easy   | ❌ Manual* |  ❌ Manual   |         ➖ Partially         |
-| 🧊 [Minecraft Launcher (vanilla)][url-app-vanilla] | [Open][url-tutorial-vanilla]  |  ❌ Manual  | ❌ Manual  |  ❌ Manual   |         ➖ Partially         |
-| 🐙 [GitHub releases][url-app-github]               | _None_                        |  ❌ Manual  | ❌ Manual  |  ❌ Manual   |            ❌ No             |
-
-*: Upgrading to newer MC is manual (?)
+| Launcher                                      |               Tutorial               |    Install    |    Upgrade    |   Add mods    | Support us and mods |
+| --------------------------------------------- | :----------------------------------: | :-----------: | :-----------: | :-----------: | :-----------------: |
+| [CurseForge App][url-app-cf]                  |    [🔗&nbsp;Open][url-tutorial-cf]    |  ✅&nbsp;Easy  |  ✅&nbsp;Easy  |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
+| [Modrinth App][url-app-modrinth]              | [🔗&nbsp;Open][url-tutorial-modrinth] |  ✅&nbsp;Easy  |  ✅&nbsp;Easy  |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
+| [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |  ✅&nbsp;Easy  |  ✅&nbsp;Easy  |  ➖&nbsp;Partially   |
+| [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  | ❌&nbsp;Manual | ❌&nbsp;Manual |  ➖&nbsp;Partially   |
+| [MultiMC auto-update][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ❌&nbsp;Manual | ❌&nbsp;Manual |  ➖&nbsp;Partially   |
+| [Vanilla Minecraft Launcher][url-app-vanilla] | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual | ❌&nbsp;Manual | ❌&nbsp;Manual |  ➖&nbsp;Partially   |
+| [GitHub Releases][url-app-github]             |            ➖&nbsp;_None_             | ❌&nbsp;Manual | ❌&nbsp;Manual | ❌&nbsp;Manual |      ❌&nbsp;No      |
 
 ➖: These launchers support the modpack by increasing
 its download count, but not with monetary benefits.
 
-<!-- ( ): MultiMC auto-update
-  - more info at <https://wiki.download.fo/readme/multimc-auto-update>
-  - [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
-  - [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip)
-  - [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
-  - [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
-  - [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.5/Fabulously.Optimized.MC.1.20.2.auto-update.zip)
-  - [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-beta.11/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
--->
-</details>
+### MultiMC auto-update
 
-### Resource Packs ###
+Download links for MultiMC auto-update:
+
+- [Minecraft 1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+- [Minecraft 1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip)
+- [Minecraft 1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
+- [Minecraft 1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
+- [Minecraft 1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.5/Fabulously.Optimized.MC.1.20.2.auto-update.zip)
+- [Minecraft 1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-beta.11/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
+
+### Resource Packs
 
 FO includes some resource packs [for a better experience][url-rp],
 and they can also be downloaded separately.
@@ -87,10 +75,10 @@ and they can also be downloaded separately.
 | **Chat Reporting Helper** | [CurseForge][url-rp-crh-cf] | [Modrinth][url-rp-crh-modrinth] | [Planet Minecraft][url-rp-crh-pmc] |
 | **Fast Better Grass**     | [CurseForge][url-rp-fbg-cf] | [Modrinth][url-rp-fbg-modrinth] | [Planet Minecraft][url-rp-fbg-pmc] |
 
-## Contribute ##
+## Contribute
 
-Thanks for your interest in contributing to FO! There are many things
-you can help us with:
+Thanks for your interest in contributing to FO!
+There are many things you can help us with:
 
 - Tell your friends to [download.fo][url-website] by sharing the link!
 - [Leave a ❤️ and comment on AlternativeTo][url-rate]
@@ -99,7 +87,7 @@ you can help us with:
 
 All contributions must respect the [Code of Conduct][file-conduct].
 
-### Credits ###
+### Credits
 
 <details><summary>Direct contributions</summary>
 
@@ -133,6 +121,7 @@ All contributions must respect the [Code of Conduct][file-conduct].
 <!-- URLs -->
 [url-app-cf]: <https://www.curseforge.com/download/app>
 [url-app-github]: <https://github.com/Fabulously-Optimized/fabulously-optimized/releases>
+[url-app-mmcu]: <https://wiki.download.fo/readme/multimc-auto-update>
 [url-app-modrinth]: <https://modrinth.com/app>
 [url-app-multimc]: <https://multimc.org>
 [url-app-prism]: <https://prismlauncher.org>
