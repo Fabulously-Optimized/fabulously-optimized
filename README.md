@@ -13,12 +13,22 @@
 [`Translate`][url-translate]
 [`Rate`][url-rate]
 
+[Mods][file-mods]
+[Options][url-options]
+[Resource Packs][url-rp]
+
 A simple Minecraft modpack focusing on performance
 and graphics enhancements.
 
-- [Mods][file-mods]
-- [Options][url-options]
-- [Resource Packs][url-rp]
+<details><summary>Table of Contents</summary>
+
+- [Download](#download)
+  - [MultiMC auto-update](#multimc-auto-update)
+  - [Resource Packs](#resource-packs)
+- [Contribute](#contribute)
+  - [Credits](#credits)
+
+</details>
 
 ## Download
 
@@ -81,7 +91,7 @@ Thanks for your interest in contributing to FO!
 There are many things you can help us with:
 
 - Tell your friends to [download.fo][url-website] by sharing the link!
-- [Leave a ❤️ and comment on AlternativeTo][url-rate]
+- Leave a ❤️ and comment on [AlternativeTo][url-rate]
 - Play using the [CurseForge App][url-cf] or the [Modrinth App][url-modrinth]
 - And more... see [our Thanks page][url-thanks]
 
