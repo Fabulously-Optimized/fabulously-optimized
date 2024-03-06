@@ -2,14 +2,14 @@
 
 # Fabulously Optimized
 
-[![Go download.fo][img-website]][url-website]
+[![Official Website][img-website]][url-website]
 [![Read the Wiki][img-wiki]][url-wiki]
-[![Support and Contribute!][img-thanks]][url-thanks]
+[![Support and Contribute][img-thanks]][url-thanks]
+[![Help us Translate][img-translate]][url-translate]
 
 [![Discord][img-discord]][url-discord]
 [![GitHub][img-github]][url-github]
 [![Mastodon][img-mastodon]][url-mastodon]
-[![Help us Translate][img-translate]][url-translate]
 
 [![Mods list][img-mods]][file-mods]
 [![Options changed][img-options]][url-options]
@@ -47,7 +47,7 @@ See this table for a comparison between the launchers:
 ➖: These launchers support the modpack by increasing
 its download count, but not with monetary benefits.
 
-### Resource Packs
+<details><summary>Download Resource Packs separately</summary>
 
 FO includes some resource packs [for a better experience][url-rp],
 but they can also be downloaded separately.
@@ -57,15 +57,9 @@ but they can also be downloaded separately.
 | **Chat Reporting Helper** | [CurseForge][url-rp-crh-cf] | [Modrinth][url-rp-crh-modrinth] | [Planet Minecraft][url-rp-crh-pmc] |
 | **Fast Better Grass**     | [CurseForge][url-rp-fbg-cf] | [Modrinth][url-rp-fbg-modrinth] | [Planet Minecraft][url-rp-fbg-pmc] |
 
-## Contribute
+</details>
 
-Thanks for your interest in contributing to FO!
-
-Please see [our Thanks page][url-thanks] for more details.
-
-### Credits
-
-<details><summary>Direct contributions</summary>
+## Credits
 
 - [TheYTG123](https://www.curseforge.com/members/theytg123/projects) on CurseForge who helped me with Jumploader to release the 1.16.3 version a little faster
 - [triphora](https://github.com/triphora) who suggested and helped with the Modrinth format and formerly moderated FO Discord server
@@ -76,9 +70,7 @@ Please see [our Thanks page][url-thanks] for more details.
 - [People who have created videos about the modpack](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 - Everyone who has suggested ideas and reported bugs!
 
-</details>
-
-<details><summary>Special thanks</summary>
+Special thanks to:
 
 - [jellysquid3](https://github.com/jellysquid3) for creating [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) which were my initial inspiration for creating the modpack
 - [LambdAurora](https://github.com/LambdAurora) for creating [the list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives) which the pack does get some mod ideas from, [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) and [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
@@ -86,8 +78,6 @@ Please see [our Thanks page][url-thanks] for more details.
 - Mod devs that have joined my Discord and are discussing the modpack's development there
 - All developers who made the mods that are, have been and will be in the modpack
 - Everyone who uses, tests and shares the modpack!
-
-</details>
 
 <!-- Files -->
 [file-mods]: <INCLUDED-MODS.md>
@@ -102,9 +92,9 @@ Please see [our Thanks page][url-thanks] for more details.
 [img-mods]: <https://img.shields.io/badge/Mods_list-black?style=flat>
 [img-options]: <https://img.shields.io/badge/Options_changed-black?style=flat>
 [img-rp]: <https://img.shields.io/badge/Resource_Packs-black?style=flat>
-[img-thanks]: <https://img.shields.io/badge/Support_and_Contribute!-black?style=flat&color=red&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00ODAtMTIwLTU4LTUycS0xMDEtOTEtMTY3LTE1N1QxNTAtNDQ3LjVRMTExLTUwMCA5NS41LTU0NFQ4MC02MzRxMC05NCA2My0xNTd0MTU3LTYzcTUyIDAgOTkgMjJ0ODEgNjJxMzQtNDAgODEtNjJ0OTktMjJxOTQgMCAxNTcgNjN0NjMgMTU3cTAgNDYtMTUuNSA5MFQ4MTAtNDQ3LjVRNzcxLTM5NSA3MDUtMzI5VDUzOC0xNzJsLTU4IDUyWiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==>
-[img-translate]: <https://img.shields.io/badge/Translate-black?style=flat&label=Help%20us&color=grey&labelColor=black&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00NzYtODAgMTgyLTQ4MGg4NEw5MjQtODBoLTg0bC00My0xMjJINjAzTDU2MC04MGgtODRaTTE2MC0yMDBsLTU2LTU2IDIwMi0yMDJxLTM1LTM1LTYzLjUtODBUMTkwLTY0MGg4NHEyMCAzOSA0MCA2OHQ0OCA1OHEzMy0zMyA2OC41LTkyLjVUNDg0LTcyMEg0MHYtODBoMjgwdi04MGg4MHY4MGgyODB2ODBINTY0cS0yMSA3Mi02MyAxNDh0LTgzIDExNmw5NiA5OC0zMCA4Mi0xMjItMTI1LTIwMiAyMDFabTQ2OC03MmgxNDRsLTcyLTIwNC03MiAyMDRaIiBmaWxsPSIjZmZmZmZmIi8%2BPC9zdmc%2B>
-[img-website]: <https://img.shields.io/badge/Go_download.fo-black?style=flat&color=DBD0B5>
+[img-thanks]: <https://img.shields.io/badge/Support_and_Contribute-black?style=flat&color=red&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00ODAtMTIwLTU4LTUycS0xMDEtOTEtMTY3LTE1N1QxNTAtNDQ3LjVRMTExLTUwMCA5NS41LTU0NFQ4MC02MzRxMC05NCA2My0xNTd0MTU3LTYzcTUyIDAgOTkgMjJ0ODEgNjJxMzQtNDAgODEtNjJ0OTktMjJxOTQgMCAxNTcgNjN0NjMgMTU3cTAgNDYtMTUuNSA5MFQ4MTAtNDQ3LjVRNzcxLTM5NSA3MDUtMzI5VDUzOC0xNzJsLTU4IDUyWiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==>
+[img-translate]: <https://img.shields.io/badge/Help_us_Translate-black?style=flat&color=grey&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00NzYtODAgMTgyLTQ4MGg4NEw5MjQtODBoLTg0bC00My0xMjJINjAzTDU2MC04MGgtODRaTTE2MC0yMDBsLTU2LTU2IDIwMi0yMDJxLTM1LTM1LTYzLjUtODBUMTkwLTY0MGg4NHEyMCAzOSA0MCA2OHQ0OCA1OHEzMy0zMyA2OC41LTkyLjVUNDg0LTcyMEg0MHYtODBoMjgwdi04MGg4MHY4MGgyODB2ODBINTY0cS0yMSA3Mi02MyAxNDh0LTgzIDExNmw5NiA5OC0zMCA4Mi0xMjItMTI1LTIwMiAyMDFabTQ2OC03MmgxNDRsLTcyLTIwNC03MiAyMDRaIiBmaWxsPSIjZmZmZmZmIi8%2BPC9zdmc%2B>
+[img-website]: <https://img.shields.io/badge/Official_Website-black?style=flat&color=DBD0B5>
 [img-wiki]: <https://img.shields.io/badge/Read_the_Wiki-black?style=flat&color=423E35&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik01NjAtNTY0di02OHEzMy0xNCA2Ny41LTIxdDcyLjUtN3EyNiAwIDUxIDR0NDkgMTB2NjRxLTI0LTktNDguNS0xMy41VDcwMC02MDBxLTM4IDAtNzMgOS41VDU2MC01NjRabTAgMjIwdi02OHEzMy0xNCA2Ny41LTIxdDcyLjUtN3EyNiAwIDUxIDR0NDkgMTB2NjRxLTI0LTktNDguNS0xMy41VDcwMC0zODBxLTM4IDAtNzMgOXQtNjcgMjdabTAtMTEwdi02OHEzMy0xNCA2Ny41LTIxdDcyLjUtN3EyNiAwIDUxIDR0NDkgMTB2NjRxLTI0LTktNDguNS0xMy41VDcwMC00OTBxLTM4IDAtNzMgOS41VDU2MC00NTRaTTI2MC0zMjBxNDcgMCA5MS41IDEwLjVUNDQwLTI3OHYtMzk0cS00MS0yNC04Ny0zNnQtOTMtMTJxLTM2IDAtNzEuNSA3VDEyMC02OTJ2Mzk2cTM1LTEyIDY5LjUtMTh0NzAuNS02Wm0yNjAgNDJxNDQtMjEgODguNS0zMS41VDcwMC0zMjBxMzYgMCA3MC41IDZ0NjkuNSAxOHYtMzk2cS0zMy0xNC02OC41LTIxdC03MS41LTdxLTQ3IDAtOTMgMTJ0LTg3IDM2djM5NFptLTQwIDExOHEtNDgtMzgtMTA0LTU5dC0xMTYtMjFxLTQyIDAtODIuNSAxMVQxMDAtMTk4cS0yMSAxMS00MC41LTFUNDAtMjM0di00ODJxMC0xMSA1LjUtMjFUNjItNzUycTQ2LTI0IDk2LTM2dDEwMi0xMnE1OCAwIDExMy41IDE1VDQ4MC03NDBxNTEtMzAgMTA2LjUtNDVUNzAwLTgwMHE1MiAwIDEwMiAxMnQ5NiAzNnExMSA1IDE2LjUgMTV0NS41IDIxdjQ4MnEwIDIzLTE5LjUgMzV0LTQwLjUgMXEtMzctMjAtNzcuNS0zMVQ3MDAtMjQwcS02MCAwLTExNiAyMXQtMTA0IDU5Wk0yODAtNDk0WiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg%3D%3D>
 
 <!-- URLs -->
