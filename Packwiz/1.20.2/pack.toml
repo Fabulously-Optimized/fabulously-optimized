@@ -1,13 +1,13 @@
 name = "Fabulously Optimized"
 author = "robotkoer"
-version = "5.6.5"
+version = "5.6.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "05a54a66b8aa5ae1d634a4309e5a205bbab37597ec61c107e3755dd54a40b418"
+hash = "217c02dd83280d82c79e34df5722f96fa65885842af6ae0f468c93a7c0c65ef7"
 
 [versions]
-fabric = "0.15.6"
+fabric = "0.15.7"
 minecraft = "1.20.2"

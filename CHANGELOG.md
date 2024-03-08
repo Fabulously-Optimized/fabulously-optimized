@@ -164,6 +164,14 @@ Version suffix is not visible in-game.
 
 ## 1.20.2
 
+### 5.6.6 (2024-03-08)
+
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, Fabric Language Kotlin, ImmediatelyFast, MoreChatHistory
+  - Sodium, Indium, Iris updates not planned for 1.20.2 due to incompatibilities
+- Updated 8 language translations
+- Updated Fabric Loader to 0.15.6
+- Backported other changes from 5.8.0-beta.11
+
 ### 5.6.5 (2024-01-22)
 
 - Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, Fabric Language Kotlin, MoreCulling, Remove Reloading Screen, Zoomify
