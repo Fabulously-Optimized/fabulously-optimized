@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0-beta.12 (2024-03-08)
+
+- Updated Entity Model Features, Dynamic FPS, Fabric API, ModernFix
+- Updated 8 language translations
+- Removed a confusing log message
+- Not yet available: CITResewn
+- Visual config temp. disabled: Borderless Mining
+
 ### 5.8.0-beta.11 (2024-02-22)
 
 - Updated Dynamic FPS, Fabric API, Fabric Language Kotlin, Remove Reloading Screen
@@ -163,6 +171,15 @@ Version suffix is not visible in-game.
 - Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
 
 ## 1.20.2
+
+### 5.6.6 (2024-03-08)
+
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, Fabric API, Fabric Language Kotlin, ImmediatelyFast, MoreChatHistory
+  - Sodium, Indium, Iris updates not planned for 1.20.2 due to incompatibilities
+- Updated 8 language translations
+- Updated Fabric Loader to 0.15.7
+- Removed a confusing log message
+- Backported other changes from 5.8.0-beta.11
 
 ### 5.6.5 (2024-01-22)
 
