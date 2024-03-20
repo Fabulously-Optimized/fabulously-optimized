@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0-beta.12",
+    "versionId": "5.8.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -28,18 +28,6 @@
             "fileSize": 21587
         },
         {
-            "path": "mods/borderless-mining-1.1.9+1.20.2.jar",
-            "hashes": {
-                "sha1": "cf26d4615041f2db6df6b6906c5475fac05030e0",
-                "sha512": "8b58ab2c2ada9f8267aaf127ba7886c3fa8e915194e95c187fb52c11bb3c0a63d6c6455fc14e5bba2694c848e09c426350b3b00a2267dd0248e9ce670fe2e70a"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/kYq5qkSL/versions/r2hHx4zB/borderless-mining-1.1.9%2B1.20.2.jar",
-                "https://github.com/comp500/BorderlessMining/releases/download/1.1.9%2B1.20.2/borderless-mining-1.1.9%2B1.20.2.jar"
-            ],
-            "fileSize": 121765
-        },
-        {
             "path": "mods/capes-1.5.3+1.20.2-fabric.jar",
             "hashes": {
                 "sha1": "c1a62a847753d9ae039bff35050326a081d2e500",
@@ -50,6 +38,18 @@
                 "https://github.com/CaelTheColher/Capes/releases/download/fabric-1.5.3%2B1.20.2/capes-1.5.3%2B1.20.2-fabric.jar"
             ],
             "fileSize": 209297
+        },
+        {
+            "path": "mods/cit-1.0.0+1.20.4.jar",
+            "hashes": {
+                "sha1": "a1fcebee28c2153233068799b7f8cda623b77724",
+                "sha512": "ecf348562f0e8d6691e0d5e108476879468075421902cd9a5c9220c7a2c9978a33bb16228fd7c18759bc0b470ce09ac72628275026992753ffe250193f32674a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/G2Ib5c56/versions/TpqaM4ju/cit-1.0.0%2B1.20.4.jar",
+                "https://github.com/UltimatChamp/CustomItemTextures/releases/download/1.0.0/cit-1.0.0%2B1.20.4.jar"
+            ],
+            "fileSize": 397171
         },
         {
             "path": "mods/cloth-config-13.0.121-fabric.jar",
@@ -84,6 +84,18 @@
                 "https://github.com/isXander/Controlify/releases/download/1.8.1%2B1.20.4/Controlify-1.8.1%2B1.20.4.jar"
             ],
             "fileSize": 2127904
+        },
+        {
+            "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
+            "hashes": {
+                "sha1": "e54a2c4b4817efb93a2ce7cb78bf8a2d1136b6cd",
+                "sha512": "25aeed75a51668271649fe67c265caa47318eeb221e3535a1ebc8df8d2220be933505b158517099f9ae3ffb1ca4d2f5df3f466442e371f42afba1dc866945221"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/IQtaUFAv/cubes-without-borders-1.1.0%2B1.20.jar",
+                "https://github.com/Kir-Antipov/cubes-without-borders/releases/download/1.1.0%2B1.20/cubes-without-borders-1.1.0%2B1.20.jar"
+            ],
+            "fileSize": 39258
         },
         {
             "path": "mods/Debugify-1.20.4+1.0.jar",
@@ -165,27 +177,27 @@
             "fileSize": 449202
         },
         {
-            "path": "mods/fabric-api-0.96.4+1.20.4.jar",
+            "path": "mods/fabric-api-0.96.11+1.20.4.jar",
             "hashes": {
-                "sha1": "60e9dbbf526882175fa86a719791878f631ab415",
-                "sha512": "00f729e336b30b27d2d539c82338659df9cacaa0db59907b08660c7f078877a3efbada6bbf5a2f3e88b9d0f2941006a4782d5d108c48033868a5a3f5dab9b3ff"
+                "sha1": "5537a4592773739e7279f3685445a84af49fde56",
+                "sha512": "3a46d5f67d2863f4d7a28e2e7588d08a26318dea1fef6d968816d6134bce91f2b21c7012ed5988a72e45a16db57a90dcfec5f021b2004ce9a75cb9f953f30c64"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/9p2sguD7/fabric-api-0.96.4%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/htRy7kbI/fabric-api-0.96.11%2B1.20.4.jar"
             ],
-            "fileSize": 2160893
+            "fileSize": 2160959
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.18+kotlin.1.9.22.jar",
+            "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
             "hashes": {
-                "sha1": "d7ab57b7e96bd5181efddea60452be0350bc49e6",
-                "sha512": "d7a9989f9e47c1c10e3c33551478cd9422250bf4f61e7f8ff3b6ee16c87e7dc458fed998c963a2e1c3bc39b7d338e9e334ce70ecdb0e66011d71e8948216e21c"
+                "sha1": "d8a8a5a4f1289e9b4d65f9551c32fbdf56b4f162",
+                "sha512": "0c31443b5061d85787de452d1dc0196a0e3391146aa5f030ef5fa95558b0f2b2bb9a0613fc0e5621e9d796d06e717fef0d0c98046f4ead04d150e0eb2d19abdc"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/vlhvI5Li/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.18%2Bkotlin.1.9.22/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.19%2Bkotlin.1.9.23/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar"
             ],
-            "fileSize": 6727951
+            "fileSize": 6734779
         },
         {
             "path": "mods/fabricskyboxes-0.7.3+mc1.20.2.jar",
@@ -338,16 +350,16 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/ModDetectionPreventer+1.20.4-1.1.0.jar",
+            "path": "mods/ModDetectionPreventer+1.20.4-1.2.0.jar",
             "hashes": {
-                "sha1": "e5f8b13d0632df9dea85c8d98fd4845d857a9730",
-                "sha512": "5d86c1bce1bb73490ef3ce39f06b414d8c7b2be6cd40493e8a878dc9244936db5249ae0d6e1d09bebe8aa518bd50ea70ccb3693b272d71c1d52dff0dc1e37647"
+                "sha1": "155dfba649bb6fedf15c706aced78eb0ced5b097",
+                "sha512": "1eafdd0d86f5e597110b01f8539d2786a7f6e5a821e3f0abb9bd7c42abb8c1a65c52562e0b4f5b072a41e854e36da191fb241850d930ea379b0876c0fc111013"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/lnxQbnYZ/versions/r2Smj2SL/ModDetectionPreventer%2B1.20.4-1.1.0.jar",
-                "https://github.com/JustAlittleWolf/ModDetectionPreventer/releases/download/1.1.0/ModDetectionPreventer%2B1.20.4-1.1.0.jar"
+                "https://cdn.modrinth.com/data/lnxQbnYZ/versions/F2xrsB2S/ModDetectionPreventer%2B1.20.4-1.2.0.jar",
+                "https://github.com/JustAlittleWolf/ModDetectionPreventer/releases/download/1.2.0/ModDetectionPreventer%2B1.20.4-1.2.0.jar"
             ],
-            "fileSize": 50427
+            "fileSize": 52814
         },
         {
             "path": "mods/modelfix-1.14-fabric.jar",
@@ -555,13 +567,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "8d13534f6163ac6feb0ab78f66fe7ab307fe996d",
-                "sha512": "86ed1aba39c66d5d85582654f20d86374acd897e801f94b5f79c46b9ae4673656af1df970b8aa2b3ef9e1f7ded794cf19d0c932ea3360e0c3fc0e08af2721053"
+                "sha1": "5ec49380f9350d9c4a77fb1676ac637ab1981530",
+                "sha512": "54b3baa5c9bf3719859ce8886251ef718f56ea9c6a6f21cdcfc7176acce0cce0ddf1adfd79bcfbdd209173680e682b9f31ccce0c66a0033e3d545d971806ee2d"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/o3jcoTn4/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/StuHF5aC/SodiumTranslations.zip"
             ],
-            "fileSize": 172719
+            "fileSize": 173336
         }
     ],
     "dependencies": {
