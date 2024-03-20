@@ -3,6 +3,33 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.0 (2024-03-20)
+
+It's time to upgrade.
+
+- Added Cubes Without Borders - a borderless fullscreen mod that can be toggled directly from video settings
+- Added [CIT] CustomItemTextures - an updated (temporary) fork of CIT Resewn with some additional fixes
+- Added Mod Detection Preventer - fixes a bug that allowed servers to limit your access or abilities if you have specific mods
+  - This has nothing to do with cheats, network-using mods (e.g. minimaps) or hiding Fabric in general, it is solely for vanilla-like mods that FO already contains
+  - Breaking server rules will still get you punished, as you might expect
+- Removed Borderless Mining - not up to date, toggling the main feature is difficult
+- Removed CIT Resewn - not yet up to date
+- Disabled VSync - new users will now see FO's benefits instantly, have less input lag and better framerate with shaders
+  - If you still benefitted from VSync, the option remains there and in some devices there is also an "Adaptive" option.
+  - Does not affect existing instances or their updates - only new instances.
+- Enabled bugfix for MC-22882 - Ctrl + Q won't work on Mac
+- Updated and enforced Fabric Loader 0.15.7
+
+#### Changes from 5.8.0-beta.12 to 5.8.0
+
+- Added Cubes Without Borders
+- Added [CIT] CustomItemTextures
+- Removed Borderless Mining
+- Enabled bugfix for MC-22882 - Ctrl + Q won't work on Mac
+- Updated Fabric API, Fabric Language Kotlin, Mod Detection Preventer
+- Updated Chinese Simplified, Romanian
+- Fixed Continuity resource packs getting disabled again
+
 ### 5.8.0-beta.12 (2024-03-08)
 
 - Updated Entity Model Features, Dynamic FPS, Fabric API, ModernFix
