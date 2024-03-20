@@ -5,11 +5,11 @@
 # Fabulously Optimized
 
 [![Official Website][img-website]][url-website]
-[![Support and Contribute][img-thanks]][url-thanks]
+[![Support and Contribute][img-contribute]][url-contribute]
 [![Read the Wiki][img-wiki]][url-wiki]
 
 [![Mod list][img-mods]][file-mods]
-[![Options changed][img-options]][url-options]
+[![Changed Options][img-options]][url-options]
 [![Resource Packs][img-rp]][url-rp]
 [![Help us Translate][img-translate]][url-translate]
 
@@ -17,8 +17,7 @@
 [![GitHub][img-github]][url-github]
 [![Mastodon][img-mastodon]][url-mastodon]
 
-A simple Minecraft modpack focusing on performance
-and graphics enhancements.
+A simple Minecraft modpack focusing on performance and graphics enhancements.
 
 </div>
 
@@ -28,14 +27,9 @@ and graphics enhancements.
 [![CurseForge][img-cf]][url-cf]
 [![Modrinth][img-modrinth]][url-modrinth]
 
-> By downloading Fabulously Optimized, you have
-> acknowledged the [disclaimers][url-terms].
+> By downloading Fabulously Optimized, you have acknowledged the [disclaimers][url-terms].
 
-We recommend and support five launchers, but you can also
-download the modpack from [GitHub Releases][url-app-github].
-
-All five launchers can be used offline, and they run on
-🪟 Windows, 🐧 Linux and 🍏 macOS.
+We recommend and support five launchers, all of which can be used offline on 🪟 Windows, 🐧 Linux and 🍏 macOS.
 
 See this table for a comparison between the launchers:
 
@@ -50,17 +44,13 @@ See this table for a comparison between the launchers:
 
 > [!NOTE]
 >
-> **[1]**: Updates to the modpack within the same Minecraft version
->   are automatic. The modpack cannot be updated automatically
->   across Minecraft versions.
+> **[1]**: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
 >
-> **[2]**: These launchers support the modpack and its mods by increasing
->   their download count, but not with monetary benefits.
+> **[2]**: These launchers support the modpack and its mods by increasing their download count, but not with monetary benefits.
 
 <details><summary>Download Resource Packs separately</summary>
 
-FO includes some resource packs [for a better experience][url-rp],
-but they can also be downloaded separately.
+FO includes some resource packs [for a better experience][url-rp], but they can also be downloaded separately.
 
 | Resource Pack             | CurseForge                  | Modrinth                        | Planet Minecraft                   |
 | ------------------------- | --------------------------- | ------------------------------- | ---------------------------------- |
@@ -71,20 +61,20 @@ but they can also be downloaded separately.
 
 ## Credits
 
-- [TheYTG123](https://www.curseforge.com/members/theytg123/projects) on CurseForge who helped me with Jumploader to release the 1.16.3 version a little faster
-- [triphora](https://github.com/triphora) who suggested and helped with the Modrinth format and formerly moderated FO Discord server
-- [RozeFound](https://github.com/RozeFound) for helping with Python scripts and providing lots of constructive feedback for the pack
-- [TheMadHau5](https://github.com/themadhau5), [redbrain](https://github.com/redbrain), [Kichura](https://github.com/Kichura) for the [fancy mod table](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)
-- [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) for the [Packwiz mod ignoring tutorials](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update#can-i-ignore-some-of-the-mods)
-- Other people creating pull requests for [the main project](https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors) and [the wiki](https://github.com/Fabulously-Optimized/wiki/graphs/contributors)
-- [People who have created videos about the modpack](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
+- [TheYTG123][url-credits-TheYTG123] on CurseForge who helped with Jumploader to release the 1.16.3 version a little faster
+- [triphora][url-credits-triphora] who suggested and helped with the Modrinth format and formerly moderated FO Discord server
+- [RozeFound][url-credits-RozeFound] for helping with Python scripts and providing lots of constructive feedback for the pack
+- [TheMadHau5][url-credits-TheMadHau5], [redbrain][url-credits-redbrain], [Kichura][url-credits-Kichura] for the [fancy mod table][file-mods]
+- [RaptaG][url-credits-RaptaG] and [Ultrasonic1209][url-credits-Ultrasonic1209] for the [Packwiz mod ignoring tutorials][url-tutorial-mmcu-ignoremods]
+- Other people creating pull requests for [the main project][url-github-main-graph], [wiki][url-github-wiki-graph] and [other organization projects][url-github-org]
+- [People who have created videos about the modpack][url-reviews]
 - Everyone who has suggested ideas and reported bugs!
 
 Special thanks to:
 
-- [jellysquid3](https://github.com/jellysquid3) for creating [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) which were my initial inspiration for creating the modpack
-- [LambdAurora](https://github.com/LambdAurora) for creating [the list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives) which the pack does get some mod ideas from, [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) and [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)
-- [comp500](https://github.com/comp500) for creating [Jumploader](https://www.curseforge.com/minecraft/mc-mods/jumploader) - a mod that made the modpack possible in Minecraft 1.16.x, [Indium](https://modrinth.com/mod/indium) - mod that provided the rendering API for Sodium for increased mod compatibility and [packwiz](https://github.com/comp500/packwiz) - a tool that makes the MultiMC auto-update happen
+- [jellysquid3][url-credits-jellysquid3] for creating [Sodium][url-credits-jellysquid3-sodium], [Lithium][url-credits-jellysquid3-lithium], [Phosphor][url-credits-jellysquid3-phosphor] which were my initial inspiration for creating the modpack
+- [LambdAurora][url-credits-LambdAurora] for creating [the list of OptiFine alternatives][url-credits-LambdAurora-alternatives] which the pack does get some mod ideas from, [LambDynamicLights][url-credits-LambdAurora-LambDynamicLights] and [LambdaBetterGrass][url-credits-LambdAurora-LambdaBetterGrass]
+- [comp500][url-credits-comp500] for creating [Jumploader][url-credits-comp500-Jumploader] - a mod that made the modpack possible in Minecraft 1.16.x, [Indium][url-credits-comp500-Indium] - mod that provided the rendering API for Sodium for increased mod compatibility and [packwiz][url-credits-comp500-packwiz] - a tool that makes the MultiMC auto-update happen
 - Mod devs that have joined my Discord and are discussing the modpack's development there
 - All developers who made the mods that are, have been and will be in the modpack
 - Everyone who uses, tests and shares the modpack!
@@ -100,44 +90,68 @@ Special thanks to:
 [img-mastodon]: <https://img.shields.io/mastodon/follow/109406313733713199?style=for-the-badge&domain=https%3A%2F%2Ffloss.social%2F&label=Mastodon&color=6364FF&logoColor=white&labelColor=black&logo=mastodon>
 [img-modrinth]: <https://img.shields.io/modrinth/dt/1KVo5zza?style=for-the-badge&label=Modrinth&color=darkgreen&labelColor=black&logo=modrinth>
 [img-mods]: <https://img.shields.io/badge/Mod_list-darkgreen?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik0yODAtNjAwdi04MGg1NjB2ODBIMjgwWm0wIDE2MHYtODBoNTYwdjgwSDI4MFptMCAxNjB2LTgwaDU2MHY4MEgyODBaTTE2MC02MDBxLTE3IDAtMjguNS0xMS41VDEyMC02NDBxMC0xNyAxMS41LTI4LjVUMTYwLTY4MHExNyAwIDI4LjUgMTEuNVQyMDAtNjQwcTAgMTctMTEuNSAyOC41VDE2MC02MDBabTAgMTYwcS0xNyAwLTI4LjUtMTEuNVQxMjAtNDgwcTAtMTcgMTEuNS0yOC41VDE2MC01MjBxMTcgMCAyOC41IDExLjVUMjAwLTQ4MHEwIDE3LTExLjUgMjguNVQxNjAtNDQwWm0wIDE2MHEtMTcgMC0yOC41LTExLjVUMTIwLTMyMHEwLTE3IDExLjUtMjguNVQxNjAtMzYwcTE3IDAgMjguNSAxMS41VDIwMC0zMjBxMCAxNy0xMS41IDI4LjVUMTYwLTI4MFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
-[img-options]: <https://img.shields.io/badge/Options_changed-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik00NDAtMTIwdi0yNDBoODB2ODBoMzIwdjgwSDUyMHY4MGgtODBabS0zMjAtODB2LTgwaDI0MHY4MEgxMjBabTE2MC0xNjB2LTgwSDEyMHYtODBoMTYwdi04MGg4MHYyNDBoLTgwWm0xNjAtODB2LTgwaDQwMHY4MEg0NDBabTE2MC0xNjB2LTI0MGg4MHY4MGgxNjB2ODBINjgwdjgwaC04MFptLTQ4MC04MHYtODBoNDAwdjgwSDEyMFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
+[img-options]: <https://img.shields.io/badge/Changed_Options-blue?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik00NDAtMTIwdi0yNDBoODB2ODBoMzIwdjgwSDUyMHY4MGgtODBabS0zMjAtODB2LTgwaDI0MHY4MEgxMjBabTE2MC0xNjB2LTgwSDEyMHYtODBoMTYwdi04MGg4MHYyNDBoLTgwWm0xNjAtODB2LTgwaDQwMHY4MEg0NDBabTE2MC0xNjB2LTI0MGg4MHY4MGgxNjB2ODBINjgwdjgwaC04MFptLTQ4MC04MHYtODBoNDAwdjgwSDEyMFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
 [img-rp]: <https://img.shields.io/badge/Resource_Packs-purple?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im0zNTItNTIyIDg2LTg3LTU2LTU3LTQ0IDQ0LTU2LTU2IDQzLTQ0LTQ1LTQ1LTg3IDg3IDE1OSAxNThabTMyOCAzMjkgODctODctNDUtNDUtNDQgNDMtNTYtNTYgNDMtNDQtNTctNTYtODYgODYgMTU4IDE1OVptMjQtNTY3IDU3IDU3LTU3LTU3Wk0yOTAtMTIwSDEyMHYtMTcwbDE3NS0xNzVMODAtNjgwbDIwMC0yMDAgMjE2IDIxNiAxNTEtMTUycTEyLTEyIDI3LTE4dDMxLTZxMTYgMCAzMSA2dDI3IDE4bDUzIDU0cTEyIDEyIDE4IDI3dDYgMzFxMCAxNi02IDMwLjVUODE2LTY0N0w2NjUtNDk1bDIxNSAyMTVMNjgwLTgwIDQ2NS0yOTUgMjkwLTEyMFptLTkwLTgwaDU2bDM5Mi0zOTEtNTctNTctMzkxIDM5MnY1NlptNDIwLTQxOS0yOS0yOSA1NyA1Ny0yOC0yOFoiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4%3D>
-[img-thanks]: <https://img.shields.io/badge/Support_and_Contribute-red?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00ODAtMTIwLTU4LTUycS0xMDEtOTEtMTY3LTE1N1QxNTAtNDQ3LjVRMTExLTUwMCA5NS41LTU0NFQ4MC02MzRxMC05NCA2My0xNTd0MTU3LTYzcTUyIDAgOTkgMjJ0ODEgNjJxMzQtNDAgODEtNjJ0OTktMjJxOTQgMCAxNTcgNjN0NjMgMTU3cTAgNDYtMTUuNSA5MFQ4MTAtNDQ3LjVRNzcxLTM5NSA3MDUtMzI5VDUzOC0xNzJsLTU4IDUyWiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==>
+[img-contribute]: <https://img.shields.io/badge/Support_and_Contribute-red?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00ODAtMTIwLTU4LTUycS0xMDEtOTEtMTY3LTE1N1QxNTAtNDQ3LjVRMTExLTUwMCA5NS41LTU0NFQ4MC02MzRxMC05NCA2My0xNTd0MTU3LTYzcTUyIDAgOTkgMjJ0ODEgNjJxMzQtNDAgODEtNjJ0OTktMjJxOTQgMCAxNTcgNjN0NjMgMTU3cTAgNDYtMTUuNSA5MFQ4MTAtNDQ3LjVRNzcxLTM5NSA3MDUtMzI5VDUzOC0xNzJsLTU4IDUyWiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg==>
 [img-translate]: <https://img.shields.io/badge/Help_us_Translate-orange?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Im00NzYtODAgMTgyLTQ4MGg4NEw5MjQtODBoLTg0bC00My0xMjJINjAzTDU2MC04MGgtODRaTTE2MC0yMDBsLTU2LTU2IDIwMi0yMDJxLTM1LTM1LTYzLjUtODBUMTkwLTY0MGg4NHEyMCAzOSA0MCA2OHQ0OCA1OHEzMy0zMyA2OC41LTkyLjVUNDg0LTcyMEg0MHYtODBoMjgwdi04MGg4MHY4MGgyODB2ODBINTY0cS0yMSA3Mi02MyAxNDh0LTgzIDExNmw5NiA5OC0zMCA4Mi0xMjItMTI1LTIwMiAyMDFabTQ2OC03MmgxNDRsLTcyLTIwNC03MiAyMDRaIiBmaWxsPSIjZmZmZmZmIi8%2BPC9zdmc%2B>
 [img-website]: <https://img.shields.io/badge/Official_Website-DBD0B5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik00ODAtODBxLTgzIDAtMTU2LTMxLjVUMTk3LTE5N3EtNTQtNTQtODUuNS0xMjdUODAtNDgwcTAtODMgMzEuNS0xNTZUMTk3LTc2M3E1NC01NCAxMjctODUuNVQ0ODAtODgwcTgzIDAgMTU2IDMxLjVUNzYzLTc2M3E1NCA1NCA4NS41IDEyN1Q4ODAtNDgwcTAgODMtMzEuNSAxNTZUNzYzLTE5N3EtNTQgNTQtMTI3IDg1LjVUNDgwLTgwWm0wLTgwcTEzNCAwIDIyNy05M3Q5My0yMjdxMC03LS41LTE0LjVUNzk5LTUwN3EtNSAyOS0yNyA0OHQtNTIgMTloLTgwcS0zMyAwLTU2LjUtMjMuNVQ1NjAtNTIwdi00MEg0MDB2LTgwcTAtMzMgMjMuNS01Ni41VDQ4MC03MjBoNDBxMC0yMyAxMi41LTQwLjVUNTYzLTc4OXEtMjAtNS00MC41LTh0LTQyLjUtM3EtMTM0IDAtMjI3IDkzdC05MyAyMjdoMjAwcTY2IDAgMTEzIDQ3dDQ3IDExM3Y0MEg0MDB2MTEwcTIwIDUgMzkuNSA3LjVUNDgwLTE2MFoiLz48L3N2Zz4%3D>
 [img-wiki]: <https://img.shields.io/badge/Read_the_Wiki-423E35?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgLTk2MCA5NjAgOTYwIiB3aWR0aD0iMjQiPjxwYXRoIGQ9Ik01NjAtNTY0di02OHEzMy0xNCA2Ny41LTIxdDcyLjUtN3EyNiAwIDUxIDR0NDkgMTB2NjRxLTI0LTktNDguNS0xMy41VDcwMC02MDBxLTM4IDAtNzMgOS41VDU2MC01NjRabTAgMjIwdi02OHEzMy0xNCA2Ny41LTIxdDcyLjUtN3EyNiAwIDUxIDR0NDkgMTB2NjRxLTI0LTktNDguNS0xMy41VDcwMC0zODBxLTM4IDAtNzMgOXQtNjcgMjdabTAtMTEwdi02OHEzMy0xNCA2Ny41LTIxdDcyLjUtN3EyNiAwIDUxIDR0NDkgMTB2NjRxLTI0LTktNDguNS0xMy41VDcwMC00OTBxLTM4IDAtNzMgOS41VDU2MC00NTRaTTI2MC0zMjBxNDcgMCA5MS41IDEwLjVUNDQwLTI3OHYtMzk0cS00MS0yNC04Ny0zNnQtOTMtMTJxLTM2IDAtNzEuNSA3VDEyMC02OTJ2Mzk2cTM1LTEyIDY5LjUtMTh0NzAuNS02Wm0yNjAgNDJxNDQtMjEgODguNS0zMS41VDcwMC0zMjBxMzYgMCA3MC41IDZ0NjkuNSAxOHYtMzk2cS0zMy0xNC02OC41LTIxdC03MS41LTdxLTQ3IDAtOTMgMTJ0LTg3IDM2djM5NFptLTQwIDExOHEtNDgtMzgtMTA0LTU5dC0xMTYtMjFxLTQyIDAtODIuNSAxMVQxMDAtMTk4cS0yMSAxMS00MC41LTFUNDAtMjM0di00ODJxMC0xMSA1LjUtMjFUNjItNzUycTQ2LTI0IDk2LTM2dDEwMi0xMnE1OCAwIDExMy41IDE1VDQ4MC03NDBxNTEtMzAgMTA2LjUtNDVUNzAwLTgwMHE1MiAwIDEwMiAxMnQ5NiAzNnExMSA1IDE2LjUgMTV0NS41IDIxdjQ4MnEwIDIzLTE5LjUgMzV0LTQwLjUgMXEtMzctMjAtNzcuNS0zMVQ3MDAtMjQwcS02MCAwLTExNiAyMXQtMTA0IDU5Wk0yODAtNDk0WiIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg%3D%3D>
 
 <!-- URLs -->
-[url-app-cf]: <https://www.curseforge.com/download/app>
-[url-app-github]: <https://github.com/Fabulously-Optimized/fabulously-optimized/releases>
+[url-app-cf]: <https://curseforge.com/download/app>
 [url-app-mmcu]: <https://wiki.download.fo/readme/multimc-auto-update>
 [url-app-modrinth]: <https://modrinth.com/app>
 [url-app-multimc]: <https://multimc.org>
 [url-app-prism]: <https://prismlauncher.org>
-[url-app-vanilla]: <https://www.minecraft.net/en-us/download>
+[url-app-vanilla]: <https://minecraft.net/en-us/download>
 [url-cf]: <https://download.fo/curseforge>
+[url-credits-comp500]: <https://github.com/comp500>
+[url-credits-comp500-Jumploader]: <https://curseforge.com/minecraft/mc-mods/jumploader>
+[url-credits-comp500-Indium]: <https://modrinth.com/mod/indium>
+[url-credits-comp500-packwiz]: <https://github.com/comp500/packwiz>
+[url-credits-jellysquid3]: <https://github.com/jellysquid3>
+[url-credits-jellysquid3-lithium]: <https://curseforge.com/minecraft/mc-mods/lithium>
+[url-credits-jellysquid3-phosphor]: <https://curseforge.com/minecraft/mc-mods/phosphor>
+[url-credits-jellysquid3-sodium]: <https://curseforge.com/minecraft/mc-mods/sodium>
+[url-credits-Kichura]: <https://github.com/Kichura>
+[url-credits-LambdAurora]: <https://github.com/LambdAurora>
+[url-credits-LambdAurora-alternatives]: <https://lambdaurora.dev/optifine_alternatives>
+[url-credits-LambdAurora-LambdaBetterGrass]: <https://curseforge.com/minecraft/mc-mods/lambdabettergrass>
+[url-credits-LambdAurora-LambDynamicLights]: <https://curseforge.com/minecraft/mc-mods/lambdynamiclights>
+[url-credits-RaptaG]: <https://github.com/RaptaG>
+[url-credits-redbrain]: <https://github.com/redbrain>
+[url-credits-RozeFound]: <https://github.com/RozeFound>
+[url-credits-TheMadHau5]: <https://github.com/themadhau5>
+[url-credits-TheYTG123]: <https://curseforge.com/members/theytg123/projects>
+[url-credits-triphora]: <https://github.com/triphora>
+[url-credits-Ultrasonic1209]: <https://github.com/Ultrasonic1209>
 [url-discord]: <https://download.fo/discord>
 [url-github]: <https://download.fo/github>
+[url-github-main-graph]: <https://github.com/Fabulously-Optimized/fabulously-optimized/graphs/contributors>
+[url-github-wiki-graph]: <https://github.com/Fabulously-Optimized/wiki/graphs/contributors>
+[url-github-org]: <https://github.com/Fabulously-Optimized>
 [url-install]: <https://download.fo/install>
 [url-mastodon]: <https://download.fo/mastodon>
 [url-modrinth]: <https://download.fo/modrinth>
 [url-options]: <https://wiki.download.fo/readme/changed-options>
 [url-rate]: <https://download.fo/rate>
+[url-reviews]: <https://github.com/Fabulously-Optimized/fabulously-optimized#reviews>
 [url-rp]: <https://wiki.download.fo/readme/changed-options#resource-packs>
-[url-rp-crh-cf]: <https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper>
+[url-rp-crh-cf]: <https://curseforge.com/minecraft/texture-packs/chat-reporting-helper>
 [url-rp-crh-modrinth]: <https://modrinth.com/resourcepack/chat-reporting-helper>
-[url-rp-crh-pmc]: <https://www.planetminecraft.com/texture-pack/chat-reporting-helper>
-[url-rp-fbg-cf]: <https://www.curseforge.com/minecraft/texture-packs/fast-better-grass>
+[url-rp-crh-pmc]: <https://planetminecraft.com/texture-pack/chat-reporting-helper>
+[url-rp-fbg-cf]: <https://curseforge.com/minecraft/texture-packs/fast-better-grass>
 [url-rp-fbg-modrinth]: <https://modrinth.com/resourcepack/fast-better-grass>
-[url-rp-fbg-pmc]: <https://www.planetminecraft.com/texture-pack/fast-better-grass>
+[url-rp-fbg-pmc]: <https://planetminecraft.com/texture-pack/fast-better-grass>
 [url-terms]: <https://download.fo/terms>
-[url-thanks]: <https://download.fo/thanks>
+[url-contribute]: <https://download.fo/contribute>
 [url-translate]: <https://download.fo/translate>
 [url-tutorial-cf]: <https://wiki.download.fo/readme/install-instructions#curseforge-app>
 [url-tutorial-mmcu]: <https://wiki.download.fo/readme/install-instructions#multimc-auto-update>
+[url-tutorial-mmcu-ignoremods]: <https://wiki.download.fo/readme/multimc-auto-update#can-i-ignore-some-of-the-mods>
 [url-tutorial-modrinth]: <https://wiki.download.fo/readme/install-instructions#modrinth-app>
 [url-tutorial-multimc]: <https://wiki.download.fo/readme/install-instructions#multimc>
 [url-tutorial-prism]: <https://wiki.download.fo/readme/install-instructions#prism-launcher>
 [url-tutorial-vanilla]: <https://wiki.download.fo/readme/install-instructions#minecraft-launcher-vanilla>
 [url-website]: <https://download.fo>
-[url-wiki]: <https:/download.fo/wiki>
+[url-wiki]: <https://download.fo/wiki>
