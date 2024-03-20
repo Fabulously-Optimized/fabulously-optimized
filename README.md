@@ -39,8 +39,8 @@ See this table for a comparison between the launchers:
 | [Modrinth App][url-app-modrinth]              | [🔗&nbsp;Open][url-tutorial-modrinth] |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
 | [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
 | [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [MultiMC auto-update][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Vanilla Minecraft Launcher][url-app-vanilla] | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [MultiMC (auto-update)][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [Minecraft Launcher (vanilla)][url-app-vanilla] | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
 
 > [!NOTE]
 >
@@ -62,20 +62,22 @@ FO includes some resource packs [for a better experience][url-rp], but they can 
 ## Credits
 
 - [TheYTG123][url-credits-TheYTG123] on CurseForge who helped with Jumploader to release the 1.16.3 version a little faster
-- [triphora][url-credits-triphora] who suggested and helped with the Modrinth format and formerly moderated FO Discord server
+- [triphora][url-credits-triphora] who suggested and helped with the Modrinth format, and formerly moderated the FO Discord server
 - [RozeFound][url-credits-RozeFound] for helping with Python scripts and providing lots of constructive feedback for the pack
 - [TheMadHau5][url-credits-TheMadHau5], [redbrain][url-credits-redbrain], [Kichura][url-credits-Kichura] for the [fancy mod table][file-mods]
 - [RaptaG][url-credits-RaptaG] and [Ultrasonic1209][url-credits-Ultrasonic1209] for the [Packwiz mod ignoring tutorials][url-tutorial-mmcu-ignoremods]
+- [IMB11][url-credits-IMB11] for the fancy website
+- [Miroma][url-credits-Miroma] for the current version of this readme
 - Other people creating pull requests for [the main project][url-github-main-graph], [wiki][url-github-wiki-graph] and [other organization projects][url-github-org]
 - [People who have created videos about the modpack][url-reviews]
 - Everyone who has suggested ideas and reported bugs!
 
 Special thanks to:
 
-- [jellysquid3][url-credits-jellysquid3] for creating [Sodium][url-credits-jellysquid3-sodium], [Lithium][url-credits-jellysquid3-lithium], [Phosphor][url-credits-jellysquid3-phosphor] which were my initial inspiration for creating the modpack
-- [LambdAurora][url-credits-LambdAurora] for creating [the list of OptiFine alternatives][url-credits-LambdAurora-alternatives] which the pack does get some mod ideas from, [LambDynamicLights][url-credits-LambdAurora-LambDynamicLights] and [LambdaBetterGrass][url-credits-LambdAurora-LambdaBetterGrass]
+- [jellysquid3][url-credits-jellysquid3] for creating [Sodium][url-credits-jellysquid3-sodium], [Lithium][url-credits-jellysquid3-lithium], [Phosphor][url-credits-jellysquid3-phosphor] which were the initial inspiration for creating the modpack
+- [LambdAurora][url-credits-LambdAurora] for creating [the list of OptiFine alternatives][url-credits-LambdAurora-alternatives] which the pack does get some mod ideas from, and [LambDynamicLights][url-credits-LambdAurora-LambDynamicLights]
 - [comp500][url-credits-comp500] for creating [Jumploader][url-credits-comp500-Jumploader] - a mod that made the modpack possible in Minecraft 1.16.x, [Indium][url-credits-comp500-Indium] - mod that provided the rendering API for Sodium for increased mod compatibility and [packwiz][url-credits-comp500-packwiz] - a tool that makes the MultiMC auto-update happen
-- Mod devs that have joined my Discord and are discussing the modpack's development there
+- Mod devs who have joined the Discord and are discussing the modpack's development there
 - All developers who made the mods that are, have been and will be in the modpack
 - Everyone who uses, tests and shares the modpack!
 
@@ -116,9 +118,10 @@ Special thanks to:
 [url-credits-Kichura]: <https://github.com/Kichura>
 [url-credits-LambdAurora]: <https://github.com/LambdAurora>
 [url-credits-LambdAurora-alternatives]: <https://lambdaurora.dev/optifine_alternatives>
-[url-credits-LambdAurora-LambdaBetterGrass]: <https://curseforge.com/minecraft/mc-mods/lambdabettergrass>
 [url-credits-LambdAurora-LambDynamicLights]: <https://curseforge.com/minecraft/mc-mods/lambdynamiclights>
 [url-credits-RaptaG]: <https://github.com/RaptaG>
+[url-credits-IMB11]: <https://github.com/IMB11>
+[url-credits-Miroma]: <https://github.com/its-miroma>
 [url-credits-redbrain]: <https://github.com/redbrain>
 [url-credits-RozeFound]: <https://github.com/RozeFound>
 [url-credits-TheMadHau5]: <https://github.com/themadhau5>
