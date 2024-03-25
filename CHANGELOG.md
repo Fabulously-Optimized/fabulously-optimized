@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.8.1 (2024-03-25)
+
+- Updated EntityCulling, ModernFix
+- Updated Hebrew, Malay, Malay (Jawi), Vietnamese, Chinese Traditional, Chinese Simplified translations
+
 ### 5.8.0 (2024-03-20)
 
 It's time to upgrade.

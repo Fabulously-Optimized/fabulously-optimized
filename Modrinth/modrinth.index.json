@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.8.0",
+    "versionId": "5.8.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -143,16 +143,15 @@
             "fileSize": 492605
         },
         {
-            "path": "mods/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
+            "path": "mods/entityculling-fabric-1.6.4-mc1.20.4.jar",
             "hashes": {
-                "sha1": "898794f5fe7051ce2c58c3c32e34d785fec7761d",
-                "sha512": "39cead9d742acbf031375323a0418d82fd6d5957f69e29a1ddfa493b9d932e2d824b13c46c8882417249d3407f145909ef4923514335d7e89af15c73946c7c20"
+                "sha1": "ee3804cc07063cc5f67a3c9ed79bd8f2fbefab44",
+                "sha512": "2506bfffb1c6335889d7f33ea8018d7100fbaf5f983b95747894d58d7ef7ed0b4b77ef4f74824b5d798a87cc6acfbc6538dd5fef265625302e159056644b5a00"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar",
-                "https://github.com/tr7zw/EntityCulling/releases/download/1.6.3.1-1.20.4/entityculling-fabric-1.6.3.1-mc1.20.4.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar"
             ],
-            "fileSize": 59359
+            "fileSize": 59582
         },
         {
             "path": "mods/entity_model_features_fabric_1.20.4-1.3.jar",
@@ -373,15 +372,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.14.0+mc1.20.4.jar",
+            "path": "mods/modernfix-fabric-5.15.0+mc1.20.4.jar",
             "hashes": {
-                "sha1": "3e01e37697c90971cf36f25dc281ba0f96ccae18",
-                "sha512": "d00a879ccbb5f2ed34157baa59845e84fad6e2acbdff2530e9cb80eee5e45279a28debb6f0bde9a7e8c5b85f9f9cf7ef255a08b2e8010f1989b1631afe16c4f9"
+                "sha1": "dbbb4d797bb89ac02eb6fd7fb310872ef37c23d1",
+                "sha512": "fa163194316f7129d275064bc4ac4e29395673f046c45625f7ce5933318d411c08a2538675a61a19db147324ba76fec44fe6dbd7279be34c62b3f7adeceb072c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/o6bFEv8x/modernfix-fabric-5.14.0%2Bmc1.20.4.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0%2Bmc1.20.4.jar"
             ],
-            "fileSize": 434857
+            "fileSize": 440683
         },
         {
             "path": "mods/modmenu-9.0.0.jar",
@@ -545,13 +544,13 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "20378e08dd99bb4de387a46cbf2e0313317d123f",
-                "sha512": "debbe7cf4bf7031ab0baaa91518b784f2e2da20819ad4f39c42a2f117a074a78672e4469d7af575b71d34d5b72bdc87d8152cad83ae68a588104f8b3d092f788"
+                "sha1": "be720009d6f9adad8e601d670a63ba2d1e48ffbe",
+                "sha512": "377fcc618eb9df50d16a4fe8321a0d9e8261382ae0371ccc2426a5334989ac12fbbcbb8bd33317f1fa9911e4faed4e1fa0361b70961a7dab7e6464d4b2048947"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/pXplWXNs/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/8kFpMqys/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 53980
+            "fileSize": 55881
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -567,13 +566,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "5ec49380f9350d9c4a77fb1676ac637ab1981530",
-                "sha512": "54b3baa5c9bf3719859ce8886251ef718f56ea9c6a6f21cdcfc7176acce0cce0ddf1adfd79bcfbdd209173680e682b9f31ccce0c66a0033e3d545d971806ee2d"
+                "sha1": "27d4a3045584740b03ee511bebd84ac991258fdf",
+                "sha512": "64a6f0079075f5ed9dc94572afaeeb8d0827e8b3b16f0c09bf634682923365d11ee294e91208c33b9deed8a7c4b5aed02f3fe9f281bdb7cc79074b42c83089a2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/StuHF5aC/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/Pi0LOPWP/SodiumTranslations.zip"
             ],
-            "fileSize": 173336
+            "fileSize": 176517
         }
     ],
     "dependencies": {
