@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b2daacd720fd4470a4eda7e6f980cea6f2dbc0100bc512942b4b584a2c0f7813"
+hash = "b00501dcd0f88a29b65a682ab530b06c3e6f33c5083c0a7a2890eac964b9c667"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "78c1ddaca3ecd299f46837f58730195ca905f6cdded8ab2d316008e407e67993"
+hash = "62100893986bf292f188f82e861c0002312b69ff470e766c3a02b5ad8d929aac"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "9e222692bd038587c1d128e995645f11182c18b2d143dc3639241db126174ae5"
+hash = "aea2023d43818767f24f00acd2b5740bff3b447e8d69bc9a096c9b7c9a3dbfaf"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/citresewn.pw.toml"
-hash = "44661e2e5601686cc65f52eee1f36150ba3e6cf2d8f42bb00761c48cebceb451"
+hash = "f411a3ef6eecafd74529585a608b33318307734c5ed7f10f78c8ed6b0a5b6cea"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "eed430c64109310fa59cea091c8a42e14ef8b7c32dfa75a4c749c8046208ae1e"
+hash = "1bdd08b335d0edda51173ea7d7c7f5dca9fcddb1ba8d4af27c6003fd7eee87c2"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "412e02058f673d4548528f9cf075686313f1a0d520b1314a9f235e5c5c2d26aa"
+hash = "80537d9cbd1b0960d61ebed6cd6332747d320e296417c9bcff8ebbe5d7674b55"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "08131ecfae19b5191f2de4fcbb1876adc85f4f170ab9bc79d9d323560bd8319e"
+hash = "9e895bf7859d57f157b25fd411fcbe466c73e94606bdadb4c34cba2377993940"
 metafile = true
 
 [[files]]
@@ -320,6 +320,11 @@ hash = "86c8e8a437965b4da10430e4629086ba9d6fcb7608d56de46fc858ecb4b75c8b"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "1a8995cabc56c0b81bc07a041285e468a6439e9c9438853f0ccda7a200971cb0"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "c8e63d0b1770e8e36bee5ae3172693113b56ead0095ec101ed8562c5cf7066ad"
 metafile = true
@@ -356,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fc17aaf440b65f3c4ab3d97c5b03aa0963248b4ab6c642b0daf3a27180ecb1c5"
+hash = "caef48d13d2ec881888e58544d02e63b5d0a46b74ad28b349b0500bc0b783bf9"
 metafile = true
 
 [[files]]
@@ -371,5 +376,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "821c0f8d9942038ce144ed5c7591280f830ffdafc61a16391c51cdaac2148b95"
+hash = "571020998a4cd50f424001ce68229427f617c3bf9b81029f08037fb9a2c6f954"
 metafile = true

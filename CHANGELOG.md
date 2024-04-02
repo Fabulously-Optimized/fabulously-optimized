@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.9.0 (2024-04-02)
+
+- Added Polytone - OptiFine's custom colors! (and some additional resource pack features)
+- Added CIT Resewn - same old mod, now officially updated to 1.20.4
+- Removed [CIT] CustomItemTextures - official mod got updated
+- Updated Controlify, Debugify, ImmediatelyFast, Zoomify
+- Clarified mod descriptions in Mod Menu
+  - All OptiFine feature-providing mods now have identical names to its documentation
+  - Mods that require a custom resource pack to see the feature (shaders, custom skies, emissive blocks etc) are now explicitly marked
+- Updated Italian and Romanian translations
+- Updated and enforced Fabric Loader 0.15.9
+
 ### 5.8.1 (2024-03-25)
 
 - Updated EntityCulling, ModernFix
