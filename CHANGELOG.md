@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.9.1 (2024-04-02)
+
+- Updated Polytone
+- Updated English, Estonian, Hebrew, Italian, Malay, Malay (Jawi), Russian, Turkish, Vietnamese translations
+
 ### 5.9.0 (2024-04-02)
 
 - Added Polytone - OptiFine's custom colors! (and some additional resource pack features)
