@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.9.1",
+    "versionId": "5.9.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -73,16 +73,15 @@
             "fileSize": 1050675
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.2+1.20.4.jar",
+            "path": "mods/Controlify-2.0.0-beta.3+1.20.4.jar",
             "hashes": {
-                "sha1": "7b00982b79a383e76b496a6768333b4400fca661",
-                "sha512": "0503a306cd9a5d4b75f285cab77f7eaba27849adbdf0e6cdc517ff471b530e74dfb24e228816072a36ea5d77f1a1438f74ecc290467c434707211ddf91509639"
+                "sha1": "455aa31c1869d07846a9171b25a86a16cab7f500",
+                "sha512": "34245dadc55f254b517bf9c820b83107c50d42709e6ff54c792cf7a80ff3211471f039e6dcc01894a63eac65cdb5770c24db858c0be1485af5dd63f3816a5d92"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/MZzohk5u/Controlify-2.0.0-beta.2%2B1.20.4.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.2%2B1.20.4/Controlify-2.0.0-beta.2%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/im0SBR8Y/Controlify-2.0.0-beta.3%2B1.20.4.jar"
             ],
-            "fileSize": 2105537
+            "fileSize": 2529988
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -176,15 +175,15 @@
             "fileSize": 449202
         },
         {
-            "path": "mods/fabric-api-0.96.11+1.20.4.jar",
+            "path": "mods/fabric-api-0.97.0+1.20.4.jar",
             "hashes": {
-                "sha1": "5537a4592773739e7279f3685445a84af49fde56",
-                "sha512": "3a46d5f67d2863f4d7a28e2e7588d08a26318dea1fef6d968816d6134bce91f2b21c7012ed5988a72e45a16db57a90dcfec5f021b2004ce9a75cb9f953f30c64"
+                "sha1": "006fcd4bd735279a7a9ad496578a0f4fda194918",
+                "sha512": "1b4230e5bbc7dad540170cac1cee2b6d372cfa08beea9ddfaef90665295ce2c4d6d77f88688b7934bb91529d2fccab1ab7022652d7b52944b57175fbe133ab50"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/htRy7kbI/fabric-api-0.96.11%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/xklQBMta/fabric-api-0.97.0%2B1.20.4.jar"
             ],
-            "fileSize": 2160959
+            "fileSize": 2187067
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
@@ -372,15 +371,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.15.0+mc1.20.4.jar",
+            "path": "mods/modernfix-fabric-5.16.1+mc1.20.4.jar",
             "hashes": {
-                "sha1": "dbbb4d797bb89ac02eb6fd7fb310872ef37c23d1",
-                "sha512": "fa163194316f7129d275064bc4ac4e29395673f046c45625f7ce5933318d411c08a2538675a61a19db147324ba76fec44fe6dbd7279be34c62b3f7adeceb072c"
+                "sha1": "8b4bb254612b8f924edd5a2724d485873c8b08d8",
+                "sha512": "592e7446fbe96beea1fda0b7d3b7076382ca26a7f905ddb90d4fa222cb920f19b9d5efc69d66b5d293ac8e00e718b89f62fe99885c7d8100e8d4299aaf8760fa"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0%2Bmc1.20.4.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/EL78UqrQ/modernfix-fabric-5.16.1%2Bmc1.20.4.jar"
             ],
-            "fileSize": 440683
+            "fileSize": 458016
         },
         {
             "path": "mods/modmenu-9.0.0.jar",
@@ -405,15 +404,15 @@
             "fileSize": 3546
         },
         {
-            "path": "mods/moreculling-1.20.4-0.22.1.jar",
+            "path": "mods/moreculling-1.20.4-0.23.1.jar",
             "hashes": {
-                "sha1": "2b373ab4657fa06682957fbe5bd15f14381e4353",
-                "sha512": "c562f4319c6aa13b84bb92ee63074792648af2a3d8711a2b49e865e25b2690cd26ad7b272d59dc228bb39315c035a32792755fb896d3d939ef23533fb80cbde5"
+                "sha1": "6003a87e848fac99c8fe856e7f70fe4b7653220c",
+                "sha512": "ac389f0a132eb8db24e4f397683769f873b07c61b914a06293ec8ff2f20b9341db9a973fd23aef14aa5fe1f5942bd0f6d59596ef77243718f8abea57ed842a7f"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/gZW2FlFT/moreculling-1.20.4-0.23.1.jar"
             ],
-            "fileSize": 269457
+            "fileSize": 272244
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
@@ -450,15 +449,15 @@
             "fileSize": 70974
         },
         {
-            "path": "mods/polytone-1.20.4-1.18.0-fabric.jar",
+            "path": "mods/polytone-1.20.4-1.18.5-fabric.jar",
             "hashes": {
-                "sha1": "b38de75e7ed0ccbd598048164e8f3bcf7934729b",
-                "sha512": "c6a68eb6945f6c7ccac1650ba8ef63f064a1aa0eeebe95bae0153749d9a3f98ae398c7981fbb37df324e71fceebad457373781e02f3e9653e21e597601e7282b"
+                "sha1": "e540f64068944a958fcff45e40340c02d258e5fd",
+                "sha512": "b01f1dd9c623ad061db7aeb237e44ea14cd39cf82336486fc7e8c5029f57b5e51477c5dfa0407aff71cc67d64daa6318ab08449213ab266994295ad9c8b860e5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/YGEgFqZX/polytone-1.20.4-1.18.0-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/1EbrNltt/polytone-1.20.4-1.18.5-fabric.jar"
             ],
-            "fileSize": 421770
+            "fileSize": 428938
         },
         {
             "path": "mods/puzzle-1.6.1+1.20.4.jar",
@@ -484,16 +483,15 @@
             "fileSize": 77393
         },
         {
-            "path": "mods/rrls-4.0.2+mc1.20.4-fabric.jar",
+            "path": "mods/rrls-4.0.3+mc1.20.4-fabric.jar",
             "hashes": {
-                "sha1": "f76b3b6e2325602dcf412722e9ac04cfda16ccb6",
-                "sha512": "f765ba12979fa88eab895cb6dbb9bbe6512bc238e853b07a5d167fbefab0454af9b2d6eeb12dbcfcba615d8e2e76e8d304aa97bd866499b87e90a770ee5950a4"
+                "sha1": "602e3c95a4ec966b5bce5c077f50b69464fb01c9",
+                "sha512": "7c2f9a46c8b5e277a22284dccb9cf6f256a5a4b8d6cb037c00b367655861a5c166cc08096694dd161e782d210cc33c60231f78449b8507a4ac1291d923ea5248"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/hAO2J982/rrls-4.0.2%2Bmc1.20.4-fabric.jar",
-                "https://github.com/dima-dencep/rrls/releases/download/1.20.4-4.0.2/rrls-4.0.2%2Bmc1.20.4-fabric.jar"
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/z7qf9qvt/rrls-4.0.3%2Bmc1.20.4-fabric.jar"
             ],
-            "fileSize": 160857
+            "fileSize": 160909
         },
         {
             "path": "mods/sodium-extra-0.5.4+mc1.20.4-build.116.jar",
@@ -577,17 +575,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "546c857d84dfddb039112ceb7f2fe305d6cb2726",
-                "sha512": "027420b4caa994d8b85c3e4e2b8dbf3ec0ccd9bbb85606ef5e9912ccb6f19d707dcf97a92e5ebeeb15a07464a5916fb854f62d1c3738fac773ac1ac2b3451db5"
+                "sha1": "141e855f76a444bec32d24b5477dd637a4fe01b6",
+                "sha512": "ee1740396070337c56009cd0d4a703a049b95c1a7da1c128ba9bb7ede8bd5857d5aaf7ba3212543ae7397a8354db183a8565818911148a5f89d4270ca383dcb7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/H3CwWhek/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/jxHmg0uz/SodiumTranslations.zip"
             ],
-            "fileSize": 182625
+            "fileSize": 185036
         }
     ],
     "dependencies": {
         "minecraft": "1.20.4",
-        "fabric-loader": "0.15.9"
+        "fabric-loader": "0.15.10"
     }
 }

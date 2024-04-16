@@ -3,7 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
-### 5.9.1 (2024-04-02)
+### 5.9.2 (2024-04-16)
+
+- Updated Controlify, Fabric API, ModernFix, MoreCulling, Polytone, Remove Reloading Screen
+- Updated Hebrew translations
+- Updated Fabric Loader to 0.15.10
+- Fixed MultiMC link shortcut
+
+### 5.9.1 (2024-04-10)
 
 - Updated Polytone
 - Updated English, Estonian, Hebrew, Italian, Malay, Malay (Jawi), Russian, Turkish, Vietnamese translations
