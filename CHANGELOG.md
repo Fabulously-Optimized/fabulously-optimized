@@ -5,7 +5,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 5.10.0-alpha.1 (2024-04-24)
 
-**1.20.5 requires Java 21.** Update your launcher and [download it here.](https://download.fo/java21)
+**1.20.5 requires Java 21.** Update your launcher and [download Java here.](https://download.fo/java21)
 
 - Updated Cloth Config, Controlify, Debugify, Dynamic FPS, Entity Culling, Entity Model Features, Entity Texture Features, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, Iris Shaders, Main Menu Credits, ModernFix, Mod Menu, More Chat History, Reese's Sodium Options, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib 
 - Enforced Fabric Loader 0.15.10
