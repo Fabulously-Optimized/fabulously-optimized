@@ -2,7 +2,7 @@ import shutil
 from pathlib import Path
 
 
-minecraft_version = "1.20.4"
+minecraft_version = "1.20.5"
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 packwiz_path = git_path / "Packwiz" / minecraft_version
 cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
