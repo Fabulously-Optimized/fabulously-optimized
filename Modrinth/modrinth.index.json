@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.10.0-alpha.1",
+    "versionId": "5.10.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -38,18 +38,6 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar"
             ],
             "fileSize": 1144434
-        },
-        {
-            "path": "mods/Controlify-2.0.0-beta.5+1.20.5-rc2.jar",
-            "hashes": {
-                "sha1": "02063071cea7082e6b2b19607cb53d39892c1fc9",
-                "sha512": "33d57430aa951da3d8576328b141e3b6cd172d7f358364b2ac38a50cefa8629b653007b2e05cddc860f544f032ffa927cea5c762b5252fd9f1984105fcf8ab72"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/MGnpqXdx/Controlify-2.0.0-beta.5%2B1.20.5-rc2.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.5%2B1.20.5-rc2/Controlify-2.0.0-beta.5%2B1.20.5-rc2.jar"
-            ],
-            "fileSize": 2588775
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -278,17 +266,6 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
             ],
             "fileSize": 3573
-        },
-        {
-            "path": "mods/moreculling-1.20.4-0.23.1.jar",
-            "hashes": {
-                "sha1": "6003a87e848fac99c8fe856e7f70fe4b7653220c",
-                "sha512": "ac389f0a132eb8db24e4f397683769f873b07c61b914a06293ec8ff2f20b9341db9a973fd23aef14aa5fe1f5942bd0f6d59596ef77243718f8abea57ed842a7f"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/gZW2FlFT/moreculling-1.20.4-0.23.1.jar"
-            ],
-            "fileSize": 272244
         },
         {
             "path": "mods/paginatedadvancements-2.4.2.jar",

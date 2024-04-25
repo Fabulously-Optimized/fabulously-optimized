@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.5
 
+**1.20.5 requires Java 21.** Update your launcher and [download Java here.](https://download.fo/java21)
+
+### 5.10.0-alpha.2 (2024-04-25)
+
+- Worked around multiplayer crash
+- Force-enabled Fabrishot, ModDetectionPreventer
+- Temporarily removed BetterMountHud, CIT Resewn, Continuity, Controlify, Enhanced Block Entities, FastQuit, FerriteCore, ImmediatelyFast, Indium, LambDynamicLights, LanguageReload, Lithium, MoreCulling, NoChatReports, OptiGUI, Polytone, Zoomify
+
 ### 5.10.0-alpha.1 (2024-04-24)
 
 **1.20.5 requires Java 21.** Update your launcher and [download Java here.](https://download.fo/java21)
