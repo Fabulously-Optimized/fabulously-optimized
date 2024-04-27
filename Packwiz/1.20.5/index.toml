@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "be7a569fa93d7e7bc6f1b7298c9eff85218aacbc1d84bc92dd02d9768980f7a9"
+hash = "d3b6d99f850f7bee9448fd1c125d72a06ead98d97f2d1f3bf1afd82db9c97654"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "eef9ffcc5e4798eb6df0982e8f5f4e774c1c01d98c9d0c25a1aab771694a3faa"
+hash = "c84e8764cf76dc94dcb9fe5e1ccd6b6034b7dbe9840dc4b498948bd3e4270e34"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "2fc133da39b5accee0f034364dad7a78e040b9caf1d386b7e3f46c474d277d27"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -85,10 +89,6 @@ file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "dacff858c9d3d3d96a4b6b902133d0691e320e21a2f57adc6bb6cb9875763582"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "dc9d05370fbc7f392597827c50afb29991737988a52c5a624b5170d857eab4e7"
+hash = "ae2b1f0380610c46cb8d2093c083a4a0ee1077b5c345837041403bc75824034c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -200,8 +200,18 @@ hash = "2ab6ab95f7ef07902a8695fec0427a03c2f4d64ff69b2126b10b006b451bf848"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "e8b66c22330476a858b9556bf999497284a252794496bb49648705928baddf02"
+metafile = true
+
+[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "58cb23ae5bc7b769a9af318e5f78328a96f8cae493995169898b026de07cf8ca"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "fc34f10a6ed5a5e2eef2d290b651622939feaf00b5e3d67d3085c1f547181dff"
 metafile = true
 
 [[files]]

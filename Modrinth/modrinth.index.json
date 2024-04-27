@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.11.0-alpha.1",
+    "versionId": "5.11.0-alpha.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -177,6 +177,17 @@
             "fileSize": 51644
         },
         {
+            "path": "mods/ferritecore-6.1.0-fabric.jar",
+            "hashes": {
+                "sha1": "7df5dc87356620c0b80282b2af22330606249426",
+                "sha512": "702fed11ce032c6be4933c7db7534518b960eabfc813ad427d33e7d95dcbc4648d79d8e4915da6b1ac773d7484e0723c7072e93283271479d734f54ab9ef96b0"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/PPnbi6JY/ferritecore-6.1.0-fabric.jar"
+            ],
+            "fileSize": 116763
+        },
+        {
             "path": "mods/fsb-interop-1.4.0+mc1.20.5-build.53.jar",
             "hashes": {
                 "sha1": "1662bd4776e81e8e431cf898a6b281c16fce46f7",
@@ -186,6 +197,18 @@
                 "https://cdn.modrinth.com/data/HpdHOPOp/versions/Ibl7Mnni/fsb-interop-1.4.0%2Bmc1.20.5-build.53.jar"
             ],
             "fileSize": 73405
+        },
+        {
+            "path": "mods/indium-1.0.30+mc1.20.4.jar",
+            "hashes": {
+                "sha1": "b24233f29c0ce4802c61ea8998e01e6e4580ae60",
+                "sha512": "3b9c9beef42f72bc75094595c92038c38e36fcde75890c73ced01aed4fb2a8a85cddb8edd2aa91ea6ed2dd41f8afedaa3dbca8f70c716197a7f2ee5b26060562"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar",
+                "https://github.com/comp500/Indium/releases/download/1.0.30%2Bmc1.20.4/indium-1.0.30%2Bmc1.20.4.jar"
+            ],
+            "fileSize": 104805
         },
         {
             "path": "mods/iris-1.7.0+mc1.20.5.jar",
