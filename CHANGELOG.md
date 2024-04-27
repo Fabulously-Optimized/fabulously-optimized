@@ -5,6 +5,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 **1.20.5 requires Java 21.** Update your launcher and [download Java here.](https://download.fo/java21)
 
+⚠️ According to Mojang, ["a few critical issues"](https://www.minecraft.net/en-us/article/minecraft-1-20-6-release-candidate-1) have been found in 1.20.5, including a partial loss of trader llama inventory contents. Therefore, Minecraft 1.20.6 is scheduled for release next week, use 1.20.5 at own risk.
+
+### 5.11.0-alpha.1 (2024-04-27)
+
+- Readded Continuity, OptiGUI, Zoomify
+- Updated Fabric API, Fabrishot, YetAnotherConfigLib
+- Applied changes from 5.10.0 stable
+- Temporarily removed BetterMountHud, CIT Resewn, Controlify, Enhanced Block Entities, FastQuit, FerriteCore, ImmediatelyFast, Indium, LambDynamicLights, LanguageReload, Lithium, MoreCulling, NoChatReports, Polytone
+
 ### 5.10.0-alpha.2 (2024-04-25)
 
 - Worked around multiplayer crash

@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.10.0-alpha.2",
+    "versionId": "5.11.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -38,6 +38,17 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar"
             ],
             "fileSize": 1144434
+        },
+        {
+            "path": "mods/continuity-3.0.0-beta.4+1.20.2.jar",
+            "hashes": {
+                "sha1": "f9eaa5fc75d2747dbe14818dfde04eaf7152ae3c",
+                "sha512": "e8fde231301571ee75695bcd8ceb69db77192551217d8c65d8587d4f114b241112f06b39f82d84c3a13c98c42be6666a9a207890340413441fbe91237f56fbcf"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
+            ],
+            "fileSize": 1050675
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -120,15 +131,15 @@
             "fileSize": 529377
         },
         {
-            "path": "mods/fabric-api-0.97.6+1.20.5.jar",
+            "path": "mods/fabric-api-0.97.7+1.20.5.jar",
             "hashes": {
-                "sha1": "e6c468e5e1007e53b2495e08b1067c2e3a37be11",
-                "sha512": "f7c41c541f608eb901380c8fa2c6f7dde4738742f1daefe933975307a8232d59fc0aefc01970d599e50a7424f019f8446d357c696d586a9c975757ff34d92848"
+                "sha1": "a93b6975602153d527c9aa3ba7cad937fde5aa0f",
+                "sha512": "1a2be3579ac21e621045220db141a411bf46781c80724472a1b11b91dab8963de27bd6529be17148ac703a41a8249d08b659748fd4d092aeacefc1e5904aa557"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/D7jXLoRF/fabric-api-0.97.6%2B1.20.5.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/tftr9Gex/fabric-api-0.97.7%2B1.20.5.jar"
             ],
-            "fileSize": 2201918
+            "fileSize": 2201985
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
@@ -154,16 +165,16 @@
             "fileSize": 206631
         },
         {
-            "path": "mods/fabrishot-1.12.1.jar",
+            "path": "mods/fabrishot-1.13.0.jar",
             "hashes": {
-                "sha1": "c348c0966a2169a67f6a40f80a85c699104a8642",
-                "sha512": "b9dd8ec0dc7d78ca3b339c20428ab12e7fd099873f418a22d02d91a3605c9f47260bcbcc5977d19c4b5049eb8f69557c2157f83c96b1e1b90f7395ea6f44f675"
+                "sha1": "fa7cd36cefadfd88be94522fea61315ba2415a3d",
+                "sha512": "244248ec03fcc22a578f9ea57d6061e5beccf390548e274430e24f5fd4cf6a7a327773a20808ef5315984e8a012b6e8c787c2d69ca8fa8ffdab017f534124510"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/crC7YOpw/fabrishot-1.12.1.jar",
-                "https://github.com/ramidzkh/fabrishot/releases/download/1.12.1/fabrishot-1.12.1.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/jaP1LlEY/fabrishot-1.13.0.jar",
+                "https://github.com/ramidzkh/fabrishot/releases/download/1.13.0/fabrishot-1.13.0.jar"
             ],
-            "fileSize": 51064
+            "fileSize": 51644
         },
         {
             "path": "mods/fsb-interop-1.4.0+mc1.20.5-build.53.jar",
@@ -212,18 +223,6 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/ModDetectionPreventer+1.20.4-1.2.0.jar",
-            "hashes": {
-                "sha1": "155dfba649bb6fedf15c706aced78eb0ced5b097",
-                "sha512": "1eafdd0d86f5e597110b01f8539d2786a7f6e5a821e3f0abb9bd7c42abb8c1a65c52562e0b4f5b072a41e854e36da191fb241850d930ea379b0876c0fc111013"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/lnxQbnYZ/versions/F2xrsB2S/ModDetectionPreventer%2B1.20.4-1.2.0.jar",
-                "https://github.com/JustAlittleWolf/ModDetectionPreventer/releases/download/1.2.0/ModDetectionPreventer%2B1.20.4-1.2.0.jar"
-            ],
-            "fileSize": 52814
-        },
-        {
             "path": "mods/modelfix-1.14-fabric.jar",
             "hashes": {
                 "sha1": "7c6a38565820d9c1941eb9d1aadaae75cb11ed8b",
@@ -266,6 +265,18 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
             ],
             "fileSize": 3573
+        },
+        {
+            "path": "mods/optigui-2.3.0-beta.2+1.20.5.jar",
+            "hashes": {
+                "sha1": "0666a8a4c4b11bb866eb85134dc77b450a53e95b",
+                "sha512": "33a1085b79257ef515848202c7a4bc5a396e3b11ee4c6b1e743cc76a09abad16917049f331682860bdfebfe1701cfb67dcba8b08d8169182460411c59b8a4832"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/2FbON5jl/optigui-2.3.0-beta.2%2B1.20.5.jar",
+                "https://github.com/opekope2/OptiGUI/releases/download/2.3.0-beta.2%2B1.20.5/optigui-2.3.0-beta.2%2B1.20.5.jar"
+            ],
+            "fileSize": 616635
         },
         {
             "path": "mods/paginatedadvancements-2.4.2.jar",
@@ -337,15 +348,16 @@
             "fileSize": 952615
         },
         {
-            "path": "mods/YetAnotherConfigLib-3.4.0+1.20.5-fabric.jar",
+            "path": "mods/YetAnotherConfigLib-3.4.1+1.20.5-fabric.jar",
             "hashes": {
-                "sha1": "51e1d37933e46b11d1575786e13c7da740cd421e",
-                "sha512": "3ccf6b7485b5eb18c06cf074fe7dd5c2d4bf96d5c54f0f2e2f57df74b7bbd7d82d69536f45eda19f444bc2159e874e3a01ec780d2489bf5c4cf000ed91e226de"
+                "sha1": "b08f6283ebcf24cdbcd223da4c86bc777dc5788c",
+                "sha512": "1e8506f02ea4506e54ba8c830ee255b617304383dd948c61fc2f39848be1f4d00ab71a14785de68d9f6d77450afc70062cfa50a4fed93d4acb51f027630f3eb7"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1eAoo2KR/versions/elFOHmh9/YetAnotherConfigLib-3.4.0%2B1.20.5-fabric.jar"
+                "https://cdn.modrinth.com/data/1eAoo2KR/versions/LXUa8bFw/YetAnotherConfigLib-3.4.1%2B1.20.5-fabric.jar",
+                "https://github.com/isXander/YetAnotherConfigLib/releases/download/3.4.1%2B1.20.5-fabric/YetAnotherConfigLib-3.4.1%2B1.20.5-fabric.jar"
             ],
-            "fileSize": 928672
+            "fileSize": 928747
         },
         {
             "path": "mods/yosbr-0.1.2.jar",
@@ -357,6 +369,18 @@
                 "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
             ],
             "fileSize": 17373
+        },
+        {
+            "path": "mods/Zoomify-2.13.3.jar",
+            "hashes": {
+                "sha1": "77661956c67bb69b3a04328812b9b67a6750eb39",
+                "sha512": "c19d9f68f3befd6c1ebb603a5d9260acb8fdf84b724ea5913a540dd2a62b1811f5009ac0e97a4282c1850cd653f679788cd7f186c2aded63634bc53b7afc7481"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/LIBdkZvZ/Zoomify-2.13.3.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.13.3/Zoomify-2.13.3.jar"
+            ],
+            "fileSize": 949640
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
@@ -383,13 +407,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "6e60bfacbc10a4c070c5fb980c877de3d4ab9d1e",
-                "sha512": "3dc30c3c3cb232c0a3221c38734508577210f3a059a3129af4fee0254fd2927a147acc2115f9bf9bd66ceda8ac5f93de6361843368b5a788f8eaa755d5e810f8"
+                "sha1": "3016ba3327206ac6e4abb7f644c54976c812942a",
+                "sha512": "4de2785709222830cbf886e810ad873b6789d9ac4f0e7131c19524f2947fc76bd60decb4b52b4acee64fc6f79e914bb90e72ee0e31c6c46d62f23881af05b097"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/PZ1zOJyv/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/gxrD73pY/SodiumTranslations.zip"
             ],
-            "fileSize": 185036
+            "fileSize": 185135
         }
     ],
     "dependencies": {

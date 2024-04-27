@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ff9d55ba2eec272d42b1e2911be0c284c98c58e385856568c2458410a44089c6"
+hash = "be7a569fa93d7e7bc6f1b7298c9eff85218aacbc1d84bc92dd02d9768980f7a9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "89b78fa066b673389e5abb61524c18601acca6afc7062535795b4207d2ab2919"
+hash = "eef9ffcc5e4798eb6df0982e8f5f4e774c1c01d98c9d0c25a1aab771694a3faa"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "20f4f39ee9757aa627875e4bc870c5e3993fb03214c370bf2e26a541e9c3295c"
+hash = "dc9d05370fbc7f392597827c50afb29991737988a52c5a624b5170d857eab4e7"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -137,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f1fd6d2d2900f38af4a64f42ce102b1f59f2abc13144487d6604a5d55305830d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2481588ce600e2a77400f48b193a44db3d2dee7a3d571db332ea70c1cd57375a"
 metafile = true
 
 [[files]]
@@ -176,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f18038ec843b1e953d1405baebabdc0f60cdac313623bf402aff9983a994cd3d"
+hash = "a5c6b73a4834606b0ce1adffcfa729bc09dc11b260beb213edb61260fd864e95"
 metafile = true
 
 [[files]]
@@ -191,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "9320866236b43f1a6610e0656a504ab5fc45df2b5bf0b42df5cbfbac2e9f221e"
+hash = "2ab6ab95f7ef07902a8695fec0427a03c2f4d64ff69b2126b10b006b451bf848"
 metafile = true
 
 [[files]]
@@ -215,11 +220,6 @@ hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
 
 [[files]]
-file = "mods/moddetectionpreventer.pw.toml"
-hash = "8a4d1fff0a68e4260fffd2e1d9609df508755d7c6c097bb510e1108ce8ee2094"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "38f94a9f4aaff8aa39f36b963c15c8e740e55cbce6d5d43681a62c073fdb1c80"
 metafile = true
@@ -237,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "c3d0746be98e5f5eaf1731a84e84724289f45f6b49836c5106e8d4669d3f84ec"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "70479556928526accf71a4d5f99465029b28b6b8690c8f0f39dc12f3e5eb0fe3"
 metafile = true
 
 [[files]]
@@ -271,12 +276,17 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "5573d4fb7b171e7ca666a19ccd63d2b0ed73210c5b63ed047f06b7d707b188dc"
+hash = "31349f46d8bb78708e94068aa228761b53e69e9e208de890d247438435e38bab"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "59eb823d9f16ff4bf1c4641a324d2044aba558fa4c531eb7f46f720eecdc461a"
 metafile = true
 
 [[files]]
@@ -291,5 +301,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "a34fb323789582dddcd990487df457ec9ea2210b8784f6584a550a154f97c2bd"
+hash = "88aacf53016ef02f7108a2f661b7bdeb9a12de0b248d65d5bfccbd80edf0602b"
 metafile = true
