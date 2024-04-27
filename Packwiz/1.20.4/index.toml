@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d752f157961eb47e0aefa2b8eb33b847c4f84bc2e793f50cfaf3c9948b1701d9"
+hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3672cf5c8aadc9f3c55a41963a31905746280f86b14ca43e5d4ea47159ec5d6c"
+hash = "85519b82b48aaffbd8673dc1eef36a6e396fedbcccb91533a6d720aac7c3b73a"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -122,7 +122,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "8d94ae92aa5cfa363ae8a65888c4f03524e9a4b07fdf9a371bcfd3df56980a21"
+hash = "f9b246f24db63284ec147f66908b965fbd3c54bb2b0fe592199ee5db3ebe3beb"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "808aaaf05e53474001c7325c977fc177cf96bae4870fcc8e14dc9075d69c6aa8"
+hash = "1df033587f2f3003b29ea75b868ed2a9e860b76ec9211b843415a047b9eaff56"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "eddad0af34215a88d738dd76dea4f2e47769a2f5de874ad7e71951cf18ac9593"
+hash = "c1e03c573198c4caf5d1f31439b967cd3975eb89956c73c226043e20cf72cfca"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "74efa97f0f55e252635966ab08c9ae6d20acb2dbb54754d8dd25fdc04c85af59"
+hash = "9b01e161237e2454dbd098c097720ec740f5fd3ecb775938f02cb289ba2319e5"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "e4ed99791bd910c36ebe63eb0cd1d123f0429b4d2afacfc275c72f0d801e7759"
+hash = "7a6b4108ab4b4ac6a62ceb516e4c4f41eed12d6c3f53f37d08775532df6fce62"
 metafile = true
 
 [[files]]
@@ -275,18 +275,13 @@ hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
 
 [[files]]
-file = "mods/moddetectionpreventer.pw.toml"
-hash = "8a4d1fff0a68e4260fffd2e1d9609df508755d7c6c097bb510e1108ce8ee2094"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "38f94a9f4aaff8aa39f36b963c15c8e740e55cbce6d5d43681a62c073fdb1c80"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "754f8f8ea671c479859f2d931e6b5c61e2f26ec1f73e741fd1dfa02633a4fd41"
+hash = "81025b72e1b6b3695b9e28a97abb13e045f1689f3f03accd737b3825c4a5dd0d"
 metafile = true
 
 [[files]]
@@ -306,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "ef584100cc02316c05f8ec91628e5b244e08b806a13e869c7f41f115f3a8a034"
+hash = "3855426b55b62bf5cb4059750721c5db3896632b2c33ee36f6fdbb1a7d2c7a1c"
 metafile = true
 
 [[files]]
@@ -351,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "649f7a94077ee871457552258a226c022559ffd9a1dabf6bddba58508be380b3"
+hash = "58dd7843f9390e1a9af4735c24c3d2257e72b44d7a5b81016dd45e52997a6407"
 metafile = true
 
 [[files]]
@@ -366,15 +361,15 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "3b3293c2bbfe49109a8da5d01a07a1b8168daf5ab48bfdf55684e625c91e0af6"
+hash = "95011705b9ed9a8bfd704c7a84cf196a0b938e7ba046650aac952d09433351e7"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "29e217821eaad5d505bd20ffce827d911ec7313ad7962f8e86e71f9a47ac5dfd"
+hash = "04bf1a39c73bfecd2ebde0288852d431299da4b925aecb2d0a8316225f60f169"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "76212eef12230f048d6c82b2ab0bebac02e006c862bb1148a7dbe40593b2b2d0"
+hash = "88aacf53016ef02f7108a2f661b7bdeb9a12de0b248d65d5bfccbd80edf0602b"
 metafile = true

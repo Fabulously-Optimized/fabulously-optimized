@@ -22,6 +22,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.10.0 (2024-04-27)
+
+- Removed Mod Detection Preventer - mod developer no longer considers it sustainable
+- Updated Entity Model Features, Entity Texture Features, Controlify, Dynamic FPS, ModernFix, No Chat Reports, YetAnotherConfigLib
+  - Major updates to EMF and ETF that should improve compatibility, unified config interface
+  - Iris update skipped due to breaking changes
+  - MoreCulling update temporary skipped due to a CurseForge bug
+- Enforced Fabric Loader 0.15.10
+
 ### 5.9.2 (2024-04-16)
 
 - Updated Controlify, Fabric API, ModernFix, MoreCulling, Polytone, Remove Reloading Screen
