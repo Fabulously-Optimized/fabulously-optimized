@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.11.0-alpha.2",
+    "versionId": "5.12.0-alpha.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -131,15 +131,15 @@
             "fileSize": 529377
         },
         {
-            "path": "mods/fabric-api-0.97.7+1.20.5.jar",
+            "path": "mods/fabric-api-0.97.8+1.20.6.jar",
             "hashes": {
-                "sha1": "a93b6975602153d527c9aa3ba7cad937fde5aa0f",
-                "sha512": "1a2be3579ac21e621045220db141a411bf46781c80724472a1b11b91dab8963de27bd6529be17148ac703a41a8249d08b659748fd4d092aeacefc1e5904aa557"
+                "sha1": "6d7a34b8448259688e0833c02be3e28763acec65",
+                "sha512": "41f19b2a7271c776b84c22e841c20acf12c5260b4a197a97f8afb84f04b408317a9488646d795ec613a6c98f2655339c2bba426007a1d38b42bc32c15ca6c642"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/tftr9Gex/fabric-api-0.97.7%2B1.20.5.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/kAQqRNrK/fabric-api-0.97.8%2B1.20.6.jar"
             ],
-            "fileSize": 2201985
+            "fileSize": 2202137
         },
         {
             "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
@@ -222,13 +222,24 @@
             "fileSize": 2679411
         },
         {
+            "path": "mods/lithium-fabric-mc1.20.6-0.12.3.jar",
+            "hashes": {
+                "sha1": "18bdca76040af406fd10b97d637d111fc12be9a6",
+                "sha512": "cda611c684636309322f0f406c9f0146552019e5dd10a53b8942c1b0d9df47e2d39abed557cf84e58348c3ad127c83c7e370f1ac79d9a6fad21d845eba4941ed"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/bAbb09VF/lithium-fabric-mc1.20.6-0.12.3.jar",
+                "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.20.6-0.12.3/lithium-fabric-mc1.20.6-0.12.3.jar"
+            ],
+            "fileSize": 684119
+        },
+        {
             "path": "mods/main-menu-credits-1.2.0.jar",
             "hashes": {
                 "sha1": "37ad23f76336eedbd940a1f99c5e49d969fdee67",
                 "sha512": "fb12dd676a080691c78a701721520de1469d53e702710b21ca8eead54d56936e6b3a39b1003e022090de40d650239d547c81031cb4b8a8ab619e56b98cd92c2c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qJDfP7WN/versions/eUN0SbET/main-menu-credits-1.2.0.jar",
                 "https://github.com/isXander/main-menu-credits/releases/download/1.2.0/main-menu-credits-1.2.0.jar"
             ],
             "fileSize": 16640
@@ -257,15 +268,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.17.0+mc1.20.5.jar",
+            "path": "mods/modernfix-fabric-5.17.2+mc1.20.6.jar",
             "hashes": {
-                "sha1": "4302d03bd29e32efff207013635b7f1ae5266cfd",
-                "sha512": "8fc32d3e06297d8a802b35947b55905c04e0f77eaf917f0df1dfb28c9753ef710bb0653a817f367f2f714e1366548d1f5b82c10b942826f8982d70f09f15a53a"
+                "sha1": "04f681e5d9c2bdc4aeab1bc1a4b613a807a6cdaf",
+                "sha512": "cede1309c130b18067d5ef800e204e1f20f9034f9f4d01ba7a82847ead6fdb152319c854c7e93d74d6b03a61adf5aa479b7b65c31bf57f0a77edc759843ebcf9"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/tmmvhxCF/modernfix-fabric-5.17.0%2Bmc1.20.5.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/mX9P5IWG/modernfix-fabric-5.17.2%2Bmc1.20.6.jar"
             ],
-            "fileSize": 442677
+            "fileSize": 442676
         },
         {
             "path": "mods/modmenu-10.0.0-beta.1.jar",
@@ -288,6 +299,17 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
             ],
             "fileSize": 3573
+        },
+        {
+            "path": "mods/moreculling-1.20.5-0.25.0.jar",
+            "hashes": {
+                "sha1": "33740e68b2245f686e1e1f2e32f19b614526a559",
+                "sha512": "4fc6b1209d373a1cb320d26c56e88b2faecb7ba2c691334612e47a785520ca499c04421a64c7dc9e5cb025548bda2bccc9796037a991f1d5e4fdf794f471c842"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/51shyZVL/versions/yduz8IZo/moreculling-1.20.5-0.25.0.jar"
+            ],
+            "fileSize": 256188
         },
         {
             "path": "mods/optigui-2.3.0-beta.2+1.20.5.jar",
@@ -440,7 +462,7 @@
         }
     ],
     "dependencies": {
-        "minecraft": "1.20.5",
+        "minecraft": "1.20.6",
         "fabric-loader": "0.15.10"
     }
 }

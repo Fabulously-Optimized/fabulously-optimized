@@ -1,6 +1,20 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.20.6
+
+### 5.12.0-alpha.1 (2024-04-30)
+
+1.20.6 fixes ["a few critical issues"](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-6), including a partial loss of trader llama inventory data. As such, FO for 1.20.5 will no longer receive updates and all alpha version users are advised to update.
+
+- Readded Lithium, MoreCulling
+- Updated Fabric API, ModernFix
+  - Skipped Entity Model Features, Entity Texture Features due to a CF App bug
+  - Controlify and ImmediatelyFast have not been CF-approved yet
+- Visual config partly disabled: Puzzle, Capes
+- Force-enabled: Debugify, EntityCulling, Fabrishot, Sodium, Iris
+- Temporarily removed: BetterMountHud, CIT Resewn, Controlify, Enhanced Block Entities, FastQuit, ImmediatelyFast, LambDynamicLights, LanguageReload, No Chat Reports, Polytone
+
 ## 1.20.5
 
 **1.20.5 requires Java 21.** Update your launcher and [download Java here.](https://download.fo/java21)

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d3b6d99f850f7bee9448fd1c125d72a06ead98d97f2d1f3bf1afd82db9c97654"
+hash = "c961f8f79dac750c3ab8a6effbd1f47c6653804dca0f0bdd5b5e8a6cae9d6f97"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c84e8764cf76dc94dcb9fe5e1ccd6b6034b7dbe9840dc4b498948bd3e4270e34"
+hash = "2dabd2905c0582af167390ee786a5ff47dd4c148a5f47e4175184676db9aa752"
 
 [[files]]
 file = "config/modmenu.json"
@@ -14,7 +14,7 @@ hash = "2fc133da39b5accee0f034364dad7a78e040b9caf1d386b7e3f46c474d277d27"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "95cc1202efe0251c085fa0cd34349d43e63e2dbd159f1dd9727d2765d699a8a3"
+hash = "79bbe17c1414a833965d44be59ab81687384143112bcbf924e10b46d58339f2f"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a5c6b73a4834606b0ce1adffcfa729bc09dc11b260beb213edb61260fd864e95"
+hash = "36d7ddc72e4400ff5ddcef63d520d3bbbd6d05912ef46735488bfcbe1697dbbe"
 metafile = true
 
 [[files]]
@@ -220,8 +220,13 @@ hash = "208a440bc255a39ecd7511f8e988a0654edabb57b6a6ee6edc08dc97a1a1a14c"
 metafile = true
 
 [[files]]
-file = "mods/isxander-main-menu-credits.pw.toml"
-hash = "21843e75802603fc737c7599bbd6550e85d77e882e9b0aa5df279ae1270392d6"
+file = "mods/lithium.pw.toml"
+hash = "c84e931bde72de07690a57bbaa93f48163a7f5f5e817235060eb4b373cfceb1a"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "8c8fb2fa36c897256fc55367b791b5cbb66a7902940a22459b7b3f2c773cfb9c"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e6c7c103c0f50c8793485f755ee80d95cf9725ca4c161eca0df028efce8fc169"
+hash = "49cf77aeabe9438181dad0980077d4d2ebd18f94e3dd11156e0d04d7c58fbc61"
 metafile = true
 
 [[files]]
@@ -247,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "c3d0746be98e5f5eaf1731a84e84724289f45f6b49836c5106e8d4669d3f84ec"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "08304f1522489857f57482ecda6434306f438a6bb9e8be9f9b1a4da04747c548"
 metafile = true
 
 [[files]]
