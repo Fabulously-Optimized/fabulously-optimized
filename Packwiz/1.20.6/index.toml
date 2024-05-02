@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c961f8f79dac750c3ab8a6effbd1f47c6653804dca0f0bdd5b5e8a6cae9d6f97"
+hash = "d0929cf1802fb8b0963f11a7f6dd9ecf6f8f44089561cb5a78fd7d2420cb3f31"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2dabd2905c0582af167390ee786a5ff47dd4c148a5f47e4175184676db9aa752"
+hash = "c14498f73cae48808b5ec973d1514f9ea8ff2ab0963cc166bf10f3b8dd4ba55e"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "2fc133da39b5accee0f034364dad7a78e040b9caf1d386b7e3f46c474d277d27"
+hash = "f41188846cffe4f8847e69de8e456ca6b301c9dc409d0c515edf1666fb78e29d"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "08273307f0b1df02aabffcea657747e6308ca00d301c6c0f4cce42818a8f53f5"
+hash = "f4478d92dac05ad1226a764825a8fdd3012f184ec4c9d631e680fdfa08d96c0c"
 metafile = true
 
 [[files]]
@@ -142,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "2481588ce600e2a77400f48b193a44db3d2dee7a3d571db332ea70c1cd57375a"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "b3838fdf49d6d8b8321889805f59fd0e410d6ff69938c2f68e5e5927cf12a874"
 metafile = true
 
 [[files]]
@@ -166,17 +171,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "16dfe8637e7df086ccd50c89331596cb023bf0dbc4312885b70cbd1bbf12941b"
+hash = "d71e0684cab9614b42d0cb682e23b955ff40fbd9417cbc5b762d389eafd2ddd7"
 metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "eee55803628ee3f0267108c9054ff03d215224968335df62f71aa395075e6bab"
+hash = "80ce92b0b6ca05d30b34023cb86452955bb556e7469cd0436870e47c57596a3a"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "3c256b1d68518261d4dbb7b438f11bbabaa6f5cfae0ca3448e62d6ff615e8b4b"
+hash = "6f3897453ad5c9dd8b827f009c6f828e6597e6afa2ba4fc2e1e9027b6fc8b589"
 metafile = true
 
 [[files]]
@@ -200,13 +205,23 @@ hash = "2ab6ab95f7ef07902a8695fec0427a03c2f4d64ff69b2126b10b006b451bf848"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ad68291896e892edafe6d0ef625f0e909a01045bc1e25f5e34a0ceb072f42351"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
-hash = "e8b66c22330476a858b9556bf999497284a252794496bb49648705928baddf02"
+hash = "b26b8bced90483417fe1b26e1a706f4d65b0802c86817255b9bcab35a1db0406"
 metafile = true
 
 [[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "58cb23ae5bc7b769a9af318e5f78328a96f8cae493995169898b026de07cf8ca"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b8eb96819f629cd66657ded2826d3ee599a1939043d943343d68ef0cf5683ca7"
 metafile = true
 
 [[files]]
@@ -226,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "8c8fb2fa36c897256fc55367b791b5cbb66a7902940a22459b7b3f2c773cfb9c"
+hash = "b6bf3418e34dd16bd2c84de01f72f655fc224a59f117388246f592e02e635391"
 metafile = true
 
 [[files]]
@@ -286,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "e1d7d8375267be7c344b94bf0962aec21476a0a91bc97b0e5eb82fb6365599f0"
+hash = "36830ddd92d96a95f5ef05a6973d3786c9423e5692a485fd4297f3125c6c0829"
 metafile = true
 
 [[files]]

@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.6
 
+### 5.12.0-alpha.2 (2024-05-02)
+
+- Readded Controlify, FastQuit, ImmediatelyFast
+- Updated Entity Model Features, Entity Texture Features, Capes, EntityCulling, FerriteCore, Sodium Extra
+- Visual config disabled: Puzzle
+- Force-enabled: Debugify, Fabrishot, Sodium, Iris
+- Temporarily removed: BetterMountHud, CIT Resewn, Enhanced Block Entities, LambDynamicLights, LanguageReload, No Chat Reports, Polytone
+
 ### 5.12.0-alpha.1 (2024-04-30)
 
 1.20.6 fixes ["a few critical issues"](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-20-6), including a partial loss of trader llama inventory data. As such, FO for 1.20.5 will no longer receive updates and all alpha version users are advised to update.
