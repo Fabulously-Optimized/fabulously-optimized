@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.6
 
+### 5.12.0-alpha.3 (2024-05-06)
+
+- Updated Controlify, Fabrishot, ImmediatelyFast, Puzzle
+- Updated and enforced Fabric Loader 0.15.11
+- Force-enabled: Debugify, Sodium, Iris
+- Temporarily removed: BetterMountHud, CIT Resewn, Enhanced Block Entities, LambDynamicLights, LanguageReload, No Chat Reports, Polytone
+
 ### 5.12.0-alpha.2 (2024-05-02)
 
 - Readded Controlify, FastQuit, ImmediatelyFast

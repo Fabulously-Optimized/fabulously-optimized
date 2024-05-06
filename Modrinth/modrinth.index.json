@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-alpha.2",
+    "versionId": "5.12.0-alpha.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -51,16 +51,15 @@
             "fileSize": 1050675
         },
         {
-            "path": "mods/Controlify-2.0.0-beta.6+1.20.5.jar",
+            "path": "mods/Controlify-2.0.0-beta.8+1.20.6.jar",
             "hashes": {
-                "sha1": "8c82c4df7b88fa2a8ee9f6c05103cf809adc55b9",
-                "sha512": "8442374a4b4ef87940b7ca4df3d6edb74128e7855cdee88073d4185bc6eb753d1513fdce9b12e25483a7b45c9e39ae4762526314ec523ea9aba8475a4a34ebe5"
+                "sha1": "614e3afe244cf6fe8c496dfed78f968226352cde",
+                "sha512": "fb15ed133b35d14835f602ffd788cd205d2fdedf857f1cf62f3e52f3fc79fda7552c00b888ec39ecd65d8d42132ee03ced0ad7f91e7e55bd8efd6241995e7791"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/fyZT7z6k/Controlify-2.0.0-beta.6%2B1.20.5.jar",
-                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.6%2B1.20.5/Controlify-2.0.0-beta.6%2B1.20.5.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/ba3azLbW/Controlify-2.0.0-beta.8%2B1.20.6.jar"
             ],
-            "fileSize": 2426407
+            "fileSize": 2452822
         },
         {
             "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
@@ -177,16 +176,15 @@
             "fileSize": 206631
         },
         {
-            "path": "mods/fabrishot-1.13.0.jar",
+            "path": "mods/fabrishot-1.13.1.jar",
             "hashes": {
-                "sha1": "fa7cd36cefadfd88be94522fea61315ba2415a3d",
-                "sha512": "244248ec03fcc22a578f9ea57d6061e5beccf390548e274430e24f5fd4cf6a7a327773a20808ef5315984e8a012b6e8c787c2d69ca8fa8ffdab017f534124510"
+                "sha1": "b50403eb155f080e64eb63f62db9f14f9910c3af",
+                "sha512": "2bd856823218b66d2c30eb0224a78742a38b0ea8566d6caa0784e5accfc96288f6edb08acc96f9a1a0c133a3b5d44d0e221d246f566117b7a4b9ed37ae975fc5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/jaP1LlEY/fabrishot-1.13.0.jar",
-                "https://github.com/ramidzkh/fabrishot/releases/download/1.13.0/fabrishot-1.13.0.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/qxSnvZv4/fabrishot-1.13.1.jar"
             ],
-            "fileSize": 51644
+            "fileSize": 51645
         },
         {
             "path": "mods/fastquit-3.0.0+1.20.6.jar",
@@ -222,16 +220,15 @@
             "fileSize": 73405
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.2.12+1.20.5.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.2.14+1.20.6.jar",
             "hashes": {
-                "sha1": "18c3548a226e4b014272d4f44f0dd197cac02514",
-                "sha512": "e6943553d7eccf7847b5a45c03dfe1a27267726522a936ae1c849727b555c432f46671e3503a3b2205c24d2e3021a7c254314fb1e8da4eb56220059bf54250e8"
+                "sha1": "8e0b1a10e0d2d9f09ff36e46261155a9dc45e235",
+                "sha512": "97b89ff3146dbd48c588a5abdacec9605d38a3ccd00a5d1940da7fe51906cdeaef82bb24cc31f2a1c0b69b4b4824279d14c3169d923748d41cc9df0b09be55e8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/cnnaUyZd/ImmediatelyFast-Fabric-1.2.12%2B1.20.5.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.12/ImmediatelyFast-Fabric-1.2.12%2B1.20.5.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar"
             ],
-            "fileSize": 220334
+            "fileSize": 233489
         },
         {
             "path": "mods/indium-1.0.30+mc1.20.4.jar",
@@ -370,15 +367,15 @@
             "fileSize": 70974
         },
         {
-            "path": "mods/puzzle-1.6.1+1.20.4.jar",
+            "path": "mods/puzzle-1.6.2+1.20.6.jar",
             "hashes": {
-                "sha1": "599f203de21541d4ff9dee52a007c0999fe95059",
-                "sha512": "8dccc609d7fd64f265714dc788a7c3d4355e120ca9610ecc65e05924faf2b59a85a40a4feb9b23e5b26d75eaf60230edd53ede92d4fbaa720b2d7caba4ceca9a"
+                "sha1": "1c5f7ed41df768a563903cd95e65d614a9ac617f",
+                "sha512": "2fa838b0179e1d870d7fe616ff1831924b07d39c99fe7b6934bde42d069d550859336a52dd35d4fc6d8e363381de41889eef386d61852a019a1fd46c85280594"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3IuO68q1/versions/1srBlHhv/puzzle-1.6.1%2B1.20.4.jar"
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/foWdRKRT/puzzle-1.6.2%2B1.20.6.jar"
             ],
-            "fileSize": 128303
+            "fileSize": 142126
         },
         {
             "path": "mods/reeses_sodium_options-1.7.2+mc1.20.5-build.103.jar",
@@ -487,17 +484,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "3016ba3327206ac6e4abb7f644c54976c812942a",
-                "sha512": "4de2785709222830cbf886e810ad873b6789d9ac4f0e7131c19524f2947fc76bd60decb4b52b4acee64fc6f79e914bb90e72ee0e31c6c46d62f23881af05b097"
+                "sha1": "19b22cacd42754deb017e561c7161344db86e310",
+                "sha512": "252ee139e0c5d79f369277c5ab3eab81c05cde37599c684c86192f0275b2c6a181a4fc65102da1762a905bc1750bef84c5e8a30471ed16a3ed4d21c8f8b8d706"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/gxrD73pY/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/LXyVD82i/SodiumTranslations.zip"
             ],
-            "fileSize": 185135
+            "fileSize": 185315
         }
     ],
     "dependencies": {
         "minecraft": "1.20.6",
-        "fabric-loader": "0.15.10"
+        "fabric-loader": "0.15.11"
     }
 }
