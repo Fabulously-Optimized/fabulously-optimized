@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-alpha.3",
+    "versionId": "5.12.0-alpha.4",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -15,6 +15,17 @@
                 "https://cdn.modrinth.com/data/PRN43VSY/versions/uNgEPb10/animatica-0.6%2B1.20.jar"
             ],
             "fileSize": 69810
+        },
+        {
+            "path": "mods/bettermounthud-1.2.3.jar",
+            "hashes": {
+                "sha1": "a2f35ea62669a75e878bc1ccf14a33e1eda062d9",
+                "sha512": "fdde94dd4572189ce5831d4b6547a302309ed535f50a0cb17f29bace827fedda2d4645be4850a5c06337d6a6e535a49843c09cbe4f7442fe9de1a342e186c05a"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/kqJFAPU9/versions/B4fnGV1X/bettermounthud-1.2.3.jar"
+            ],
+            "fileSize": 21009
         },
         {
             "path": "mods/capes-1.5.4+1.20.5-fabric.jar",
@@ -57,7 +68,8 @@
                 "sha512": "fb15ed133b35d14835f602ffd788cd205d2fdedf857f1cf62f3e52f3fc79fda7552c00b888ec39ecd65d8d42132ee03ced0ad7f91e7e55bd8efd6241995e7791"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/ba3azLbW/Controlify-2.0.0-beta.8%2B1.20.6.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/ba3azLbW/Controlify-2.0.0-beta.8%2B1.20.6.jar",
+                "https://github.com/isXander/Controlify/releases/download/2.0.0-beta.8%2B1.20.6/Controlify-2.0.0-beta.8%2B1.20.6.jar"
             ],
             "fileSize": 2452822
         },
@@ -74,16 +86,16 @@
             "fileSize": 39258
         },
         {
-            "path": "mods/Debugify-1.20.5+1.0.jar",
+            "path": "mods/Debugify-1.20.6+1.0.jar",
             "hashes": {
-                "sha1": "0e7d6bc539b2332c416299799b47e55c7740d088",
-                "sha512": "0625af0cc115434bdb811b88be72dc806ca334185096f0ab52fc54526ae14b33957b6fc56482db19c8737115dd09ba54badf05dbff79e25d86e67177bb9508b7"
+                "sha1": "94c9a346178a8d6ab1090c0ae4297fabb96fb2ae",
+                "sha512": "b9e9feeaec63c54eb2fede52d24a64a359073aa296bf492431818cb845656db8e9bc4904d8d962a293522ea6c826c5558cb43ddfb7f4c03a3870b6508ff72999"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/abm18PGR/Debugify-1.20.5%2B1.0.jar",
-                "https://github.com/isXander/Debugify/releases/download/1.20.5%2B1.0/Debugify-1.20.5%2B1.0.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/wJlrMn2x/Debugify-1.20.6%2B1.0.jar",
+                "https://github.com/isXander/Debugify/releases/download/1.20.6%2B1.0/Debugify-1.20.6%2B1.0.jar"
             ],
-            "fileSize": 269064
+            "fileSize": 270390
         },
         {
             "path": "mods/dynamic-fps-3.4.3+minecraft-1.20.5-fabric.jar",
@@ -153,16 +165,16 @@
             "fileSize": 2202137
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.19+kotlin.1.9.23.jar",
+            "path": "mods/fabric-language-kotlin-1.10.20+kotlin.1.9.24.jar",
             "hashes": {
-                "sha1": "d8a8a5a4f1289e9b4d65f9551c32fbdf56b4f162",
-                "sha512": "0c31443b5061d85787de452d1dc0196a0e3391146aa5f030ef5fa95558b0f2b2bb9a0613fc0e5621e9d796d06e717fef0d0c98046f4ead04d150e0eb2d19abdc"
+                "sha1": "8a7e6a0cf1f31c0d2a819819ba78a0609e1577f9",
+                "sha512": "1cae905fe4a051a3a1c6c60d292ad7455d4564f1754b362318d7be3807b45673f4933f3a27e6cc4bc9b2fe94708daf54bd70a7c226d39e132dc48aaa356184dc"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.19%2Bkotlin.1.9.23/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/a7MqDLdC/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar",
+                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.20%2Bkotlin.1.9.24/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar"
             ],
-            "fileSize": 6734779
+            "fileSize": 6734770
         },
         {
             "path": "mods/fabricskyboxes-0.7.4+mc1.20.5.jar",
@@ -182,7 +194,8 @@
                 "sha512": "2bd856823218b66d2c30eb0224a78742a38b0ea8566d6caa0784e5accfc96288f6edb08acc96f9a1a0c133a3b5d44d0e221d246f566117b7a4b9ed37ae975fc5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qsfQtE9/versions/qxSnvZv4/fabrishot-1.13.1.jar"
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/qxSnvZv4/fabrishot-1.13.1.jar",
+                "https://github.com/ramidzkh/fabrishot/releases/download/1.13.1/fabrishot-1.13.1.jar"
             ],
             "fileSize": 51645
         },
@@ -226,7 +239,8 @@
                 "sha512": "97b89ff3146dbd48c588a5abdacec9605d38a3ccd00a5d1940da7fe51906cdeaef82bb24cc31f2a1c0b69b4b4824279d14c3169d923748d41cc9df0b09be55e8"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar",
+                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.14/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar"
             ],
             "fileSize": 233489
         },
@@ -300,15 +314,15 @@
             "fileSize": 65430
         },
         {
-            "path": "mods/modernfix-fabric-5.17.2+mc1.20.6.jar",
+            "path": "mods/modernfix-fabric-5.17.3+mc1.20.6.jar",
             "hashes": {
-                "sha1": "04f681e5d9c2bdc4aeab1bc1a4b613a807a6cdaf",
-                "sha512": "cede1309c130b18067d5ef800e204e1f20f9034f9f4d01ba7a82847ead6fdb152319c854c7e93d74d6b03a61adf5aa479b7b65c31bf57f0a77edc759843ebcf9"
+                "sha1": "732ce085def794bb6f9278427e44bd5006915962",
+                "sha512": "7aea7801f240a011120d32d4b6e7e2ab999b154c5c4f40ef72b1b784e9b8a0d99325a877db26036114f4c46f90cbdae9bfd709bb552ad386ea81d7548a3e5c8e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/mX9P5IWG/modernfix-fabric-5.17.2%2Bmc1.20.6.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/xlt4bcjj/modernfix-fabric-5.17.3%2Bmc1.20.6.jar"
             ],
-            "fileSize": 442676
+            "fileSize": 442675
         },
         {
             "path": "mods/modmenu-10.0.0-beta.1.jar",
@@ -342,6 +356,17 @@
                 "https://cdn.modrinth.com/data/51shyZVL/versions/yduz8IZo/moreculling-1.20.5-0.25.0.jar"
             ],
             "fileSize": 256188
+        },
+        {
+            "path": "mods/NoChatReports-FABRIC-1.20.6-v2.7.0.jar",
+            "hashes": {
+                "sha1": "5a9cbc46aa396a09e18942beea1d99b23c442208",
+                "sha512": "746aac44af62b9de10fb99301e5074f8890ccc57d2e156c20be3ce4e09c3931f9c34674404eebe13f377cce4c870cfa5d0274c9ba32261883833759af5ca14ff"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/FMAZBsZw/NoChatReports-FABRIC-1.20.6-v2.7.0.jar"
+            ],
+            "fileSize": 304385
         },
         {
             "path": "mods/optigui-2.3.0-beta.2+1.20.5.jar",
@@ -448,16 +473,16 @@
             "fileSize": 17373
         },
         {
-            "path": "mods/Zoomify-2.13.3.jar",
+            "path": "mods/Zoomify-2.13.4+1.20.6.jar",
             "hashes": {
-                "sha1": "77661956c67bb69b3a04328812b9b67a6750eb39",
-                "sha512": "c19d9f68f3befd6c1ebb603a5d9260acb8fdf84b724ea5913a540dd2a62b1811f5009ac0e97a4282c1850cd653f679788cd7f186c2aded63634bc53b7afc7481"
+                "sha1": "bbb3d6b65fc209debefd84e84c59db93a8b5dc0e",
+                "sha512": "cc4b23ddfdb9ec2dc4a1107e7b00dd88bf170128d1012672e44246d67342912c481d7991fcb6b22ed38b5ba3d7684201b7a17d4d678cd58e9119dca17a6efc52"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/LIBdkZvZ/Zoomify-2.13.3.jar",
-                "https://github.com/isXander/Zoomify/releases/download/2.13.3/Zoomify-2.13.3.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/FiLFLGIB/Zoomify-2.13.4%2B1.20.6.jar",
+                "https://github.com/isXander/Zoomify/releases/download/2.13.4%2B1.20.6/Zoomify-2.13.4%2B1.20.6.jar"
             ],
-            "fileSize": 949640
+            "fileSize": 1064832
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
@@ -484,13 +509,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "19b22cacd42754deb017e561c7161344db86e310",
-                "sha512": "252ee139e0c5d79f369277c5ab3eab81c05cde37599c684c86192f0275b2c6a181a4fc65102da1762a905bc1750bef84c5e8a30471ed16a3ed4d21c8f8b8d706"
+                "sha1": "701a36839b1897bfb1728d62d34adab49b73e4ef",
+                "sha512": "e181ff192eff222e6b3d645d574233bfa0ade87d13c40cca68e49d2ce8f0cfe51011766dd9a47b3c2097979e0cd28c57fa3fdcaa193e0432ade949d39623929e"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/LXyVD82i/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/PhdQqp9M/SodiumTranslations.zip"
             ],
-            "fileSize": 185315
+            "fileSize": 185530
         }
     ],
     "dependencies": {

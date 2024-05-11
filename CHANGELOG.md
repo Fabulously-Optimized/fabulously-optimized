@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.6
 
+### 5.12.0-alpha.4 (2024-05-11)
+
+- Readded Better Mount HUD, No Chat Reports 
+- Updated Debugify, Fabric Language Kotlin, ModernFix, Zoomify
+- Removed unused config files
+- Force-enabled: Sodium, Iris
+- Temporarily removed: CIT Resewn, Enhanced Block Entities, LambDynamicLights, LanguageReload, Polytone
+
 ### 5.12.0-alpha.3 (2024-05-06)
 
 - Updated Controlify, Fabrishot, ImmediatelyFast, Puzzle

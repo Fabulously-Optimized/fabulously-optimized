@@ -2,31 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4eb78fdbfb44cf501c788cca102fe657550f1c307d5b0300a58dcac4884eb5d4"
+hash = "566baeb128ce94b82ad14f2063fbf452a931db93fec6a067be6832083d0dbb3f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e42e02951c64d7f5d5eafc60ce5675cb3357dfd872100971fa95be6764ec2111"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "dacff858c9d3d3d96a4b6b902133d0691e320e21a2f57adc6bb6cb9875763582"
+hash = "8279d67f73a3ec098b312e28997a79ccd64aa1d2ac6395ef3df4a76fc108876f"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "79bbe17c1414a833965d44be59ab81687384143112bcbf924e10b46d58339f2f"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
-
-[[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -77,16 +65,16 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
-file = "config/yosbr/config/midnightcontrols.json"
-hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
-
-[[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "dacff858c9d3d3d96a4b6b902133d0691e320e21a2f57adc6bb6cb9875763582"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -130,6 +118,11 @@ hash = "65df17c363eed6e37080d134f548a22aa0b14a9fecf94d5045d5b451bdeb88f4"
 metafile = true
 
 [[files]]
+file = "mods/bettermounthud.pw.toml"
+hash = "5876d245719b4fe6f21052d7ee8a390f9813384e53ac5cb5bbe8661cfc4b56aa"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "f4478d92dac05ad1226a764825a8fdd3012f184ec4c9d631e680fdfa08d96c0c"
 metafile = true
@@ -156,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "653f03fb24254449bd709cc75ea11be5c750097535db3c9d95f4b35bca7caf9b"
+hash = "12912cdd8780459ffcfd9b3a086455d471b821606ec6115fb476a40171249d85"
 metafile = true
 
 [[files]]
@@ -191,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "731ca414932a8a08904a9719e4b9b0e6504b05772a158746b38407c2476fd6e1"
+hash = "88d37784436c9b5dc5c74b9169e3b9af806cc9e1b807d496d9b07a45f24f1483"
 metafile = true
 
 [[files]]
@@ -256,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "49cf77aeabe9438181dad0980077d4d2ebd18f94e3dd11156e0d04d7c58fbc61"
+hash = "8fdba3a3ea253230c22f1edd585f4bba8755e15fffaa4119dcb7c831972906bb"
 metafile = true
 
 [[files]]
@@ -272,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "08304f1522489857f57482ecda6434306f438a6bb9e8be9f9b1a4da04747c548"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "86e5b2f4b762776ac703c68c39d3685f1d61a3095ba5f77e5aec7eeb3b4bb33c"
 metafile = true
 
 [[files]]
@@ -321,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "59eb823d9f16ff4bf1c4641a324d2044aba558fa4c531eb7f46f720eecdc461a"
+hash = "66de9a442375a4eb8dce47e96fd8c3773321c5f2df612e1d8b8be1ef0b701221"
 metafile = true
 
 [[files]]
@@ -336,5 +334,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "cf97d6084ef6e1c68c8462ec69a38892ef34d5611d91f4d8adba226eb610c56e"
+hash = "2f475503d5f6d7d5008152b3fe5ac921d0c0fd74cd9635636de633c1cfe9c5e6"
 metafile = true
