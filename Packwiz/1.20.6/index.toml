@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "566baeb128ce94b82ad14f2063fbf452a931db93fec6a067be6832083d0dbb3f"
+hash = "b5318bc5e4d623ff4eb6be6dea6340e2c75b4eec99efe9ab25abae64ff4c587b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8279d67f73a3ec098b312e28997a79ccd64aa1d2ac6395ef3df4a76fc108876f"
+hash = "7b218bb461db64e6113ddf4818faed7dec23461cb18f915bbf1ae9a0acb564b9"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -224,6 +224,11 @@ hash = "208a440bc255a39ecd7511f8e988a0654edabb57b6a6ee6edc08dc97a1a1a14c"
 metafile = true
 
 [[files]]
+file = "mods/languagereload.pw.toml"
+hash = "860dff25f3882b2c1ceb512be04bc83767aba6df31fa49eafe18968a5c6e01ba"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c84e931bde72de07690a57bbaa93f48163a7f5f5e817235060eb4b373cfceb1a"
 metafile = true
@@ -279,6 +284,11 @@ hash = "86c8e8a437965b4da10430e4629086ba9d6fcb7608d56de46fc858ecb4b75c8b"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "f4f924ee4c35568c728a5437a36094670d73798bbd562b87387cacefdc140e16"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0c973b947024ffe607360c783242978b664add01aea108a5d99d9c10a8804d54"
 metafile = true
@@ -290,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "06bd37311a1ff75aa8f15e9dc61a637d11c552b5e21b02e3609601ff2c9de647"
+hash = "018cfb962b6d8ed61b3a9c5cdfe95a36c78edb0fb7300f894745b678bf6e0224"
 metafile = true
 
 [[files]]

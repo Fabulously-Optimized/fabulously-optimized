@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-alpha.4",
+    "versionId": "5.12.0-beta.1",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -268,6 +268,18 @@
             "fileSize": 2679411
         },
         {
+            "path": "mods/language-reload-1.6+1.20.6.jar",
+            "hashes": {
+                "sha1": "8b998295baf922bde23849f17a1d166f872a3773",
+                "sha512": "c5cd1960b29916fab12924ab81e108f9739b4dfdfeeff635fd076662df081dc9b36f41589a938b863996daf8818acf9b9ec411e31ab58d2fa57a34ece443e690"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/FeXDkhCI/language-reload-1.6%2B1.20.6.jar",
+                "https://github.com/Jerozgen/LanguageReload/releases/download/1.6%2B1.20.6/language-reload-1.6%2B1.20.6.jar"
+            ],
+            "fileSize": 69306
+        },
+        {
             "path": "mods/lithium-fabric-mc1.20.6-0.12.3.jar",
             "hashes": {
                 "sha1": "18bdca76040af406fd10b97d637d111fc12be9a6",
@@ -392,6 +404,17 @@
             "fileSize": 70974
         },
         {
+            "path": "mods/polytone-1.20.6-1.18.8-fabric.jar",
+            "hashes": {
+                "sha1": "03e911a383847a9b20f77ee6dd0958a89fde1905",
+                "sha512": "0489785c6caeaece33b160f210eca271a52463140ec2f81226d77eb0566772a056d54de4741f5a2c7f0b232955866754ad5e4a7bef77ad17e76df185c332ce97"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/3Wgsfpiz/polytone-1.20.6-1.18.8-fabric.jar"
+            ],
+            "fileSize": 433700
+        },
+        {
             "path": "mods/puzzle-1.6.2+1.20.6.jar",
             "hashes": {
                 "sha1": "1c5f7ed41df768a563903cd95e65d614a9ac617f",
@@ -415,16 +438,16 @@
             "fileSize": 77432
         },
         {
-            "path": "mods/rrls-4.0.4+mc1.20.5-fabric.jar",
+            "path": "mods/rrls-4.0.5+mc1.20.6-fabric.jar",
             "hashes": {
-                "sha1": "0d89892e21942bd2f8464dd7fe85d8039630468f",
-                "sha512": "90df90cc3b8c5441eca6498b12ef1df10da0d520fc78a8ab1ef1ede306d9d5b4be5858d89472335d1e0aa9094da3701e267e51f11b594fb640b56d3116f525e2"
+                "sha1": "9c2631bf23469a89c86bb007acd11fabfa6c58f8",
+                "sha512": "58f45b18828f1467bb9588513e820f5ba521ec09677f1362f06d09a7c8bd6ae3b4eef6ddfcf213ed5e7416a2929ab11455471e876bd0fdc3764f4d30b45e0eb2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/mawA3Cvl/rrls-4.0.4%2Bmc1.20.5-fabric.jar",
-                "https://github.com/dima-dencep/rrls/releases/download/1.20.5-4.0.4/rrls-4.0.4%2Bmc1.20.5-fabric.jar"
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/Ip08v0S2/rrls-4.0.5%2Bmc1.20.6-fabric.jar",
+                "https://github.com/dima-dencep/rrls/releases/download/1.20.6-4.0.5/rrls-4.0.5%2Bmc1.20.6-fabric.jar"
             ],
-            "fileSize": 161085
+            "fileSize": 162404
         },
         {
             "path": "mods/sodium-extra-0.5.5+mc1.20.6-build.118.jar",
