@@ -5,7 +5,7 @@ on:
 jobs:
   publish-to-curseforge:
     if: github.repository_owner == 'Fabulously-Optimized'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: github-actions
     steps:
        - name: Download pack files
