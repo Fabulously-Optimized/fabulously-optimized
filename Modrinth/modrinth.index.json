@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-beta.1",
+    "versionId": "5.12.0-beta.2",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -51,15 +51,15 @@
             "fileSize": 1144434
         },
         {
-            "path": "mods/continuity-3.0.0-beta.4+1.20.2.jar",
+            "path": "mods/continuity-3.0.0-beta.5+1.20.5.jar",
             "hashes": {
-                "sha1": "f9eaa5fc75d2747dbe14818dfde04eaf7152ae3c",
-                "sha512": "e8fde231301571ee75695bcd8ceb69db77192551217d8c65d8587d4f114b241112f06b39f82d84c3a13c98c42be6666a9a207890340413441fbe91237f56fbcf"
+                "sha1": "3ae0661c92d8b83d885496f1f54df50a494e94c2",
+                "sha512": "b5252aa28b29a1e7d148a84b24c6bc955f4f7be4dc8a1a4fa65dc75bab8e77a6dad5532cc28da6a6e74badf6df78a947a5904cbda28cadf14a54c4c0b73c9394"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
+                "https://cdn.modrinth.com/data/1IjD5062/versions/hI13Vg85/continuity-3.0.0-beta.5%2B1.20.5.jar"
             ],
-            "fileSize": 1050675
+            "fileSize": 1009234
         },
         {
             "path": "mods/Controlify-2.0.0-beta.8+1.20.6.jar",
@@ -233,16 +233,15 @@
             "fileSize": 73405
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.2.14+1.20.6.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.2.15+1.20.6.jar",
             "hashes": {
-                "sha1": "8e0b1a10e0d2d9f09ff36e46261155a9dc45e235",
-                "sha512": "97b89ff3146dbd48c588a5abdacec9605d38a3ccd00a5d1940da7fe51906cdeaef82bb24cc31f2a1c0b69b4b4824279d14c3169d923748d41cc9df0b09be55e8"
+                "sha1": "e1af7c00e8416f7bc3562f28211c4ce71a297f31",
+                "sha512": "3f2bc185a7a3f05c19b456e0a70aef91f0308fe1dbf095bf2d2c25c476f5a974341d045c74d59e16e26800a80b2e9ca0caa772c95b816bb054e2585cc51c630c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar",
-                "https://github.com/RaphiMC/ImmediatelyFast/releases/download/v1.2.14/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/aY5V6MjG/ImmediatelyFast-Fabric-1.2.15%2B1.20.6.jar"
             ],
-            "fileSize": 233489
+            "fileSize": 247199
         },
         {
             "path": "mods/indium-1.0.30+mc1.20.4.jar",
@@ -268,16 +267,15 @@
             "fileSize": 2679411
         },
         {
-            "path": "mods/language-reload-1.6+1.20.6.jar",
+            "path": "mods/language-reload-1.6.1+1.20.6.jar",
             "hashes": {
-                "sha1": "8b998295baf922bde23849f17a1d166f872a3773",
-                "sha512": "c5cd1960b29916fab12924ab81e108f9739b4dfdfeeff635fd076662df081dc9b36f41589a938b863996daf8818acf9b9ec411e31ab58d2fa57a34ece443e690"
+                "sha1": "d6085f17cc6457345e9a59ab794e8024eaa6ef23",
+                "sha512": "9f554713a75e34800f02d64da37484ee1c61ea8695dc62d6f13d2495bd37579459919f3ae50ec05fa1ab0c5c3762c90c85b1e1ec561d28315b3f78355e4dc0b6"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/uLbm7CG6/versions/FeXDkhCI/language-reload-1.6%2B1.20.6.jar",
-                "https://github.com/Jerozgen/LanguageReload/releases/download/1.6%2B1.20.6/language-reload-1.6%2B1.20.6.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/v4nL1BsT/language-reload-1.6.1%2B1.20.6.jar"
             ],
-            "fileSize": 69306
+            "fileSize": 69515
         },
         {
             "path": "mods/lithium-fabric-mc1.20.6-0.12.3.jar",
@@ -532,13 +530,13 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "701a36839b1897bfb1728d62d34adab49b73e4ef",
-                "sha512": "e181ff192eff222e6b3d645d574233bfa0ade87d13c40cca68e49d2ce8f0cfe51011766dd9a47b3c2097979e0cd28c57fa3fdcaa193e0432ade949d39623929e"
+                "sha1": "08bd8933dae29a749ac00d7b509b128df60740d9",
+                "sha512": "505ea4b7242173963c7726b9ea878c47c2a04416ca09c734d4daac6c9fa4e32b055d6e74f492e1ab7f8f7574e05ba6dd69555ef4cdcbf471f7ac2d09526a06a3"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/PhdQqp9M/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/N76l7gNw/SodiumTranslations.zip"
             ],
-            "fileSize": 185530
+            "fileSize": 185743
         }
     ],
     "dependencies": {

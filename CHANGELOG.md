@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.6
 
+### 5.12.0-beta.2 (2024-05-19)
+
+- Updated Continuity, ImmediatelyFast, Language Reload
+- Applied a workaround to Lithium to fix problems with armored dogs
+- Force-enabled: Sodium, Iris
+- Temporarily removed: CIT Resewn, Enhanced Block Entities, LambDynamicLights
+
 ### 5.12.0-beta.1 (2024-05-14)
 
 - Readded LanguageReload, Polytone
