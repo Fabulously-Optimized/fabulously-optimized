@@ -91,6 +91,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.10.1 (2024-05-24)
+
+When _updating_ to this version, you may notice that connected textures no longer work, please re-enable the Continuity resource packs to fix that.
+
+- Updated Entity Model Features, Entity Texture Features, Continuity, Controlify, Fabric Language Kotlin, ImmediatelyFast, Language Reload, No Chat Reports, Polytone, Zoomify
+  - Iris, Controlify latest updates skipped due to breaking changes
+  - MoreCulling, YetAnotherConfigLib updates skipped due to launcher bugs
+- Backported config changes from 5.12.0-beta.2 
+- Updated Fabric Loader to 0.15.11
+
 ### 5.10.0 (2024-04-27)
 
 - Removed Mod Detection Preventer - mod developer no longer considers it sustainable

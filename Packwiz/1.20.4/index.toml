@@ -2,27 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "98f14bf8362c3305034735745b989ecc206837c6840798348e2b07c5790577c1"
+hash = "a09bd0f2cee700274f691513c6cd439bad6ae88fbae1fbe5fa3d4544ee37b0c7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "85519b82b48aaffbd8673dc1eef36a6e396fedbcccb91533a6d720aac7c3b73a"
+hash = "fb4141645944cd05ee0ee832b0848ba8d8fd020c448bb485eb5c9568e55d57ed"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "071148fed751e319de41a6a614ca0bd273c3b2e92a7079921641a172d48ae187"
-
-[[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "1dfdc3360afe91b5804eef79f8b868f874e3dfc0c975495f8994f378ffe37a8f"
+hash = "05db92f25da61040a72902d49e68a4c10652afd59c6ff596d59509bf47afbf41"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
-
-[[files]]
-file = "config/yosbr/config/cem.conf"
-hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -73,10 +65,6 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
-file = "config/yosbr/config/midnightcontrols.json"
-hash = "b792f2977c2889e388d0a0e83e316ed4f27050729d86c8623e8472accb8a2a46"
-
-[[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
@@ -98,7 +86,7 @@ hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "41397f8ebb5a1137f559761cee66b18a85c7289e89ac84a738140d651eecccdd"
+hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -151,12 +139,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "2481588ce600e2a77400f48b193a44db3d2dee7a3d571db332ea70c1cd57375a"
+hash = "829b454adc6aa5c68393ed3e78537ec2881a1f1d1eec45c7a9e50d204518c0b1"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "1df033587f2f3003b29ea75b868ed2a9e860b76ec9211b843415a047b9eaff56"
+hash = "ba6f77a067a7c7a434a8a73a9566ac3eecb7f3cb72717c63dcb062bd5d0d7ab9"
 metafile = true
 
 [[files]]
@@ -191,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "9b01e161237e2454dbd098c097720ec740f5fd3ecb775938f02cb289ba2319e5"
+hash = "6fa1d67e81b71591b9986ef7a1a3c52c6bc25c356e017f4d3e10076b6cedbe4b"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "7a6b4108ab4b4ac6a62ceb516e4c4f41eed12d6c3f53f37d08775532df6fce62"
+hash = "f6327287626afc98d4e04fb58a0d8cee371fd9d27b5f1e64cde3a54f49990784"
 metafile = true
 
 [[files]]
@@ -206,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "731ca414932a8a08904a9719e4b9b0e6504b05772a158746b38407c2476fd6e1"
+hash = "88d37784436c9b5dc5c74b9169e3b9af806cc9e1b807d496d9b07a45f24f1483"
 metafile = true
 
 [[files]]
@@ -236,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e895bf7859d57f157b25fd411fcbe466c73e94606bdadb4c34cba2377993940"
+hash = "61f036cd78d5b35d780f2234268a432b6e94f3ffe8dde574e25ff21e16937317"
 metafile = true
 
 [[files]]
@@ -256,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "a64acfa3725ac6037030178f28c263fd248e55e2ef4da1980e0a760bfaecb477"
+hash = "29cb8d2850dbec59dbaf10066430670463d27260144e7b8041cd120078177fe5"
 metafile = true
 
 [[files]]
@@ -301,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "3855426b55b62bf5cb4059750721c5db3896632b2c33ee36f6fdbb1a7d2c7a1c"
+hash = "b262b527d0830ce8aeb9a8f35396872200f7688f8a7e1d2e3f831ca24499882d"
 metafile = true
 
 [[files]]
@@ -316,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "03a00b79176e8a7b6d8d3ba244eb7bd40af46b5fff21093eb9dbdce8808f983f"
+hash = "12a2efd2edff7ce2507532f84f4a154ad95888e74d20a3d5ab71b6dfd96cb3cd"
 metafile = true
 
 [[files]]
@@ -356,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "caef48d13d2ec881888e58544d02e63b5d0a46b74ad28b349b0500bc0b783bf9"
+hash = "905fca9fa98f649ecf88aab4b5bf9df5e1c40d8d23a9d78e7775132c48f15297"
 metafile = true
 
 [[files]]
@@ -371,5 +359,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "88aacf53016ef02f7108a2f661b7bdeb9a12de0b248d65d5bfccbd80edf0602b"
+hash = "27bd0ff6aac4db1135c983aaa41fe5c2e2b585d0733655e1ae655f1a8350318f"
 metafile = true
