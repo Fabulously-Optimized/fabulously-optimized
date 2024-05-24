@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-beta.2",
+    "versionId": "5.12.0-beta.3",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -154,27 +154,26 @@
             "fileSize": 535477
         },
         {
-            "path": "mods/fabric-api-0.97.8+1.20.6.jar",
+            "path": "mods/fabric-api-0.99.0+1.20.6.jar",
             "hashes": {
-                "sha1": "6d7a34b8448259688e0833c02be3e28763acec65",
-                "sha512": "41f19b2a7271c776b84c22e841c20acf12c5260b4a197a97f8afb84f04b408317a9488646d795ec613a6c98f2655339c2bba426007a1d38b42bc32c15ca6c642"
+                "sha1": "32b13b08e6c6a4a4cd8a51515751e7bf15bf523d",
+                "sha512": "26c549a7c496fba00dc2c93d49948dc4fc015c9f912d1b41d24e138eb264b88b4143b010e28d82978a9c606b1ef671fe637854afcbfde7740c96c08ef6d354d2"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/kAQqRNrK/fabric-api-0.97.8%2B1.20.6.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/sswM8UzU/fabric-api-0.99.0%2B1.20.6.jar"
             ],
-            "fileSize": 2202137
+            "fileSize": 2230074
         },
         {
-            "path": "mods/fabric-language-kotlin-1.10.20+kotlin.1.9.24.jar",
+            "path": "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
             "hashes": {
-                "sha1": "8a7e6a0cf1f31c0d2a819819ba78a0609e1577f9",
-                "sha512": "1cae905fe4a051a3a1c6c60d292ad7455d4564f1754b362318d7be3807b45673f4933f3a27e6cc4bc9b2fe94708daf54bd70a7c226d39e132dc48aaa356184dc"
+                "sha1": "4f5b3f0d773c4cc9e79d2f5ede3a637e78737f6d",
+                "sha512": "afc292e199869b982f18bbad208fed4a1d95b2f4292e0cc422ee8116d1da1d91132f554ac0608e7c87959d7ede37c20293133c811986dcfc80a8648f29d13028"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/a7MqDLdC/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar",
-                "https://github.com/FabricMC/fabric-language-kotlin/releases/download/1.10.20%2Bkotlin.1.9.24/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar"
             ],
-            "fileSize": 6734770
+            "fileSize": 7015315
         },
         {
             "path": "mods/fabricskyboxes-0.7.4+mc1.20.5.jar",
@@ -393,24 +392,24 @@
         {
             "path": "mods/paginatedadvancements-2.4.2.jar",
             "hashes": {
-                "sha1": "93d5b01496f920f58631e10670260bec5388ce30",
-                "sha512": "ab9b60943a0f4e4d7f606becdfcf2a30f2193dc132693bc5073056cee6cd73762a5759db3df92ee90c3a8bee84ba669b0121e170d9b86a3aa71112ff12f8f49a"
+                "sha1": "8ef603f743604eff6c0579681b6a0a9d68340ebc",
+                "sha512": "a8a654ff685b6326a182c30019c17213cf90d9da00a53586ea2e22209ae6a59abc935565910ba6371664cfadf2c65b2b0b0f3dd9b3fa3c34ad3248edc4debee5"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/pJogNFap/versions/SSrN6xCf/paginatedadvancements-2.4.2.jar"
+                "https://cdn.modrinth.com/data/pJogNFap/versions/gkKJS2tV/paginatedadvancements-2.4.2.jar"
             ],
-            "fileSize": 70974
+            "fileSize": 70906
         },
         {
-            "path": "mods/polytone-1.20.6-1.18.8-fabric.jar",
+            "path": "mods/polytone-1.20.6-1.18.11-fabric.jar",
             "hashes": {
-                "sha1": "03e911a383847a9b20f77ee6dd0958a89fde1905",
-                "sha512": "0489785c6caeaece33b160f210eca271a52463140ec2f81226d77eb0566772a056d54de4741f5a2c7f0b232955866754ad5e4a7bef77ad17e76df185c332ce97"
+                "sha1": "c7c7e5f11ccaa94a4b0f78b0b594c41da9e25edb",
+                "sha512": "5811ab8f6d6ee8d688a4ea385f51a8258debc1cfad23eed082389dcb52b32acafe951c6a8498816df13f50e204c6b279950d7079f1a3d1fdcd897621cbd8480c"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/3Wgsfpiz/polytone-1.20.6-1.18.8-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/b0A7Kkqo/polytone-1.20.6-1.18.11-fabric.jar"
             ],
-            "fileSize": 433700
+            "fileSize": 433699
         },
         {
             "path": "mods/puzzle-1.6.2+1.20.6.jar",
