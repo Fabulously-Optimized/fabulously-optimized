@@ -48,6 +48,8 @@ jobs:
            preRelease: true
        - name: Sign mrpack
          run: cosign sign-blob *.mrpack --bundle cosign.bundle --yes
+       - name: Zip up bundle
+         run: zip cosign-bundle.zip cosign.bundle
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.3
          with:
@@ -55,6 +57,6 @@ jobs:
            modrinth-id: 1KVo5zza
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
-           files: '*.mrpack cosign.bundle'
+           files: '*.mrpack cosign-bundle.zip'
            loaders: fabric
            game-versions: ${{ vars.MC_VERSION }}
