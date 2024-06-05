@@ -16,17 +16,17 @@ jobs:
            latest: true
            tarBall: false
            zipBall: false
-           preRelease: false
+           preRelease: true
 
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.3
          with:
-           name: ${{ steps.download-files.outputs.tag_name }} for 1.20.4
+           name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
            curseforge-id: 396246
            curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
            curseforge-files: '*.zip'
            loaders: fabric
-           game-versions: 1.20.4
+           game-versions: ${{ vars.MC_VERSION }}
            
   publish-to-modrinth:
     if: github.repository_owner == 'Fabulously-Optimized'
@@ -46,10 +46,10 @@ jobs:
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.3
          with:
-           name: ${{ steps.download-files.outputs.tag_name }} for 1.20.4
+           name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
            modrinth-id: 1KVo5zza
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
            files: '*.mrpack'
            loaders: fabric
-           game-versions: 1.20.4
+           game-versions: ${{ vars.MC_VERSION }}
