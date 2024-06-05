@@ -98,6 +98,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.4
 
+### 5.10.2 (2024-06-05)
+
+- Updated Enhanced Block Entities, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, YetAnotherConfigLib 
+  - Iris, Controlify, Zoomify latest updates skipped due to breaking changes
+  - MoreCulling update skipped due to launcher bugs
+
 ### 5.10.1 (2024-05-24)
 
 When _updating_ to this version, you may notice that connected textures no longer work, please re-enable the Continuity resource packs to fix that.
