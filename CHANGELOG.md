@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.6
 
+### 5.12.0-beta.4 (2024-06-05)
+
+- Readded Enhanced Block Entities
+- Updated Controlify, Entity Culling, Fabric API, ImmediatelyFast, ModernFix, Polytone, YetAnotherConfigLib, Zoomify
+- Force-enabled: Sodium, Iris
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 5.12.0-beta.3 (2024-05-24)
 
 - Updated Fabric API, Fabric Language Kotlin, Paginated Advancements, Polytone
