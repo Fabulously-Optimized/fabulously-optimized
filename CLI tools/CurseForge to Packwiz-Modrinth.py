@@ -25,8 +25,8 @@ is_legacy = False
 hydrogen = False
 modrinth_overrides = True
 mmc_export_packwiz_export = True
-mmc_export_modrinth_export = True
-packwiz_modrinth_export = False
+mmc_export_modrinth_export = False
+packwiz_modrinth_export = True
 
 
 def extract_file(from_zip: str, from_file: str, to_path: str, from_desc: str, to_desc: str) -> None:
@@ -163,7 +163,7 @@ def main():
             )
 
     # Export Modrinth pack and manifest via Packwiz method
-    if packwiz_modrinth_export:
+    if packwiz_modrinth_export and not refresh_only:
         os.system(f"{packwiz_exe_path} modrinth export")
         for pack in os.listdir(packwiz_path):
             if pack.endswith(".mrpack"):

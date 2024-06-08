@@ -54,7 +54,5 @@ copy_dir(cf_path / "mods", mmc_path / "mods", "CurseForge mods", "MultiMC")
 copy_dir(cf_path / "config", mmc_path / "config", "CurseForge configs", "MultiMC")
 copy_dir(cf_path / "resourcepacks", mmc_path / "resourcepacks", "CurseForge resource packs", "MultiMC")
 
-# CurseForge to Git
+# Clean packwiz folder before copying (via packwiz itself)
 remove_dir(packwiz_path / "config", "Packwiz configs in Git")
-copy_dir(cf_path / "config", packwiz_path / "config", "CurseForge configs", "Git (Packwiz)")
-copy_dir(cf_path / "resourcepacks", packwiz_path / "resourcepacks", "CurseForge resource packs", "Git (Packwiz)")
