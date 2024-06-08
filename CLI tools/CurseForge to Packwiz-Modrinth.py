@@ -25,8 +25,8 @@ is_legacy = False
 hydrogen = False
 modrinth_overrides = True
 mmc_export_packwiz_export = True
-mmc_export_modrinth_export = True
-packwiz_modrinth_export = False
+mmc_export_modrinth_export = False
+packwiz_modrinth_export = True
 
 
 def extract_file(from_zip: str, from_file: str, to_path: str, from_desc: str, to_desc: str) -> None:
