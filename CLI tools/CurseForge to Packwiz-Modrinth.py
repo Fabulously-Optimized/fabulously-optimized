@@ -163,7 +163,7 @@ def main():
             )
 
     # Export Modrinth pack and manifest via Packwiz method
-    if packwiz_modrinth_export:
+    if packwiz_modrinth_export and not refresh_only:
         os.system(f"{packwiz_exe_path} modrinth export")
         for pack in os.listdir(packwiz_path):
             if pack.endswith(".mrpack"):
