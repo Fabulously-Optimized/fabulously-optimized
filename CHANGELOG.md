@@ -6,10 +6,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 5.12.0-beta.5 (2024-06-10)
 
 - Updated e4mc, Fabric API, Polytone, Remove Reloading Screen, Sodium
-- Modrinth release process has been adjusted
-  - The releases will now also have signatures as additional files, which help programs verify that the modpack contains what it is supposed to contain
-  - This is done as a preparation for something cool, which will be announced later 
-  - Normal users won't see and don't need to do anything differently, but let us know in #support if you experience any issues
+- Modrinth release process has been slightly adjusted
+  - (Hopefully) no user-visible changes
 - Force-enabled: Iris
 - Temporarily removed: CIT Resewn, LambDynamicLights
 
