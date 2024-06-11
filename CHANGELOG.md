@@ -8,8 +8,6 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Readded FastBetterGrass which was accidentally removed on Modrinth version
 - Updated Indium
 - Updated Romanian, Chinese Traditional, Chinese Simplified translations
-- Modrinth releases will now also have signatures as additional files, which help verify that the modpack contains what it is supposed to contain
-  - This is done as a preparation for something cool, which will be announced later 
 - Force-enabled: Iris
 - Temporarily removed: CIT Resewn, LambDynamicLights
 
