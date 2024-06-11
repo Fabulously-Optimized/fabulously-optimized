@@ -37,6 +37,8 @@ jobs:
       attestations: write
       contents: write
     steps:
+       - name: Clone Repo
+         uses: actions/checkout@v4
        - name: Download packwiz
          uses: actions/download-artifact@v4
          with:
