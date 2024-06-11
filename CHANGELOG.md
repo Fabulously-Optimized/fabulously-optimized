@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.20.6
 
+### 5.12.0-beta.6 (2024-06-11)
+
+- Readded FastBetterGrass which was accidentally removed on Modrinth version
+- Updated Indium
+- Updated Romanian, Chinese Traditional, Chinese Simplified translations
+- Modrinth releases will now also have signatures as additional files, which help verify that the modpack contains what it is supposed to contain
+  - This is done as a preparation for something cool, which will be announced later 
+- Force-enabled: Iris
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 5.12.0-beta.5 (2024-06-10)
 
 - Updated e4mc, Fabric API, Polytone, Remove Reloading Screen, Sodium
