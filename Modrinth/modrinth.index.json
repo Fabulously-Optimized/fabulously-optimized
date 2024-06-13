@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "5.12.0-beta.5",
+    "versionId": "5.12.0-beta.6",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -335,19 +335,19 @@
             "fileSize": 250941
         },
         {
-            "path": "mods/indium-1.0.30+mc1.20.4.jar",
+            "path": "mods/indium-1.0.31+mc1.20.4.jar",
             "hashes": {
-                "sha1": "b24233f29c0ce4802c61ea8998e01e6e4580ae60",
-                "sha512": "3b9c9beef42f72bc75094595c92038c38e36fcde75890c73ced01aed4fb2a8a85cddb8edd2aa91ea6ed2dd41f8afedaa3dbca8f70c716197a7f2ee5b26060562"
+                "sha1": "fe6d0513ac332d890f1bd9bb9354a8e240b8f0e5",
+                "sha512": "27b4a73ca990742e27eee4348553c86c96c19fddcd0763892029f67ddbde42dc03c0ac21230403ae6b4ce4da315d0d49f582d3daab413b9ea84fd6d172ee7c4f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/VlLxDisa/indium-1.0.31%2Bmc1.20.4.jar"
             ],
-            "fileSize": 104805
+            "fileSize": 105350
         },
         {
             "path": "mods/iris-1.7.0+mc1.20.5.jar",
@@ -667,17 +667,32 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "e2a6fa251992d2e6293131ee0ef5a3ef01bf021d",
-                "sha512": "6cbc8be61f88a9eaebe74cde069e02921e1d4f9fde53225385bb0c0a440e6c5830eb79b36bdc0bf17e5a1e79fb257e42290b29cbf1eb9df535869bf31de6b2e9"
+                "sha1": "508069909d158716212cc11211ab88077412dcce",
+                "sha512": "c56d76387a18a92be4725a4b0caa6c5e849d26271a62f8affc2c20d0f06bcf76189c85b16d8dd9f975f7ccad6d9d5186171753d165e4f4487a57497865ce3a6f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/SkWcZo5g/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/ZoKnhKiU/Chat%20Reporting%20Helper.zip"
             ],
             "fileSize": 57765
+        },
+        {
+            "path": "resourcepacks/Fast Better Grass.zip",
+            "hashes": {
+                "sha1": "cf15d3a580db704fae9033003b6573ed68d3a834",
+                "sha512": "a21b80e7e6c69f286904e4015372be300f6be374c43c1a0b1e1d46278c1ab336e061e57be467194be7fcf1622d696ab2b2f4259708276639fc6a4ff60953dae8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/dspVZXKP/versions/1lpmCieT/Fast%20Better%20Grass.zip"
+            ],
+            "fileSize": 10930
         },
         {
             "path": "resourcepacks/SodiumTranslations.zip",
