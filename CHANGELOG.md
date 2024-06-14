@@ -7,7 +7,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 Note that Minecraft 1.21 broke more mods than any other update in recent years. Be patient.
 
-- Updated Entity Texture Features, Entity Model Features, Animatica, Cloth Config, Continuity, Controlify, Dynamic FPS, Enhanced Block Entities, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Iris Shaders, Language Reload, Mod Menu, ModernFix, Reece's Sodium Options, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
+- Updated Entity Texture Features, Entity Model Features, Animatica, Cloth Config, Continuity, Controlify, Dynamic FPS, Enhanced Block Entities, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Iris Shaders, Language Reload, Mod Menu, ModernFix, Reese's Sodium Options, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
 - Updated Chinese Traditional translations
 - Modrinth releases will now also have signatures as additional files, which help verify that the modpack contains what it is supposed to contain
   - This is done as a preparation for something cool, which will be announced later
