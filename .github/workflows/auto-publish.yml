@@ -59,7 +59,7 @@ jobs:
           subject-path: Fabulously.Optimized-${{ github.ref_name }}.mrpack
        - name: Copy and zip attestation
          run: |
-           cp ${{ steps.attest-mrpack.bundle-path }} cosign-bundle.json
+           cp ${{ steps.attest-mrpack.outputs.bundle-path }} cosign-bundle.json
            zip cosign-bundle.zip cosign-bundle.json
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.3
