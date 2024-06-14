@@ -1,6 +1,17 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.21
+
+### 6.0.0-alpha.1 (2024-06-14)
+
+Note that Minecraft 1.21 broke more mods than any other update in recent years. Be patient.
+
+- Updated Entity Texture Features, Entity Model Features, Animatica, Cloth Config, Continuity, Controlify, Dynamic FPS, Enhanced Block Entities, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Iris Shaders, Language Reload, Mod Menu, ModernFix, Reece's Sodium Options, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
+- Updated Chinese Traditional translations
+- As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
+- Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
+
 ## 1.20.6
 
 ### 5.12.0-beta.6 (2024-06-11)
