@@ -9,6 +9,8 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 - Updated Entity Texture Features, Entity Model Features, Animatica, Cloth Config, Continuity, Controlify, Dynamic FPS, Enhanced Block Entities, Fabric API, FabricSkyboxes, FabricSkyboxes Interop, ImmediatelyFast, Iris Shaders, Language Reload, Mod Menu, ModernFix, Reece's Sodium Options, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
 - Updated Chinese Traditional translations
+- Modrinth releases will now also have signatures as additional files, which help verify that the modpack contains what it is supposed to contain
+  - This is done as a preparation for something cool, which will be announced later
 - As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
