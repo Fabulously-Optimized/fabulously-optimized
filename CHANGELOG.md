@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-alpha.2 (2024-06-14)
+
+Thank you for testing the alpha!
+
+- Readded Entity Culling
+- Removed more mods that caused crashes
+- Worked around problems with chests, decorated pots, item frames, shulker boxes, bells
+- Temporarily removed: BetterMountHud, Capes, CIT Resewn, Continuity, Cubes Without Borders, Debugify, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
+
 ### 6.0.0-alpha.1 (2024-06-14)
 
 Note that Minecraft 1.21 broke more mods than any other update in recent years. Be patient.

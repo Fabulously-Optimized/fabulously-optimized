@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.0.0-alpha.1",
+    "versionId": "6.0.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -33,36 +33,6 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar"
             ],
             "fileSize": 1144382
-        },
-        {
-            "path": "mods/continuity-3.0.0-beta.5+1.21.jar",
-            "hashes": {
-                "sha1": "16d31a39e85dc10cdff4e06198a1bb26b4b82427",
-                "sha512": "48302fffe163fa0264f5feb8e98882cc0ecb820e1fbf417d7e7e9e499f7097c1d4e9f9acb38fd5d9e0200f61fc677b0e864bc705d1b9d1e56fd29efbbce28f6a"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar"
-            ],
-            "fileSize": 1007136
-        },
-        {
-            "path": "mods/cubes-without-borders-1.1.0+1.20.jar",
-            "hashes": {
-                "sha1": "e54a2c4b4817efb93a2ce7cb78bf8a2d1136b6cd",
-                "sha512": "25aeed75a51668271649fe67c265caa47318eeb221e3535a1ebc8df8d2220be933505b158517099f9ae3ffb1ca4d2f5df3f466442e371f42afba1dc866945221"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/ETlrkaYF/versions/IQtaUFAv/cubes-without-borders-1.1.0%2B1.20.jar"
-            ],
-            "fileSize": 39258
         },
         {
             "path": "mods/dynamic-fps-3.4.3+minecraft-1.21.0-fabric.jar",
@@ -138,6 +108,21 @@
                 "https://cdn.modrinth.com/data/BVzZfTc1/versions/JvRwC1fO/entity_texture_features_fabric_1.21-6.1.1.jar"
             ],
             "fileSize": 598709
+        },
+        {
+            "path": "mods/entityculling-fabric-1.6.6-mc1.21.jar",
+            "hashes": {
+                "sha1": "cae57526503e6fff155d6168fd271c9f1f4d029b",
+                "sha512": "ec25c5dacf85dbcbafab0c1039462fbe851ea5c32245fcd50ab0e98bbe2dda2ca8bb41ae222171c853e3f5c4c5a97c74d89570e695fe9dff0b90169471872e45"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/Bu3hSiJb/entityculling-fabric-1.6.6-mc1.21.jar"
+            ],
+            "fileSize": 65363
         },
         {
             "path": "mods/fabric-api-0.100.1+1.21.jar",
