@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-alpha.3 (2024-06-17)
+
+- Readded Capes, Continuity, FerriteCore, Indium, Lithium, OptiGUI, Puzzle
+- Updated Mod Menu
+- Removed workarounds: chests, decorated pots, item frames, shulker boxes, bells
+- Added a workaround: signs
+- Unbound OptiGUI debug hotkey
+- Brought back the initial loading splash screen
+- Known issue: the new de_aztec 1x1 painting is invisible
+  - Can be worked around by disabling ETF and EMF, but then custom mobs resource packs won't work
+- Temporarily removed: BetterMountHud, CIT Resewn, Cubes Without Borders, Debugify, Fabrishot, LambDynamicLights, Model Gap Fix, MoreCulling, No Chat Reports, Paginated Advancements, Polytone
+
 ### 6.0.0-alpha.2 (2024-06-15)
 
 Thank you for testing the alpha!

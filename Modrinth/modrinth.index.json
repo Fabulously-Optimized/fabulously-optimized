@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.0.0-alpha.2",
+    "versionId": "6.0.0-alpha.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -20,6 +20,21 @@
             "fileSize": 71502
         },
         {
+            "path": "mods/capes-1.5.4+1.21-fabric.jar",
+            "hashes": {
+                "sha1": "11655909a800fd70e2e0ca940cddc2bdbcbe2003",
+                "sha512": "8cd91182feec18a41412d6a8ad5311f730d881c30959aeb80eddf993c7930200758d0f4f1676dcbced7d315c124a0c02137f997c998a4912dd1a10a6a33664af"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/6SzVPVR4/capes-1.5.4%2B1.21-fabric.jar"
+            ],
+            "fileSize": 77572
+        },
+        {
             "path": "mods/cloth-config-15.0.127-fabric.jar",
             "hashes": {
                 "sha1": "d2cef696bbf70a07075b798e541e8c98c34ddd2d",
@@ -33,6 +48,21 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar"
             ],
             "fileSize": 1144382
+        },
+        {
+            "path": "mods/continuity-3.0.0-beta.5+1.21.jar",
+            "hashes": {
+                "sha1": "16d31a39e85dc10cdff4e06198a1bb26b4b82427",
+                "sha512": "48302fffe163fa0264f5feb8e98882cc0ecb820e1fbf417d7e7e9e499f7097c1d4e9f9acb38fd5d9e0200f61fc677b0e864bc705d1b9d1e56fd29efbbce28f6a"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar"
+            ],
+            "fileSize": 1007136
         },
         {
             "path": "mods/dynamic-fps-3.4.3+minecraft-1.21.0-fabric.jar",
@@ -185,6 +215,21 @@
             "fileSize": 58822
         },
         {
+            "path": "mods/ferritecore-7.0.0-fabric.jar",
+            "hashes": {
+                "sha1": "95b18b0f1673bbbe328812c3052cc1a921591f0f",
+                "sha512": "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar"
+            ],
+            "fileSize": 117333
+        },
+        {
             "path": "mods/fsb-interop-1.4.0+mc1.21-build.54.jar",
             "hashes": {
                 "sha1": "ebd6d9f048b591cee8bbf90b23246f3369161868",
@@ -213,6 +258,21 @@
                 "https://cdn.modrinth.com/data/5ZwdcRci/versions/DA0kxiSe/ImmediatelyFast-Fabric-1.2.18%2B1.21.jar"
             ],
             "fileSize": 248677
+        },
+        {
+            "path": "mods/indium-1.0.33+mc1.21.jar",
+            "hashes": {
+                "sha1": "1ad1ca78d1185b4f702def3a0feab7bef7d943d5",
+                "sha512": "b731daebb4dbd573e8fceff0f2039c0b43ed61abc6d772f9d382f93cc27f036a7e6912ee9d22f09602d556331bea9a4729f821eed05301a2718520ab238edcf3"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/w4F7PG0f/indium-1.0.33%2Bmc1.21.jar"
+            ],
+            "fileSize": 104920
         },
         {
             "path": "mods/iris-1.7.1+mc1.21.jar",
@@ -245,6 +305,21 @@
             "fileSize": 68960
         },
         {
+            "path": "mods/lithium-fabric-mc1.21-0.12.5.jar",
+            "hashes": {
+                "sha1": "1b38b7b29532d12d6bf83c93c6bf316427f69141",
+                "sha512": "3054de66ffaad9184c44fabafa2a8f858f18e76302c971218f5b36f84b0de9306b076fd2d4a4df2ab56df2676093edda9602dcdb5d2301b4006d2770205d728e"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OC4JOVBe/lithium-fabric-mc1.21-0.12.5.jar"
+            ],
+            "fileSize": 736316
+        },
+        {
             "path": "mods/mixintrace-1.1.1+1.17.jar",
             "hashes": {
                 "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69",
@@ -275,19 +350,19 @@
             "fileSize": 434062
         },
         {
-            "path": "mods/modmenu-11.0.0-beta.2.jar",
+            "path": "mods/modmenu-11.0.0-rc.4.jar",
             "hashes": {
-                "sha1": "e3aa145fef806d5d18f5333250ad308601fca4df",
-                "sha512": "07c35028ea2e2bcf18235631676502ca90dc426d4a580503d9094ecfbab44898b477e859d891644c76e8c47b863bb8196bd19ad1fc7d0955cc7c58d1f2f8bf25"
+                "sha1": "7337c3ee2becae0b2f4df6182716ac672387b6b5",
+                "sha512": "5b998a86ad6527f235f76e2b0659791c704c683a1746873bffe1619c539b241a36ba18e1e5a42dec363b21b071b5610ba57ed89a8b668be461627247ec557442"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/KXx8jdVE/modmenu-11.0.0-beta.2.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/jnj30PDT/modmenu-11.0.0-rc.4.jar"
             ],
-            "fileSize": 754231
+            "fileSize": 971581
         },
         {
             "path": "mods/morechathistory-1.3.1.jar",
@@ -303,6 +378,36 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
             ],
             "fileSize": 3573
+        },
+        {
+            "path": "mods/optigui-2.3.0-beta.2+1.21.jar",
+            "hashes": {
+                "sha1": "d463f8ae8b3d1fd2f0bda24ef3fc988a26f14735",
+                "sha512": "d80af52a670e160d47af2e500becc475c162d9e665df86ec467a151112e64f96353d429ff9b9e764303dfc96aa3e2fa5027f4cbdcfa8f5763a1143b5aae77aac"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/dPuD2Nuk/optigui-2.3.0-beta.2%2B1.21.jar"
+            ],
+            "fileSize": 601460
+        },
+        {
+            "path": "mods/puzzle-1.6.3+1.21.jar",
+            "hashes": {
+                "sha1": "7a0498824bbca3ae75f51fa582025e758f8b1f20",
+                "sha512": "41fc3ccf4c5631667797ef928b765d3c4bcbf3bf8d9e68594f299548001895d8bc0b101ee029937a8572573596fb48711dbe09538e6cc0258bd350b6d292e682"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/2pBwdDy2/puzzle-1.6.3%2B1.21.jar"
+            ],
+            "fileSize": 142150
         },
         {
             "path": "mods/reeses_sodium_options-1.7.2+mc1.21.jar",
