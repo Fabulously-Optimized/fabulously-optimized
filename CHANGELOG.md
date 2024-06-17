@@ -39,7 +39,7 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ### 5.12.0-beta.7 (2024-06-17)
 
-- Updated Entity Texture Features, Animatica, Controlify, Enhanced Block Entities, Entity Culling, ImmediatelyFast, Indium, Iris Shaders, Lithium, Polytone, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
+- Updated Entity Texture Features, Animatica, Enhanced Block Entities, Entity Culling, ImmediatelyFast, Indium, Iris Shaders, Lithium, Polytone, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
   - Controlify update skipped due to a bug
 - Updated Chinese Traditional translations
 - Removed Lithium workaround
