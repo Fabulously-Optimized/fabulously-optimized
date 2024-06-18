@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.0.0-alpha.3",
+    "versionId": "6.0.0-alpha.4",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -63,6 +63,21 @@
                 "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar"
             ],
             "fileSize": 1007136
+        },
+        {
+            "path": "mods/Controlify-2.0.0-beta.13+1.21-fabric.jar",
+            "hashes": {
+                "sha1": "50dbc8a2cc29b6fa7d8dba5b54761e46f520efe7",
+                "sha512": "6083d7c1672677288a0f9f0e7f7e5f34908d3c3823b31e5552ac4c20a98e938ca15b4b034a8dbe7ddb565390dd31a4a783a655112f0eebfdf832caea1883a320"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/zCjLVzXH/Controlify-2.0.0-beta.13%2B1.21-fabric.jar"
+            ],
+            "fileSize": 2746743
         },
         {
             "path": "mods/dynamic-fps-3.4.3+minecraft-1.21.0-fabric.jar",
@@ -155,19 +170,19 @@
             "fileSize": 65363
         },
         {
-            "path": "mods/fabric-api-0.100.1+1.21.jar",
+            "path": "mods/fabric-api-0.100.3+1.21.jar",
             "hashes": {
-                "sha1": "63848b365c036a89e4aba51d14d6dc8301e32b27",
-                "sha512": "9f24f8b4fd9ca14cede45e9b4b8232f007613edb9f108965db486fb2e3e52656c8630f16cd0fff219808822ad0a251172406bdd75ba1cb9fd68ae480e06b5b4b"
+                "sha1": "4243a5c9f936ee5c2404dc2c9e27bf119955da49",
+                "sha512": "3257d1fe02c9f7710feec955d4e91bd1de69bbe930a3779602ea7c78920ca1f9cef3c4450158cabaddc330d2d4a96a2558d8f136c770b2657886797f2452eb24"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/HXzEJYgV/fabric-api-0.100.1%2B1.21.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/1cXs6RWI/fabric-api-0.100.3%2B1.21.jar"
             ],
-            "fileSize": 2219441
+            "fileSize": 2236205
         },
         {
             "path": "mods/fabric-language-kotlin-1.11.0+kotlin.2.0.0.jar",
@@ -198,6 +213,21 @@
                 "https://cdn.modrinth.com/data/YBz7DOs8/versions/yhQrKNAJ/fabricskyboxes-0.7.4%2Bmc1.21.jar"
             ],
             "fileSize": 206127
+        },
+        {
+            "path": "mods/fabrishot-1.14.0.jar",
+            "hashes": {
+                "sha1": "1fb19f6ea6b9c0ddec99bf59904bbd82b977476c",
+                "sha512": "2661303b60fea5165d0d128858acddeffb9bca03962c7ea55cd702bbad6b27fe2761d3cdd89733371e9b0fead1764e0cc210846bec7c85c31bfb6bbae6f1aa4a"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/aKAvBwSt/fabrishot-1.14.0.jar"
+            ],
+            "fileSize": 51658
         },
         {
             "path": "mods/fastquit-3.0.0+1.20.6.jar",
@@ -350,19 +380,19 @@
             "fileSize": 434062
         },
         {
-            "path": "mods/modmenu-11.0.0-rc.4.jar",
+            "path": "mods/modmenu-11.0.0.jar",
             "hashes": {
-                "sha1": "7337c3ee2becae0b2f4df6182716ac672387b6b5",
-                "sha512": "5b998a86ad6527f235f76e2b0659791c704c683a1746873bffe1619c539b241a36ba18e1e5a42dec363b21b071b5610ba57ed89a8b668be461627247ec557442"
+                "sha1": "d2b353f3f491ce8029f33cc17b69d80bb465842d",
+                "sha512": "c8613d518304accf94fc83f5b6c35baf561ac1cf725f466a6c8f58e57e4143a3799a5e871c4fb69c7cf0b543f450d17b22ca59521a4df8319ecd53bd56458ec4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/jnj30PDT/modmenu-11.0.0-rc.4.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/lJ1xXMce/modmenu-11.0.0.jar"
             ],
-            "fileSize": 971581
+            "fileSize": 975152
         },
         {
             "path": "mods/morechathistory-1.3.1.jar",
@@ -378,6 +408,21 @@
                 "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
             ],
             "fileSize": 3573
+        },
+        {
+            "path": "mods/NoChatReports-FABRIC-1.21-v2.8.0.jar",
+            "hashes": {
+                "sha1": "f1822b058132f7f221a3ac4470d54d820369c04e",
+                "sha512": "092837afc0fcb5208561062f8e4cd69971efa94c0180ae377e318d35d8f278abbf1552e4a577be882dc7e870f884779bc36caf808c8bc90bb05490f1e034ddb8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/riMhCAII/NoChatReports-FABRIC-1.21-v2.8.0.jar"
+            ],
+            "fileSize": 310073
         },
         {
             "path": "mods/optigui-2.3.0-beta.2+1.21.jar",
@@ -498,6 +543,21 @@
                 "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
             ],
             "fileSize": 17373
+        },
+        {
+            "path": "mods/Zoomify-2.14.0+1.21.jar",
+            "hashes": {
+                "sha1": "7adcde4ce0861c6b573bc86615a19ccf17bec255",
+                "sha512": "d85b3c7817dabe7507b974e8626fa1023177755c50698a3bb2ba41398f1130b4c84b31aa8b51488f70ed84cfd56f29e245b32f21ca332e2ef24d97979df51f6e"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/vg7GaKbh/Zoomify-2.14.0%2B1.21.jar"
+            ],
+            "fileSize": 809543
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",

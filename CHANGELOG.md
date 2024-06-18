@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-alpha.4 (2024-06-18)
+
+- Readded Controlify, Fabrishot, No Chat Reports, Paginated Advancements, Zoomify
+- Updated Fabric API, Mod Menu
+  - Mods button now appears in full width on pause menu
+- Enabled credits below right-side mod descriptions in Mod Menu
+- Known issue: one of the de_aztec 1x1 paintings is invisible
+  - Can be worked around by disabling ETF and EMF, but then custom mobs resource packs won't work
+- Temporarily removed: BetterMountHud, CIT Resewn, Cubes Without Borders, Debugify, LambDynamicLights, Model Gap Fix, MoreCulling, Polytone
+
 ### 6.0.0-alpha.3 (2024-06-17)
 
 - Readded Capes, Continuity, FerriteCore, Indium, Lithium, OptiGUI, Puzzle
@@ -13,7 +23,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Brought back the initial loading splash screen
 - Known issue: the new de_aztec 1x1 painting is invisible
   - Can be worked around by disabling ETF and EMF, but then custom mobs resource packs won't work
-- Temporarily removed: BetterMountHud, CIT Resewn, Cubes Without Borders, Debugify, Fabrishot, LambDynamicLights, Model Gap Fix, MoreCulling, No Chat Reports, Paginated Advancements, Polytone
+- Temporarily removed: BetterMountHud, Controlify, CIT Resewn, Cubes Without Borders, Debugify, Fabrishot, LambDynamicLights, Model Gap Fix, MoreCulling, No Chat Reports, Paginated Advancements, Polytone, Zoomify
 
 ### 6.0.0-alpha.2 (2024-06-15)
 
@@ -22,7 +32,7 @@ Thank you for testing the alpha!
 - Readded Entity Culling
 - Removed more mods that caused crashes
 - Worked around problems with chests, decorated pots, item frames, shulker boxes, bells
-- Temporarily removed: BetterMountHud, Capes, CIT Resewn, Continuity, Cubes Without Borders, Debugify, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
+- Temporarily removed: BetterMountHud, Capes, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Zoomify
 
 ### 6.0.0-alpha.1 (2024-06-14)
 
