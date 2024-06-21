@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "025bd197db5e017845cd01e4c45412360c90cfa968ad0b56b7188ac99fb59e79"
+hash = "bb411941786cb4f1c263cf6456ed77889332969396377045311549827fdf0fa2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3d04c9f34af6182ce9fe0bf505838df2d09c29c6f7db7d34160547a612f521b9"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "cab638ef75572d2c4bcc9dfd583283e7bbe927fd6c3834930bed52e2dbcac063"
+hash = "6f77c2d296e1b6ee1a6dcfc391474078c1b57502b31d2344c93b11b7d0f2eb27"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -85,6 +81,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "cab638ef75572d2c4bcc9dfd583283e7bbe927fd6c3834930bed52e2dbcac063"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
@@ -127,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "f50ea6e966d745b067723772ba94c185e5959785453df3f0fb642857790c581d"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "062dbb67764d8cf7d05435ee5aceea016eef901027384ef78b386b7f26106db0"
 metafile = true
 
 [[files]]
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "802b90e1332605426e570ce85eca285a2814961c9cdec788d3f9df4ae767da5a"
+hash = "28eff4d75f23363df3a8eeb4818fb1fd7fe2fa3fe6d2ada03545c31f62eb815a"
 metafile = true
 
 [[files]]
@@ -230,13 +235,18 @@ hash = "0a8e6a58962ba40f696a44cb2d02355490bc831b49509f8083e3e7bc89b40052"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "3873dcd36167b0bb9f1e26d1a9292325b21584974f36f52884d5ba7dfb592e24"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "412a84f160bbd574e4b5dbaf22b1c00163d236178d65e0793f5081cd6e779398"
+hash = "887389281369d3e79b8be48682e30be3ae6572be32660873d15af66394b6565b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "40bb964e51ae42b919be551e81d50488743a10e25d903bbcf5ccebae403adfaf"
+hash = "66473b7b1002d9f912f02d1f4353c0d279797d2e24082ee6a5b5cf4d9d695b4d"
 metafile = true
 
 [[files]]
@@ -255,8 +265,13 @@ hash = "f3fd21cc85f5450699e3b2a48e97527b8323a18b3af5130592a19631e56080f6"
 metafile = true
 
 [[files]]
-file = "mods/paginated-advancements.pw.toml"
-hash = "8ec364a65ba972c102a42e1c36fe74ef63669d47c7cc6d1730ffcada8192edae"
+file = "mods/paginatedadvancements.pw.toml"
+hash = "9ebd6863b2daec053ec47c1cf85d5077ce2a918c6870fc82c3c6597c0ac075f1"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "90cd4dbb3e25cebb4c41c1114c066c0326c93718eb6a2fab7fb16318025ccd17"
 metafile = true
 
 [[files]]

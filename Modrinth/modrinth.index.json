@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.0.0-alpha.4",
+    "versionId": "6.0.0-alpha.5",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -78,6 +78,21 @@
                 "https://cdn.modrinth.com/data/DOUdJVEm/versions/zCjLVzXH/Controlify-2.0.0-beta.13%2B1.21-fabric.jar"
             ],
             "fileSize": 2746743
+        },
+        {
+            "path": "mods/Debugify-1.21+1.0.jar",
+            "hashes": {
+                "sha1": "a799b0dbb320bc314b9d81cc7fd43c4fc895c3f8",
+                "sha512": "6fa9c2eec2382f0d188356702c69cd1ed86a152a033c963a318658353686c2d873c6c34c3e748879258c407310f4a1822aa4d23efdedfc2d4d8b31be40f4aa91"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/mOk69fib/Debugify-1.21%2B1.0.jar"
+            ],
+            "fileSize": 292244
         },
         {
             "path": "mods/dynamic-fps-3.4.3+minecraft-1.21.0-fabric.jar",
@@ -335,19 +350,19 @@
             "fileSize": 68960
         },
         {
-            "path": "mods/lithium-fabric-mc1.21-0.12.5.jar",
+            "path": "mods/lithium-fabric-mc1.21-0.12.7.jar",
             "hashes": {
-                "sha1": "1b38b7b29532d12d6bf83c93c6bf316427f69141",
-                "sha512": "3054de66ffaad9184c44fabafa2a8f858f18e76302c971218f5b36f84b0de9306b076fd2d4a4df2ab56df2676093edda9602dcdb5d2301b4006d2770205d728e"
+                "sha1": "028d8dde791e2283aa0d67decc8cbcd66400a38e",
+                "sha512": "91d78cf26f61876b1f5110e8aabb0189fe20fb669c2f2dd608416bce31c5c02eec9284ea418c405ab118562b5b8202c83154784bedf136f95727a86096e43430"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OC4JOVBe/lithium-fabric-mc1.21-0.12.5.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar"
             ],
-            "fileSize": 736316
+            "fileSize": 739832
         },
         {
             "path": "mods/mixintrace-1.1.1+1.17.jar",
@@ -365,34 +380,49 @@
             "fileSize": 36039
         },
         {
-            "path": "mods/modernfix-fabric-5.18.2+mc1.21.jar",
+            "path": "mods/modelfix-1.21-1.6-fabric.jar",
             "hashes": {
-                "sha1": "17c498a5c0481836127754cd67cdbc688cb88c1d",
-                "sha512": "924114d3ab180346c87a6ef482ad94fa30d0e1f6faf02cb6bc9d9e9b83f02fc6959f30a1465073314d63d0f4f61dd11825816aa244715256cefa1d1ada7854f7"
+                "sha1": "b8069f2a672abdea1112daa6d716a0e482cf61ea",
+                "sha512": "5e6c5027420dd4fc0a2aa628edbb75f9dd468f14451766f582018eaa89d69e345c45452cc57c9730d4298a33e698a7832269b491f7cecbb11cc46d084825f2b3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/nmDcB62a/versions/f3UzsGPb/modernfix-fabric-5.18.2%2Bmc1.21.jar"
+                "https://cdn.modrinth.com/data/QdG47OkI/versions/FUZo6yCk/modelfix-1.21-1.6-fabric.jar"
             ],
-            "fileSize": 434062
+            "fileSize": 62761
         },
         {
-            "path": "mods/modmenu-11.0.0.jar",
+            "path": "mods/modernfix-fabric-5.18.3+mc1.21.jar",
             "hashes": {
-                "sha1": "d2b353f3f491ce8029f33cc17b69d80bb465842d",
-                "sha512": "c8613d518304accf94fc83f5b6c35baf561ac1cf725f466a6c8f58e57e4143a3799a5e871c4fb69c7cf0b543f450d17b22ca59521a4df8319ecd53bd56458ec4"
+                "sha1": "dc3f962a95d65b0d92bf49ae01a73e50153193c9",
+                "sha512": "45e021ec676ba3b8dc3d895d132b76ee8a681a1d73d19677f5c22d2ca7617607a941d5c56e729c2bb242980d0e3abe8ff095d962d550f4a3f1efef0e9aff4c15"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/lJ1xXMce/modmenu-11.0.0.jar"
+                "https://cdn.modrinth.com/data/nmDcB62a/versions/AFvoBfkx/modernfix-fabric-5.18.3%2Bmc1.21.jar"
             ],
-            "fileSize": 975152
+            "fileSize": 434670
+        },
+        {
+            "path": "mods/modmenu-11.0.1.jar",
+            "hashes": {
+                "sha1": "e4ba66f6036a4902433bb517d55120c4237c512f",
+                "sha512": "01fe4782bd8036a9e5ebb749fc22f32834ac228d0ea025b89687a1bcd7296b1312c5a46cb1480bc9851380297c3ee4b57f966c09af6a901b092023c8e23032a2"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar"
+            ],
+            "fileSize": 975390
         },
         {
             "path": "mods/morechathistory-1.3.1.jar",
@@ -438,6 +468,36 @@
                 "https://cdn.modrinth.com/data/JuksLGBQ/versions/dPuD2Nuk/optigui-2.3.0-beta.2%2B1.21.jar"
             ],
             "fileSize": 601460
+        },
+        {
+            "path": "mods/paginatedadvancements-2.4.2.jar",
+            "hashes": {
+                "sha1": "cc1dd34735e41a827fbcb7bba0c3d424b60a0d21",
+                "sha512": "5cdece7cc773f271150d92649c916dc4232aac169c84552a24abe3ab5e47399cdaac954ce051f165dcb0179e35675a7c64e98ac6427416da5fa0a1c2991b3b2c"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/pJogNFap/versions/PICtfFjp/paginatedadvancements-2.4.2.jar"
+            ],
+            "fileSize": 70892
+        },
+        {
+            "path": "mods/polytone-1.21-2.0.3-fabric.jar",
+            "hashes": {
+                "sha1": "78e495ef6efca992e563fc02c9a708c97fb2e785",
+                "sha512": "ac1fa639b82ec5419b88941f82f54f2a6b6d91275d15ab853a5e55ac59bbda78908d2313c7ac0ce6d2b7004ca01d959eeff56348553edf173d747f084ac599c2"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/N9vJxRex/polytone-1.21-2.0.3-fabric.jar"
+            ],
+            "fileSize": 501105
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",

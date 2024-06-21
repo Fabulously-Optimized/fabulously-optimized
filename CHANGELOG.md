@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-alpha.5 (2024-06-21)
+
+- Readded Debugify, Model Gap Fix, Polytone
+- Updated Lithium, Mod Menu, ModernFix
+- Known issue: one of the de_aztec 1x1 paintings is invisible
+  - Can be worked around by disabling ETF and EMF, but then custom mobs resource packs won't work
+- Temporarily removed: BetterMountHud, CIT Resewn, Cubes Without Borders, LambDynamicLights, MoreCulling
+
 ### 6.0.0-alpha.4 (2024-06-18)
 
 - Readded Controlify, Fabrishot, No Chat Reports, Paginated Advancements, Zoomify
