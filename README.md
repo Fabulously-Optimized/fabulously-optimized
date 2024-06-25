@@ -40,6 +40,7 @@ See this table for a comparison between the launchers:
 | [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
 | [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
 | [MultiMC (auto-update)][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [GDLauncher Carbon][url-app-gdlauncher]       |   [🔗&nbsp;Open][url-tutorial-gdlauncher]   |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ✅&nbsp;Easy |   ✅&nbsp;Easy   |
 | [Minecraft Launcher (vanilla)][url-app-vanilla] | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
 
 > [!NOTE]
@@ -101,6 +102,7 @@ Special thanks to:
 
 <!-- URLs -->
 [url-app-cf]: <https://curseforge.com/download/app>
+[url-app-gdlauncher]: <https://gdlauncher.com>
 [url-app-mmcu]: <https://wiki.download.fo/readme/multimc-auto-update>
 [url-app-modrinth]: <https://modrinth.com/app>
 [url-app-multimc]: <https://multimc.org>
@@ -149,6 +151,7 @@ Special thanks to:
 [url-contribute]: <https://download.fo/contribute>
 [url-translate]: <https://download.fo/translate>
 [url-tutorial-cf]: <https://wiki.download.fo/readme/install-instructions#curseforge-app>
+[url-tutorial-gdlauncher]: <https://wiki.download.fo/readme/install-instructions#gdlauncher-carbon>
 [url-tutorial-mmcu]: <https://wiki.download.fo/readme/install-instructions#multimc-auto-update>
 [url-tutorial-mmcu-ignoremods]: <https://wiki.download.fo/readme/multimc-auto-update#can-i-ignore-some-of-the-mods>
 [url-tutorial-modrinth]: <https://wiki.download.fo/readme/install-instructions#modrinth-app>
