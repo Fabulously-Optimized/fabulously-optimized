@@ -182,6 +182,16 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.4
 
+### 5.10.3 (2024-06-25)
+
+- Updated Entity Texture Features, Animatica, Cubes Without Borders, Dynamic FPS, e4mc, Enchanced Block Entities, Entity Culling, ImmediatelyFast, Indium, Mod Menu, YetAnotherConfigLib
+  - Iris, Controlify, Zoomify latest updates skipped due to breaking changes
+  - MoreCulling update skipped due to launcher bugs
+- Updated Romanian, Chinese Traditional, Chinese Simplified translations
+- Enabled credits below right-side mod descriptions in Mod Menu
+- Disabled battery-based optimizations in Dynamic FPS to keep FPS expectations - if interested, enable them in its config
+- Unbound FabricSkyBoxes debug hotkey
+
 ### 5.10.2 (2024-06-05)
 
 - Updated Enhanced Block Entities, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, YetAnotherConfigLib 
