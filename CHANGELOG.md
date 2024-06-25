@@ -55,6 +55,13 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.12.0-beta.8 (2024-06-25)
+
+- Updated Controlify, Cubes Without Borders, Dynamic FPS, Fabric API, Lithium, Mod Menu, No Chat Reports, Zoomify
+- Enabled credits below right-side mod descriptions in Mod Menu
+- Disabled battery-based optimizations in Dynamic FPS to keep FPS expectations - if interested, enable them in its config
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 5.12.0-beta.7 (2024-06-17)
 
 - Updated Entity Texture Features, Animatica, Enhanced Block Entities, Entity Culling, ImmediatelyFast, Indium, Iris Shaders, Lithium, Polytone, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
@@ -184,7 +191,7 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ### 5.10.3 (2024-06-25)
 
-- Updated Entity Texture Features, Animatica, Cubes Without Borders, Dynamic FPS, e4mc, Enchanced Block Entities, Entity Culling, ImmediatelyFast, Indium, Mod Menu, YetAnotherConfigLib
+- Updated Entity Texture Features, Animatica, Cubes Without Borders, Dynamic FPS, e4mc, Enhanced Block Entities, Entity Culling, ImmediatelyFast, Indium, Mod Menu, YetAnotherConfigLib
   - Iris, Controlify, Zoomify latest updates skipped due to breaking changes
   - MoreCulling update skipped due to launcher bugs
 - Updated Romanian, Chinese Traditional, Chinese Simplified translations
