@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bb411941786cb4f1c263cf6456ed77889332969396377045311549827fdf0fa2"
+hash = "edd41bf9d426c728b85727018081b1ae8da916bf878422903248b7f38b9537b2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6f77c2d296e1b6ee1a6dcfc391474078c1b57502b31d2344c93b11b7d0f2eb27"
+hash = "f33b54512a9e503503b1cbea862ee994a39b74a4ed4002f516fe6b701e05ca59"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -42,7 +46,7 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
+hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -130,13 +134,18 @@ hash = "f50ea6e966d745b067723772ba94c185e5959785453df3f0fb642857790c581d"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "e9986fc1a60f3ed1d345607a37d9528f55e4aede37db03af12b061f2b81cbfc8"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "062dbb67764d8cf7d05435ee5aceea016eef901027384ef78b386b7f26106db0"
 metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "febfec95030f15423bdefdd803c1909ecd55263c55d503811e2eb89e23b81856"
+hash = "12023b76eab88049e359d38854ed2ddde8a0d655f22a0c3dd26852cf3e3d7a2d"
 metafile = true
 
 [[files]]
@@ -156,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "c56a7cae5fa1cc4045469d5bc9dc9583ea9e09723f660173530dd22e22c3e823"
+hash = "53cd4dd9014d1a3d90d22606c854bb15bf09dc9b9f9c45379a2cd5fe479dfa96"
 metafile = true
 
 [[files]]
@@ -330,5 +339,5 @@ hash = "ccab7905501936a4ff6dd490a7dd4c3f5ddb03d02bb49a33c703af4f4708c45f"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "3a0eb4f4a4888830292e774382ac51d0e7e63109ce2e0731c2b642e2538f84a9"
+hash = "b85b9c0bed13a4719887b78a757d193c3fa52176a29c5cc37ad0c013e60f0d67"
 metafile = true

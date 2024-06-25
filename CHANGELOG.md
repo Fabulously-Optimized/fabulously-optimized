@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-beta.1 (2024-06-25)
+
+- Readded Cubes Without Borders
+- Updated Entity Texture Features, Dynamic FPS
+- Disabled battery-based optimizations in Dynamic FPS to keep FPS expectations - if interested, enable them in its config
+- Temporarily removed: BetterMountHud, CIT Resewn, LambDynamicLights, MoreCulling
+
 ### 6.0.0-alpha.5 (2024-06-21)
 
 - Readded Debugify, Model Gap Fix, Polytone

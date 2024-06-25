@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.0.0-alpha.5",
+    "versionId": "6.0.0-beta.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -80,6 +80,21 @@
             "fileSize": 2746743
         },
         {
+            "path": "mods/cubes-without-borders-2.0.0+1.21.jar",
+            "hashes": {
+                "sha1": "7e3b77305a2e1f71bdcb966c17c160445c972ae5",
+                "sha512": "77fd1bde3f4b94703e1f78faaac1b795641bc8034380c3f8ddc1a299566fd55e394a39f6cd06e3647a6fb45e22e7a0dfda8b99552c5bf4d4d69b36bf96d448e9"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/njTYAfLE/cubes-without-borders-2.0.0%2B1.21.jar"
+            ],
+            "fileSize": 54294
+        },
+        {
             "path": "mods/Debugify-1.21+1.0.jar",
             "hashes": {
                 "sha1": "a799b0dbb320bc314b9d81cc7fd43c4fc895c3f8",
@@ -95,19 +110,19 @@
             "fileSize": 292244
         },
         {
-            "path": "mods/dynamic-fps-3.4.3+minecraft-1.21.0-fabric.jar",
+            "path": "mods/dynamic-fps-3.5.0+minecraft-1.21.0-fabric.jar",
             "hashes": {
-                "sha1": "40fa85ae61c152a417aaee0a0d012ffb632c16e8",
-                "sha512": "d8b75c6dd6ece527dd85ce9dbe12bd0bef5bfa14ee272f429ac4f1f2577fb7eda31a058d5a145e8d837df218f1e8be6ff35dc1fbff55d0bab52ef8e528392d17"
+                "sha1": "122da09e17980a2d9685b19276065c5772b69ae6",
+                "sha512": "837109d27bad9d8eccb860d8d1b14a068d453066735287ed41359891a8317bfc5c08ecf479341b596129abc934599dfde612ba482b7d1c72b4b4f37e86cf0e86"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jeq5Pk2P/dynamic-fps-3.4.3%2Bminecraft-1.21.0-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pHWNKS7t/dynamic-fps-3.5.0%2Bminecraft-1.21.0-fabric.jar"
             ],
-            "fileSize": 94499
+            "fileSize": 170607
         },
         {
             "path": "mods/e4mc_minecraft-5.0.0-fabric.jar",
@@ -155,19 +170,19 @@
             "fileSize": 394954
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.21-6.1.1.jar",
+            "path": "mods/entity_texture_features_fabric_1.21-6.1.2.jar",
             "hashes": {
-                "sha1": "7d4a81b46b02c4292247e69d0113fd6a61b9c8d0",
-                "sha512": "6fd5312fe7b9ba6c36e12b3d3e29c538611fd673fb3787af9e2b927a6dd27be57b66dd7521912e96e81685e4dc86588061c435c4e63434420bc0aeade017b66e"
+                "sha1": "eda517acec2b111fca2e1f40429938bb379d0723",
+                "sha512": "2e5f43447a10fb3c717c8368687922afc7aaf21705c46317ef26447fe8dc628d08dcde76e9365876a440a6bd671ed4a9b41c23857fefade60ab6b2f0bddd67fc"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/JvRwC1fO/entity_texture_features_fabric_1.21-6.1.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/8czGsT2L/entity_texture_features_fabric_1.21-6.1.2.jar"
             ],
-            "fileSize": 598709
+            "fileSize": 598725
         },
         {
             "path": "mods/entityculling-fabric-1.6.6-mc1.21.jar",
@@ -648,6 +663,21 @@
                 "https://cdn.modrinth.com/data/dspVZXKP/versions/1lpmCieT/Fast%20Better%20Grass.zip"
             ],
             "fileSize": 10930
+        },
+        {
+            "path": "resourcepacks/SodiumTranslations.zip",
+            "hashes": {
+                "sha1": "ce7b23538f57ed171cddc2558fce44c1b4fb8aec",
+                "sha512": "22831dcbc3079350c36d550ff060fd8bea0c01281c14a3d825c98401379768bc21f02968170f59d32996e6b93b17b3a9a895933fd93782273e0c6e640154e56f"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/5HmWi3Tp/SodiumTranslations.zip"
+            ],
+            "fileSize": 191259
         }
     ],
     "dependencies": {
