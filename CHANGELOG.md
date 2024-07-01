@@ -62,6 +62,17 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.12.0-beta.9 (2024-07-01)
+
+- Updated Cubes Without Borders, Dynamic FPS, Fabric API, Iris Shaders, Sodium
+- Updated Polish translation
+- Force-enabled: Indium
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
+### 5.12.0-beta.8.mr-1 (2024-06-25)
+
+A reupload to Modrinth that fixes the Minecraft version on the instance.
+
 ### 5.12.0-beta.8 (2024-06-25)
 
 - Updated Controlify, Cubes Without Borders, Dynamic FPS, Fabric API, Lithium, Mod Menu, No Chat Reports, Zoomify
