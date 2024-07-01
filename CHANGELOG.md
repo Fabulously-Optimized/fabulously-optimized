@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-beta.2 (2024-07-01)
+
+- Updated Cubes Without Borders, Dynamic FPS, Fabric API, Iris Shaders, Polytone, Sodium
+- Updated Polish translation
+- Force-enabled: Indium
+- Temporarily removed: BetterMountHud, CIT Resewn, LambDynamicLights, MoreCulling
+
 ### 6.0.0-beta.1 (2024-06-25)
 
 - Readded Cubes Without Borders
