@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f17ef5a7d6c57f21d3433836a2a3d868bdb04ac165fb76d311153e58577faadb"
+hash = "6494ad85741ac6ef73f7f7d5660a1c2522dc154037423bf7faca45380cb68de9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0084fb926b4f3c7b8e02830a9ed94f905db2598532cff27635de22512c50c29a"
+hash = "ee20c6e8ac5f70d83acb8e6a12affeef5bc0db72110371789c1ad5ff35c7a78e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -47,10 +47,6 @@ hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
 hash = "cef51db1150ae1f30f504c8932c274ba174441d4fa177cda048b407da59d5865"
-
-[[files]]
-file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -110,6 +106,11 @@ hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
 
 [[files]]
+file = "mods/bettermounthud.pw.toml"
+hash = "2015444afd860c79fe1ca3737053873cc44cc9cef78c6384a3c82c7df73ee57e"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "2a375a9423ee8b9f10bba8457433263412cb328484d94ddf284e467dd41ebf77"
 metafile = true
@@ -131,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "87f1a806e4175ce5893e36482fc244b3bed080812279a0bac3d83e1c2175828e"
+hash = "f978fb755114f41fe19262e0afab134c56cdfa14ac403acc642c69c6c62f9333"
 metafile = true
 
 [[files]]
@@ -156,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "d9b42de9d50aea9ff53251319e395eb47b070ff28fc88995a6b1fa893fd6c88a"
+hash = "b2fd14c32457c7c18a895f2a75e0672724831ebc937e03fdd2aa2c07f2183a51"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "53cd4dd9014d1a3d90d22606c854bb15bf09dc9b9f9c45379a2cd5fe479dfa96"
+hash = "e7e844260ba2055c45b90182e3034adf971539e129535a42e63df40c0a378aad"
 metafile = true
 
 [[files]]
@@ -171,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2bd32425b0cb832b4a24757310fcf7879369e2be70a304109483a9f667eca834"
+hash = "267e458f223a5ba7d985b9e88fde57faefad8cccd5f5c5dcdf963983a03eb7fb"
 metafile = true
 
 [[files]]
@@ -211,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "390faedb33466c1926f20e3b479a159a5f4517b2424b1d5a5858e54673d42823"
+hash = "556a4025cb6677ca7e76839627a89e32750d6abb1a837a5740e7b0a51a1fae5f"
 metafile = true
 
 [[files]]
@@ -246,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "887389281369d3e79b8be48682e30be3ae6572be32660873d15af66394b6565b"
+hash = "ec11f20ff4ce0c26d4d01140b23721b619340b0c5066d7232bd981914df6b541"
 metafile = true
 
 [[files]]
@@ -291,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "d5619a5f3cf73000b76a0c84d48a3cdacc9991eb6e86f1c3422d666e526866a6"
+hash = "4694a637eccba6061e584b2c8d75f56e8a16dc8e83a07a822f7dd88fad820a4a"
 metafile = true
 
 [[files]]
@@ -331,9 +332,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "780a093e54c4c7932608cc4c8ddfca75ad4ad7500fb59c1fcb4d9613fd67a0b7"
+hash = "fed1ec3cd43f0c72e11e9e819cf63757d2576a56d566cdbd69ed017c94c0f412"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "b85b9c0bed13a4719887b78a757d193c3fa52176a29c5cc37ad0c013e60f0d67"
+hash = "7e6e135a52249ffe97344901747069d5a142a6cf41e6b5be9230644b5878752d"
 metafile = true

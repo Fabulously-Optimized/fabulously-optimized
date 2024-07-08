@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-beta.3 (2024-07-08)
+
+- Readded BetterMountHud
+- Updated Entity Model Features, Entity Texture Features, Cubes Without Borders, Fabric API, Indium, ModernFix, Remove Reloading Screen
+- Updated French translation
+- Removed error message that appeared when FO was partly installed
+- Temporarily removed: CIT Resewn, LambDynamicLights, MoreCulling
+
 ### 6.0.0-beta.2 (2024-07-01)
 
 - Updated Cubes Without Borders, Dynamic FPS, Fabric API, Iris Shaders, Polytone, Sodium
