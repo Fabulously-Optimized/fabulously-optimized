@@ -69,6 +69,13 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.12.0-beta.10 (2024-07-08)
+
+- Updated Entity Model Features, Entity Texture Features, Cubes Without Borders, Indium
+- Updated French translation
+- Removed error message that appeared when FO was partly installed
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 5.12.0-beta.9 (2024-07-01)
 
 - Updated Cubes Without Borders, Dynamic FPS, Fabric API, Iris Shaders, Sodium
