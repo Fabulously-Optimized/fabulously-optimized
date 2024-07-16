@@ -9,7 +9,7 @@ jobs:
     environment: github-actions
     steps:
        - name: Download pack files
-         uses: robinraju/release-downloader@v1.10
+         uses: robinraju/release-downloader@v1.11
          id: download-files
          with:
            fileName: "*.zip"
