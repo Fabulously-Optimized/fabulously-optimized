@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-beta.4 (2024-07-17)
+
+- Readded MoreCulling
+- Updated Controlify, Fabric API, ModernFix, Reese's Sodium Options
+  - Skipped Remove Reloading Screen update as it requires new Fabric Loader which is currently in beta
+- Updated Korean translation
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 6.0.0-beta.3 (2024-07-08)
 
 - Readded BetterMountHud
