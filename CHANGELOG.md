@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21
 
+### 6.0.0-beta.5 (2024-07-24)
+
+- Updated Cloth Config, Cubes Without Borders, Dynamic FPS, e4mc, Polytone
+  - Skipped Remove Reloading Screen update as it requires new Fabric Loader which is currently in beta
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 6.0.0-beta.4 (2024-07-17)
 
 - Readded MoreCulling

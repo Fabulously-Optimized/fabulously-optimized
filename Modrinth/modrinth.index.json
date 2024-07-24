@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.0.0-beta.4",
+    "versionId": "6.0.0-beta.5",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -50,19 +50,19 @@
             "fileSize": 77572
         },
         {
-            "path": "mods/cloth-config-15.0.127-fabric.jar",
+            "path": "mods/cloth-config-15.0.128-fabric.jar",
             "hashes": {
-                "sha1": "d2cef696bbf70a07075b798e541e8c98c34ddd2d",
-                "sha512": "b3059112661363955aa77f3cdc2993e7875089f6415179351869febd4bd35a221b75001ab4698e6105f3c0241698d0ffce645b5cae7fe9f90bdb3b96b74691d2"
+                "sha1": "10334d4833fda919fe82e6f864caed9bc018764c",
+                "sha512": "5d9823caffc721f852451aa244693591da8fdd2ee6bc3c4339e911269390439c89c7ee62a06bdaa0011f30ea578ba725fd4ff3481683994aa6a217b4b28e52e3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar"
+                "https://cdn.modrinth.com/data/9s6osm5g/versions/gY9NB5Rj/cloth-config-15.0.128-fabric.jar"
             ],
-            "fileSize": 1144382
+            "fileSize": 1144379
         },
         {
             "path": "mods/continuity-3.0.0-beta.5+1.21.jar",
@@ -95,19 +95,19 @@
             "fileSize": 2791149
         },
         {
-            "path": "mods/cubes-without-borders-2.1.0+1.21.jar",
+            "path": "mods/cubes-without-borders-2.1.1+1.21.jar",
             "hashes": {
-                "sha1": "be868e3ee7b88dcb11f807003b94b893efa39a98",
-                "sha512": "5f75ebbf93c232bc906caeca2c066c50f28f213706ad7cd986d8f77a42c0006690c456f9101112c4d15bb29c4ac629f6747f6e8f601bc8eab996b58561cf6be6"
+                "sha1": "bb6fbf6a7ae382daeea2979d4471c0acdeab1860",
+                "sha512": "2fda7f3fb4db1c7d84d746b964fd972a18df350d3d61de23418601bc6dc699f556d2c247515c444977098b7e4dd04d6f06defc2d7a02ea593a477e536e19c211"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ETlrkaYF/versions/cU76xqvp/cubes-without-borders-2.1.0%2B1.21.jar"
+                "https://cdn.modrinth.com/data/ETlrkaYF/versions/fbzkv9Iu/cubes-without-borders-2.1.1%2B1.21.jar"
             ],
-            "fileSize": 55221
+            "fileSize": 55827
         },
         {
             "path": "mods/Debugify-1.21+1.0.jar",
@@ -125,34 +125,34 @@
             "fileSize": 292244
         },
         {
-            "path": "mods/dynamic-fps-3.6.0+minecraft-1.21.0-fabric.jar",
+            "path": "mods/dynamic-fps-3.6.1+minecraft-1.21.0-fabric.jar",
             "hashes": {
-                "sha1": "7a42dab5fe78a4e89d541d3eca2d7513afff23f9",
-                "sha512": "1d12d6e54f01e68857e861bc124eb172277bc24577e29356779066a8ba40e8adab726ed727e1812c03decf5d66cedfe094947578bf30c7ea1ac6eca0a8ab800e"
+                "sha1": "d7a4b8b5798d85bf1a0bad86200f5ed5c210e0f3",
+                "sha512": "e0e7654b78e88904a9e2016389a0e50e9111b6913a41783edc2942f438670e0e1823ffa0dd10f4d99114d70517a93a6049bbfcd259d332e38b4561ab9fe6a4f2"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/WJuoKsuM/dynamic-fps-3.6.0%2Bminecraft-1.21.0-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/hqTdt4bl/dynamic-fps-3.6.1%2Bminecraft-1.21.0-fabric.jar"
             ],
-            "fileSize": 172584
+            "fileSize": 173298
         },
         {
-            "path": "mods/e4mc_minecraft-5.0.0-fabric.jar",
+            "path": "mods/e4mc_minecraft-5.1.0.jar",
             "hashes": {
-                "sha1": "41f45402c2af136a8654688f23931d6ecde18f3c",
-                "sha512": "6438d6d8f56a426284801818d178a50f9b3a6efbe949326716362c13c3303af4a243f8fe919c4a0ee1e8fe7e7ac5ade423b0a8da5ea35e8fa9aa0fb260b435bb"
+                "sha1": "83cf80d0a8a96a626db916cf624bb1ee50fa5486",
+                "sha512": "ddfcae8b8567ff2468e1d34612842d9c766e4747e35195dba05a81cc5a3d6d98fa53590a21597ba822624e660c6a96c503660656c1d35cf9aa1a0da865315dad"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qANg5Jrr/versions/bvr50NJe/e4mc_minecraft-5.0.0-fabric.jar"
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/JwZn7YZ0/e4mc_minecraft-5.1.0.jar"
             ],
-            "fileSize": 304980
+            "fileSize": 568298
         },
         {
             "path": "mods/enhancedblockentities-0.10.1+1.21.jar",
@@ -530,19 +530,19 @@
             "fileSize": 70892
         },
         {
-            "path": "mods/polytone-1.21-2.1.1-fabric.jar",
+            "path": "mods/polytone-1.21-2.1.3-fabric.jar",
             "hashes": {
-                "sha1": "a6d445d35f6225d72b765b6ee814b2c8707c51c5",
-                "sha512": "71027f881898621c4be32130225a87dd57a212f9a8d7da39da89ddfa18b6052c9b62254401dadff58a8ec5fed002c7d0351294c2b90917d1828314c20b8020da"
+                "sha1": "d9163af58c8bcda20540e60e8f32bcaaf04ea23b",
+                "sha512": "a31d35f9d70ed68b037ed40db3763b556f7ebce42c14c663ed89699664ef0da5094255768cca456a4a6e0e49f1c7d9228d8a2db3b9b0a452f90275db97616578"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/fwoY0CNc/polytone-1.21-2.1.1-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/3EhTLs1b/polytone-1.21-2.1.3-fabric.jar"
             ],
-            "fileSize": 519242
+            "fileSize": 526450
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",
@@ -697,17 +697,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "156e1fa6c968cd2c613a19fd2a687f724d761873",
-                "sha512": "9b0a51ffe1d94488188f008ab3bf71d07c287914c6d7962d8e794ab73e1f7dfccca4ba082e04c4ba626af3b8e1105e17e0adcba5ae665a8d3abb1c1e83d4acda"
+                "sha1": "5c7dabecd03aa15da7302828113b7082a93dac02",
+                "sha512": "3a3260f9b5a688c46c66afc2c84f65475c2f47d7b629fa7c9f754361a0e36a29ad01f6ab0776559ede22bbee7e718084f1edc43645c98f1b5029cd3ff1e8619b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/Ff3iLzwK/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/UW7rbLDl/SodiumTranslations.zip"
             ],
-            "fileSize": 196231
+            "fileSize": 201322
         }
     ],
     "dependencies": {
