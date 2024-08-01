@@ -8,7 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated Dynamic FPS, Fabric API, ModernFix, Polytone
   - Skipped Remove Reloading Screen update as it requires new Fabric Loader which is currently in beta
 - Added Anglish translation
-- Disabled ImmediatelyFast experimental false batching, as caused some texture glitches with resource packs
+- Disabled ImmediatelyFast experimental screen batching, as caused some texture glitches with resource packs
 - Temporarily incompatible: CIT Resewn, LambDynamicLights
 
 ### 6.0.0-beta.5 (2024-07-24)
