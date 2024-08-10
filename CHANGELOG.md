@@ -1,6 +1,16 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.21.1
+
+### 6.1.0-alpha.1 (2024-08-10)
+
+As always, remember to make backups for your worlds.
+
+- Updated Fabric API, Fabric Language Kotlin, ImmediatelyFast, Polytone, Remove Reloading Screen
+- Temporarily force-enabled: Debugify, EntityCulling, Fabrishot, Remove Reloading Screen
+- Temporarily incompatible: CIT Resewn, Continuity, LambDynamicLights, Lithium
+
 ## 1.21
 
 ### 6.0.0-beta.6 (2024-08-01)
