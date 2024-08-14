@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-alpha.1",
+    "versionId": "6.1.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -200,19 +200,19 @@
             "fileSize": 65363
         },
         {
-            "path": "mods/fabric-api-0.102.0+1.21.1.jar",
+            "path": "mods/fabric-api-0.102.1+1.21.1.jar",
             "hashes": {
-                "sha1": "669a75bcbba10bc3fa15f31733587cefb8779064",
-                "sha512": "b4087165474f77f80414fd1f61c9c9ed921e39c1eb8fb4a6027ae3c01955bb7d4c028c7ca55cb9ed112bdbdaa4796141d55f082c91a33622a5acf68fd28c8e4c"
+                "sha1": "c7d381d76c22ada6679ef9683da9384751db3874",
+                "sha512": "ff058bdb4d30866a34a74ae457da7e981affd130c23887c0c8194c6ecb5023cca353dd7b831326ab33df5c6d3bbfb1d07aa71bbd79dbb30cca5534fd74c5f551"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/VAjB0MYF/fabric-api-0.102.0%2B1.21.1.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/bK6OgzFj/fabric-api-0.102.1%2B1.21.1.jar"
             ],
-            "fileSize": 2286038
+            "fileSize": 2291961
         },
         {
             "path": "mods/fabric-language-kotlin-1.12.0+kotlin.2.0.10.jar",
@@ -305,19 +305,19 @@
             "fileSize": 73307
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.2.19+1.21.1.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.2.20+1.21.1.jar",
             "hashes": {
-                "sha1": "05d50439aa8f53c9c6a636daf50d73e185706936",
-                "sha512": "93282cbfab6494196c5b6dbbfab8826cf371aed3e41937963c897c58eeba813077a333b254304d0c5c12191c7630db2617c1ec9188c0e934daed623003d35df1"
+                "sha1": "fd934e30da1d2547325591656aca816d8d3fc608",
+                "sha512": "c400315a809c35bdab4435831b3c7c1ccf6b654caa706d0412261bb262baccd337d9297927d669372211dacfd60164d0d343f9c78df92f08293343d69371e37a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/1wCtstqk/ImmediatelyFast-Fabric-1.2.19%2B1.21.1.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/jMIMrEow/ImmediatelyFast-Fabric-1.2.20%2B1.21.1.jar"
             ],
-            "fileSize": 246535
+            "fileSize": 246525
         },
         {
             "path": "mods/indium-1.0.34+mc1.21.jar",
@@ -363,6 +363,21 @@
                 "https://cdn.modrinth.com/data/uLbm7CG6/versions/fpDBBXvT/language-reload-1.6.1%2B1.21.jar"
             ],
             "fileSize": 68960
+        },
+        {
+            "path": "mods/lithium-fabric-mc1.21.1-0.13.0.jar",
+            "hashes": {
+                "sha1": "25ab173627db3ed587380ddf635844d7a97ec6c4",
+                "sha512": "d4bd9a9cc37daad8828aa4fa9ca20e4f89d10e30cf6daf4546ef4cf4a684ba21ea0865a9c23cef9d1f4348e9ba4aca9aaca3db9f99534fc610fa78a5ca0bf151"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar"
+            ],
+            "fileSize": 752726
         },
         {
             "path": "mods/mixintrace-1.1.1+1.17.jar",
@@ -500,19 +515,19 @@
             "fileSize": 70892
         },
         {
-            "path": "mods/polytone-1.21-2.3.1-fabric.jar",
+            "path": "mods/polytone-1.21-2.3.7-fabric.jar",
             "hashes": {
-                "sha1": "cea745596fd31f1b5ac6e6cefae0058f4702124c",
-                "sha512": "fa2d06eba1629e8c4f9f6130ab147c2824f0be7d1147d345a33663a88d212df31b9bf5349f8fcdfe42300a937f441edc5656f0eae53d0c1a5c3b14d1d21efbea"
+                "sha1": "37b4ee36e90d061ace7b8af124fcbb749e0d06de",
+                "sha512": "f8f020e708c78eab58212a3f4772e70e3a5d5f2745987799c75a7a14408617c928714aa09adf493f38f85715940f11ae884be433193ca5f3bd4dba31bd1f0b09"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/t9IQjMod/polytone-1.21-2.3.1-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/ht3QvwB7/polytone-1.21-2.3.7-fabric.jar"
             ],
-            "fileSize": 570183
+            "fileSize": 581943
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",
