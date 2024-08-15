@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-alpha.3 (2024-08-15)
+
+- Readded Continuity
+- Updated Indium, Polytone
+- Updated Anglish translation
+- Temporarily force-enabled: Debugify, EntityCulling, Fabrishot, Remove Reloading Screen
+- Temporarily incompatible: CIT Resewn, LambDynamicLights
+
 ### 6.1.0-alpha.2 (2024-08-14)
 
 - Readded Lithium

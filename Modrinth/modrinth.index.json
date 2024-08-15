@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-alpha.2",
+    "versionId": "6.1.0-alpha.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -63,6 +63,21 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/gY9NB5Rj/cloth-config-15.0.128-fabric.jar"
             ],
             "fileSize": 1144379
+        },
+        {
+            "path": "mods/continuity-3.0.0-beta.5+1.21.jar",
+            "hashes": {
+                "sha1": "16d31a39e85dc10cdff4e06198a1bb26b4b82427",
+                "sha512": "48302fffe163fa0264f5feb8e98882cc0ecb820e1fbf417d7e7e9e499f7097c1d4e9f9acb38fd5d9e0200f61fc677b0e864bc705d1b9d1e56fd29efbbce28f6a"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar"
+            ],
+            "fileSize": 1007136
         },
         {
             "path": "mods/Controlify-2.0.0-beta.14+1.21-fabric.jar",
@@ -320,19 +335,19 @@
             "fileSize": 246525
         },
         {
-            "path": "mods/indium-1.0.34+mc1.21.jar",
+            "path": "mods/indium-1.0.35+mc1.21.jar",
             "hashes": {
-                "sha1": "cf4641206fde618f194dc0a1064b1294e385d679",
-                "sha512": "e851adea39f2b2628aa02f77c23c9ce46eca94ed23799906fe6507947cd94f8ec9c567f8516cb5a55e4d917dd85cdbd3918120a8242af4f67bd33e5aca0b7703"
+                "sha1": "1bf4b5db91f4e6d7a4f94fe2e96525d22df1cacb",
+                "sha512": "5f5e8a6ce29e6faecf442fe1fad76a3dd3631d83daa30423ba5cdb2cacf7efd92c16f05b65c3270faa23e4a803f392db9af40a030b81ea898550eded74ea8706"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar"
+                "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar"
             ],
-            "fileSize": 104921
+            "fileSize": 105000
         },
         {
             "path": "mods/iris-1.7.3+mc1.21.jar",
@@ -515,19 +530,19 @@
             "fileSize": 70892
         },
         {
-            "path": "mods/polytone-1.21-2.3.7-fabric.jar",
+            "path": "mods/polytone-1.21-2.3.8-fabric.jar",
             "hashes": {
-                "sha1": "37b4ee36e90d061ace7b8af124fcbb749e0d06de",
-                "sha512": "f8f020e708c78eab58212a3f4772e70e3a5d5f2745987799c75a7a14408617c928714aa09adf493f38f85715940f11ae884be433193ca5f3bd4dba31bd1f0b09"
+                "sha1": "b0c4b0bae470768f888b0e69617d0f40884f956a",
+                "sha512": "f8543bafd0b1bd5072e91726fbafb687db7d48c7273168b2ff8940e2e81d40f9b05fd2ed13ac73f646c2d99843c0190be3d3ffaae094b0668ae9464de8b9161d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/ht3QvwB7/polytone-1.21-2.3.7-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/1u2zTh7G/polytone-1.21-2.3.8-fabric.jar"
             ],
-            "fileSize": 581943
+            "fileSize": 581986
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",
@@ -652,15 +667,15 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "ad66a1ce20124be9569b5a5820aec6794acda698",
-                "sha512": "04b9afaa62fccad87f8c8e17c1e7bef6bd17dd175237150452c0ca7df6a7dacc2d37d68398b4931c918c2b478495e890459562bde06d01d797ec6beff577f6cc"
+                "sha1": "2c53913ef184590306f87d7d74926e58cd120a45",
+                "sha512": "5f6c6a0333643f0c35311e5a178ce1c0bf299015243e6d58f06041f2334c0ce4faf279565b749893d9ca14683708d1914e4ac5ade572ed600176dd23edd9cded"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/uuFCWOo8/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/J0KYExHn/Chat%20Reporting%20Helper.zip"
             ],
             "fileSize": 59374
         },
