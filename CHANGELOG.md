@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.1 (2024-08-21)
+
+- Updated Entity Model Features, Entity Texture Features, Cloth Config, EntityCulling, ModernFix, Fabrishot
+- Updated and enforced Fabric Loader 0.16.2
+- Temporarily force-enabled: Debugify
+- Temporarily incompatible: CIT Resewn, LambDynamicLights
+
 ### 6.1.0-alpha.3 (2024-08-15)
 
 - Readded Continuity
