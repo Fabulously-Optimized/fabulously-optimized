@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.2 (2024-08-28)
+
+- Updated Entity Texture Features, Fabric API, Fabric Language Kotlin, Mod Menu, ModernFix, Polytone
+  - Skipped Sodium and related updates as they are currently in beta and can break with other mods
+  - Polytone updated to latest working version, newest version seems to break with other mods for now
+- Updated and enforced Fabric Loader 0.16.3
+- Temporarily force-enabled: Debugify
+- Temporarily incompatible: CIT Resewn, LambDynamicLights
+
 ### 6.1.0-beta.1 (2024-08-21)
 
 - Updated Entity Model Features, Entity Texture Features, Cloth Config, EntityCulling, ModernFix, Fabrishot
