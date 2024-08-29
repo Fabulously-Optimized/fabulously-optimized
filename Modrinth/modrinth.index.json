@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-beta.2",
+    "versionId": "6.1.0-beta.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -170,19 +170,19 @@
             "fileSize": 200698
         },
         {
-            "path": "mods/entity_model_features_fabric_1.21-2.2.jar",
+            "path": "mods/entity_model_features_fabric_1.21-2.2.2.jar",
             "hashes": {
-                "sha1": "9767db56cbdb085efccd3af13806b7fd004331cd",
-                "sha512": "3fc1531afe0565a23bdd8586f9d02451a4b5253cf88844135ee8eba2b03a561628025f703593d66dd2202b1751aec9c04a1772b9dd7b3232ac4bbda9dcf116e9"
+                "sha1": "462b6c09faaf2eeec901d23a0233205565e338d5",
+                "sha512": "54ade4b202c99672a4982342aec5337a3f9c2228e039230a634b9e0e70f700cdc547d55ff0a38cb68d9ca133c29f7d6e465f780412c1ebb2d3310412460bf7dc"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/CS5hOL3r/entity_model_features_fabric_1.21-2.2.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/hux9vLhA/entity_model_features_fabric_1.21-2.2.2.jar"
             ],
-            "fileSize": 422844
+            "fileSize": 423938
         },
         {
             "path": "mods/entity_texture_features_fabric_1.21-6.2.2.jar",
@@ -200,19 +200,19 @@
             "fileSize": 606369
         },
         {
-            "path": "mods/entityculling-fabric-1.6.7-mc1.21.jar",
+            "path": "mods/entityculling-fabric-1.7.0-mc1.21.jar",
             "hashes": {
-                "sha1": "a99034c625e63a9e1e5e2768893e57296d91c0e5",
-                "sha512": "aa958f6bbdc4c99e9d1ddcc951c56d105edca8ae9454eb7b14fb38586e475776da7adebbcaf34f59b2ea175b9efaa61efcbe748b7e7d84ffa79896c103630e79"
+                "sha1": "ef4acec15876eafba8ce1618d2c2a6b3de27e58f",
+                "sha512": "6a43e3309add2ba9944df9dee18812ca5f0f2fad9dd69333b55f7c9ac4f70f1f8b661bc2ce63214d5ba089f46bed6b76e58f1926e83a8e6ee474a272766232aa"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/uh3DtMnM/entityculling-fabric-1.6.7-mc1.21.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/kPbJu8eF/entityculling-fabric-1.7.0-mc1.21.jar"
             ],
-            "fileSize": 65568
+            "fileSize": 65591
         },
         {
             "path": "mods/fabric-api-0.103.0+1.21.1.jar",
@@ -320,19 +320,19 @@
             "fileSize": 73307
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.2.20+1.21.1.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.2.21+1.21.1.jar",
             "hashes": {
-                "sha1": "fd934e30da1d2547325591656aca816d8d3fc608",
-                "sha512": "c400315a809c35bdab4435831b3c7c1ccf6b654caa706d0412261bb262baccd337d9297927d669372211dacfd60164d0d343f9c78df92f08293343d69371e37a"
+                "sha1": "46c17639a7c0bfec1f9fb4aae53f9163994a3a4e",
+                "sha512": "dd72a69b5dd2f395879c430ef28a90779ea684a1e5791bac2f552789163ddd3aba21cd8d1bea1c5a14292261101642519de360cf6d723043b44b6a2f1243ae9a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/jMIMrEow/ImmediatelyFast-Fabric-1.2.20%2B1.21.1.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/ahszC7KU/ImmediatelyFast-Fabric-1.2.21%2B1.21.1.jar"
             ],
-            "fileSize": 246525
+            "fileSize": 247961
         },
         {
             "path": "mods/indium-1.0.35+mc1.21.jar",
@@ -530,19 +530,19 @@
             "fileSize": 70892
         },
         {
-            "path": "mods/polytone-1.21-2.3.12-fabric.jar",
+            "path": "mods/polytone-1.21-2.3.8-fabric.jar",
             "hashes": {
-                "sha1": "88daaa8efe826f9580b65d288664190619581287",
-                "sha512": "4f013d7391af7bc214d242ccbed14da54fbac066a9fd6998dd5c5f7ddfa2f87293fcb7f060547ec143567681006409e6c229014879a98e5764a95b07687b8792"
+                "sha1": "f12d17d422513e926e99e40b963e64598eec4474",
+                "sha512": "cb530328f525f0885ecb140110057b5492575df821bfe21d0f1b19b95aedf219851eedd53e283fb30564941c43bcae55c52c934c95d50b5e3270158b36653e9a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/ly9vWxqA/polytone-1.21-2.3.12-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/jnmgvsoH/polytone-1.21-2.3.8-fabric.jar"
             ],
-            "fileSize": 588110
+            "fileSize": 583760
         },
         {
             "path": "mods/puzzle-1.6.3+1.21.jar",
@@ -667,17 +667,17 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "2c53913ef184590306f87d7d74926e58cd120a45",
-                "sha512": "5f6c6a0333643f0c35311e5a178ce1c0bf299015243e6d58f06041f2334c0ce4faf279565b749893d9ca14683708d1914e4ac5ade572ed600176dd23edd9cded"
+                "sha1": "1c91a1a89ca6cc0131dc314acf60b7d0104ead17",
+                "sha512": "3265d1c3b64dcacb4b517171a9d7422f64367fc5c6c877745bb436365540614d50f344e2e8c4e5f51657195f8dd00e97ddcdbb18e9ecbde68a19b427c920faaa"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/J0KYExHn/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/zb6riaAq/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 59374
+            "fileSize": 61293
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
