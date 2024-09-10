@@ -12,7 +12,7 @@ Stable release is getting closer 👀
   - Skipped Sodium and other updates that depend on it, because Sodium is in beta and may break
 - Updated Chinese (Hong Kong) translations
 - Updated and enforced Fabric Loader 0.16.5
-- Enforced ETF config to ensure its config button doesn't reappear
+- Enforced ETF config to ensure its config button doesn't reappear when updating FO
 - Temporarily incompatible: LambDynamicLights
 
 ### 6.1.0-beta.4 (2024-09-04)
