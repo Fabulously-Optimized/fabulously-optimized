@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.4 (2024-09-04)
+
+- Updated Entity Model Features, Debugify
+  - Skipped Sodium and related updates as they are currently in beta and can break with other mods
+  - Skipped Polytone update, newest version seems to depend on Sodium update
+- Readded Main Menu Credits to Modrinth-based instances (oops!)
+- Updated and enforced Fabric Loader 0.16.4
+- Temporarily incompatible: CIT Resewn, LambDynamicLights
+
 ### 6.1.0-beta.3 (2024-08-29)
 
 Big thanks to our beta testers who help stabilize the modpack! ❤️

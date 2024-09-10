@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-beta.3",
+    "versionId": "6.1.0-beta.4",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -110,19 +110,19 @@
             "fileSize": 55827
         },
         {
-            "path": "mods/Debugify-1.21+1.0.jar",
+            "path": "mods/Debugify-1.21.1+1.0.jar",
             "hashes": {
-                "sha1": "a799b0dbb320bc314b9d81cc7fd43c4fc895c3f8",
-                "sha512": "6fa9c2eec2382f0d188356702c69cd1ed86a152a033c963a318658353686c2d873c6c34c3e748879258c407310f4a1822aa4d23efdedfc2d4d8b31be40f4aa91"
+                "sha1": "6fb7d4ec9c2d2dc5b58577324b47671d3e28d7a4",
+                "sha512": "079e7bd774abf7e25a916b5d4bb8f08d0176a72881497be80bb48ca89a0c1317f9c347c46911c452ea5f71fe2514d7780b5b8e339a61b07c5c4fc7b5cecdb41d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/mOk69fib/Debugify-1.21%2B1.0.jar"
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
             ],
-            "fileSize": 292244
+            "fileSize": 292202
         },
         {
             "path": "mods/dynamic-fps-3.6.3+minecraft-1.21.0-fabric.jar",
@@ -170,19 +170,19 @@
             "fileSize": 200698
         },
         {
-            "path": "mods/entity_model_features_fabric_1.21-2.2.2.jar",
+            "path": "mods/entity_model_features_fabric_1.21-2.2.3.jar",
             "hashes": {
-                "sha1": "462b6c09faaf2eeec901d23a0233205565e338d5",
-                "sha512": "54ade4b202c99672a4982342aec5337a3f9c2228e039230a634b9e0e70f700cdc547d55ff0a38cb68d9ca133c29f7d6e465f780412c1ebb2d3310412460bf7dc"
+                "sha1": "ab7565da3f86d3a03c819d95f664d9ede7bc75b7",
+                "sha512": "c211de930d3be664b86094ef9776caffe77a006b7b27d4db18ff2e8c7fdb4a1882997de66b55667951e4371fbe92454f794a7a743f289af8f01077b0b3f311ec"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/hux9vLhA/entity_model_features_fabric_1.21-2.2.2.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/JmxJ7PRU/entity_model_features_fabric_1.21-2.2.3.jar"
             ],
-            "fileSize": 423938
+            "fileSize": 427144
         },
         {
             "path": "mods/entity_texture_features_fabric_1.21-6.2.2.jar",
@@ -393,6 +393,22 @@
                 "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar"
             ],
             "fileSize": 752726
+        },
+        {
+            "path": "mods/main-menu-credits-1.2.0.jar",
+            "hashes": {
+                "sha1": "37ad23f76336eedbd940a1f99c5e49d969fdee67",
+                "sha512": "fb12dd676a080691c78a701721520de1469d53e702710b21ca8eead54d56936e6b3a39b1003e022090de40d650239d547c81031cb4b8a8ab619e56b98cd92c2c"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qJDfP7WN/versions/eUN0SbET/main-menu-credits-1.2.0.jar",
+                "https://github.com/isXander/main-menu-credits/releases/download/1.2.0/main-menu-credits-1.2.0.jar"
+            ],
+            "fileSize": 16640
         },
         {
             "path": "mods/mixintrace-1.1.1+1.17.jar",
@@ -711,7 +727,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.16.3",
+        "fabric-loader": "0.16.4",
         "minecraft": "1.21.1"
     }
 }
