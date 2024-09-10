@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.5 (2024-09-10)
+
+Stable release is getting closer 👀
+
+- Readded CIT Resewn
+- Updated Entity Model Features, Entity Texture Features, Fabric API, Paginated Advancements, Puzzle
+  - Skipped Sodium and other updates that depend on it, because Sodium is in beta and may break
+- Updated Chinese (Hong Kong) translations
+- Updated and enforced Fabric Loader 0.16.5
+- Enforced ETF config to ensure its config button doesn't reappear
+- Temporarily incompatible: LambDynamicLights
+
 ### 6.1.0-beta.4 (2024-09-04)
 
 - Updated Entity Model Features, Debugify

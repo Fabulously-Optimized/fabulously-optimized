@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-beta.4",
+    "versionId": "6.1.0-beta.5",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -48,6 +48,21 @@
                 "https://cdn.modrinth.com/data/89Wsn8GD/versions/6SzVPVR4/capes-1.5.4%2B1.21-fabric.jar"
             ],
             "fileSize": 77572
+        },
+        {
+            "path": "mods/citresewn-1.2.0+1.21.jar",
+            "hashes": {
+                "sha1": "f3cc9892d44423b517da1af0bb8ec86706f8473b",
+                "sha512": "39c4930f244213142076b33a517eeb45ed34ca2fe8dc6f0a5a9d41a4a6672d8c8cd6a78d934bf6045f577a0bdff31dcb678e103a296b56530b327f1e2d2598a3"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/otVJckYQ/versions/G6VEzcyZ/citresewn-1.2.0%2B1.21.jar"
+            ],
+            "fileSize": 396226
         },
         {
             "path": "mods/cloth-config-15.0.130-fabric.jar",
@@ -170,34 +185,34 @@
             "fileSize": 200698
         },
         {
-            "path": "mods/entity_model_features_fabric_1.21-2.2.3.jar",
+            "path": "mods/entity_model_features_fabric_1.21-2.2.4.jar",
             "hashes": {
-                "sha1": "ab7565da3f86d3a03c819d95f664d9ede7bc75b7",
-                "sha512": "c211de930d3be664b86094ef9776caffe77a006b7b27d4db18ff2e8c7fdb4a1882997de66b55667951e4371fbe92454f794a7a743f289af8f01077b0b3f311ec"
+                "sha1": "abebe4c3a738937da6c6d1b99da291d039f39a86",
+                "sha512": "301b819cc606be654b944249b442bb21e740b12779f178b1a229d8ed349368767324a8dbb761f8556d22781697b6c0a4515e6770547b374a5a77e46d1462bdea"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/4I1XuqiY/versions/JmxJ7PRU/entity_model_features_fabric_1.21-2.2.3.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/oDvkeij1/entity_model_features_fabric_1.21-2.2.4.jar"
             ],
-            "fileSize": 427144
+            "fileSize": 427413
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.21-6.2.2.jar",
+            "path": "mods/entity_texture_features_fabric_1.21-6.2.3.jar",
             "hashes": {
-                "sha1": "354844187b9210049c144be71609376e2e64dae6",
-                "sha512": "23a3f1d149043a0cef6a8dab96ff13886fb320cc42f13bda278ac7a4fc1744773613587a5dd9299671665886b95f3f906ffbcf32e841d39620991f269c59d513"
+                "sha1": "a6d349500cf71fca1de4b0881486fb89c0adb3af",
+                "sha512": "2369ff284d7ab2bd81c54a3dafd7364d98b4bfcb4ecd5c4f09b4ddad63664e67ef1c7431f8a0e44d4f2463d1d6735304c1e4681fbe055f8cc46b84a9835fe08f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/7SQiYQty/entity_texture_features_fabric_1.21-6.2.2.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/qdV5egjG/entity_texture_features_fabric_1.21-6.2.3.jar"
             ],
-            "fileSize": 606369
+            "fileSize": 625184
         },
         {
             "path": "mods/entityculling-fabric-1.7.0-mc1.21.jar",
@@ -215,19 +230,19 @@
             "fileSize": 65591
         },
         {
-            "path": "mods/fabric-api-0.103.0+1.21.1.jar",
+            "path": "mods/fabric-api-0.104.0+1.21.1.jar",
             "hashes": {
-                "sha1": "a7cce732abba7fafbec33f9dc6c99d3dda6fff9a",
-                "sha512": "085e985d3000afb0d0d799fdf83f7f084dd240e9852ccb4d94ad13fc3d3fad90b00b02dcc493e3c38a66ae4757389582eccf89238569bacae638b9ffd9885ebc"
+                "sha1": "013ddb81215c59899df00a7a98872c3aea53aca7",
+                "sha512": "0773f45d364b506b4e5b024aa8f1d498900fcf0a020d2025154e163e50a0eeee1b8296bf29c21df5ced42126ed46635e5ed094df25796ec552eb76399438e7e7"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/gQS3JbZO/fabric-api-0.103.0%2B1.21.1.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qKPgBeHl/fabric-api-0.104.0%2B1.21.1.jar"
             ],
-            "fileSize": 2295530
+            "fileSize": 2311459
         },
         {
             "path": "mods/fabric-language-kotlin-1.12.1+kotlin.2.0.20.jar",
@@ -531,19 +546,19 @@
             "fileSize": 601460
         },
         {
-            "path": "mods/paginatedadvancements-2.4.2.jar",
+            "path": "mods/paginatedadvancements-2.5.1.jar",
             "hashes": {
-                "sha1": "cc1dd34735e41a827fbcb7bba0c3d424b60a0d21",
-                "sha512": "5cdece7cc773f271150d92649c916dc4232aac169c84552a24abe3ab5e47399cdaac954ce051f165dcb0179e35675a7c64e98ac6427416da5fa0a1c2991b3b2c"
+                "sha1": "23a4570fb52d62135d705156079e52ddfe980b94",
+                "sha512": "7efc3a342478f021d96c39d6d5a416bde82426ba7a2d4f0a4d6cdc4178fd00287a629123e08e86f71115264386471b230bfdc1d5ad1a09530d32cde6e40176a9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/pJogNFap/versions/PICtfFjp/paginatedadvancements-2.4.2.jar"
+                "https://cdn.modrinth.com/data/pJogNFap/versions/fQnpir9a/paginatedadvancements-2.5.1.jar"
             ],
-            "fileSize": 70892
+            "fileSize": 71859
         },
         {
             "path": "mods/polytone-1.21-2.3.8-fabric.jar",
@@ -561,19 +576,19 @@
             "fileSize": 583760
         },
         {
-            "path": "mods/puzzle-1.6.3+1.21.jar",
+            "path": "mods/puzzle-fabric-2.0.0+1.21.jar",
             "hashes": {
-                "sha1": "7a0498824bbca3ae75f51fa582025e758f8b1f20",
-                "sha512": "41fc3ccf4c5631667797ef928b765d3c4bcbf3bf8d9e68594f299548001895d8bc0b101ee029937a8572573596fb48711dbe09538e6cc0258bd350b6d292e682"
+                "sha1": "1ac5b71d6c964d6a744f2786b97002c800710134",
+                "sha512": "9fa6713d81ee375b320fbb36c4efd0ef78276a9d465573e21abba0cce2003f5f94bd61c7a0c6640d33e04d1269fa67958789f59b3592b80235f723c0f7245213"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3IuO68q1/versions/2pBwdDy2/puzzle-1.6.3%2B1.21.jar"
+                "https://cdn.modrinth.com/data/3IuO68q1/versions/eeYIIdGh/puzzle-fabric-2.0.0%2B1.21.jar"
             ],
-            "fileSize": 142150
+            "fileSize": 133304
         },
         {
             "path": "mods/reeses_sodium_options-1.7.3+mc1.21.jar",
@@ -713,21 +728,21 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "db7e74c35a2e47c15c1361c3357eee094b237d51",
-                "sha512": "2eaddb7c2abb48ea12831b38602886252890b58dce2756f435177ae22069d611f72850dd6913dfdb618384cd033b25f4b60bda687306d744b1f0854eb0209cc5"
+                "sha1": "8a0623b5fd58e20f778a223ef2862a91b341ba77",
+                "sha512": "913eb5ac223d877ccb84b74d2994e05ad8b8a98d46241eb3ef27f0a2ef83574e3f4e7342705c0fcc23a5aa229defd14dc504a6085738e524fa0cc53397179ed5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/5WJ7o2H0/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/MlhjI9qi/SodiumTranslations.zip"
             ],
-            "fileSize": 203137
+            "fileSize": 203840
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.16.4",
+        "fabric-loader": "0.16.5",
         "minecraft": "1.21.1"
     }
 }
