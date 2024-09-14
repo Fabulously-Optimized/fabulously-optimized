@@ -70,7 +70,7 @@ FO includes some resource packs [for a better experience][url-rp], but they can 
 - [IMB11][url-credits-IMB11] for the fancy website
 - [Miroma][url-credits-Miroma] for the current version of this readme
 - Other people creating pull requests for [the main project][url-github-main-graph], [wiki][url-github-wiki-graph] and [other organization projects][url-github-org]
-- [People who have created videos about the modpack][url-reviews]
+- People who have created videos about the modpack
 - Everyone who has suggested ideas and reported bugs!
 
 Special thanks to:
@@ -140,7 +140,6 @@ Special thanks to:
 [url-modrinth]: <https://download.fo/modrinth>
 [url-options]: <https://wiki.download.fo/readme/changed-options>
 [url-rate]: <https://download.fo/rate>
-[url-reviews]: <https://github.com/Fabulously-Optimized/fabulously-optimized#reviews>
 [url-rp]: <https://wiki.download.fo/readme/changed-options#resource-packs>
 [url-rp-crh-cf]: <https://curseforge.com/minecraft/texture-packs/chat-reporting-helper>
 [url-rp-crh-modrinth]: <https://modrinth.com/resourcepack/chat-reporting-helper>

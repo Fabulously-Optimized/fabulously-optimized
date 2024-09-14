@@ -5,18 +5,18 @@ on:
 jobs:
   publish-to-curseforge:
     if: github.repository_owner == 'Fabulously-Optimized'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: github-actions
     steps:
        - name: Download pack files
-         uses: robinraju/release-downloader@v1.9
+         uses: robinraju/release-downloader@v1.11
          id: download-files
          with:
            fileName: "*.zip"
            latest: true
            tarBall: false
            zipBall: false
-           preRelease: false
+           preRelease: true
 
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.3
@@ -32,24 +32,50 @@ jobs:
     if: github.repository_owner == 'Fabulously-Optimized'
     runs-on: ubuntu-22.04
     environment: github-actions
+    permissions:
+      id-token: write
+      attestations: write
+      contents: write
     steps:
-       - name: Download pack files
-         uses: robinraju/release-downloader@v1.9
-         id: download-files
+       - name: Clone Repo
+         uses: actions/checkout@v4
+       - name: Download packwiz
+         uses: actions/download-artifact@v4
          with:
-           fileName: "*.mrpack"
-           latest: true
-           tarBall: false
-           zipBall: false
-           preRelease: false
-           
+           name: "Linux 64-bit x86"
+           github-token: ${{ secrets.GH_PAT }}
+           repository: packwiz/packwiz
+           run-id: 10602235974
+       - name: Export to packwiz
+         run: |
+           chmod +x ./packwiz
+           pushd Packwiz/${{ vars.MC_VERSION }}
+           ../../packwiz modrinth export -o ../../Fabulously.Optimized-${{ github.ref_name }}.mrpack
+           popd
+       - name: Attest mrpack
+         id: attest-mrpack
+         uses: actions/attest-build-provenance@v1
+         with:
+          subject-path: Fabulously.Optimized-${{ github.ref_name }}.mrpack
+       - name: Copy and zip attestation
+         run: |
+           cp ${{ steps.attest-mrpack.outputs.bundle-path }} cosign-bundle.json
+           zip cosign-bundle.zip cosign-bundle.json
        - name: Publish to Modrinth
          uses: Kir-Antipov/mc-publish@v3.3
          with:
-           name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+           name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
            modrinth-id: 1KVo5zza
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
-           files: '*.mrpack'
+           files: |
+             Fabulously.Optimized-${{ github.ref_name }}.mrpack
+             cosign-bundle.zip
            loaders: fabric
            game-versions: ${{ vars.MC_VERSION }}
+       - name: Upload to Github
+         uses: Shopify/upload-to-release@v2.0.0
+         with:
+           name: Fabulously.Optimized-${{ github.ref_name }}.mrpack
+           path: Fabulously.Optimized-${{ github.ref_name }}.mrpack
+           repo-token: ${{ secrets.GITHUB_TOKEN }}
