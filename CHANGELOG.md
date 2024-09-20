@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.6 (2024-09-20)
+
+- Updated Entity Model Features, Entity Texture Features, CIT Resewn, Cloth Config, Dynamic FPS, Fabric Language Kotlin, Lithium
+  - Skipped Sodium and other updates that depend on it, because Sodium is in beta and may break
+- Updated Anglish
+- Temporarily incompatible: LambDynamicLights
+
 ### 6.1.0-beta.5 (2024-09-10)
 
 Stable release is getting closer 👀
