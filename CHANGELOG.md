@@ -173,6 +173,14 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.12.0-beta.11 (2024-09-20)
+
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, Controlify, Cubes Without Borders, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Reese's Sodium Options
+- Updated translations
+- Updated and enforced Fabric Loader 0.16.5
+- Enforced ETF config to ensure its config button doesn't reappear when updating FO
+- Temporarily removed: CIT Resewn, LambDynamicLights
+
 ### 5.12.0-beta.10 (2024-07-08)
 
 - Updated Entity Model Features, Entity Texture Features, Cubes Without Borders, Indium
