@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.7 (2024-09-20)
+
+Temporarily downgraded CIT Resewn again because CurseForge is confused
+
 ### 6.1.0-beta.6 (2024-09-20)
 
 - Updated Entity Model Features, Entity Texture Features, CIT Resewn, Cloth Config, Dynamic FPS, Fabric Language Kotlin, Lithium

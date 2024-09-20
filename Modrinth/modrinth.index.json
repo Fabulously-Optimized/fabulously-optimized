@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-beta.6",
+    "versionId": "6.1.0-beta.7",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -140,19 +140,19 @@
             "fileSize": 77572
         },
         {
-            "path": "mods/citresewn-1.2.1+1.21.jar",
+            "path": "mods/citresewn-1.2.0+1.21.jar",
             "hashes": {
-                "sha1": "cbdf3fac2718a1cbb51cae9711ac3124d63d616b",
-                "sha512": "85b8ef516ddab350008f85119c5c1c9b713630b3847e1f237e55e4d9ecf754dab42b2ceb5df46cfb5980df442966a190f980e248a99be47f8e985baae3256a56"
+                "sha1": "f3cc9892d44423b517da1af0bb8ec86706f8473b",
+                "sha512": "39c4930f244213142076b33a517eeb45ed34ca2fe8dc6f0a5a9d41a4a6672d8c8cd6a78d934bf6045f577a0bdff31dcb678e103a296b56530b327f1e2d2598a3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/otVJckYQ/versions/FnarCxUt/citresewn-1.2.1%2B1.21.jar"
+                "https://cdn.modrinth.com/data/otVJckYQ/versions/G6VEzcyZ/citresewn-1.2.0%2B1.21.jar"
             ],
-            "fileSize": 396334
+            "fileSize": 396226
         },
         {
             "path": "mods/cloth-config-15.0.140-fabric.jar",
