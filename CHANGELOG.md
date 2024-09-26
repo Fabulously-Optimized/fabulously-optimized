@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.8 (2024-09-26)
+
+- Updated CIT Resewn, Dynamic FPS, e4mc, Fabric API, OptiGUI, Puzzle, Remove Reloading Screen
+  - Skipped Sodium and other updates that depend on it, because Sodium is in beta and may break
+- Temporarily incompatible: LambDynamicLights
+
 ### 6.1.0-beta.7 (2024-09-20)
 
 Temporarily downgraded CIT Resewn again because CurseForge is confused
