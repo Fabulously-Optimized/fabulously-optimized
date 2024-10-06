@@ -9,7 +9,7 @@ jobs:
     environment: github-actions
     steps:
        - name: Download pack files
-         uses: robinraju/release-downloader@v1.10
+         uses: robinraju/release-downloader@v1.11
          id: download-files
          with:
            fileName: "*.zip"
@@ -45,7 +45,7 @@ jobs:
            name: "Linux 64-bit x86"
            github-token: ${{ secrets.GH_PAT }}
            repository: packwiz/packwiz
-           run-id: 9259662367
+           run-id: 10602235974
        - name: Export to packwiz
          run: |
            chmod +x ./packwiz
