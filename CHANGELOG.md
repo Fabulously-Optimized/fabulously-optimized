@@ -15,7 +15,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 **Changes from 6.1.0-beta.8 to 6.1.0**: 
 
-- Added Portuguese (European) translation
+- Added Portuguese (Portugal) translation
 - Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
 - Disabled Labymod capes because they started appearing for players that don't own them
 
@@ -222,7 +222,7 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 **Changes from 5.12.0-beta.11 to 5.12.0:**
 
 - Updated Dynamic FPS, e4mc, OptiGUI
-- Added Portuguese (European) translation
+- Added Portuguese (Portugal) translation
 - Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
 - Disabled Labymod capes because they started appearing for players that don't own them
 
