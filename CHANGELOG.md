@@ -190,6 +190,26 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.12.0 (2024-10-08)
+
+**Biggest changes:**
+
+- Java 21 is now required. Update your launcher and [download Java here](<https://download.fo/java21>).
+- Removed LambDynamicLights - not yet updated for 1.20.6+ and alternatives are currently not suitable for inclusion in FO
+	- Planned to be readded when it updates in a future version of FO
+- Removed CIT Resewn - the author skipped updating it for 1.20.6
+- Enabled credits below right-side mod descriptions in Mod Menu
+- Removed error message that appeared when FO was partly installed
+- Unbound OptiGUI debug hotkey
+- Enforced Fabric Loader 0.16.5
+
+**Changes from 5.12.0-beta.11 to 5.12.0:**
+
+- Updated Dynamic FPS, e4mc, OptiGUI
+- Added Portuguese (European) translation
+- Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
+- Disabled Labymod capes because they started appearing for players that don't own them
+
 ### 5.12.0-beta.11 (2024-09-20)
 
 - Updated Entity Model Features, Entity Texture Features, Cloth Config API, Controlify, Cubes Without Borders, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Reese's Sodium Options
