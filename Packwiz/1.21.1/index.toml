@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/capes.json5"
+hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e9f7accbc4254e75182c18259964b1b5940bcf5c4ac721d6a9733727689c212a"
+hash = "e8b55ff808ea208dbcf60e7bef438f5bd6c11464070868a4e48694a3c1d48ad2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fa035c626b2fce1b9aeafacbfaf5c9c937e66f2aa2600bb96f74b52a134da90c"
+hash = "59c1cdf4a89f319ec499abf6ffbe91e8d59b52cc8037ab9fb984a4b934dc0734"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -25,10 +33,6 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "c88ac7aec7bc08f867f8a9f6c7bf9396871d03d12b0f4d7100e8ef1fddfac68e"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
@@ -43,10 +47,6 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
-
-[[files]]
-file = "config/yosbr/config/entity_texture_features.json"
-hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "ea3b63cf31c31efd9d5d7aff5d726ab39b52d5ee55ab61953e1a5f956717916a"
+hash = "15e566bd5bb28618e7f0a8e29756bb42fc042c2f8cf32920372d3a0f173cfca4"
 metafile = true
 
 [[files]]
@@ -338,9 +338,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "043d8f5622d457d189413de1b24ba684c8810a0f664d80fdfb7708b531f389ce"
+hash = "0a7de89109d82d5c365addfa1084f3f74f561a2a3b0923ef2704f4b2d9b10d86"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "c07528dddffc851cfc0fe5e06521699fd5ca87c9d3a3b826c4edb19738a3119e"
+hash = "505be6162e40e2dda34ce19fb26e6f6a094498f8605295f1b198994521653636"
 metafile = true

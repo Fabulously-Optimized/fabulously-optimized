@@ -3,6 +3,22 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0 (2024-10-08)
+
+**Biggest changes:**
+
+- Readded CIT Resewn - the mod is updated for 1.21.1
+- Sodium and other mod updates are skipped as Sodium's latest version is in beta
+   - Testing is planned in a future FO update
+- As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge. Follow installation instructions as usual.
+- Mods button now appears in full width on pause menu
+
+**Changes from 6.1.0-beta.8 to 6.1.0**: 
+
+- Added Portuguese (European) translation
+- Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
+- Disabled Labymod capes because they started appearing for players that don't own them
+
 ### 6.1.0-beta.8 (2024-09-26)
 
 - Updated CIT Resewn, Dynamic FPS, e4mc, Fabric API, OptiGUI, Puzzle, Remove Reloading Screen
@@ -189,6 +205,26 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
 ## 1.20.6
+
+### 5.12.0 (2024-10-08)
+
+**Biggest changes:**
+
+- Java 21 is now required. Update your launcher and [download Java here](<https://download.fo/java21>).
+- Removed LambDynamicLights - not yet updated for 1.20.6+ and alternatives are currently not suitable for inclusion in FO
+	- Planned to be readded when it updates in a future version of FO
+- Removed CIT Resewn - the author skipped updating it for 1.20.6
+- Enabled credits below right-side mod descriptions in Mod Menu
+- Removed error message that appeared when FO was partly installed
+- Unbound OptiGUI debug hotkey
+- Enforced Fabric Loader 0.16.5
+
+**Changes from 5.12.0-beta.11 to 5.12.0:**
+
+- Updated Dynamic FPS, e4mc, OptiGUI
+- Added Portuguese (European) translation
+- Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
+- Disabled Labymod capes because they started appearing for players that don't own them
 
 ### 5.12.0-beta.11 (2024-09-20)
 
