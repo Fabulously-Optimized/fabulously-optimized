@@ -3,6 +3,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0-beta.8 (2024-09-26)
+
+- Updated CIT Resewn, Dynamic FPS, e4mc, Fabric API, OptiGUI, Puzzle, Remove Reloading Screen
+  - Skipped Sodium and other updates that depend on it, because Sodium is in beta and may break
+- Temporarily incompatible: LambDynamicLights
+
+### 6.1.0-beta.7 (2024-09-20)
+
+Temporarily downgraded CIT Resewn again because CurseForge is confused
+
+### 6.1.0-beta.6 (2024-09-20)
+
+- Updated Entity Model Features, Entity Texture Features, CIT Resewn, Cloth Config, Dynamic FPS, Fabric Language Kotlin, Lithium
+  - Skipped Sodium and other updates that depend on it, because Sodium is in beta and may break
+- Updated Anglish
+- Temporarily incompatible: LambDynamicLights
+
 ### 6.1.0-beta.5 (2024-09-10)
 
 Stable release is getting closer 👀
@@ -172,6 +189,14 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
 ## 1.20.6
+
+### 5.12.0-beta.11 (2024-09-20)
+
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, Controlify, Cubes Without Borders, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Reese's Sodium Options
+- Updated translations
+- Updated and enforced Fabric Loader 0.16.5
+- Enforced ETF config to ensure its config button doesn't reappear when updating FO
+- Temporarily removed: CIT Resewn, LambDynamicLights
 
 ### 5.12.0-beta.10 (2024-07-08)
 
