@@ -3,6 +3,22 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.1
 
+### 6.1.0 (2024-10-08)
+
+**Biggest changes:**
+
+- Readded CIT Resewn - the mod is updated for 1.21.1
+- Sodium and other mod updates are skipped as Sodium's latest version is in beta
+   - Testing is planned in a future FO update
+- As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge. Follow installation instructions as usual.
+- Mods button now appears in full width on pause menu
+
+**Changes from 6.1.0-beta.8 to 6.1.0**: 
+
+- Added Portuguese (European) translation
+- Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
+- Disabled Labymod capes because they started appearing for players that don't own them
+
 ### 6.1.0-beta.8 (2024-09-26)
 
 - Updated CIT Resewn, Dynamic FPS, e4mc, Fabric API, OptiGUI, Puzzle, Remove Reloading Screen
