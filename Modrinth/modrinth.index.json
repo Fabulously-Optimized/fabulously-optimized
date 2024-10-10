@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0-beta.8",
+    "versionId": "6.1.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -682,17 +682,17 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "f6939c102a5411acd83cfa70d3f550bf7616944b",
-                "sha512": "c0dd79ca1826488513c0338591f6d8b18bc45543c7e3c943e4b3e1b964380916364eebfc868f32fd3dce668d4d1c288d579365beaf8ba408ae7052c268fd10e1"
+                "sha1": "719187472226f18926e215a078c1e97109ec2493",
+                "sha512": "d0ac19bef331eda07a30f60d53c85a72b5c4eda2066d90eeb29f8ee071efe4b694eb9d598aa09c3c6d608a11798cb518d3e742609fde56d2cd074b892f650b55"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/vFfERMZ8/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/1IyP82KW/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 63079
+            "fileSize": 63196
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
@@ -712,17 +712,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "ed9e2f2b9bda0dd5a7393660f59cc208d4398e7d",
-                "sha512": "4debe2869ec0eb2b14e9a6febd4719dfa774c108997e3fd3c2636ac2abdf16fa4f38fd5913c9f6835143fc4cd096c26558a3d57b64f573a0eb442284b490e3fb"
+                "sha1": "95055238f402d2945979262f7ff75b00a94e44e6",
+                "sha512": "b072237ce4cfb22e632d9a3af0a922f5e4148c48e3e9a91b7ad902a6738badd7234e98f2e72c3447177bf9b0815775da45e01923041f6169693fa99c6991d04e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/BtRqvj3X/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/TZ7Pon7A/SodiumTranslations.zip"
             ],
-            "fileSize": 206728
+            "fileSize": 210581
         }
     ],
     "dependencies": {

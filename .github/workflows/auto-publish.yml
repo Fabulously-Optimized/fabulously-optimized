@@ -16,7 +16,7 @@ jobs:
            latest: true
            tarBall: false
            zipBall: false
-           preRelease: true
+           preRelease: false
 
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.3
@@ -30,7 +30,7 @@ jobs:
            
   publish-to-modrinth:
     if: github.repository_owner == 'Fabulously-Optimized'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: github-actions
     permissions:
       id-token: write
