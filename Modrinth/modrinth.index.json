@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.1.0",
+    "versionId": "6.2.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -305,19 +305,19 @@
             "fileSize": 2324549
         },
         {
-            "path": "mods/fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar",
+            "path": "mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
             "hashes": {
-                "sha1": "6fa5bbd06ab731cbd522aa2591af69101d921672",
-                "sha512": "918f778ab07f4f33bf7095197d05d7b36da959368f4289cdf41a67e9bf920c96bedbc4ff69f1b2d0379e62385bba6e1e4e3be4fb625f93aa130a9be938cff0a2"
+                "sha1": "54cd3900a904b81bd24c4a35b6577a2ac197b51a",
+                "sha512": "a9278c0a32a4906989fff17431ad5cc13fbed95a99a15bb8e10ba427714e28eb4828f779affb4e80731d98ab14f23e4d759ea2090be05a10da908608139e67e7"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/o0V8mlNz/fabric-language-kotlin-1.12.2%2Bkotlin.2.0.20.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/B0fZidZi/fabric-language-kotlin-1.12.3%2Bkotlin.2.0.21.jar"
             ],
-            "fileSize": 7136729
+            "fileSize": 7137406
         },
         {
             "path": "mods/fabricskyboxes-0.7.4+mc1.21.jar",
@@ -423,6 +423,21 @@
                 "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar"
             ],
             "fileSize": 2707610
+        },
+        {
+            "path": "mods/lambdynamiclights-3.0.1+1.21.1.jar",
+            "hashes": {
+                "sha1": "2192332f4d72a8b31a1635f7ddfaa1bb27156a56",
+                "sha512": "fe234d02552ad46d9d020c2518ded064356b2215288abff66d3671f40110c270b84d91bca03d01f7dedf4dd6a93b853f2b1217bbbb36a7001a90c66c5b65f580"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/jMgX3AR4/lambdynamiclights-3.0.1%2B1.21.1.jar"
+            ],
+            "fileSize": 837199
         },
         {
             "path": "mods/language-reload-1.6.1+1.21.jar",
@@ -726,7 +741,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.16.5",
+        "fabric-loader": "0.16.7",
         "minecraft": "1.21.1"
     }
 }
