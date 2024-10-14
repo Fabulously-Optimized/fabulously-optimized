@@ -40,7 +40,8 @@ See this table for a comparison between the launchers:
 | [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
 | [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
 | [MultiMC (auto-update)][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Minecraft Launcher (vanilla)][url-app-vanilla] | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [Minecraft Launcher][url-app-vanilla] (installer) | [🔗&nbsp;Open][url-tutorial-vanilla] |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [Minecraft Launcher][url-app-vanilla] (manual setup) | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
 
 > [!NOTE]
 >
