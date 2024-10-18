@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/capes.json5"
-hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
-
-[[files]]
-file = "config/entity_texture_features.json"
-hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e8b55ff808ea208dbcf60e7bef438f5bd6c11464070868a4e48694a3c1d48ad2"
+hash = "d13af8d99c0268220d6f7fdd42643b41164ccdd3663e1722a215b8c489655dc2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "59c1cdf4a89f319ec499abf6ffbe91e8d59b52cc8037ab9fb984a4b934dc0734"
+hash = "fc297b1084f103a9f4f0a8f85a8c70820ae7782c5a394db03d095217c9b5f4d9"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -33,6 +25,10 @@ file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
@@ -47,6 +43,10 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2c12c941a04bbdcc4430bae31b8c24c616ed8a57d9184f5d741b7dc3db2e9c97"
+hash = "9827009bdb13feed1931d3034522e55c978e3e4cf1e92f971b299408a10297fb"
 metafile = true
 
 [[files]]
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e8fcfd0031b396bc2d41a29171750ccbbe8fd2cf0bbf56cff9781c030b6bff07"
+metafile = true
+
+[[files]]
+file = "mods/lambdynlights.pw.toml"
+hash = "1a427991e1380038da7cc3c800e20938001f817250062275828202af19e28a0f"
 metafile = true
 
 [[files]]
@@ -338,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "0a7de89109d82d5c365addfa1084f3f74f561a2a3b0923ef2704f4b2d9b10d86"
+hash = "6e75ca294297ae1f32099298a56c15cebee3697f4858de398c3f1690df50552e"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
