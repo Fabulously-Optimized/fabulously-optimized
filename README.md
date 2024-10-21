@@ -68,7 +68,9 @@ FO includes some resource packs [for a better experience][url-rp], but they can 
 - [TheMadHau5][url-credits-TheMadHau5], [redbrain][url-credits-redbrain], [Kichura][url-credits-Kichura] for the [fancy mod table][file-mods]
 - [RaptaG][url-credits-RaptaG] and [Ultrasonic1209][url-credits-Ultrasonic1209] for the [Packwiz mod ignoring tutorials][url-tutorial-mmcu-ignoremods]
 - [IMB11][url-credits-IMB11] for the fancy website
+- [vgskye][url-credits-vgskye] for the fancy installer (and [osfanbuff63][url-credits-osfanbuff63] for the installer that didn't get released)
 - [Miroma][url-credits-Miroma] for the current version of this readme
+- All our [fabulous translators][url-credits-translators]
 - Other people creating pull requests for [the main project][url-github-main-graph], [wiki][url-github-wiki-graph] and [other organization projects][url-github-org]
 - People who have created videos about the modpack
 - Everyone who has suggested ideas and reported bugs!
@@ -122,7 +124,10 @@ Special thanks to:
 [url-credits-LambdAurora-LambDynamicLights]: <https://curseforge.com/minecraft/mc-mods/lambdynamiclights>
 [url-credits-RaptaG]: <https://github.com/RaptaG>
 [url-credits-IMB11]: <https://github.com/IMB11>
+[url-credits-vgskye]: <https://github.com/vgskye>
+[url-credits-osfanbuff63]: <https://github.com/osfanbuff63>
 [url-credits-Miroma]: <https://github.com/its-miroma>
+[url-credits-translators]: <https://crowdin.com/project/fabulously-optimized/>
 [url-credits-redbrain]: <https://github.com/redbrain>
 [url-credits-RozeFound]: <https://github.com/RozeFound>
 [url-credits-TheMadHau5]: <https://github.com/themadhau5>
