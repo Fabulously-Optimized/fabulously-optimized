@@ -14,7 +14,7 @@ Get your _bundle_ of mods in this update!
 
 ### 6.3.0-alpha.1 (2024-10-23)
 
-⚠️ **Warning: Realms servers cannot be joined with resource packs and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, see the FO version above.**
+⚠️ Warning: Realms servers cannot be joined with resource packs and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, see the FO version above.
 
 - Removed Indium - no longer necessary
 - Updated Capes, Cloth Config API, Dynamic FPS, Fabric API, Iris Shaders, LambDynamicLights, MoreCulling, Mod Menu, Remove Reloading Screen, Sodium, YetAnotherConfigLib
