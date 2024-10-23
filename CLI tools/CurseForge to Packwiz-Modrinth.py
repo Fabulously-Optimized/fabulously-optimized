@@ -11,7 +11,7 @@ import toml  # pip install toml
 
 user_path = os.path.expanduser("~")
 git_path = user_path + "\\Documents\\GitHub\\fabulously-optimized\\"
-minecraft_version = "1.21.2"
+minecraft_version = "1.21.3"
 packwiz_path = git_path + "Packwiz\\" + minecraft_version + "\\"
 packwiz_exe_path = os.path.join("..", "packwiz.exe")
 mods_path = packwiz_path + "mods"
@@ -20,7 +20,7 @@ packwiz_manifest = "pack.toml"
 cf_zip_path = ""
 pack_version = ""
 
-refresh_only = True
+refresh_only = False
 is_legacy = False
 hydrogen = False
 modrinth_overrides = True

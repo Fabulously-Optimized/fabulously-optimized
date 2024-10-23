@@ -1,6 +1,15 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.21.3
+
+### 6.4.0-alpha.1 (2024-10-23)
+
+Get your _bundle_ of mods in this update!
+
+- Updated Fabric API
+- Temporarily removed Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
+
 ## 1.21.2
 
 ### 6.3.0-alpha.1 (2024-10-23)
