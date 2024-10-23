@@ -1,6 +1,19 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.21.2
+
+### 6.3.0-alpha.1 (2024-10-23)
+
+⚠️ **Warning: Realms servers cannot be joined with resource packs and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, coming soon to FO.**
+
+- Removed Indium - no longer necessary
+- Updated Capes, Cloth Config API, Dynamic FPS, Fabric API, Iris Shaders, LambDynamicLights, MoreCulling, Mod Menu, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+  - Sodium is now on 0.6.0 beta, featuring improved performance, improved transparent blocks (e.g. looking at water through glass), better mod compatibility and built-in Indium functions.
+- Updated Malay (Jawi) translations
+- Temporarily disabled chat safety icon on NCR to avoid crash
+- Temporarily removed Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
+
 ## 1.21.1
 
 ### 6.2.0 (2024-10-11)
