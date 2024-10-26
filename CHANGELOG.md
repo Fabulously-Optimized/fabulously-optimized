@@ -25,6 +25,12 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.2.1 (2024-10-26)
+
+- Updated CIT Resewn, Controlify, Dynamic FPS, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Mod Menu, OptiGUI, YetAnotherConfigLib, Zoomify
+  - Sodium and related updates skipped, will be in FO 6.4.0
+- Updated Malay (Jawi) translations
+
 ### 6.2.0 (2024-10-11)
 
 - Readded LambDynamicLights
