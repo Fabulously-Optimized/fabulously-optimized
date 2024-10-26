@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "02aabb1fddee75933289be2727217f713c2200cff232b6eaf7aa5054cf208aa6"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f77cdd58d4f8d3f556bab6aaee5195064cf56b0579ab053abd43092acb4251aa"
+hash = "bf3ee716da5c622083f7b691eb23bc6cadf9c50de130e5eae6acc76d01f604f0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "014f4ccdb6eb046145fd08354fd527ac1a9aa967a6c99afca6b2d60110068f1e"
+hash = "8ffa003c79c7e2e46b80101595ad06884619117740bc4fada9ea7111d7fe67a2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -117,6 +121,16 @@ hash = "55074ae1c0026162bb0d8fc3f0b0caa00a1ddd715fa5abe4a03775fb64c80895"
 metafile = true
 
 [[files]]
+file = "mods/entity_model_features.pw.toml"
+hash = "95b0afb9f2771c17c93053c2c7cf960a7a74a5e035ca5f7cdab793f1b28e37a9"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features.pw.toml"
+hash = "d315a899a8aeebcf411edf83cf3304ee2a987c4820ef1514e4bc126d1cd67dc7"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "3e059cfcc465fb2d3291224a817cf5db51e5d1547c59ee07872a97072af58742"
 metafile = true
@@ -137,13 +151,18 @@ hash = "ad68291896e892edafe6d0ef625f0e909a01045bc1e25f5e34a0ceb072f42351"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "abc2820c5d64d2e12d343d838ee0f8e49b3433dcb2ff043dbcffd708a5a156fa"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "c2dc2b8dc42f998e0452dd5441ffd259c4bdbb382d4a9e785db9b7f45d62cf73"
 metafile = true
 
 [[files]]
 file = "mods/lambdynlights.pw.toml"
-hash = "811842f94464f2fea7c7eac36c8534771e05ba2765920dd52b3c4d6df63a48c7"
+hash = "91ff5ef83c903df8edf67b9f8e4355e9756ee2de6ee3a518c3b2edd914b6962c"
 metafile = true
 
 [[files]]
@@ -182,6 +201,11 @@ hash = "d834e6b79315c53ddfa4020900fc062c27aa123a4f335a183561e43c8b674eaa"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "6a2e5d088eb6ed10b59f11ae8ef665c15dae37397814639e99a47f5b7c2cb593"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "320fe1dcede2b044a88fdb8de37acb176e4f5f824730c5ebcca239b4b03abdf5"
 metafile = true
@@ -202,6 +226,11 @@ hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "74bf2ec0105b4e7d4f6b60332136c98b5fa620a994c13c592ea70874ecfe9626"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
 hash = "2e49a08cb9b08b2901d147dad509f2a3d17fdf8dae5ce566cbb5e8faeef770cd"
 metafile = true
@@ -217,5 +246,5 @@ hash = "690140a32e60a631f62b8954ab54ea3b91570aecc95fed0e4d69b9da43dcf8a7"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "b55842a9046fdea4304a26d0f39e261c9b92893a2ae81fc4ea3ee2e4fce1cf39"
+hash = "e1e1e1bc98f1904e951283cd99d3acd44c89c7798335d14a0a22692d30734e42"
 metafile = true
