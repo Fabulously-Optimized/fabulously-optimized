@@ -1,7 +1,60 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
 
+## 1.21.3
+
+### 6.4.0-alpha.3 (2024-10-29)
+
+Another batch of updated mods!
+
+- Readded Controlify, Cubes Without Borders, FerriteCore, Language Reload, Reese's Sodium Options, Sodium Extra
+  - You can now longer accidentally disable English language :)
+- Updated Fabric API, LambDynamicLights, MoreCulling, No Chat Reports, Sodium
+- Re-enabled chat safety icon on NCR
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, Lithium, ModernFix, Paginated Advancements, Polytone, Puzzle
+
+### 6.4.0-alpha.2 (2024-10-26)
+
+- Readded Entity Model Features, Entity Texture Features, ImmediatelyFast, OptiGUI, Zoomify
+- Updated LambDynamicLights
+- Temporarily force-disabled chat safety icon on NCR to avoid crash
+- Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Language Reload, Lithium, ModernFix, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra
+
+### 6.4.0-alpha.1 (2024-10-23)
+
+Get your _bundle_ of mods in this update!
+
+- Updated Fabric API
+- Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
+
+## 1.21.2
+
+### 6.3.0-alpha.1 (2024-10-23)
+
+⚠️ Warning: Realms servers cannot be joined and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, see the FO version above.
+
+- Removed Indium - no longer necessary
+- Updated Capes, Cloth Config API, Dynamic FPS, Fabric API, Iris Shaders, LambDynamicLights, MoreCulling, Mod Menu, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+  - Sodium is now on 0.6.0 beta, featuring improved performance, improved transparent blocks (e.g. looking at water through glass), better mod compatibility and built-in Indium functions.
+- Updated Malay (Jawi) translations
+- Temporarily disabled chat safety icon on NCR to avoid crash
+- Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
+
 ## 1.21.1
+
+### 6.2.1 (2024-10-26)
+
+- Updated CIT Resewn, Controlify, Dynamic FPS, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Mod Menu, OptiGUI, YetAnotherConfigLib, Zoomify
+  - Sodium and related updates skipped, will be in FO 6.4.0
+- Updated Malay (Jawi) translations
+
+### 6.2.0 (2024-10-11)
+
+- Readded LambDynamicLights
+- Updated Fabric Language Kotlin
+  - Sodium and related updates will be tested in a future FO update
+- Updated and enforced Fabric Loader 0.16.7
+- Updated English variants in Mod Menu Helper
 
 ### 6.1.0 (2024-10-08)
 

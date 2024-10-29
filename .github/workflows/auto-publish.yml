@@ -16,7 +16,7 @@ jobs:
            latest: true
            tarBall: false
            zipBall: false
-           preRelease: false
+           preRelease: true
 
        - name: Publish to CurseForge
          uses: Kir-Antipov/mc-publish@v3.3
