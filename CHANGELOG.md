@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.3 (2024-10-29)
+
+Another batch of updated mods!
+
+- Readded Controlify, Cubes Without Borders, FerriteCore, Language Reload, Reese's Sodium Options, Sodium Extra
+  - You can now longer accidentally disable English language :)
+- Updated Fabric API, LambDynamicLights, MoreCulling, No Chat Reports, Sodium
+- Re-enabled chat safety icon on NCR
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, Lithium, ModernFix, Paginated Advancements, Polytone, Puzzle
+
 ### 6.4.0-alpha.2 (2024-10-26)
 
 - Readded Entity Model Features, Entity Texture Features, ImmediatelyFast, OptiGUI, Zoomify
