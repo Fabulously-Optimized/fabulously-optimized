@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.4 (2024-11-02)
+
+- Readded Entity Culling, Polytone
+- Updated Controlify, Dynamic FPS, ImmediatelyFast
+- Updated and enforced Fabric Loader 0.16.9
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Lithium, ModernFix, Paginated Advancements, Puzzle
+
 ### 6.4.0-alpha.3 (2024-10-29)
 
 Another batch of updated mods!
