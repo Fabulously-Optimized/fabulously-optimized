@@ -49,6 +49,14 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.2.2 (2024-11-05)
+
+- Updated Entity Texture Features, Dynamic FPS, EntityCulling, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Language Reload, ModernFix, Polytone
+  - You can now longer accidentally disable English language :)
+  - Sodium beta and related updates skipped, see FO 6.4.0 instead
+  - Controlify and No Chat Reports updates skipped due to bugs
+- Updated Fabric Loader to 0.16.9
+
 ### 6.2.1 (2024-10-26)
 
 - Updated CIT Resewn, Controlify, Dynamic FPS, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Mod Menu, OptiGUI, YetAnotherConfigLib, Zoomify
