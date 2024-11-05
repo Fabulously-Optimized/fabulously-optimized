@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.5 (2024-11-02)
+
+- Updated Entity Texture Features, Iris Shaders
+- Temporarily removed Fabrishot as it was found incompatible
+- Temporarily removed No Chat Reports due to a bug in current and incompatibility in previous version
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, Lithium, ModernFix, No Chat Reports, Paginated Advancements, Puzzle
+
 ### 6.4.0-alpha.4 (2024-11-02)
 
 - Readded Entity Culling, Polytone
