@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b427877d6c161fb5bc42a4baeaeb37dd01dc9b74a33fec03d836a886eca329c1"
+hash = "7e8f9df39b7ab264d4d45ee7802c6a60a79391b31c0890670592402b3bbe2c5e"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "718272f30707a288613c3764259224e36b8e045eaaf71ca803caef24b716b0df"
+hash = "982caba9e154d8bbfb1e12c41284ab31ca34755943b3ad452348fac4ab990173"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "77c99c1be40eb668629d6e45a9ae7a283252001d2610e9afaa9b3e7010e0c309"
+hash = "e541861cba0c91f2a9bced7b3b10e9f6f1ade67c14b78ab27352eef45ac80d6d"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9110cff7a204964d9bb6be770b490b8a91f7c5e972eb47d672d4ef8eda241d34"
+hash = "3c5bacefcd2a660bc151c577915f9c6c659996a6851183034edc3cd205b50645"
 metafile = true
 
 [[files]]
@@ -179,6 +179,11 @@ metafile = true
 [[files]]
 file = "mods/languagereload.pw.toml"
 hash = "a7ce2be01c0f42271a78a042279636924b21c5653bbc5feb4cde25122af7eed0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c443311109b57f009d4669b0e3130cd6e725992c27cd5abb7d672ad7bf6beb07"
 metafile = true
 
 [[files]]
@@ -212,6 +217,11 @@ hash = "f794272a6cc383da1c63f91e069a9bea835add65338dcb671ea2476c0cf3e169"
 metafile = true
 
 [[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "251092ccff26ea98815e68d27f4bccac7378fb414cf4109c867435103d9dae52"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6a2e5d088eb6ed10b59f11ae8ef665c15dae37397814639e99a47f5b7c2cb593"
 metafile = true
@@ -222,13 +232,18 @@ hash = "cbf49d68d453ec727e72c17f294c3579a6649dbe82d400a87a7c2fb86e961fe2"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "88b8c95e046562029dd97b9c43621e8cb07ac899e5a24c60453e7d24549ad34a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8bbfcf367abbf0728933185086862e09b8a01e405932ab469ba70377730003ad"
 metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "320fe1dcede2b044a88fdb8de37acb176e4f5f824730c5ebcca239b4b03abdf5"
+hash = "fe3917e954776dd8b89b5aecbdc639ee0e15dea52a0067f3d9fe05429f6e821e"
 metafile = true
 
 [[files]]
@@ -272,5 +287,5 @@ hash = "690140a32e60a631f62b8954ab54ea3b91570aecc95fed0e4d69b9da43dcf8a7"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "1078d287ff4c4aeaf62098265557971b9d21f80cb5671f4887e3a1e0d86c6226"
+hash = "2c553d8e34f836dcab30ebf11b553a974a4f5f00844be23f4f3e5a3a9801825e"
 metafile = true

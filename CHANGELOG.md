@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.6 (2024-11-10)
+
+- Readded Lithium, No Chat Reports, Puzzle
+- Updated Fabric API, Iris Shaders, Remove Reloading Screen
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements
+
 ### 6.4.0-alpha.5 (2024-11-02)
 
 - Updated Entity Texture Features, Iris Shaders
