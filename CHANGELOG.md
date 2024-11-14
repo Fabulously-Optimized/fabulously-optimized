@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.7 (2024-11-14)
+
+- Added Forge Config API port - a dependency of Remove Reloading Screen
+- Updated Entity Model Features, Fabric API, ImmediatelyFast, MoreCulling, Remove Reloading Screen, Sodium
+  - Skipped Controlify update due to a crash
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements
+
 ### 6.4.0-alpha.6 (2024-11-10)
 
 - Readded Lithium, No Chat Reports, Puzzle
