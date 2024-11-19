@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "34862f311c2ff4e2e051ca538e2340719d6707d774f1b5ed2d2f6dcdef8f6d3d"
+hash = "41906d3cf9a74db0a2fe3b1fd42257be9c46b06fdac5c566db2a6d5caf19f207"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b4eae21544223d0d2d080613889e96ab68473a45bdaa53e8c862e6d15e1d5625"
-
-[[files]]
-file = "config/rrls.toml"
-hash = "6730855137e422d789225d2230efc722641a79660bd50074353d59f1f543bcbb"
+hash = "0357bec1c3f34165e6a48f70445acd8d6e8c3e3dde996818ef72641f73946679"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -90,7 +86,7 @@ hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "6730855137e422d789225d2230efc722641a79660bd50074353d59f1f543bcbb"
+hash = "6b222180584c27fde0fc5c7f94fd3c926f7251f624e676e8b90c0216fb886910"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -112,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "862d0911a2281d0793004959d3053e1e80221677bdc3524db11fe79f0f636115"
+hash = "fe4d660e758ef1d324ee234a065a6fc34fa3ea85647af652f34eec3cb016e16a"
 metafile = true
 
 [[files]]
@@ -147,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a63eaf281b40a1e4a6b5da214908aaeb58cdf18b2a6b6f0f85cd34583c1d343b"
+hash = "be82ef6575b26a66abd6009af3147e23a3923ca349c94759654db39cb24c2071"
 metafile = true
 
 [[files]]
@@ -167,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeconfigapiport.pw.toml"
-hash = "53c77613d1a0ec4b654b2847557510e7bb826f6a6ae0b8389c793d0f7f61e72d"
+hash = "a17e3e91ffd890bdfa4e5e2c7ccc0be72cd36a362cd1d8638b98bd3e3f7d33cd"
 metafile = true
 
 [[files]]
@@ -177,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3c5bacefcd2a660bc151c577915f9c6c659996a6851183034edc3cd205b50645"
+hash = "64158d00a97fd4e918eac1613742a9068744ae63c9aaaff252a84208538bf89f"
 metafile = true
 
 [[files]]
@@ -192,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c443311109b57f009d4669b0e3130cd6e725992c27cd5abb7d672ad7bf6beb07"
+hash = "aa59d94d058de4cb3c2583e1b49dfa8dff80c7f9a510458aeec9626140ecf5ab"
 metafile = true
 
 [[files]]
@@ -236,6 +232,11 @@ hash = "6a2e5d088eb6ed10b59f11ae8ef665c15dae37397814639e99a47f5b7c2cb593"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "914093ca6baeecff2a5aead97bf1242be4f08634d3d7bffdaf56e66807cc343c"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "cbf49d68d453ec727e72c17f294c3579a6649dbe82d400a87a7c2fb86e961fe2"
 metafile = true
@@ -247,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8bbfcf367abbf0728933185086862e09b8a01e405932ab469ba70377730003ad"
+hash = "abb995c686c570c1c5c7c3aceceae677fe294d9f2a732e218390367cf3c9d869"
 metafile = true
 
 [[files]]
@@ -257,12 +258,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "529a26c3e83c6957234a414cdfe24813619405b6835b4442a49453e379de267d"
+hash = "48252553d81fff6dda5a5321a54f4f7728dc10bc27ffb037086725b726863284"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ecf44e0bd6d927a5726477999fa89cbdf97cffffd47fe46980fd0634c6a48c96"
+hash = "854d08a515f87a3b860fee3390b99fcca90cf4f03fe278571c469bbe7d5cf840"
 metafile = true
 
 [[files]]
@@ -296,5 +297,5 @@ hash = "690140a32e60a631f62b8954ab54ea3b91570aecc95fed0e4d69b9da43dcf8a7"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "2c553d8e34f836dcab30ebf11b553a974a4f5f00844be23f4f3e5a3a9801825e"
+hash = "9c00865ff39b8fc1c19f31daa4b44580865b73a266d157218a1e8ae26dfe30ca"
 metafile = true

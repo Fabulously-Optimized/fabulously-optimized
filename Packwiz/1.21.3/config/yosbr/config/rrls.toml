@@ -1,23 +1,11 @@
 [global]
-	#Allowed Values: ALL, LOADING, RELOADING, NONE
 	hideOverlays = "RELOADING"
-	blockOverlay = false
-	miniRender = true
-	enableScissor = false
 
 [splash]
-	#Allowed Values: PROGRESS, TEXT, TEXT_WITH_BACKGROUND
-	type = "PROGRESS"
-	rgbProgress = false
-	reloadText = "Edit in config!"
 	animationSpeed = 500.0
 
 [other]
-	resetResources = true
-	reInitScreen = true
 	earlyPackStatusSend = false
-	#Allowed Values: FORCE_LOAD, LOAD, NONE
-	doubleLoad = "FORCE_LOAD"
 
 [platform]
 	skipForgeOverlay = false

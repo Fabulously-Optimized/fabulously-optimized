@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.8 (2024-11-19)
+
+- Readded Paginated Advancements
+- Updated Controlify, Fabric API, Forge Config API Port, Iris Shaders, Lithium, Reese's Sodium Options, Sodium, Sodium Extra
+- Minified Remove Reloading Screen config a bit
+- Removed a confusing log message
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix
+
 ### 6.4.0-alpha.7 (2024-11-14)
 
 - Added Forge Config API port - a dependency of Remove Reloading Screen
