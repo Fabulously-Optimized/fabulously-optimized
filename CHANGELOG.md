@@ -77,6 +77,13 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.2.3 (2024-11-20)
+
+- Updated Entity Texture Features, Controlify, Fabric API, ImmediatelyFast, Lithium, No Chat Reports, Polytone
+  - Sodium 0.6 and related updates skipped, to be in FO 6.4.0 or other future update
+  - Controlify fixed offset chat tooltips
+- Removed a confusing mod recommendation in logs
+
 ### 6.2.2 (2024-11-05)
 
 - Updated Entity Texture Features, Dynamic FPS, EntityCulling, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Language Reload, ModernFix, Polytone
