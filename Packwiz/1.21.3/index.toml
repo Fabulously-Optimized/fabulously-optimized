@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "41906d3cf9a74db0a2fe3b1fd42257be9c46b06fdac5c566db2a6d5caf19f207"
+hash = "34e21c41e14123e65eec71b7578b121f711b32293393e7c80f03526de0b8e293"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0357bec1c3f34165e6a48f70445acd8d6e8c3e3dde996818ef72641f73946679"
+hash = "3baf1c4afb5864fba9f4d2a92af4157379bf305c4b3fafdfabd6fd9c780fec07"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -117,6 +117,11 @@ hash = "1c6797fe2ad866cce4b874038bf74172a2f5872009fc47e8a797c3713d2a7b7d"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "353bb124456454f3064a35dc0399d829debee1ce92e2fb71ba84ad91b2928ffc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "3cbf5a16257f07da42a5ddeb1504b026866ad31fc5ebae10be3e062204db2e7c"
 metafile = true
@@ -133,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "00e5a2472ec4529ebc04b925c97c10b794391a8aa76ed63d8c68f8f613b61a54"
+hash = "d58005b8b530317754314ab84228012db970203e9baab91996aa1b140d1fbf0e"
 metafile = true
 
 [[files]]

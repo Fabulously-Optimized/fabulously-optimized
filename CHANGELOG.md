@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.9 (2024-11-20)
+
+- Readded Debugify
+- Updated Entity Texture Features
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix
+
 ### 6.4.0-alpha.8 (2024-11-19)
 
 - Readded Paginated Advancements
