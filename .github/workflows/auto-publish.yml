@@ -3,31 +3,6 @@ on:
   release:
     types: [published]
 jobs:
-  publish-to-curseforge:
-    if: github.repository_owner == 'Fabulously-Optimized'
-    runs-on: ubuntu-24.04
-    environment: github-actions
-    steps:
-       - name: Download pack files
-         uses: robinraju/release-downloader@v1.11
-         id: download-files
-         with:
-           fileName: "*.zip"
-           latest: true
-           tarBall: false
-           zipBall: false
-           preRelease: true
-
-       - name: Publish to CurseForge
-         uses: Kir-Antipov/mc-publish@v3.3
-         with:
-           name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
-           curseforge-id: 396246
-           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
-           curseforge-files: '*.zip'
-           loaders: fabric
-           game-versions: ${{ vars.MC_VERSION }}
-           
   publish-to-modrinth:
     if: github.repository_owner == 'Fabulously-Optimized'
     runs-on: ubuntu-24.04
