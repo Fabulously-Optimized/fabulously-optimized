@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.4.0-alpha.8",
+    "versionId": "6.4.0-alpha.9",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -18,6 +18,21 @@
                 "https://cdn.modrinth.com/data/DOUdJVEm/versions/UiYwi3Me/Controlify-2.0.0-beta.21%2B1.21.3-fabric.jar"
             ],
             "fileSize": 4142176
+        },
+        {
+            "path": "mods/Debugify-1.21.3+1.0.jar",
+            "hashes": {
+                "sha1": "77b00217c50234c6d14d85243738d08ae0ae8b6b",
+                "sha512": "d58ee6cd3522e93e3bf4969d1e888b9e74771435b7ff34f8b1ad0eb639d1e9747cb7884d18e27219960b7b5eaf8299b0df8eec7f7193889cb236ee44143678d4"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/WdrLmFvp/Debugify-1.21.3%2B1.0.jar"
+            ],
+            "fileSize": 303527
         },
         {
             "path": "mods/ForgeConfigAPIPort-v21.3.2-1.21.3-Fabric.jar",
@@ -185,19 +200,19 @@
             "fileSize": 423984
         },
         {
-            "path": "mods/entity_texture_features_fabric_1.21.3-6.2.7.jar",
+            "path": "mods/entity_texture_features_fabric_1.21.3-6.2.8.jar",
             "hashes": {
-                "sha1": "e2ed267197ff5d418f32ddba75fbca6b803365e7",
-                "sha512": "85137c50a035b45b75f66f34a6fe4f1ed783b9c70c9e738b6eff26a9085f6af66dd2b8c4de1bbe9a4f079e96248db935cfbb73235b56840cf1f3cbd04c34c907"
+                "sha1": "c4ce8fb3df43e219e7500d98def910d5b0066180",
+                "sha512": "c88322bf026a875c528989283ed80fdd6eb3e8a2ceced85a05a1375f7a1e0a7aebbf594c7a4c3b8d3f187036281611f0af02eb3766d87e0435cd3a291edb07ea"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/223aQlbK/entity_texture_features_fabric_1.21.3-6.2.7.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/LEywH685/entity_texture_features_fabric_1.21.3-6.2.8.jar"
             ],
-            "fileSize": 644073
+            "fileSize": 645798
         },
         {
             "path": "mods/entityculling-fabric-1.7.1-mc1.21.3.jar",
