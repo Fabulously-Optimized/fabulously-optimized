@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.4.0-alpha.9",
+    "versionId": "6.4.0-alpha.10",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -230,19 +230,19 @@
             "fileSize": 67405
         },
         {
-            "path": "mods/fabric-api-0.109.0+1.21.3.jar",
+            "path": "mods/fabric-api-0.110.0+1.21.3.jar",
             "hashes": {
-                "sha1": "5f6915e9f292809b1170546a8845e4062c1713ff",
-                "sha512": "decfcbcc4cc9748b9822a5e0b34dada9e1454bbf7c0eb1d4e014db243e8eebaa240a05a48c1bcde232ddecf150692fe295f9bb147794c861e42d2cad66119657"
+                "sha1": "627f424ee9c7ef15ce83b744673511ca74dc6982",
+                "sha512": "97d329c4e5ca54656c891f24c1bbbe1cf51a8a586d81586692d7135dd7135f62a17aa42e5825715fe41c79c3097538139f1a7f21ab6be2797d2a816114a5e298"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Xhw2LuSh/fabric-api-0.109.0%2B1.21.3.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/bQzqZbjS/fabric-api-0.110.0%2B1.21.3.jar"
             ],
-            "fileSize": 2344945
+            "fileSize": 2346038
         },
         {
             "path": "mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar",
@@ -305,19 +305,19 @@
             "fileSize": 2660855
         },
         {
-            "path": "mods/lambdynamiclights-3.2.2+1.21.3.jar",
+            "path": "mods/lambdynamiclights-3.2.4+1.21.3.jar",
             "hashes": {
-                "sha1": "bf22a0efd39621b7354d2f5eb2bacc77da03409a",
-                "sha512": "6aebe299b59d126c954688796ed22d77617e0971056f9e281e5218ba109bc7f0e372f4762420bc92d16e4cad0cf351f9d39d13c0822ce20f1f9e87eac4f0e93c"
+                "sha1": "0b8e91d7ceaaf21a309338efff3f43fc059e583c",
+                "sha512": "fc0ea80ccdd75bf8ae099129992ef225afbbd5ae6406366ec1c6bf77bde659851314daf81cc2fe8ca7217bd1e6aea5d6698570ffb97e7da9e05a01447c2b30fc"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yBW8D80W/versions/EUvC0Bde/lambdynamiclights-3.2.2%2B1.21.3.jar"
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/7kUVMXJG/lambdynamiclights-3.2.4%2B1.21.3.jar"
             ],
-            "fileSize": 844327
+            "fileSize": 849827
         },
         {
             "path": "mods/language-reload-1.7.1+1.21.3.jar",
@@ -410,19 +410,19 @@
             "fileSize": 3573
         },
         {
-            "path": "mods/moreculling-fabric-1.21.3-1.1.0-beta.3.jar",
+            "path": "mods/moreculling-fabric-1.21.3-1.1.0.jar",
             "hashes": {
-                "sha1": "e80ff0b88bec1b37ffb4054173cc3bdf8f110be4",
-                "sha512": "2181523bd22c17659e5dae25f9eca0c0804833faab60e6d13a20edc2f907a708f33636963d598cb2ebe21f85582d25f06e2208d78010bdedc577253122c4a841"
+                "sha1": "7a765571bb0aefb470cc15d3325d28d3b489c57e",
+                "sha512": "6aee3a620e6c8399e587a9e8bf69f740c4c66d291ddad98412280e8a490a8defb11204af8c9b47de056028436aff83d4b571b4938057cc1e0b4ac1073f8c8471"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/yPwaJRxo/moreculling-fabric-1.21.3-1.1.0-beta.3.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/YnqEEVHM/moreculling-fabric-1.21.3-1.1.0.jar"
             ],
-            "fileSize": 328661
+            "fileSize": 328652
         },
         {
             "path": "mods/optigui-2.3.0-beta.6+1.21.2.jar",
@@ -455,19 +455,19 @@
             "fileSize": 79249
         },
         {
-            "path": "mods/polytone-1.21.3-2.5.5-fabric.jar",
+            "path": "mods/polytone-1.21.3-2.5.7-fabric.jar",
             "hashes": {
-                "sha1": "93d69cb712e6a59e9492a8604c51064f0f0afb18",
-                "sha512": "94a8b730abb07e93db6afed12b9a359529493e1b0443a54e6d9f8ef2adaaddbc58db6fef44bdc05829f4754bef12b4db4027354416b59de03666988ee7fc698f"
+                "sha1": "028213a6dc643fcef288edc5dc8efc7e654f7c13",
+                "sha512": "6152650683891154e0534e535f4f086cd6bc7eaf80a6c01209d7f9922eed24a91fd227174c20e4b4a4ccaac73665e45c67d98bcc47fbf438b32dde3c0454a97c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/3C4kwsMC/polytone-1.21.3-2.5.5-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/sUxXuB1i/polytone-1.21.3-2.5.7-fabric.jar"
             ],
-            "fileSize": 660420
+            "fileSize": 670426
         },
         {
             "path": "mods/puzzle-fabric-2.0.3+1.21.3.jar",
@@ -562,47 +562,47 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "e60cb75c6486531a40a6a38df42e991530fc4847",
-                "sha512": "1893e38551e505fe42687a8ceff1b2fc2645d256fd66eeae6b4c0e4f06d140e6e7afef04a76ddd57815568545e8c5c61b9e370742fbf4070ac69a6ffac47cb9b"
+                "sha1": "47bc0e5ca9c0fc602fc846991e8f3826ac501154",
+                "sha512": "3bb55f9a7bb6fcbbd35afea5f249a70cb21b3c55a334b5eedecdcfb370e689f28c789b1554493be5a5b7e2adfa7e3f67aea5811cd547f3bdcd840480c1faf071"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/seMlJ1KY/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/C4lQlOa1/Chat%20Reporting%20Helper.zip"
             ],
             "fileSize": 63195
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
             "hashes": {
-                "sha1": "188dc89e001c82138d53217dab0d3a5fa1f0df61",
-                "sha512": "a537f67f9418269ba5981068ebdb63b7bebc8f928ba246544df8c78cb42ad98ea1e448d48448e4d6ca2e772f924a3629136f9630482b6b7126af8eedc2bd06f6"
+                "sha1": "1a8b557464fc01328f1f6ee428c2669b905dfdce",
+                "sha512": "54547acb70b3b6fc0cd89744e3d8074d4fcca4d553ea63c9d06fd53105d6d4eddb55b0e8d934c9ce5b36bc100c746e7d75726aae3c687b602316347075648ccb"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/dspVZXKP/versions/cexf0WMO/Fast%20Better%20Grass.zip"
+                "https://cdn.modrinth.com/data/dspVZXKP/versions/NjQ6roD9/Fast%20Better%20Grass.zip"
             ],
-            "fileSize": 10930
+            "fileSize": 10917
         },
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "9f90123aea1d259739b671313df23cd03d61cf41",
-                "sha512": "bda989a5637ed7a38e5313cf1a04d45a9b999425787658b106070a8202703b02832ee25356391d282a10ed1b7ea185cda4154d7af76ebb99cd45b48e648949c5"
+                "sha1": "646e2a95a39afab3eccc4ea9a76bf9c51bf71aa3",
+                "sha512": "805adb12b33dfd2137f13ae84084030cc0110645e866622ca6bb4f73be48db83185a4266416c20e072d9b51e539f7c366a6479520d2da1e611c703eaf5852217"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/GLPr0Qn9/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/E5S7DPSP/SodiumTranslations.zip"
             ],
-            "fileSize": 216333
+            "fileSize": 216690
         }
     ],
     "dependencies": {
