@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e25fb90b69dd31b179eb13fc8b8535f99c336913f06ace119058da562b73451b"
+hash = "e4f7565b854035c491e2fee033700fabd4dced533bc613e0644f73f50dd5e96c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d80ff9bfbc83434d3578f1b82404598a320d9248464a4c2a39459ed410780a38"
+hash = "f08ea5ef924aa1e1baaccf72d67754d1e650c1399097908a919ef001aa35d616"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,11 +94,11 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6986941e2c2a2faa6509678f6b7ebf97300b2df2949274f907b91fc3c0a15ed1"
+hash = "5dc12278fec90bee46c70d61ab2a0502ea2f9cb70e5099f3740898840601e6d4"
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e24b8c6dbd6685a942d7f2bcd9f22e940e17ca1d6aaf92a19c7f864ad78531a1"
+hash = "ed2bc1f554879c214c0ada21c96ee02c8a1b64cdc2f32b8d571c3a860eec74b4"
 metafile = true
 
 [[files]]
@@ -107,18 +107,8 @@ hash = "2018c4227a317914f321ee5b1c97528983ee67253de40518d8bbe8a70c900733"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "fe4d660e758ef1d324ee234a065a6fc34fa3ea85647af652f34eec3cb016e16a"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1c6797fe2ad866cce4b874038bf74172a2f5872009fc47e8a797c3713d2a7b7d"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "353bb124456454f3064a35dc0399d829debee1ce92e2fb71ba84ad91b2928ffc"
 metafile = true
 
 [[files]]
@@ -133,22 +123,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "3194994e64f8bae8ab6cd2e0ffc710c342a042892629236e65af7e4b759d3607"
+hash = "27e10442cb7b038df5c6d5a19e6fc1740bad41eaabeb5ee08b1804a67297d305"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "d58005b8b530317754314ab84228012db970203e9baab91996aa1b140d1fbf0e"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "89a042795b430b89dcea7e6e2c79ec0238807debfda09b0e8e6fae89c4887170"
+hash = "e305f5f14175d01e7c855255dd03d171ac0e732adb5a235436dda10c356ec478"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4047029a945eb75401f62d67d81f42177e62f014ae2e13be194d2a4be3fc94b3"
+hash = "b27e8cb2140db044f50d573a5ec41432a282f424278cb1b01fa646a25e291c55"
 metafile = true
 
 [[files]]
@@ -162,43 +147,23 @@ hash = "a5f2f793b269bc4834d57c673accde2e2a116c5f364e536555f1d8bb8532a5c5"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "ad68291896e892edafe6d0ef625f0e909a01045bc1e25f5e34a0ceb072f42351"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "124e0bb4c10a6b07bbf4a571a55c42d4c11bac2e56aa6f52ed8a03c241f841d4"
-metafile = true
-
-[[files]]
-file = "mods/forgeconfigapiport.pw.toml"
-hash = "a17e3e91ffd890bdfa4e5e2c7ccc0be72cd36a362cd1d8638b98bd3e3f7d33cd"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f17887c3313d882117c29848e1315cdb57ccbbf6fa44abdbe952764d28ada32f"
+hash = "405c5265a1b635934163b26a46bd95dcdce7653360e85e547200c91a5b1b8744"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c5677f429fe42680b8270f7bec5ee51d114fb2020036567d72ab1eba3d60bdc4"
+hash = "c95013f35cb124a911053e3a4035ff975aee5e5a6d91002712f9f71a017d5949"
 metafile = true
 
 [[files]]
 file = "mods/lambdynlights.pw.toml"
-hash = "c8b35b17aec86b58fac4488da02550b3bcb659cdac14cfc43369675a8a604e82"
-metafile = true
-
-[[files]]
-file = "mods/languagereload.pw.toml"
-hash = "a7ce2be01c0f42271a78a042279636924b21c5653bbc5feb4cde25122af7eed0"
+hash = "55dae09df35d3256db8f35d25f9dada80e75b88556cf88ce76cbc9a3ded751e1"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0c0006a94cb7d88864d5e23141ccd925be979bbde0f87302d2fe1f8c8c2a9765"
+hash = "2917d17eef3ce35707a3eabc9eff2e1b33254dd77d316e55498d2e82a73aa4c9"
 metafile = true
 
 [[files]]
@@ -218,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "397788d2335b4f7a4d019b83cfbb0f636b0d022fc72291bbdbb3195963b6163e"
+hash = "9fd4ac9a884b81ba36c4906c294652b6fd64c1382de641c48a8dd756c8ffc3d1"
 metafile = true
 
 [[files]]
@@ -228,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "19234f3af8e93e788ce317aa175bfcab55e120597be4382bcb8cecd9c7075843"
+hash = "4b61a7fc797596664ad1a627678bac94541a446263ebb119cfa51189b63d758e"
 metafile = true
 
 [[files]]
@@ -242,38 +207,18 @@ hash = "6a2e5d088eb6ed10b59f11ae8ef665c15dae37397814639e99a47f5b7c2cb593"
 metafile = true
 
 [[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "914093ca6baeecff2a5aead97bf1242be4f08634d3d7bffdaf56e66807cc343c"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "acc504408b2deef9013032b0c216c43fcad7bf452c232f1722d06e582eb4c643"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "88b8c95e046562029dd97b9c43621e8cb07ac899e5a24c60453e7d24549ad34a"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "abb995c686c570c1c5c7c3aceceae677fe294d9f2a732e218390367cf3c9d869"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "66ff6362db5ce1778bd6d207d242843c9332d211caeeb219d5423f7f09ab6155"
+hash = "d34bc9f80fa6e36918d2af27cba73fba6966498d5160ec6fdf528f3c70c098d3"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "48252553d81fff6dda5a5321a54f4f7728dc10bc27ffb037086725b726863284"
+hash = "a13df679f0a76f5bee2aef84948537b610114aaf25258535b8664ef87c0a939b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3346b862482997185257df44582c69d7b4a286fa00da005d7db215ac7a328392"
+hash = "be7f7ef77efc5f1d9196059037a8effae89d0ea228f7b2b46bb4428a1bf529b9"
 metafile = true
 
 [[files]]
@@ -303,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "690140a32e60a631f62b8954ab54ea3b91570aecc95fed0e4d69b9da43dcf8a7"
+hash = "70f811f81ca3d748a54b2284cdac7a5447d9e3b5a9208c7094496df7644f9f62"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
