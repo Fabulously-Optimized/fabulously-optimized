@@ -44,7 +44,8 @@ jobs:
          with:
            name: "Linux 64-bit x86"
            github-token: ${{ secrets.GH_PAT }}
-           repository: packwiz/packwiz
+           repository: Madis0/packwiz
+           run-id: 12104671023
        - name: Export to packwiz
          run: |
            chmod +x ./packwiz

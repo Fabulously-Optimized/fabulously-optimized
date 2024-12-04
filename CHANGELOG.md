@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-alpha.11 (2024-12-04)
+
+- Readded Fabrishot
+- Updated Dynamic FPS, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Lithium, Mod Menu, Polytone, Sodium
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-alpha.10-mr.1 (2024-12-01)
+
+A GitHub/Modrinth reupload to fix an error with the official installer. Identical to 6.4.0-alpha.10.
+
 ### 6.4.0-alpha.10 (2024-11-30)
 
 - Updated Fabric API, LambDynamicLights, MoreCulling, Polytone
@@ -87,6 +97,10 @@ Get your _bundle_ of mods in this update!
 - Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
 
 ## 1.21.1
+
+### 6.2.3-mr.1 (2024-11-20)
+
+A GitHub-only version marking because 6.2.3 failed to upload to Modrinth due to my error. Identical to 6.2.3.
 
 ### 6.2.3 (2024-11-20)
 
