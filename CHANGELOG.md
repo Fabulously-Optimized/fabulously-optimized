@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-alpha.2 (2024-12-07)
+
+- Readded Entity Culling, Forge Config API Port, Puzzle
+- Updated Cloth Config API, Fabric API, No Chat Reports, Sodium, YetAnotherConfigLib
+- Increased default simulation distance from 6 to 8 for more reliable mob spawning, it is also Minecraft's default on low-end computers
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, FerriteCore, LanguageReload, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
 ### 6.5.0-alpha.1 (2024-12-04)
 
 - Updated Entity Model Features, Entity Texture Features, Capes, Fabric API, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, Mod Menu, MoreCulling, Reese's Sodium Options, Sodium, Sodium Extra
