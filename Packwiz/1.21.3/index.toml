@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e25fb90b69dd31b179eb13fc8b8535f99c336913f06ace119058da562b73451b"
+hash = "5a159d2376da7c91a0cee134dfcf315399be9fe3680b854c81ad4b284651d957"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d80ff9bfbc83434d3578f1b82404598a320d9248464a4c2a39459ed410780a38"
+hash = "828c2d0a86d7f43f9b14e30a755a11b8f395413582535afcdc5e9521bb4141cc"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6986941e2c2a2faa6509678f6b7ebf97300b2df2949274f907b91fc3c0a15ed1"
+hash = "da2e140d4f63d60a23d25ae798957e6f6e69c64b87a4462b4a824ae8db3a4868"
 
 [[files]]
 file = "mods/capes.pw.toml"
@@ -104,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2018c4227a317914f321ee5b1c97528983ee67253de40518d8bbe8a70c900733"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "cbcc62655f5304bd7e3be4f1b2842acade8d3f34882270a55c030566540502e4"
 metafile = true
 
 [[files]]
@@ -143,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "89a042795b430b89dcea7e6e2c79ec0238807debfda09b0e8e6fae89c4887170"
+hash = "5fbd41d88ff2048f0e5748fcc1c6bddf9fdf6fb1f2f46131158ac03e9972d681"
 metafile = true
 
 [[files]]
@@ -243,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "914093ca6baeecff2a5aead97bf1242be4f08634d3d7bffdaf56e66807cc343c"
+hash = "9ddda0f3280a5178c1b23ca2461f18a66bba089960874efb8da32e217d18ece5"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "acc504408b2deef9013032b0c216c43fcad7bf452c232f1722d06e582eb4c643"
+hash = "6dfd4708aa8d3512271324e8d995d91a6747bae8037c0eec7d78dfff2f7733fe"
 metafile = true
 
 [[files]]
@@ -273,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3346b862482997185257df44582c69d7b4a286fa00da005d7db215ac7a328392"
+hash = "c405a63469a4cbf3b20d87865538bc3131e03ab5a4602c0800c14392e85efb15"
 metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "cf377489414d92b7149a28385b517ed1f9e890d2175f6c7fecfb7cbe503fdead"
+hash = "63ae4252fe67b068416c302f8665e42535c5a0365a5f3387182a07408264e343"
 metafile = true
 
 [[files]]

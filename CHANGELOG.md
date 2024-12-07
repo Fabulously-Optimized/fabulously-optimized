@@ -10,6 +10,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-beta.1 (2024-12-07)
+
+- Readded Continuity
+- Updated Entity Culling, Paginated Advancements, Polytone, Sodium, YetAnotherConfigLib
+- Increased default simulation distance from 6 to 8 for more reliable mob spawning, it is also Minecraft's default on low-end computers
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
 ### 6.4.0-alpha.11 (2024-12-04)
 
 - Readded Fabrishot
