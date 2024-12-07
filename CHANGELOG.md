@@ -10,6 +10,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-beta.1-mr.1 (2024-12-07)
+
+A limited release to fix wrong Minecraft version on some platforms' instance.
+
 ### 6.4.0-beta.1 (2024-12-07)
 
 - Readded Continuity
