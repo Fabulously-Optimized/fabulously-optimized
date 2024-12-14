@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-alpha.3 (2024-12-14)
+
+- Readded Better Mount HUD, FerriteCore, Language Reload
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, Fabric API, Forge Config API Port, Iris Shaders, LambDynamicLights, Model Gap Fix, MoreCulling, OptiGUI
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
 ### 6.5.0-alpha.2 (2024-12-07)
 
 - Readded Entity Culling, Forge Config API Port, Puzzle
