@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "578dd5e135d866e59761c583c99d4a5cce934c3668695777da06255d071a7ed3"
+hash = "bd6fe4793c120a455c562768bdd6d753875f5dd6e0fafb27241cabbcb0004682"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "837e3783cf1ac50988d48dd4ea87262da6b79ac2e0f8d19f5b4d81b27e96c013"
+hash = "22ff48ac73d7ab7a259c0eb014c203a38ad0ed3e51039ff0bc61db40f23e47a6"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -112,8 +112,18 @@ hash = "159443320977ff331e83b7a6c09aec896efb27666864a71128540e0a8fee2a77"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "1f2b7115dbc44b2c19a4fe4bf4cd5b3095a35f95f2d6a6026f6c48378ba6c9d7"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1c6797fe2ad866cce4b874038bf74172a2f5872009fc47e8a797c3713d2a7b7d"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "a02a12b02749ee7e040755b792b6b1414948904700cf0234208c11d7056856f8"
 metafile = true
 
 [[files]]
@@ -128,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "4c9079a1d08c66358fc407a0ecca9d871eba2eeb9bfda72ad64b765b94e9e00f"
+hash = "6efc6d5edb5e2014f0413992fde9e05ba6ad1c4e08f668d3b57b9decf98fc677"
 metafile = true
 
 [[files]]
@@ -143,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bb7b926207b464a0fde19060dd04a0831b6ab1f473a3cedc9aafd2ff996c7cd8"
+hash = "4d1a124fafa2790dd669d0a34113728fadc3d8cd16b92db88d6a759170ff8938"
 metafile = true
 
 [[files]]
@@ -218,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "4846f7f31d86fb09babfbbfce4ac2a0e511ebfceab91391f350701b558566ae3"
+hash = "b4a2630c646e451cf53f66e4f96551e4b0475a42711b947eff8bfbafe5c0c966"
 metafile = true
 
 [[files]]
@@ -248,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "73e78e452a29928b55ea1cfdf8fba38f82b3d5275d6bed854ec520cbbe24e41e"
+hash = "73338ad0c25a1ea8d1b2d0c70881bac838083bdb5ef7a8e734ce2bb6762cf878"
 metafile = true
 
 [[files]]
@@ -278,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "70f811f81ca3d748a54b2284cdac7a5447d9e3b5a9208c7094496df7644f9f62"
+hash = "ddf5f4f840cebf9ce8c2dc84c56a662ffef020d6ac23fc56c81929ed751c422b"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"

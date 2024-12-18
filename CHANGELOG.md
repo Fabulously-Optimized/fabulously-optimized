@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-alpha.4 (2024-12-18)
+
+- Readded Controlify, Debugify
+- Updated Entity Model Features, Fabric API, MoreCulling, Sodium
+  - EMF fixed confusing toast upon changing resource packs
+- Updated Anglish translation
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
 ### 6.5.0-alpha.3 (2024-12-14)
 
 - Readded Better Mount HUD, FerriteCore, Language Reload
