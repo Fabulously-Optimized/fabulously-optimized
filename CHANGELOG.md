@@ -23,6 +23,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-beta.2 (2024-12-18)
+
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, Fabric API, Forge Config API Port, Language Reload, Model Gap Fix, OptiGUI, Polytone, Sodium
+- Updated Anglish translation
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
 ### 6.4.0-beta.1-mr.1 (2024-12-07)
 
 A limited release to fix wrong Minecraft version on some platforms' instance.
