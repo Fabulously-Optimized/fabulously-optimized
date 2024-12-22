@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bd6fe4793c120a455c562768bdd6d753875f5dd6e0fafb27241cabbcb0004682"
+hash = "20119b3fb97992a775f526ebe1dbed2ec79322e590854c82837adb8047722d82"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "22ff48ac73d7ab7a259c0eb014c203a38ad0ed3e51039ff0bc61db40f23e47a6"
+hash = "891304e6a1bb40fc15b1dc53e74c0e4fd354d7378542c60476f60064d02bc3ca"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4d1a124fafa2790dd669d0a34113728fadc3d8cd16b92db88d6a759170ff8938"
+hash = "4e07e49c567dc24d9fbea4a89021fbce6bb96e4ed4fc227676a12844483436a8"
 metafile = true
 
 [[files]]
@@ -242,6 +242,16 @@ hash = "de4f90c9f410c193d28bbfc66dff5ebcacf56a53acd3a507e4a7d2a47d2c9251"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "e9396d7068428886c41c6be66d00897deb2c9870deda2c165b5a519af9c323c5"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "6929417888353b302bf982432ba743d08376ea752537b25722edf0f91cd69c50"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "dbccc0c6dd173899a0be461d314ebaeb65b4668dbf057c7f4f1d533b0d26ddb4"
 metafile = true
@@ -292,5 +302,5 @@ hash = "ddf5f4f840cebf9ce8c2dc84c56a662ffef020d6ac23fc56c81929ed751c422b"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "32ef7d179a7eb248403f306aba313c6d50cd3745afaaa467e9005f9de3e7d74d"
+hash = "8c419d607e78ff810f0c5244183cc27acc8b22f86a65bf0a6a64815335529854"
 metafile = true

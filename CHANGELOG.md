@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-alpha.5 (2024-12-22)
+
+- Readded Paginated Advancements, Polytone
+- Updated Fabric API
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, ModernFix, Remove Reloading Screen
+
 ### 6.5.0-alpha.4 (2024-12-18)
 
 - Readded Controlify, Debugify
