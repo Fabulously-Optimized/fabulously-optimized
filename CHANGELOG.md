@@ -37,6 +37,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-beta.3 (2025-01-02)
+
+- Added Better Beds (alternative for Enhanced Block Entities)
+- Readded Better Mount HUD (oops)
+- Updated Fabric API
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
 ### 6.4.0-beta.2 (2024-12-18)
 
 - Updated Entity Model Features, Entity Texture Features, Cloth Config API, Fabric API, Forge Config API Port, Language Reload, Model Gap Fix, OptiGUI, Polytone, Sodium

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c6f7a709264f4b1b679b67fa449ec921533c99e09b0d3333a915c492c8c49db0"
+hash = "7d75987809cf796afdbfe226a0bf3954e2ed3aa5413809ac7623de2542f651c7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f7893decbf253aaaddf1ef106c1569283e0ca32b70d30600ef15f82024983c92"
+hash = "9a86239cbef810d10429f929481a65aacdc2bbd6da6afb43ab3018cbca7746b5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -97,6 +97,16 @@ file = "config/yosbr/options.txt"
 hash = "da2e140d4f63d60a23d25ae798957e6f6e69c64b87a4462b4a824ae8db3a4868"
 
 [[files]]
+file = "mods/betterbeds.pw.toml"
+hash = "6e549cb17369bd86870c4d33fd5e1ec400ddc52fbeed2b024348c8d5cf16ec55"
+metafile = true
+
+[[files]]
+file = "mods/bettermounthud.pw.toml"
+hash = "d22d241a1eee8176561f0c16bf8396e8ded7aa8fd808cf1205cbba3bb5db56a4"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "e24b8c6dbd6685a942d7f2bcd9f22e940e17ca1d6aaf92a19c7f864ad78531a1"
 metafile = true
@@ -153,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1c0455ebc73b252ac2e5946faefc23d2a961e3f994fb590f703cd5db983699f8"
+hash = "cf32cadc61070e9ec3b2a14d3a49b43066f2ced553ffeef361d470c593a2f4ba"
 metafile = true
 
 [[files]]
@@ -312,5 +322,5 @@ hash = "5a4a5747f6d412f9eb094c317e35d0cffa169fccabd2cff77a9b46189bd978e8"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "32ef7d179a7eb248403f306aba313c6d50cd3745afaaa467e9005f9de3e7d74d"
+hash = "8a7b2865d23c76dcbfa47d97a339f3a4ab158ec1fa93ed6a746962c0e3ffd27b"
 metafile = true
