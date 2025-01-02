@@ -112,6 +112,11 @@ hash = "159443320977ff331e83b7a6c09aec896efb27666864a71128540e0a8fee2a77"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "a65cb4f97e3600f22f03e28f7e46bf7e2bc66e32350db4fa33f80d094d7252ad"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "1f2b7115dbc44b2c19a4fe4bf4cd5b3095a35f95f2d6a6026f6c48378ba6c9d7"
 metafile = true
@@ -143,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "6c6c7db7a39661fdce26fe6f75a4202c671f393d972a498b09300ad3476c6ba6"
+hash = "cbfdad2522d043a57fabcf4096cfd0a893bac7db7327ef7203859dd8c3ba215b"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4e07e49c567dc24d9fbea4a89021fbce6bb96e4ed4fc227676a12844483436a8"
+hash = "3bde4103af9e98fd1124d294c492bd58a6c7b6942f957c4549d51023575f709b"
 metafile = true
 
 [[files]]
@@ -183,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3a450aae43012caa40aa291b09f123dc6663184aeee5ffd0557afd7300424284"
+hash = "9ea3ce665c6837221f44be60a294c404ca117d33aba4470a1804433dde1983ee"
 metafile = true
 
 [[files]]
@@ -214,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "1c9caaf6a0b890d4742ae05b4a3c372867e9ff8ba273b2cf4c63859e9eaa74c0"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "acc4516d208d0fec2d4646253529c42fa3d6ee439b168c38fdf55ef48d7f9bbc"
 metafile = true
 
 [[files]]
@@ -248,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6929417888353b302bf982432ba743d08376ea752537b25722edf0f91cd69c50"
+hash = "d2019718c50fbc5c33bb29b1418e3bc2e5effd9b89d510782b288036ea03aa75"
 metafile = true
 
 [[files]]
@@ -258,7 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d34bc9f80fa6e36918d2af27cba73fba6966498d5160ec6fdf528f3c70c098d3"
+hash = "3e7147d8d6f1e8c34cb7be62dfee8064874b95a0c2cbf9d48c3ae2c93a27603d"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "a2b9f9215f3966160efdc0fc600f8a90989a6983ba59fd1675ec2dad981a7c6c"
 metafile = true
 
 [[files]]
@@ -268,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "73338ad0c25a1ea8d1b2d0c70881bac838083bdb5ef7a8e734ce2bb6762cf878"
+hash = "7286a1a8b0681862cad1f3409bd23e62ae7d027c59067dba73eaecca76e0e3a4"
 metafile = true
 
 [[files]]
@@ -302,5 +317,5 @@ hash = "ddf5f4f840cebf9ce8c2dc84c56a662ffef020d6ac23fc56c81929ed751c422b"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "8c419d607e78ff810f0c5244183cc27acc8b22f86a65bf0a6a64815335529854"
+hash = "8a7b2865d23c76dcbfa47d97a339f3a4ab158ec1fa93ed6a746962c0e3ffd27b"
 metafile = true
