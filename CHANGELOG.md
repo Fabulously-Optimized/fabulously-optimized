@@ -44,6 +44,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-beta.4 (2025-01-07)
+
+Time to test new stuff!
+
+- Added BetterGrassify - a customizable "better grass" and "better snow" mod
+- Removed Fast Better Grass - replaced by BetterGrassify
+- Disabled broken paths for resource packs
+  - This matches the defaults for ETF and presumably modern OptiFine, meaning your resource packs should no longer break even without broken paths support
+- Minor string change in Mod Menu Helper
+
 ### 6.4.0-beta.3 (2025-01-02)
 
 - Added Better Beds (alternative for Enhanced Block Entities)
