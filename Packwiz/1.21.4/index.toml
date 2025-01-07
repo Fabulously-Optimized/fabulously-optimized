@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/entity_texture_features.json"
+hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "20119b3fb97992a775f526ebe1dbed2ec79322e590854c82837adb8047722d82"
+hash = "e0ae4bc3511890766a64b39c810971bf5448be3da8f68e2234dec5e1c4c947b0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "891304e6a1bb40fc15b1dc53e74c0e4fd354d7378542c60476f60064d02bc3ca"
+hash = "d2bafcddcefb2c2c6a4ce0d620f9845f4392b72de8f641f0a115c4d60d512bf5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -46,7 +50,7 @@ hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
+hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -94,7 +98,12 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b4bd6b6a9cc4d2d821c176442b399139a2aa42581b2e07be77815397a917931d"
+hash = "74095f4f35241c22e42d51ea9c38811126e901a1c89c697b84d4e3c1eacd8ec9"
+
+[[files]]
+file = "mods/bettergrass.pw.toml"
+hash = "19c76b2f32bfc5affa71f66e9b53b2718d6538c68e1c16249f2a14faf54024e1"
+metafile = true
 
 [[files]]
 file = "mods/bettermounthud.pw.toml"
@@ -228,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9fd4ac9a884b81ba36c4906c294652b6fd64c1382de641c48a8dd756c8ffc3d1"
+hash = "bcbf375964b27abc4cb31ad7a461f672bd934b78cb1a8ae2e18e25f007cd3ffa"
 metafile = true
 
 [[files]]
@@ -238,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "b4a2630c646e451cf53f66e4f96551e4b0475a42711b947eff8bfbafe5c0c966"
+hash = "7871924ba4c02682edab19c4f1b457911aec8c56e62bc99107b883bb6f8914ac"
 metafile = true
 
 [[files]]
@@ -258,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d2019718c50fbc5c33bb29b1418e3bc2e5effd9b89d510782b288036ea03aa75"
+hash = "c6547a2ce61b3b64fa93e99178a7c309f6568584af9834de5a2c42ad14204100"
 metafile = true
 
 [[files]]
@@ -307,15 +316,10 @@ hash = "8459c71fa5c28389cc758425b8c1d1cf9462883d870fde2e5f9f39458ec244df"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "084a75f8f0486115c84916e21aa1f5a8e7725d47b416b22010f347d73f0bfcd3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "ddf5f4f840cebf9ce8c2dc84c56a662ffef020d6ac23fc56c81929ed751c422b"
+hash = "d7fcf41b39bc369bd08e4fc07d98069f8e60ae29de4570e2c6534762a3d4bbf2"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "8a7b2865d23c76dcbfa47d97a339f3a4ab158ec1fa93ed6a746962c0e3ffd27b"
+hash = "3ce081500a9abadc391bb46375b78d18681322061552bc3c57721547e97ce892"
 metafile = true

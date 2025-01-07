@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-alpha.7 (2025-01-07)
+
+- Updated Polytone, MoreCulling, Mod Menu
+- Fixed incorrect version being displayed in title screen
+- Applied changes from 6.4.0-beta.4
+
 ### 6.5.0-alpha.6 (2025-01-02)
 
 - Readded Continuity, ModernFix, Remove Reloading Screen
