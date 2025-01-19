@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.1 (2025-01-19)
+
+- Readded Enhanced Block Entities
+- Updated BetterGrassify, Fabrishot, Fabric API, Lithium, Polytone, Debugify, Reese's Sodium Options
+- Updated translations in 14 languages ❤️
+- Updated and enforced Fabric Loader 0.16.10
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
 ### 6.5.0-alpha.7 (2025-01-07)
 
 - Updated Polytone, MoreCulling, Mod Menu
