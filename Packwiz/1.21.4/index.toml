@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "6476205b5147c55afc455be7df6022f1c8d945ef3abb9be1ab33dd61e709bddc"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f2b9cbb37072591602af51012c6de4834801442175f7ed93c0fd88860ce6bb53"
+hash = "d67f47f8cdb84f8865d9cc0decd33c558b43b40cf03916fcc4ad7f5710eb05d2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4732a376fb39130ce3ad15a7bd44745a72291dccef3864e9d5026f2774875b0e"
+hash = "721dcd879f4e87270bd2abc0f56d661a3626cc28ea0ef888ae9ada7405e39326"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"

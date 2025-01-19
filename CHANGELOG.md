@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.2 (2025-01-19)
+
+- Applied workaround for the bug where rendering signs crashed the game
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
 ### 6.5.0-beta.1 (2025-01-19)
 
 - Readded Enhanced Block Entities
