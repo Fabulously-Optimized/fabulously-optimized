@@ -51,6 +51,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.3
 
+### 6.4.0-beta.5 (2025-01-19)
+
+- Updated BetterGrassify, Lithium, Reese's Sodium Options
+- Updated translations in 14 languages ❤️
+- Updated and enforced Fabric Loader 0.16.10
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
 ### 6.4.0-beta.4 (2025-01-07)
 
 Time to test new stuff!
