@@ -1,9 +1,24 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.5.0-alpha.6",
+    "versionId": "6.5.0-alpha.7",
     "name": "Fabulously Optimized",
     "files": [
+        {
+            "path": "mods/BetterGrassify-1.4.3+fabric.1.21.4.jar",
+            "hashes": {
+                "sha1": "34719656837fc3081b52b74a650448de4427cf12",
+                "sha512": "c8320e4ad47b74e3c1b53d943a4b0922daf53c079ebabe8c7a74ed10b19348582ad08548572c18a72b6244791ae946f27b51d95bcf3c1192514d7f2406e69826"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/m5T5xmUy/versions/CBz497P1/BetterGrassify-1.4.3%2Bfabric.1.21.4.jar"
+            ],
+            "fileSize": 153720
+        },
         {
             "path": "mods/Controlify-2.0.0-beta.21+1.21.4-fabric.jar",
             "hashes": {
@@ -425,19 +440,19 @@
             "fileSize": 430520
         },
         {
-            "path": "mods/modmenu-13.0.0-beta.1.jar",
+            "path": "mods/modmenu-13.0.0.jar",
             "hashes": {
-                "sha1": "ef2ae8075bdc720f44cf36363f873fa8d8202b5e",
-                "sha512": "e142b42a007d7853fe53ca74c8cc933566a75aa3068f6f6216f55d794cd4f3344c56e3a2de3db4cd59363799aa92583c6f45633cd9a4bb6cb24115f60617dd8c"
+                "sha1": "46344e4ffcb2e7c933a5b42016642d298d244a7f",
+                "sha512": "1133b650b25fa0cd356aad51184b100d06020bd4ecd5caef03abadcc5a17162bfc1c95e8921bbad3b0964ef556a9aed256615b8c2931404ab90c8901ca7de378"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/2pJcGBVh/modmenu-13.0.0-beta.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/dG06oDvH/modmenu-13.0.0.jar"
             ],
-            "fileSize": 992025
+            "fileSize": 992083
         },
         {
             "path": "mods/morechathistory-1.3.1.jar",
@@ -455,19 +470,19 @@
             "fileSize": 3573
         },
         {
-            "path": "mods/moreculling-fabric-1.21.4-1.2.2.jar",
+            "path": "mods/moreculling-fabric-1.21.4-1.2.3.jar",
             "hashes": {
-                "sha1": "e2e8f8d06272529b989805bc0b28e702c234502e",
-                "sha512": "20b76ab24346aebd4d632e5f81f09b62ff60e0c2abf4b1074ceacc29ff6d3ac01c67d9e5f3dd35f589c2d9bce6e62d5b771812692aaffa3b508e11d683e61f76"
+                "sha1": "e2556b23a0198e9df5f4d3aae4d002cd457985c0",
+                "sha512": "dcba22c5a081614c5d8e59d912f92081f02377f01542a520b87613cf63d32cb377913735e561bab74fb20dedaa3156c3c910653ff0d5e221325ca99deaaf7f89"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/51shyZVL/versions/3Kv9jtmA/moreculling-fabric-1.21.4-1.2.2.jar"
+                "https://cdn.modrinth.com/data/51shyZVL/versions/Lh9uFvJ9/moreculling-fabric-1.21.4-1.2.3.jar"
             ],
-            "fileSize": 336520
+            "fileSize": 341284
         },
         {
             "path": "mods/optigui-2.3.0-beta.7+1.21.2.jar",
@@ -500,19 +515,19 @@
             "fileSize": 81111
         },
         {
-            "path": "mods/polytone-1.21.4-3.1.6-fabric.jar",
+            "path": "mods/polytone-1.21.4-3.2.4-fabric.jar",
             "hashes": {
-                "sha1": "9898acb9e68f96f048b03113117dd850a7653f03",
-                "sha512": "1aad88b41cbf4f5f62c9a6a09f71e6ceb2070dc8dc8ee87a7d481db47199a2e0b168eee79e188d76c9f24c9ff6579f83c87ef4443655a259e3f1376561868498"
+                "sha1": "b4adbe4a2e7f2ff8d340439f1c544eba7fa5c3ae",
+                "sha512": "fa8a11dfa6a3580ff8eb5518ac6cb18be4913cdfaa0a13ce242d1bc2fdafa70e96604e4c68ececf1217a0f22d515bb1d377a88e5c2782ed6f4bf885a20c35305"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/Tn5o3whn/polytone-1.21.4-3.1.6-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/ehj3Kqni/polytone-1.21.4-3.2.4-fabric.jar"
             ],
-            "fileSize": 674609
+            "fileSize": 683797
         },
         {
             "path": "mods/puzzle-fabric-2.0.4+1.21.4.jar",
@@ -620,34 +635,19 @@
             "fileSize": 63195
         },
         {
-            "path": "resourcepacks/Fast Better Grass.zip",
-            "hashes": {
-                "sha1": "1a8b557464fc01328f1f6ee428c2669b905dfdce",
-                "sha512": "54547acb70b3b6fc0cd89744e3d8074d4fcca4d553ea63c9d06fd53105d6d4eddb55b0e8d934c9ce5b36bc100c746e7d75726aae3c687b602316347075648ccb"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/dspVZXKP/versions/NjQ6roD9/Fast%20Better%20Grass.zip"
-            ],
-            "fileSize": 10917
-        },
-        {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "ded37a5f26e546b31c86495cbf245fc96bb4e74c",
-                "sha512": "925bf1f7fae91aafb084d3165b280ecd379793e13b8c78104b7260cee07c6e00f04f367c4407a88d96376f8f622be06665cede2459e255b271333aca5582a38f"
+                "sha1": "48cb611a43e388dfe6ceb6a2da143fd534484de1",
+                "sha512": "7e820903ca2ebb1b386eda41bc596ef538b69ccd2f84f0d3b49b790b0a7ba34c8c5eab25002d99cf42d82f7cd1c0908c34c19d3ea3343ea62958cb9bdfffcff4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/C2E1HpP4/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/LXc39xFy/SodiumTranslations.zip"
             ],
-            "fileSize": 218741
+            "fileSize": 218738
         }
     ],
     "dependencies": {

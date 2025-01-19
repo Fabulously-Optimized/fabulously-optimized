@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-alpha.7 (2025-01-07)
+
+- Updated Polytone, MoreCulling, Mod Menu
+- Fixed incorrect version being displayed in title screen
+- Applied changes from 6.4.0-beta.4
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
 ### 6.5.0-alpha.6 (2025-01-02)
 
 - Readded Continuity, ModernFix, Remove Reloading Screen
@@ -43,6 +50,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, EntityCulling, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, FerriteCore, Forge Config API Port, LanguageReload, ModernFix, Paginated Advancements, Polytone, Puzzle, Remove Reloading Screen
 
 ## 1.21.3
+
+### 6.4.0-beta.4 (2025-01-07)
+
+Time to test new stuff!
+
+- Added BetterGrassify - a customizable "better grass" and "better snow" mod
+- Removed Fast Better Grass - replaced by BetterGrassify
+- Disabled broken paths for resource packs
+  - This matches the defaults for ETF and presumably modern OptiFine, meaning your resource packs should no longer break even without broken paths support
+- Minor string change in Mod Menu Helper
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
 
 ### 6.4.0-beta.3 (2025-01-02)
 
