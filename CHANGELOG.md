@@ -201,6 +201,18 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.3.0 (2025-01-26)
+
+It's the one with the new Sodium 0.6! Performance improvements, built-in Indium, better block transparency and more. 
+Keep in mind that some content mods you might want to add may not be compatible with this yet, in that case continue using 6.2.3.
+
+- Updated Entity Model Features, Entity Texture Features, Continuity, Controlify, Cubes Without Borders, Dynamic FPS, Enhanced Block Entities, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, Language Reload, Lithium, ModernFix, MoreCulling, Polytone, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib
+- Removed Indium - no longer needed
+- Updated several translations
+- Updated and enforced Fabric Loader 0.6.10
+
+_This version is based on 6.2.3, not 6.3.0-alpha.1._
+
 ### 6.2.3-mr.1 (2024-11-20)
 
 A GitHub-only version marking because 6.2.3 failed to upload to Modrinth due to my error. Identical to 6.2.3.
