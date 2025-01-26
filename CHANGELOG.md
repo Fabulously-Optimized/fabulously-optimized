@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.3 (2025-01-26)
+
+- Updated Controlify, Enhanced Block Entities, Fabric API, ImmediatelyFast, Lithium, Mod Menu, ModernFix
+- Removed sign rendering workaround
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
 ### 6.5.0-beta.2 (2025-01-19)
 
 - Applied workaround for the bug where rendering signs crashed the game
@@ -204,7 +210,7 @@ Get your _bundle_ of mods in this update!
 ### 6.3.0 (2025-01-26)
 
 It's the one with the new Sodium 0.6! Performance improvements, built-in Indium, better block transparency and more. 
-Keep in mind that some content mods you might want to add may not be compatible with this yet, in that case continue using 6.2.3.
+Keep in mind that some content mods you might want to add may not be compatible with this yet, in that case continue using FO 6.2.3.
 
 - Updated Entity Model Features, Entity Texture Features, Continuity, Controlify, Cubes Without Borders, Dynamic FPS, Enhanced Block Entities, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, Language Reload, Lithium, ModernFix, MoreCulling, Polytone, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib
 - Removed Indium - no longer needed
