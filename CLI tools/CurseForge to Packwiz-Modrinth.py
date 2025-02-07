@@ -20,7 +20,7 @@ packwiz_manifest = "pack.toml"
 cf_zip_path = ""
 pack_version = ""
 
-refresh_only = True
+refresh_only = False
 is_legacy = False
 hydrogen = False
 modrinth_overrides = True
