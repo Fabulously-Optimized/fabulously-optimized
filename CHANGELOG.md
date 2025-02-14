@@ -3,6 +3,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.5 (2025-02-14)
+
+- Readded FastQuit
+- Updated Fabric API, Mod Menu, ModernFix, MoreCulling, Polytone, Sodium
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
+
 ### 6.5.0-beta.4 (2025-02-07)
 
 - Updated Controlify, Fabric API, Fabric Language Kotlin, Polytone
