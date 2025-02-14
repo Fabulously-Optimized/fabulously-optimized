@@ -213,6 +213,11 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.3.1 (2025-02-14)
+
+- Updated Controlify, Fabric Language Kotlin, MoreCulling, Polytone, Sodium
+- Updated Chinese Simplified translations
+
 ### 6.3.0 (2025-01-26)
 
 It's the one with the new Sodium 0.6! Performance improvements, built-in Indium, better block transparency and more. 
