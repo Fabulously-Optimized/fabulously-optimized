@@ -1,7 +1,289 @@
 # Fabulously Optimized changelog
-This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://fabulously-optimized.gitbook.io/modpack/readme/version-support).
+This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
+
+## 1.21.4
+
+### 6.5.0-beta.5 (2025-02-14)
+
+- Readded FastQuit
+- Updated Fabric API, Mod Menu, ModernFix, MoreCulling, Polytone, Sodium
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
+
+### 6.5.0-beta.4 (2025-02-07)
+
+- Updated Controlify, Fabric API, Fabric Language Kotlin, Polytone
+- Updated Chinese Simplified translations
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
+### 6.5.0-beta.3 (2025-01-26)
+
+- Updated Controlify, Enhanced Block Entities, Fabric API, ImmediatelyFast, Lithium, Mod Menu, ModernFix
+- Removed sign rendering workaround
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
+### 6.5.0-beta.2 (2025-01-19)
+
+- Applied workaround for the bug where rendering signs crashed the game
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
+### 6.5.0-beta.1 (2025-01-19)
+
+- Readded Enhanced Block Entities
+- Updated BetterGrassify, Fabrishot, Fabric API, Lithium, Polytone, Debugify, Reese's Sodium Options
+- Updated translations in 14 languages ❤️
+- Updated and enforced Fabric Loader 0.16.10
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
+### 6.5.0-alpha.7 (2025-01-07)
+
+- Updated Polytone, MoreCulling, Mod Menu
+- Fixed incorrect version being displayed in title screen
+- Applied changes from 6.4.0-beta.4
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
+### 6.5.0-alpha.6 (2025-01-02)
+
+- Readded Continuity, ModernFix, Remove Reloading Screen
+- Updated Entity Texture Features, Fabric API, Iris Shaders, Polytone, Reese's Sodium Options, Sodium
+  - Fixed not being able to select shaders from video settings on certain configurations
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit
+
+### 6.5.0-alpha.5 (2024-12-22)
+
+- Readded Paginated Advancements, Polytone
+- Updated Fabric API
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, ModernFix, Remove Reloading Screen
+
+### 6.5.0-alpha.4 (2024-12-18)
+
+- Readded Controlify, Debugify
+- Updated Entity Model Features, Fabric API, MoreCulling, Sodium
+  - EMF fixed confusing toast upon changing resource packs
+- Updated Anglish translation
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
+### 6.5.0-alpha.3 (2024-12-14)
+
+- Readded Better Mount HUD, FerriteCore, Language Reload
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, Fabric API, Forge Config API Port, Iris Shaders, LambDynamicLights, Model Gap Fix, MoreCulling, OptiGUI
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
+### 6.5.0-alpha.2 (2024-12-07)
+
+- Readded Entity Culling, Forge Config API Port, Puzzle
+- Updated Cloth Config API, Fabric API, No Chat Reports, Sodium, YetAnotherConfigLib
+- Increased default simulation distance from 6 to 8 for more reliable mob spawning, it is also Minecraft's default on low-end computers
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, FerriteCore, LanguageReload, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
+### 6.5.0-alpha.1 (2024-12-04)
+
+- Updated Entity Model Features, Entity Texture Features, Capes, Fabric API, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, Mod Menu, MoreCulling, Reese's Sodium Options, Sodium, Sodium Extra
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, EntityCulling, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, FerriteCore, Forge Config API Port, LanguageReload, ModernFix, Paginated Advancements, Polytone, Puzzle, Remove Reloading Screen
+
+## 1.21.3
+
+### 6.4.0-beta.5 (2025-01-19)
+
+- Updated BetterGrassify, Lithium, Reese's Sodium Options
+- Updated translations in 14 languages ❤️
+- Updated and enforced Fabric Loader 0.16.10
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-beta.4 (2025-01-07)
+
+Time to test new stuff!
+
+- Added BetterGrassify - a customizable "better grass" and "better snow" mod
+- Removed Fast Better Grass - replaced by BetterGrassify
+- Disabled broken paths for resource packs
+  - This matches the defaults for ETF and presumably modern OptiFine, meaning your resource packs should no longer break even without broken paths support
+- Minor string change in Mod Menu Helper
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-beta.3 (2025-01-02)
+
+- Added Better Beds (alternative for Enhanced Block Entities)
+- Readded Better Mount HUD (oops)
+- Updated Fabric API
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-beta.2 (2024-12-18)
+
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, Fabric API, Forge Config API Port, Language Reload, Model Gap Fix, OptiGUI, Polytone, Sodium
+- Updated Anglish translation
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-beta.1-mr.1 (2024-12-07)
+
+A limited release to fix wrong Minecraft version on some platforms' instance.
+
+### 6.4.0-beta.1 (2024-12-07)
+
+- Readded Continuity
+- Updated Entity Culling, Paginated Advancements, Polytone, Sodium, YetAnotherConfigLib
+- Increased default simulation distance from 6 to 8 for more reliable mob spawning, it is also Minecraft's default on low-end computers
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-alpha.11 (2024-12-04)
+
+- Readded Fabrishot
+- Updated Dynamic FPS, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Lithium, Mod Menu, Polytone, Sodium
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, ModernFix
+
+### 6.4.0-alpha.10-mr.1 (2024-12-01)
+
+A GitHub/Modrinth reupload to fix an error with the official installer. Identical to 6.4.0-alpha.10.
+
+### 6.4.0-alpha.10 (2024-11-30)
+
+- Updated Fabric API, LambDynamicLights, MoreCulling, Polytone
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix
+
+### 6.4.0-alpha.9 (2024-11-20)
+
+- Readded Debugify
+- Updated Entity Texture Features
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix
+
+### 6.4.0-alpha.8 (2024-11-19)
+
+- Readded Paginated Advancements
+- Updated Controlify, Fabric API, Forge Config API Port, Iris Shaders, Lithium, Reese's Sodium Options, Sodium, Sodium Extra
+- Minified Remove Reloading Screen config a bit
+- Removed a confusing mod recommendation in logs
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix
+
+### 6.4.0-alpha.7 (2024-11-14)
+
+- Added Forge Config API port - a dependency of Remove Reloading Screen
+- Updated Entity Model Features, Fabric API, ImmediatelyFast, MoreCulling, Remove Reloading Screen, Sodium
+  - Skipped Controlify update due to a crash
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements
+
+### 6.4.0-alpha.6 (2024-11-10)
+
+- Readded Lithium, No Chat Reports, Puzzle
+- Updated Fabric API, Iris Shaders, Remove Reloading Screen
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Paginated Advancements
+
+### 6.4.0-alpha.5 (2024-11-02)
+
+- Updated Entity Texture Features, Iris Shaders
+- Temporarily removed Fabrishot as it was found incompatible
+- Temporarily removed No Chat Reports due to a bug in current and incompatibility in previous version
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, Lithium, ModernFix, No Chat Reports, Paginated Advancements, Puzzle
+
+### 6.4.0-alpha.4 (2024-11-02)
+
+- Readded Entity Culling, Polytone
+- Updated Controlify, Dynamic FPS, ImmediatelyFast
+- Updated and enforced Fabric Loader 0.16.9
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Lithium, ModernFix, Paginated Advancements, Puzzle
+
+### 6.4.0-alpha.3 (2024-10-29)
+
+Another batch of updated mods!
+
+- Readded Controlify, Cubes Without Borders, FerriteCore, Language Reload, Reese's Sodium Options, Sodium Extra
+  - You can now longer accidentally disable English language :)
+- Updated Fabric API, LambDynamicLights, MoreCulling, No Chat Reports, Sodium
+- Re-enabled chat safety icon on NCR
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, Lithium, ModernFix, Paginated Advancements, Polytone, Puzzle
+
+### 6.4.0-alpha.2 (2024-10-26)
+
+- Readded Entity Model Features, Entity Texture Features, ImmediatelyFast, OptiGUI, Zoomify
+- Updated LambDynamicLights
+- Temporarily force-disabled chat safety icon on NCR to avoid crash
+- Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Language Reload, Lithium, ModernFix, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra
+
+### 6.4.0-alpha.1 (2024-10-23)
+
+Get your _bundle_ of mods in this update!
+
+- Updated Fabric API
+- Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
+
+## 1.21.2
+
+### 6.3.0-alpha.1 (2024-10-23)
+
+⚠️ Warning: Realms servers cannot be joined and salmon will become smaller when you launch your worlds in this version. Mojang has released 1.21.3 to fix this, see the FO version above.
+
+- Removed Indium - no longer necessary
+- Updated Capes, Cloth Config API, Dynamic FPS, Fabric API, Iris Shaders, LambDynamicLights, MoreCulling, Mod Menu, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+  - Sodium is now on 0.6.0 beta, featuring improved performance, improved transparent blocks (e.g. looking at water through glass), better mod compatibility and built-in Indium functions.
+- Updated Malay (Jawi) translations
+- Temporarily disabled chat safety icon on NCR to avoid crash
+- Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
 
 ## 1.21.1
+
+### 6.3.1 (2025-02-14)
+
+- Updated Controlify, Fabric Language Kotlin, MoreCulling, Polytone, Sodium
+- Updated Chinese Simplified translations
+
+### 6.3.0 (2025-01-26)
+
+It's the one with the new Sodium 0.6! Performance improvements, built-in Indium, better block transparency and more. 
+Keep in mind that some content mods you might want to add may not be compatible with this yet, in that case continue using FO 6.2.3.
+
+- Updated Entity Model Features, Entity Texture Features, Continuity, Controlify, Cubes Without Borders, Dynamic FPS, Enhanced Block Entities, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, Language Reload, Lithium, ModernFix, MoreCulling, Polytone, Reese's Sodium Options, Sodium, Sodium Extra, YetAnotherConfigLib
+- Removed Indium - no longer needed
+- Updated several translations
+- Updated and enforced Fabric Loader 0.6.10
+
+_This version is based on 6.2.3, not 6.3.0-alpha.1._
+
+### 6.2.3-mr.1 (2024-11-20)
+
+A GitHub-only version marking because 6.2.3 failed to upload to Modrinth due to my error. Identical to 6.2.3.
+
+### 6.2.3 (2024-11-20)
+
+- Updated Entity Texture Features, Controlify, Fabric API, ImmediatelyFast, Lithium, No Chat Reports, Polytone
+  - Sodium 0.6 and related updates skipped, to be in FO 6.4.0 or other future update
+  - Controlify fixed offset chat tooltips
+- Removed a confusing mod recommendation in logs
+
+### 6.2.2 (2024-11-05)
+
+- Updated Entity Texture Features, Dynamic FPS, EntityCulling, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Language Reload, ModernFix, Polytone
+  - You can now longer accidentally disable English language :)
+  - Sodium beta and related updates skipped, see FO 6.4.0 instead
+  - Controlify and No Chat Reports updates skipped due to bugs
+- Updated Fabric Loader to 0.16.9
+
+### 6.2.1 (2024-10-26)
+
+- Updated CIT Resewn, Controlify, Dynamic FPS, Fabric API, FerriteCore, ImmediatelyFast, LambDynamicLights, Mod Menu, OptiGUI, YetAnotherConfigLib, Zoomify
+  - Sodium and related updates skipped, will be in FO 6.4.0
+- Updated Malay (Jawi) translations
+
+### 6.2.0 (2024-10-11)
+
+- Readded LambDynamicLights
+- Updated Fabric Language Kotlin
+  - Sodium and related updates will be tested in a future FO update
+- Updated and enforced Fabric Loader 0.16.7
+- Updated English variants in Mod Menu Helper
+
+### 6.1.0 (2024-10-08)
+
+**Biggest changes:**
+
+- Readded CIT Resewn - the mod is updated for 1.21.1
+- Sodium and other mod updates are skipped as Sodium's latest version is in beta
+   - Testing is planned in a future FO update
+- As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge. Follow installation instructions as usual.
+- Mods button now appears in full width on pause menu
+
+**Changes from 6.1.0-beta.8 to 6.1.0**: 
+
+- Added Portuguese (Portugal) translation
+- Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
+- Disabled Labymod capes because they started appearing for players that don't own them
 
 ### 6.1.0-beta.8 (2024-09-26)
 
@@ -189,6 +471,26 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
 ## 1.20.6
+
+### 5.12.0 (2024-10-08)
+
+**Biggest changes:**
+
+- Java 21 is now required. Update your launcher and [download Java here](<https://download.fo/java21>).
+- Removed LambDynamicLights - not yet updated for 1.20.6+ and alternatives are currently not suitable for inclusion in FO
+	- Planned to be readded when it updates in a future version of FO
+- Removed CIT Resewn - the author skipped updating it for 1.20.6
+- Enabled credits below right-side mod descriptions in Mod Menu
+- Removed error message that appeared when FO was partly installed
+- Unbound OptiGUI debug hotkey
+- Enforced Fabric Loader 0.16.5
+
+**Changes from 5.12.0-beta.11 to 5.12.0:**
+
+- Updated Dynamic FPS, e4mc, OptiGUI
+- Added Portuguese (Portugal) translation
+- Updated Anglish, Portuguese (Brazilian), Chinese (Traditional and Simplified) translations
+- Disabled Labymod capes because they started appearing for players that don't own them
 
 ### 5.12.0-beta.11 (2024-09-20)
 

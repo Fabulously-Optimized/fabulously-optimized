@@ -30,7 +30,7 @@ jobs:
            
   publish-to-modrinth:
     if: github.repository_owner == 'Fabulously-Optimized'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: github-actions
     permissions:
       id-token: write
@@ -39,13 +39,15 @@ jobs:
     steps:
        - name: Clone Repo
          uses: actions/checkout@v4
+         with:
+           persist-credentials: false
        - name: Download packwiz
          uses: actions/download-artifact@v4
          with:
            name: "Linux 64-bit x86"
            github-token: ${{ secrets.GH_PAT }}
-           repository: packwiz/packwiz
-           run-id: 10602235974
+           repository: Madis0/packwiz
+           run-id: 12104671023
        - name: Export to packwiz
          run: |
            chmod +x ./packwiz
