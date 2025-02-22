@@ -219,6 +219,11 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.3.2 (2025-02-22)
+
+- Updated Dynamic FPS, Fabric API, Iris Shaders, Lithium, Sodium
+- Updated Chinese Traditional translations
+
 ### 6.3.1 (2025-02-14)
 
 - Updated Controlify, Fabric Language Kotlin, MoreCulling, Polytone, Sodium
