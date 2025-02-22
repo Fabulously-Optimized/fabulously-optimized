@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.6 (2025-02-22)
+
+- Updated Dynamic FPS, Fabric API, Iris Shaders, Lithium, MoreCulling, Remove Reloading Screen, Sodium
+- Updated Chinese Traditional translations
+
 ### 6.5.0-beta.5 (2025-02-14)
 
 - Readded FastQuit
