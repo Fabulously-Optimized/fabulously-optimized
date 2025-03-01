@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.7 (2025-03-01)
+
+- Updated BetterGrassify, Dynamic FPS, e4mc, Entity Culling, ImmediatelyFast, MoreCulling, Sodium, YetAnotherConfigLib
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
+
 ### 6.5.0-beta.6 (2025-02-22)
 
 - Updated Dynamic FPS, Fabric API, Iris Shaders, Lithium, MoreCulling, Remove Reloading Screen, Sodium
