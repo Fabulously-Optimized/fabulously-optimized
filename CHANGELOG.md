@@ -3,6 +3,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.7-mr.1 (2025-03-01)
+
+A GitHub re-release to fix the missing Modrinth version.
+
 ### 6.5.0-beta.7 (2025-03-01)
 
 - Updated BetterGrassify, Dynamic FPS, e4mc, Entity Culling, ImmediatelyFast, MoreCulling, Sodium, YetAnotherConfigLib
