@@ -44,7 +44,7 @@ jobs:
        - name: Download packwiz
          uses: actions/download-artifact@v4
          with:
-           name: "Linux 64-bit x86"
+           name: "Linux x86_64"
            github-token: ${{ secrets.GH_PAT }}
            repository: packwiz/packwiz
            run-id: 12858009936
