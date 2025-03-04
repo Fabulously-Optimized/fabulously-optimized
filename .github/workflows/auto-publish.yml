@@ -37,7 +37,7 @@ jobs:
       attestations: write
       contents: write
     steps:
-       - name: Clone Repo
+       - name: Checkout Repository
          uses: actions/checkout@v4
          with:
            persist-credentials: false
@@ -56,7 +56,7 @@ jobs:
            popd
        - name: Attest mrpack
          id: attest-mrpack
-         uses: actions/attest-build-provenance@v1
+         uses: actions/attest-build-provenance@v2
          with:
           subject-path: Fabulously.Optimized-${{ github.ref_name }}.mrpack
        - name: Copy and zip attestation
