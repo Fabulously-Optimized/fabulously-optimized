@@ -234,6 +234,11 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.3.3 (2025-03-16)
+
+- Updated Dynamic FPS, e4mc, Entity Culling, ImmediatelyFast, LambDynamicLights, Lithium, MoreCulling, Polytone, YetAnotherConfigLib
+- Updated Chinese Traditional (Hong Kong) translations
+
 ### 6.3.2 (2025-02-22)
 
 - Updated Dynamic FPS, Fabric API, Iris Shaders, Lithium, Sodium
