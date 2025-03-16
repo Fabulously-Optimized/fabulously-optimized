@@ -3,6 +3,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.4
 
+### 6.5.0-beta.8 (2025-03-16)
+
+- Updated BetterGrassify, Capes, Dynamic FPS, Fabric API, ImmediatelyFast, LambDynamicLights, Lithium, Mod Menu, MoreCulling, Polytone
+- Updated Chinese Traditional (Hong Kong) translations
+
 ### 6.5.0-beta.7-mr.1 (2025-03-01)
 
 A GitHub re-release to fix the missing Modrinth version.
@@ -233,6 +238,10 @@ Get your _bundle_ of mods in this update!
 - Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
 
 ## 1.21.1
+
+### 6.3.3-mr.1 (2025-03-16)
+
+A GitHub re-release to fix the missing Modrinth version.
 
 ### 6.3.3 (2025-03-16)
 
