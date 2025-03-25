@@ -1,12 +1,24 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+## 1.21.5
+
+### 6.6.0-alpha.1 (2025-03-25)
+
+- Some mod configuration interfaces currently crash. If needed, edit config files manually.
+- Temporarily added Fast Better Grass
+- Updated Dynamic FPS, Entity Model Features, Entity Texture Features, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, Mod Menu, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+- Temporarily incompatible Animatica, BetterGrassify, Capes, CIT Resewn, Continuity, Controlify, Cubes Without Borders, Enhanced Block Entities, FerriteCore, FabricSkyboxes, FabricSkyboxes Interop, Language Reload, Lithium, Model Gap Fix, ModernFix, MoreCulling, Polytone, Puzzle, Sodium Extra, Zoomify
+  - Some mods in this list are marked as 1.21.5-compatible but did not run well on initial testing, will be retried in next alpha
+- Temporarily force-enabled: Forge Config API Port 
+
 ## 1.21.4
 
 ### 6.5.0-beta.8 (2025-03-16)
 
 - Updated BetterGrassify, Capes, Dynamic FPS, Fabric API, ImmediatelyFast, LambDynamicLights, Lithium, Mod Menu, MoreCulling, Polytone
 - Updated Chinese Traditional (Hong Kong) translations
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
 
 ### 6.5.0-beta.7-mr.1 (2025-03-01)
 

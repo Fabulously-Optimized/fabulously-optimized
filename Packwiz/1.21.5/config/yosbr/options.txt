@@ -1,4 +1,4 @@
-version:4189
+version:4325
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
 enableVsync:false
@@ -7,8 +7,8 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]
-incompatibleResourcePacks:["modernfix","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["entityculling","forgeconfigapiport","yet_another_config_lib_v3"]
 simulationDistance:8
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
