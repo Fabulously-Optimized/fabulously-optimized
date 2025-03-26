@@ -3,6 +3,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 6.6.0-alpha.2 (2025-03-26)
+
+Big thanks to all testers who found the crashes on the first alpha! ❤️
+
+- Readded BetterGrassify, Capes, Language Reload, Lithium, MoreCulling
+- Updated Remove Reloading Screen, Forge Config API Port, Sodium, Cloth Config API
+- Removed E2MC, Fast Better Grass, Fabrishot, No Chat Reports, Paginated Advancements
+- Cleaned up log recommendations
+- Fixed all known crashes from alpha 1
+- Hidden Fabric Model Loading API on Mod Menu
+- Temporarily incompatible Animatica, BetterGrassify, CIT Resewn, Continuity, Controlify, Cubes Without Borders, Enhanced Block Entities, E2MC, FerriteCore, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, Model Gap Fix, ModernFix, No Chat Reports, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Zoomify
+
 ### 6.6.0-alpha.1 (2025-03-25)
 
 - Some mod configuration interfaces currently crash. If needed, edit config files manually.
