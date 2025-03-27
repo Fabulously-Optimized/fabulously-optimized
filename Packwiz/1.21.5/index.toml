@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "bbccb7e2282d22d6fe7409a6336a19d3bcf331ee6c29f254efe79879fbed7241"
+hash = "683309c692d4b74be0036658472d7dc9ad4f65674e384472a8ae9be1a1501251"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0dc8e18d19a5d8bf175a9fdf73b8b3f66ac80f15b4b88b5191667cf3ce39e453"
+hash = "ac2c88c761561ba175344d30eb8c51de232e9e9bec2b2c96505aa54f6f386c92"
 
 [[files]]
 file = "config/modmenu.json"
@@ -38,7 +38,7 @@ hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "8c79b471bad59fcb9d73c4689dd6687be63facefd73a17f11f1bf4acf00c158d"
+hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -90,7 +90,7 @@ hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "6b222180584c27fde0fc5c7f94fd3c926f7251f624e676e8b90c0216fb886910"
+hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -121,6 +121,11 @@ hash = "22bc42e643bb184557525a0bca43052c9135e77b94b349d1e55824606156fa73"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "d82f1943df7f37aae992b6c5d56cf0a396ecfd83d107df157ec70a1dd2936567"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "1b21299746420f61d14707a11cdea244886bd17cabded2ee55bb3635161c04cf"
 metafile = true
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8be4580f2bbdb43feb7f2d0b65a62ef4cfb28e7b48eae85e999cc88eae7db722"
+hash = "92a6bde50e70532d5b51240fb639b74a5ea4a2c0de7afedc249d8a59f342401d"
 metafile = true
 
 [[files]]
@@ -158,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "83674a6c4be23f8213bdc2082dcb8b1fc41d6a17ff51bd2a30c678b6f64905b0"
-metafile = true
-
-[[files]]
-file = "mods/forgeconfigapiport.pw.toml"
-hash = "0648dff164d45a2058c9a3c1bafb2a6b6bb79496426c283928899c1d101e4862"
 metafile = true
 
 [[files]]
@@ -216,18 +216,8 @@ hash = "8f2a5106ae0b32cbf3cefc5fc17c5abee4f09dc43c97faafc391d9094083707a"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "de4f90c9f410c193d28bbfc66dff5ebcacf56a53acd3a507e4a7d2a47d2c9251"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "08a438f3bc8e725598679eceed1f17e60231183628e5fe6b8b3b59ebac1e0368"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "e0b14410a5c733b3f9d8b5029b791e69453a5453ac91efaceb550cb6658c0863"
 metafile = true
 
 [[files]]
@@ -243,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "74bf2ec0105b4e7d4f6b60332136c98b5fa620a994c13c592ea70874ecfe9626"
 metafile = true
 
 [[files]]

@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 6.6.0-alpha.3 (2025-03-27)
+
+More fixes!
+
+- Readded Controlify, Zoomify
+- Updated Entity Culling
+- Fixed duplicate (backup) config on Remove Reloading Screen
+- Temporarily removed Remove Reloading Screen, Forge Config API Port, OptiGUI
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Cubes Without Borders, Enhanced Block Entities, e4mc, FerriteCore, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, Forge Config API Port, Model Gap Fix, ModernFix, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Remove Reloading Screen, Sodium Extra
+
 ### 6.6.0-alpha.2 (2025-03-26)
 
 Big thanks to all testers who found the crashes on the first alpha! ❤️
