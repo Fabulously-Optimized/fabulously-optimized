@@ -20,11 +20,19 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 - Some mod configuration interfaces currently crash. If needed, edit config files manually.
 - Temporarily added Fast Better Grass
 - Updated Dynamic FPS, Entity Model Features, Entity Texture Features, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, Mod Menu, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+- Updated Anglish translation
 - Temporarily incompatible Animatica, BetterGrassify, Capes, CIT Resewn, Continuity, Controlify, Cubes Without Borders, Enhanced Block Entities, FerriteCore, FabricSkyboxes, FabricSkyboxes Interop, Language Reload, Lithium, Model Gap Fix, ModernFix, MoreCulling, Polytone, Puzzle, Sodium Extra, Zoomify
   - Some mods in this list are marked as 1.21.5-compatible but did not run well on initial testing, will be retried in next alpha
 - Temporarily force-enabled: Forge Config API Port 
 
 ## 1.21.4
+
+### 6.5.0-beta.9 (2025-03-27)
+
+- Updated BetterGrassify, Controlify, Dynamic FPS, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, LambDynamicLights, Language Reload, Lithium, MoreCulling, Polytone, Remove Reloading Screen, YetAnotherConfigLib
+- Updated Anglish translation
+- Fixed duplicate (backup) config on Remove Reloading Screen
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
 
 ### 6.5.0-beta.8 (2025-03-16)
 
