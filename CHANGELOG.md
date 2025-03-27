@@ -27,6 +27,10 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 6.5.0-beta.9-mr.1 (2025-03-27)
+
+Fixed Minecraft version in Modrinth/Packwiz.
+
 ### 6.5.0-beta.9 (2025-03-27)
 
 - Updated BetterGrassify, Controlify, Dynamic FPS, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, LambDynamicLights, Language Reload, Lithium, MoreCulling, Polytone, Remove Reloading Screen, YetAnotherConfigLib
