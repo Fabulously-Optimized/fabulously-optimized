@@ -37,6 +37,13 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 6.5.0-beta.10 (2025-04-04)
+
+- Updated Polytone, Puzzle, Sodium
+- Added Belarusian, updated Anglish translation
+- Updated and enforced Fabric Loader to 0.16.12
+- Temporarily incompatible Animatica, CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
+
 ### 6.5.0-beta.9-mr.1 (2025-03-27)
 
 Fixed Minecraft version in Modrinth/Packwiz.
