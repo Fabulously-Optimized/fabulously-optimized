@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 6.6.0-alpha.4 (2025-04-04)
+
+- Readded Cubes Without Borders, FerriteCore, Forge Config API Port, No Chat Reports, OptiGUI, Puzzle, Sodium Extra
+- Updated Entity Model Features, Entity Texture Features, Fabric API, ImmediatelyFast, Iris Shaders, Sodium
+- Added Belarusian, updated Anglish translation
+- Updated and enforced Fabric Loader to 0.16.12
+- Removed Fast Better Grass which was accidentally still present in some versions
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, e4mc, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, Model Gap Fix, ModernFix, Paginated Advancements, Polytone, Remove Reloading Screen
+
 ### 6.6.0-alpha.3 (2025-03-27)
 
 More fixes!
