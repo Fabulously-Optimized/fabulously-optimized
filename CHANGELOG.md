@@ -285,6 +285,12 @@ Get your _bundle_ of mods in this update!
 
 ## 1.21.1
 
+### 6.3.4 (2025-04-04)
+
+- Updated Controlify, Dynamic FPS, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, LambDynamicLights, Language Reload, Polytone, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+- Added Belarusian, updated Anglish translation
+- Updated Fabric Loader to 0.16.12
+
 ### 6.3.3-mr.1 (2025-03-16)
 
 A GitHub re-release to fix the missing Modrinth version.
