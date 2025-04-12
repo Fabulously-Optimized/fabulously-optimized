@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 6.6.0-alpha.5 (2025-04-12)
+
+- Readded Model Gap Fix, Paginated Advancements, Remove Reloading Screen
+- Updated Controlify, Debugify, ImmediatelyFast, Lithium
+- Updated Belarusian translation
+- Updated and enforced Fabric Loader to 0.16.13
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, e4mc, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Polytone
+
 ### 6.6.0-alpha.4 (2025-04-04)
 
 - Readded Cubes Without Borders, FerriteCore, Forge Config API Port, No Chat Reports, OptiGUI, Puzzle, Sodium Extra
