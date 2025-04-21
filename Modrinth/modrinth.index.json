@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "6.6.0-alpha.5",
+    "versionId": "6.6.0-alpha.7",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -170,19 +170,34 @@
             "fileSize": 81623
         },
         {
-            "path": "mods/dynamic-fps-3.9.2+minecraft-1.21.5-fabric.jar",
+            "path": "mods/dynamic-fps-3.9.3+minecraft-1.21.5-fabric.jar",
             "hashes": {
-                "sha1": "adc57c628f52797c9960c33fb0a3d223a537d45c",
-                "sha512": "3aef9c9013c16a6e6fa7d3206fefe813414473165863e3a98cbdacd8bc70f9c34d94ce93521dc890c4f7f8d845086cd5d4ea24e517a850a40fd23f2ef4e660fb"
+                "sha1": "d99710ca3fc938a8d1adf9d02a3847db5d05241e",
+                "sha512": "e9c9403dcb83645caf85161618030467ac925602932a4e45b27722385da9d2e9af2097c1f6c0c2b997bffae26e2275f482dc13a1583c5b8f432dfdade02ce00c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/KyR4NPOX/dynamic-fps-3.9.2%2Bminecraft-1.21.5-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/plAPgk28/dynamic-fps-3.9.3%2Bminecraft-1.21.5-fabric.jar"
             ],
-            "fileSize": 189540
+            "fileSize": 190207
+        },
+        {
+            "path": "mods/e4mc_minecraft-fabric-5.3.1.jar",
+            "hashes": {
+                "sha1": "8b815ce0b3e8e8305827d1ea041e1ee1b4a6a7b6",
+                "sha512": "d0e76923d8627f55c8980c1b1518162140e2706403eaa2f5e44136cca9fa6c1105e49fd537ac28020422612f60b8a3ad119643089c2f714f94f93bcb14983ebb"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/71uPp5Hx/e4mc_minecraft-fabric-5.3.1.jar"
+            ],
+            "fileSize": 575182
         },
         {
             "path": "mods/entity_model_features_fabric_1.21.5-2.4.3.jar",
@@ -230,19 +245,19 @@
             "fileSize": 71172
         },
         {
-            "path": "mods/fabric-api-0.119.9+1.21.5.jar",
+            "path": "mods/fabric-api-0.121.0+1.21.5.jar",
             "hashes": {
-                "sha1": "540ec3056b0a6bbe32b5eb92673908150737a9a3",
-                "sha512": "4eec629514cba71e4792c1ebf357e574713e5fdb3c01c6e7d132ed631bdeaab0b38bcab84d4ade14c6966c24f9938026da2e65c25b58cde4ce9710c49d147e87"
+                "sha1": "faa9cbf4596320bd20b630b9cc50ae9a5fb20505",
+                "sha512": "493babbcbf0e11495b4d96499336074435fdd0a7e9f366d8427a8e7a1333169342cae5e7ef6db8e760e21ceaca98318e0521409a64d23edc97005685ffacbc78"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/FZ4q3wQK/fabric-api-0.119.9%2B1.21.5.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/hBmLTbVB/fabric-api-0.121.0%2B1.21.5.jar"
             ],
-            "fileSize": 2138622
+            "fileSize": 2199626
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
@@ -305,19 +320,19 @@
             "fileSize": 2714605
         },
         {
-            "path": "mods/lambdynamiclights-4.2.3+1.21.5.jar",
+            "path": "mods/lambdynamiclights-4.2.6+1.21.5.jar",
             "hashes": {
-                "sha1": "f5661e38c09a575f79821cfa2b56382ecb73ce36",
-                "sha512": "a288f5a4bb9a2f251ef40cdad6b240951595683cb9c6a21f9a1555cf930e76a837dac14721d0c1dade6a0e7f5331ac4f87dcb3044f1b5892552cd43fb98475af"
+                "sha1": "4b117409f4ea0fe256a60b59481095e61cae4cb4",
+                "sha512": "77f54490816508bb08f2cb98207b01d97e3aeeefd33399a419ad4a8d8010ceedf37ce686511a0237d9e920b1a164ee67cddb6467e66e95c25dcc63aac63cc1f3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yBW8D80W/versions/cLBceQhi/lambdynamiclights-4.2.3%2B1.21.5.jar"
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/UPiFwTHO/lambdynamiclights-4.2.6%2B1.21.5.jar"
             ],
-            "fileSize": 1023809
+            "fileSize": 1025132
         },
         {
             "path": "mods/language-reload-1.7.3+1.21.5.jar",
@@ -500,6 +515,21 @@
             "fileSize": 81067
         },
         {
+            "path": "mods/rrls-5.1.5+mc1.21.5-fabric.jar",
+            "hashes": {
+                "sha1": "c731daf35c8e815b5b6146a8bd741cfca23b81e6",
+                "sha512": "3bd085ea14e3bcdfad646f0c5794c06b6f0729c99ebc7be88a5ce76ddf5ea5310bc8fa6add9fa55c12b870e214ca273c2a0b2b908b98a377f3e0e90fa7f4d9d5"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/ktUVJ0iP/rrls-5.1.5%2Bmc1.21.5-fabric.jar"
+            ],
+            "fileSize": 194024
+        },
+        {
             "path": "mods/sodium-extra-fabric-0.6.3+mc1.21.5.jar",
             "hashes": {
                 "sha1": "f791686c1af393dd8931540f38b5aab8e28f2b5c",
@@ -577,21 +607,21 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "1416dbe5092204bd516709bcbce15af93ed8287f",
-                "sha512": "187ec08b81056dd4730d0fec34ef76e2b0961e91162ed68091c0d2bb585e724ab4a7c09f24425ddd8bd7e63d975fe2565bab549fb232e8e3957ab40527d0a9ce"
+                "sha1": "4d216b0bcdd79d95bdc1d5d8b958167c84b981e2",
+                "sha512": "07d4c29435321f75defa96f31d26d1616eb21d56206b3dca52b526492816de4d3e318c36410da7fe77020630890030895263a5e11c3da93b4a4c4b722da13794"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/pDdesyCp/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/Mv5eNkQa/SodiumTranslations.zip"
             ],
-            "fileSize": 221558
+            "fileSize": 223894
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.16.13",
+        "fabric-loader": "0.16.14",
         "minecraft": "1.21.5"
     }
 }

@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 6.6.0-alpha.7 (2025-04-21)
+
+- Readded e4mc, Remove Reloading Screen
+- Updated Dynamic FPS, Fabric API, LambDynamicLights
+- Updated Anglish translation
+- Updated and enforced Fabric Loader to 0.16.14
+- Temporarily incompatible Animatica, CIT Resewn, Continuity, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Polytone
+
 ### 6.6.0-alpha.6 (2025-04-12)
 
 - Temporarily removed Remove Reloading Screen due to a crash affecting some users
