@@ -67,6 +67,16 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 6.5.0-beta.11 (2025-04-04)
+
+- Added MoreMcmeta as a replacement to Animatica
+- Updated Controlify, Dynamic FPS, e4mc, LambDynamicLights, Lithium, Polytone
+- Updated Anglish, Belarusian translation
+- Updated and enforced Fabric Loader to 0.16.14
+- Hidden MoreMCMeta submodules from Mod Menu
+- Mod Menu Helper now has an explicit license file (BSD-3-Clause, like modpack itself)
+- Temporarily incompatible CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
+
 ### 6.5.0-beta.10 (2025-04-04)
 
 - Updated Polytone, Puzzle, Sodium
