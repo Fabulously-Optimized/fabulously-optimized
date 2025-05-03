@@ -63,7 +63,7 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 - Removed (incompatible) e4mc, Fast Better Grass, Fabrishot, No Chat Reports, Paginated Advancements
 - Cleaned up log recommendations
 - Fixed all known crashes from alpha 1
-- Hidden Fabric Model Loading API on Mod Menu
+- Hid Fabric Model Loading API on Mod Menu
 - Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Cubes Without Borders, Enhanced Block Entities, e4mc, FerriteCore, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, Model Gap Fix, ModernFix, No Chat Reports, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Zoomify
 
 ### 6.6.0-alpha.1 (2025-03-25)
@@ -84,7 +84,7 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 - Updated Controlify, Dynamic FPS, e4mc, LambDynamicLights, Lithium, Polytone
 - Updated Anglish, Belarusian translation
 - Updated and enforced Fabric Loader to 0.16.14
-- Hidden MoreMCMeta submodules from Mod Menu
+- Hid MoreMCMeta submodules from Mod Menu
 - Mod Menu Helper now has an explicit license file (BSD-3-Clause, like modpack itself)
 - Temporarily incompatible CIT Resewn, FabricSkyboxes, FabricSkyboxes Interop
 
@@ -1481,7 +1481,7 @@ Changes from 5.1.0-beta.9 -> 5.1.0:
 ### 5.1.0-beta.9 (2023-07-11)
 
 - Updated Cloth Config API, Controlify, Entity Model Features, Fabric API, Indium
-- Hidden some irrelevant warnings on logs
+- Hid some irrelevant warnings on logs
 
 ### 5.1.0-beta.8 (2023-07-09)
 
@@ -1594,7 +1594,7 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 - Updated Capes, Cloth Config API, Fabric API, Fabric Language Kotlin, Entity Model Features, FabricSkyboxes Interop, Farsight, ImmediatelyFast, Indium, LambDynamicLights, Language Reload, OptiGUI, YetAnotherConfigLib
 - Updated translations
 - Backported config changes from 5.1.0-beta.8
-- Hidden some irrelevant warnings on logs
+- Hid some irrelevant warnings on logs
 
 ### 4.10.5 (2023-06-12)
 
@@ -3473,7 +3473,7 @@ Removed mods
 Other stuff
 
 * Mod Menu now has a consistent list of mods' features and options (provided by a bundled resource pack)
-  * Hidden Fabric Language Kotlin and Indium from Mod Menu as they are just APIs
+  * Hid Fabric Language Kotlin and Indium from Mod Menu as they are just APIs
   * Enabled children mod counting in Mod Menu (Sodium Extra and Reese's Sodium Options are now reflected)
 * Reverted vanilla's particle settings defaults as they are better managed in Sodium Extra's settings anyway
 * MultiMC and MultiMC auto-update now use Fabric's default Java arguments (smoother experience)
