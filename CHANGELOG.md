@@ -3,6 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 6.6.0-alpha.8 (2025-05-03)
+
+- Readded Continuity
+- Updated Fabric API
+- Mod Menu Helper now has an explicit license file (BSD-3-Clause, like modpack itself)
+- Temporarily incompatible Animatica, CIT Resewn, Enhanced Block Entities, FabricSkyboxes, FabricSkyboxes Interop, Fabrishot, ModernFix, Polytone
+
+### 6.6.0-alpha.7-mr.1 (2025-04-21)
+
+Fixed Modrinth/GitHub version.
+
 ### 6.6.0-alpha.7 (2025-04-21)
 
 - Readded e4mc, Remove Reloading Screen
@@ -67,7 +78,7 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
-### 6.5.0-beta.11 (2025-04-04)
+### 6.5.0-beta.11 (2025-05-03)
 
 - Added MoreMcmeta as a replacement to Animatica
 - Updated Controlify, Dynamic FPS, e4mc, LambDynamicLights, Lithium, Polytone

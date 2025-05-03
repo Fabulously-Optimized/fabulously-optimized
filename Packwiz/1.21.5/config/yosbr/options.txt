@@ -7,8 +7,8 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]
-incompatibleResourcePacks:["entityculling","forgeconfigapiport","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]
+incompatibleResourcePacks:["yet_another_config_lib_v3"]
 simulationDistance:8
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
