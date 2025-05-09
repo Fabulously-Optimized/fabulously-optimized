@@ -622,7 +622,7 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
-# 1.20.x (5.x.x)
+# Trails & Tales (5.x.x)
 
 ## 1.20.6
 
@@ -1593,7 +1593,7 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 - Note: MultiMC legacy deprecation is still planned, but it will stay available until the vanilla installer is usable.
   - Vanilla users no longer have to install Sodium separately
 
-# 1.19.x (4.x.x)
+# The Wild Update (4.x.x)
 
 ## 1.19.4
 
@@ -2784,7 +2784,7 @@ Other
 * Enabled Cloaks+ in Fabric Capes
 * Disabled Iris' update checker
 
-# 1.18.x (3.x.x)
+# Caves & Cliffs: Part II (3.x.x)
 
 ## 1.18.2
 
@@ -3350,7 +3350,7 @@ Current mod changes:
 * Temporarily removed: Colormatic, Enhanced Block Entities (temp. replacement FastChest), FerriteCore, Lithium, Hydrogen, Phosphor, Smooth Boot
 * Unlisted mods either didn't require 1.18 in the first place or were cross-compatible.
 
-# 1.17.x (2.x.x)
+# Caves & Cliffs: Part I (2.x.x)
 
 ## 1.17.1
 
@@ -3661,7 +3661,7 @@ Other
 * Added [new default options](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options) to improve the experience
 * CF version is now 100% Fabric, meaning faster startup and better mod management!
 
-# 1.16.x (1.x.x)
+# Nether Update (1.x.x)
 
 ## 1.16.5
 
