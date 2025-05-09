@@ -1,6 +1,8 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+# Spring to Life (9.x.x)
+
 ## 1.21.5
 
 ### 6.6.0-alpha.8 (2025-05-03)
@@ -75,6 +77,8 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 - Temporarily incompatible Animatica, BetterGrassify, Capes, CIT Resewn, Continuity, Controlify, Cubes Without Borders, Enhanced Block Entities, FerriteCore, FabricSkyboxes, FabricSkyboxes Interop, Language Reload, Lithium, Model Gap Fix, ModernFix, MoreCulling, Polytone, Puzzle, Sodium Extra, Zoomify
   - Some mods in this list are marked as 1.21.5-compatible but did not run well on initial testing, will be retried in next alpha
 - Temporarily force-enabled: Forge Config API Port 
+
+# The Garden Awakens (8.x.x)
 
 ## 1.21.4
 
@@ -203,6 +207,8 @@ A GitHub re-release to fix the missing Modrinth version.
 
 - Updated Entity Model Features, Entity Texture Features, Capes, Fabric API, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, Mod Menu, MoreCulling, Reese's Sodium Options, Sodium, Sodium Extra
 - Temporarily incompatible Animatica, CIT Resewn, Continuity, Controlify, Debugify, Enhanced Block Entities, EntityCulling, FabricSkyboxes, FabricSkyboxes Interop, FastQuit, FerriteCore, Forge Config API Port, LanguageReload, ModernFix, Paginated Advancements, Polytone, Puzzle, Remove Reloading Screen
+
+# Bundles of Bravery (7.x.x)
 
 ## 1.21.3
 
@@ -340,6 +346,8 @@ Get your _bundle_ of mods in this update!
 - Updated Malay (Jawi) translations
 - Temporarily disabled chat safety icon on NCR to avoid crash
 - Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
+
+# Tricky Trials (6.x.x)
 
 ## 1.21.1
 
@@ -613,6 +621,8 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
   - This is done as a preparation for something cool, which will be announced later
 - As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
+
+# 1.20.x (5.x.x)
 
 ## 1.20.6
 
@@ -1582,6 +1592,8 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 - Updated Brazilian Portuguese translation
 - Note: MultiMC legacy deprecation is still planned, but it will stay available until the vanilla installer is usable.
   - Vanilla users no longer have to install Sodium separately
+
+# 1.19.x (4.x.x)
 
 ## 1.19.4
 
@@ -2772,6 +2784,8 @@ Other
 * Enabled Cloaks+ in Fabric Capes
 * Disabled Iris' update checker
 
+# 1.18.x (3.x.x)
+
 ## 1.18.2
 
 ### 3.14.1 (2022-09-11)
@@ -3336,6 +3350,8 @@ Current mod changes:
 * Temporarily removed: Colormatic, Enhanced Block Entities (temp. replacement FastChest), FerriteCore, Lithium, Hydrogen, Phosphor, Smooth Boot
 * Unlisted mods either didn't require 1.18 in the first place or were cross-compatible.
 
+# 1.17.x (2.x.x)
+
 ## 1.17.1
 
 ### 2.7.3 (2022-02-28)
@@ -3644,6 +3660,8 @@ Mods
 Other
 * Added [new default options](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options) to improve the experience
 * CF version is now 100% Fabric, meaning faster startup and better mod management!
+
+# 1.16.x (1.x.x)
 
 ## 1.16.5
 
