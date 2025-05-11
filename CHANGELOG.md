@@ -5,6 +5,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 9.0.0-beta.1 (2025-05-11)
+
+- Readded Polytone
+- Updated MoreCulling, Fabric API, Dynamic FPS
+- Updated Anglish, French, Malay, Malay (Jawi), Portuguese, Portuguese (Brazil), Russian, Ukrainian, Chinese Traditional (Hong Kong)
+- Temporarily incompatible Animatica/MoreMcmeta, Enhanced Block Entities, Fabrishot, ModernFix
+
+_This version is based on 6.6.0-alpha.8, not 8.0.0._
+
 ### 6.6.0-alpha.8 (2025-05-03)
 
 - Re-added Continuity
@@ -99,6 +108,8 @@ Changes from 6.5.0-beta.11 to 8.0.0:
 
 - Updated Dynamic FPS, Fabrishot
 - Updated Anglish, French, Malay, Malay (Jawi), Portuguese, Portuguese (Brazil), Russian, Ukrainian, Chinese Traditional (Hong Kong)
+
+_This version is based on 6.5.0-beta.11, not 6.6.0-alpha.8._
 
 ### 6.5.0-beta.11 (2025-05-03)
 
