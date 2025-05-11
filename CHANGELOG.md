@@ -241,7 +241,7 @@ A GitHub re-release to fix the missing Modrinth version.
 
 ## 1.21.3
 
-_Version schema was changed, and currently a stable release for 1.21.3 is not planned, but version 7.x.x is reserved for it just in case._
+_Version scheme was changed, and currently a stable release for 1.21.3 is not planned, but version 7.x.x is reserved for it just in case._
 
 ### 6.4.0-beta.5 (2025-01-19)
 
