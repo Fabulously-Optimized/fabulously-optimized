@@ -212,6 +212,8 @@ A GitHub re-release to fix the missing Modrinth version.
 
 ## 1.21.3
 
+_Version schema was changed, and currently a stable release for 1.21.3 is not planned, but version 7.x.x is reserved for it just in case._
+
 ### 6.4.0-beta.5 (2025-01-19)
 
 - Updated BetterGrassify, Lithium, Reese's Sodium Options
@@ -350,6 +352,23 @@ Get your _bundle_ of mods in this update!
 # Tricky Trials (6.x.x)
 
 ## 1.21.1
+
+### 6.4.0 (2025-05-11)
+
+Major changes:
+
+- Added BetterGrassify - a customizable "better grass" and "better snow" mod
+- Removed Fast Better Grass - replaced by BetterGrassify
+- Mod Menu Helper now has an explicit license file (BSD-3-Clause, like modpack itself)
+- Updated several translations
+- Updated and enforced Fabric Loader to 0.16.14
+
+Changes from 6.3.4 to 6.4.0:
+
+- Updated Controlify, Dynamic FPS, e4mc, Fabric API, LambDynamicLights, ModernFix, Polytone, Remove Reloading Screen
+- (all above that are mentioned as major changes)
+
+_This version is based on 6.3.4, not 6.4.0-beta.5._
 
 ### 6.3.4 (2025-04-04)
 
