@@ -82,6 +82,24 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 8.0.0 (2025-05-11)
+
+Major changes:
+
+- Added MoreMcmeta - a replacement for Animatica (animated GUI support)
+- Removed Animatica - not yet up to date
+- Removed CIT Resewn - not yet up to date
+- Removed FabricSkyboxes and FabricSkyboxes Interop - not yet up to date
+- New versioning scheme that corresponds to game drops as well as full releases, to better reflect when Mojang adds new content and breaks mods
+- Disabled broken paths for resource packs
+  - This matches the defaults for ETF and modern OptiFine, meaning your resource packs should no longer break without them
+- Increased default simulation distance from 6 to 8 for more reliable mob spawning, it is also Minecraft's default on low-end computers
+
+Changes from 6.5.0-beta.11 to 8.0.0:
+
+- Updated Dynamic FPS, Fabrishot
+- Updated Anglish, French, Malay, Malay (Jawi), Portuguese, Portuguese (Brazil), Russian, Ukrainian, Chinese Traditional (Hong Kong)
+
 ### 6.5.0-beta.11 (2025-05-03)
 
 - Added MoreMcmeta as a replacement to Animatica
