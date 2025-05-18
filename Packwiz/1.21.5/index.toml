@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ae2f5b0e79b228e7e6b65487a264189714c1d62990cc02ef8338e5d09f60bc41"
+hash = "bf9116018ee8e4798f51b250bb00f535b049c46c5a167d9c4695634bd362ff2d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "19e83fcce18b44a730d51ca85d6306cbc1d48127c1c0e2148fd5138973951e30"
+hash = "32e655b1e4081fb1d0faefd83b1907cfd5c87fbfba48552f633474ade7b223b2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -38,7 +42,7 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -90,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c6cd415b6c81b72a29e45bc0c9788c95adc839a1e84fb9b6fb9a77eea8d2a1b0"
+hash = "15a0832cf3c6b8779e872a350d81ccf89bc38c4035a299994cf9c5450ca4bad2"
 
 [[files]]
 file = "mods/bettergrass.pw.toml"
@@ -100,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "d22d241a1eee8176561f0c16bf8396e8ded7aa8fd808cf1205cbba3bb5db56a4"
+metafile = true
+
+[[files]]
+file = "mods/bigshot.pw.toml"
+hash = "ccc7a57c3beee60104e904a46764e776ab2ceabd1ad379eb258f2a8d3bd41f90"
 metafile = true
 
 [[files]]
@@ -164,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "135336f2c9807eff59748dc12948b29075136073889e65972a05e0d34c460502"
+hash = "556774f1a32c3967f1ec5b912b1aefb05f44070121ab91c9852d3bde3babd2e3"
 metafile = true
 
 [[files]]
@@ -254,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e8f59f33180f6705afcb8256cb56e45869bd4ce51f15ff4345f572160fe1dc44"
+hash = "6e4f8975225686bc4b6d5e00a548df567f523429ccfa4ba71689d6cd86d2d40d"
 metafile = true
 
 [[files]]
@@ -269,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "57e2d70c6363418ee747d25e2652b1f6c755b7ec925b50817018373045f5441c"
+hash = "144f5edd5b84f4127c4ffefd0a7217c8dd962f65ea43b5d030b1b4aee1c190d7"
 metafile = true
 
 [[files]]
@@ -304,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "2b73655bed2f300a7eeed70ce9c4b20e5e907212436c8f5f2831925e1a4cc310"
+hash = "eda65080e9be8cb6cc33fa2938808b193fbf23428a48c0a900c10559c4e9bd19"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"

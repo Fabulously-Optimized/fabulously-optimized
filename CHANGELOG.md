@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 9.0.0-beta.2 (2025-05-18)
+
+- Added Bigshot as an alternative to Fabrishot
+  - Note that it scales _your_ resolution up instead of using a fixed one, so results may vary. 
+  - Manual keybind setting required if upgrading from previous beta.
+- Updated Fabric Language Kotlin, Polytone, Remove Reloading Screen
+- Updated Anglish
+- Set FPS to 30 when Minecraft is in the background (not minimized) for better viewing
+- Temporarily incompatible Animatica/MoreMcmeta, Enhanced Block Entities, ModernFix
+
 ### 9.0.0-beta.1 (2025-05-11)
 
 - Readded Polytone

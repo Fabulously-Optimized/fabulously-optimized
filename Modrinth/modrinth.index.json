@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "9.0.0-beta.1",
+    "versionId": "9.0.0-beta.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -18,6 +18,21 @@
                 "https://cdn.modrinth.com/data/m5T5xmUy/versions/Is0HRoQH/BetterGrassify-1.6.0%2Bfabric.1.21.5.jar"
             ],
             "fileSize": 152102
+        },
+        {
+            "path": "mods/BigShot-fabric-1.21.5-12.0.1.jar",
+            "hashes": {
+                "sha1": "82ddf27d9a7d846f330e3e47486296cffedfb1df",
+                "sha512": "8a87b40931515573c74e4b729e5ac0766307fa37cad419ee5bd7a8c680b2f68dc812ed50e59313182e4df09ea659a61536bdbd7ae79bfe006a860a4b90b76f47"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/vNU5pyXC/versions/ni8RHZtL/BigShot-fabric-1.21.5-12.0.1.jar"
+            ],
+            "fileSize": 10609
         },
         {
             "path": "mods/Debugify-1.21.5+1.0.jar",
@@ -275,19 +290,19 @@
             "fileSize": 2218250
         },
         {
-            "path": "mods/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+            "path": "mods/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
             "hashes": {
-                "sha1": "2dee22babe2a1f50fac96a115e9ec77e8b6758c1",
-                "sha512": "875c8ea380dce07c8a3dd5249226265745d3fc84876e2f1b235ce99084aa991f7d08c05ab12d73a3209649e3bd4d7c407b96d4b4f4a332179d40afdae836a92f"
+                "sha1": "848dd463bc9d75de4c519dff30cfc0666ead10d6",
+                "sha512": "805eb96067560fa8acc8fcc7dbfba4ad8eed1a2bc9b46566e184f122533fdff844288f3df635762e1af927a4efe8989e9f11007a24bcdc73a32fc2dbebd720c3"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/iqWDz8qt/fabric-language-kotlin-1.13.3%2Bkotlin.2.1.21.jar"
             ],
-            "fileSize": 7159151
+            "fileSize": 7163558
         },
         {
             "path": "mods/fastquit-3.0.0+1.21.4.jar",
@@ -500,19 +515,19 @@
             "fileSize": 81043
         },
         {
-            "path": "mods/polytone-1.21.5-3.4.0-fabric.jar",
+            "path": "mods/polytone-1.21.5-3.4.2-fabric.jar",
             "hashes": {
-                "sha1": "aa17cff22391bc960c62197931ada51cb23784bc",
-                "sha512": "98e7b1f354ba40f64665afb57bb062b7a2aed92d84fd21ac7f2382ce87215c92af508959b697b8069f2b2bf41583364a81a12a0f7febf4b527b06b71e01f883e"
+                "sha1": "108a15f8671379299342c01d3658572c8d672900",
+                "sha512": "7181a343840bd4ea1ea53c9c684d742cc525a8e18b9cbac372ab105af86ef7c3008b4ae6226d50a14f3fab5a20b1b737faadc4a64d55c45e5ac43b155c3a24e0"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/WEC2xjan/polytone-1.21.5-3.4.0-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/S9qJi2yW/polytone-1.21.5-3.4.2-fabric.jar"
             ],
-            "fileSize": 696484
+            "fileSize": 706639
         },
         {
             "path": "mods/puzzle-fabric-2.1.0+1.21.5.jar",
@@ -545,19 +560,19 @@
             "fileSize": 81067
         },
         {
-            "path": "mods/rrls-5.1.5+mc1.21.5-fabric.jar",
+            "path": "mods/rrls-5.1.6+mc1.21.5-fabric.jar",
             "hashes": {
-                "sha1": "c731daf35c8e815b5b6146a8bd741cfca23b81e6",
-                "sha512": "3bd085ea14e3bcdfad646f0c5794c06b6f0729c99ebc7be88a5ce76ddf5ea5310bc8fa6add9fa55c12b870e214ca273c2a0b2b908b98a377f3e0e90fa7f4d9d5"
+                "sha1": "71e89a5986cf42e61736c5c9db7e2438d7e8175b",
+                "sha512": "175a20ecdda2ea091330b622ba30525fd607db5835b3434c74ffe4ff46b5bc754e075010c28ef6476a5eaa14732fe8e5d99a72fc6b8d209a6eadfdd1437b5fb6"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/ktUVJ0iP/rrls-5.1.5%2Bmc1.21.5-fabric.jar"
+                "https://cdn.modrinth.com/data/ZP7xHXtw/versions/xUn7p7zf/rrls-5.1.6%2Bmc1.21.5-fabric.jar"
             ],
-            "fileSize": 194024
+            "fileSize": 195776
         },
         {
             "path": "mods/sodium-extra-fabric-0.6.3+mc1.21.5.jar",
