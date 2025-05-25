@@ -1,23 +1,23 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "9.0.0-beta.2",
+    "versionId": "9.0.0-beta.3",
     "name": "Fabulously Optimized",
     "files": [
         {
-            "path": "mods/BetterGrassify-1.6.0+fabric.1.21.5.jar",
+            "path": "mods/BetterGrassify-1.6.1+fabric.1.21.5.jar",
             "hashes": {
-                "sha1": "2f3f111dd896e45419a703549856feda7b4b214f",
-                "sha512": "4dada7aefb8a8d74aeb15cfb825c9cf37a4e4687313ecb90db32cc302ce4d513ce3058287b4636dbbf52e270abfb201dad40b809ab4bfbc56043f125903e1973"
+                "sha1": "cb8b2e1c3ef783fe40220e1b110f34fbc51d2640",
+                "sha512": "49162e9e743a4f2db222eb7a4c4d002ee7a7eb823fc47bce1c25344b12ffc31028bbd9e39b59867fe45ebacae11ff30e13cf7b2d4124cbfb1c26c1d096669eae"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/m5T5xmUy/versions/Is0HRoQH/BetterGrassify-1.6.0%2Bfabric.1.21.5.jar"
+                "https://cdn.modrinth.com/data/m5T5xmUy/versions/RkA9Btk1/BetterGrassify-1.6.1%2Bfabric.1.21.5.jar"
             ],
-            "fileSize": 152102
+            "fileSize": 155009
         },
         {
             "path": "mods/BigShot-fabric-1.21.5-12.0.1.jar",
@@ -65,19 +65,19 @@
             "fileSize": 630029
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.9.3+1.21.5.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.9.4+1.21.5.jar",
             "hashes": {
-                "sha1": "f00dc8508a0a60c35ae0a1dc077f71561e5e2d34",
-                "sha512": "24c278f8d4affcffd49863ccef25a94d8fb16ed62365400d2651322995aa951d848dc986737cbbd3891e20f407a4d25aa58ca369b34830864dedfa099098ce49"
+                "sha1": "976e19922d92f608e8826930b9cd7928cf903242",
+                "sha512": "cec7c67f34c0f1b7a1e0b0f58385886186b39e2ca99c1f622c1bd1f91f1c54012f7cae0badb98c2bc717ed7c1df0effb62cbd5af0c2fff7f01a4aa4de42736c0"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/DjnwJdjY/ImmediatelyFast-Fabric-1.9.3%2B1.21.5.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/rkJHrPyc/ImmediatelyFast-Fabric-1.9.4%2B1.21.5.jar"
             ],
-            "fileSize": 226250
+            "fileSize": 230416
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.21.5-v2.12.0.jar",
@@ -275,19 +275,19 @@
             "fileSize": 71172
         },
         {
-            "path": "mods/fabric-api-0.124.0+1.21.5.jar",
+            "path": "mods/fabric-api-0.124.2+1.21.5.jar",
             "hashes": {
-                "sha1": "b36682ee8711219919b6f48f3cba6b9f1d3146c4",
-                "sha512": "674c876eb68e00fd19c3644286ea76380b639df068d51de77439d20c8abeb9460bfafe7d6e1dd6bedbcbcd500356a17f89488b73cd832a4599ee091700c7fad4"
+                "sha1": "501c7e6a5badeea15b266d25ca12b0a95e1e09ab",
+                "sha512": "26486f7984c6fc5f47e13c70cd30e998db3cfe0dbbdd03910115f13e2ecd49971f2336dcdeb0680747319c5a5fdbaa94fee76e2d39d2852910fd14dabfc200eb"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/vcgUMTb2/fabric-api-0.124.0%2B1.21.5.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/SQv5lrom/fabric-api-0.124.2%2B1.21.5.jar"
             ],
-            "fileSize": 2218250
+            "fileSize": 2218580
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
@@ -637,32 +637,32 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "0cf70bbf1a1bf89fb9ebdff0515ccc54fa6340bb",
-                "sha512": "0dc761ac59e9be4cfea6777b000ab03b8db593debe371d86c27b74fec9b5d7679ccfc7680a010468e6d789c51a5d7a4d1471aa3bd699cdfba11cb38537ce51af"
+                "sha1": "7e9fbcc5b44dbe2625d9fd8a9f3ca7ef010af522",
+                "sha512": "eb4c186c040a5d5259ab4f908163cdc3553393e570a61142497458f6b4d4e49e8e24ddd2189dc68c572cb4527daf977fa337bce9781e14dcba74429fa451598d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/35LzIcZT/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/rMW8uj5v/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 65577
+            "fileSize": 65573
         },
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "150c682ba69c80e6297df8f204c3fa315d897221",
-                "sha512": "171337937d5241ac0497bb7c9c4a11a59ad22a4c4a177a74b5339a5c26f811f8d29a4b1015097adb3552b7fe52cfd839e1a0d39245520be7b95e0aca05e6bb6a"
+                "sha1": "d0478317ca886f3496439ea108e3fcd695f7b85d",
+                "sha512": "6831b9eb21a29337a78450e10ae952c9bbc77ddea5d21a81b6cb265211307f919201c16736a0f86b9420614ea3b47e831d8fa50b50635ef7ed434a54d79420dc"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/fIQ1Rbut/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/5JjR53Aw/SodiumTranslations.zip"
             ],
-            "fileSize": 223990
+            "fileSize": 224099
         }
     ],
     "dependencies": {

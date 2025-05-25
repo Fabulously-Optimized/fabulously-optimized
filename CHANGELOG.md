@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 9.0.0-beta.3 (2025-05-25)
+
+- Updated BetterGrassify, Fabric API, ImmediatelyFast
+- Updated translations in Anglish, Portuguese (Brazilian), Belarusian, Russian, Portuguese, Malay, Malay (Jawi), Ukrainian, Italian
+- Temporarily incompatible Animatica/MoreMcmeta, Enhanced Block Entities, ModernFix
+
 ### 9.0.0-beta.2 (2025-05-18)
 
 - Added Bigshot as an alternative to Fabrishot
