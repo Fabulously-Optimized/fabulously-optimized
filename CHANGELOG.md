@@ -107,6 +107,12 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 8.0.1 (2025-06-01)
+
+- Updated BetterGrassify, Fabric API, Fabric Language Kotlin, Polytone
+- Added Spanish (Spain, Venezuela), updated several other translations
+- Force-disabled Modernfix's dynamic resources (for those who have had it enabled still) due to graphics issues
+
 ### 8.0.0 (2025-05-11)
 
 Major changes:
