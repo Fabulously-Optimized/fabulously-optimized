@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e0a82343b9072142cbaa0abb7a81fcad4e530c25d64a05af3a9a6b89305d8419"
+hash = "fcd8663a66b8140fe8e7554326a841fe00c88517ae5842497063fed20457470b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0a217809dbe0e8cd0c91c5c36fdb9d52c654f7cd4189069c80e05f8718df989b"
+hash = "6babc390e01830c2ff7da04c7f5ecacdc6861f06104e06b2a12657eef39764fb"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -67,6 +67,10 @@ hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -164,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ae8764f330d7346863131ebf8dd406a8ae3150c303ad8c428ee2ffa8ee0ac5cc"
+hash = "5779736326599d1347704c9a93c5ef1b5fc1f7fd7d2aa21c512bc85b2a7fc043"
 metafile = true
 
 [[files]]
@@ -189,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7ae14a9e9307a0cd9a3822523c1b64011878d71579a2da616539f117685c1d5d"
+hash = "2c1995439de987e0d42245af1ab23a240babd1f319b4256e5e12147efc298319"
 metafile = true
 
 [[files]]
@@ -304,12 +308,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "4fe4bd6525684614c52f0308d54f2a0d55077e495a8fe93774dc1edb5e6a1384"
+hash = "914f84bf16ddc711432f4dfac052d1dba01b67a072d1e17b79f87706f3e9fb0f"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "715d481851f7f7577411662e51479c4015b561cb1b55c5c99c31150a00095d4f"
+hash = "52a5ab72771cd93dcbe54b08c07e42084b815a4ef64d0879e11e50845b5ae139"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
