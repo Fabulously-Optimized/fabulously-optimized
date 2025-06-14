@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.5
 
+### 9.0.0-beta.5 (2025-06-14)
+
+- Updated LambDynamicLights, Fabric API
+- Updated Spanish (Spain, Venezuela), Anglish, Belarusian, Chinese (Simplified)
+- Temporarily incompatible Animatica/MoreMcmeta, Enhanced Block Entities, ModernFix
+
 ### 9.0.0-beta.4 (2025-06-01)
 
 - Updated Fabric API, ImmediatelyFast
