@@ -1,6 +1,17 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+# Chase the Skies (10.x.x)
+
+### 10.0.0-alpha.1 (2025-06-18)
+
+It's time to Chase the ~~Skies~~ Mods!
+Remember that Vibrant Visuals - the official shaders - [are currently only available on Bedrock Edition](<https://www.minecraft.net/en-us/article/vibrant-visuals-java-edition>). When using user-made shaders (Iris), note that vanilla changed the way fog works and shaders must update to work with it.
+
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Cloth Config, Dynamic FPS, Fabric API, Forge Config API Port, ImmediatelyFast, Iris Shaders, LambDynamicLights, Language Reload, Lithium, Mod Menu, OptiGUI, Puzzle, Remove Reloading Screen, Sodium, YetAnotherConfigLib
+- Config GUI crashes (edit config file instead!): Capes
+- Temporarily incompatible: Animatica/MoreMcmeta, Fabrishot/Bigshot, BetterMountHud, Controlify, Continuity, Enhanced Block Entities, e4mc, FastQuit, ModernFix, MoreCulling, No Chat Reports, Paginated Advancements, Polytone, Reese's Sodium Options, Sodium Extra, Zoomify
+
 # Spring to Life (9.x.x)
 
 ## 1.21.5
