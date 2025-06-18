@@ -6,6 +6,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 10.0.0-alpha.1 (2025-06-18)
 
 It's time to Chase the ~~Skies~~ Mods!
+
 Remember that Vibrant Visuals - the official shaders - [are currently only available on Bedrock Edition](<https://www.minecraft.net/en-us/article/vibrant-visuals-java-edition>). When using user-made shaders (Iris), note that vanilla changed the way fog works and shaders must update to work with it.
 
 - Updated Entity Model Features, Entity Texture Features, BetterGrassify, Cloth Config, Dynamic FPS, Fabric API, Forge Config API Port, ImmediatelyFast, Iris Shaders, LambDynamicLights, Language Reload, Lithium, Mod Menu, OptiGUI, Puzzle, Remove Reloading Screen, Sodium, YetAnotherConfigLib
