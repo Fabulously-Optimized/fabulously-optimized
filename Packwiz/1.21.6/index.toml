@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8965737cc40f04504684c4059098a994953ab2966da82c6605bfa439e6759790"
+hash = "d9ccc21fe1b91756fda61127b74aad7120facb34c8c129433c55ee1df17eab33"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4574679a3dbdd902c4f06bbe764acec728ef49ea6aefb289494c496db5580ea3"
+hash = "deb7155b1be2354dd55f6e9999ed1cde1bed0cbfb22996dad6eb56b7890a2701"
 
 [[files]]
 file = "config/modmenu.json"
@@ -134,11 +134,6 @@ metafile = true
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
 hash = "e288b0fb65e5ba6b3a19a705802b6d2262e7ea76166fa2052405718bb17884cf"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "92a6bde50e70532d5b51240fb639b74a5ea4a2c0de7afedc249d8a59f342401d"
 metafile = true
 
 [[files]]

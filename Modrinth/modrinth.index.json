@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.0.0-alpha.1",
+    "versionId": "10.0.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -153,21 +153,6 @@
                 "https://cdn.modrinth.com/data/BVzZfTc1/versions/aEVKKdXX/entity_texture_features_fabric_1.21.6-6.2.14.jar"
             ],
             "fileSize": 685993
-        },
-        {
-            "path": "mods/entityculling-fabric-1.7.4-mc1.21.5.jar",
-            "hashes": {
-                "sha1": "fbe1f45c60abb5e9e586cbfe13e761da1831d3cb",
-                "sha512": "26d3118179d8b7c18803c69ff8bb16acba18457d325dd3e536903adb5a82401bea759bf0866636892091f6683c3244fa400bd7ab0135af2c46d5d673722314f0"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar"
-            ],
-            "fileSize": 71172
         },
         {
             "path": "mods/fabric-api-0.127.0+1.21.6.jar",
