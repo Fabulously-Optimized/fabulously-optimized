@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2a72bbb2459666882372f0da9001a3c3b3ff0641e32184f3bd46516ee68ae241"
+hash = "6259c57684c06019ff92f8c584a554d8ad2d349ef44203da44a0e49ef135739b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bbb6380a6ff444bf85f55aa0de3f45131d773708b56ee1aef3f12ed6d9d55bc1"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
+hash = "e6a1dc24425a4bd557aee74db0838af4fea0e6873acecf720a455d8ddd9e7b00"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -35,10 +31,6 @@ hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "057e9e53790394db8b700616de3c235b0af3dc12fe7731a66ad20026acb9d991"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "8c79b471bad59fcb9d73c4689dd6687be63facefd73a17f11f1bf4acf00c158d"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -77,6 +69,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "010db0b80e2020a61272588e82c39aa27a0a4882ce3c5ac0e549c25eabdf460c"
 
@@ -102,7 +98,7 @@ hash = "74095f4f35241c22e42d51ea9c38811126e901a1c89c697b84d4e3c1eacd8ec9"
 
 [[files]]
 file = "mods/bettergrass.pw.toml"
-hash = "593af869bad380504dc54737de9e811fef18d1ada3d61f6c93661f0b3759d537"
+hash = "a8dcf517b6cbfcc07ce60bea942aa9a17e972cefebf7ad133ba9a68ec6d987b5"
 metafile = true
 
 [[files]]
@@ -127,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "b5e813572a3762a151ac7c8e9137900874a0a3766f6e6af3d0f5a73e67c1ca13"
+hash = "05fd1d5a79102ffead8c6d69193fb61f4d3d7c8c828d3d78e3c6399277bda730"
 metafile = true
 
 [[files]]
@@ -142,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "23f887602dfc3ca7ea4d6c4e006c6e626888b0b6fc15e295d867b9bc4338d011"
+hash = "f69f55dabac4131c59270b9d959f1cbef8a3bff3f91f46e650b535caeeb6def1"
 metafile = true
 
 [[files]]
@@ -167,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8223bba9553bec00c6ef1ff2bffd3c01af425d4333d1d277eda923d6e0243085"
+hash = "0be661528eb99c95d26a41e410546ca72d96d15dac67077cb8d07d85e47d52e8"
 metafile = true
 
 [[files]]
@@ -217,12 +213,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynlights.pw.toml"
-hash = "38cf696cac95109d23ddb0417c187822f7702c8e01853432d33e5a3279f668ba"
+hash = "de0195b28e8ecb5d39301c231e7233259fc1f954bd30a3ea7988844859ab2f5a"
 metafile = true
 
 [[files]]
 file = "mods/languagereload.pw.toml"
-hash = "9c3db3e3ebf6eabb25969b1804c7e57c004b2f610073e6e16bdae1663374c467"
+hash = "d828a9836885476bcabbd82ac1f26cb34d6d79708bfe760539b77af36f681726"
 metafile = true
 
 [[files]]
@@ -282,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ff033c1108a708c56fb9f8536674fbb8e8e334fe4761d76124de8189c0bf90eb"
+hash = "e58d936d49b6b7a48d637b6b7982b637a3407ce255dd88420fba7f549621419e"
 metafile = true
 
 [[files]]
@@ -312,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/yet_another_config_lib_v3.pw.toml"
-hash = "e2fd7d3ecd299436a698b52cdefef867cd003b01a67f998a61a1ed8354ba3930"
+hash = "a0fb7c3e9a84a63a6179fa7368025a581bbb36b3ccfaacdf6d721d418028d869"
 metafile = true
 
 [[files]]
@@ -327,14 +323,14 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "914f84bf16ddc711432f4dfac052d1dba01b67a072d1e17b79f87706f3e9fb0f"
+hash = "4b287326773a82757b9f0c13dfa3adf9b70a08b140303967fe34acd03af99488"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "495a91b2cde82f71114bfd3fe4d96cffdc7957f531cff3c4d2341aa2815ea197"
+hash = "bee6c64842f95397779bb3928063e77005633247e889fbd313b157b79bd284b3"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "296f09e160646f2737e229ec75acca10b46ce2d461bcd4987e06669f0c26510f"
+hash = "7df04c137760591c157aee5f7cf86929a5fb959aa87dc835a40399c1b9dcf7e1"
 metafile = true
