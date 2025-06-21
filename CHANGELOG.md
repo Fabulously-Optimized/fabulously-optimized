@@ -3,6 +3,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Chase the Skies (10.x.x)
 
+### 10.0.0-alpha.4 (2025-06-21)
+
+- Updated Controlify
+  - Fixed crash on Linux
+- Config GUI crashes (edit config file instead!): Capes
+- Temporarily incompatible: Animatica/MoreMcmeta, Fabrishot/Bigshot, BetterMountHud, Continuity, Enhanced Block Entities, e4mc, FastQuit, ModernFix, No Chat Reports, Paginated Advancements, Polytone
+
 ### 10.0.0-alpha.3 (2025-06-21)
 
 - Readded Controlify, Entity Culling, MoreCulling, Reese's Sodium Options, Sodium Extra, Zoomify
