@@ -149,6 +149,11 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 8.0.3 (2025-06-21)
+
+- Updated Controlify
+  - Fixed crash on Linux
+
 ### 8.0.2 (2025-06-21)
 
 - Updated BetterGrassify, Controlify, Dynamic FPS, Entity Culling, LambDynamicLights, Language Reload, Polytone, YetAnotherConfigLib
