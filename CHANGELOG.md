@@ -30,6 +30,12 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 ## 1.21.5
 
+### 9.0.0-beta.7 (2025-06-21)
+
+- Updated Controlify
+  - Fixed crash on Linux
+- Temporarily incompatible Animatica/MoreMcmeta, Enhanced Block Entities, ModernFix
+
 ### 9.0.0-beta.6 (2025-06-21)
 
 - Updated Entity Model Features, BetterGrassify, Controlify, Dynamic FPS, Entity Culling, Fabric API, Language Reload, Lithium, YetAnotherConfigLib
