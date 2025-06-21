@@ -3,9 +3,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Chase the Skies (10.x.x)
 
+### 10.0.0-alpha.3 (2025-06-21)
+
+- Readded Controlify, Entity Culling, MoreCulling, Reese's Sodium Options, Sodium Extra, Zoomify
+- Updated Cloth Config API, Fabric API, ImmediatelyFast, Mod Menu, Remove Reloading Screen
+- Config GUI crashes (edit config file instead!): Capes
+- Temporarily incompatible: Animatica/MoreMcmeta, Fabrishot/Bigshot, BetterMountHud, Continuity, Enhanced Block Entities, e4mc, FastQuit, ModernFix, No Chat Reports, Paginated Advancements, Polytone
+
 ### 10.0.0-alpha.2 (2025-06-18)
 
 - Removed EntityCulling due to crashes
+- Config GUI crashes (edit config file instead!): Capes
 - Temporarily incompatible: Animatica/MoreMcmeta, Fabrishot/Bigshot, BetterMountHud, Controlify, Continuity, Enhanced Block Entities, e4mc, EntityCulling, FastQuit, ModernFix, MoreCulling, No Chat Reports, Paginated Advancements, Polytone, Reese's Sodium Options, Sodium Extra, Zoomify
 
 ### 10.0.0-alpha.1 (2025-06-18)
