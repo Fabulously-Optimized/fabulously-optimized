@@ -3,6 +3,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Chase the Skies (10.x.x)
 
+### 10.0.0-alpha.5 (2025-06-25)
+
+- Readded Animatica, Better Mount HUD, FastQuit
+- Updated Fabric API, Fabric Language Kotlin, Forge Config API Port, Sodium Extra
+- Hidden tr7zw API module from Mod Menu
+- Config GUI crashes (edit config file instead!): Capes
+- Temporarily incompatible: Fabrishot/Bigshot, Continuity, e4mc, No Chat Reports, Paginated Advancements, Polytone
+
 ### 10.0.0-alpha.4 (2025-06-21)
 
 - Updated Controlify
@@ -37,7 +45,7 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 ## 1.21.5
 
-### 9.0.0
+### 9.0.0 (2025-06-25)
 
 - Added Bigshot - alternative to Fabrishot
 - Removed Fabrishot - not yet up to date
