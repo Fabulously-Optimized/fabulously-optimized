@@ -37,6 +37,19 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 ## 1.21.5
 
+### 9.0.0
+
+- Added Bigshot - alternative to Fabrishot
+- Removed Fabrishot - not yet up to date
+- Removed Enhanced Block Entities - not yet up to date
+- Removed ModernFix - not yet up to date
+
+**Changes from 9.0.0-beta.7 to 9.0.0**
+
+- Readded Animatica
+- Updated Fabric Language Kotlin, Fabric API
+- Hidden tr7zw API module from Mod Menu
+
 ### 9.0.0-beta.7 (2025-06-21)
 
 - Updated Controlify
