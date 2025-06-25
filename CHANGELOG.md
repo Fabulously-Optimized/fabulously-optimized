@@ -162,6 +162,14 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 8.1.0 (2025-06-25)
+
+- Readded Animatica
+- Removed MoreMcmeta
+- Updated Polytone, Fabric Language Kotlin
+- Set FPS to 30 when Minecraft is in the background (not minimized) for better viewing
+- Hidden tr7zw API module from Mod Menu
+
 ### 8.0.3 (2025-06-21)
 
 - Updated Controlify

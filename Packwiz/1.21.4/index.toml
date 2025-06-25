@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "c6d1ae6706c71aa80c7593ff402d7cbc4605f687903f8ed39a16924efa598a23"
+hash = "1ec888bee481cc26c12367ed3a3422fd123c794cc7c46bfdb7adf34f47843a00"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a1c91351e2e64778af781019f6043d2624defba89e0f07457a298760c3944171"
+hash = "4043d361d3df03b72a2748e80fcde39ef2fc21f69c9b438000081495bc927b73"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "3f4aa752f42478bfec1e0e3eee4e2f17d18e287a2cd8609f096345fb5dd1e3ab"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -38,7 +42,7 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -73,10 +77,6 @@ file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "010db0b80e2020a61272588e82c39aa27a0a4882ce3c5ac0e549c25eabdf460c"
-
-[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
@@ -95,6 +95,11 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "74095f4f35241c22e42d51ea9c38811126e901a1c89c697b84d4e3c1eacd8ec9"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "eb12da5de7d30981302822daf803bf931f5fea8062c12afbc545b93df10db2a2"
+metafile = true
 
 [[files]]
 file = "mods/bettergrass.pw.toml"
@@ -173,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "556774f1a32c3967f1ec5b912b1aefb05f44070121ab91c9852d3bde3babd2e3"
+hash = "79422ee22e5cb624dc8b7a144e6ec5269d748434c7c64cb14fe6c0c730b2779f"
 metafile = true
 
 [[files]]
@@ -257,11 +262,6 @@ hash = "9582399e9ac1e3fc76a9b78b7d400f04d2e26dba5c4714704290560c55b81b4f"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "9caba11ed8e4aaff000a7769ceeea653cbc85c89990a6d979c7b45f7681008ac"
-metafile = true
-
-[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "3c9ecc37e1bdfb593a488ba307d0e06b6ed8d5f53c1d4a1a5ca2cf21db2333cb"
 metafile = true
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e58d936d49b6b7a48d637b6b7982b637a3407ce255dd88420fba7f549621419e"
+hash = "3f48d69909936b11338f3d3d6522b6b036ac3ee32febe0a10bf0e989939ca018"
 metafile = true
 
 [[files]]
