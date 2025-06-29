@@ -11,7 +11,7 @@ body:
 - type: textarea
   attributes:
     label: What config to change
-    description: Describe the change you want me to make. This is NOT the place to request new features that do not already exist in included mods, ask that from the mods themselves.
+    description: Describe the change you want to suggest in the configuration of the modpack.
   validations:
     required: true
 
@@ -28,3 +28,18 @@ body:
     description: Anything else you want to add?
   validations:
     required: false
+
+- type: input
+  attributes:
+    label: Discord discussion link
+    description: Was this also discussed on the Fabulously Optimized Discord (optional)? If so, copy the link here.
+    placeholder: https://discord.com/channels/859124104644788234/...
+  validations:
+    required: false
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+      - label: This is a request to change the configuration of the modpack, whether by adjusting vanilla settings, mod settings, instance structure or something else. This is not a request for new features that do not already exist in added mods.
+        required: true
