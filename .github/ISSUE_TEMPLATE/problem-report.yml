@@ -36,13 +36,6 @@ body:
   validations:
     required: true
 
-- type: checkboxes
-  attributes:
-    label: Confirm
-    options:
-      - label: This bug report is about an issue with the modpack itself, I have not modified the mods nor added any resource packs. If this is not the case, I know that I should post the issue to modpack's Discord support channel instead.
-        required: true
-    
 - type: textarea
   attributes:
     label: Additional context
@@ -51,3 +44,18 @@ body:
       Tip: You can attach images or log files by clicking this area to highlight it and then dragging files in.
   validations:
     required: false
+
+- type: input
+  attributes:
+    label: Discord discussion link
+    description: Was this also discussed on the Fabulously Optimized Discord (optional)? If so, copy the link here.
+    placeholder: https://discord.com/channels/859124104644788234/...
+  validations:
+    required: false
+
+- type: checkboxes
+  attributes:
+    label: Confirm
+    options:
+      - label: This bug report is about an issue with the modpack itself, I have not modified the mods nor added any resource packs. If this is not the case, I know that I should post the issue to modpack's Discord support channel instead.
+        required: true

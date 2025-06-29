@@ -38,6 +38,14 @@ body:
   validations:
     required: false
 
+- type: input
+  attributes:
+    label: Discord discussion link
+    description: Was this also discussed on the Fabulously Optimized Discord (optional)? If so, copy the link here.
+    placeholder: https://discord.com/channels/859124104644788234/...
+  validations:
+    required: false
+
 - type: checkboxes
   attributes:
     label: Confirm
