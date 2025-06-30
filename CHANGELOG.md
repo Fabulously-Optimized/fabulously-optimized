@@ -3,7 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Chase the Skies (10.x.x)
 
-### 10.0.0-alpha.6 (2025-06-25)
+## 1.21.7
+
+### 10.1.0-alpha.1 (2025-06-30)
+
+Now with Lava Dennis music disc and a painting of Chicken! Wait a minute...
+
+- Updated Fabric API
+- Config GUI crashes (edit config file instead!): Capes
+- Force-enabled: ImmediatelyFast, Lithium, Forge Config API Port
+- Temporarily incompatible: Continuity, Paginated Advancements, Polytone
+
+## 1.21.6
+
+### 10.0.0-alpha.6 (2025-06-30)
 
 ⚠️ Warning: Some crashes, rendering and texture errors were found on 1.21.6. Mojang has released 1.21.7 to fix this, see the FO version above.
 
