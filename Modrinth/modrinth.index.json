@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.0.0-alpha.5",
+    "versionId": "10.0.0-alpha.6",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -63,6 +63,21 @@
                 "https://cdn.modrinth.com/data/5ZwdcRci/versions/fjgmP9rv/ImmediatelyFast-Fabric-1.10.1%2B1.21.6.jar"
             ],
             "fileSize": 193147
+        },
+        {
+            "path": "mods/NoChatReports-FABRIC-1.21.6-v2.13.0.jar",
+            "hashes": {
+                "sha1": "bcb55c2816544496434c918e5cc8785a0c43bbfe",
+                "sha512": "8586a61185d4c381ccfef2f8e4cce04cd43e4d1d13bf89ece643495b41e1942c0a2c82f438f7e2afcd8ad0babed16265182da82316c55929eb293c763c317678"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/G2i6IY0q/NoChatReports-FABRIC-1.21.6-v2.13.0.jar"
+            ],
+            "fileSize": 249097
         },
         {
             "path": "mods/Zoomify-2.14.4+1.21.6.jar",
@@ -170,19 +185,34 @@
             "fileSize": 81623
         },
         {
-            "path": "mods/dynamic-fps-3.9.5+minecraft-1.21.6-fabric.jar",
+            "path": "mods/dynamic-fps-3.9.6+minecraft-1.21.6-fabric.jar",
             "hashes": {
-                "sha1": "f1b9b74a347d8d9d90d6ca6b8cbcb992274af2c5",
-                "sha512": "b864d3867844efc5f008d82cf49874ffe03896bdf41c1e1bb34239a3eeabcd73c9be4c08abea1d433858caf55854f99733c47bb67ae9a5ff2929f457d7777132"
+                "sha1": "e4f593a40029b7d5cbfbc93ce6d8c4fd399ae1ff",
+                "sha512": "8614a8be32272ce18db06ab48736a134b7c572814b8dd9d736f74f81b5b684e94d60ad084fd3b7692cc18eb6646cf1d3b2c858a831b6dd5e8302c2ec562194f9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/AHcEGvdn/dynamic-fps-3.9.5%2Bminecraft-1.21.6-fabric.jar"
+                "https://cdn.modrinth.com/data/LQ3K71Q1/versions/PqIDU2GY/dynamic-fps-3.9.6%2Bminecraft-1.21.6-fabric.jar"
             ],
-            "fileSize": 192504
+            "fileSize": 192532
+        },
+        {
+            "path": "mods/e4mc_minecraft-fabric-5.4.1.jar",
+            "hashes": {
+                "sha1": "6642811581b3d56d836a1239ff5b686d07046ac6",
+                "sha512": "39436cd5094b22bd0669f08ea0883b910f16873717f6a8e3fbd92e1bf5dc9037aacf5f3d60d338c09a89f498f69cf7472da4dffa38e728961944f517b3ef7e7c"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/qANg5Jrr/versions/baNcxaPZ/e4mc_minecraft-fabric-5.4.1.jar"
+            ],
+            "fileSize": 583322
         },
         {
             "path": "mods/entity_model_features_fabric_1.21.6-2.4.4.jar",
@@ -230,19 +260,19 @@
             "fileSize": 467368
         },
         {
-            "path": "mods/fabric-api-0.128.0+1.21.6.jar",
+            "path": "mods/fabric-api-0.128.1+1.21.6.jar",
             "hashes": {
-                "sha1": "1fecf6eec45de8bd315fbe23a03b86bc217accc2",
-                "sha512": "c668402e1a877c2d572d16e31e6d2783be27a80993fa83bf040ea2007994518786bd3140dcea15334f8ee1630836292b8ae4d41444e47cba0ac43d05f1eb1e78"
+                "sha1": "5e7c6d26be05fa9c13b3e03e482c43e85dff96c2",
+                "sha512": "9a2ba04dd5bc6db3eb19024144fa7967d9a6a1683203d472da333db986bfe7bfc95871d8a8b6ba1cbc684b1a1fa22fa23f32452f4e45865947b8119db0b87968"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/b2dnY6PN/fabric-api-0.128.0%2B1.21.6.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/r7pYmeRI/fabric-api-0.128.1%2B1.21.6.jar"
             ],
-            "fileSize": 2210114
+            "fileSize": 2210131
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
@@ -258,6 +288,21 @@
                 "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar"
             ],
             "fileSize": 7387359
+        },
+        {
+            "path": "mods/fabrishot-1.16.1.jar",
+            "hashes": {
+                "sha1": "2a725e294ab1aeb2fe135fcf9f0c2a695ead2399",
+                "sha512": "fa679671034eef19338992cbaf7ec7316259ea32c3437eed44386be8f1d4cfae8b11b4cad8aada9dd3c2c329076f5b0597fad93c4dc85a850c324e078761707f"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/3qsfQtE9/versions/Zi2NZDy6/fabrishot-1.16.1.jar"
+            ],
+            "fileSize": 49073
         },
         {
             "path": "mods/fastquit-3.1.1+mc1.21.6.jar",
@@ -290,19 +335,19 @@
             "fileSize": 79653
         },
         {
-            "path": "mods/iris-fabric-1.9.0+mc1.21.6.jar",
+            "path": "mods/iris-fabric-1.9.1+mc1.21.7.jar",
             "hashes": {
-                "sha1": "f311ec5230a9af2696f5c4a35519f5a973c2ac10",
-                "sha512": "c35c3a24854f07e0961dc4e9c161d85cc34e052175a92ae858b06e03647b2c8c87d84cbed58db5fde3968023ce881149804a8707693d250c0506d6d03fba92d5"
+                "sha1": "99263e7d7ae31b4eda6fb66c9790bc2763f9ec3d",
+                "sha512": "eb02e94fbdc78bd8d2bb809819bf5050974c98e7d05c362cfc62bc8fbd75d62583da772dbd1956c43b0ad1e9e850012cb4b304a3e1d4040aaae09a328dbc8355"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/Ga9fyDY6/iris-fabric-1.9.0%2Bmc1.21.6.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/l77DAK6U/iris-fabric-1.9.1%2Bmc1.21.7.jar"
             ],
-            "fileSize": 2722947
+            "fileSize": 2722729
         },
         {
             "path": "mods/lambdynamiclights-4.3.0+1.21.6.jar",
@@ -562,32 +607,32 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "2d9481905d7627f47c944e52c2650b118be48774",
-                "sha512": "c19dd25487c386813c4eeaafaa78c0b300e1e963cb2adc1a3039eca336dd6a982061c499946ae86a3554227b60fd1739912706dfc29a00e5fbc61ed9a6351304"
+                "sha1": "1efaba99432c53a73cfbb310dfa6791b769093a1",
+                "sha512": "e71f647ec84482bfbc9cf8b7258e4d49cfc035e6c9e84145d2f041b71f40a8fee0b83090f248897379cfff867e2a72054b415301bfed47466dc131ab37152feb"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/ZjiI2Okn/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/bc52EnY6/Chat%20Reporting%20Helper.zip"
             ],
             "fileSize": 66028
         },
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "9c594f8b09fb2fb3aa460fc5a203944cb1ff9faf",
-                "sha512": "c65917f5baa3a50bbd7d18697442dd3eec0a6ac96f77edf603ee5ff590da9cd9acf0e8d57929f369326ea9ee97c93367c4e7068ff405f488690292f72b55192d"
+                "sha1": "fe667fd659131847bd76b23578ac05505c715a44",
+                "sha512": "c288e2046fa5ca6db6537a3896f1b4e1d5697a7fc8486307b2c31fff84fb2f0e73ed19db28dd957c28640a3eab476beff641e59f2fa3c8205beb0d90779864e4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/WZQGmjDS/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/3sDdaIcF/SodiumTranslations.zip"
             ],
-            "fileSize": 225093
+            "fileSize": 225537
         }
     ],
     "dependencies": {

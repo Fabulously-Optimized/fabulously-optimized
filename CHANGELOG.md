@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Chase the Skies (10.x.x)
 
+### 10.0.0-alpha.6 (2025-06-25)
+
+⚠️ Warning: Some crashes, rendering and texture errors were found on 1.21.6. Mojang has released 1.21.7 to fix this, see the FO version above.
+
+- Readded Fabrishot, e4mc, No Chat Reports
+- Updated Dynamic FPS, Fabric API, Iris Shaders
+- Config GUI crashes (edit config file instead!): Capes
+- Temporarily incompatible: Continuity, Paginated Advancements, Polytone
+
 ### 10.0.0-alpha.5 (2025-06-25)
 
 - Readded Animatica, Better Mount HUD, FastQuit

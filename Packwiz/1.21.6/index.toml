@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "64a74a532863d208e95cde999b67da0761619ccc4a324855f17801b26a402e6f"
+hash = "3afe67dc180f57adc4ee86a6db91974ede94857826663168f7a3b2ac5162b100"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "87badad648b06bf4049a872361fc60368d3e12f3de5e177c166623bba0aa3e45"
+hash = "ada585e1ba6d866db2315896840300e240b3eaea272ab1c2a9ec5c56a7cc500b"
 
 [[files]]
 file = "config/modmenu.json"
@@ -134,7 +134,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "425bad83bfc0120a07e1ada0e66a8b8cfe575c562aa3f010ce4c3048163b2436"
+hash = "445b648266c321b8a8e2a9189d6f0c8f193a2741c890302d1dda3f5c2ede00a7"
+metafile = true
+
+[[files]]
+file = "mods/e4mc_minecraft.pw.toml"
+hash = "4fccf07488477e34089ffc2b6fff107975fc08c90bae9ae5d08b30244476e597"
 metafile = true
 
 [[files]]
@@ -154,12 +159,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1633e7e6697142759e2ade25dd1deccbd46203055694a67e8c2d734fe22dda90"
+hash = "5ca561ed84ee8608396125c6e11b72f17d3bc2d015d93c9d108872cf32222071"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "79422ee22e5cb624dc8b7a144e6ec5269d748434c7c64cb14fe6c0c730b2779f"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "2c11732bb5d28e8554ddc61385bc5fc63061397e763d4a4bceae4f2195111e9b"
 metafile = true
 
 [[files]]
@@ -184,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7a0d423ebd40578c648dca67c921c1124f09e4096d622faa6ad59dcecc4a39ac"
+hash = "5a5b3079e61aeb2d52e595ad206fb46411e745b9914a71debbf675d0ab853cf3"
 metafile = true
 
 [[files]]
@@ -230,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "e7cfbed2a755184f5edd3fd602301a9e7538dbd8f5a332877c36d07ca757d23c"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "64608f93d39f1c07706b54b20452de5b1b6d08410b0e3c8c71d30fabeb1a1ae7"
 metafile = true
 
 [[files]]
@@ -279,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "4b287326773a82757b9f0c13dfa3adf9b70a08b140303967fe34acd03af99488"
+hash = "9cadf9bed74fa39b17c3a5a03eeaba82ea2b118e4ec0c89ef9afc22b9b11de03"
 metafile = true
 
 [[files]]
@@ -288,5 +303,5 @@ hash = "0e9545cc93dda9a0c5c2948c2818a808be44c30c332bedd21eec6b3da51a2dcd"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "7df04c137760591c157aee5f7cf86929a5fb959aa87dc835a40399c1b9dcf7e1"
+hash = "ba140177c27399ebd953420638eda2304f9e5ce8b3be7da79e3899193f4c5879"
 metafile = true
