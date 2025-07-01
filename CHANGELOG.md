@@ -8,7 +8,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 ### 10.1.0-alpha.2 (2025-07-01)
 
 - Updated Debugify, Forge Config API Port, ImmediatelyFast, Lithium
-- Fixed high-resolution hotkey note being crossed out despite being available
+- Fixed high-resolution screenshot hotkey note being crossed out despite being available
 - Config GUI crashes (edit config file instead!): Capes
 - Temporarily incompatible: Continuity, Paginated Advancements, Polytone
 
