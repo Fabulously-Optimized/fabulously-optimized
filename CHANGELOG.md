@@ -5,7 +5,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.7
 
-### 10.1.0-beta.1 (2025-07-01)
+### 10.1.0-alpha.2 (2025-07-01)
 
 - Updated Debugify, Forge Config API Port, ImmediatelyFast, Lithium
 - Fixed high-resolution hotkey note being crossed out despite being available
