@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.7
 
+### 10.1.0-alpha.3 (2025-07-06)
+
+- Readded Paginated Advancements
+- Updated Entity Culling, Fabric API, No Chat Reports
+- Hidden tr7zw API module from Mod Menu (again)
+- Config GUI crashes (edit config file instead!): Capes
+- Temporarily incompatible: Continuity, Polytone
+
 ### 10.1.0-alpha.2 (2025-07-01)
 
 - Updated Debugify, Forge Config API Port, ImmediatelyFast, Lithium

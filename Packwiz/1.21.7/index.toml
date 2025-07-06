@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f1eff7bae7802ba0ffe841078b0f1fa2e660d6ce977fae62e22e066b57218e14"
+hash = "972ca096408ba016179edb6f903d69d5416d869a548831f0882925944ec7fcfa"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4a9c6a6a730662867f154af519cad5e6649630a3e3df5883ff4769eb6612d997"
+hash = "92a97e9ce3f5f74853b57db6193361340a1b508aad541ef1a5062a5427dddd99"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "56e85c53f4097e9c662c097f2b0b4c1a22bdb550bb80c69a58904dcf6728d139"
+hash = "3d5acd7b609d9ad0a431862bdb518842e364c3cd32cf913bed753fd6ba664c0e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -154,12 +154,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "203a0b17a4cffc8207704485cf65243589604e15b314055c95f2491508d49491"
+hash = "14686e021e1edf0cedd8197bfe4d3fa01c60733809668b3f7b7695a7bddbcc34"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e9e3618851008817bc58229e862d81164c22ae757c68499253d4df21ebf72f62"
+hash = "dd39da4a1cea15a10fca668f813dea73da905dae823cf4f823a89d7113921f49"
 metafile = true
 
 [[files]]
@@ -244,12 +244,17 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "64608f93d39f1c07706b54b20452de5b1b6d08410b0e3c8c71d30fabeb1a1ae7"
+hash = "b2484dbeb2eb2fbdefa2497f2061c98438aab667d90e802194d23db1b1c51931"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "783c692c7a659e03c8e9e459396e204e774bb5584bdb6842d022b9715a4a6e05"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "a740f0b5479430f0f5c8128d2917635745a6a04d85caae059fb99f3d8a3fb0fe"
 metafile = true
 
 [[files]]
@@ -303,5 +308,5 @@ hash = "b070a1d08f6d0f348f4f4ae8784926df52dc995e321badf30af4c3668b7b5482"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "ba140177c27399ebd953420638eda2304f9e5ce8b3be7da79e3899193f4c5879"
+hash = "730a7c036f718fa41d09ef70bcce2cc467bcb3837a4bef49f0741d5c11149a6e"
 metafile = true
