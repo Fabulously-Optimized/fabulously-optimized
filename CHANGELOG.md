@@ -9,7 +9,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 - Readded Paginated Advancements
 - Updated Entity Culling, Fabric API, No Chat Reports
-- Hidden tr7zw API module from Mod Menu (again)
+- Hid tr7zw API module from Mod Menu (again)
 - Config GUI crashes (edit config file instead!): Capes
 - Temporarily incompatible: Continuity, Polytone
 
@@ -44,7 +44,7 @@ Now with Lava Dennis music disc and a painting of Chicken! Wait a minute...
 
 - Readded Animatica, Better Mount HUD, FastQuit
 - Updated Fabric API, Fabric Language Kotlin, Forge Config API Port, Sodium Extra
-- Hidden tr7zw API module from Mod Menu
+- Hid tr7zw API module from Mod Menu
 - Config GUI crashes (edit config file instead!): Capes
 - Temporarily incompatible: Fabrishot/Bigshot, Continuity, e4mc, No Chat Reports, Paginated Advancements, Polytone
 
@@ -93,7 +93,7 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 - Readded Animatica
 - Updated Fabric Language Kotlin, Fabric API
-- Hidden tr7zw API module from Mod Menu
+- Hid tr7zw API module from Mod Menu
 
 ### 9.0.0-beta.7 (2025-06-21)
 
@@ -226,7 +226,7 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 - Removed MoreMcmeta
 - Updated Polytone, Fabric Language Kotlin
 - Set FPS to 30 when Minecraft is in the background (not minimized) for better viewing
-- Hidden tr7zw API module from Mod Menu
+- Hid tr7zw API module from Mod Menu
 
 ### 8.0.3 (2025-06-21)
 
