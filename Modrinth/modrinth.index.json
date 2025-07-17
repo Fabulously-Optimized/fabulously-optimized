@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.1.0-alpha.4",
+    "versionId": "10.2.0-alpha.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -275,19 +275,19 @@
             "fileSize": 472058
         },
         {
-            "path": "mods/fabric-api-0.129.0+1.21.7.jar",
+            "path": "mods/fabric-api-0.129.0+1.21.8.jar",
             "hashes": {
-                "sha1": "60bb50ad1f7d316be9ba662e84089e1affdd44e6",
-                "sha512": "43bf6af145a6b450503a6d7e7ec9a34912bd1494969b5d8861067f0f846cf710805415fb0fbc93c9ae9f5164d45c7649342f84b4f34552b2abdd892fd3b9838e"
+                "sha1": "9be74f9c3120ffb9f38df8f4164392d69e6ba84e",
+                "sha512": "471babff84b36bd0f5051051bc192a97136ba733df6a49f222cb67a231d857eb4b1c5ec8dea605e146f49f75f800709f8836540a472fe8032f9fbd3f6690ec3d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/JntuF9Ul/fabric-api-0.129.0%2B1.21.7.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/X2hTodix/fabric-api-0.129.0%2B1.21.8.jar"
             ],
-            "fileSize": 2212353
+            "fileSize": 2212412
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
@@ -667,6 +667,6 @@
     ],
     "dependencies": {
         "fabric-loader": "0.16.14",
-        "minecraft": "1.21.7"
+        "minecraft": "1.21.8"
     }
 }
