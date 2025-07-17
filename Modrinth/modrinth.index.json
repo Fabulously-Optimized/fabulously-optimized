@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.1.0-alpha.3",
+    "versionId": "10.1.0-alpha.4",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -50,19 +50,19 @@
             "fileSize": 633811
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.11.0+1.21.7.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.11.1+1.21.7.jar",
             "hashes": {
-                "sha1": "02f0ce09c1e36f2ee90eb453828594b6703b53c9",
-                "sha512": "efa1d072e8c9358faebf9fe83829a2862e70c904b4a7f3b260d89c24afd40c1eaf8bd3edd2f453353fdd42ac09daf72b8c8e774f60cb53bce9b6a24754092a39"
+                "sha1": "faef8ae08d04d7c8bf51a64c7494a29835d6333e",
+                "sha512": "eef434e65779a974139932d0d394f6b87baef29e3ed328d97c4e32c6be433a025d0971ee821770b870117787d09d7c45e477a55d1b16535988fc9fcbb686531d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/cuRqLEAA/ImmediatelyFast-Fabric-1.11.0%2B1.21.7.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/riHCXrIc/ImmediatelyFast-Fabric-1.11.1%2B1.21.7.jar"
             ],
-            "fileSize": 193148
+            "fileSize": 193177
         },
         {
             "path": "mods/NoChatReports-FABRIC-1.21.7-v2.14.0.jar",
@@ -125,19 +125,19 @@
             "fileSize": 21069
         },
         {
-            "path": "mods/capes-1.5.5+1.21.5-fabric.jar",
+            "path": "mods/capes-1.5.6+1.21.7-fabric.jar",
             "hashes": {
-                "sha1": "d884add3efd389b32e71dba63b1267840c89fcd6",
-                "sha512": "f20af10a347e249c361199eaabc4e82197ca77235cb6f30d75aef229f86df9c02039697e0d3e63610802a0035f9185818ae3e76fc35cd9203c84a12387faa266"
+                "sha1": "925d937eaf34dfbf77f25b6e97ed0f149ad6fe53",
+                "sha512": "af6587525e3d96bb4f26549af70ab8f91593d8c93af040521188d530b0832ccbf5e651a24ba6c0dbcec7e2373a2feb4a0349884662f48a99982f972ded362430"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar"
+                "https://cdn.modrinth.com/data/89Wsn8GD/versions/Dew5OFOW/capes-1.5.6%2B1.21.7-fabric.jar"
             ],
-            "fileSize": 65743
+            "fileSize": 68154
         },
         {
             "path": "mods/cloth-config-19.0.147-fabric.jar",
@@ -153,6 +153,21 @@
                 "https://cdn.modrinth.com/data/9s6osm5g/versions/cz0b1j8R/cloth-config-19.0.147-fabric.jar"
             ],
             "fileSize": 1149126
+        },
+        {
+            "path": "mods/continuity-3.0.1-beta.1+1.21.6.jar",
+            "hashes": {
+                "sha1": "4bc922092c48b211e1981ef3403148f24313590a",
+                "sha512": "95b1a4529d8e4a7154dc82294e4733d629aef1025a2ecaa48f04f4976e02e8e15ac0b2a35b56762e07f51dbebe59dce12e4b40d0291924e70490f91e1a67daed"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/1IjD5062/versions/m0cvWhzT/continuity-3.0.1-beta.1%2B1.21.6.jar"
+            ],
+            "fileSize": 994756
         },
         {
             "path": "mods/controlify-2.2.1+1.21.6-fabric.jar",
@@ -260,19 +275,19 @@
             "fileSize": 472058
         },
         {
-            "path": "mods/fabric-api-0.128.2+1.21.7.jar",
+            "path": "mods/fabric-api-0.129.0+1.21.7.jar",
             "hashes": {
-                "sha1": "cc4edcec406d1d80acba028b50cf51ad021ba0b4",
-                "sha512": "afb9b3d1040689f53dd51341626b04d197e7d057d578a72c7a374a66465e0e07f5b3d52721d71e36be26d197668d3a96ea50dbb85e2bc5835d9d858e31b15966"
+                "sha1": "60bb50ad1f7d316be9ba662e84089e1affdd44e6",
+                "sha512": "43bf6af145a6b450503a6d7e7ec9a34912bd1494969b5d8861067f0f846cf710805415fb0fbc93c9ae9f5164d45c7649342f84b4f34552b2abdd892fd3b9838e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/JIZogEYa/fabric-api-0.128.2%2B1.21.7.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/JntuF9Ul/fabric-api-0.129.0%2B1.21.7.jar"
             ],
-            "fileSize": 2209771
+            "fileSize": 2212353
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
@@ -637,17 +652,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "0f1e4d4f11d8154163bc01b3f7e7588c54bde132",
-                "sha512": "daf32bbc080ac0d3100da0dd5c284d79dbc59428b9320301c7d4363e93c0ef33c8244ebe5be1d30afac7fed055ba567fc500246b5276dc46999dea6340c8d55a"
+                "sha1": "19a2f380a3a43077624f692f7532a480cdfae21a",
+                "sha512": "592dcd2a76b3b683730c7260a5f9338b96207a1549c5630c8ae548d4593fffd178e91d6c6926fd3715b29e01cefb8fe338dc071bce3bb58eb5a35707e07d77c4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/gg2j3lh7/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/kMhmZLcr/SodiumTranslations.zip"
             ],
-            "fileSize": 225741
+            "fileSize": 225824
         }
     ],
     "dependencies": {

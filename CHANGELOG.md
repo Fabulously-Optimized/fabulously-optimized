@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.7
 
+### 10.1.0-alpha.4 (2025-07-17)
+
+- Readded Continuity
+- Removed Entity Texture Features and Entity Model Features - some 1.21.7-specific bugs were found, waiting for an update
+- Updated Capes, Fabric API, ImmediatelyFast
+- Temporarily incompatible: Entity Model Features, Entity Texture Features, Polytone
+
 ### 10.1.0-alpha.3 (2025-07-06)
 
 - Readded Paginated Advancements
