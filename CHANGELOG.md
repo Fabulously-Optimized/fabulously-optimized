@@ -7,6 +7,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 10.2.0-alpha.1 (2025-07-17)
 
+A new Minecraft version with fixes against game freezing and crashes! Not available on CurseForge due to file rejection (Fabric API not marked as 1.21.8-compatible).
+
 - Updated Fabric API
 - Force-enabled: ImmediatelyFast, Lithium, Forge Config API Port
 - Temporarily incompatible: Entity Model Features, Entity Texture Features, Polytone
