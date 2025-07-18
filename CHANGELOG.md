@@ -5,22 +5,31 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0-beta.1 (2025-07-18)
+
+- Updated Entity Culling, Forge Config API Port, ImmediatelyFast, Lithium
+- Available in CurseForge App again
+- Temporarily incompatible: Polytone
+
 ### 10.2.0-alpha.1 (2025-07-17)
 
 A new Minecraft version with fixes against game freezing and crashes! Not available on CurseForge due to file rejection (Fabric API not marked as 1.21.8-compatible).
 
 - Updated Fabric API
 - Force-enabled: ImmediatelyFast, Lithium, Forge Config API Port
-- Temporarily incompatible: Entity Model Features, Entity Texture Features, Polytone
+- Temporarily incompatible: Polytone
+
+_The removal of Entity Texture Features and Entity Model Features in this version was not actually done (nor necessary) and as such the changelog has been edited._
 
 ## 1.21.7
 
 ### 10.1.0-alpha.4 (2025-07-17)
 
 - Readded Continuity
-- Removed Entity Texture Features and Entity Model Features - some 1.21.7-specific bugs were found, waiting for an update
 - Updated Capes, Fabric API, ImmediatelyFast
-- Temporarily incompatible: Entity Model Features, Entity Texture Features, Polytone
+- Temporarily incompatible: Polytone
+
+_The removal of Entity Texture Features and Entity Model Features in this version was not actually done (nor necessary) and as such the changelog has been edited._
 
 ### 10.1.0-alpha.3 (2025-07-06)
 
