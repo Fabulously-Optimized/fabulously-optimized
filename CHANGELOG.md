@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0-beta.2 (2025-07-26)
+
+- Readded Polytone
+  - According to the developer, it is an early build and not all features may work yet
+  - Force-enabled in this case refers to the mod being built for 1.21.7 (usually cross-compatible with 1.21.8 but here not marked as such)
+- Updated Debugify, Capes, BetterGrassify
+- Force-enabled: Polytone
+
 ### 10.2.0-beta.1 (2025-07-18)
 
 - Updated Entity Culling, Forge Config API Port, ImmediatelyFast, Lithium

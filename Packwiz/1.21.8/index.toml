@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f7ad4e6167aec20dac0b19bffe6cd6c20a4f777c946370592212a1a98829ba02"
+hash = "6ddca5af584147e1742ee5e99115ddb1ec81a6cf464687e63bedb76e198ed416"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d9376c71e906a2e1cc33a7889d228baed8bde74613b239f9d2453879a1e2c00d"
+hash = "0eb203d2906cff4989a2ded20f54f3cfa588abb6d9da76047faf462c851e58cf"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrass.pw.toml"
-hash = "60d2e2fd1adf8d42d3abb721d1b0f045af830a330a655c0c68fcae8f2752ca81"
+hash = "fad608cbcee132e75f28e6633275800760c0b07fed91553f20aa43772e924890"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "1bfedb11721bd4bb8a38b9935aed0d4508f0c01f448c5936e34f1875944a0eab"
+hash = "f0061efbcfe7cf93ce0a26c8159c8828dc08c244fc4317a91460df353bce2cd7"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "7f1fa73e5bd6bfd3dee48f2f7ec313b43341a52ed69523301bdfa348228925f1"
+hash = "05ebc0d7cef895e766ce7fbd6198519239e839d7650b7a654951a267034c0115"
 metafile = true
 
 [[files]]
@@ -263,6 +263,11 @@ hash = "a740f0b5479430f0f5c8128d2917635745a6a04d85caae059fb99f3d8a3fb0fe"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "ff937395e3b7f7f5b9fa7675889338facddf3fcdec3695cb93a79dcac920f35b"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "e0676e443d9c0a16b0fc3f730143ef3a6e9ed02ba04ead7648575f1bc4795517"
 metafile = true
@@ -313,5 +318,5 @@ hash = "b070a1d08f6d0f348f4f4ae8784926df52dc995e321badf30af4c3668b7b5482"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "3a98a8ca59b513efd2e92a637a3ad7259987e18983892ed20b0198333448bf27"
+hash = "1338de7d198eb226e35e82ff7f7365ab7230c20520d4c73d729a22a5b3e95c7f"
 metafile = true
