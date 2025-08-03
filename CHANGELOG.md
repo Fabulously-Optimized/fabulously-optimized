@@ -5,6 +5,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0-beta.3 (2025-08-03)
+
+- Updated LambDynamicLights, ImmediatelyFast, Fabrishot, Fabric API, Capes
+- Per user feedback, Better Grass is now disabled by default
+  - The mod is not going anywhere, new instances will just have to explicitly turn it on in Video Settings
+- Added a first-run guide for new instances
+  - This is done by enabling the onboarding accessibility screen again and changing its text
+  - First-run narrator speech sentence is muted for translated languages
+- Fixed pause menu F9 hint to reflect currently present mod
+- Force-enabled: Polytone
+
 ### 10.2.0-beta.2 (2025-07-26)
 
 - Readded Polytone
