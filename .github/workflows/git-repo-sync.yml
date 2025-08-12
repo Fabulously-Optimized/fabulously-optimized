@@ -13,6 +13,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v5
       with:
+        fetch-depth: 0
         persist-credentials: false
     - name: Synchronize code to other Git platforms
       uses: wangchucheng/git-repo-sync@v0.1.0
