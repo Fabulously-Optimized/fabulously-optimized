@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7bb0bffafffd663468c0032782c9d0acc90514ba920f0b0f3e2d3b8dfa592c12"
+hash = "5ba5e5711cda75dd3eb821f7edefd437ac5fc7db7921c162d28e35ad93426491"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "eef77bc9a8495ac50f8e607ee563b05757d85e3fb7ca10cdebbd7fdc9d134a21"
+hash = "425b736b90dd52c2c77bbc290ef8e3cf71265f40abb34345da38d9db2f008e98"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "54a988accf0015ddc3fde713a0a196d2821fbbee09f35e8546dc84e80f7d0221"
+hash = "51b89603bd84bfc993f9f841beb7abfbe54169d9020b6c1c0e246f43f8678016"
 metafile = true
 
 [[files]]
@@ -257,6 +257,11 @@ hash = "b2484dbeb2eb2fbdefa2497f2061c98438aab667d90e802194d23db1b1c51931"
 metafile = true
 
 [[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "4a5c60ab85cc0b9c3534cad49ca42e787cdb409def362c90936d326829669d7e"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "783c692c7a659e03c8e9e459396e204e774bb5584bdb6842d022b9715a4a6e05"
 metafile = true
@@ -313,14 +318,14 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
-hash = "9cadf9bed74fa39b17c3a5a03eeaba82ea2b118e4ec0c89ef9afc22b9b11de03"
+hash = "921fad46bb4cbed5b1e5220336d8ca233d1519ac9eb38adeb1b58605eaf79267"
 metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "34c6e96f903f4b669633c97519cc665668e479a1ce5981643e484d2ebb4ad9a4"
+hash = "e0fc3cfa72b179c7fc94f90d62401eacd5532802b9e9739996a98fae0c26fcff"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d741a1d8c0cd68312705a7211bf70cf7400b2180160642b6c0e9714059bd0b87"
+hash = "f6929c3cf7cfcb5078be60781d8045da8c490b62279cce7d5576c66a0fc2a47e"
 metafile = true

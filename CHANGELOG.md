@@ -5,6 +5,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0-beta.4 (2025-08-12)
+
+- Added Optiboxes as an alternative to Nuit (OptiFine skybox support)
+- Updated Fabric API
+- Updated translations for 11 languages
+- Updated EntityCulling on Mod Menu Helper as it now has a GUI config
+- Updated and enforced Fabric Loader 0.17.2
+- Force-enabled: Polytone
+
 ### 10.2.0-beta.3 (2025-08-03)
 
 - Updated LambDynamicLights, ImmediatelyFast, Fabrishot, Fabric API, Capes

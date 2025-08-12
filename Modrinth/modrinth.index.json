@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.2.0-beta.3",
+    "versionId": "10.2.0-beta.4",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -275,19 +275,19 @@
             "fileSize": 473028
         },
         {
-            "path": "mods/fabric-api-0.130.0+1.21.8.jar",
+            "path": "mods/fabric-api-0.131.0+1.21.8.jar",
             "hashes": {
-                "sha1": "5d8c74464535d569991dcdacf9bb61203c6cd73a",
-                "sha512": "27399d629d3fb955c8fc1e5e86cacb9b124814bb97ee7fe283336b0e28f5eb9ae31619814ab4aef70c5beea908d2a1ed5a8dd6b8641a53ecd50375d50067f061"
+                "sha1": "c76a1cd624d8ad517f307ad0fc8484c4b3eabe97",
+                "sha512": "a4c7030d16eb012745b1ff3cb5487b08b88500259f5269a87815868ee686c02d5ba93cf2645de0f023f74c7cd78415c5be8938ce3d8fff24ccb1219ebb7a3a2b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/zhzhM2yQ/fabric-api-0.130.0%2B1.21.8.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/ax9iQEs0/fabric-api-0.131.0%2B1.21.8.jar"
             ],
-            "fileSize": 2212919
+            "fileSize": 2224100
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
@@ -500,6 +500,21 @@
             "fileSize": 347230
         },
         {
+            "path": "mods/optiboxes-1.4+mc1.21.8-cf08861.jar",
+            "hashes": {
+                "sha1": "e1430876bd2f595be0a6fd34a9ec7308503ec696",
+                "sha512": "dd22e0d935935567c781f75a7538a82acc0d30ac52106291edf7dd92707d39a3ed9e297acccc09f50b1932d3512c5d236610b5e9460a00c7ddf54788a9f37b8d"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/DWuwk8aA/versions/KEoDDjdU/optiboxes-1.4%2Bmc1.21.8-cf08861.jar"
+            ],
+            "fileSize": 463047
+        },
+        {
             "path": "mods/optigui-2.3.0-beta.7+1.21.6.jar",
             "hashes": {
                 "sha1": "65ccfbcf919c60992339537737c888dd0217e228",
@@ -652,36 +667,36 @@
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
             "hashes": {
-                "sha1": "1efaba99432c53a73cfbb310dfa6791b769093a1",
-                "sha512": "e71f647ec84482bfbc9cf8b7258e4d49cfc035e6c9e84145d2f041b71f40a8fee0b83090f248897379cfff867e2a72054b415301bfed47466dc131ab37152feb"
+                "sha1": "1863a33eedf8ae8412936c3df4972f849f3b30dc",
+                "sha512": "ad9347788a3b63a58a585726164b44cf275852d6e6e53b3980761a272fbf08bf6979ce572351ecddbdde376457e6146e5e603a3013844b30f6a71261154812c2"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/tN4E9NfV/versions/bc52EnY6/Chat%20Reporting%20Helper.zip"
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/udgN3lcZ/Chat%20Reporting%20Helper.zip"
             ],
-            "fileSize": 66028
+            "fileSize": 67545
         },
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "e69b508d401c579ec2dacefbb49d081a38fa0a72",
-                "sha512": "41bee7cf6654038ae4ebbbd5eed536cf22acca737634ac44c49470c4d84340d52f0ee1a90051d6a5e39372080f2e9be38e91a34e39bba09f936087fcedb8cdca"
+                "sha1": "4de31894e8228f475922af9e1b2d86e22d5ed0b3",
+                "sha512": "1d8af3ffb771fa7297230617ebd566f6cda3cd15fcd28b2794759b0b8d840023372e81490a5cc3c389c432fe63c3258e2e67989e1e08f32647c6621e2cc6e042"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/x7n18otA/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/IG6CxWl0/SodiumTranslations.zip"
             ],
-            "fileSize": 228734
+            "fileSize": 228774
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.16.14",
+        "fabric-loader": "0.17.2",
         "minecraft": "1.21.8"
     }
 }
