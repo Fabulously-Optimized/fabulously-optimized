@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0-beta.5 (2025-08-26)
+
+- Updated Entity Model Features, Entity Texture Features, Controlify, Fabric API, Fabric Language Kotlin, LambDynamicLights
+- Updated translations for 13 languages
+- Slightly adjusted tutorial text, tutorial is now also available on the wiki
+- Force-enabled: Polytone
+
 ### 10.2.0-beta.4 (2025-08-12)
 
 - Added Optiboxes as an alternative to Nuit (OptiFine skybox support)
