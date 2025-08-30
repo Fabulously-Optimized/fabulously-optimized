@@ -5,6 +5,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0-beta.6 (2025-08-30)
+
+- Updated Fabric API, Forge Config API Port
+- Downgraded Fabric Language Kotlin to workaround issues with OptiGUI
+- Adjusted mods button position on pause screen to workaround servers that provide custom links
+- Adjusted Remove Reloading Screen options to workaround servers that provide a custom resource pack
+- Fixed incorrect titles on LAN servers in server list
+- Muted speech reminding narrator for translated languages that have not had updates for a while
+- Updated translations for 9 languages and the English variants
+- Force-enabled: Polytone
+
 ### 10.2.0-beta.5 (2025-08-26)
 
 - Updated Entity Model Features, Entity Texture Features, Controlify, Fabric API, Fabric Language Kotlin, LambDynamicLights
