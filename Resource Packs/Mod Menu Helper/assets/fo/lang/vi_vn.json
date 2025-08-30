@@ -21,7 +21,7 @@
     "modmenu.summaryTranslation.enhancedblockentities": "Rương, bảng hiệu, giường, v.v. nhanh hơn.\n§9🛠§8 Chặn để cải thiện, phương thức",
     "modmenu.summaryTranslation.entity_model_features": "Mô hình thực thể tùy chỉnh của OptiFine\n§3§l📥§r§8🛠 (chỉ các tùy chọn nâng cao)",
     "modmenu.summaryTranslation.entity_texture_features": "Các thực thể ngẫu nhiên và phát sáng của OptiFine\n§3§l📥§r§9🛠§8 Mob ngẫu nhiên, phát sáng, chớp mắt, ...",
-    "modmenu.summaryTranslation.entityculling": "Dừng kết xuất mob phía sau bức tường\n§8🛠 (chỉ các tùy chọn nâng cao)",
+    "modmenu.summaryTranslation.entityculling": "Ngừng hiển thị các mob phía sau tường\n§9🛠§8 Bật/tắt mod, vô hiệu hóa cho (khối) thực thể, ...",
     "modmenu.summaryTranslation.fabrishot": "Chụp ảnh chất lượng 4K với F9\n§9🛠§8 Ghi đè F2, độ phân giải, tổ hợp phím, ...",
     "isxander-main-menu-credits.fabrishot": "Chụp ảnh chất lượng 4K với F9",
     "modmenu.summaryTranslation.fadeless": "§6🔀§r Loại bỏ hoạt ảnh sương mù đang tải\n§8§m🛠§8 (không có tùy chọn)",
@@ -45,6 +45,7 @@
     "modmenu.summaryTranslation.nochatreports": "Chỉ báo trạng thái trò chuyện nhất quán\n§9🛠§8 Đổi mod, chỉ báo trò chuyện, chế độ nhắc, ...",
     "modmenu.summaryTranslation.nuit": "Bầu trời tùy chỉnh\n§3§l📥§r§9🛠§8 Mở rộng mod để định cấu hình (nhấp vào biểu tượng ▼)",
     "modmenu.summaryTranslation.nuit_interop": "Bầu trời tùy chỉnh của OptiFine\n§3§l📥§r§9🛠§8 Định dạng, ưu tiên định dạng riêng, ...",
+    "modmenu.summaryTranslation.optiboxes": "§6🔀§r Bầu trời tuỳ chỉnh của OptiFine\n§3§l📥§r§9🛠§8 Trong /optiboxes: định dạng, mặt trời/mặt trăng, sao, ...",
     "modmenu.summaryTranslation.optigui": "GUI tùy chỉnh của OptiFine\n§3§l📥§r§8§m🛠§8 (không có tùy chọn)",
     "modmenu.summaryTranslation.paginatedadvancements": "Màn hình thành tựu lớn và danh sách yêu cầu\n§9🛠§8 Khả năng hiển thị yêu cầu, ghim tab, ...",
     "modmenu.summaryTranslation.polytone": "Màu sắc tùy chỉnh của OptiFine\n§3§l📥§r§8§m🛠§8 (không có tùy chọn)",
@@ -58,8 +59,7 @@
     "modmenu.summaryTranslation.zoomify": "Thu phóng bằng cách giữ C\n§9🛠§8 Khoảng cách, góc nhìn kịch tính, tổ hợp phím, ...",
     "fo.resourcePack.fastbettergrass": "§7Cỏ tốt hơn của OptiFine(nhanh)§r\n§4Phải đứng đầu§r",
     "menu.shareToLan": "Mở cho Internet",
-    "lanServer.title": "Mở cho Internet",
     "lanServer.start": "Mở cho Internet",
-    "accessibility.onboarding.screen.narrator": " ",
-    "accessibility.onboarding.screen.title": "Chào mừng bạn đến với Fabulously Optimized! Dưới đây là một số mẹo.\n§f🪟§r Kết cấu liền mạch và Nguồn sáng động có thể được tuỳ chỉnh trong §7Các mod§r\n§a🏞§r Cỏ tốt hơn và toàn màn hình với hỗ trợ Alt+Tab có thể được bật trong §7Cài đặt hình ảnh§r\n§e✨§r Shader và các tính năng của gói tài nguyên được hỗ trợ, chỉ cần §7tải xuống và bật§r\n§5🎮§r §7Kết nối§r bộ điều khiển để sử dụng thay cho bàn phím\n§3🛜§r Nhấn §7Mở cho Internet§r trong chơi đơn để chơi cùng bạn bè\n§8📸§r Nhấn §7F9§r để chụp ảnh màn hình 4K \n§6🏴§r Nhận áo choàng miễn phí hoặc sử dụng áo choàng hiện có: §7https://download.fo/cape§r\n§b🌐§r Hỗ trợ dịch modpack sang ngôn ngữ của bạn: §7https://download.fo/translate§r\n§2➕§r Thêm nhiều mod hơn với các hướng dẫn đơn giản sau: §7https://download.fo/add§r\n§4❓§r Bạn gặp sự cố hoặc có câu hỏi? Hãy xem wiki của chúng tôi: §7https://download.fo/wiki§r"
+    "accessibility.onboarding.screen.narrator": "",
+    "accessibility.onboarding.screen.title": "Chào mừng đến với §7Fabulously Optimized§r! Dưới đây là một số mẹo.\n\n§f🪟§r Kết cấu liền mạch và Nguồn sáng động có thể được tuỳ chỉnh trong §7Các mod§r\n§a🏞§r Cỏ tốt hơn và toàn màn hình với hỗ trợ Alt+Tab có thể được kích hoạt trong §7Cài đặt hình ảnh§r\n§e✨§r Shader và tính năng gói tài nguyên được hỗ trợ, chỉ cần §7tải xuống và kích hoạt§r\n§5🎮§r §7Kết nối§r bộ điều khiển trò chơi để sử dụng thay cho bàn phím\n§3🛜§r Nhấn §7Mở kết nối Internet§r trong chế độ chơi đơn để chơi cùng bạn bè ở bất kỳ đâu\n§8📸§r Nhấn §7F9§r để chụp ảnh màn hình 4K\n§6🏴§r Nhận áo choàng miễn phí hoặc sử dụng áo choàng hiện có của bạn: §7https://download.fo/cape§r\n§b🌐§r Giúp dịch gói mod sang ngôn ngữ của bạn: §7https://download.fo/translate§r\n§2➕§r Thêm nhiều mod hơn với các hướng dẫn đơn giản này: §7https://download.fo/add§r\n§4❓§r Bạn gặp vấn đề hoặc có câu hỏi? Xem wiki của chúng tôi: §7https://download.fo/wiki§r\n\n(§7Mở rộng toàn cửa sổ§r để xem toàn bộ văn bản hoặc truy cập §7https://download.fo/tutorial§r)"
 }
