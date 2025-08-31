@@ -1,10 +1,13 @@
 {
     "pack": {
-        "pack_format": 18,
         "description": {
             "translate": "fo.resourcePack.chatreportinghelper",
             "fallback": "§7Explains chat reporting with simple phrases and icons§r"
         },
-        "supported_formats": [18, 64]
+        "pack_format": 18,
+        "supported_formats": [18, 64],
+        "min_format": 64,
+        "max_format": 67,
     }
 }
+
