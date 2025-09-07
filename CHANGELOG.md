@@ -154,6 +154,23 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 ## 1.21.5
 
+### 9.1.0 (2025-09-07)
+
+- Added Optiboxes as an alternative to Nuit (OptiFine skybox support)
+- Readded Fabrishot - now updated
+- Removed Bigshot as Fabrishot is now available
+- Updated Entity Model Features, Entity Texture Features, Controlify, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, LambDynamicLights, Polytone
+- Per user feedback, Better Grass is now disabled by default
+  - The mod is not going anywhere, new instances will just have to explicitly turn it on in Video Settings
+- Added a first-run guide for new instances
+  - This is done by enabling the onboarding accessibility screen again and changing its text
+  - First-run narrator speech sentence is muted for translated languages
+- Hid tr7zw API module from Mod Menu
+- Adjusted Remove Reloading Screen options to workaround servers that provide a custom resource pack
+- Fixed incorrect titles on LAN servers in server list
+- Updated various translations
+- Updated and enforced Fabric Loader 0.17.2
+
 ### 9.0.0 (2025-06-25)
 
 - Added Bigshot - alternative to Fabrishot
