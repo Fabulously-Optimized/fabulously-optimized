@@ -5,6 +5,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.0 (2025-09-07)
+
+- Removed Polytone - early alpha that isn't officially supported, to be readded when it updates
+- OptiGUI currently does not support the latest version of Fabric Language Kotlin, an older version is used
+- (Refer to 9.1.0 changelog for other big changes as they were backported before 10.2.0 release)
+
+Changes from beta 6 to stable:
+
+- Removed Polytone - early alpha that isn't officially supported, to be readded when it updates
+- Updated Entity Texture Features, Mod Menu, OptiGUI
+- Removed Mod Menu workaround as the issue was fixed
+- Updated Anglish
+
 ### 10.2.0-beta.6 (2025-08-30)
 
 - Updated Fabric API, Forge Config API Port
@@ -165,7 +178,6 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 - Added a first-run guide for new instances
   - This is done by enabling the onboarding accessibility screen again and changing its text
   - First-run narrator speech sentence is muted for translated languages
-- Hid tr7zw API module from Mod Menu
 - Adjusted Remove Reloading Screen options to workaround servers that provide a custom resource pack
 - Fixed incorrect titles on LAN servers in server list
 - Updated various translations
