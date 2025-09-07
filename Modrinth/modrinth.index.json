@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.2.0",
+    "versionId": "10.2.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -275,34 +275,34 @@
             "fileSize": 473028
         },
         {
-            "path": "mods/fabric-api-0.133.0+1.21.8.jar",
+            "path": "mods/fabric-api-0.133.4+1.21.8.jar",
             "hashes": {
-                "sha1": "c4db5e258898acb6a1411e317077e7e217b2d4e2",
-                "sha512": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f"
+                "sha1": "84f003e075b7b7a4b3dbeffdf1796d3668db8f1c",
+                "sha512": "e3cc9f8f60d655c916b2d31ca2a77fc15187e443e3bb8a5977dcff7a704401e8a39d633e12a649207a5923e540b6474e90f08c95655d07ae1c790d5c8aff41a5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/CF23l2iP/fabric-api-0.133.4%2B1.21.8.jar"
             ],
-            "fileSize": 2242937
+            "fileSize": 2244092
         },
         {
-            "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
             "hashes": {
-                "sha1": "2120226cd81107dd52eaf5a9a4607035ff26100c",
-                "sha512": "26b6b4499bf872ebc2c666227b2ed721ce0e33a8e8b19632971250e5cb6e0b9f35aef15a07ce53cf4755285d9d38c4e05a5f1357bad544d44b9e30b87c0a0055"
+                "sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
+                "sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
             ],
-            "fileSize": 7387359
+            "fileSize": 7422276
         },
         {
             "path": "mods/fabrishot-1.16.2.jar",

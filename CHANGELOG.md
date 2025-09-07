@@ -5,6 +5,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.1 (2025-09-07)
+
+- Updated Fabric Language Kotlin, Fabric API
+- Removed OptiGUI and Polytone workarounds
+
 ### 10.2.0 (2025-09-07)
 
 - Removed Polytone - early alpha that isn't officially supported, to be readded when it updates
