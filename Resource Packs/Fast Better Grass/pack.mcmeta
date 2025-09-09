@@ -1,10 +1,13 @@
 {
     "pack": {
-        "pack_format": 15,
         "description": {
             "translate": "fo.resourcePack.fastbettergrass",
             "fallback": "OptiFine's Better Grass (fast)§r\n§4Must be the first to work"
         },
+        "pack_format": 15,
         "supported_formats": [15, 64]
+        "min_format": 64,
+        "max_format": 67,
     }
 }
+
