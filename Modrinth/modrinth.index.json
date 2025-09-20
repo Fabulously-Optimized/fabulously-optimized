@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.2.0-beta.6",
+    "versionId": "10.2.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -245,19 +245,19 @@
             "fileSize": 474970
         },
         {
-            "path": "mods/entity_texture_features_1.21.6-fabric-7.0.1.jar",
+            "path": "mods/entity_texture_features_1.21.6-fabric-7.0.2.jar",
             "hashes": {
-                "sha1": "18eb0c6f1162faae93a0dc4d1ca298c4af286604",
-                "sha512": "d4d41ddd04a362e2d5458e5edf70a794fb5101cbef43d659271878888bd1bb9273a95b02b5df425f2ad557b39e4e46208079e5b41f23730170c9fcceb5a1bf89"
+                "sha1": "7b7fbedb99fc633d34d2f7d92d34536055d33991",
+                "sha512": "d1a55ea8c74397bf92a1b1836dd6a97fe82b3338e6c93b9c42a9d8551a6ba5d43991abe4642878294c7f74df605cc79b8f8412651fede83f7ab5e10b23edb071"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/BVzZfTc1/versions/yQBLNEv7/entity_texture_features_1.21.6-fabric-7.0.1.jar"
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/ZGrSwKTR/entity_texture_features_1.21.6-fabric-7.0.2.jar"
             ],
-            "fileSize": 701042
+            "fileSize": 697692
         },
         {
             "path": "mods/entityculling-fabric-1.8.2-mc1.21.6.jar",
@@ -275,34 +275,34 @@
             "fileSize": 473028
         },
         {
-            "path": "mods/fabric-api-0.133.0+1.21.8.jar",
+            "path": "mods/fabric-api-0.133.4+1.21.8.jar",
             "hashes": {
-                "sha1": "c4db5e258898acb6a1411e317077e7e217b2d4e2",
-                "sha512": "04ab2bd2980ef3aca00763676d1328921e1a8b1531712ea7ca8b74daefc2bb986f78c13a2c821ae6568574e4bdeb3c9a316aecdd4459a2d42646508c7478c26f"
+                "sha1": "84f003e075b7b7a4b3dbeffdf1796d3668db8f1c",
+                "sha512": "e3cc9f8f60d655c916b2d31ca2a77fc15187e443e3bb8a5977dcff7a704401e8a39d633e12a649207a5923e540b6474e90f08c95655d07ae1c790d5c8aff41a5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Q8ssLFZp/fabric-api-0.133.0%2B1.21.8.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/CF23l2iP/fabric-api-0.133.4%2B1.21.8.jar"
             ],
-            "fileSize": 2242937
+            "fileSize": 2244092
         },
         {
-            "path": "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar",
+            "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
             "hashes": {
-                "sha1": "2120226cd81107dd52eaf5a9a4607035ff26100c",
-                "sha512": "26b6b4499bf872ebc2c666227b2ed721ce0e33a8e8b19632971250e5cb6e0b9f35aef15a07ce53cf4755285d9d38c4e05a5f1357bad544d44b9e30b87c0a0055"
+                "sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+                "sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/mccDBWqV/fabric-language-kotlin-1.13.4%2Bkotlin.2.2.0.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
             ],
-            "fileSize": 7387359
+            "fileSize": 7479598
         },
         {
             "path": "mods/fabrishot-1.16.2.jar",
@@ -365,19 +365,19 @@
             "fileSize": 2722729
         },
         {
-            "path": "mods/lambdynamiclights-4.3.3+1.21.8.jar",
+            "path": "mods/lambdynamiclights-4.4.1+1.21.8.jar",
             "hashes": {
-                "sha1": "9a182a4fce44e4d9b7e9a6aab1aeb53badec5cfe",
-                "sha512": "072218329fd08cb66ad60aad73937e5c61546f6e3dbf6aba2d4c12ca5f838b3a7e630c6f373ab2c4b3eabb439a8516f507422e42243b246666bb49c4c8fb2b4b"
+                "sha1": "fad76a024480f8562f14f3062308bb3794022f22",
+                "sha512": "576f65bcf0d5d4921da53b428cc9d5b58c2c66f6fcda841655a566f176980f427b7cc708d4d1066b2829e2558239a511a2c8288902cc1ebfc3e28ba8ec0d0637"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yBW8D80W/versions/Pruo0oqp/lambdynamiclights-4.3.3%2B1.21.8.jar"
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/PcxqJePE/lambdynamiclights-4.4.1%2B1.21.8.jar"
             ],
-            "fileSize": 1242375
+            "fileSize": 1256641
         },
         {
             "path": "mods/language-reload-1.7.4+1.21.6.jar",
@@ -455,19 +455,19 @@
             "fileSize": 66419
         },
         {
-            "path": "mods/modmenu-15.0.0-beta.3.jar",
+            "path": "mods/modmenu-15.0.0.jar",
             "hashes": {
-                "sha1": "84089aea3ca333e23df7f409d4daf497cc2660d1",
-                "sha512": "f8d21aa13f1f081bc928df2904346cd5e29bb358c34346bedb6bf4de04eeb5eba499d7b4a7b6c17a44663805457f8119698b70b1a26b7fca29c66e35cea8f1eb"
+                "sha1": "b22a1a02a13642ec707d01bb8b14a21188d6d6fa",
+                "sha512": "4a118cb4bc7e44a77b50c2f6e7187d0add9b564e752b91ad8b536044cb5c3e07a4caf81114b72080e78debbc04db573798a3d48467b6ad16bc01f7c4b43fb62e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/JY1tNj8H/modmenu-15.0.0-beta.3.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/am1Siv7F/modmenu-15.0.0.jar"
             ],
-            "fileSize": 1076199
+            "fileSize": 1083202
         },
         {
             "path": "mods/morechathistory-1.3.1.jar",
@@ -515,49 +515,34 @@
             "fileSize": 463047
         },
         {
-            "path": "mods/optigui-2.3.0-beta.7+1.21.6.jar",
+            "path": "mods/optigui-2.3.0-beta.8+1.21.6.jar",
             "hashes": {
-                "sha1": "65ccfbcf919c60992339537737c888dd0217e228",
-                "sha512": "e234b3dae0324e7063181ae29cd75ceaa8be85ac94e7a3192cb055f02f1667a278fe47c55ad9713be9df082bb469a613990551343e900a727dfa38d3a5c96381"
+                "sha1": "22d2d9a2cd9c4a56f22c3df248916f7e7637a852",
+                "sha512": "fb42f78ad619e6d6885e7bcb67439d2c6ab73328112193a15c24dccd622ad0f713b5c64992148c91f4a3d111e3ab0c5ea54d56ec1dc96948a6f9d5235a8f8ba5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/QXe3WY3V/optigui-2.3.0-beta.7%2B1.21.6.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/ft3Pi0Dc/optigui-2.3.0-beta.8%2B1.21.6.jar"
             ],
-            "fileSize": 612397
+            "fileSize": 612235
         },
         {
-            "path": "mods/paginatedadvancements-2.7.0+1.21.7.jar",
+            "path": "mods/paginatedadvancements-2.7.0+1.21.8.jar",
             "hashes": {
-                "sha1": "dd81af76715bff0bdf1d8433de480311c2cabe7e",
-                "sha512": "8aa4c86245469ac0d2cf228c00e4c0aec6341e5cb71378b9225191d109d82a1608afe27857a8013f9953f7e72348180ff4b1d14b86e9229b96cbf50f32d9f480"
+                "sha1": "330324c70124dafa107c6321c8b2a8c5ec835de9",
+                "sha512": "d197e53bc7753d985d33a346139568267a92774017e7d9a0b7f1581da55d54d3559b5c05832b91ae6ee84929289d299f7d957fc91d0037a729625c168e9fcaea"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/pJogNFap/versions/XXY2pQy8/paginatedadvancements-2.7.0%2B1.21.7.jar"
+                "https://cdn.modrinth.com/data/pJogNFap/versions/yErEOfqA/paginatedadvancements-2.7.0%2B1.21.8.jar"
             ],
-            "fileSize": 80508
-        },
-        {
-            "path": "mods/polytone-1.21.7-3.5.2-alpha-fabric.jar",
-            "hashes": {
-                "sha1": "f299c3bd6d098de657bf8d8c022d9030fbe59555",
-                "sha512": "cfb57beb173f5e1f94d8bc294026bb29633cb3363b6ebf1dc736c5c904c91b397506e3d73156f3169b7f3c59546a68d2e9d18c4890078f0619e24753f0195e4a"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/FWaGUepG/polytone-1.21.7-3.5.2-alpha-fabric.jar"
-            ],
-            "fileSize": 767591
+            "fileSize": 80506
         },
         {
             "path": "mods/puzzle-fabric-2.1.1+1.21.6.jar",
@@ -682,17 +667,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "826a0575d7f6c900e08064b7b2b007949752e5a4",
-                "sha512": "77a07f06ff5172aa5c61fbbe433ac1695c0e78e3e1c030a6616ba6fb3b09b0e4de062c0d7e7e9508418cce8f3c25edd18008f1e670f44f92c874f0bbee78844d"
+                "sha1": "148b67af1999c2f3efeb473d62697666bff66743",
+                "sha512": "af0c3ba1573228a0b64fab4501941e990a972babc696fea5c0daf28add320aa02bbe71f529cb7de4f9b0ce9630b71c1e1c99d6044343ed65af822392707706b9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/d5RndRwn/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/dNgwg6h6/SodiumTranslations.zip"
             ],
-            "fileSize": 228740
+            "fileSize": 228973
         }
     ],
     "dependencies": {

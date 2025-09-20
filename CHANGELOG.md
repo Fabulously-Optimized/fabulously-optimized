@@ -5,6 +5,29 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.2 (2025-09-20)
+
+- Updated Fabric Language Kotlin, LambDynamicLights, Paginated Advancements
+- Updated Spanish, Venezuela translation
+
+### 10.2.1 (2025-09-07)
+
+- Updated Fabric Language Kotlin, Fabric API
+- Removed OptiGUI and Polytone workarounds
+
+### 10.2.0 (2025-09-07)
+
+- Removed Polytone - early alpha that isn't officially supported, to be readded when it updates
+- OptiGUI currently does not support the latest version of Fabric Language Kotlin, an older version is used
+- (Refer to 9.1.0 changelog for other big changes as they were backported before 10.2.0 release)
+
+Changes from beta 6 to stable:
+
+- Removed Polytone - early alpha that isn't officially supported, to be readded when it updates
+- Updated Entity Texture Features, Mod Menu, OptiGUI
+- Removed Mod Menu workaround as the issue was fixed
+- Updated Anglish
+
 ### 10.2.0-beta.6 (2025-08-30)
 
 - Updated Fabric API, Forge Config API Port
@@ -153,6 +176,22 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 # Spring to Life (9.x.x)
 
 ## 1.21.5
+
+### 9.1.0 (2025-09-07)
+
+- Added Optiboxes as an alternative to Nuit (OptiFine skybox support)
+- Readded Fabrishot - now updated
+- Removed Bigshot as Fabrishot is now available
+- Updated Entity Model Features, Entity Texture Features, Controlify, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, LambDynamicLights, Polytone
+- Per user feedback, Better Grass is now disabled by default
+  - The mod is not going anywhere, new instances will just have to explicitly turn it on in Video Settings
+- Added a first-run guide for new instances
+  - This is done by enabling the onboarding accessibility screen again and changing its text
+  - First-run narrator speech sentence is muted for translated languages
+- Adjusted Remove Reloading Screen options to workaround servers that provide a custom resource pack
+- Fixed incorrect titles on LAN servers in server list
+- Updated various translations
+- Updated and enforced Fabric Loader 0.17.2
 
 ### 9.0.0 (2025-06-25)
 
