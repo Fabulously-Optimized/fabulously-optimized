@@ -5,6 +5,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.8
 
+### 10.2.2 (2025-09-20)
+
+- Updated Fabric Language Kotlin, LambDynamicLights, Paginated Advancements
+- Updated Spanish, Venezuela translation
+
 ### 10.2.1 (2025-09-07)
 
 - Updated Fabric Language Kotlin, Fabric API

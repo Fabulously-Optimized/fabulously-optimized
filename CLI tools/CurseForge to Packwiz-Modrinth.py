@@ -127,6 +127,7 @@ def main():
             "-v", pack_version,
             "--provider-priority", "Modrinth", "CurseForge", "Other",
             "--scheme", "mmc_export_packwiz_output",
+            "--exclude-providers", "GitHub" # Workaround for mmc-export#114
         ); subprocess.call(args, shell=True)
 
         packwiz_zip_path = Path(mmc_zip_root) / "mmc_export_packwiz_output.zip"

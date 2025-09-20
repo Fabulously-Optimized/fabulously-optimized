@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "10.2.1",
+    "versionId": "10.2.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -290,19 +290,19 @@
             "fileSize": 2244092
         },
         {
-            "path": "mods/fabric-language-kotlin-1.13.5+kotlin.2.2.10.jar",
+            "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
             "hashes": {
-                "sha1": "a519e7a070c3dfe38be17a6a0a4ee23535b5a7e3",
-                "sha512": "bae89ea5e71895f5a760def61359bb90a715832d998aec8141902410c503533fc42631e033109fcc9cdb3f869c58da9b89e9efc3b3ef112cbafe27059de9239e"
+                "sha1": "05e9cc4108da5b50735fa6d8a79a18fcd5310d82",
+                "sha512": "1d1d70bd4662ec1fcba57c9f16c3bceb185e8986119f266594f37d145d6d19772e5d6a50dcfec315e600c9eafd32f2b5f86bab72ae1954891297cde7fce62e9b"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/Y91MRWtG/fabric-language-kotlin-1.13.5%2Bkotlin.2.2.10.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar"
             ],
-            "fileSize": 7422276
+            "fileSize": 7479598
         },
         {
             "path": "mods/fabrishot-1.16.2.jar",
@@ -365,19 +365,19 @@
             "fileSize": 2722729
         },
         {
-            "path": "mods/lambdynamiclights-4.3.3+1.21.8.jar",
+            "path": "mods/lambdynamiclights-4.4.1+1.21.8.jar",
             "hashes": {
-                "sha1": "9a182a4fce44e4d9b7e9a6aab1aeb53badec5cfe",
-                "sha512": "072218329fd08cb66ad60aad73937e5c61546f6e3dbf6aba2d4c12ca5f838b3a7e630c6f373ab2c4b3eabb439a8516f507422e42243b246666bb49c4c8fb2b4b"
+                "sha1": "fad76a024480f8562f14f3062308bb3794022f22",
+                "sha512": "576f65bcf0d5d4921da53b428cc9d5b58c2c66f6fcda841655a566f176980f427b7cc708d4d1066b2829e2558239a511a2c8288902cc1ebfc3e28ba8ec0d0637"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yBW8D80W/versions/Pruo0oqp/lambdynamiclights-4.3.3%2B1.21.8.jar"
+                "https://cdn.modrinth.com/data/yBW8D80W/versions/PcxqJePE/lambdynamiclights-4.4.1%2B1.21.8.jar"
             ],
-            "fileSize": 1242375
+            "fileSize": 1256641
         },
         {
             "path": "mods/language-reload-1.7.4+1.21.6.jar",
@@ -530,19 +530,19 @@
             "fileSize": 612235
         },
         {
-            "path": "mods/paginatedadvancements-2.7.0+1.21.7.jar",
+            "path": "mods/paginatedadvancements-2.7.0+1.21.8.jar",
             "hashes": {
-                "sha1": "dd81af76715bff0bdf1d8433de480311c2cabe7e",
-                "sha512": "8aa4c86245469ac0d2cf228c00e4c0aec6341e5cb71378b9225191d109d82a1608afe27857a8013f9953f7e72348180ff4b1d14b86e9229b96cbf50f32d9f480"
+                "sha1": "330324c70124dafa107c6321c8b2a8c5ec835de9",
+                "sha512": "d197e53bc7753d985d33a346139568267a92774017e7d9a0b7f1581da55d54d3559b5c05832b91ae6ee84929289d299f7d957fc91d0037a729625c168e9fcaea"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/pJogNFap/versions/XXY2pQy8/paginatedadvancements-2.7.0%2B1.21.7.jar"
+                "https://cdn.modrinth.com/data/pJogNFap/versions/yErEOfqA/paginatedadvancements-2.7.0%2B1.21.8.jar"
             ],
-            "fileSize": 80508
+            "fileSize": 80506
         },
         {
             "path": "mods/puzzle-fabric-2.1.1+1.21.6.jar",
@@ -667,17 +667,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "7079ef4ada6fe05a0480b0b28464f1cee8a6ba82",
-                "sha512": "0af3d59f1995a2ec20590e819c0720272eb3641cc774dfab60d483f4ac7bc845e83106e22d7cce295181b31f5fa7f91a32a61bd3a3fa40fb08051e7313269803"
+                "sha1": "148b67af1999c2f3efeb473d62697666bff66743",
+                "sha512": "af0c3ba1573228a0b64fab4501941e990a972babc696fea5c0daf28add320aa02bbe71f529cb7de4f9b0ce9630b71c1e1c99d6044343ed65af822392707706b9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/ty2pVO7d/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/dNgwg6h6/SodiumTranslations.zip"
             ],
-            "fileSize": 228738
+            "fileSize": 228973
         }
     ],
     "dependencies": {
