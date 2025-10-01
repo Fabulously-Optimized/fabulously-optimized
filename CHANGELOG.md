@@ -11,7 +11,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 - Updated Capes, Dynamic FPS, Fabric API, Forge Config API Port, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, MoreCulling, Optiboxes, Puzzle, Remove Reloading Screen, Sodium, Zoomify, YetAnotherConfigLib
 - Updated Chinese Simplified translations
-- Temporarily incompatible: Controlify, Continuity, Entity Model Features, Entity Texture Features, EntityCulling, e4mc, FastQuit, Fabrishot, FerriteCore, Language Reload, Mod Menu, No Chat Reports, OptiGUI, Optiboxes, Paginated Advancements, Reese's Sodium Options, Sodium Extra
+- Temporarily incompatible: Controlify, Continuity, Entity Model Features, Entity Texture Features, EntityCulling, e4mc, FastQuit, Fabrishot, FerriteCore, Language Reload, Mod Menu, No Chat Reports, OptiGUI, Paginated Advancements, Reese's Sodium Options, Sodium Extra
 
 # Chase the Skies (10.x.x)
 
