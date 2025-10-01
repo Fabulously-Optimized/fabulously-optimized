@@ -1,6 +1,18 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+# The Copper Age (11.x.x)
+
+## 1.21.9
+
+### 11.0.0-alpha.1 (2025-10-01)
+
+**Note: Mod Menu is not yet available - use video settings, commands or config files instead.**
+
+- Updated Capes, Dynamic FPS, Fabric API, Forge Config API Port, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, MoreCulling, Optiboxes, Puzzle, Remove Reloading Screen, Sodium, Zoomify, YetAnotherConfigLib
+- Updated Chinese Simplified translations
+- Temporarily incompatible: Controlify, Continuity, Entity Model Features, Entity Texture Features, EntityCulling, e4mc, FastQuit, Fabrishot, FerriteCore, Language Reload, Mod Menu, No Chat Reports, OptiGUI, Optiboxes, Paginated Advancements, Reese's Sodium Options, Sodium Extra
+
 # Chase the Skies (10.x.x)
 
 ## 1.21.8
