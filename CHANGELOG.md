@@ -666,7 +666,7 @@ Get your _bundle_ of mods in this update!
 - Temporarily disabled chat safety icon on NCR to avoid crash
 - Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
 
-# Tricky Trials (6.x.x)
+# Tricky Trials (6.0.x-6.4.x)
 
 ## 1.21.1
 
@@ -958,7 +958,7 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
-# Trails & Tales (5.x.x)
+# Armored Paws (5.11.x-5.12.x)
 
 ## 1.20.6
 
@@ -1139,6 +1139,8 @@ A reupload to Modrinth that fixes the Minecraft version on the instance.
 - Enforced Fabric Loader 0.15.10
 - Force-enabled Fabrishot, ModDetectionPreventer
 - Temporarily removed BetterMountHud, CIT Resewn, Continuity, Enhanced Block Entities, FastQuit, FerriteCore, ImmediatelyFast, Indium, LambDynamicLights, LanguageReload, Lithium, NoChatReports, OptiGUI, Polytone, Zoomify
+
+# Bats and Pots (5.7.x-5.10.x)
 
 ## 1.20.4
 
@@ -1399,6 +1401,8 @@ Version suffix is not visible in-game.
 - Enforced Fabric Loader 0.15.0
 - Force-enabled Indium, OptiGUI
 - Temporarily removed CITResewn, Entity Model Features, FastQuit, FerriteCore, ImmediatelyFast, LambDynamicLights, Lithium, Paginated Advancements
+
+# Trails & Tales (5.0.x-5.6.x)
 
 ## 1.20.2
 
@@ -4115,6 +4119,7 @@ Other stuff:
 * Cull Leaves changed the way its config works - if you are upgrading, you may delete the json5 file
 
 ### 1.6.0 (2021-02-18)
+
 New mods
 * **Sodium Extra** - adds toggles to Sodium settings: animations, particles, weather, fog, FPS indicator
 * **Cloth Config API** - makes the config work in many mods, now it is separate to reduce space (every mod doesn't have to include it)
@@ -4123,16 +4128,19 @@ Other stuff
 * Updated mods
 
 ### 1.5.2 (2021-02-07)
+
 * Hid Minecraft, Jumploader and Cloth API from Mod Menu (because they are not really mods, but dependencies)
 * Updated mods
 
 ### 1.5.1 (2021-02-01)
+
 * Mod Menu received a major configurability update, so I've made it more cleaner-looking
 * Removed Better Mod Button mod as it is now redundant 
 * Not Enough Crashes received a lot of updates for better detection and compatibility
 * Updated mods
 
 ### 1.5.0 (2021-01-24)
+
 New mods
 * **FastChest** - greatly improves FPS when surrounded by chests (e.g. in a storage room)
 * **Cull Leaves** - optionally makes fancy tree leaves more see-through, which could improve FPS (enable in mod settings)
@@ -4145,6 +4153,7 @@ Other stuff
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
 ### 1.5.0b2 (2021-01-21)
+
 * Mods updated
 * Improved manifests for both launchers
 * Dynamic FPS now has a config screen so it can be disabled or configured
@@ -4152,6 +4161,7 @@ Other stuff
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
 ### 1.5.0b1 (2021-01-15, 2021-01-16)
+
 * Lithium and Custom Fog are currently incompatible and therefore missing
 * Mods updated
 * MultiMC doesn't list 1.16.5 yet, so I cannot update it (Edit: added later, same Not Enough Crashes comment applies)
@@ -4159,20 +4169,24 @@ Other stuff
 ## 1.16.4
 
 ### 1.4.5 (2021-01-04)
+
 * Mods updated
 * You may notice that there are less mods now - this is normal as some APIs are now properly marked as such, the main mods are still the same
 * CurseForge: fixed Fabric Loader update
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
 ### 1.4.4 (2020-12-20)
+
 * Mods updated
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
 ### 1.4.3 (2020-12-15)
+
 * Mods updated
 * MultiMC: Not Enough Crashes is 2.1.4+1.16.2 due to CF error
 
 ### 1.4.2 (2020-11-27)
+
 * Mods updated
 * Added Architectury because 'Slight' Gui Modifications now depends on it
 * In MultiMC, Not Enough Crashes is at version 2.1.4+1.16.2 (due to CF error) but according to the developer it is identical to newer anyway.
@@ -4181,6 +4195,7 @@ Other stuff
 * Mods updated
 
 ### 1.4.0 (2020-11-11)
+
 **Now stable with more ways to optimize!**
 
 Added
@@ -4197,6 +4212,7 @@ Other
 * Mods updated
 
 ### 1.4.0b1 (2020-11-02)
+
 **Fastest beta release yet, thanks to Jumploader magic!**
 * Lithium is currently incompatible and therefore missing
 * Mods updated
@@ -4204,18 +4220,22 @@ Other
 ## 1.16.3
 
 ### 1.3.4 (2020-10-23)
+
 * Added a clickable modpack version to title screen (courtesy of 'Slight' Gui Modifications)
 * Adjusted Fabric Capes config to show all types and default to Minecraft Capes
 * Removed Minecraft Capes mod because Fabric Capes already provided it
 * Mods updated
 
 ### 1.3.3 (2020-10-13)
+
 * Mods updated
 
 ### 1.3.2 (2020-09-30)
+
 * Colormatic re-added.
 
 ### 1.3.1 (2020-09-29)
+
 Thanks to users' feedback, the mod list has been updated.
 
 **Added**
@@ -4227,6 +4247,7 @@ Thanks to users' feedback, the mod list has been updated.
 * OF Capes - replaced by Fabric Capes
 
 ### 1.3.0 (2020-09-28)
+
 Sodium has been updated, so it's time for a release!
 
 **Added**
@@ -4244,6 +4265,7 @@ Other
 * Mods updated
 
 ### 1.3.0b1 (2020-09-26)
+
 **First beta with Twitch launcher.**
 * Sodium still missing
 * Canvas added as replacement
@@ -4251,6 +4273,7 @@ Other
 * Mods updated
 
 ### 1.3.0a1 (MultiMC, 2020-09-12)
+
 First alpha version only for MultiMC, stuck next to 1.16.2 versions because Twitch launcher did not list that version yet.
 **Notes**
 * Sodium and Lithium are missing
@@ -4260,29 +4283,35 @@ First alpha version only for MultiMC, stuck next to 1.16.2 versions because Twit
 ## 1.16.2
 
 ### 1.2.0b2 (2020-09-08)
+
 **Notes**
 * Sodium still missing
 * Canvas temporarily added
 * Mods updated
 
 ### 1.2.0b1 (2020-08-26)
+
 **First beta for 1.16.2.**
 * Sodium is missing
 * Canvas added as a temporary replacement. Thanks fishywishyef for the suggestion!
 * motioNO is removed as it is built-in to 1.16.2.
 
 ### 1.2.0a1 (MultiMC, 2020-08-15)
+
 A never-released version because CurseForge doesn't like MultiMC-only versions. Ah well.
 
 ## 1.16.1
 
 ### 1.1.2 (2020-08-10)
+
 * Mods updated
 
 ### 1.1.1 (2020-08-01)
+
 * Mods updated
 
 ### 1.1.0 (2020-07-24)
+
 Major update with new mods.
 **Added**
 * Dynamic FPS - renders Minecraft slower if it is in the background to save memory
@@ -4291,16 +4320,20 @@ Major update with new mods.
 * Colormatic - adds support for OptiFine resource packs' custom colors
 
 ### 1.0.1 (2020-07-21)
+
 Updated mods. 
 **MultiMC-specific:**
 * Replaced Jumploader and Forge with real Fabric
 * Added icon
 
 ### 1.0.1a1 (2020-07-21)
+
 A testing version to see if making mods optional is handled well in Twitch launcher. Hint: it isn't.
 
 ### 1.0.0 (2020-07-17)
+
 First release for Twitch and MultiMC launchers. Containing:
+
 * Better Mod Button
 * Fabric API
 * Jumploader
