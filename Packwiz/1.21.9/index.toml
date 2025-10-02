@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1df62c73973e1b5cd48a1902bf3d5f6a8961e3146f6d07aa7ba97aabb8d1a0e3"
+hash = "14823c6c3bb33f7b3bb1fdb6828c9802179da06a9942c80742bec024960e4d1d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b73e0a0b98532c28d0ac63db60ace1f564c4dcbac686a7d3bc8b3642e0e079cc"
+hash = "a0e8278a8ca9b6ddab3897fd3aefc411f13e64f5e9bbf475d12e148af121dd00"
+
+[[files]]
+file = "config/rrls.toml"
+hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -86,7 +90,7 @@ hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "6590e72ac179919bb797d20815b5de60b7f77e972c1f5cca440837788be7d047"
+hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -127,18 +131,13 @@ hash = "867f8e4be9bc139a517dbcf55aefc2938c5e461640bd08024ec4716fce068025"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "05ebc0d7cef895e766ce7fbd6198519239e839d7650b7a654951a267034c0115"
-metafile = true
-
-[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "25132fcd71cce4a12f6824ab4e573f99293a5685f4ce5032b474fea2df0ed1f0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d0faf427f181cf867dc335f590a230129286cd8117e8068448160b9e50efb734"
+hash = "1365c8ae2669f5192e7266b92459f049f9a0ff3a50208c1a250383fa0386c21c"
 metafile = true
 
 [[files]]
@@ -148,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeconfigapiport.pw.toml"
-hash = "af49c19cbdb108e7703878c1be30d31ee1dad7a76a65305ffe949a8a882c7410"
+hash = "6224152267e54e89b77f09fac3ac6ef8006351b8a1c769ac44c2bf4293550e33"
 metafile = true
 
 [[files]]
@@ -167,8 +166,8 @@ hash = "21843e75802603fc737c7599bbd6550e85d77e882e9b0aa5df279ae1270392d6"
 metafile = true
 
 [[files]]
-file = "mods/lambdynlights.pw.toml"
-hash = "fbb5aad82af512a11d339ff26e720ad02752f2bae255cc81da4d3c487943f70f"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b4f710e182c093afd00e95ac8d78e23c945e3416fa31ff3d961a775200d8966a"
 metafile = true
 
 [[files]]
@@ -193,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d238380d05aa8da65b4da7d7da2201361cd74c44e0d2c0b76059949eda99b4af"
+hash = "6006fa2a1c9e1ecb4faf424b2a4c0086ad18077f6cc22c0d25fe59f1d3839900"
 metafile = true
 
 [[files]]
@@ -208,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "48d11c8ab8119aa21428646ad48c7bd07d82ca33464e9e3d8a41f0a9c2a3fda8"
+hash = "ed5bdd7b60d6710bf5a262940097d93e95d8ff30e8e5155bbcad95b1e9534d92"
 metafile = true
 
 [[files]]

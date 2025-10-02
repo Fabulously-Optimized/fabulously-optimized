@@ -5,6 +5,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.9
 
+### 11.0.0-alpha.2 (2025-10-02)
+
+Note that Minecraft 1.21.10 will be released soon with additional fixes.
+
+- Updated Remove Reloading Screen, MoreCulling, LambDynamicLights, Forge Config API Port, Fabric API
+  - Fixed paintings crash
+- Removed Debugify - not yet compatible
+  - Fixed world join crash 
+- Adjusted Remove Reloading Screen to make applying resource packs work in the background again
+- Temporarily incompatible: Controlify, Continuity, Debugify, Entity Model Features, Entity Texture Features, EntityCulling, e4mc, FastQuit, Fabrishot, FerriteCore, Language Reload, Mod Menu, No Chat Reports, OptiGUI, Paginated Advancements, Reese's Sodium Options, Sodium Extra
+  - As Mod Menu is not yet available, use video settings, commands or config files instead.
+
 ### 11.0.0-alpha.1 (2025-10-01)
 
 **Note: Mod Menu is not yet available - use video settings, commands or config files instead.**
