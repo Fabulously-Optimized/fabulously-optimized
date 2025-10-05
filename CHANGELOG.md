@@ -39,6 +39,15 @@ Note that Minecraft 1.21.10 will be released soon with additional fixes.
 
 ## 1.21.8
 
+### 10.3.0 (2025-10-05)
+
+- Updated Fabric API, Iris Shaders, LambDynamicLights, Lithium, MoreCulling, Optiboxes, Remove Reloading Screen, Sodium, Sodium Extra, Zoomify
+  - Sodium is now on v0.7, meaning various bugfixes and performance improvements. Some of _your_ mods may be incompatible with it for now, in that case keep using v10.2.2.
+- Adjusted Remove Reloading Screen to make applying resource packs work in the background again
+- Hidden two sub-mods from Mod Menu to avoid confusion
+- Adjusted Optiboxes MMH text as it now supports options GUI via Mod Menu
+- Updated translations in 8 languages
+
 ### 10.2.2 (2025-09-20)
 
 - Updated Fabric Language Kotlin, LambDynamicLights, Paginated Advancements
