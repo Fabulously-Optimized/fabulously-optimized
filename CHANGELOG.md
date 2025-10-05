@@ -17,7 +17,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Readded Controlify, FerriteCore, Mod Menu 
 - Updated Cloth Config, Lithium
 - Re-enabled Translations for Sodium resource pack
-- Hidden two sub-mods from Mod Menu to avoid confusion
+- Hid two sub-mods from Mod Menu to avoid confusion
 - Re-enabled the default keybind for Save Hotbar Activator as it can work with the same key as zoom now
 - Adjusted Optiboxes MMH text as it now supports options GUI via Mod Menu
 - Temporarily incompatible: Continuity, Debugify, Entity Model Features, Entity Texture Features, EntityCulling, e4mc, FastQuit, Fabrishot, Language Reload, No Chat Reports, OptiGUI, Paginated Advancements, Reese's Sodium Options, Sodium Extra
@@ -51,7 +51,7 @@ Note that Minecraft 1.21.10 will be released soon with additional fixes.
 - Updated Fabric API, Iris Shaders, LambDynamicLights, Lithium, MoreCulling, Optiboxes, Remove Reloading Screen, Sodium, Sodium Extra, Zoomify
   - Sodium is now on v0.7, meaning various bugfixes and performance improvements. Some of _your_ mods may be incompatible with it for now, in that case keep using v10.2.2.
 - Adjusted Remove Reloading Screen to make applying resource packs work in the background again
-- Hidden two sub-mods from Mod Menu to avoid confusion
+- Hid two sub-mods from Mod Menu to avoid confusion
 - Adjusted Optiboxes MMH text as it now supports options GUI via Mod Menu
 - Updated translations in 8 languages
 
