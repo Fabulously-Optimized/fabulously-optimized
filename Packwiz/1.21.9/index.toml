@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4b65b2c75e1f33f11c3d025f82c2ea44041416e47d0fe9f40b2c431c9e16347d"
+hash = "d5ef98fd88ec4921548862706e96fe28fc938c38ce9a92e770dd58734ba16ecb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "892ca531de2bcc1c346e696785fb66dfb5dd4404b77d1fc5be038cced1b73db2"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "8b36ea8af428943d85a7594b9d2e8144be3f77bab05a150e8b2db4dbe8f25a37"
+hash = "d88c8ab07c77e9cc85aebe8dd63bf73305290b79660245bd4cc25968d9a6dbad"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -157,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeconfigapiport.pw.toml"
-hash = "6224152267e54e89b77f09fac3ac6ef8006351b8a1c769ac44c2bf4293550e33"
+hash = "f62cc36b5a201f6e8ad641a40aa18eb5de5325ab1f24e62e2753df15a01d02e7"
 metafile = true
 
 [[files]]
@@ -221,8 +217,18 @@ hash = "21e4d4762f06338aee170e8a402c5dd2d6ead3a43c1add2bd800ff0b61668a4b"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "f67ece3f1b7752cd197d5b4dd75b8d7c96b6efd91482049955a6903c3660638d"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "ed5bdd7b60d6710bf5a262940097d93e95d8ff30e8e5155bbcad95b1e9534d92"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "efcffa8f7f5d49fd57b52fc29ec85eecca4df3807335b8f17d0620cb6ba26a42"
 metafile = true
 
 [[files]]
@@ -252,9 +258,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "e011741b6726b6f7f4fb900d91284ba87d0db4bfabe3a416fd705a7f740ba77e"
+hash = "365d2070e255a6a44f48fe446d2dc6004a483d3cb91a1de3ed3d753117946f1c"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "67cefd0edfac6024be317391233edc39fddf38967023a1d493dcbef33f2a5292"
+hash = "6de8e1fe37adeecd85b5f7858b0d47e69cb872a67d6382eb459a4f167d92eafa"
 metafile = true

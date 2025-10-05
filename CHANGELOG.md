@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.9
 
+### 11.0.0-alpha.4 (2025-10-05)
+
+- Readded Sodium Extra, Reese's Sodium Options
+- Updated Forge Config API Port
+- Updated translations for 7 languages
+- Temporarily incompatible: Continuity, Debugify, Entity Model Features, Entity Texture Features, EntityCulling, e4mc, FastQuit, Fabrishot, Language Reload, No Chat Reports, OptiGUI, Paginated Advancements
+
 ### 11.0.0-alpha.3 (2025-10-03)
 
 - Readded Controlify, FerriteCore, Mod Menu 
