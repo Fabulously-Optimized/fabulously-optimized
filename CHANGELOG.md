@@ -7,6 +7,8 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 11.1.0-alpha.1 (2025-10-07)
 
+The hotfix version is now out, all 1.21.9 testers are advised to update.
+
 - Readded Entity Model Features, Entity Texture Features, OptiGUI
 - Updated Iris Shaders, ImmediatelyFast, Controlify, Fabric API
 - Updated Vietnamese translations
