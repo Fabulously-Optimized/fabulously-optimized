@@ -3,6 +3,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # The Copper Age (11.x.x)
 
+## 1.21.10
+
+### 11.1.0-alpha.1 (2025-10-07)
+
+- Readded Entity Model Features, Entity Texture Features, OptiGUI
+- Updated Iris Shaders, ImmediatelyFast, Controlify, Fabric API
+- Updated Vietnamese translations
+- Temporarily incompatible: Continuity, Debugify, EntityCulling, e4mc, FastQuit, Language Reload, Lithium, No Chat Reports, Paginated Advancements
+- Temporarily force-enabled: Forge Config API Port, Optiboxes
+
 ## 1.21.9
 
 ### 11.0.0-alpha.4 (2025-10-05)

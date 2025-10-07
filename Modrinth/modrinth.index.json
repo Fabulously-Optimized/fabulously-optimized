@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "11.0.0-alpha.4",
+    "versionId": "11.1.0-alpha.1",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -35,19 +35,19 @@
             "fileSize": 615421
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.13.0+1.21.9.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.13.1+1.21.10.jar",
             "hashes": {
-                "sha1": "c3e496959c3fd861bf0c89aadbe59add5eae84f3",
-                "sha512": "e9b48d44bfc69e16097c0bd5f714a228f945397ba3098008f1d94f750bfc67cd44de546250ada437a501380388df2f219349b961dca3f3c7890bfee38ba982a9"
+                "sha1": "2ec40ae5c20f03e426cefcb360fb74acbf75cc52",
+                "sha512": "d9d0bf83f88d992521aef2a2f31fb53967fcc8515f70c870322e4009d67f7475002d44428921e3085e1d849e805b3080fc5f1c5f8daa926b20d121214b1acc5a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/qpCb3lJs/ImmediatelyFast-Fabric-1.13.0%2B1.21.9.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/pAXzwgEN/ImmediatelyFast-Fabric-1.13.1%2B1.21.10.jar"
             ],
-            "fileSize": 196358
+            "fileSize": 196367
         },
         {
             "path": "mods/Zoomify-2.14.6+1.21.9.jar",
@@ -125,19 +125,19 @@
             "fileSize": 1150269
         },
         {
-            "path": "mods/controlify-2.4.1+1.21.10-fabric.jar",
+            "path": "mods/controlify-2.4.2+1.21.10-fabric.jar",
             "hashes": {
-                "sha1": "dd80ed080cf335a4a45e70de2ee7b8c852c0c97c",
-                "sha512": "9f6acf5ee77afae442ac4a3c801fb610cd19d4d3ee0ba9e2c2704902351bacae0e4fb9a8212569ab9c6a0b2acbb08311b94a1c892ce16f5d7400179daa468395"
+                "sha1": "e85ba0f77a425cb1a24033b40ba84db4dcf1cc55",
+                "sha512": "8ca0bd6e498e4d49bdd2b5a2b1db612bba387393368e4fec0d9e3a86a325fc40f84e87f909ab8c7d5dc02ad074f30fdc170f2fb08a474b0673cbabe57d5440d6"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/ZdYZVc8b/controlify-2.4.1%2B1.21.10-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/sIimGQrV/controlify-2.4.2%2B1.21.10-fabric.jar"
             ],
-            "fileSize": 8123700
+            "fileSize": 8123404
         },
         {
             "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
@@ -170,19 +170,49 @@
             "fileSize": 194692
         },
         {
-            "path": "mods/fabric-api-0.134.0+1.21.9.jar",
+            "path": "mods/entity_model_features_1.21.9-fabric-3.0.3.jar",
             "hashes": {
-                "sha1": "1f5ba40f85c96c4f8b661097d3e3f8906cc55c4f",
-                "sha512": "6f2c8d7aa311b90af2d80a4a9de18f22e3a19ebe22cf115278eabd3d397725bc706e98827c9eed20f9d751d4701e1da1cdf7258b90f77e65148a7a0133a1e336"
+                "sha1": "b0ae347c63246b3837803980843888076f48af2b",
+                "sha512": "4041380cffc540190e5d65309fb04441a1d5614a19865eef67ae107ab048b94a48b3ee05b292b20592bcbc2ee01941a469841122ab3065bda365686919e326a6"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/iHrvVvaM/fabric-api-0.134.0%2B1.21.9.jar"
+                "https://cdn.modrinth.com/data/4I1XuqiY/versions/RBKKgBqz/entity_model_features_1.21.9-fabric-3.0.3.jar"
             ],
-            "fileSize": 2290691
+            "fileSize": 473524
+        },
+        {
+            "path": "mods/entity_texture_features_1.21.9-fabric-7.0.3.jar",
+            "hashes": {
+                "sha1": "d7310d6f9b595dac22e473625ae51e5872d5bde6",
+                "sha512": "3646274d0b5740dbae0df485debc96e856a0154912f18c8ebc3644573489703253d275230ed5f27b96a53d74aee60e876e2f5490868704643e72803fb2d97464"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/BVzZfTc1/versions/4PEgucTm/entity_texture_features_1.21.9-fabric-7.0.3.jar"
+            ],
+            "fileSize": 697416
+        },
+        {
+            "path": "mods/fabric-api-0.134.1+1.21.10.jar",
+            "hashes": {
+                "sha1": "c891b6e76d3134640cc5fa9394f1f47397888380",
+                "sha512": "355380482bf62746a1c4db24d98a5cea3cb20607a5820d6d836fce511d933f6d352bc198edd31d77ce55cf3420293f26e679801b9f4c64c78c1deee5fe725cb8"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/2diTWKwa/fabric-api-0.134.1%2B1.21.10.jar"
+            ],
+            "fileSize": 2290881
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
@@ -215,34 +245,19 @@
             "fileSize": 79653
         },
         {
-            "path": "mods/iris-fabric-1.9.3+mc1.21.9.jar",
+            "path": "mods/iris-fabric-1.9.4+mc1.21.10.jar",
             "hashes": {
-                "sha1": "fc8360591f5567eef97ed34f218d900262160baa",
-                "sha512": "ecae46dd21c7e87a5092c5e1ef8afa16610c5713b9a7a604d28470e12c9c5825e0a02c3e38797d785e4e3d144cc961685c1c5a0a442f56f24838303c443015da"
+                "sha1": "882f7256076aa6227f35889631677323ff4b6bdc",
+                "sha512": "7d7cf62f41bf8fd21179bf38293820d22a63216073ce75c5528835256efda9c431b616a92e5512b6bd27a276d38331dcad8f15b64b3e3cc44af025e5565cdd16"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/YL57xq9U/versions/2fEZLvCV/iris-fabric-1.9.3%2Bmc1.21.9.jar"
+                "https://cdn.modrinth.com/data/YL57xq9U/versions/RZp5fR8I/iris-fabric-1.9.4%2Bmc1.21.10.jar"
             ],
-            "fileSize": 2707422
-        },
-        {
-            "path": "mods/lithium-fabric-0.19.1+mc1.21.9.jar",
-            "hashes": {
-                "sha1": "1e6fd603a9a872fede100f59fcddfe193be10065",
-                "sha512": "227ecc2c420673c687dba45d6d9aed1791ec03e5979ea4c2940e9c278721ee1b36f6ef0d3efa16c49b02b17a7341848a5e1b5c07c18c2164edb01eb975d16c31"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iMuOZwcu/lithium-fabric-0.19.1%2Bmc1.21.9.jar"
-            ],
-            "fileSize": 830020
+            "fileSize": 2707924
         },
         {
             "path": "mods/main-menu-credits-1.2.0.jar",
@@ -348,6 +363,21 @@
                 "https://cdn.modrinth.com/data/DWuwk8aA/versions/IhybUX9T/optiboxes-1.6%2B1.21.9-fabric.jar"
             ],
             "fileSize": 558023
+        },
+        {
+            "path": "mods/optigui-2.3.0-beta.8+1.21.9.jar",
+            "hashes": {
+                "sha1": "030107a23b95f91a469a4b15af6f0cfbe2fdcd2a",
+                "sha512": "770f1b3d2e62d1a673187e9a2dc34155818ccb5bdb148ac2b7c81838a5635d4a1a92bfcd7b949fdb9d0bebd5c9f4ac5171d29848acaecbb0b0f6ade49233c098"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/novKhTZ1/optigui-2.3.0-beta.8%2B1.21.9.jar"
+            ],
+            "fileSize": 612528
         },
         {
             "path": "mods/puzzle-fabric-2.1.2+1.21.9.jar",
@@ -472,6 +502,6 @@
     ],
     "dependencies": {
         "fabric-loader": "0.17.2",
-        "minecraft": "1.21.9"
+        "minecraft": "1.21.10"
     }
 }

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d5ef98fd88ec4921548862706e96fe28fc938c38ce9a92e770dd58734ba16ecb"
+hash = "dd738c32dbb6934b3727f2a8f6f11632cca2d4209ff5d1c665f326228641409a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d88c8ab07c77e9cc85aebe8dd63bf73305290b79660245bd4cc25968d9a6dbad"
+hash = "9a4509a62470980e3be47c8ec2ee7cefd0bccaf809dd50009a2966b227348158"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -94,7 +94,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ea9650cfa5d2033dbbc0f6d90bd9e91e999a831d922948815beb45665dc93a4e"
+hash = "daf0c44a7a435c4ddfaa152fec1f40514f416780b473ab4d07dd441d4ca6b68f"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "7f67091631862456efee99d3472282f24c94e40cfbcbda6051a52e4b121735d9"
+hash = "dcd43d7df3b82c967383cbbe3990e4b08ebafce5c1704c698c43c5dcbed4bc28"
 metafile = true
 
 [[files]]
@@ -137,8 +137,18 @@ hash = "25132fcd71cce4a12f6824ab4e573f99293a5685f4ce5032b474fea2df0ed1f0"
 metafile = true
 
 [[files]]
+file = "mods/entity_model_features.pw.toml"
+hash = "ad8982af4414c81a371dc7cf7230c789e0bcac6eede9579e0b38c62bcad151b4"
+metafile = true
+
+[[files]]
+file = "mods/entity_texture_features.pw.toml"
+hash = "53aa0fc7580272f09e4a374af451c90d60a97be6495002ecad1fbb4e92ce7333"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1365c8ae2669f5192e7266b92459f049f9a0ff3a50208c1a250383fa0386c21c"
+hash = "e496f52b8ae5b6879fd182c061507e9c4617b259d7fea520ad4db7c9825f76b9"
 metafile = true
 
 [[files]]
@@ -158,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5e048f906db6ca04db716dae4c638bfbc6a3b22e4b773af7e5b900442ba2d42a"
+hash = "22b5650a531cf7e69d234fee66ad58bb83b30dbb03455e1f51b1749922e5c32f"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f0b7cff47d0a2b0f68feb838ec36bb6681e2484558c125ae292f50e721cde8dd"
+hash = "bc691de832d684d4bb7d536c73cfbceb804764b8a7bfdcbd547345e6a333919c"
 metafile = true
 
 [[files]]
@@ -174,11 +184,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9e95b03752e15887c9236513f5443c6ba30fc311c1940152c7109c128a288f67"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "d299416626b0655b33bc8d1dd7517477066e29e1dc36495147ece3cc3b4b5c3b"
 metafile = true
 
 [[files]]
@@ -209,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "09b8605228bb61328bef1cc96b949f295f69fa811ad6fe10cbf52ff57474b26f"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "12a352db8929bf7097972a12ef85619f695a611d268829efd263ddd80186f33e"
 metafile = true
 
 [[files]]
@@ -258,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "365d2070e255a6a44f48fe446d2dc6004a483d3cb91a1de3ed3d753117946f1c"
+hash = "9ff46b90d685c942c9238d880db1a6d1e69c14311df47f41596fc3a74a554d6f"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
