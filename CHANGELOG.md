@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-alpha.2 (2025-10-08)
+
+- Readded Entity Culling, Lithium
+- Updated Fabric API, Forge Config API Port
+- Updated Anglish translation
+- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Language Reload, No Chat Reports, Paginated Advancements
+- Temporarily force-enabled: Optiboxes
+
 ### 11.1.0-alpha.1 (2025-10-07)
 
 The hotfix version is now out, all 1.21.9 testers are advised to update.

@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "11.1.0-alpha.1",
+    "versionId": "11.1.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -20,19 +20,19 @@
             "fileSize": 78418
         },
         {
-            "path": "mods/ForgeConfigAPIPort-v21.9.8+mc1.21.9-Fabric.jar",
+            "path": "mods/ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
             "hashes": {
-                "sha1": "f1031ee5f1a6f978a886277f4c0e34063426aebd",
-                "sha512": "95215123909307837f2f726e6dd027bea029e36c41515bb21bdcfcb5ab990b8c3d0cc23a1c7c83edd591ebce7e6d90f8305e045b485ce8c034b0850ded45c052"
+                "sha1": "8e28ea860effcf37b81a99b352d0d2daf58c31af",
+                "sha512": "e7b8b28e73e0e3a88bbf374edc9c652ee48c2b8f757d8a59cc5ed53e0a2b134dd0bc0cf4d52400823c56adf922a805004478ee704628c24ab4fc7e203d7a4b78"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ohNO6lps/versions/3Zr2vML8/ForgeConfigAPIPort-v21.9.8%2Bmc1.21.9-Fabric.jar"
+                "https://cdn.modrinth.com/data/ohNO6lps/versions/6T4w46C9/ForgeConfigAPIPort-v21.10.0%2Bmc1.21.10-Fabric.jar"
             ],
-            "fileSize": 615421
+            "fileSize": 615117
         },
         {
             "path": "mods/ImmediatelyFast-Fabric-1.13.1+1.21.10.jar",
@@ -200,19 +200,34 @@
             "fileSize": 697416
         },
         {
-            "path": "mods/fabric-api-0.134.1+1.21.10.jar",
+            "path": "mods/entityculling-fabric-1.9.0-mc1.21.10.jar",
             "hashes": {
-                "sha1": "c891b6e76d3134640cc5fa9394f1f47397888380",
-                "sha512": "355380482bf62746a1c4db24d98a5cea3cb20607a5820d6d836fce511d933f6d352bc198edd31d77ce55cf3420293f26e679801b9f4c64c78c1deee5fe725cb8"
+                "sha1": "9be03c52c5800242dce7c168a92b85fae60a725e",
+                "sha512": "cb91fdf3b9976d60c9f745680a9557c342a7bf34a8918b110dcb4690345b5ec51ba482b135d9fc003416fcf956f0a2b9a4ef4519f6f44702b75130b4d7d00720"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/2diTWKwa/fabric-api-0.134.1%2B1.21.10.jar"
+                "https://cdn.modrinth.com/data/NNAgCjsB/versions/VLknW8At/entityculling-fabric-1.9.0-mc1.21.10-rc1.jar"
             ],
-            "fileSize": 2290881
+            "fileSize": 478705
+        },
+        {
+            "path": "mods/fabric-api-0.135.0+1.21.10.jar",
+            "hashes": {
+                "sha1": "68a4449ba6f5c7c06a97eac128a228694f736edb",
+                "sha512": "7a3e442ab69be2ce8413580a198e13c87f1135699b5549a12a31b82dc9ddfa9b6731d774ebc36c752387010c51d018ac6aa85fcadfcb6254df8144d7e71235aa"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qNm2IWMn/fabric-api-0.135.0%2B1.21.10.jar"
+            ],
+            "fileSize": 2301887
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
@@ -258,6 +273,21 @@
                 "https://cdn.modrinth.com/data/YL57xq9U/versions/RZp5fR8I/iris-fabric-1.9.4%2Bmc1.21.10.jar"
             ],
             "fileSize": 2707924
+        },
+        {
+            "path": "mods/lithium-fabric-0.20.0+mc1.21.10.jar",
+            "hashes": {
+                "sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40",
+                "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0%2Bmc1.21.10.jar"
+            ],
+            "fileSize": 830020
         },
         {
             "path": "mods/main-menu-credits-1.2.0.jar",
