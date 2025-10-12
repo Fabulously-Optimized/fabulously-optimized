@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "fd430e4c6222576b28aee3440dc84850e0db3c0aad1c1130cc1a53fd6c5f1c94"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
+hash = "674bc8c81afaf0cdb1cbf452d2465baad28f643992a08beba778a1b6fbcfe4dd"
+
+[[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/et_ee.json"
+hash = "cb6990ed815582f7cdd9351e53a111c99ba95acb3ed4cf2587bd54c7de8a6803"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9967c4bf60c761233fd5789bd877fdeae595f3c7773d5657dae6fd610785dd85"
+hash = "09e3badf1cebd45f4b2f374f7a7a347ea65b5cb1dcee920d17815d1c1b300395"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bcc4b1d95564a6a32a62a1c13ae5b542b21dc236c9f22c3954412105bfd3c087"
+hash = "00e5fd2bde26970c7f2271d9e64b8244dd6e86a8c5c929b0cd608e4e7bfb9b3b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -127,6 +139,11 @@ hash = "dcd43d7df3b82c967383cbbe3990e4b08ebafce5c1704c698c43c5dcbed4bc28"
 metafile = true
 
 [[files]]
+file = "mods/crash_assistant.pw.toml"
+hash = "a2c9dc008927615a46518451308d9c35a52b5efcc6f05cc0794901e3da200db5"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "867f8e4be9bc139a517dbcf55aefc2938c5e461640bd08024ec4716fce068025"
 metafile = true
@@ -143,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "53aa0fc7580272f09e4a374af451c90d60a97be6495002ecad1fbb4e92ce7333"
+hash = "f4d3b401cb1ba95d52d140f09504721f3d59aceead160b81006952dcb3e8ebfd"
 metafile = true
 
 [[files]]
@@ -159,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "216006067453efa7a750f0d8bac6ea84c503b79e40aba32bd77c9edd183ec232"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "1bbacf4844881b1367ff761b3ce1c5cc7ef61eb6514d3a7f41cc994e43cc57da"
 metafile = true
 
 [[files]]
@@ -178,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bc691de832d684d4bb7d536c73cfbceb804764b8a7bfdcbd547345e6a333919c"
+hash = "62561bf68477f12ddcec55faf3864b9960a85ca07f9c86e6715010d8f07f398b"
 metafile = true
 
 [[files]]
@@ -187,8 +209,8 @@ hash = "21843e75802603fc737c7599bbd6550e85d77e882e9b0aa5df279ae1270392d6"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "9e95b03752e15887c9236513f5443c6ba30fc311c1940152c7109c128a288f67"
+file = "mods/lambdynlights.pw.toml"
+hash = "5a608e64189a97e7b2d05ade22ee5cbf8847c5b697ab769c341e964900f0655a"
 metafile = true
 
 [[files]]
@@ -219,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6006fa2a1c9e1ecb4faf424b2a4c0086ad18077f6cc22c0d25fe59f1d3839900"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "e01e4e296bff245a222574cb664cdf07d934356c0de81c6a9ac32a1c9bd25cb2"
 metafile = true
 
 [[files]]
@@ -253,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "88e1cf290eb023af36efe7b20d1fb880597326d132189763b293a644c203ebfb"
+hash = "007af26d0c7e9e7c3866b763184cbe5aad1483b57ce3c5e24e7c9bf8209979c1"
 metafile = true
 
 [[files]]
@@ -278,9 +305,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "08be99af315e92b4a9dc18f81fefbd990e95e186b99cd1b1f8f0076b4e1d9926"
+hash = "aea58ea04ca82ab431f453a6c7cb6d6979fbd6176823046af263f0a48c9444fa"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "6de8e1fe37adeecd85b5f7858b0d47e69cb872a67d6382eb459a4f167d92eafa"
+hash = "29258d037d6d2ef88595e0b86967b4eed7918c17b8fe77732531a4700f94edd4"
 metafile = true

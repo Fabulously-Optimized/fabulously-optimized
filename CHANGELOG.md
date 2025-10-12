@@ -5,12 +5,23 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-alpha.3 (2025-10-12)
+
+- Added Crash Assistant - helps finding logs for and sometimes the causes of a crash
+  - Main interface has been configured to be simple and relevant to the modpack.
+  - Not all messages have been reviewed, please let us know if there is anything confusing.
+- Readded Fabrishot, No Chat Reports
+- Updated Sodium, LambDynamicLights, Iris Shaders, Entity Texture Features
+- Updated Hebrew translation
+- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Language Reload, Paginated Advancements
+- Temporarily force-enabled: Optiboxes
+
 ### 11.1.0-alpha.2 (2025-10-08)
 
 - Readded Entity Culling, Lithium
 - Updated Fabric API, Forge Config API Port
 - Updated Anglish translation
-- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Language Reload, No Chat Reports, Paginated Advancements
+- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Fabrishot, Language Reload, No Chat Reports, Paginated Advancements
 - Temporarily force-enabled: Optiboxes
 
 ### 11.1.0-alpha.1 (2025-10-07)
@@ -20,7 +31,7 @@ The hotfix version is now out, all 1.21.9 testers are advised to update.
 - Readded Entity Model Features, Entity Texture Features, OptiGUI
 - Updated Iris Shaders, ImmediatelyFast, Controlify, Fabric API
 - Updated Vietnamese translations
-- Temporarily incompatible: Continuity, Debugify, EntityCulling, e4mc, FastQuit, Language Reload, Lithium, No Chat Reports, Paginated Advancements
+- Temporarily incompatible: Continuity, Debugify, EntityCulling, e4mc, FastQuit, Fabrishot, Language Reload, Lithium, No Chat Reports, Paginated Advancements
 - Temporarily force-enabled: Forge Config API Port, Optiboxes
 
 ## 1.21.9
