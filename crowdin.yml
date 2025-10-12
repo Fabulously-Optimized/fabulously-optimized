@@ -3,3 +3,5 @@ files:
     translation: /%original_path%/%locale_with_underscore%.json
   - source: Chat Reporting Helper/assets/fo/lang/en_us.json
     translation: /%original_path%/%locale_with_underscore%.json
+  - source: crash_assistant_localization_overrides/en_us.json
+    translation: /%original_path%/%locale_with_underscore%.json
