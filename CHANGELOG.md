@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.1 (2025-10-22)
+
+- Readded Paginated Advancements
+- Updated BetterGrassify, Entity Model Features, Entity Culling, Fabric API, LambDynamicLights, Model Gap Fix, Optiboxes
+- Updated and enforced Fabric Loader 0.17.3
+- Updated translations in 8 languages
+- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Language Reload
+
 ### 11.1.0-alpha.3 (2025-10-12)
 
 - Added Crash Assistant - helps finding logs for and sometimes the causes of a crash
