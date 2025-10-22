@@ -5,6 +5,10 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.1-mr.1 (2025-10-22)
+
+Re-released Modrinth edition with the correct Fabric Loader.
+
 ### 11.1.0-beta.1 (2025-10-22)
 
 - Readded Paginated Advancements
