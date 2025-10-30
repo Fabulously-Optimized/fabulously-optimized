@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.2 (2025-10-30)
+
+- Updated BetterGrassify, Cloth Config, Crash Assistant, Dynamic FPS, Fabric Language Kotlin, ImmediatelyFast, Remove Reloading Screen
+- Updated Estonian
+- Simplified Crash Assistant instructions
+- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Language Reload
+
 ### 11.1.0-beta.1-mr.1 (2025-10-22)
 
 Re-released Modrinth edition with the correct Fabric Loader.

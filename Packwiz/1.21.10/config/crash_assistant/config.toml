@@ -15,15 +15,6 @@
 	kill_old_app = true
 	#If options.txt doesn't exist, the default language will be used.
 	default_lang = "en_us"
-	#Before uploading the first log, requires the user to accept the privacy policy.
-	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
-	enable_privacy_policy_acceptance = true
-	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.
-	#This will prevent this by replacing dot's in them to dot-like symbol.
-	#Anti censoring only versions, IP's are kept censored.
-	enable_mclogs_anti_ip_like_version_censorer = true
-	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
-	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
 	#By default, crash assistant will get the value for the current language from the overrides folder, then from the jar.
 	#By changing this option, it will first try to get it from the current overrides, then (if no override exists for this language)
 	#from the override for the language specified here, and only then from the jar language.
@@ -35,10 +26,24 @@
 	#This option can prevent this and enable individual upload buttons immediately after crash.
 	#However can confuse users and make them clicking individual upload buttons instead of Upload All Button.
 	prevent_upload_buttons_delay = true
+	#Before uploading the first log, requires the user to accept the privacy policy.
+	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
+	enable_privacy_policy_acceptance = true
+	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.
+	#This will prevent this by replacing dot's in them to dot-like symbol.
+	#Anti censoring only versions, IP's are kept censored.
+	enable_mclogs_anti_ip_like_version_censorer = true
 	#Prevents creating "crash_assistant" folder in the logs folder.
 	#So this option prevents our app logging at all.
 	#HIGHLY UNRECOMMENDED to disable! Contains many useful info.
 	prevent_generating_crash_assistant_app_logs = true
+	#Here you can change priority for logs.
+	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
+	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
+	#Usage: ["CRASH_REPORT", "LOG"]
+	logs_priority_overrides = ["CRASH_REPORT", "LOG"]
+	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
+	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
 
 #Here you can change text of lang placeHolders.
 #Also you can change any text in lang files.
@@ -84,6 +89,19 @@
 	#Can be needed to be disabled if issues are reported to something not supporting ANSI codeblocks, like GitHub.
 	color_message = true
 
+#Settings of links copied by Upload and copy link buttons
+[copied_links]
+	#With this option, you can customize how single links from individual upload buttons are copied, there
+	#log of small size was uploaded to a single link.
+	#For example, leave just $LINK$ to copy just link.
+	single_link = "$LOG_NAME$$FILE_NAME$: $LINK$"
+	#With this option, you can customize how links from individual upload buttons are copied, there
+	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user only decided to copy only one of them (not message with both).
+	single_link_split = "$LOG_NAME$$FILE_NAME$($HEAD_OR_TAIL$): $LINK$ $TOO_BIG_REASONS$"
+	#With this option, you can customize how links from individual upload buttons are copied, there
+	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user decided to copy message with both.
+	both_links_split = "$LOG_NAME$[$FILE_NAME$ <TOLOWER>$MSG_LANG.gui.split_log_dialog_head$</TOLOWER>](<$LINK_FIRST_LINES$>) / [<TOLOWER>$MSG_LANG.gui.split_log_dialog_tail$</TOLOWER>](<$LINK_LAST_LINES$>) $TOO_BIG_REASONS$"
+
 #Settings of modlist feature.
 #Adds in generated msg block about which mods modpack user added/removed/updated.
 #Also you can see diff by running '/crash_assistant modlist diff' command.
@@ -110,6 +128,20 @@
 	add_modloader_jar_name = true
 	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.
 	add_modlist_txt_as_log = false
+
+#Settings of too many changes warning feature.
+#Notifies end users of the modpack and saying they made too many changes to the modpack.
+#Not displayed to the modpack creators.
+[too_many_changes_warning]
+	#Set to the positive integer to enable feature. Set to negative integer to disable.
+	#How many changes end user should make for warning to be displayed.
+	count = -1
+	#With this option, you can select the formulation of this warning, currently supported:
+	#   - NOTIFY: Just saying to the end user that what they made many changes and adding random mods or clicking
+	#the "Update All" button is not a good idea without proper testing. It is expected to crash.
+	#   - DROP_SUPPORT: Saying what you are not providing support for that amount of changes, suggesting the end user to
+	#re-install modpack or they are on their own with that amount of changes.
+	formulation_type = "NOTIFY"
 
 #Settings of analysis feature.
 #Analysing logs for most common reasons of crashes and displaying recommendations with fixes.
@@ -151,6 +183,8 @@
 
 #You can customise GUI with this options.
 [gui_customisation]
+	#Will hide Upload All Button from GUI.
+	disable_upload_all_button = true
 	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
 	show_dont_send_screenshot_of_gui_notice = false
 	#Animate border to request user attention even more.
@@ -173,8 +207,23 @@
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
 	#Default for this button is "0_178_0" (dark green color).
 	auto_fix_button_foreground_color = "0_178_0"
-	#Will hide Upload All Button from GUI.
-	disable_upload_all_button = true
+	#Path to a modpack logo to display in the top of the GUI.
+	#Path is relative to the Minecraft instance folder. Leave empty to disable.
+	modpack_logo_path = ""
+	#If true, the logo will be larger, Replacing a some of `don't send screenshot` notice.
+	#If false, it will be smaller and logo will be end right where the `don't send screenshot` notice starts.
+	#You should try both, but most likely:
+	#- If you have some long text in the discord description, you will love the small one.
+	#- If the text is short, you will love the large one.
+	modpack_logo_large_mode = false
+	#Limit modpack logo height. Default is -1, which means it's calculated automatically.
+	#By default, this should not be needed. But if you have heavily customized GUI or using
+	#a rectangle logo instead of square, you may want to decrease its size, so this option could be needed in such case. 
+	limit_modpack_logo_height = -1
+	#This option would be needed only if you limited modpack logo height.
+	#Otherwise, the logo will consume all available horizontal space.
+	#If true, the logo will be centered. If false, it will be aligned to the top. 
+	modpack_logo_aligned_center = true
 
 #Checks crash_assistant compatibility with other incompatible mods.
 #Highly unrecommended to disable!
