@@ -41,7 +41,7 @@
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
 	#Usage: ["CRASH_REPORT", "LOG"]
-	logs_priority_overrides = ["CRASH_REPORT", "LOG"]
+	logs_priority_overrides = ["CRASH_REPORT", "HS_ERR", "LOG"]
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
 	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
 
@@ -100,7 +100,7 @@
 	single_link_split = "$LOG_NAME$$FILE_NAME$($HEAD_OR_TAIL$): $LINK$ $TOO_BIG_REASONS$"
 	#With this option, you can customize how links from individual upload buttons are copied, there
 	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user decided to copy message with both.
-	both_links_split = "$LOG_NAME$[$FILE_NAME$ <TOLOWER>$MSG_LANG.gui.split_log_dialog_head$</TOLOWER>](<$LINK_FIRST_LINES$>) / [<TOLOWER>$MSG_LANG.gui.split_log_dialog_tail$</TOLOWER>](<$LINK_LAST_LINES$>) $TOO_BIG_REASONS$"
+	both_links_split = "$LOG_NAME$$FILE_NAME$: <$LINK_FIRST_LINES$> and <$LINK_LAST_LINES$> $TOO_BIG_REASONS$"
 
 #Settings of modlist feature.
 #Adds in generated msg block about which mods modpack user added/removed/updated.

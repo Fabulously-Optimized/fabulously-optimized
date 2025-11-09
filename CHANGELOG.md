@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.3 (2025-11-09)
+
+- Added Sodium Shadowy Path Blocks - the _path_ to regaining vanilla parity!
+- Updated Crash Assistant, Entity Culling, Entity Model Features, Fabric API, FerriteCore, LambDynamicLights, Optiboxes
+- Updated translations in 8 languages
+- Adjusted Crash Assistant config for improved usability
+- Temporarily incompatible: Continuity, Debugify, e4mc, FastQuit, Language Reload
+
 ### 11.1.0-beta.2 (2025-10-30)
 
 - Updated BetterGrassify, Cloth Config, Crash Assistant, Dynamic FPS, Fabric Language Kotlin, ImmediatelyFast, Remove Reloading Screen
