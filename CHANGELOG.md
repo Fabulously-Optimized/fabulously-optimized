@@ -7,7 +7,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ### 11.1.0-beta.3 (2025-11-09)
 
-- Added Sodium Shadowy Path Blocks - the _path_ to regaining vanilla parity!
+- Added Sodium Shadowy Path Blocks - makes dirt paths look like vanilla
 - Updated Crash Assistant, Entity Culling, Entity Model Features, Fabric API, FerriteCore, LambDynamicLights, Optiboxes
 - Updated translations in 8 languages
 - Adjusted Crash Assistant config for improved usability
