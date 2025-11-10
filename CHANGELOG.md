@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.4 (2025-11-10)
+
+- Readded Continuity
+- Updated Fabric API
+- Updated translations in 9 languages
+- Temporarily incompatible: Debugify, e4mc, FastQuit, Language Reload
+
 ### 11.1.0-beta.3 (2025-11-09)
 
 - Added Sodium Shadowy Path Blocks - makes dirt paths look like vanilla
