@@ -111,6 +111,12 @@ Note that Minecraft 1.21.10 will be released soon with additional fixes.
 
 ## 1.21.8
 
+### 10.3.1 (2025-11-11)
+
+- Updated BetterGrassify, Controlify, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, No Chat Reports, Optiboxes, Sodium
+- Updated translations
+- Updated Fabric Loader to 0.17.3
+
 ### 10.3.0 (2025-10-05)
 
 - Updated Fabric API, Iris Shaders, LambDynamicLights, Lithium, MoreCulling, Optiboxes, Remove Reloading Screen, Sodium, Sodium Extra, Zoomify
