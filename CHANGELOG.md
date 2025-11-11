@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.5 (2025-11-11)
+
+- Updated Sodium
+  - Freezing issues should now be fixed on Intel GPUs
+- Updated translations in 4 languages
+- Temporarily incompatible: Debugify, e4mc, FastQuit, Language Reload
+
 ### 11.1.0-beta.4 (2025-11-10)
 
 - Readded Continuity
@@ -114,6 +121,7 @@ Note that Minecraft 1.21.10 will be released soon with additional fixes.
 ### 10.3.1 (2025-11-11)
 
 - Updated BetterGrassify, Controlify, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, No Chat Reports, Optiboxes, Sodium
+  - Freezing issues should now be fixed on Intel GPUs
 - Updated translations
 - Updated Fabric Loader to 0.17.3
 
