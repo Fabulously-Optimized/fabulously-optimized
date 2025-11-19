@@ -54,11 +54,11 @@ hash = "f9f749ace6d13a5d3e55e1061bb46e5fe0022a152fd1dfee4a179bb42dd37b38"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b5f4df573e28894c6eaa448a7a74c7002054d9afaee04a8075c0b8d559c56cda"
+hash = "610fad63a9ed0178049b7a5bd0c519c83c714aa5f284daabd38a93f9a40bc5cb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e8a695472a4ca21b8e8018c2f0efbbf8b58a87a0f0c53be6a640b0fc3d9b3f22"
+hash = "ec3a267b757c683863d01e17602f2a847a2e72c9c16cacc358668cbc50b2b0a9"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -150,7 +150,7 @@ hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "daf0c44a7a435c4ddfaa152fec1f40514f416780b473ab4d07dd441d4ca6b68f"
+hash = "edd18730edde6d07394ca0631b03a8ea4dbe65294f4f13e42152a71ddb3645de"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -189,12 +189,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "9cdbcae661da041584f67e97ffdd537ab2eff35cc4ca2596350e7510cc7e2b20"
+hash = "0eeb29009041afd192e80c07002bd49dd44a00559ee5e044c2df859524667688"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "867f8e4be9bc139a517dbcf55aefc2938c5e461640bd08024ec4716fce068025"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "323e32dea5787443b71b40ab2d3ae13f0bf42fd9de42ec849cff233a12ffd1dd"
 metafile = true
 
 [[files]]
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgeconfigapiport.pw.toml"
-hash = "c9c2a5b3c98d4b80ac6b24db9a31435f1ec5d95aa4a442c757d83fca0b844088"
+hash = "59763290be9efedece6960fa2d4afb42cd10776a9ed73ceec786391154462947"
 metafile = true
 
 [[files]]
@@ -263,8 +268,13 @@ hash = "4921edf5972f5acc2f39cac62324a90d33577038f074ef2afa756d17d5a84ced"
 metafile = true
 
 [[files]]
+file = "mods/languagereload.pw.toml"
+hash = "c575ad32315d38916df9a7148afb4d05430a40869074c1e87dc61873f5a77747"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
-hash = "03e1948cee78c0b9817f98ee55b8e155220498f66ec96b21f8a458098105aa4e"
+hash = "186ff3d734f9d6718daa6e8242884d69be59f4d1d0b0eb95a1140934e497289b"
 metafile = true
 
 [[files]]
@@ -304,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "12a352db8929bf7097972a12ef85619f695a611d268829efd263ddd80186f33e"
+hash = "f5273d4065ede04639ac6796cac0420d6cafed743a930a8f2c70f6f9c37e7bf3"
 metafile = true
 
 [[files]]
@@ -364,9 +374,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "dee0c90e24debfee5b18809ce37b7de5cfde30681d81a6db4c5edef110092901"
+hash = "d050f4c8816644babd93b1eb8a92b3be113fa4092e0eb450f3b73ae65cc0a51a"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "198fcfb73cc9f2d32a75ca457d63ea8d995c66095df781aea0d3a79ba8e2bd02"
+hash = "391659595d9ac99dfab1bbb46da85ede3e59249bfd8cdfdf05c66d7b1ec554d1"
 metafile = true

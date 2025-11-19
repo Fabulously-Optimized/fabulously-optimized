@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "11.1.0-beta.5",
+    "versionId": "11.1.0-beta.6",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -20,34 +20,34 @@
             "fileSize": 76062
         },
         {
-            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.10-1.10.19.jar",
+            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.10-1.10.21.jar",
             "hashes": {
-                "sha1": "ef29a3170a960ae0f69470b7db567b649ad366f6",
-                "sha512": "4b5e7236fd5cac9a3491f08979c6844a37fee01224009df03754f87a9a4388a91b2752c0dd80b8e22246f323bb874d1f92b4183ee6167f25b73c481958b444aa"
+                "sha1": "ec8bb5da082e958fc60a558af2d6d9dd17c645da",
+                "sha512": "0a5e657eb57309a44ac4d7ea759275b8930de40bfdcfef01f18bc255ce41fd564353065e533509ade0e0d5e9b775a80ba00da98a3a71b773500a12282d9a9210"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/Mq7uaxkX/CrashAssistant-fabric-1.21.5-1.21.10-1.10.19.jar"
+                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/rjBFad37/CrashAssistant-fabric-1.21.5-1.21.10-1.10.21.jar"
             ],
-            "fileSize": 1021894
+            "fileSize": 1061734
         },
         {
-            "path": "mods/ForgeConfigAPIPort-v21.10.0+mc1.21.10-Fabric.jar",
+            "path": "mods/ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
             "hashes": {
-                "sha1": "8e28ea860effcf37b81a99b352d0d2daf58c31af",
-                "sha512": "e7b8b28e73e0e3a88bbf374edc9c652ee48c2b8f757d8a59cc5ed53e0a2b134dd0bc0cf4d52400823c56adf922a805004478ee704628c24ab4fc7e203d7a4b78"
+                "sha1": "1335a32984357a39d9c8cf5faba9e9b5c3e1f80d",
+                "sha512": "ecb322db9e2c1a0cec8fb06300e1568847980f336fe77f3dda16a89a73da59cbf2152e3ffb2337ad9019dc6bd247a7534e6046e8fd93a3cdb6de065a24093ab9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ohNO6lps/versions/6T4w46C9/ForgeConfigAPIPort-v21.10.0%2Bmc1.21.10-Fabric.jar"
+                "https://cdn.modrinth.com/data/ohNO6lps/versions/IKHTwwTv/ForgeConfigAPIPort-v21.10.1%2Bmc1.21.10-Fabric.jar"
             ],
-            "fileSize": 615117
+            "fileSize": 615376
         },
         {
             "path": "mods/ImmediatelyFast-Fabric-1.13.2+1.21.10.jar",
@@ -200,6 +200,21 @@
             "fileSize": 81623
         },
         {
+            "path": "mods/debugify-1.21.10+1.0.jar",
+            "hashes": {
+                "sha1": "f1f17c72ac1abc398ce26d53dd15a293915d2965",
+                "sha512": "c3a3f8f24d18ee2813c12785d0042367a785204ee0a319a5e1767edc4d055e8b8061aff7a90ab8545220ccbd906db74f75ad78c44beb077b471521a2cc117bac"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/eixLNBxx/debugify-1.21.10%2B1.0.jar"
+            ],
+            "fileSize": 377704
+        },
+        {
             "path": "mods/dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
             "hashes": {
                 "sha1": "2f3120c0b74a1c273646051f5e32c20b7b6548eb",
@@ -350,19 +365,34 @@
             "fileSize": 2153573
         },
         {
-            "path": "mods/lithium-fabric-0.20.0+mc1.21.10.jar",
+            "path": "mods/language-reload-1.7.5+1.21.10.jar",
             "hashes": {
-                "sha1": "6f828c09ad43641bed3438e7ea6a4ab313f78d40",
-                "sha512": "755c0e0fc7f6f38ac4d936cc6023d1dce6ecfd8d6bdc2c544c2a3c3d6d04f0d85db53722a089fa8be72ae32fc127e87f5946793ba6e8b4f2c2962ed30d333ed2"
+                "sha1": "f1ba2472975863dc130acbd3cc425c9f31fb23e1",
+                "sha512": "51cbb4fb4c23604259cd7c2f7ad78db1514dfdd8a74a0a49a33889b151a4bdf34c75f17315418899840c5a2c88f63721c05dcf07cc6028c4736a1ccf6374f74a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/oGKQMdyZ/lithium-fabric-0.20.0%2Bmc1.21.10.jar"
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/A4AkBYE3/language-reload-1.7.5%2B1.21.10.jar"
             ],
-            "fileSize": 830020
+            "fileSize": 75644
+        },
+        {
+            "path": "mods/lithium-fabric-0.20.1+mc1.21.10.jar",
+            "hashes": {
+                "sha1": "7d44f5da9c690bbf1bd6d65c1acc81db5cf7f8c6",
+                "sha512": "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1%2Bmc1.21.10.jar"
+            ],
+            "fileSize": 835455
         },
         {
             "path": "mods/main-menu-credits-1.2.0.jar",
@@ -470,19 +500,19 @@
             "fileSize": 558239
         },
         {
-            "path": "mods/optigui-2.3.0-beta.8+1.21.9.jar",
+            "path": "mods/optigui-2.3.0-beta.9+1.21.9.jar",
             "hashes": {
-                "sha1": "030107a23b95f91a469a4b15af6f0cfbe2fdcd2a",
-                "sha512": "770f1b3d2e62d1a673187e9a2dc34155818ccb5bdb148ac2b7c81838a5635d4a1a92bfcd7b949fdb9d0bebd5c9f4ac5171d29848acaecbb0b0f6ade49233c098"
+                "sha1": "d79e193539ad7920382648083e6c61b7fc053d2c",
+                "sha512": "76b1cc7a9a3da3eefa087d57d195e7afd014613d9bf801a1690964603ba58970cd208af3b8113c29e6d6d039af692893bb380f66053f706321b0a5a3f25ca607"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/JuksLGBQ/versions/novKhTZ1/optigui-2.3.0-beta.8%2B1.21.9.jar"
+                "https://cdn.modrinth.com/data/JuksLGBQ/versions/7aP1cWaK/optigui-2.3.0-beta.9%2B1.21.9.jar"
             ],
-            "fileSize": 612528
+            "fileSize": 611520
         },
         {
             "path": "mods/paginatedadvancements-2.8.0+1.21.9.jar",
@@ -637,17 +667,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "1e57315fd57d8cee5338534392b88387c4de8aef",
-                "sha512": "e1c2a0d2dbb569a9d8ed9816a1769505f800c4235c792cb3f1ad2d63142641c59efd9aca8cbdddddc433618fefe783192fadd969a2a7a04d081604473e429611"
+                "sha1": "0067e3414c2db17e0ab1ef9ca34fdd2678eb2885",
+                "sha512": "fa54d0fe8139c8b01dbd599c635f327811ed3edc7a3507220edf32db7b1099111bd57bfe237adc39074e8851a8e1145d3a4ad2b66650b160b819a4109f90689a"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/1Jvg6uGm/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/wDPJqkKs/SodiumTranslations.zip"
             ],
-            "fileSize": 239240
+            "fileSize": 239709
         }
     ],
     "dependencies": {

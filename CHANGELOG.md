@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.6 (2025-11-19)
+
+- Readded Debugify, Language Reload
+- Updated Crash Assistant, Forge Config API Port, Lithium, OptiGUI
+- Updated Russian translation
+- Temporarily incompatible: e4mc, FastQuit
+
 ### 11.1.0-beta.5 (2025-11-11)
 
 - Updated Sodium
