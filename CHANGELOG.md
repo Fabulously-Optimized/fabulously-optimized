@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.8 (2025-11-20)
+
+- Removed Debugify due to current incompatibility with Controlify on macOS
+- Updated Crash Assistant
+- Updated and enforced Fabric Loader on 0.18.1
+- Temporarily incompatible: Debugify, e4mc, FastQuit
+
 ### 11.1.0-beta.7 (2025-11-20)
 
 - Disabled MC-22882 on Debugify to fix Controlify crashing on macOS

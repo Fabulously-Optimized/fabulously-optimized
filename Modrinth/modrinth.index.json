@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "11.1.0-beta.7",
+    "versionId": "11.1.0-beta.8",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -20,19 +20,19 @@
             "fileSize": 76062
         },
         {
-            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.10-1.10.21.jar",
+            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.10-1.10.22.jar",
             "hashes": {
-                "sha1": "ec8bb5da082e958fc60a558af2d6d9dd17c645da",
-                "sha512": "0a5e657eb57309a44ac4d7ea759275b8930de40bfdcfef01f18bc255ce41fd564353065e533509ade0e0d5e9b775a80ba00da98a3a71b773500a12282d9a9210"
+                "sha1": "f6c48f01c4fa7f23c78fd77b268a9272d8aeb76c",
+                "sha512": "25b55f8ac63de83b93ac8281298b4b74f0249a746157107004b2efe8f39b24f532a42211c4611e76dab8b810e4e02cb2b6e60a3378e068c947adf0c855f6f038"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/rjBFad37/CrashAssistant-fabric-1.21.5-1.21.10-1.10.21.jar"
+                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/hMfYM3Hl/CrashAssistant-fabric-1.21.5-1.21.10-1.10.22.jar"
             ],
-            "fileSize": 1061734
+            "fileSize": 1066629
         },
         {
             "path": "mods/ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
@@ -198,21 +198,6 @@
                 "https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
             ],
             "fileSize": 81623
-        },
-        {
-            "path": "mods/debugify-1.21.10+1.0.jar",
-            "hashes": {
-                "sha1": "f1f17c72ac1abc398ce26d53dd15a293915d2965",
-                "sha512": "c3a3f8f24d18ee2813c12785d0042367a785204ee0a319a5e1767edc4d055e8b8061aff7a90ab8545220ccbd906db74f75ad78c44beb077b471521a2cc117bac"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/eixLNBxx/debugify-1.21.10%2B1.0.jar"
-            ],
-            "fileSize": 377704
         },
         {
             "path": "mods/dynamic-fps-3.10.1+minecraft-1.21.9-fabric.jar",
@@ -681,7 +666,7 @@
         }
     ],
     "dependencies": {
-        "fabric-loader": "0.17.3",
+        "fabric-loader": "0.18.1",
         "minecraft": "1.21.10"
     }
 }
