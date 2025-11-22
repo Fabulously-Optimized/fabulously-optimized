@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-24.04
     environment: github-actions
     permissions:
-      id-token: read
+      id-token: write
       contents: write
     steps:
        - name: Download pack files
@@ -36,7 +36,7 @@ jobs:
     runs-on: ubuntu-24.04
     environment: github-actions
     permissions:
-      id-token: read
+      id-token: write
       attestations: write
       contents: write
     steps:
