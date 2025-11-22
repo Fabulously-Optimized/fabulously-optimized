@@ -5,7 +5,7 @@ on:
   - delete
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   sync-bitbucket:
