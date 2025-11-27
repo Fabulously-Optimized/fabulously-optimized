@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0-beta.9 (2025-11-27)
+
+- Readded Debugify
+- Updated Entity Model Features, Entity Texture Features, Crash Assistant, Puzzle, Reese's Sodium Options, Sodium Extra
+- Updated Polish translation
+- Improved crash log upload flow in Crash Assistant when your log is too big
+- Temporarily incompatible: e4mc, FastQuit
+
 ### 11.1.0-beta.8 (2025-11-20)
 
 - Removed Debugify due to current incompatibility with Controlify on macOS

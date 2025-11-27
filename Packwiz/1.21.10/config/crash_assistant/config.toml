@@ -37,6 +37,10 @@
 	#So this option prevents our app logging at all.
 	#HIGHLY UNRECOMMENDED to disable! Contains many useful info.
 	prevent_generating_crash_assistant_app_logs = true
+	#Generates "logs/stderr_stream.log" with stderr stream.
+	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
+	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
+	generate_own_launcher_log = true
 	#Here you can change priority for logs.
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
@@ -44,6 +48,16 @@
 	logs_priority_overrides = ["CRASH_REPORT", "HS_ERR", "LOG"]
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
 	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
+
+#A simplified GUI that hides the logs list until the user opts into Expert Mode.
+[simple_mode]
+	#If enabled, the GUI starts in simple mode with logs hidden and a single "Show Logs (Expert Mode)" button.
+	#Disabled by default.
+	enabled = false
+	#If true, modpack creators always see the Expert Mode with logs visible, even if simple mode is enabled.
+	prevent_for_modpack_creators = true
+	#If true, hides the mod list changes section while simple mode is active.
+	hide_modlist_section = false
 
 #Here you can change text of lang placeHolders.
 #Also you can change any text in lang files.
@@ -101,6 +115,8 @@
 	#With this option, you can customize how links from individual upload buttons are copied, there
 	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user decided to copy message with both.
 	both_links_split = "$LOG_NAME$$FILE_NAME$: <$LINK_FIRST_LINES$> and <$LINK_LAST_LINES$> $TOO_BIG_REASONS$"
+	#If enabled, disables the head/tail selection dialog for split logs on individual uploads and always copies message with both links.
+	skip_split_dialog = true
 
 #Settings of modlist feature.
 #Adds in generated msg block about which mods modpack user added/removed/updated.
@@ -195,6 +211,8 @@
 	upload_all_button_font_size = 16
 	#Same as upload_all_button_font_size, but for Request Help button.
 	request_help_button_font_size = 12
+	#Same as upload_all_button_font_size, but for the Simple Mode toggle button.
+	simple_mode_button_font_size = 16
 	#You can change Upload All Button color to request user attention.
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color. Use "default" to use default swing color.
 	#Default for this button is "0_178_0" (dark green color).
@@ -202,6 +220,8 @@
 	#Same as upload_all_button_foreground_color, but for Request Help button.
 	#Default for this button is "0_0_178" (dark blue color).
 	request_help_button_foreground_color = "0_0_178"
+	#Same as upload_all_button_foreground_color, but for the Simple Mode toggle button.
+	simple_mode_button_foreground_color = "0_0_178"
 	#Same as upload_all_button_font_size, but for Auto-Fix button (in integrated GPU warning).
 	auto_fix_button_font_size = 16
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).

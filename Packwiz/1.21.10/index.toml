@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "86ed2f5f03c88c1c44650f57d1f5769e88079ac7ba51ddb16b6b932e3bb0eb72"
+hash = "ee7b28ddb985dd28f57826ca7c7435298460b05963d030d3bd3564874f5d0271"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "798d49cd1d9ca29d88c9f77edba84427f2b597443d8af716fb779bdb99afcbe1"
+hash = "4d1f98bda840eae7a095f2e969e85ca14555d0a5443e83b2c5bdf033ba9b703a"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
@@ -33,6 +33,10 @@ file = "config/crash_assistant/crash_assistant_localization_overrides/it_it.json
 hash = "d2a4b7a5869b9ea3a878780fe037b72b72742acda2dfa1622cbce9dcd34c58c7"
 
 [[files]]
+file = "config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json"
+hash = "6da3fb9dabf07f858f6cd574e466becdda6f53abd2ee9ac8fbafcb3fc3232ad6"
+
+[[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
 hash = "f6afd3fa7e12990ed7181c04366bb5ce340a38981a2a54d8a95958b53bd8e296"
 
@@ -54,11 +58,11 @@ hash = "f9f749ace6d13a5d3e55e1061bb46e5fe0022a152fd1dfee4a179bb42dd37b38"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f5cb33236a600f23b8badf6405da713fcbae3b3d02de0fb47f6be7cc365afe81"
+hash = "39835a1f4c8fe64ae04675d3115b8e38787d8b9e76e8db22c7962c5f49babd73"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a6271b5c6ad19abd2f51015b68143bdf3d00001c4880c40f976221b00abc103e"
+hash = "2f0b42d85ecc7924421f37a8cca9f46ac001aa23b35eb8d3fd5abfa3cf76f0a8"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -189,12 +193,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "4cc714928dd043b671f5164ba2a4b6b202ded3be4feb98be3bf41fe238c8c228"
+hash = "561515d620a4fba8c7203f3a72ac86a3517e663eaac3e9cc5441f5c7637e2a4d"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "867f8e4be9bc139a517dbcf55aefc2938c5e461640bd08024ec4716fce068025"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "40cd28ee0012a938d0bd8dedf94f44bc7890d69c6a824597197e30f26f8b229e"
 metafile = true
 
 [[files]]
@@ -204,12 +213,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "8d03826b68e203190ca92514d6c1c778b1ecc846fe8c669028934deadc460fde"
+hash = "1d6899920a6a9de3cbeda13a1611d4fda74a48645d64b3001ac332c36895e9e0"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "f4d3b401cb1ba95d52d140f09504721f3d59aceead160b81006952dcb3e8ebfd"
+hash = "91b58915c50f255315764e0cc2d1fb3bd68b6ed313dbdc3f2518c90cb7814b5a"
 metafile = true
 
 [[files]]
@@ -319,12 +328,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "21e4d4762f06338aee170e8a402c5dd2d6ead3a43c1add2bd800ff0b61668a4b"
+hash = "b2f0c53083dc0048652295c3ac09ac81d18365ce323520c2849fbc3f9028e699"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f67ece3f1b7752cd197d5b4dd75b8d7c96b6efd91482049955a6903c3660638d"
+hash = "983290f26e4e746fcccfcd6701b0afe547e2c01952d3560625c1e996c751c10c"
 metafile = true
 
 [[files]]
@@ -334,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "efcffa8f7f5d49fd57b52fc29ec85eecca4df3807335b8f17d0620cb6ba26a42"
+hash = "146ad722eecbf7bc624c86e4f03b10fb05a139f9910cf67cb3262101bf9787e4"
 metafile = true
 
 [[files]]
@@ -369,9 +378,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "d050f4c8816644babd93b1eb8a92b3be113fa4092e0eb450f3b73ae65cc0a51a"
+hash = "8dfff15936cf24fbd95bb52ce79dd7caad1fee2d20c8b812b83e1ece567d9b16"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "391659595d9ac99dfab1bbb46da85ede3e59249bfd8cdfdf05c66d7b1ec554d1"
+hash = "b0b28601998f5f633183a3ba8c187a591c9176f9659e682b70cffe87ec54227b"
 metafile = true
