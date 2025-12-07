@@ -5,7 +5,7 @@ Here you can find the mod comparison table between the currently supported Minec
 The selected mods are inspired, but not limited by the [list of OptiFine alternatives](https://lambdaurora.dev/optifine_alternatives). The modpack also [improves the default settings](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options).
 
 ## Smooth
-| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.4.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
+| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.x.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.6 | 1.21.1 | 1.21.4 | 1.21.5 | 1.21.8 | 1.21.10 |  |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  |  |  | Makes beds render faster |
@@ -32,7 +32,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 ¹ [Not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
 
 ## Pretty
-| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.4.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
+| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.x.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.6 | 1.21.1 | 1.21.4 | 1.21.5 | 1.21.8 | 1.21.10 |  |
 | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | [Giserbaer](https://www.curseforge.com/members/Giserbaer) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  | Makes the advancement pages bigger, adds a requirement list and search bar |
@@ -68,20 +68,22 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Makes Sodium's settings vertical, centered and scrollable |
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  |  | Adds toast animations and FO text in main menu, plus several opt-in features |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) | [FlashyReese](https://www.curseforge.com/members/FlashyReese) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more |
+| [Sodium Shadowy Path Blocks](https://www.curseforge.com/minecraft/mc-mods/sodium-shadowy-path-blocks) | [Rynnavinx](https://www.curseforge.com/members/rynnavinx/projects) |  |  |  |  |  |  |  |  |  | &nbsp;&nbsp;✅ | Makes dirt paths look like vanilla |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  | Ensures all possible tooltips fit to screen |
 ¹ CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk because Farsight could not be distributed there.
 
 ## Functional
-| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.4.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
+| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.x.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.6 | 1.21.1 | 1.21.4 | 1.21.5 | 1.21.8 | 1.21.10 |  |
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
 | [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Adds controller support that is better than Bedrock's |
+| [Crash Assistant](https://www.curseforge.com/minecraft/mc-mods/crash-assistant) | [KostromDan](https://www.curseforge.com/members/kostromdan/projects) |  |  |  |  |  |  |  |  |  | &nbsp;&nbsp;✅ | Helps finding logs and causes of a crash |
 | [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders) | [Kir_Antipov](https://www.curseforge.com/members/kir_antipov/) |  |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
 | [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) | [anar4732](https://www.curseforge.com/members/anar4732) |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  | Keeps typed message history across worlds |
 | [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Fixes [a set of bugs](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
-| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc) | [skyegreen](https://www.curseforge.com/members/skyegreen) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | Allows opening worlds to public access the same way you can open to LAN |
+| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc) | [skyegreen](https://www.curseforge.com/members/skyegreen) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  | Allows opening worlds to public access the same way you can open to LAN |
 | [Nuit (FabricSkyboxes) Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://www.curseforge.com/members/flashyreese) |  |  |  | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  | Adds OptiFine resourcepack support to FabricSkyboxes |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | [altrisi](https://www.curseforge.com/members/altrisi) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  |  | Fixes the game freezing when you open resource pack folders, a screenshot etc. |
 | [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) | [ImUrX](https://www.curseforge.com/members/imurx) |  | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  |  | Adds the audio output option like 1.18 |
@@ -100,7 +102,7 @@ The selected mods are inspired, but not limited by the [list of OptiFine alterna
 
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.4.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
+| Name | Author | 1.x.x | 2.x.x | 3.x.x | 4.x.x | 5.x.x | 6.x.x | 8.x.x | 9.x.x | 10.x.x | 11.x.x | Description |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.6 | 1.21.1 | 1.21.4 | 1.21.5 | 1.21.8 | 1.21.10 |  |
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✅ | &nbsp;&nbsp;✅ |  |  |  |  |  |  |  |  | Makes some mods work |
