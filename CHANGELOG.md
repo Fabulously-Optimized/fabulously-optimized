@@ -5,6 +5,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.10
 
+### 11.1.0 (2025-12-07)
+
+- Added Sodium Shadowy Path Blocks - makes dirt paths look like vanilla
+- Added Crash Assistant - helps finding logs for and sometimes the causes of a crash
+- Removed e4mc - currently incompatible
+- Enabled the default keybind for Save Hotbar Activator as it can work with the same key as zoom now
+- Updated and enforced Fabric Loader 0.18.1
+
+Changes from beta 9 to stable:
+
+- Readded FastQuit
+- Updated Controlify, Crash Assistant
+- Temporarily hid e4mc references in Mod Menu Helper
+
 ### 11.1.0-beta.9 (2025-11-27)
 
 - Readded Debugify

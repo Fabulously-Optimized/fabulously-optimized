@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "11.1.0-beta.9",
+    "versionId": "11.1.0",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -20,19 +20,19 @@
             "fileSize": 76062
         },
         {
-            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.10-1.10.23.jar",
+            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.10-1.10.25.jar",
             "hashes": {
-                "sha1": "1b8d7ea22b942b31f0eb2b5aaa0cd6799a724597",
-                "sha512": "ef231d45f1d0c39ecf529e90f296aa126c90e0146bb5c8ddb2ef4a46200cce7b17f1db95827641a0e90dfcd94bd8e6b3ca7db0c2b379a054c7d3c4c3819419b5"
+                "sha1": "dfc51d0408ecbd16aedca3cda1ff45eeed1e3873",
+                "sha512": "cc12b6f6b17101e8688d85f95c98703ddbab068ebfcc97729d63c34a51f5a1645cb63c92a3f744c35e27737060493f874b981c206e10a26c097b32b7d6ee98a4"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/jFOdziSi/CrashAssistant-fabric-1.21.5-1.21.10-1.10.23.jar"
+                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/VJv7rncn/CrashAssistant-fabric-1.21.5-1.21.10-1.10.25.jar"
             ],
-            "fileSize": 1071414
+            "fileSize": 1170340
         },
         {
             "path": "mods/ForgeConfigAPIPort-v21.10.1+mc1.21.10-Fabric.jar",
@@ -170,19 +170,19 @@
             "fileSize": 994514
         },
         {
-            "path": "mods/controlify-2.4.2+1.21.10-fabric.jar",
+            "path": "mods/controlify-2.4.4+1.21.10-fabric.jar",
             "hashes": {
-                "sha1": "e85ba0f77a425cb1a24033b40ba84db4dcf1cc55",
-                "sha512": "8ca0bd6e498e4d49bdd2b5a2b1db612bba387393368e4fec0d9e3a86a325fc40f84e87f909ab8c7d5dc02ad074f30fdc170f2fb08a474b0673cbabe57d5440d6"
+                "sha1": "f1ef599f662cf81cbb3f68a3554fdd9d1795a60b",
+                "sha512": "c616b11d456050ad4c67f5d95225db731b613b91115c294bdf0ef31ef1e7774c6156d7d3a1e2d3bf1f4d5d19180f6dfcb1ac3bc2d4dcece337a22c397520a2e8"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/sIimGQrV/controlify-2.4.2%2B1.21.10-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/DsLQgNuV/controlify-2.4.4%2B1.21.10-fabric.jar"
             ],
-            "fileSize": 8123404
+            "fileSize": 8145187
         },
         {
             "path": "mods/cwb-fabric-3.0.0+mc1.21.5.jar",
@@ -318,6 +318,21 @@
                 "https://cdn.modrinth.com/data/3qsfQtE9/versions/AhvqqGWZ/fabrishot-1.16.3.jar"
             ],
             "fileSize": 49787
+        },
+        {
+            "path": "mods/fastquit-3.1.2+mc1.21.10.jar",
+            "hashes": {
+                "sha1": "d173dc167ca729dbb6cd0de3d6c1435c7f665039",
+                "sha512": "5bb4061f46f313741fe8f7a12315b7cc12376982b6660ce1701036aa68f326e4108af778e1c624b452da9445ac5bfc108a005e78eb2bd0ea2ad87dcf0bce4f64"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/x1hIzbuY/versions/ZgHqClek/fastquit-3.1.2%2Bmc1.21.10.jar"
+            ],
+            "fileSize": 61209
         },
         {
             "path": "mods/ferritecore-8.0.2-fabric.jar",
@@ -667,17 +682,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "fa6d431cb43b44af8b18d7f7ed2cb4eb96be039d",
-                "sha512": "7729296994b1d61450a5caabe18012c0ae358a8559eb012126dc828f6749fba74ea64e216b2c4c07cbd309beec04865458f94c90ab02d7332e933d6e24b0bd62"
+                "sha1": "56e6e3888e772c5ef6872547a79c2b40fc2bc860",
+                "sha512": "9149e7a6ccd92d5730c8e60947f022ed4e9f086bbb8acc2477db1dc1d8e7fff062e6dd5aa05d21361a004d4d15ee3bdb2099b34fdf23ad5b2845c5bc4501d4d7"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/751FoAnj/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/jhZ8HWWd/SodiumTranslations.zip"
             ],
-            "fileSize": 241817
+            "fileSize": 242454
         }
     ],
     "dependencies": {
