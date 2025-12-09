@@ -1,0 +1,253 @@
+
+#General settings of Crash Assistant mod.
+[general]
+	#Link which will be opened in browser on request_help_button pressed.
+	#If equals CHANGE_ME, will open Forge/NeoForge/Fabric/Quilt discord link. Names of communities/channels also will be used not from config, but according to this link.
+	#Must start with 'https://' or 'www.'
+	help_link = "https://download.fo/discord/"
+	#Anyways log will be uploaded to mclo.gs, but with this option you can wrap link to gnomebot.dev for better formatting.
+	#If help_link equals 'CHANGE_ME', this value will be ignored and gnomebot.dev used.
+	#Supported values: mclo.gs / gnomebot.dev
+	upload_to = "mclo.gs"
+	#Show gui on minecraft crashed on modloading and FML error screen displayed.
+	show_on_fml_error_screen = true
+	#Close old CrashAssistantApp if it's still running when starting a new instance of Minecraft, to avoid confusing player with window from old crash.
+	kill_old_app = true
+	#If options.txt doesn't exist, the default language will be used.
+	default_lang = "en_us"
+	#By default, crash assistant will get the value for the current language from the overrides folder, then from the jar.
+	#By changing this option, it will first try to get it from the current overrides, then (if no override exists for this language)
+	#from the override for the language specified here, and only then from the jar language.
+	#Use "NONE" to disable this feature. Or language key, like "en_us" to enable it.
+	priority_lang_for_overrides = "en_us"
+	#By changing this value you can disable creating "crash_assistant_localization_overrides" folder and placing "README.md" file there.
+	generate_localization_overrides_folder_with_readme = false
+	#By default our process is scanning for terminated processes(they can appear with delay) and after finish of scan enabling upload buttons.
+	#This option can prevent this and enable individual upload buttons immediately after crash.
+	#However can confuse users and make them clicking individual upload buttons instead of Upload All Button.
+	prevent_upload_buttons_delay = true
+	#Before uploading the first log, requires the user to accept the privacy policy.
+	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
+	enable_privacy_policy_acceptance = true
+	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.
+	#This will prevent this by replacing dot's in them to dot-like symbol.
+	#Anti censoring only versions, IP's are kept censored.
+	enable_mclogs_anti_ip_like_version_censorer = true
+	#Prevents creating "crash_assistant" folder in the logs folder.
+	#So this option prevents our app logging at all.
+	#HIGHLY UNRECOMMENDED to disable! Contains many useful info.
+	prevent_generating_crash_assistant_app_logs = true
+	#Generates "logs/stderr_stream.log" with stderr stream.
+	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
+	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
+	generate_own_launcher_log = true
+	#Here you can change priority for logs.
+	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
+	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
+	#Usage: ["CRASH_REPORT", "LOG"]
+	logs_priority_overrides = ["CRASH_REPORT", "HS_ERR", "LOG"]
+	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
+	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
+
+#A simplified GUI that hides the logs list until the user opts into Expert Mode.
+[simple_mode]
+	#If enabled, the GUI starts in simple mode with logs hidden and a single "Show Logs (Expert Mode)" button.
+	#Disabled by default.
+	enabled = false
+	#If true, modpack creators always see the Expert Mode with logs visible, even if simple mode is enabled.
+	prevent_for_modpack_creators = true
+	#If true, hides the mod list changes section while simple mode is active.
+	hide_modlist_section = false
+
+#Here you can change text of lang placeHolders.
+#Also you can change any text in lang files.
+#You don't need to modify jar. You can change it in config/crash_assistant/lang. For more info read README.md file located where.
+[text]
+	#$CONFIG.text.support_name$ in lang files will be replaced with this value.
+	#For example this placeHolder used in: "Request help in the $CONFIG.text.support_name$"
+	support_name = "Fabulously Optimized Discord"
+	#$CONFIG.text.support_place$ in lang files will be replaced with this value.
+	support_place = "#support channel"
+	#$CONFIG.text.modpack_name$ in lang files will be replaced with this value.
+	#For example this placeHolder used in: "Oops, $CONFIG.text.modpack_name$ crashed!"
+	#Supports Better Compatibility Checker integration. You can use $BCC.modpackName$, $BCC.modpackVersion$, etc and it will be replaced with value from BCC config.
+	modpack_name = "Fabulously Optimized"
+
+#Settings of message generated by Upload all button
+[generated_message]
+	#Add ### prefix before filename.
+	#This can prevent too small, hard to hit on mobile links.
+	h3_prefix = false
+	#Replaces "\n" separator between logs to "   |   " to make message vertically smaller.
+	one_line_logs = false
+	#Adds line in log list about this Intel processor can be corrupted.
+	intel_corrupted_notification = true
+	#If the modpack is created for a non-English-speaking audience, сhange this to the language the modpack is designed for.
+	#This lang will be used only for generating message by "Upload all..." button.Do not modify this value if there's a chance that the generated message will be sent to English-speaking communities.
+	generated_msg_lang = "en_us"
+	#This text will be under "$CONFIG.text.modpack_name$ crashed!" in generated message by Upload all button.
+	#You can include:
+	#   * some form, which users should fill out.
+	#   * additional information like Minecraft version, etc.
+	text_under_crashed = ""
+	#With this option you can notify user about something related with posting generated message.
+	#For example if they need to fill some option from "text_under_crashed", etc.
+	#Supports html formatting, placeholders.
+	#Leave empty to prevent showing this warning message.
+	warning_after_upload_all_button_press = ""
+	#Puts problematic frame from hs_err to message.
+	put_problematic_frame_to_message = true
+	#Puts analysis result(names of crash reasons) to message, instead of just count.
+	put_analysis_result_to_message = true
+	#Color modified mods count/analysis in msg with ANSI.
+	#Can be needed to be disabled if issues are reported to something not supporting ANSI codeblocks, like GitHub.
+	color_message = true
+
+#Settings of links copied by Upload and copy link buttons
+[copied_links]
+	#With this option, you can customize how single links from individual upload buttons are copied, there
+	#log of small size was uploaded to a single link.
+	#For example, leave just $LINK$ to copy just link.
+	single_link = "$LOG_NAME$$FILE_NAME$: $LINK$"
+	#With this option, you can customize how links from individual upload buttons are copied, there
+	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user only decided to copy only one of them (not message with both).
+	single_link_split = "$LOG_NAME$$FILE_NAME$($HEAD_OR_TAIL$): $LINK$ $TOO_BIG_REASONS$"
+	#With this option, you can customize how links from individual upload buttons are copied, there
+	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user decided to copy message with both.
+	both_links_split = "$LOG_NAME$$FILE_NAME$: <$LINK_FIRST_LINES$> and <$LINK_LAST_LINES$> $TOO_BIG_REASONS$"
+	#If enabled, disables the head/tail selection dialog for split logs on individual uploads and always copies message with both links.
+	skip_split_dialog = true
+
+#Settings of modlist feature.
+#Adds in generated msg block about which mods modpack user added/removed/updated.
+#Also you can see diff by running '/crash_assistant modlist diff' command.
+[modpack_modlist]
+	#Enable feature.
+	enabled = false
+	#nicknames of players, who considered as modpack creator.
+	#Only this players can overwrite modlist.json
+	#If this feature is enabled and this array is empty, will be appended with nickname of current player.
+	#-----------------------------------------------------------------------------------------------------
+	#Warning! This is not displayed anywhere, it's just tech param used for modlist feature to work correctly.
+	#Here must be actual nicknames of people who work with the modpack and publishing releases!
+	#-----------------------------------------------------------------------------------------------------
+	modpack_creators = []
+	#If enabled, modlist.json will be overwritten on every launch(first tick of TitleScreen),
+	#then game is launched by modpack creator.
+	#So you won't forget to save it before publishing.
+	#If you want to save manually: disable this and use '/crash_assistant modlist save' command.
+	auto_update = true
+	#If enabled, will add resourcepacks to modlist.json
+	#After filename where will be ' (resourcepack)' suffix.
+	add_resourcepacks = true
+	#If enabled, will add modloader jar name to modlist, to easily track if user changed version of modloader.
+	add_modloader_jar_name = true
+	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.
+	add_modlist_txt_as_log = false
+
+#Settings of too many changes warning feature.
+#Notifies end users of the modpack and saying they made too many changes to the modpack.
+#Not displayed to the modpack creators.
+[too_many_changes_warning]
+	#Set to the positive integer to enable feature. Set to negative integer to disable.
+	#How many changes end user should make for warning to be displayed.
+	count = -1
+	#With this option, you can select the formulation of this warning, currently supported:
+	#   - NOTIFY: Just saying to the end user that what they made many changes and adding random mods or clicking
+	#the "Update All" button is not a good idea without proper testing. It is expected to crash.
+	#   - DROP_SUPPORT: Saying what you are not providing support for that amount of changes, suggesting the end user to
+	#re-install modpack or they are on their own with that amount of changes.
+	formulation_type = "NOTIFY"
+
+#Settings of analysis feature.
+#Analysing logs for most common reasons of crashes and displaying recommendations with fixes.
+[analysis]
+	#Enable feature.
+	enabled = true
+	#Here you can disable some Analysis by class names.
+	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.logs_analyser.crash_reasons
+	#For example "Create6Addons"
+	blacklisted_reasons = []
+
+#Settings of analysis tools feature.
+#Here you can enable disable showing some analysis tools fot end user.
+[analysis_tools]
+	#Enable feature.
+	enabled = false
+	#Here you can disable some Analysis tools by class names.
+	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.gui.analysis
+	#For example "MCreatorModDetectorGUI"
+	blacklisted_tools = []
+
+#Settings of '/crash_assistant crash' command feature.
+[crash_command]
+	#Enable feature.
+	enabled = false
+	#To ensure the user really wants to crash the game, the command needs to be run again within this amount of seconds.
+	#Set to <= 0 to disable the confirmation.
+	seconds = 10
+
+#Settings of notifying about intel corrupted processors.
+[intel_corrupted]
+	#Enable feature.
+	enabled = true
+
+[greeting]
+	#You don't need to touch this option.
+	#On first world join of modpack creator if set to false shows greeting, then self enables.
+	shown_greeting = true
+
+#You can customise GUI with this options.
+[gui_customisation]
+	#Will hide Upload All Button from GUI.
+	disable_upload_all_button = true
+	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
+	show_dont_send_screenshot_of_gui_notice = false
+	#Animate border to request user attention even more.
+	screenshot_of_gui_notice_animated_border = false
+	#You can make Upload All Button bigger/smaller to request user attention.
+	#Default Swing font size is 12, Default for this button in crash assistant is 16.
+	#Not recommended to set it more than 16, as it will affect the increase of GUI size because all text won't fit.
+	upload_all_button_font_size = 16
+	#Same as upload_all_button_font_size, but for Request Help button.
+	request_help_button_font_size = 12
+	#Same as upload_all_button_font_size, but for the Simple Mode toggle button.
+	simple_mode_button_font_size = 16
+	#You can change Upload All Button color to request user attention.
+	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color. Use "default" to use default swing color.
+	#Default for this button is "0_178_0" (dark green color).
+	upload_all_button_foreground_color = "default"
+	#Same as upload_all_button_foreground_color, but for Request Help button.
+	#Default for this button is "0_0_178" (dark blue color).
+	request_help_button_foreground_color = "0_0_178"
+	#Same as upload_all_button_foreground_color, but for the Simple Mode toggle button.
+	simple_mode_button_foreground_color = "0_0_178"
+	#Same as upload_all_button_font_size, but for Auto-Fix button (in integrated GPU warning).
+	auto_fix_button_font_size = 16
+	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
+	#Default for this button is "0_178_0" (dark green color).
+	auto_fix_button_foreground_color = "0_178_0"
+	#Path to a modpack logo to display in the top of the GUI.
+	#Path is relative to the Minecraft instance folder. Leave empty to disable.
+	modpack_logo_path = ""
+	#If true, the logo will be larger, Replacing a some of `don't send screenshot` notice.
+	#If false, it will be smaller and logo will be end right where the `don't send screenshot` notice starts.
+	#You should try both, but most likely:
+	#- If you have some long text in the discord description, you will love the small one.
+	#- If the text is short, you will love the large one.
+	modpack_logo_large_mode = false
+	#Limit modpack logo height. Default is -1, which means it's calculated automatically.
+	#By default, this should not be needed. But if you have heavily customized GUI or using
+	#a rectangle logo instead of square, you may want to decrease its size, so this option could be needed in such case. 
+	limit_modpack_logo_height = -1
+	#This option would be needed only if you limited modpack logo height.
+	#Otherwise, the logo will consume all available horizontal space.
+	#If true, the logo will be centered. If false, it will be aligned to the top. 
+	modpack_logo_aligned_center = true
+
+#Checks crash_assistant compatibility with other incompatible mods.
+#Highly unrecommended to disable!
+[compatibility]
+	#Enable feature.
+	enabled = true
+
