@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-alpha.2 (2025-12-10)
+
+You crashed it, we fixed it!
+
+- Temporarily removed No Chat Reports due to crashes
+- Hid a confusing log suggestion
+- Hid RRLS config button as any config option will currently crash (use config file instead)
+- Temporarily force-enabled: Forge Config API Port
+- Temporarily incompatible: BetterGrassify, Controlify, Continuity, Cubes Without Borders, Debugify, FastQuit, Entity Model Features, Entity Texture Features, Language Reload, MoreCulling, No Chat Reports, Optiboxes, Puzzle, Sodium Shadowy Path Blocks
+
 ### 12.0.0-alpha.1 (2025-12-10)
 
 - Updated Capes, Crash Assistant, Dynamic FPS, Entity Culling, Fabric API, FerriteCore, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, Mod Menu, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib, Zoomify

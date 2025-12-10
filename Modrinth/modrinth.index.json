@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "12.0.0-alpha.1",
+    "versionId": "12.0.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -48,21 +48,6 @@
                 "https://cdn.modrinth.com/data/5ZwdcRci/versions/1aEOUoaS/ImmediatelyFast-Fabric-1.14.0%2B1.21.11.jar"
             ],
             "fileSize": 196543
-        },
-        {
-            "path": "mods/NoChatReports-FABRIC-1.21.10-v2.16.0.jar",
-            "hashes": {
-                "sha1": "40d66a2d31c55d1f53bdbacb91802c789c62fc11",
-                "sha512": "39b2f284f73f8290012b8b9cc70085d59668547fc7b4ec43ab34e4bca6b39a6691fbe32bc3326e40353ba9c16a06320e52818315be77799a5aad526370cbc773"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/78RjC1gi/NoChatReports-FABRIC-1.21.10-v2.16.0.jar"
-            ],
-            "fileSize": 249687
         },
         {
             "path": "mods/Zoomify-2.14.6+1.21.11.jar",

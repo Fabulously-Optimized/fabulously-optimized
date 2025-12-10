@@ -58,15 +58,19 @@ hash = "15ca1dbab8723faf3a690cff0bdb0cbb63d20d138975083825c22c7a42643394"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e2571540e3757626591386ad90e3b3ab8c3a772a4972644c2bc1cbe69a995668"
+hash = "057cc80d73d0266e71bcc1d4471cba1d034a2d30f1aecca0bb2da050003f3483"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "59df5eb4da17c2c568f5b1a8e7f17140f0a2905bbe22481c8cf04a5420c80b86"
+hash = "feec37a3f444ce4d87ab540149fd7a9fdc0d5696a85054fc63697b7c19290353"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "9a04eaf0053e9b9c3f181ec7ebce30d00edee3f0c42214c6b57668fdcaf3fac2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "02aabb1fddee75933289be2727217f713c2200cff232b6eaf7aa5054cf208aa6"
+hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -130,7 +134,7 @@ hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "8b36ea8af428943d85a7594b9d2e8144be3f77bab05a150e8b2db4dbe8f25a37"
+hash = "9a04eaf0053e9b9c3f181ec7ebce30d00edee3f0c42214c6b57668fdcaf3fac2"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -254,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "c3d0746be98e5f5eaf1731a84e84724289f45f6b49836c5106e8d4669d3f84ec"
-metafile = true
-
-[[files]]
-file = "mods/nochatreports.pw.toml"
-hash = "e01e4e296bff245a222574cb664cdf07d934356c0de81c6a9ac32a1c9bd25cb2"
 metafile = true
 
 [[files]]
