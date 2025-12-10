@@ -1,6 +1,27 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+# Mounts of Mayhem (12.x.x)
+
+## 1.21.11
+
+### 12.0.0-alpha.1 (2025-12-10)
+
+- Updated Capes, Crash Assistant, Dynamic FPS, Entity Culling, Fabric API, FerriteCore, ImmediatelyFast, Iris Shaders, LambDynamicLights, Lithium, Mod Menu, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib, Zoomify
+- Temporarily added Fast Better Grass as BetterGrassify is incompatible
+- Set graphics options to Minecraft's new "fast" preset
+  - Except for leaves, which will be set to transparent
+  - Feedback is welcome on #ideas or GitHub
+- Set max FPS to 120 and VSync on, as they are by default on Minecraft
+  - Feedback is welcome on #ideas or GitHub
+- Disabled status icon on NCR due to a crash
+- Updated and enforced Fabric Loader 0.18.2
+- Removed Reese's Sodium Options and Model Gap Fix as both seem to be superseded
+  - Feedback is welcome on #ideas or GitHub
+  - Note that neither currently have compatible versions anyway
+- Temporarily force-enabled: Forge Config API Port
+- Temporarily incompatible: BetterGrassify, Controlify, Continuity, Cubes Without Borders, Debugify, FastQuit, Entity Model Features, Entity Texture Features, Language Reload, MoreCulling, Optiboxes, Puzzle, Sodium Shadowy Path Blocks
+
 # The Copper Age (11.x.x)
 
 ## 1.21.10

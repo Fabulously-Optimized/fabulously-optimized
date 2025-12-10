@@ -1,15 +1,27 @@
-version:4556
+version:4671
+ao:false
+biomeBlendRadius:1
+cutoutLeaves:true
+entityDistanceScaling:0.75
+entityShadows:false
+graphicsPreset:"custom"
+prioritizeChunkUpdates:0
+textureFiltering:0
+mipmapLevels:2
+particles:1
+renderClouds:"fast"
+cloudRange:32
+renderDistance:8
+simulationDistance:6
+weatherRadius:5
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
-enableVsync:false
 guiScale:3
 joinedFirstServer:true
-maxFps:260
 onboardAccessibility:true
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","file/Fast Better Grass.zip","continuity:glass_pane_culling_fix","continuity:default"]
 incompatibleResourcePacks:[]
-simulationDistance:8
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
