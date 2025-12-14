@@ -55,7 +55,7 @@
 	#Disabled by default.
 	enabled = false
 	#If true, modpack creators always see the Expert Mode with logs visible, even if simple mode is enabled.
-	prevent_for_modpack_creators = true
+	prevent_for_modpack_creators = false
 	#If true, hides the mod list changes section while simple mode is active.
 	hide_modlist_section = false
 

@@ -36,6 +36,17 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.2.0 (2025-12-14)
+
+- Readded e4mc - now compatible again
+- Updated Crash Assistant, Dynamic FPS, Entity Culling, ImmediatelyFast, LambDynamicLights, Puzzle, Skyboxify, YetAnotherConfigLib
+  - Note that Optiboxes was renamed to Skyboxify
+- Adjusted Crash Assistant instructions
+- Returned e4mc references in Mod Menu Helper
+- Added Malay Latin and Jawi variants to Crash Assistant
+- Hid a new config library from Mod Menu
+- Updated and enforced Fabric Loader 0.18.2
+
 ### 11.1.0 (2025-12-07)
 
 - Added Sodium Shadowy Path Blocks - makes dirt paths look like vanilla
