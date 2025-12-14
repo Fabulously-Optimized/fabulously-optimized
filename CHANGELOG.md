@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-alpha.3 (2025-12-14)
+
+- Readded e4mc, MoreCulling, Skyboxify, Puzzle, Reese's Sodium Options, Sodium Shadowy Path Blocks
+  - RSO currently readded in hopes that it will workaround the crashes people have been having in video settings. Will be re-evaluated once Sodium updates.
+- Updated Cloth Config, Crash Assistant, Fabric API, Forge Config API Port, Iris Shaders, LambDynamicLights, Lithium
+- Fixed Fast Better Grass being enabled by default
+- Applied changes from 11.2.0
+- Enabled experimental mixin crash detection that may help you fix your own crashes
+- Temporarily incompatible: BetterGrassify, Controlify, Continuity, Cubes Without Borders, Debugify, FastQuit, Entity Model Features, Entity Texture Features, Language Reload, No Chat Reports
+
 ### 12.0.0-alpha.2 (2025-12-10)
 
 You crashed it, we fixed it!
