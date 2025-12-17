@@ -5,6 +5,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-alpha.4 (2025-12-17)
+
+- Readded Entity Model Features, Entity Texture Features
+  - Skipped BetterGrassify as it requires a yet-unreleased version of Sodium
+- Updated e4mc, Fabric Language Kotlin, Forge Config API Port, Reese's Sodium Options, Skyboxify
+  - Skipped Fabric API update as it prevented users from joining worlds
+- Updated Estonian, French, Italian, Malay (Latin/Jawi), Russian translations
+- Smooth lighting has been enabled again for new instances
+- Updated MMH entry for Skyboxify
+- Minor text adjustment in Crash Assistant
+- Updated and enforced Fabric Loader 0.18.3
+- Temporarily incompatible: BetterGrassify, Controlify, Continuity, Cubes Without Borders, Debugify, FastQuit, Language Reload, No Chat Reports
+
 ### 12.0.0-alpha.3 (2025-12-14)
 
 - Readded e4mc, MoreCulling, Skyboxify, Puzzle, Reese's Sodium Options, Sodium Shadowy Path Blocks
