@@ -26,7 +26,7 @@ hash = "6010c841df9af4ab572aa17e94d07b3661c136b63e8e0174e69bee9c52f36676"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/he_il.json"
-hash = "cdf6c2143d6b4a6634c34a427ed849b15c5175c943a2474a5e3bfff6fab5b5da"
+hash = "c746a1103ed59842e1520dab19aba57c5785457e991c356dc21621123545fbf0"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/it_it.json"
@@ -34,11 +34,11 @@ hash = "5c7a5eb2218640ea7e6f3ab8c5629ae773b8dd59acbba998c92900054eb760f1"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ms_my.json"
-hash = "9abad57cb53a894ed4f4b496008e2bab0833f482e8e7f56938a8a62e5638bd6a"
+hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/pl_pl.json"
-hash = "4ae15643ae98cc5121547cb787adc92b13161391f1d3572ab5b5bcd3d23acb53"
+hash = "f878e7fbf52e211892dbc8bd100793e8627b7facc87c1dc954f4fd757b11af72"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/ro_ro.json"
@@ -62,15 +62,15 @@ hash = "15ca1dbab8723faf3a690cff0bdb0cbb63d20d138975083825c22c7a42643394"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/zlm_arab.json"
-hash = "9abad57cb53a894ed4f4b496008e2bab0833f482e8e7f56938a8a62e5638bd6a"
+hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3540ffd424996442a2620b2fde1c359e30220982ef00a7abc8f383b97fd94f36"
+hash = "28f63947a270fc126857acf76b5fcbde90fba759789802012e0711a0b24d9307"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7ead80cfad18dff0a497c4a80b245f412e08e91d1d5a9f5ed50ce6543590d14d"
+hash = "e2e71b25ba4c71f3dbd3ef85750bf3287419e006f5dc8a2ec28428e426c3feda"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -170,6 +170,11 @@ hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
 metafile = true
 
 [[files]]
+file = "mods/bettergrass.pw.toml"
+hash = "71e3d4feab82b55e84966cfe8e162aa021eeda662276d019ca4daff2abb692d2"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "24b0177dacb547321d83487699e13bf6f6fa004c0d8199dbcc0867b2c21097ee"
 metafile = true
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b85324df1857259a3dd811e75755ae6fdecbe6d6efb84c16ba687dd715b0335d"
+hash = "fce9c0aa44123f452d3f94ac0ea174ce674a629937be69d74c3488dcad087fae"
 metafile = true
 
 [[files]]
@@ -241,12 +246,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ccd09b8f830aa8681444278f7631f4c24a6216c58b96d27ec4d1b258c56e5727"
+hash = "264a3c057c84aec673b80820d79fafe301a9dd1f0f43e2cfb901f97e1d4bd47b"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "1e83fae4a8f5a347dfb12c0b7aada8752fb8bbda33374bc37e468800b84a622f"
+hash = "6ec4e780d0abd9b15982e8a98015be7a3a45ed3202b28beb9bd4b0029025e26d"
 metafile = true
 
 [[files]]
@@ -301,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "73a734fdb5e4b17dc53e56678cecffeca02b8d323fd2f11d87f90a6268ff7286"
+hash = "c808a22177953198f6b9df2ae9aefca3ccd7fa0684b76ed7fdbd13e9c0f99d79"
 metafile = true
 
 [[files]]
@@ -316,12 +321,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8e1e00b5ed99b8573d1a23bf49d9b8df8c298ddbd4afa31ca34b7656b4075e9c"
+hash = "ff3fd5fe937993d7fc13e563dabc1c31b28c0ad22c48dbcce0e9cb8646d14718"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "899540d668ce17eb5c501237f37ef9f73d6e12c4257a5c92fca8bc77a939a07f"
+hash = "95bf5c3905485ef416bf9f2280c835dcc4ccc6082e277a2710b5b598cdc3ec25"
 metafile = true
 
 [[files]]
@@ -350,13 +355,8 @@ hash = "b7383d421a21538a9c9c700ac3bf268e7f7d7e66013df77a69096cb04a9158c7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Fast_Better_Grass.pw.toml"
-hash = "759c399fdd144681ea7af9715fd8cd67af94534fa52446d7c1609f6b09c5e030"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "7affd75a0e98bdb39cf3811160b887153a15391375a7e5cbab5b412981e5a108"
+hash = "db8451779ef0a45395043911d7b34289e8a7422f72a516505c5ff530b3413e87"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"

@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-alpha.5 (2025-12-18)
+
+- Readded BetterGrassify
+- Updated Fabric API, ImmediatelyFast, Iris Shaders, Reese's Sodium Options, Sodium, Sodium Extra
+- Removed Fast Better Grass as BetterGrassify is now available
+- Updated translations for Estonian, Hebrew, Polish, Malay (Latin/Jawi)
+- Temporarily incompatible: Controlify, Continuity, Cubes Without Borders, Debugify, FastQuit, Language Reload, No Chat Reports
+
 ### 12.0.0-alpha.4 (2025-12-17)
 
 - Readded Entity Model Features, Entity Texture Features
