@@ -13,7 +13,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
   - FO mods will show a 🔒 and cannot be accidentally updated, disabled, removed
   - Clicking the 🔒 will let you do all changes as usual
   - This can help users differentiate which mods are provided by FO (locked) and which are added by them as extras (unlocked)
-  - This experiment is only applied to mods in CurseForge App; an unlocked instance ZIP of alpha 6 is also available on GitHub
+  - This experiment is only applied to mods in CurseForge App; an unlocked instance ZIP of alpha 6 is also available
 - Temporarily incompatible: Cubes Without Borders, Debugify, FastQuit, Language Reload
 
 ### 12.0.0-alpha.5 (2025-12-18)
