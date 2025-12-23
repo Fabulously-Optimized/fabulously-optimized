@@ -66,11 +66,11 @@ hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "28f63947a270fc126857acf76b5fcbde90fba759789802012e0711a0b24d9307"
+hash = "23cbba776870d45d6f2c386829c205e1785ecf759ff6363c0cb377fa2d5a4029"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e2e71b25ba4c71f3dbd3ef85750bf3287419e006f5dc8a2ec28428e426c3feda"
+hash = "d8c225b4de6cee89afc6a6da8649fcc3a2aa3b7fe5f8a82f055dc4b6b227ec2c"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -186,7 +186,17 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a6016a18dd396dde6e1736449b65d59a06ec8de5c6652f11106980ae60bd7157"
+hash = "4548677ce03174ad536896e445cb4b77f7757bdfa957592084ea31b02941b2c7"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "caef3fa85dbb541d56e979062fff9d624e3e0a2f7f31949424fca569bf4fb958"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "11c1a42f58afb9cc7b53bcb2d6f4c15cae7f24610e07afdc95904d721a700356"
 metafile = true
 
 [[files]]
@@ -221,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fce9c0aa44123f452d3f94ac0ea174ce674a629937be69d74c3488dcad087fae"
+hash = "b88145a40ea259416752f4bb62a7c8a0e1f49241470b50e52384d74c9992a273"
 metafile = true
 
 [[files]]
@@ -251,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "6ec4e780d0abd9b15982e8a98015be7a3a45ed3202b28beb9bd4b0029025e26d"
+hash = "e3541c2c9f9c40b892416fc8aad1c63fe944843c499aaee998ae5de0a4e5197c"
 metafile = true
 
 [[files]]
@@ -276,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "3e1a9a1b31ba5f73ee04ca0b9c2c10fdbfa0b2e216f82a659110361f9f813b7a"
+hash = "cb6c880b77b24eb6f6a3c2bd69ccd4fc60f506d56f9879d1785be34d6d16f1b7"
 metafile = true
 
 [[files]]
@@ -287,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "f54736dc5981aaa887c8004e8453919609e5110c13f7c4626625bc0f17582eca"
+metafile = true
+
+[[files]]
+file = "mods/nochatreports.pw.toml"
+hash = "c0f4cd0bdee29d2717f4ef08888e03cb3f7ac46568e636bb8a1e13a38f13bc00"
 metafile = true
 
 [[files]]
@@ -326,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "95bf5c3905485ef416bf9f2280c835dcc4ccc6082e277a2710b5b598cdc3ec25"
+hash = "e8de8160961096a82125e1a81abb34bf3d4b32b8eadd41939b4d45eb2360dc20"
 metafile = true
 
 [[files]]
@@ -360,5 +375,5 @@ hash = "db8451779ef0a45395043911d7b34289e8a7422f72a516505c5ff530b3413e87"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "c96a994d2dee6c4f6c0eca0504b5957c523ce7505eb4cd5e12345fdefb5998ec"
+hash = "3f3a2952ed96406c740cb68067baf4edafa958469ae6d294612fa3f0e64512fc"
 metafile = true
