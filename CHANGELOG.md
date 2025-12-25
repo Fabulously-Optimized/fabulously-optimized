@@ -5,6 +5,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-alpha.7 (2025-12-25)
+
+- Temporarily removed Sodium Extra due to a bug
+  - To workaround the issue where some users could not open video settings at all
+- Temporarily removed Controlify due to a bug
+  - To workaround the issue where people could not enter spaces on signs
+- Updated Crash Assistant, Lithium, No Chat Reports, Paginated Advancements, Skyboxify
+- Improved log ordering in Crash Assistant
+- CurseForge App: stopped the "content lock" experiment
+  - As currently it may be a bit confusing having different behaviour only on one launcher
+- Temporarily incompatible: Controlify, Cubes Without Borders, Debugify, FastQuit, Language Reload, Sodium Extra
+
 ### 12.0.0-alpha.6 (2025-12-23)
 
 - Readded Controlify, Continuity, No Chat Reports

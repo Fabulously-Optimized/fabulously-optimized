@@ -45,7 +45,7 @@
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
 	#Usage: ["CRASH_REPORT", "LOG"]
-	logs_priority_overrides = ["CRASH_REPORT", "HS_ERR", "LOG"]
+	logs_priority_overrides = ["CRASH_REPORT", "WIN_EVENT", "HS_ERR", "LOG", "DEBUG_LOG", "LAUNCHER_LOG", "MOD_LIST"]
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
 	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
 
@@ -170,7 +170,7 @@
 	blacklisted_reasons = ["BYPASS_MODPACK_CHECK_FOR_MIXIN_APPLY"]
 
 #Settings of analysis tools feature.
-#Here you can enable disable showing some analysis tools fot end user.
+#Here you can enable or disable showing some analysis tools for end user.
 [analysis_tools]
 	#Enable feature.
 	enabled = false

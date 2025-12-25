@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "603e4c376d5595c9aabcd836523e6cbf2fe28bc61edef6b978ffe329bc683806"
+hash = "f6e7fd1a6ada739da42d8cb8395232b28595fb7b74fc3c990d1947a3ef3a79cc"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
@@ -66,11 +66,11 @@ hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "23cbba776870d45d6f2c386829c205e1785ecf759ff6363c0cb377fa2d5a4029"
+hash = "3f571bb934aaf3a5a1710f615e9903be6e8777319b606b95189113db52bf0198"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d8c225b4de6cee89afc6a6da8649fcc3a2aa3b7fe5f8a82f055dc4b6b227ec2c"
+hash = "4d580d6148cd78112ce2d3aae61304821fe8f7f5a2e5baff8a7f22b58a840a98"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -195,13 +195,8 @@ hash = "caef3fa85dbb541d56e979062fff9d624e3e0a2f7f31949424fca569bf4fb958"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "11c1a42f58afb9cc7b53bcb2d6f4c15cae7f24610e07afdc95904d721a700356"
-metafile = true
-
-[[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "ddc78275a3d99bf49a68e7a22305aa62bf07f68938acc55df8e6fd71a67522cd"
+hash = "b054f3f180baf16065a098b53b32abc60a8fee6af72706652244c29dc7c59c09"
 metafile = true
 
 [[files]]
@@ -276,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8d64e4327e37f80a8be7c85e50bf2e039a31dea436a0ec23034f1b5d8217ee60"
+hash = "d092368596299fdea95ebc92ca2ff45e2032444e6f9c6504669402f935d63e17"
 metafile = true
 
 [[files]]
@@ -301,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/nochatreports.pw.toml"
-hash = "c0f4cd0bdee29d2717f4ef08888e03cb3f7ac46568e636bb8a1e13a38f13bc00"
+hash = "614832d202c0033ee565bbac82d8762f66cb71be1616742939f77c43c65af458"
 metafile = true
 
 [[files]]
@@ -311,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "cbe531f3cb8cd726ba811e3f8c4803ee7c3485be0ed6fce91908aa80a55c907e"
+hash = "b90549e496b068853f67c5486c5befb54cd0e11cb3cc1162cfadfec1b1fed354"
 metafile = true
 
 [[files]]
@@ -331,12 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "1f99cfd167334ad4f997ba8cd681380e5ff43988cd242b17e0ff85e918fc3418"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "ff3fd5fe937993d7fc13e563dabc1c31b28c0ad22c48dbcce0e9cb8646d14718"
+hash = "fa88bb2f457f48bd6069d4f83b43750ea195c7943d50cad35ff8f02319e06f8e"
 metafile = true
 
 [[files]]
