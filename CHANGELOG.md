@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-alpha.8 (2026-01-01)
+
+- Readded Cubes Without Borders, Sodium Extra
+- Updated Entity Model Features, Entity Texture Features, Dynamic FPS, e4mc, Entity Culling, Fabrishot, MoreCulling, Puzzle, Remove Reloading Screen, Skyboxify
+- Updated and enforced Fabric Loader 0.18.4
+- Temporarily incompatible: Controlify, Debugify, FastQuit, Language Reload
+
 ### 12.0.0-alpha.7 (2025-12-25)
 
 - Temporarily removed Sodium Extra due to a bug

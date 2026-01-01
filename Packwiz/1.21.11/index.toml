@@ -66,11 +66,11 @@ hash = "66c3ae9fd2cc6a59639d989bd3098200767e58b0e13edbfaab8679eaa9913156"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "3f571bb934aaf3a5a1710f615e9903be6e8777319b606b95189113db52bf0198"
+hash = "568376b1c0549c7c2117ac21ac69e00f7447f681e3d75c6a2da155b2d8bae302"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4d580d6148cd78112ce2d3aae61304821fe8f7f5a2e5baff8a7f22b58a840a98"
+hash = "ae31ae0d6dd29a26b1cf1e8cb42579f6f181f491d2112533654129022addd100"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -200,28 +200,33 @@ hash = "b054f3f180baf16065a098b53b32abc60a8fee6af72706652244c29dc7c59c09"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "b2cd070e7fab1d292c980e52e78279e06a62ad8fb8628a5e2a5f0ff5d9882455"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
-hash = "fa5a32122b8b82bc8a4d16ff435338be6f05b2e554c86642cea02aed4696b755"
+hash = "3dd4e4fae60fdfa8b39c72e8e80c50c14af29130fe20c30376a9db5dd292206c"
 metafile = true
 
 [[files]]
 file = "mods/e4mc_minecraft.pw.toml"
-hash = "29498413a564d582b31fdb37ca92a898fb0aa979afbd7594e4936a2af83bd387"
+hash = "1ab2a6ac0ad703dc27e4fd7e6355320f8cb24367b42b7872ac658e1992b8a508"
 metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "f4cfe39961164a89fd8a8b794d37dd570e9cc8c1e965c7e82231c5c16fc73c5d"
+hash = "c9e16da01642c0a107b6ee9c9447e57dc9382cddb92d39c677218341d39a1139"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "40233b28cbe108502b8a4449d4e753ce71b28219e010b80eea901030c7bc994f"
+hash = "30a92fcf4367a7623cc6fae3c711861fe73826dc822c2a3aba4c694c524e11fc"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "194e9bda187343b1f4bf6ced6e224623f758a6d00a13c94acc97b7f443fd91a4"
+hash = "a985ddd1d4e924a9bb286118e1418bcd193c896c78ea0114d6a87c0102a21e89"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "1bbacf4844881b1367ff761b3ce1c5cc7ef61eb6514d3a7f41cc994e43cc57da"
+hash = "e304a0ee12891d2915581e41dbf5695c2aba7cf7fe62295525c19cc0ea72b130"
 metafile = true
 
 [[files]]
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f54736dc5981aaa887c8004e8453919609e5110c13f7c4626625bc0f17582eca"
+hash = "42bea76780aec9949e1d84afe2eb1291c34d0788154e43a29b3727b486d119c8"
 metafile = true
 
 [[files]]
@@ -311,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "2ca4af6d236636e76a9f9aa9b531bbd733b26bbbfaf6a11bb5b87d5f72bc55f2"
+hash = "6bb3b06ba89f2656ed8eee7a4534bacb8a461aa80ffee38546b216778592e9eb"
 metafile = true
 
 [[files]]
@@ -321,12 +326,17 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "7c8c6b30bb6ae9a8ea1bd030aa4b4cd7d43b1d0abdfe70ec200174930b70e0a7"
+hash = "cf86421945979fa0c512a8c5ef212177db28a3de17d4d0b36021c91da3543991"
 metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "fa88bb2f457f48bd6069d4f83b43750ea195c7943d50cad35ff8f02319e06f8e"
+hash = "af80a45db8c80c70745b608fca04e2890a2ca2eac3a4cf49891451b9d66b078e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "95490ed65d0ed646078b6e81821d323761b4884b433b82675193a47a122662f3"
 metafile = true
 
 [[files]]
@@ -365,5 +375,5 @@ hash = "db8451779ef0a45395043911d7b34289e8a7422f72a516505c5ff530b3413e87"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "3f3a2952ed96406c740cb68067baf4edafa958469ae6d294612fa3f0e64512fc"
+hash = "b2ba6cc72a5e0f3ecc96a9b89cebd5d4ca53dc6a8cf1e50933b256e34601ebc6"
 metafile = true
