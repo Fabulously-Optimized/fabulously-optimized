@@ -5,6 +5,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-beta.1 (2026-01-08)
+
+- Added Polytone - now stable again, so enjoy your custom colors!
+- Readded Language Reload
+- Updated Dynamic FPS, Fabric API
+- Updated translations for 7 languages
+- Adjusted tutorial screen text to be shorter and more consise to fit 1.21.11 limits
+- Simplified Crash Assistant messages for mixin conflicts
+- Added a workaround for Spanish (Mexico) users to prevent video settings crash
+- Temporarily incompatible: Controlify, Debugify, FastQuit
+
 ### 12.0.0-alpha.8 (2026-01-01)
 
 - Readded Cubes Without Borders, Sodium Extra
