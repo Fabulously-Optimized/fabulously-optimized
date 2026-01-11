@@ -19,5 +19,14 @@
     "gui.privacy.logs_upload_question": "Jurnalul dvs. va fi încărcat la <b>mclo.gs</b>, care elimină unele informații de identificare și stochează jurnalul timp de 90 de zile.\nAcceptați $LINK.PRIVACY_POLICY$?",
     "gui.privacy.remember_my_choice": "Nu întrebați din nou",
     "gui.request_help_button": "FO Discord",
-    "gui.upload_and_copy_link_button": "📤 Încărcați și copiați"
+    "gui.upload_and_copy_link_button": "📤 Încărcați și copiați",
+    "gui.logs_analyzer": "Cauza problemei găsită!",
+    "warnings.mixin_apply_common_start": "",
+    "warnings.mixin_apply": "<strong>Mod $MOD$ este probabil incompatibil cu această versiune Minecraft.</strong>\n\nPentru a remedia, efectuați una dintre următoarele acțiuni:\n1) Găsiți o versiune a modulului care este compatibilă cu această versiune Minecraft\n2) Dezactivați sau eliminați modulul până când o actualizare îl face compatibil\n3) Utilizați o versiune Fabulos optimizată care corespunde versiunii Minecraft așteptate a modulului",
+    "warnings.mixin_apply_conflicting": "<strong>Mod $MOD$ probabil nu poate fi utilizat cu mod $MOD_2$.</strong>\n\nPentru a remedia, dezactivați sau eliminați unul dintre aceste moduri.",
+    "warnings.mixin_apply_java_version": "<strong>Mod $MOD$ necesită Java $REQUIRED_JAVA_VERSION$, dar utilizați Java $CURRENT_JAVA_VERSION$.</strong>\n\nPentru a remedia, faceți una dintre următoarele:\n1) Verificați dacă ați instalat sau actualizat Fabulously Optimized în mod corespunzător\n2) Găsiți o versiune a modulului care este compatibilă cu această versiune Minecraft și Java\n3) Dezactivați sau eliminați modulul până când o actualizare îl face compatibil\n4) Utilizați o versiune Fabulously Optimized care corespunde versiunii Minecraft și Java așteptate de modul",
+    "warnings.mixin_apply_missing_class": "<strong>Un mod lipsește un alt mod de care depinde. Lipsește clasa: </strong> <strong> $MISSING_CLASS$</strong>\n\nPentru a remedia, faceți una dintre următoarele:\n1) Apăsați butonul de mai jos și utilizați fereastra pentru a vă da seama de numele mod-ului. Apoi găsiți lista mod-ului și citiți descrierea acestuia pentru a afla cerințele.\n2) Apăsați butonul de mai jos, utilizați fereastra și faceți o captură de ecran pentru acesta. Apoi reveniți la fereastra principală de accident, urmați instrucțiunile și atașați captura de ecran, astfel încât să vă putem ajuta să rezolvați problema.",
+    "warnings.mixin_apply_missing_class_auto_fix": "Găsește modul căruia îi lipsește un alt mod",
+    "warnings.mixin_config_missing_or_corrupted": "<strong>Mod $MOD$ este probabil defect.</strong>\n\nPentru a-l remedia, efectuați una dintre următoarele acțiuni:\n1) Descărcați din nou modul\n2) Descărcați o versiune diferită a modulului care este compatibilă cu această versiune Minecraft\n3) Dezactivați sau eliminați modulul până când o actualizare îl face compatibil",
+    "warnings.mixin_apply_common_end": "\n\n<i>Aveți nevoie de mai mult ajutor? Faceți clic pe OK și urmați instrucțiunile din fereastra principală.</i>"
 }
