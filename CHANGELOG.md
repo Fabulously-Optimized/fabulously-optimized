@@ -108,6 +108,13 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.2.1 (2026-01-11)
+
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Crash Assistant, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Mod Menu, Puzzle, Skyboxify, YetAnotherConfigLib
+- Updated multiple translations
+- Backported Crash Assistant config changes and streamlined tutorial screen from 12.0.0-beta.1
+- Updated Fabric Loader to 0.18.4
+
 ### 11.2.0 (2025-12-14)
 
 - Readded e4mc - now compatible again
