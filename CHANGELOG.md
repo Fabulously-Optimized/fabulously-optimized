@@ -5,6 +5,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-beta.2 (2026-01-11)
+
+- Readded Controlify
+- Updated Mod Menu, Sodium Extra, YetAnotherConfigLib
+  - Removed Spanish (Mexico) workaround as it is now fixed in Sodium Extra
+- Updated translations
+- Minor change in a Crash Assistant string
+- Temporarily incompatible: Debugify, FastQuit
+
 ### 12.0.0-beta.1 (2026-01-08)
 
 - Added Polytone - now stable again, so enjoy your custom colors!
@@ -113,7 +122,7 @@ You crashed it, we fixed it!
 - Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Crash Assistant, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Mod Menu, Puzzle, Skyboxify, YetAnotherConfigLib
 - Updated multiple translations
 - Backported Crash Assistant config changes and streamlined tutorial screen from 12.0.0-beta.1
-- Updated Fabric Loader to 0.18.4
+- Updated Fabric Loader to 0.18.4 on Modrinth
 
 ### 11.2.0 (2025-12-14)
 
