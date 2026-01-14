@@ -35,16 +35,6 @@ def copy_dir(from_path: Path, to_path: Path, from_desc: str, to_desc: str) -> No
     else:
         print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
 
-
-def copy_file(from_path: Path, to_path: Path, from_desc: str, to_desc: str) -> None:
-    if from_path.is_file():
-        print(f"Copying {from_desc} to {to_desc}")
-        shutil.copy2(from_path, to_path)
-        print(f"Copied {from_desc} to {to_desc}")
-    else:
-        print(f"Skipped {from_desc} copying to {to_desc}, didn't exist")
-
-
 # CurseForge to MultiMC
 remove_dir(mmc_path / "mods", "MultiMC mods")
 remove_dir(mmc_path / "config", "MultiMC configs")
