@@ -38,5 +38,12 @@
     "warnings.mixin_apply_missing_class": "<strong>Some mod is missing another mod it depends on. Missing class: $MISSING_CLASS$</strong>\n\nTo fix, do one of the following:\n1) Press the button below and use the window to figure out the mod name. Then find the listing of the mod and read its description to find out the requirements.\n2) Press the button below, use the window and take a screenshot for it. Then return to main crash window, follow instructions and attach the screenshot, so that we can help you solve the issue.",
     "warnings.mixin_apply_missing_class_auto_fix": "Find, which mod is missing another mod",
     "warnings.mixin_config_missing_or_corrupted": "<strong>Mod $MOD$ is likely broken.</strong>\n\nTo fix, do one of the following:\n1) Download the mod again\n2) Download a different version of the mod that is compatible with this Minecraft version\n3) Disable or remove the mod until an update makes it compatible",
-    "warnings.mixin_apply_common_end": "\n\n<i>Need more help? Click OK and follow instructions on the main window.</i>"
+    "warnings.mixin_apply_common_end": "\n\n<i>Need more help? Click OK and follow instructions on the main window.</i>",
+    "gui.intel_corrupted_microcode_bad": "Your Intel CPU has a known defect and has not applied a software workaround. While this may not be the direct cause to your Minecraft crash, you should update your BIOS/UEFI as soon as possible to prevent physical damage and random crashes in the system.\nClick Learn More to read what you can do, otherwise click OK to get help with the Minecraft crash.\n\n<i>(Your current microcode version is $MICROCODE_VERSION_CURRENT$, which is lower than the recommended version $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_microcode_good": "Your Intel CPU has a known defect, but has applied a software workaround for it.\nIf you're experiencing random crashes also outside Minecraft, click Learn More to read what you can do, otherwise click OK to get help with the Minecraft crash.\n\n<i>(Your microcode version is $MICROCODE_VERSION_CURRENT$, which satisfies the minimum recommended version $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_msg": "$CURRENT_MICROCODE_TEXT$",
+    "gui.intel_corrupted_title": "Detected a CPU defect",
+    "gui.intel_corrupted_dont_show_again": "Don't show again",
+    "gui.intel_corrupted_read_more": "Learn More"
 }
+
