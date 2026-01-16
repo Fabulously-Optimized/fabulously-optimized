@@ -23,7 +23,7 @@ jobs:
            preRelease: true
 
        - name: Publish to CurseForge
-         uses: Kir-Antipov/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
+         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
          with:
            name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
            curseforge-id: 396246
@@ -73,7 +73,7 @@ jobs:
          env:
            STEPS_ATTEST_MRPACK_OUTPUTS_BUNDLE_PATH: ${{ steps.attest-mrpack.outputs.bundle-path }}
        - name: Publish to Modrinth
-         uses: Kir-Antipov/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
+         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
          with:
            name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
            modrinth-id: 1KVo5zza
