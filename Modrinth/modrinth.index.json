@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "12.0.0-beta.2",
+    "versionId": "12.0.0-beta.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -18,6 +18,21 @@
                 "https://cdn.modrinth.com/data/m5T5xmUy/versions/5ZzWqcnS/BetterGrassify-1.8.3%2Bfabric.1.21.11.jar"
             ],
             "fileSize": 87734
+        },
+        {
+            "path": "mods/ConfigManager-fabric-1.21.x-1.1.0.jar",
+            "hashes": {
+                "sha1": "e68e133c4c8cb7801298688136338c2488427a84",
+                "sha512": "fcc54c458702a9e3a2e5a92c98047d590e6a14c247155e156d09ab1f2ac4910a3644fecd098d876782d0e1c2b90301bb98b756173a3d003990c149843c60fbcd"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/jlNms3Jp/versions/pukQokk4/ConfigManager-fabric-1.21.x-1.1.0.jar"
+            ],
+            "fileSize": 86788
         },
         {
             "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.28.jar",
@@ -78,21 +93,6 @@
                 "https://cdn.modrinth.com/data/qQyHxfxd/versions/rhykGstm/NoChatReports-FABRIC-1.21.11-v2.18.0.jar"
             ],
             "fileSize": 245492
-        },
-        {
-            "path": "mods/Zoomify-2.14.6+1.21.11.jar",
-            "hashes": {
-                "sha1": "38ff2623e3697e766f170e0d2e496347dd6bf1f9",
-                "sha512": "3a164fe4af7521ea8a6653d3e004e2d1ccc77c29afbf38b52a85a58eb6ddf6b1d2c6f896a0eeb08c32488819f4834b2d3818ebc61a5e8b40a4b09ffd779ff80f"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/w7ThoJFB/versions/6T6WQ6NZ/Zoomify-2.14.6%2B1.21.11.jar"
-            ],
-            "fileSize": 1870555
         },
         {
             "path": "mods/animatica-0.6.1+1.21.5.jar",
@@ -170,19 +170,19 @@
             "fileSize": 997125
         },
         {
-            "path": "mods/controlify-2.5.1+1.21.11-fabric.jar",
+            "path": "mods/controlify-2.5.2+1.21.11-fabric.jar",
             "hashes": {
-                "sha1": "a3be51751fd0cf4e6ee773931a0de3313e4285e2",
-                "sha512": "97abe77c6406fd40148f75fc7e44a49da0444bb001dd700eb11dc67f64a11fb84a86834b5d4fc18e8bc4b53573f57cad2a3086a253159d24660df71e914284a3"
+                "sha1": "56aff402e628816a662422d63376369aadb89254",
+                "sha512": "7a7d55301cc1a51d9bdb9cc9a614a7ce5ea58f04b768db81d0e1ba4ee3d83c0bafb9f14a5a12e97ec3e6147b9090aa9489adae3e661bf18595f8d279c1afb160"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/8HbSN6J7/controlify-2.5.1%2B1.21.11-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/XN6OUc3u/controlify-2.5.2%2B1.21.11-fabric.jar"
             ],
-            "fileSize": 8137991
+            "fileSize": 8138565
         },
         {
             "path": "mods/cwb-fabric-3.0.0-build.14+mc1.21.11.jar",
@@ -198,6 +198,21 @@
                 "https://cdn.modrinth.com/data/ETlrkaYF/versions/G94OTz7b/cwb-fabric-3.0.0-build.14%2Bmc1.21.11.jar"
             ],
             "fileSize": 78535
+        },
+        {
+            "path": "mods/debugify-1.21.11+1.0.jar",
+            "hashes": {
+                "sha1": "6dae08b650d3b2369c39bc815eff8e0427a41bb1",
+                "sha512": "04d82dd33f44ced37045f1f9a54ad4eacd70861ff74a8800f2d2df358579e6cb0ea86a34b0086b3e87026b1a0691dd6594b4fdc49f89106466eea840518beb03"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/QwxR6Gcd/versions/8Q49lnaU/debugify-1.21.11%2B1.0.jar"
+            ],
+            "fileSize": 376651
         },
         {
             "path": "mods/dynamic-fps-3.11.3+minecraft-1.21.11-fabric.jar",
@@ -500,19 +515,19 @@
             "fileSize": 80039
         },
         {
-            "path": "mods/polytone-1.21.11-5.1.0-fabric.jar",
+            "path": "mods/polytone-1.21.11-5.2.3-fabric.jar",
             "hashes": {
-                "sha1": "8fae41ecdeb0177d6af4dd57f39f6d10b6da4604",
-                "sha512": "d5f9f20bf2c87b17bfe2b2a97f5303cf48c8eaa318682bc627bee3de6599a890fc04459bf994f15deef07f3a42ec8771a0944d3c5fdfc5f688789b262c402bd3"
+                "sha1": "c7c75df93879d2a113fdeb69b8bbc8ad0d6e4c22",
+                "sha512": "f4d1643772a8ed56089192150fd7c5a74947012909791a5e2a4cdeb0202753456cfb9a6e228db31b5226e6c79b17f67f31ca79e6b24b077f40a3d4b93c444ed9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/A0dPBXpJ/polytone-1.21.11-5.1.0-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/opCmDHwx/polytone-1.21.11-5.2.3-fabric.jar"
             ],
-            "fileSize": 1666115
+            "fileSize": 1692293
         },
         {
             "path": "mods/puzzle-fabric-2.3.0+1.21.11.jar",
@@ -635,19 +650,19 @@
             "fileSize": 1126948
         },
         {
-            "path": "mods/yosbr-0.1.2.jar",
+            "path": "mods/zoomify-2.15.1+1.21.11.jar",
             "hashes": {
-                "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9",
-                "sha512": "254f2225f6446523aa8c8274e83b31e27f3b2afc8fe4f490fb1b169dd518e10c7993acda5db0ab597474ddf9d69506b5e794242fada1e2f89ed7bf9d412a8f78"
+                "sha1": "7703e9914735142499bde794f192c5ff6e4b8dc7",
+                "sha512": "fb0888c8302d97ac6bb5daea5345ab80fbda3b537d9920fefab2b2d35b5bf7ac71a857fa64120de9693419abab4e85d4f25d98eb6bd9a19c778625eb110f4b28"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/WwbubTsV/versions/KMOzdYko/yosbr-0.1.2.jar"
+                "https://cdn.modrinth.com/data/w7ThoJFB/versions/YphN3CnL/zoomify-2.15.1%2B1.21.11.jar"
             ],
-            "fileSize": 17373
+            "fileSize": 874897
         },
         {
             "path": "resourcepacks/Chat Reporting Helper.zip",
@@ -667,17 +682,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "2377a1082fae5ca182b5b67797590a65621b2bb3",
-                "sha512": "bcfd50b2806723ba2258057112fd84540e2c30e9a089306af8ac3171a6c030b9988028423032f65eb5892b2dec765622c099465cb9af6ab9bc78048c9559cb62"
+                "sha1": "8f7799bb86a26f317014c46114df15e2f60f3e0f",
+                "sha512": "6f689b02978941de6c15d9bab70eb0f79abed73d83ec3fa1a4d1f31f2a93eca303caa30362bb0c8ef9562a6ac196736a9da7e16db01c40ff1b6884fc1627b700"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/Rn1KQGur/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/hKDIPztm/SodiumTranslations.zip"
             ],
-            "fileSize": 243519
+            "fileSize": 245557
         }
     ],
     "dependencies": {

@@ -5,6 +5,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-beta.3 (2026-01-17)
+
+- Added Config Manager - like YOSBR, but also has reset options and improved compatibility
+- Readded Debugify
+- Removed YOSBR - replaced by Config Manager
+- Updated Controlify, Polytone, Zoomify
+- Enabled MC-206540 and MC-259512 in Debugify to fix the mouse lag while riding an entity
+- Simplified Crash Assistant messages for Intel 13/14 gen defects
+- Updated 6 translations
+- Temporarily incompatible: FastQuit
+
 ### 12.0.0-beta.2 (2026-01-11)
 
 - Readded Controlify
