@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "12.0.0-beta.3",
+    "versionId": "12.0.0-beta.4",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -20,19 +20,19 @@
             "fileSize": 87734
         },
         {
-            "path": "mods/ConfigManager-fabric-1.21.x-1.1.0.jar",
+            "path": "mods/ConfigManager-fabric-1.21.x-1.1.1.jar",
             "hashes": {
-                "sha1": "e68e133c4c8cb7801298688136338c2488427a84",
-                "sha512": "fcc54c458702a9e3a2e5a92c98047d590e6a14c247155e156d09ab1f2ac4910a3644fecd098d876782d0e1c2b90301bb98b756173a3d003990c149843c60fbcd"
+                "sha1": "9ea08cbfeca54a94afb92edf8b1b95396fb48129",
+                "sha512": "aeeacc39e5b31ee6a60a25d4f5cf9415a1c1492fa2a6679f6115ba37eb4917e95bf33fc276c7e89dbf5504f216e36e80cbf581cb32213e28cd76ea803c194d2d"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/jlNms3Jp/versions/pukQokk4/ConfigManager-fabric-1.21.x-1.1.0.jar"
+                "https://cdn.modrinth.com/data/jlNms3Jp/versions/1gNhkJ1O/ConfigManager-fabric-1.21.x-1.1.1.jar"
             ],
-            "fileSize": 86788
+            "fileSize": 87690
         },
         {
             "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.28.jar",
@@ -335,6 +335,21 @@
             "fileSize": 49098
         },
         {
+            "path": "mods/fastquit-3.1.3+mc1.21.11.jar",
+            "hashes": {
+                "sha1": "9ba127357e1fc9ff800496250fb510f70f394714",
+                "sha512": "29f080e82b58833cc2bb6af677c7b49825dbfeee8340d6952aadacbf83a3f5cdb71e2d1145b0e60f7454274577930c3600f3fe8a6f95cb5a423fa6f80d409a01"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/x1hIzbuY/versions/ip2tVKLp/fastquit-3.1.3%2Bmc1.21.11.jar"
+            ],
+            "fileSize": 61123
+        },
+        {
             "path": "mods/ferritecore-8.0.3-fabric.jar",
             "hashes": {
                 "sha1": "0d2b112df25059211ae84f102254dc552367d72e",
@@ -515,19 +530,19 @@
             "fileSize": 80039
         },
         {
-            "path": "mods/polytone-1.21.11-5.2.3-fabric.jar",
+            "path": "mods/polytone-1.21.11-5.3.0-fabric.jar",
             "hashes": {
-                "sha1": "c7c75df93879d2a113fdeb69b8bbc8ad0d6e4c22",
-                "sha512": "f4d1643772a8ed56089192150fd7c5a74947012909791a5e2a4cdeb0202753456cfb9a6e228db31b5226e6c79b17f67f31ca79e6b24b077f40a3d4b93c444ed9"
+                "sha1": "f6d68d6ca2f5a82cf30f748e5994649dd56276fe",
+                "sha512": "5aeb29218e41b2cc4e0a94288aa3a55a31da5163e9be50525734e471969727b64f30043124655b12c9321cd2795baf60333367f5e82986db867b37bb090570c2"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/opCmDHwx/polytone-1.21.11-5.2.3-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/72UkHrqc/polytone-1.21.11-5.3.0-fabric.jar"
             ],
-            "fileSize": 1692293
+            "fileSize": 1696084
         },
         {
             "path": "mods/puzzle-fabric-2.3.0+1.21.11.jar",
