@@ -1,7 +1,7 @@
 {
     "gui.title_crashed_with_report": "¡Fabulously Optimized se cerró inesperadamente!",
     "gui.comment_under_title_pls_report": "Si añadiste mods extra, pueden estar desactualizados o ser incompatibles, lo que causó este cierre.\n\n¿Necesitas ayuda?",
-    "gui.comment_under_title": "1) Únete al <a href=\"https://download.fo/discord\">Discord de Fabulously Optimized</a>.\n2) Crea un nuevo hilo en <b>#support</b> y describe <u>lo que estabas haciendo</u> antes del fallo.\n3) <b>Sube y copia</b> el primer registro de la lista.\n4) Pega el enlace en tu hilo de soporte.\n5) Espera ayuda. Te diremos si necesitamos más registros o información.",
+    "gui.comment_under_title": "1) Únete al <a href=\"https://download.fo/discord\">Discord Fabulously Optimized</a>.\n2) Crea una <b>nueva publicación en #support</b> y describe <u>qué estabas haciendo</u> antes del fallo.\n3) Sube y copia cada archivo y pega los enlaces en tu publicación de soporte.\n4) Espera la ayuda. Te avisaremos si necesitamos más información.",
     "gui.copy_link_button": "∞ Copiar",
     "gui.file_list_label": "Registros",
     "gui.menu.file.open_config_folder": "carpeta config",
@@ -28,5 +28,10 @@
     "warnings.mixin_apply_missing_class": "<strong>A un mod le falta otro mod del que depende. Falta la clase: $MISSING_CLASS$</strong>\n\nPara arreglarlo, haz una de estas:\n1) Presiona el botón de abajo y usa la ventana para averiguar el nombre del mod. Luego busca el mod y lee su descripción para ver los requisitos.\n2) Presiona el botón de abajo, usa la ventana y toma una captura. Luego regresa a la ventana del fallo, sigue las instrucciones y adjunta la captura para que podamos ayudarte.",
     "warnings.mixin_apply_missing_class_auto_fix": "Buscar qué mod necesita otro mod",
     "warnings.mixin_config_missing_or_corrupted": "<strong>El mod $MOD$ está dañado.</strong>\n\nPara arreglarlo, haz una de estas:\n1) Descarga el mod de nuevo\n2) Descarga otra versión del mod compatible con esta versión de Minecraft\n3) Desactiva o elimina el mod hasta que una actualización lo haga compatible",
-    "warnings.mixin_apply_common_end": "\n\n<i>¿Necesitas más ayuda? Haz clic en OK y sigue las instrucciones en la ventana principal.</i>"
+    "warnings.mixin_apply_common_end": "\n\n<i>¿Necesitas más ayuda? Haz clic en OK y sigue las instrucciones en la ventana principal.</i>",
+    "gui.intel_corrupted_microcode_bad": "Tu CPU Intel tiene un defecto conocido y no se ha aplicado una solución de software. Aunque puede que esta no sea la causa directa del fallo de Minecraft, deberías actualizar tu BIOS/UEFI lo antes posible para evitar daños físicos y fallos aleatorios en el sistema.\nHaz clic en Más información para leer lo que puedes hacer, o bien haz clic en Aceptar para obtener ayuda con el bloqueo de Minecraft.\n\n<i>(Tu versión actual de microcódigo es $MICROCODE_VERSION_CURRENT$, que es inferior a la versión recomendada $MICROCODE_VERSION_FIXED$).</i>",
+    "gui.intel_corrupted_microcode_good": "Su CPU Intel tiene un defecto conocido, pero ha aplicado una solución de software para ello.\nSi estás experimentando cuelgues aleatorios también fuera de Minecraft, haz clic en Más información para leer lo que puedes hacer, de lo contrario haz clic en Aceptar para obtener ayuda con el cuelgue de Minecraft.\n\n<i>(Tu versión de microcódigo es $MICROCODE_VERSION_CURRENT$, que satisface la versión mínima recomendada $MICROCODE_VERSION_FIXED$).</i>",
+    "gui.intel_corrupted_title": "Detectado un defecto en la CPU",
+    "gui.intel_corrupted_dont_show_again": "No mostrar de nuevo",
+    "gui.intel_corrupted_read_more": "Saber más"
 }
