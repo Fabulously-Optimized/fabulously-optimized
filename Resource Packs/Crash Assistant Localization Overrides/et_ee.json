@@ -1,7 +1,7 @@
 {
     "gui.title_crashed_with_report": "Fabulously Optimized krahhis!",
     "gui.comment_under_title_pls_report": "Kui oled lisanud täiendavaid mode, võivad need olla aegunud või ühildumatud, mis põhjustas selle krahhi.\n\nVajad abi?",
-    "gui.comment_under_title": "1) Liitu <a href=\"https://download.fo/discord\">Fabulously Optimized'i Discordiga</a>.\n2) Loo uus postitus kanalis <b>#support</b> ja <u>kirjelda, mida tegid</u> enne krahhi.\n3) <b>Laadi üles ja kopeeri</b> esimene logi allolevast nimekirjast.\n4) Kleebi saadud link oma tugilõime.\n5) Oota abi. Anname teada, kui vajame rohkem logisid või muud infot.",
+    "gui.comment_under_title": "1) Liitu <a href=\"https://download.fo/discord\">Fabulously Optimized'i Discordiga</a>.\n2) Loo <b>uus postitus kanalis #support</b> ja <u>kirjelda, mida tegid</u> enne krahhi.\n3) <b>Laadi üles ja kopeeri</b> iga fail ja kleebi lingid oma tugipostitusse.\n4) Oota abi. Anname teada, kui vajame lisainfot.",
     "gui.copy_link_button": "∞ Kopeeri",
     "gui.file_list_label": "Logid",
     "gui.menu.file.open_config_folder": "config kaust",
@@ -28,5 +28,10 @@
     "warnings.mixin_apply_missing_class": "<strong>Mõni mod vajab teist modi, mida pole lisatud. Puuduv klass: $MISSING_CLASS$</strong>\n\nParandamiseks tee ühte järgnevast:\n1) Vajuta allolevat nuppu ja kasuta akent modi nime väljauurimiseks. Seejärel leia modi koduleht ja loe nõuete leidmiseks selle kirjeldust.\n2) Vajuta allolevat nuppu, kasuta akent ja tee sellest ekraanipilt. Seejärel pöördu krahhi põhiaknasse, järgi juhiseid ja lisa ekraanipilt, et saaksime aidata sul viga leida.",
     "warnings.mixin_apply_missing_class_auto_fix": "Leia, milline mod vajab teist modi",
     "warnings.mixin_config_missing_or_corrupted": "<strong>Mod $MOD$ on tõenäoliselt katki.</strong>\n\nParandamiseks tee ühte järgnevast:\n1) Laadi mod uuesti alla\n2) Laadi alla teine modi versioon, mis ühildub selle Minecrafti versiooniga\n3) Keela või eemalda mod, kuniks selle uuendus muudab selle ühilduvaks",
-    "warnings.mixin_apply_common_end": "\n\n<i>Vajad rohkem abi? Vajuta OK ja järgi põhiaknas olevaid juhiseid.</i>"
+    "warnings.mixin_apply_common_end": "\n\n<i>Vajad rohkem abi? Vajuta OK ja järgi põhiaknas olevaid juhiseid.</i>",
+    "gui.intel_corrupted_microcode_bad": "Sinu Inteli protsessoril on teadaolev defekt ning sellele pole rakendatud tarkvaralist parandust. Kuigi see ei pruugi olla sinu Minecrafti krahhi otsene põhjus, peaksid uuendama oma BIOS-i/UEFI-d nii kiiresti, kui võimalik, vältimaks füüsilist kahju ja süsteemi juhuslikke krahhe.\nVajuta Lisateave, et lugeda, mida selle jaoks teha saad; vastasel korral vajuta OK, et saada Minecrafti krahhiga abi.\n\n<i>(Sinu praegune mikrokoodi versioon on $MICROCODE_VERSION_CURRENT$, mis on madalam, kui soovitatud versioon $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_microcode_good": "Sinu Inteli protsessoril on teadaolev defekt, ent sellele on rakendatud tarkvaraline parandus. \nKui esineb krahhe ka väljaspool Minecrafti, vajuta Lisateave, et lugeda, mida selle jaoks teha saad; vastasel korral vajuta OK, et saada Minecrafti krahhiga abi.\n\n<i>(Sinu praegune mikrokoodi versioon on $MICROCODE_VERSION_CURRENT$, mis rahuldab minimaalselt soovitatud versiooni $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_title": "Tuvastati protsessori defekt",
+    "gui.intel_corrupted_dont_show_again": "Ära kuva uuesti",
+    "gui.intel_corrupted_read_more": "Lisateave"
 }
