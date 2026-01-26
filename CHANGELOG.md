@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-beta.5 (2026-01-26)
+
+- Updated Fabric API, FerriteCore, Iris Shaders, Polytone, Reese's Sodium Options, Sodium
+  - Sodium's update should fix the remaining issues with video settings
+- Updated translations on 7 languages
+
 ### 12.0.0-beta.4 (2026-01-21)
 
 - Readded FastQuit
