@@ -30,8 +30,8 @@
     "warnings.mixin_config_missing_or_corrupted": "<strong>El mod $MOD$ está dañado.</strong>\n\nPara arreglarlo, haz una de estas:\n1) Descarga el mod de nuevo\n2) Descarga otra versión del mod compatible con esta versión de Minecraft\n3) Desactiva o elimina el mod hasta que una actualización lo haga compatible",
     "warnings.mixin_apply_common_end": "\n\n<i>¿Necesitas más ayuda? Haz clic en OK y sigue las instrucciones en la ventana principal.</i>",
     "gui.intel_corrupted_microcode_bad": "Tu CPU Intel tiene un defecto conocido y no se ha aplicado una solución de software. Aunque puede que esta no sea la causa directa del fallo de Minecraft, deberías actualizar tu BIOS/UEFI lo antes posible para evitar daños físicos y fallos aleatorios en el sistema.\nHaz clic en Más información para leer lo que puedes hacer, o bien haz clic en Aceptar para obtener ayuda con el bloqueo de Minecraft.\n\n<i>(Tu versión actual de microcódigo es $MICROCODE_VERSION_CURRENT$, que es inferior a la versión recomendada $MICROCODE_VERSION_FIXED$).</i>",
-    "gui.intel_corrupted_microcode_good": "Your Intel CPU has a known defect, but has applied a software workaround for it.\nIf you're experiencing random crashes also outside Minecraft, click Learn More to read what you can do, otherwise click OK to get help with the Minecraft crash.\n\n<i>(Your microcode version is $MICROCODE_VERSION_CURRENT$, which satisfies the minimum recommended version $MICROCODE_VERSION_FIXED$.)</i>",
-    "gui.intel_corrupted_title": "Detected a CPU defect",
-    "gui.intel_corrupted_dont_show_again": "Don't show again",
-    "gui.intel_corrupted_read_more": "Learn More"
+    "gui.intel_corrupted_microcode_good": "Su CPU Intel tiene un defecto conocido, pero ha aplicado una solución de software para ello.\nSi estás experimentando cuelgues aleatorios también fuera de Minecraft, haz clic en Más información para leer lo que puedes hacer, de lo contrario haz clic en Aceptar para obtener ayuda con el cuelgue de Minecraft.\n\n<i>(Tu versión de microcódigo es $MICROCODE_VERSION_CURRENT$, que satisface la versión mínima recomendada $MICROCODE_VERSION_FIXED$).</i>",
+    "gui.intel_corrupted_title": "Detectado un defecto en la CPU",
+    "gui.intel_corrupted_dont_show_again": "No mostrar de nuevo",
+    "gui.intel_corrupted_read_more": "Saber más"
 }
