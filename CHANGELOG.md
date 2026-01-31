@@ -5,6 +5,26 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0 (2026-01-31)
+
+Biggest changes since 11.3.0:
+
+- Added Polytone - now stable again, so enjoy your custom colors!
+- Removed Model Gap Fix - now implemented by vanilla
+- Set graphics options to Minecraft's new "fast" preset
+  - Exceptions: transparent leaves and smooth lighting are still enabled per user feedback
+- Set max FPS to 120 and enabled VSync per Minecraft defaults, as requested by users
+- Video settings have newer design due to Sodium update
+- Enabled MC-206540 and MC-259512 in Debugify to fix the mouse lag while riding an entity
+
+Changes since 12.0.0-beta.5:
+
+- Updated Dynamic FPS, ImmediatelyFast, Polytone
+- Disabled Polytone's particle hitboxes when using F3+B as it caused confusion
+- Updated some Mod Menu Helper strings
+- Updated translations in Spanish (Venezuela) and Estonian
+  - Updated English variants for tutorial screen
+
 ### 12.0.0-beta.5 (2026-01-26)
 
 - Updated Fabric API, FerriteCore, Iris Shaders, Polytone, Reese's Sodium Options, Sodium
@@ -147,7 +167,7 @@ You crashed it, we fixed it!
 - Removed YOSBR - replaced by Config Manager
 - Updated Controlify, Dynamic FPS, FerriteCore, ImmediatelyFast, Zoomify
 - Updated multiple translations
-- Updated English variants for tutorial screen
+  - Updated English variants for tutorial screen
 - Updated and enforced Fabric Loader 0.18.4
 
 ### 11.2.1 (2026-01-11)
