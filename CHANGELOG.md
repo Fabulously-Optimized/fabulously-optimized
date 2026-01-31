@@ -5,6 +5,19 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.0-beta.5 (2026-01-26)
+
+- Updated Fabric API, FerriteCore, Iris Shaders, Polytone, Reese's Sodium Options, Sodium
+  - Sodium's update should fix the remaining issues with video settings
+- Updated translations on 7 languages
+
+### 12.0.0-beta.4 (2026-01-21)
+
+- Readded FastQuit
+- Updated Config Manager, Polytone
+- Updated translations in 6 languages
+- Updated instructions on Crash Assistant
+
 ### 12.0.0-beta.3 (2026-01-17)
 
 - Added Config Manager - like YOSBR, but also has reset options and improved compatibility
@@ -13,7 +26,7 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 - Updated Controlify, Polytone, Zoomify
 - Enabled MC-206540 and MC-259512 in Debugify to fix the mouse lag while riding an entity
 - Simplified Crash Assistant messages for Intel 13/14 gen defects
-- Updated 6 translations
+- Updated translations in 6 languages
 - Temporarily incompatible: FastQuit
 
 ### 12.0.0-beta.2 (2026-01-11)
