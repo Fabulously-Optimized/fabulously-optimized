@@ -141,6 +141,15 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.3.0 (2026-01-31)
+
+- Added Config Manager - like YOSBR, but also has reset options and improved compatibility
+- Removed YOSBR - replaced by Config Manager
+- Updated Controlify, Dynamic FPS, FerriteCore, ImmediatelyFast, Zoomify
+- Updated multiple translations
+- Updated English variants for tutorial screen
+- Updated and enforced Fabric Loader 0.18.4
+
 ### 11.2.1 (2026-01-11)
 
 - Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Crash Assistant, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Mod Menu, Puzzle, Skyboxify, YetAnotherConfigLib
