@@ -78,7 +78,7 @@ jobs:
            name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
            modrinth-id: 1KVo5zza
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-           modrinth-unfeature-mode: subset
+           modrinth-unfeature-mode: none
            files: |
              Fabulously.Optimized-${{ github.ref_name }}.mrpack
              cosign-bundle.zip
