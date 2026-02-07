@@ -161,6 +161,12 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.3.1 (2026-02-07)
+
+- Updated Entity Model Features, e4mc, Fabric Language Kotlin
+- Updated translations from 6 languages
+- Fixed Crash Assistant CPU corruption popup being blank in some cases
+
 ### 11.3.0 (2026-01-31)
 
 - Added Config Manager - like YOSBR, but also has reset options and improved compatibility
