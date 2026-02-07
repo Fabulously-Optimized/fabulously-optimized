@@ -1,7 +1,7 @@
 {
     "gui.title_crashed_with_report": "Fabulously Optimized 崩溃了！",
     "gui.comment_under_title_pls_report": "如果你添加了额外的模组，它们可能因过时或不兼容导致游戏崩溃。\n\n需要帮助吗？",
-    "gui.comment_under_title": "1) 加入<a href=\"https://download.fo/discord\">Fabulously Optimized Discord群组</a>。\n2) 在<b>#support</b>中新建一个帖子，描述游戏崩溃前<u>你在干什么</u>。\n3) <b>上传并复制</b>下面列表中的第一个日志。\n4) 将链接粘贴到你的支持主题。\n5) 等待帮助。如果我们需要更多日志或其他信息，我们会告诉你。",
+    "gui.comment_under_title": "1) 加入<a href=\"https://download.fo/discord\">Fabulously Optimized Discord群组</a>。\n2) <b>在#support中新建</b>一个<b>帖子</b>，描述崩溃前<u>你在做什么</u>。\n3) <b>上传并复制</b>每个文件，然后将链接粘贴到你的support帖子中。\n4) 等待帮助。如果需要更多信息，我们会告诉你。",
     "gui.copy_link_button": "∞ 复制",
     "gui.file_list_label": "日志",
     "gui.menu.file.open_config_folder": "config文件夹",
@@ -19,5 +19,17 @@
     "gui.privacy.logs_upload_question": "你的日志将会被上传到<b>mclo.gs</b>，它会删除一些身份信息，并将日志保存90天。\n你同意$LINK.PRIVACY_POLICY$吗？",
     "gui.privacy.remember_my_choice": "不再询问",
     "gui.request_help_button": "Fabulously Optimized Discord群组",
-    "gui.upload_and_copy_link_button": "📤上传并复制"
+    "gui.upload_and_copy_link_button": "📤上传并复制",
+    "gui.logs_analyzer": "找到出现问题的原因！",
+    "warnings.mixin_apply_common_start": "",
+    "warnings.mixin_apply": "<strong>模组“$MOD$”可能与此Minecraft版本不兼容。</strong>\n\n要解决此问题，请执行以下操作之一：\n1) 查找与此版本Minecraft兼容的模组版本\n2) 禁用或删除该模组，直到作者发布更新使其兼容\n3) 使用与该模组所支持的Minecraft版本相匹配的Fabulously Optimized模组包",
+    "warnings.mixin_apply_conflicting": "<strong>“$MOD$”可能无法与“$MOD_2$”一起使用。</strong>\n\n要解决此问题，请禁用或移除其中一个模组。",
+    "warnings.mixin_apply_java_version": "<strong>模组“$MOD$”需要Java $REQUIRED_JAVA_VERSION$，但您使用的是Java $CURRENT_JAVA_VERSION$。</strong>\n\n要解决此问题，请执行以下操作之一：\n1) 确认你已正确安装或更新 Fabulously Optimized\n2) 查找与该Minecraft和Java版本兼容的模组版本\n3) 禁用或删除该 Mod，直到更新使其兼容\n4) 使用与该模组所支持的Minecraft和Java版本相匹配的Fabulously Optimized版本",
+    "warnings.mixin_apply_missing_class": "<strong>某些模组缺少它所依赖的另一个模组。缺少类：$MISSING_CLASS$</strong>\n\n要解决此问题，请执行以下操作之一：\n1) 点击下面的按钮，使用窗口找出模组名称。然后找到该模组的列表，阅读其描述以找出所需模组。\n2) 点击下面的按钮，使用窗口为其截图。然后返回崩溃主窗口，按照说明操作并附上截图，以便我们帮助你解决问题。",
+    "warnings.mixin_apply_missing_class_auto_fix": "查找哪个模组缺少另一个模组",
+    "warnings.mixin_config_missing_or_corrupted": "<strong>模组“$MOD$”可能已损坏。</strong>\n\n要解决此问题，请执行以下操作之一：\n1) 重新下载次模组\n2) 下载与此Minecraft版本兼容的其他版本的模组\n3) 禁用或删除次模组，直到作者发布更新使其兼容",
+    "warnings.mixin_apply_common_end": "\n\n<i>需要更多帮助？单击\"确定\"，然后按照主窗口上的说明操作。</i>",
+    "gui.intel_corrupted_title": "检测到CPU故障",
+    "gui.intel_corrupted_dont_show_again": "不再显示",
+    "gui.intel_corrupted_read_more": "了解更多"
 }
