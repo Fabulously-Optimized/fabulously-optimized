@@ -29,8 +29,9 @@
     "warnings.mixin_apply_missing_class_auto_fix": "מציאת המוד שתלוי במוד אחר",
     "warnings.mixin_config_missing_or_corrupted": "<strong>המוד $MOD$ כנראה לא עובד.</strong>\n\nכדי לתקן את הבעיה, מבצעים את אחת מהפעולות הבאות:\n1) מורידים את המוד מחדש\n2) מחפשים גרסה של המוד שתואמת לגרסת Minecraft הזאת\n3) מכבים או מוחקים את המוד עד שיצא לו עדכון",
     "warnings.mixin_apply_common_end": "\n\n<i>אנחנו כאן כדי לעזור, לוחצים על אישור ועוקבים אחרי ההוראות בחלון הראשי.</i>",
-    "gui.intel_corrupted_microcode_bad": "למעבד Intel שלך יש פגם ידוע ולא הוחל עליו פתרון תוכנה. אמנם יש סיכוי שזה לא מה שגרם לקריסה של Minecraft, כדאי לך לעדכן את הBIOS/UEFI כמה שיותר מהר כדי למנוע נזק פיזי וקריסות אקראיות של המערכת.\n\nאפשר ללחוץ על מידע נוסף כדי לקרוא על מה אפשר לעשות, אחרת לוחצים על אישור כדי לקבל עזרה על הקריסה של Minecraft.\n\n<i>(גרסת המיקרוקוד שלך היא $MICROCODE_VERSION_CURRENT$, נמוכה יותר מהגרסה המומלצת $MICROCODE_VERSION_FIXED$.)</i>",
-    "gui.intel_corrupted_microcode_good": "למעבד Intel שלך יש פגם ידוע אבל כן הוחל עליו פתרון תוכנה.\nאם קורים קריסות אקראיות מחוץ לMinecraft, אפשר ללחוץ על מידע נוסף כדי לקרוא על מה אפשר לעשות, אחרת לוחצים על אישור כדי לקבל עזרה על הקריסה של Minecraft.\n\n<i>(גרסת המיקרוקוד שלך היא $MICROCODE_VERSION_CURRENT$, שעומדת בגרסה המינימלית המומלצת $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_microcode_bad": "הBIOS/UEFI שלך מיושן וכדי לך לעדכן אותו בהקדם.\n<i>(גרסת המיקרוקוד שלך היא $MICROCODE_VERSION_CURRENT$, שהיא נמוכה מהגרסה המומלצת $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_microcode_good": "הBIOS/UEFI שלך מעודכן. אם מתקיימות קריסות מחוץ לMinecraft, ניתן לבדוק את אפשרויות האחריות שלך.\n<i>(גרסת המיקרוקוד שלך היא $MICROCODE_VERSION_CURRENT$, שהיא עומדת בגרסת מינימום המומלצת $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_msg": "במעבד Intel שלך יש פגם ידוע. יש לבדוק אם הBIOS/UEFI שלך מעודכן כדי למנוע נזק פיזי וקריסות אקראיות במערכת.\n\n$CURRENT_MICROCODE_TEXT$\n\nאפשר ללחוץ על 'מידע נוסף' כדי לקרוא מה ניתן לעשות, או ללחוץ על 'אישור'.",
     "gui.intel_corrupted_title": "אותר פגם במעבד",
     "gui.intel_corrupted_dont_show_again": "לא להציג שוב",
     "gui.intel_corrupted_read_more": "מידע נוסף"
