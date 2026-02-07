@@ -1,7 +1,7 @@
 {
     "gui.title_crashed_with_report": "Fabulously Optimized è crashato!",
     "gui.comment_under_title_pls_report": "Se hai aggiunto altre mod, è possibile che siano obsolete o incompatibili, causando l'arresto anomalo.\n\nServe aiuto?",
-    "gui.comment_under_title": "1) Entra nel <a href=\"https://download.fo/discord\">Discord di Fabulously Optimized</a>.\n2) Crea un <b>nuovo post in #support</b>, descrivendo <u>cosa stavi facendo</u> prima del crash.\n3) <b>Carica e copia </b> ogni file e incolla i link nel tuo thread di supporto.\n4) Attendi aiuto. Ti faremo sapere se ci servono ulteriori informazioni.",
+    "gui.comment_under_title": "1) Entra nel <a href=\"https://download.fo/discord\">Discord di Fabulously Optimized</a>.\n2) Crea un <b>nuovo post in #support</b>, descrivendo <u>cosa stavi facendo</u> prima del crash.\n3) <b>Carica e copia </b> ogni file e incolla i link nel tuo post di supporto.\n4) Attendi aiuto. Ti faremo sapere se ci servono ulteriori informazioni.",
     "gui.copy_link_button": "∞ Copia",
     "gui.file_list_label": "Log",
     "gui.menu.file.open_config_folder": "cartella config",
@@ -29,8 +29,9 @@
     "warnings.mixin_apply_missing_class_auto_fix": "Trova la mod che ha bisogno di un'altra mod",
     "warnings.mixin_config_missing_or_corrupted": "<strong>La mod $MOD$ sembra essere corrotta.</strong>\n\nPer risolvere, potresti:\n1) Scaricare di nuovo la mod \n2) Scaricare un'altra versione della mod che sia compatibile con questa versione di Minecraft\n3) Disattivare o togliere la mod finché un aggiornamento la rende compatibile",
     "warnings.mixin_apply_common_end": "\n\n<i>Serve aiuto? Clicca OK e segui le istruzioni sulla finestra principale.</i>",
-    "gui.intel_corrupted_microcode_bad": "Il tuo processore Intel è difettoso, e non ha ricevuto un aggiornamento risolutivo. Anche se ciò potrebbe non essere direttamente la causa di questo crash, dovresti aggiornare il tuo BIOS/UEFI appena possibile per evitare crash futuri o danni fisici al tuo sistema.\nClicca su Maggiori informazioni per capire cosa puoi fare, altrimenti clicca OK per continuare ad analizzare il crash di Minecraft.\n\n<i>(La versione installata del microcode è $MICROCODE_VERSION_CURRENT$, ed è inferiore a quella consigliata: $MICROCODE_VERSION_FIXED$.)</i>",
-    "gui.intel_corrupted_microcode_good": "Il tuo processore Intel è difettoso, ma è già installato un aggiornamento risolutivo.\nSe però hai notato crash anche all'infuori di Minecraft, clicca su Maggiori informazioni per capire cosa puoi fare, altrimenti clicca OK per continuare ad analizzare il crash di Minecraft.\n\n<i>(La versione installata del microcode è $MICROCODE_VERSION_CURRENT$, ed è inferiore a quella consigliata: $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_microcode_bad": "Il tuo BIOS/UEFI è obsoleto, e dovresti aggiornarlo appena possibile.\n<i>(La versione attualmente installata del microcode è $MICROCODE_VERSION_CURRENT$, ed è inferiore a quella consigliata: $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_microcode_good": "Il tuo BIOS/UEFI è aggiornato. Se continui a notare crash all'infuori da Minecraft, controlla le tue opzioni di garanzia.\n<i>(La versione attualmente installata del microcode è $MICROCODE_VERSION_CURRENT$, che soddisfa il requisito minimo consigliato: $MICROCODE_VERSION_FIXED$.)</i>",
+    "gui.intel_corrupted_msg": "Il tuo processore Intel è difettoso. Assicurati di aver aggiornato il BIOS/UEFI per prevenire danni fisici e crash sporadici del sistema.\n\n$CURRENT_MICROCODE_TEXT$\n\nClicca su Maggiori informazioni per sapere cosa puoi fare, altrimenti clicca su OK.",
     "gui.intel_corrupted_title": "Rilevato processore difettoso",
     "gui.intel_corrupted_dont_show_again": "Non mostrare più",
     "gui.intel_corrupted_read_more": "Maggiori informazioni"
