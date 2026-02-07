@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.1 (2026-02-07)
+
+- Updated Entity Model Features, e4mc, Fabric API, Fabric Language Kotlin, Lithium, Polytone, Remove Reloading Screen
+- Updated translations from 6 languages
+- Fixed Crash Assistant CPU corruption popup being blank in some cases
+- Users who currently update the modpack incorrectly will get a popup instead of a crash
+
 ### 12.0.0 (2026-01-31)
 
 Biggest changes since 11.3.0:
