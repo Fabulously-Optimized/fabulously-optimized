@@ -42,7 +42,7 @@
     "gui.intel_corrupted_msg": "Your Intel CPU has a known defect. Ensure that your BIOS/UEFI is up to date to prevent physical damage and random crashes in the system.\n\n$CURRENT_MICROCODE_TEXT$\n\nClick Learn More to read what you can do, otherwise click OK.",
     "gui.intel_corrupted_title": "CPU defect detected",
     "gui.piracy_warning": "Offline mode detected",
-    "warnings.piracy": "You are using an unsupported launcher or offline mode.\n\nIf you need help with this crash, please try <a href=\"https://download.fo/install/\">installing a supported launcher</a> or switching to online mode, then repeating the actions that led to the crash. We do not provide support for crashes that happen in offline mode.",
+    "warnings.piracy": "You are using an unsupported launcher or offline mode.\n\nIf you need help with this crash, please try <a href=\"https://download.fo/install/\">installing a supported launcher</a> or switching to online mode, then repeating the actions that led to the crash.\nWe do not provide support for crashes that happen in offline mode.",
 
     "gui.privacy.remember_my_choice": "Remember my choice",
     "gui.menu.privacy": "Privacy",
@@ -50,4 +50,5 @@
     "gui.menu.privacy.manage_logs": "Manage Uploaded Logs",
     "gui.intel_corrupted_dont_show_again": "Don't show again",
     "gui.intel_corrupted_read_more": "Learn More"
+
 }
