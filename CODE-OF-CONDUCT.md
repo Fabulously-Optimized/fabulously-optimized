@@ -10,7 +10,7 @@
 ## DO NOT 
 
 * Use issues for generic questions, do that in Discord instead
-* Report issues or questions regarding hacked clients or piracy
+* Report issues or questions regarding cheating software, piracy and things that go against Mojang's ToS
 * Pull request any modpack structure changes directly (e.g. adding new mods), discuss those in an issue instead
 * Pull request localization changes, [follow these instructions instead](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) 
 * Disrespect anyone
