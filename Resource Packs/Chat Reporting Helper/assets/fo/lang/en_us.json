@@ -1,5 +1,6 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7Explains chat reporting with simple phrases and icons§r",
+    "chat.disabled.profile.moreInfo": "Chat not allowed by account settings. Cannot send or view messages or commands in this Minecraft version. Visit the link to see your options or update to Minecraft 26 or higher to use commands.",
     "chat.tag.modified": "Player message that is reportable to Mojang, but has been modified by the server. Original:",
     "chat.tag.not_secure": "Player message that is not reportable to Mojang.",
     "chat.tag.system": "Server message or player message that is not reportable to Mojang.",
@@ -41,4 +42,5 @@
     "gui.nochatreports.signing_required.contents": "This server requires all player messages to be reportable to Mojang. If you do not agree, you can still use any commands that are not related to chat.\n\nClick \"Allow Signing\" to agree and enable chat.",
     "chat.nochatreports.disabled.signing_requested": "This server requires player messages to be reportable to Mojang. Use prompt screen or chat shield button to accept and enable chat.",
     "gui.nochatreports.realms_warning.contents": "Important info about Realms:\n• Chat messages can be reported to Mojang.\n• Mojang is passively monitoring the chat for violations.\n• Profanity filter is enabled by default. Adults can enable seeing profanity on minecraft.net."
+
 }
