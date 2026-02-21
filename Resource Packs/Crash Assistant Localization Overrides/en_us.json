@@ -12,7 +12,9 @@
     "gui.menu.file.open_modpack_folder": ".minecraft folder",
     "gui.menu.file.open_mods_folder": "mods folder",
     "gui.menu.file": "Open",
+    "gui.show_in_explorer_button": "Folder",
     "gui.upload_and_copy_link_button": "Upload and copy",
+    "gui.copy_link_button": "Copy",
     "gui.menu.privacy.reset_consent": "Prompt before uploading logs",
     "gui.privacy.consent_not_given": "Crash Assistant already asks you before uploading logs.",
     "gui.privacy.consent_reset_success": "Crash Assistant will now ask you before uploading logs.",
@@ -39,8 +41,6 @@
     "warnings.piracy": "You are using an unsupported launcher or offline mode.\n\nIf you need help with this crash, please try <a href=\"https://download.fo/install/\">installing a supported launcher</a> or switching to online mode, then repeating the actions that led to the crash.\nWe do not provide support for crashes that happen in offline mode.",
 
     "gui.open_button": "Open",
-    "gui.show_in_explorer_button": "Show in folder",
-    "gui.copy_link_button": "Copy link",
     "gui.error": "Error!",
     "gui.uploading": "Uploading...",
     "gui.copied": "Copied!",
@@ -51,4 +51,5 @@
     "gui.intel_corrupted_dont_show_again": "Don't show again",
     "gui.intel_corrupted_read_more": "Learn More"
 }
+
 
