@@ -140,7 +140,7 @@
 	problematic_frame_pattern = "```java\n$CONTENT$\n```"
 	#Pattern for simple link notifications (e.g. Intel fix, Piracy check, KubeJS scripts).
 	#Variables: $TEXT$, $LINK$
-	link_notification_pattern = "[$TEXT$](<$LINK$>)"
+	link_notification_pattern = "$TEXT$: $LINK$"
 	#Pattern for the header of the modlist diff block (containing the link).
 	#Variables: $PART1$ (text before link), $PART2$ (text after link), $LINK$.
 	modlist_header_pattern = "$PART1$: <$LINK$>$PART2$"
@@ -356,4 +356,5 @@
 [debug]
 	#Debug option to crash immediately after Crash Assistant launched its process to conveniently debug it, configure it without need to manually crash.
 	crash_after_init = false
+
 
