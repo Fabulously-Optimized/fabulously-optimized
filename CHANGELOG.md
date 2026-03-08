@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.6 (2026-03-08)
+
+- Updated Crash Assistant, Skyboxify
+- Adjusted Crash Assistant popup design
+  - Added a button to send all logs
+  - Individual logs are hidden by default
+  - Applied delay to upload button to ensure all logs are obtained before copying
+  - Adjusted instructions
+  - Adjusted theme
+
 ### 12.0.5 (2026-02-24)
 
 - Updated Entity Model Features, Iris Shaders, Polytone, Sodium

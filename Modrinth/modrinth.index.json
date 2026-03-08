@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "12.0.5",
+    "versionId": "12.0.6",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -35,19 +35,19 @@
             "fileSize": 87690
         },
         {
-            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
+            "path": "mods/CrashAssistant-fabric-1.21.5-1.21.11-1.11.0.jar",
             "hashes": {
-                "sha1": "6a8ccfa38e3593d840922f1f920dde46261d2445",
-                "sha512": "979ffeedabd34012f4dc923ad373991d614a20f6d35fccb356f39b15b0e3c577225faa2a322b21a7073f5a989f9dcb9cf4707eaca2d0fcfac0f6c9239110b248"
+                "sha1": "f2a34ae76fe8a3e4f55749990fd583c5ea745b9b",
+                "sha512": "9b4fea27b16c1823c34659217d53fe50146a2273760395e3c72f6bfa7c92a12979ea3d59120c5887c6d1cbb676ffd472c0d5ea262b87cf35427965fcaa80fac5"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/y79Db7a8/CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar"
+                "https://cdn.modrinth.com/data/ix1qq8Ux/versions/iBeOwg9l/CrashAssistant-fabric-1.21.5-1.21.11-1.11.0.jar"
             ],
-            "fileSize": 1271180
+            "fileSize": 3010473
         },
         {
             "path": "mods/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
@@ -590,19 +590,19 @@
             "fileSize": 198379
         },
         {
-            "path": "mods/skyboxify-2.5+1.21.11-fabric.jar",
+            "path": "mods/skyboxify-2.6+1.21.11-fabric.jar",
             "hashes": {
-                "sha1": "5aa13599b4425bb88afad03556c4ad8f86a0b53a",
-                "sha512": "976f5be3b629e9fec93137fda1230b0ddc7eca9215ac6e3dd8a3a5da4cb9baa7d79af9c973909db482adee54a20efe162e0db31ea8555218049893bbc5f96928"
+                "sha1": "96a585ad541f6897922da774bede496ae4aa117b",
+                "sha512": "c4f2bf4a60aae7490e72f3404e172e82d0372e880c4bbe6d24da61385c3dcb316f6be2f664fe2b49b9fa0d14f53207370a4cc38ad3bb68a9391b8b06ed0a76db"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DWuwk8aA/versions/9ttJ3Ihk/skyboxify-2.5%2B1.21.11-fabric.jar"
+                "https://cdn.modrinth.com/data/DWuwk8aA/versions/K9zwuV3p/skyboxify-2.6%2B1.21.11-fabric.jar"
             ],
-            "fileSize": 424704
+            "fileSize": 424187
         },
         {
             "path": "mods/sodium-extra-fabric-0.8.3+mc1.21.11.jar",
@@ -697,17 +697,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "4042ef0ed7cda87f691a6ac8326d6bc1a997acd9",
-                "sha512": "5a200d6a302dfd7eddf2e1e267151a217afd57c863c26ffc63770bb37d9ac7d9ee38d6de37b96b046552f28c158618a33fac9403afcbb76126c970a6d34a4b00"
+                "sha1": "a27caef18f7e062106cd134f2542d38f0977e4d7",
+                "sha512": "77ff270197320f7cd41d43500e797b86338fecc149cd85c94038d91de0d3ee5aee66d59a68f0e1f37301e25f6f484112e567e7686d5cf0ad91f033e0344e20ee"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/yX6kBQlM/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/RytAdtax/SodiumTranslations.zip"
             ],
-            "fileSize": 248687
+            "fileSize": 249282
         }
     ],
     "dependencies": {
