@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "12.0.6",
+    "versionId": "12.0.7",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -410,19 +410,19 @@
             "fileSize": 76765
         },
         {
-            "path": "mods/lithium-fabric-0.21.3+mc1.21.11.jar",
+            "path": "mods/lithium-fabric-0.21.4+mc1.21.11.jar",
             "hashes": {
-                "sha1": "7733e091bebe5f68aaa4e13cfb6f1eaf3a192379",
-                "sha512": "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
+                "sha1": "203bdcb26e97b3217b045e1182651a7d7b6462ec",
+                "sha512": "f14a5c3d2fad786347ca25083f902139694f618b7c103947f2fd067a7c5ee88a63e1ef8926f7d693ea79ed7d00f57317bae77ef9c2d630bf5ed01ac97a752b94"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar"
+                "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Ow7wA0kG/lithium-fabric-0.21.4%2Bmc1.21.11.jar"
             ],
-            "fileSize": 888874
+            "fileSize": 900462
         },
         {
             "path": "mods/main-menu-credits-1.2.0.jar",
@@ -697,17 +697,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "a27caef18f7e062106cd134f2542d38f0977e4d7",
-                "sha512": "77ff270197320f7cd41d43500e797b86338fecc149cd85c94038d91de0d3ee5aee66d59a68f0e1f37301e25f6f484112e567e7686d5cf0ad91f033e0344e20ee"
+                "sha1": "c0f37af35d47e3246b41c3e694de69185a793fb6",
+                "sha512": "4cf5b4e6070104a1d2532a1996a7bcce1347ad9eff936d5e7e0201efe87e4f6dc1c08568d3a963b13468e1495b21a64c55a28151333ae4d50b4a9d178b4b31d9"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/RytAdtax/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/9hGCf44T/SodiumTranslations.zip"
             ],
-            "fileSize": 249282
+            "fileSize": 250669
         }
     ],
     "dependencies": {
