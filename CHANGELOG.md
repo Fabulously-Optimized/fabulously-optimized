@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.21.11
 
+### 12.0.7 (2026-03-15)
+
+- Updated Lithium
+- Updated translations in 3 languages
+- Fixed the support message sometimes getting blocked in #support
+
 ### 12.0.6 (2026-03-08)
 
 - Updated Crash Assistant, Skyboxify
