@@ -30,7 +30,7 @@
 	#By default our process is scanning for terminated processes(they can appear with delay) and after finish of scan enabling upload buttons.
 	#This option can prevent this and enable individual upload buttons immediately after crash.
 	#However can confuse users and make them clicking individual upload buttons instead of Upload All Button.
-	prevent_upload_buttons_delay = true
+	prevent_upload_buttons_delay = false
 	#Before uploading the first log, requires the user to accept the privacy policy.
 	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
 	enable_privacy_policy_acceptance = true
@@ -50,7 +50,7 @@
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
 	#Usage: ["CRASH_REPORT", "LOG"]
-	logs_priority_overrides = ["CRASH_REPORT", "WIN_EVENT", "HS_ERR", "LOG", "DEBUG_LOG", "LAUNCHER_LOG", "MOD_LIST"]
+	logs_priority_overrides = ["CRASH_REPORT", "STDERR_STREAM", "WIN_EVENT", "HS_ERR", "LOG", "DEBUG_LOG", "LAUNCHER_LOG", "MOD_LIST"]
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
 	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
 
@@ -58,9 +58,9 @@
 [simple_mode]
 	#If enabled, the GUI starts in simple mode with logs hidden and a single "Show Logs (Expert Mode)" button.
 	#Disabled by default.
-	enabled = false
+	enabled = true
 	#If true, modpack creators always see the Expert Mode with logs visible, even if simple mode is enabled.
-	prevent_for_modpack_creators = true
+	prevent_for_modpack_creators = false
 	#If true, hides the mod list changes section while simple mode is active.
 	hide_modlist_section = false
 
@@ -89,7 +89,7 @@
 	prefix = "### "
 	#Separator between logs.
 	#If you want vertical logs, use "\n$PREFIX$".
-	logs_separator = "   |   "
+	logs_separator = "\n$PREFIX$"
 	#Adds line in log list about this Intel processor can be corrupted.
 	intel_corrupted_notification = true
 	#Adds line in log list about piracy/offline mode or if check failed.
@@ -127,10 +127,10 @@
 	message_structure = "$HEADER$$TEXT_UNDER_CRASHED$$PREFIX$$LOGS$\n$PROBLEMATIC_FRAME$$ANALYSIS_RESULT$$MODLIST_DIFF$"
 	#Pattern for a single log line.
 	#Variables: $LOG_NAME$, $FILE_NAME$, $LINK$.
-	log_line_pattern = "$LOG_NAME$[$FILE_NAME$](<$LINK$>)"
+	log_line_pattern = "$LOG_NAME$$FILE_NAME$: $LINK$"
 	#Pattern for a split log line (too large for single upload).
 	#Variables: $LOG_NAME$, $FILE_NAME$, $LINK_FIRST_LINES$, $LINK_LAST_LINES$, $TOO_BIG_REASONS$.
-	log_line_split_pattern = "$LOG_NAME$[$FILE_NAME$ <TOLOWER>$MSG_LANG.gui.split_log_dialog_head$</TOLOWER>](<$LINK_FIRST_LINES$>) / [<TOLOWER>$MSG_LANG.gui.split_log_dialog_tail$</TOLOWER>](<$LINK_LAST_LINES$>) $TOO_BIG_REASONS$"
+	log_line_split_pattern = "$LOG_NAME$$FILE_NAME$: $LINK_FIRST_LINES$ and $LINK_LAST_LINES$ $TOO_BIG_REASONS$"
 	#Pattern for ModList Diff and Analysis Results blocks.
 	#Variables: $PREFIX$, $HEADER$, $CONTENT$.
 	#If 'color_message' is false, remove 'ansi'.
@@ -140,23 +140,23 @@
 	problematic_frame_pattern = "```java\n$CONTENT$\n```"
 	#Pattern for simple link notifications (e.g. Intel fix, Piracy check, KubeJS scripts).
 	#Variables: $TEXT$, $LINK$
-	link_notification_pattern = "[$TEXT$](<$LINK$>)"
+	link_notification_pattern = "$TEXT$: $LINK$"
 	#Pattern for the header of the modlist diff block (containing the link).
 	#Variables: $PART1$ (text before link), $PART2$ (text after link), $LINK$.
-	modlist_header_pattern = "[$PART1$](<$LINK$>)$PART2$"
+	modlist_header_pattern = "$PART1$: <$LINK$>$PART2$"
 
 #Settings of links copied by Upload and copy link buttons
 [copied_links]
 	#With this option, you can customize how single links from individual upload buttons are copied, there
 	#log of small size was uploaded to a single link.
 	#For example, leave just $LINK$ to copy just link.
-	single_link = "$LOG_NAME$$FILE_NAME$: $LINK$"
+	single_link = "### $LOG_NAME$$FILE_NAME$: $LINK$"
 	#With this option, you can customize how links from individual upload buttons are copied, there
 	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user only decided to copy only one of them (not message with both).
-	single_link_split = "$LOG_NAME$$FILE_NAME$($HEAD_OR_TAIL$): $LINK$ $TOO_BIG_REASONS$"
+	single_link_split = "### $LOG_NAME$$FILE_NAME$($HEAD_OR_TAIL$): $LINK$ $TOO_BIG_REASONS$"
 	#With this option, you can customize how links from individual upload buttons are copied, there
 	#log was split to the 2 parts (head and tail, due to too large size for single upload), but user decided to copy message with both.
-	both_links_split = "$LOG_NAME$$FILE_NAME$: <$LINK_FIRST_LINES$> and <$LINK_LAST_LINES$> $TOO_BIG_REASONS$"
+	both_links_split = "### $LOG_NAME$$FILE_NAME$: $LINK_FIRST_LINES$ and $LINK_LAST_LINES$ $TOO_BIG_REASONS$"
 	#If enabled, disables the head/tail selection dialog for split logs on individual uploads and always copies message with both links.
 	skip_split_dialog = true
 
@@ -182,6 +182,9 @@
 	#If enabled, will add resourcepacks to modlist.json
 	#After filename where will be ' (resourcepack)' suffix.
 	add_resourcepacks = true
+	#If enabled, will add datapacks to modlist.json
+	#After filename where will be ' (datapacks)' suffix.
+	add_datapacks = false
 	#If enabled, will add modloader jar name to modlist, to easily track if user changed version of modloader.
 	add_modloader_jar_name = true
 	#If enabled, will add generated modlist.txt, with names of all mods / modids / mixin configs / jarjar mods info to logs.
@@ -212,7 +215,7 @@
 	#Delay in seconds for the OK button when a crash reason is shown for the first time.
 	#Helps to ensure the user reads the recommendation.
 	#Set to 0 or -1 to disable the delay.
-	first_show_delay = 0
+	first_show_delay = 3
 	#Here you can disable some Analysis by class names.
 	#List of them can be found here: dev.kostromdan.mods.crash_assistant.app.logs_analyser.crash_reasons
 	#For example "Create6Addons"
@@ -256,10 +259,28 @@
 	#On first world join of modpack creator if set to false shows greeting, then self enables.
 	shown_greeting = true
 
+#Settings of scripting feature.
+#Allows you to add custom scripts for log analysis.
+#Scripts should be placed in config/crash_assistant/scripts/log_analysis folder.
+[scripts]
+	#Enable feature.
+	enabled = false
+	#Enable Scripts IDE in the GUI.
+	ide_enabled = false
+	#By changing this value you can disable creating "scripts" folder and placing example scripts there.
+	generate_scripts_folder_with_example = false
+
 #You can customise GUI with this options.
 [gui_customisation]
+	#Name of a FlatLaf IntelliJ Themes file in config/crash_assistant folder or core theme name.
+	#If file doesn't exist and no core theme matches, themes will be disabled and Standard Swing look and feel used.
+	#Supported core themes: 'FlatLightLaf', 'FlatDarkLaf', 'FlatIntelliJLaf', 'FlatDarculaLaf', 'FlatMacLightLaf', 'FlatMacDarkLaf'.
+	#Supports any IntelliJ Theme file with '.theme.json' extension.
+	#If you prefer standard Swing look and feel, use 'Swing'.
+	#Look out our guide about theme support: https://github.com/KostromDan/Crash-Assistant/blob/pages/guides/Theme%20Support/Getting%20Started.md
+	theme_file_name = "FlatLightLaf"
 	#Will hide Upload All Button from GUI.
-	disable_upload_all_button = true
+	disable_upload_all_button = false
 	#Append comment text with notice about sending screenshot of this gui tells nothing to modpack creators.
 	show_dont_send_screenshot_of_gui_notice = false
 	#Animate border to request user attention even more.
@@ -269,25 +290,46 @@
 	#Not recommended to set it more than 16, as it will affect the increase of GUI size because all text won't fit.
 	upload_all_button_font_size = 16
 	#Same as upload_all_button_font_size, but for Request Help button.
-	request_help_button_font_size = 12
+	request_help_button_font_size = 14
 	#Same as upload_all_button_font_size, but for the Simple Mode toggle button.
-	simple_mode_button_font_size = 16
+	simple_mode_button_font_size = 10
 	#You can change Upload All Button color to request user attention.
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color. Use "default" to use default swing color.
 	#Default for this button is "0_178_0" (dark green color).
-	upload_all_button_foreground_color = "default"
+	upload_all_button_foreground_color = "0_87_0"
 	#Same as upload_all_button_foreground_color, but for Request Help button.
 	#Default for this button is "0_0_178" (dark blue color).
-	request_help_button_foreground_color = "0_0_178"
+	request_help_button_foreground_color = "0_0_0"
 	#Same as upload_all_button_foreground_color, but for the Simple Mode toggle button.
-	simple_mode_button_foreground_color = "0_0_178"
+	simple_mode_button_foreground_color = "99_99_99"
 	#Same as upload_all_button_font_size, but for Auto-Fix button (in integrated GPU warning).
-	auto_fix_button_font_size = 16
+	auto_fix_button_font_size = 14
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
 	#Default for this button is "0_178_0" (dark green color).
 	auto_fix_button_foreground_color = "0_178_0"
+	#Color of the animated border for the screenshot notice.
+	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color.
+	#Default for this is "255_0_0" (red color).
+	screenshot_of_gui_notice_animated_border_color = "255_0_0"
+	#Color of the text for the screenshot notice (inside the animated border).
+	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color.
+	#Default for this is "255_0_0" (red color).
+	screenshot_of_gui_notice_text_color = "255_0_0"
+	#Color of the button blinking on success action (e.g. upload all finished).
+	#format is "R_G_B", range is 0-255.
+	#Default is "100_255_100" (light green).
+	blinking_button_success_color = "242_242_242"
+	#Color of the button blinking on attention request (e.g. click on link in description).
+	#format is "R_G_B", range is 0-255.
+	#Default is "100_100_255" (light blue).
+	blinking_button_attention_color = "242_242_242"
+	#Color of the button blinking on error (e.g. failed upload).
+	#format is "R_G_B", range is 0-255.
+	#Default is "255_100_100" (light red).
+	blinking_button_error_color = "255_100_100"
 	#Path to a modpack logo to display in the top of the GUI.
 	#Path is relative to the Minecraft instance folder. Leave empty to disable.
+	#WARNING: use only '/' path separator. '\' will corrupt config!
 	modpack_logo_path = ""
 	#If true, the logo will be larger, Replacing a some of `don't send screenshot` notice.
 	#If false, it will be smaller and logo will be end right where the `don't send screenshot` notice starts.
@@ -309,4 +351,9 @@
 [compatibility]
 	#Enable feature.
 	enabled = true
+
+#Options to help debug the Crash Assistant.
+[debug]
+	#Debug option to crash immediately after Crash Assistant launched its process to conveniently debug it, configure it without need to manually crash.
+	crash_after_init = false
 

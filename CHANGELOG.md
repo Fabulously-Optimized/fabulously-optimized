@@ -1,9 +1,65 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+# Tiny Takeover (13.x.x)
+
+## 26.1
+
+Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, meaning that even the smallest mods need an update now.
+- Remember to _only_ use mods, resource packs, shaders and other content that are marked as compatible with 26.1. 
+- Any worlds that are upgraded to 26.1 cannot be downgraded, backups are recommended.
+- Java 25 is required, which most launchers handle automatically.
+
+### 13.0.0-alpha.1 (2026-03-25)
+
+Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, meaning that even the smallest mods need an update now.
+
+- Remember to _only_ use mods, resource packs, shaders and other content that are marked as compatible with 26.1. 
+- Any worlds that are upgraded to 26.1 cannot be downgraded - backups are recommended.
+- Java 25 is required, which most launchers (except MultiMC) handle automatically.
+- In this alpha, you will not see a version on the title screen.
+
+Changes:
+
+- Updated Better Mount HUD, Config Manager, Crash Assistant, Dynamic FPS, Entity Model Features, Entity Texture Features, Fabric API, Fabric Capes, FerriteCore, Forge Config API Port, Iris Shaders, Language Reload, LambDynamicLights, Lithium, Mod Menu, More Chat History, Remove Reloading Screen, Skyboxify, Sodium
+- Temporarily added Fast Better Grass
+- Hid confusing submodules from Mod Menu
+- Removed MixinTrace, Reese's Sodium Options - should be no longer needed
+- Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, Main Menu Credits, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Sodium Shadowy Path Blocks, YetAnotherConfigLib, Zoomify
+
 # Mounts of Mayhem (12.x.x)
 
 ## 1.21.11
+
+### 12.0.7 (2026-03-15)
+
+- Updated Lithium
+- Updated translations in 3 languages
+- Fixed the support message sometimes getting blocked in #support
+
+### 12.0.6 (2026-03-08)
+
+- Updated Crash Assistant, Skyboxify
+- Adjusted Crash Assistant popup design
+  - Added a button to send all logs
+  - Individual logs are hidden by default
+  - Applied delay to upload button to ensure all logs are obtained before copying
+  - Adjusted instructions
+  - Adjusted theme
+
+### 12.0.5 (2026-02-24)
+
+- Updated Entity Model Features, Iris Shaders, Polytone, Sodium
+- Updated translations in 3 languages
+- Disabled Debugify's fix for MC-206540 as it adds a visual bug
+- Adjusted log priority in Crash Assistant
+
+### 12.0.4 (2026-02-22)
+
+- Updated MoreCulling, Polytone
+  - Entity Model Features update still skipped
+- Updated translations in 15 languages
+- Removed emoji from Crash Assistant buttons as it caused issues for some Mac users
 
 ### 12.0.3 (2026-02-17)
 
@@ -184,6 +240,14 @@ You crashed it, we fixed it!
 # The Copper Age (11.x.x)
 
 ## 1.21.10
+
+### 11.3.2 (2026-02-22)
+
+- Updated Entity Texture Features, Crash Assistant, e4mc, Skyboxify, Zoomify
+- Downgraded Entity Model Features due to some issues with resource packs
+- Updated translations in 15 languages
+  - Backported 12.0.3 changes
+- Removed emoji from Crash Assistant buttons as it caused issues for some Mac users
 
 ### 11.3.1 (2026-02-07)
 
