@@ -15,13 +15,13 @@ Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, m
 Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, meaning that even the smallest mods need an update now.
 
 - Remember to _only_ use mods, resource packs, shaders and other content that are marked as compatible with 26.1. 
-- Any worlds that are upgraded to 26.1m cannot be downgraded - backups are recommended.
-- Java 25 is required, which most launchers handle automatically.
+- Any worlds that are upgraded to 26.1 cannot be downgraded - backups are recommended.
+- Java 25 is required, which most launchers (except MultiMC) handle automatically.
 - In this alpha, you will not see a version on the title screen.
 
 Changes:
 
-- Updated Better Mount HUD, Config Manager, Crash Assistant, Dynamic FPS, Entity Model Features, Entity Texture Features Fabric API, Fabric Capes, FerriteCore, Forge Config API Port, Iris Shaders, Language Reload, LambDynamicLights, Lithium, Mod Menu, More Chat History, Remove Reloading Screen, Skyboxify, Sodium
+- Updated Better Mount HUD, Config Manager, Crash Assistant, Dynamic FPS, Entity Model Features, Entity Texture Features, Fabric API, Fabric Capes, FerriteCore, Forge Config API Port, Iris Shaders, Language Reload, LambDynamicLights, Lithium, Mod Menu, More Chat History, Remove Reloading Screen, Skyboxify, Sodium
 - Temporarily added Fast Better Grass
 - Hid confusing submodules from Mod Menu
 - Removed MixinTrace, Reese's Sodium Options - should be no longer needed
