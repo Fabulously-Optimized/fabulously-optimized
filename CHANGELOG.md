@@ -31,7 +31,7 @@ Changes:
 - Updated Better Mount HUD, Config Manager, Crash Assistant, Dynamic FPS, Entity Model Features, Entity Texture Features, Fabric API, Fabric Capes, FerriteCore, Forge Config API Port, Iris Shaders, Language Reload, LambDynamicLights, Lithium, Mod Menu, More Chat History, Remove Reloading Screen, Skyboxify, Sodium
 - Temporarily added Fast Better Grass
 - Hid confusing submodules from Mod Menu
-- Hid a confusing log error
+- Hid a confusing log warning
 - Removed MixinTrace, Reese's Sodium Options - should be no longer needed
 - Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, Main Menu Credits, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Sodium Shadowy Path Blocks, YetAnotherConfigLib, Zoomify
 
