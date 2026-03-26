@@ -33,7 +33,7 @@ Changes:
 - Hid confusing submodules from Mod Menu
 - Hid a confusing log warning
 - Removed MixinTrace, Reese's Sodium Options - should be no longer needed
-- Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, Main Menu Credits, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Sodium Shadowy Path Blocks, YetAnotherConfigLib, Zoomify
+- Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, Main Menu Credits, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Sodium Shadowy Path Blocks, Zoomify
 
 # Mounts of Mayhem (12.x.x)
 
