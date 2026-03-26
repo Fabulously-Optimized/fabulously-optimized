@@ -10,6 +10,13 @@ Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, m
 - Any worlds that are upgraded to 26.1 cannot be downgraded, backups are recommended.
 - Java 25 is required, which most launchers handle automatically.
 
+### 13.0.0-alpha.2 (2026-03-26)
+
+- Readded Main Menu Credits, Puzzle, YetAnotherConfigLib
+- Updated Entity Model Features, Entity Texture Features, Fabric API, Iris Shaders, Mod Menu
+- Version number is shown on title screen again, it can be clicked and hovered
+- Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Sodium Extra, Sodium Shadowy Path Blocks, YetAnotherConfigLib, Zoomify
+
 ### 13.0.0-alpha.1 (2026-03-25)
 
 Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, meaning that even the smallest mods need an update now.
@@ -24,6 +31,7 @@ Changes:
 - Updated Better Mount HUD, Config Manager, Crash Assistant, Dynamic FPS, Entity Model Features, Entity Texture Features, Fabric API, Fabric Capes, FerriteCore, Forge Config API Port, Iris Shaders, Language Reload, LambDynamicLights, Lithium, Mod Menu, More Chat History, Remove Reloading Screen, Skyboxify, Sodium
 - Temporarily added Fast Better Grass
 - Hid confusing submodules from Mod Menu
+- Hid a confusing log error
 - Removed MixinTrace, Reese's Sodium Options - should be no longer needed
 - Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, Main Menu Credits, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Sodium Extra, Sodium Shadowy Path Blocks, YetAnotherConfigLib, Zoomify
 
