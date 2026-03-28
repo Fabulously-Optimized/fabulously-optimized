@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f65170bc3de790201f9b54b9c1168489bf531a01178c984d448d676d0486f75b"
+hash = "268408dc9d97a83f3eb1eacaa3e06aa019d9bae65b47c70afb3e5811b3e4514a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ffeee1aae1737a5b91786239d8ef3fa68be8fd50accd360e6f1a91fcc8e72562"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "4f0ea627055f630cf3e879abe79b12c683e6d864e52ba51680f0317db04af2d0"
+hash = "296bd50bf44e1d174ce69d206c1d9d25f8c6b22772c044c68bb4c081dc160ca2"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
@@ -118,7 +114,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "6e8469361197ecbe8d927241869d7cb8d4bbf56f1338c8c5b5ad8e9eb415d0fe"
+hash = "268408dc9d97a83f3eb1eacaa3e06aa019d9bae65b47c70afb3e5811b3e4514a"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -134,7 +130,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "ffeee1aae1737a5b91786239d8ef3fa68be8fd50accd360e6f1a91fcc8e72562"
+hash = "3caffa5e47e313755bdf69b2ed01e32b4de711888391887ec76e6ebd5dae6cc0"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -211,17 +207,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "39e9d7d3db628cfb0053cfbc241fa1ca395610fdf2a7d99c4ec30e806093f501"
+hash = "312eab5c4497ec1a9338aadbc0aa6fb45b9d02082b531844a826850027e56b31"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "b64a255f5e2316b238effb7860cc0f443bc4ab910d70d3a053f1cc4e99b494d1"
+hash = "44ba0bc9228191fd8763f5ef75c38fd44ce15a341ceeee5a550f6c26d45f556b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40614d7facc611363952ae72790c70ecf67259c7e982946884922dbf37bd4d80"
+hash = "c8824d10dd57568ac59e86182f42136077c69357adae9be19cf25762c8a27763"
 metafile = true
 
 [[files]]
@@ -241,7 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "138d3ba73ecde053f63ff9b5a7d14b96cdaf77ce2587c5d0baabbcd155f6ee19"
+hash = "c220fd16ef3c55343b696bbe839e077a8627fe1d585d34748a7de18a632f1ef1"
+metafile = true
+
+[[files]]
+file = "mods/isxander-main-menu-credits.pw.toml"
+hash = "fa52391604a4a842667d3b8d86d02e32ffd9cffff91217de1a86cd56f6be386f"
 metafile = true
 
 [[files]]
@@ -261,12 +262,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "05cea7e970a6748af4bc1c2641e7e9c52afc272d8e7f62ea978858d74f6a6d68"
+hash = "3dbb01e5d2bc57e53a800648d4bdd6485129acb85fef876682d11a375bdc5f01"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "fb145a5aed9f1e44296a7a0b8c034f32a2712c03217e686c4874a2c443da0d23"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "ac0b47e2a640aa15df1093019d8b7cfeeaebe156a32293a28488c443fe12fc91"
 metafile = true
 
 [[files]]
@@ -282,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "bfbff35a7a772701210426fd8b09d211d93b4aaf4322d5a607565b558ed5107d"
+metafile = true
+
+[[files]]
+file = "mods/yet_another_config_lib_v3.pw.toml"
+hash = "b0b54800cff265a046b5a409b1658491cc231bb43162ffa3b4f90216e5d7a371"
 metafile = true
 
 [[files]]
