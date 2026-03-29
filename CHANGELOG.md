@@ -10,12 +10,25 @@ Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, m
 - Any worlds that are upgraded to 26.1 cannot be downgraded, backups are recommended.
 - Java 25 is required, which most launchers handle automatically.
 
+### 13.0.0-alpha.3 (2026-03-29)
+
+- Added Borderless Mining Updated - a smoother borderless windowed experience
+- Added Cape Provider - more flexibility and fixes for Capes mod
+- Removed Capes - replaced by Cape Provider
+- Readded Cloth Config, Entity Culling, ImmediatelyFast, MoreCulling, No Chat Reports, Sodium Extra
+- Updated Entity Model Features, Entity Texture Features, Crash Assistant, Dynamic FPS, Fabric Language Kotlin, Forge Config API Port, Lithium
+- Updated and enforced Fabric Loader 0.18.5
+- Updated translations in 9 languages
+- Hid a confusing log message
+- Minor updates to Crash Assistant config
+- Temporarily incompatible Animatica, BetterGrassify, Continuity, Controlify, Debugify, e4mc, Fabrishot, FastQuit, OptiGUI, Paginated Advancements, Polytone, Sodium Shadowy Path Blocks, Zoomify
+
 ### 13.0.0-alpha.2 (2026-03-26)
 
 - Readded Main Menu Credits, Puzzle, YetAnotherConfigLib
 - Updated Entity Model Features, Entity Texture Features, Fabric API, Iris Shaders, Mod Menu
 - Version number is shown on title screen again, it can be clicked and hovered
-- Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Sodium Extra, Sodium Shadowy Path Blocks, YetAnotherConfigLib, Zoomify
+- Temporarily incompatible Animatica, BetterGrassify, Cloth Config, Continuity, Controlify, Cubes Without Borders, Debugify, e4mc, Entity Culling, Fabrishot, FastQuit, ImmediatelyFast, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Sodium Extra, Sodium Shadowy Path Blocks, Zoomify
 
 ### 13.0.0-alpha.1 (2026-03-25)
 
