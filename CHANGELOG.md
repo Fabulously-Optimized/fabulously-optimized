@@ -39,6 +39,13 @@ Changes:
 
 ## 1.21.11
 
+### 12.0.8 (2026-03-29)
+
+- Updated Entity Model Features, Entity Texture Features, Crash Assistant, Entity Culling, Fabric Language Kotlin, Iris Shaders, Language Reload, Mod Menu, Polytone, Skyboxify, Sodium
+- Updated translations in 9 languages
+- Updated Fabric Loader to 0.18.5
+- Minor updates to Crash Assistant config
+
 ### 12.0.7 (2026-03-15)
 
 - Updated Lithium

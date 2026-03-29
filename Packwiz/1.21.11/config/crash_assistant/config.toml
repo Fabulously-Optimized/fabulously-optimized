@@ -46,6 +46,9 @@
 	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
 	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
 	generate_own_launcher_log = true
+	#If true, if we can find win_event file after minecraft closed, pop ups.
+	#Can be false positive for some users, since they can have some unrelated spam in the windows event error log.
+	win_event_is_crash = false
 	#Here you can change priority for logs.
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
@@ -252,7 +255,7 @@
 	enabled = true
 	#Delay in seconds for the OK button when piracy warning is shown.
 	#Set to 0 or -1 to disable the delay.
-	delay = 10
+	delay = 30
 
 [greeting]
 	#You don't need to touch this option.
@@ -269,6 +272,10 @@
 	ide_enabled = false
 	#By changing this value you can disable creating "scripts" folder and placing example scripts there.
 	generate_scripts_folder_with_example = false
+	#If enabled, "logs/crash_assistant/startup_scripts.log" is added to the logs list only when it contains [ERROR].
+	#If it has no errors, its contents are written into "crash_assistant_app.log" instead.
+	#If app logging is disabled, the startup scripts log is kept as a separate log file.
+	attach_startup_scripts_log_only_on_error = true
 
 #You can customise GUI with this options.
 [gui_customisation]
@@ -306,7 +313,13 @@
 	auto_fix_button_font_size = 14
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
 	#Default for this button is "0_178_0" (dark green color).
-	auto_fix_button_foreground_color = "0_178_0"
+	auto_fix_button_foreground_color = "0_87_0"
+	#Same as upload_all_button_foreground_color, but for the Yes button in the privacy policy acceptance dialog.
+	#Default for this button is "0_178_0" (dark green color).
+	privacy_policy_yes_button_foreground_color = "0_0_0"
+	#Same as upload_all_button_foreground_color, but for the No button in the privacy policy acceptance dialog.
+	#Default for this button is "255_0_0" (red color).
+	privacy_policy_no_button_foreground_color = "0_0_0"
 	#Color of the animated border for the screenshot notice.
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color.
 	#Default for this is "255_0_0" (red color).
