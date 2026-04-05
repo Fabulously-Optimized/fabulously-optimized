@@ -3,6 +3,20 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Tiny Takeover (13.x.x)
 
+## 26.1.1
+
+### 13.1.0-alpha.1 (2026-04-05)
+
+- Readded BetterGrassify, Controlify, OptiGUI, Sodium Shadowy Path Blocks, Zoomify
+- Updated Borderless Mining Updated, Fabric API, Forge Config API Port, ImmediatelyFast, Iris Shaders, Lithium, Remove Reloading Screen, Sodium, Sodium Extra, YetAnotherConfigLib
+- Removed Fast Better Grass as BetterGrassify was readded
+- Updated translations in 3 languages
+- Updated and enforced Fabric Loader to 0.18.6
+- Removed an unnecessary json file from Modrinth version resourcepacks folder
+- In testing: Borderless Mining Updated, Cape Provider
+- Temporarily force-enabled: Entity Culling, Skyboxify
+- Temporarily incompatible: Animatica, Continuity, Debugify, e4mc, Fabrishot, FastQuit, Paginated Advancements, Polytone
+
 ## 26.1
 
 Minecraft 26.1 has one of the biggest technical changes to Minecraft in years, meaning that even the smallest mods need an update now.
