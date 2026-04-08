@@ -5,6 +5,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.1
 
+### 13.1.0-alpha.2 (2026-04-08)
+
+- Readded Continuity
+- Updated Fabric API, LambDynamicLights, MoreCulling
+- Temporarily removed Controlify due to crashes for some users
+- Skipped Skyboxify update due to a crash
+- Updated Simplified Chinese translation
+- In testing: Borderless Mining Updated, Cape Provider
+- Temporarily force-enabled: Entity Culling, Skyboxify
+- Temporarily incompatible: Animatica, Controlify, Debugify, e4mc, Fabrishot, FastQuit, Paginated Advancements, Polytone
+
 ### 13.1.0-alpha.1 (2026-04-05)
 
 - Readded BetterGrassify, Controlify, OptiGUI, Sodium Shadowy Path Blocks, Zoomify
