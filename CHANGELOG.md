@@ -3,6 +3,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 # Tiny Takeover (13.x.x)
 
+## 26.1.2
+
+### 13.2.0-alpha.1 (2026-04-09)
+
+- Updated Entity Culling, Lithium
+- In testing: Borderless Mining Updated, Cape Provider
+- Temporarily force-enabled: ImmediatelyFast, Skyboxify
+- Temporarily incompatible: Animatica, Controlify, Debugify, e4mc, Fabrishot, FastQuit, Paginated Advancements, Polytone
+
 ## 26.1.1
 
 ### 13.1.0-alpha.2 (2026-04-08)
