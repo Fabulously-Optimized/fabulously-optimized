@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-alpha.2 (2026-04-12)
+
+- Readded Controlify, Debugify
+- Updated Cape Provider, Continuity, Crash Assistant, ImmediatelyFast, Lithium, Sodium Extra
+- Cleaned some old mod configs (applies only for new instances)
+- Minor Crash Assistant adjustments
+- In testing: Borderless Mining Updated, Cape Provider
+- Temporarily force-enabled: Skyboxify
+- Temporarily incompatible: Animatica, e4mc, Fabrishot, FastQuit, Paginated Advancements, Polytone
+
 ### 13.2.0-alpha.1 (2026-04-09)
 
 - Updated Entity Culling, Lithium

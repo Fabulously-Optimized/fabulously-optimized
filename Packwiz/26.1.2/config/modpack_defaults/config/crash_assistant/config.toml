@@ -46,7 +46,7 @@
 	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
 	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
 	generate_own_launcher_log = true
-	#If true, if we can find win_event file after minecraft closed, pop ups.
+	#If true, Crash Assistant will pop up even if the presence of win_event log is the only sign of a crash.
 	#Can be false positive for some users, since they can have some unrelated spam in the windows event error log.
 	win_event_is_crash = false
 	#Here you can change priority for logs.
@@ -255,7 +255,7 @@
 	enabled = true
 	#Delay in seconds for the OK button when piracy warning is shown.
 	#Set to 0 or -1 to disable the delay.
-	delay = 30
+	delay = 0
 
 [greeting]
 	#You don't need to touch this option.
