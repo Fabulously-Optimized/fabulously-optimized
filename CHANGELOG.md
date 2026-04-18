@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-alpha.3 (2026-04-18)
+
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Cape Provider, Fabric API, Remove Reloading Screen, Skyboxify
+- Updated and enforced Fabric Loader 0.19.2
+- Updated Hebrew translations
+- In testing: Borderless Mining Updated, Cape Provider
+- Temporarily incompatible: Animatica, e4mc, Fabrishot, FastQuit, Paginated Advancements, Polytone
+
 ### 13.2.0-alpha.2 (2026-04-12)
 
 - Readded Controlify, Debugify
