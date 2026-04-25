@@ -20,7 +20,7 @@ jobs:
            latest: true
            tarBall: false
            zipBall: false
-           preRelease: true
+           preRelease: false
 
        - name: Publish to CurseForge
          uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
