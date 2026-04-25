@@ -5,6 +5,17 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-beta.1 (2026-04-25)
+
+- Added Better Block Entities - improves the performance of block entities like chests, signs, beds, etc.
+- Added Ixeris - keeps FPS stable while you turn your camera (point of view)
+- Readded e4mc, Fabrishot, Paginated Advancements
+- Updated BetterGrassify, Fabric Language Kotlin, LambDynamicLights, Lithium
+- Enabled macOS and Linux support for Borderless Mining Updated
+- Applied changes from version 12.1.0
+- In testing: Better Block Entities, Borderless Mining Updated, Ixeris
+- Temporarily incompatible: Animatica, FastQuit, Polytone
+
 ### 13.2.0-alpha.3 (2026-04-18)
 
 - Updated Entity Model Features, Entity Texture Features, BetterGrassify, Cape Provider, Fabric API, Remove Reloading Screen, Skyboxify
