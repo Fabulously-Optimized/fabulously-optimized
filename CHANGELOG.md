@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-beta.2 (2026-04-25)
+
+- Explicitly marked Cubes Without Borders as incompatible with Borderless Mining
+- Updated Estonian translation
+- In testing: Better Block Entities, Borderless Mining Updated, Ixeris
+- Temporarily incompatible: Animatica, FastQuit, Polytone
+
 ### 13.2.0-beta.1 (2026-04-25)
 
 - Added Better Block Entities - improves the performance of block entities like chests, signs, beds, etc.
