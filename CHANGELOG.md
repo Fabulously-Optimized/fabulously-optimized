@@ -115,6 +115,12 @@ Changes:
 
 ## 1.21.11
 
+### 12.1.1 (2026-04-25)
+
+- Updated Fabric Language Kotlin, Polytone
+  - Hopefully works around the crashes some users have been having
+- Explicitly marked Cubes Without Borders as incompatible with Borderless Mining
+
 ### 12.1.0 (2026-04-25)
 
 - Added Cape Provider - more flexibility and fixes for Capes mod
