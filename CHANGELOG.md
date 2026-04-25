@@ -104,6 +104,15 @@ Changes:
 
 ## 1.21.11
 
+### 12.1.0 (2026-04-25)
+
+- Added Cape Provider - more flexibility and fixes for Capes mod
+- Removed Capes - replaced by Cape Provider
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Crash Assistant, Debugify, Dynamic FPS, e4mc, Entity Culling, OptiGUI, Polytone
+- Updated Crash Assistant config, enabled its log
+- Updated translations
+- Updated and enforced Fabric Loader 0.19.2
+
 ### 12.0.8 (2026-03-29)
 
 - Updated Entity Model Features, Entity Texture Features, Crash Assistant, Entity Culling, Fabric Language Kotlin, Iris Shaders, Language Reload, Mod Menu, Polytone, Skyboxify, Sodium

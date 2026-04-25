@@ -41,7 +41,7 @@
 	#Prevents creating "crash_assistant" folder in the logs folder.
 	#So this option prevents our app logging at all.
 	#HIGHLY UNRECOMMENDED to disable! Contains many useful info.
-	prevent_generating_crash_assistant_app_logs = true
+	prevent_generating_crash_assistant_app_logs = false
 	#Generates "logs/stderr_stream.log" with stderr stream.
 	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
 	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
@@ -55,7 +55,7 @@
 	#Usage: ["CRASH_REPORT", "LOG"]
 	logs_priority_overrides = ["CRASH_REPORT", "STDERR_STREAM", "WIN_EVENT", "HS_ERR", "LOG", "DEBUG_LOG", "LAUNCHER_LOG", "MOD_LIST"]
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
-	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
+	blacklisted_logs = ["PrismLauncher-", "MultiMC-", "session_"]
 
 #A simplified GUI that hides the logs list until the user opts into Expert Mode.
 [simple_mode]
@@ -255,7 +255,7 @@
 	enabled = true
 	#Delay in seconds for the OK button when piracy warning is shown.
 	#Set to 0 or -1 to disable the delay.
-	delay = 30
+	delay = 0
 
 [greeting]
 	#You don't need to touch this option.
