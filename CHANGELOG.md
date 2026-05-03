@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-beta.3 (2026-05-03)
+
+- Temporarily removed Controlify due to compatibility issue
+- Updated Entity Model Features, Better Block Entities, Cape Provider, Fabric API, Forge Config API Port, Ixeris, MoreCulling, Skyboxify, Sodium, YetAnotherConfigLib
+- Disabled banner optimizations in Better Block Entities as it prevented banner animations too
+- Disabled sign text optimizations in More Culling as it is now also provided by Better Block Entities
+- Updated Italian, Malay (Latin and Jawi), Chinese Simplified translations
+- In testing: Better Block Entities, Borderless Mining Updated, Ixeris
+- Temporarily incompatible: Animatica, Controlify, FastQuit, Polytone
+
 ### 13.2.0-beta.2 (2026-04-25)
 
 - Explicitly marked Cubes Without Borders as incompatible with Borderless Mining
