@@ -5,6 +5,18 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-beta.4 (2026-05-09)
+
+- Added Animatica Refabricated - a fork of Animatica with same features
+- Added Cubes Without Borders - returned the previous mod
+- Updated Cape Provider, Crash Assistant, Entity Culling, Fabric API, Sodium
+- Removed Borderless Mining Updated - testing concluded and the mod will not be added at this time
+- Some users were getting crashes where a crashlog failed to create - this should now be fixed
+- Fixed two mod names and borderless fullscreen tooltip in Mod Menu Helper
+- Updated Romanian translations
+- In testing: Animatica Refabricated, Better Block Entities, Ixeris
+- Temporarily incompatible: Controlify, FastQuit, Polytone
+
 ### 13.2.0-beta.3 (2026-05-03)
 
 - Temporarily removed Controlify due to compatibility issue
