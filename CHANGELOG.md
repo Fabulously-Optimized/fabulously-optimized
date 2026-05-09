@@ -132,6 +132,12 @@ Changes:
 
 ## 1.21.11
 
+### 12.1.2 (2026-05-09)
+
+- Updated Entity Model Features, Crash Assistant, Entity Culling, Polytone, Skyboxify, Sodium
+- Some users were getting crashes where a crashlog failed to create - this should now be fixed
+- Updated Italian, Malay (Latin and Jawi), Chinese Simplified, Romanian translations
+
 ### 12.1.1 (2026-04-25)
 
 - Updated Fabric Language Kotlin, Polytone

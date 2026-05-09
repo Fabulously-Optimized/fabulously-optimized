@@ -46,7 +46,7 @@
 	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
 	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
 	generate_own_launcher_log = true
-	#If true, if we can find win_event file after minecraft closed, pop ups.
+	#If true, Crash Assistant will pop up even if the presence of win_event log is the only sign of a crash.
 	#Can be false positive for some users, since they can have some unrelated spam in the windows event error log.
 	win_event_is_crash = false
 	#Here you can change priority for logs.
@@ -369,4 +369,11 @@
 [debug]
 	#Debug option to crash immediately after Crash Assistant launched its process to conveniently debug it, configure it without need to manually crash.
 	crash_after_init = false
+
+#Options to configure patches made by Crash Assistant.
+[patches]
+	#Fixes vanilla crash MC-307905 during crash report generation when StackTraceElement#getFileName() returns null.
+	#Without this fix, crash report generation itself crashes under some rare conditions, preventing the original crash report from being created.
+	#This patch does not change the report contents; it only allows the crash report to be generated successfully.
+	MC307905 = true
 
