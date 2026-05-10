@@ -15,12 +15,12 @@ jobs:
     name: Git Repo Sync - BitBucket
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # 6.0.0
+      uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
       with:
         fetch-depth: 0
         persist-credentials: false
     - name: Synchronize code to other Git platforms
-      uses: wangchucheng/git-repo-sync@63782025e80e84c48b25a1ee6bb9a22a3bd570d3 # 0.1.0
+      uses: wangchucheng/git-repo-sync@63782025e80e84c48b25a1ee6bb9a22a3bd570d3 # v0.1.0
       with:
         target-url: ${{ secrets.BITBUCKET_GIT }}
         target-username: ${{ secrets.BITBUCKET_USERNAME }}

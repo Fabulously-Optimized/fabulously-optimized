@@ -9,11 +9,10 @@ jobs:
     timeout-minutes: 30
     environment: github-actions
     permissions:
-      id-token: write
       contents: write
     steps:
        - name: Download pack files
-         uses: robinraju/release-downloader@daf26c55d821e836577a15f77d86ddc078948b05 # 1.12
+         uses: robinraju/release-downloader@28fc21f50d76778e7023361aa1f863e717d3d56f # v1.13
          id: download-files
          with:
            fileName: "*.zip"
@@ -23,7 +22,7 @@ jobs:
            preRelease: true
 
        - name: Publish to CurseForge
-         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
+         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # v3.3.0
          with:
            name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
            curseforge-id: 396246
@@ -38,16 +37,17 @@ jobs:
     timeout-minutes: 30
     environment: github-actions
     permissions:
-      id-token: write
       attestations: write
+      artifact-metadata: write
       contents: write
+      id-token: write
     steps:
        - name: Checkout Repository
-         uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # 6.0.0
+         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
          with:
            persist-credentials: false
        - name: Download packwiz
-         uses: actions/download-artifact@018cc2cf5baa6db3ef3c5f8a56943fffe632ef53 # 6.0.0
+         uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
          with:
            name: "Linux 64-bit x86"
            github-token: ${{ secrets.GH_PAT }}
@@ -63,7 +63,7 @@ jobs:
            VARS_MC_VERSION: ${{ vars.MC_VERSION }}
        - name: Attest mrpack
          id: attest-mrpack
-         uses: actions/attest-build-provenance@977bb373ede98d70efdf65b84cb5f73e068dcc2a # 3.0.0
+         uses: actions/attest-build-provenance@a2bbfa25375fe432b6a289bc6b6cd05ecd0c4c32 # v4.1.0
          with:
           subject-path: Fabulously.Optimized-${{ github.ref_name }}.mrpack
        - name: Copy and zip attestation
@@ -73,7 +73,7 @@ jobs:
          env:
            STEPS_ATTEST_MRPACK_OUTPUTS_BUNDLE_PATH: ${{ steps.attest-mrpack.outputs.bundle-path }}
        - name: Publish to Modrinth
-         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # 3.3.0
+         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # v3.3.0
          with:
            name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
            modrinth-id: 1KVo5zza
@@ -85,7 +85,7 @@ jobs:
            loaders: fabric
            game-versions: ${{ vars.MC_VERSION }}
        - name: Upload to Github
-         uses: Shopify/upload-to-release@c77c9b3e5d288adaef98a7007bf92340ec6ce03b # 2.0.0
+         uses: Shopify/upload-to-release@c77c9b3e5d288adaef98a7007bf92340ec6ce03b # v2.0.0
          with:
            name: Fabulously.Optimized-${{ github.ref_name }}.mrpack
            path: Fabulously.Optimized-${{ github.ref_name }}.mrpack
