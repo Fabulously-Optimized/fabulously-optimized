@@ -1,12 +1,18 @@
 import shutil
+import sys
 from pathlib import Path
-
 
 minecraft_version = "26.1.2"
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 packwiz_path = git_path / "Packwiz" / minecraft_version
-cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
-mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/minecraft/"
+
+macos = sys.platform == "darwin"
+if macos:
+    cf_path = Path.home() / "Documents/curseforge/minecraft/Instances/Fabulously Optimized"
+    mmc_path = Path.home() / "Documents/PrismLauncher/instances/Fabulously Optimized/minecraft/"
+else:
+    cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
+    mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/minecraft/"
 
 
 def remove_dir(path: Path, description: str) -> None:

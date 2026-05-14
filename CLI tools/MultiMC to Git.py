@@ -1,10 +1,15 @@
 import re
+import sys
 import shutil
 import zipfile
 from pathlib import Path
 
+macos = sys.platform == "darwin"
+if macos:
+    mmc_path = Path.home() / "Documents/PrismLauncher/instances/Fabulously Optimized/"
+else:
+    mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/"
 
-mmc_path = Path.home() / "Documents/MultiMC/instances/Fabulously Optimized/"
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 output_path = Path.home() / "Desktop/"
 
@@ -36,9 +41,13 @@ def copy_to_archive(from_path: Path, to_path: str, archive_path: Path) -> None:
 version = "0.0.0"
 pattern = re.compile(r"\d+\.\d+\.\d+-?\w*\.?\d*")
 
-with open(mmc_path / "instance.cfg", "r") as file:
-    if match := pattern.search(file.read()):
-        version = match.group()
+with open(mmc_path / "instance.cfg", "r", encoding="utf-8") as file:
+    for line in file:
+        if line.startswith("name="):
+            name_value = line.split("=", 1)[1].strip()
+            if match := pattern.search(name_value):
+                version = match.group()
+            break
 
 with open(git_path / "MultiMC/Fabulously Optimized x.y.z/instance.cfg", "r+") as file:
     data = pattern.sub(version, file.read())
@@ -59,9 +68,18 @@ copy_file(
     "Git",
 )
 
-copy_file(
-    mmc_path / "pack.png",
-    git_path / "MultiMC/Fabulously Optimized x.y.z/pack.png",
-    "MultiMC pack.png",
-    "Git",
-)
+if macos:
+    copy_file(
+        mmc_path / "modrinth_fabulously-optimized.webp",
+        git_path / "MultiMC/Fabulously Optimized x.y.z/pack.webp",
+        "Prism pack.webp",
+        "Git",
+    )
+else:
+    copy_file(
+        mmc_path / "pack.png",
+        git_path / "MultiMC/Fabulously Optimized x.y.z/pack.png",
+        "MultiMC pack.png",
+        "Git",
+    )
+
