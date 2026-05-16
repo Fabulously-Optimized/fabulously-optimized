@@ -1,9 +1,15 @@
-import json, shutil
+import json
+import shutil
+import sys
 from pathlib import Path
 
+macos = sys.platform == "darwin"
+if macos:
+    cf_path = Path.home() / "Documents/curseforge/minecraft/Instances/Fabulously Optimized"
+else:
+    cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
 
-mmc_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
-config_root = mmc_path / "config/"
+config_root = cf_path / "config/"
 title_screen_name = "isxander-main-menu-credits.json"
 title_screen_path = config_root / title_screen_name
 overrides_name = "fabric_loader_dependencies.json"
