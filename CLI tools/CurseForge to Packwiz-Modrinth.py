@@ -25,16 +25,13 @@ else:
 mods_path = packwiz_path / "mods"
 packwiz_manifest = "pack.toml"
 
-cf_zip_path = ""
-pack_version = ""
-
 refresh_only = False
 is_legacy = False
 modrinth_overrides = True
 
 mmc_export_packwiz_export = True
 mmc_export_modrinth_export = False
-purge_cache = True
+purge_cache = False
 
 packwiz_modrinth_export = True
 manual_jar_removal = False
@@ -84,18 +81,15 @@ def remove_mod_from_archive(mod_name: str, archive_path: str) -> None:
                     return
 
 
-def subprocess_call(args, shell):
-    #print("debug: " + str(args))
-
-    if macos and shell:
-        return subprocess.call(shlex.join(args), shell=True)
-    return subprocess.call(args, shell=shell)
+def run_shell_command(args):
+    #print("debug:", args)
+    return subprocess.run(list(args), shell=False).returncode
 
 def main():
     mod_files = [p.name for p in Path(mods_path).iterdir()]
 
     if refresh_only:
-        subprocess_call(f"{packwiz_exe_path} refresh", shell=True)
+        run_shell_command([str(packwiz_exe_path), "refresh"])
         return
 
     for item in mod_files:
@@ -119,10 +113,10 @@ def main():
             toml.dump(pack_toml, f)
 
         # Packwiz import
-        subprocess_call(f'{packwiz_exe_path} curseforge import "{cf_zip_path}"', shell=True)
+        run_shell_command([str(packwiz_exe_path), "curseforge", "import", str(cf_zip_path)])
         if modrinth_overrides:
-            subprocess_call(f"{packwiz_exe_path} remove entityculling", shell=True)
-            subprocess_call(f"{packwiz_exe_path} mr install entityculling", shell=True)
+            run_shell_command([str(packwiz_exe_path), "remove", "entityculling"])
+            run_shell_command([str(packwiz_exe_path), "mr", "install", "entityculling"])
 
     # Copy fresh manifest/modlist to git
     if not is_legacy:
@@ -130,7 +124,7 @@ def main():
         extract_file(cf_zip_path, "modlist.html", str(git_path / "CurseForge"), "CurseForge modlist.html", "Git")
 
     if (mmc_export_packwiz_export or mmc_export_modrinth_export) and macos and purge_cache: # For some reason the macos environment needs purging cache more often
-        subprocess_call(f"{mmc_export_path} purge-cache", shell=True)
+        run_shell_command([str(mmc_export_path), "purge-cache"])
 
     # Export Packwiz pack via mmc-export method
     if mmc_export_packwiz_export:
@@ -148,7 +142,7 @@ def main():
             "--provider-priority", "Modrinth", "CurseForge", "Other",
             "--scheme", "mmc_export_packwiz_output"
         )
-        subprocess_call(args, shell=True)
+        run_shell_command(args)
 
         packwiz_zip_path = Path(mmc_zip_root) / "mmc_export_packwiz_output.zip"
         packwiz_out_path = Path(git_path) / "Packwiz" / minecraft_version
@@ -171,7 +165,7 @@ def main():
             "-v", pack_version,
             "--scheme", "{name}-{version}",
         )
-        subprocess_call(args, shell=True)
+        run_shell_command(args)
 
         if not is_legacy:
             extract_file(
@@ -184,7 +178,7 @@ def main():
 
     # Export Modrinth pack and manifest via Packwiz method
     if packwiz_modrinth_export:
-        subprocess_call(f"{packwiz_exe_path} modrinth export", shell=True)
+        run_shell_command([str(packwiz_exe_path), "modrinth", "export"])
         for pack in os.listdir(packwiz_path):
             if pack.endswith(".mrpack"):
                 if not is_legacy:
@@ -197,7 +191,7 @@ def main():
                     )
                 (Path(packwiz_path) / pack).replace(Path.home() / "Desktop" / pack)
                 print(f"Moved {pack} to desktop")
-        subprocess_call(f"{packwiz_exe_path} refresh", shell=True)
+        run_shell_command([str(packwiz_exe_path), "refresh"])
 
     if manual_jar_removal:
         mmc_zip_root = Path(cf_zip_path).parent
