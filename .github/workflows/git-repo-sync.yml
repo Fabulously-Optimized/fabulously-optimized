@@ -20,8 +20,8 @@ jobs:
         fetch-depth: 0
         persist-credentials: false
     - name: Synchronize code to other Git platforms
-      uses: wangchucheng/git-repo-sync@63782025e80e84c48b25a1ee6bb9a22a3bd570d3 # v0.1.0
+      uses: jauderho/git-repo-sync@6142c9cd8960dadc57d1190506d6c35ac5cee660 # v0.3.0
       with:
         target-url: ${{ secrets.BITBUCKET_GIT }}
         target-username: ${{ secrets.BITBUCKET_USERNAME }}
-        target-token: ${{ secrets.BITBUCKET_TOKEN }}
+        target-token: ${{ secrets.BITBUCKET_API_TOKEN }}
