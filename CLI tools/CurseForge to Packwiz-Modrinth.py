@@ -12,18 +12,17 @@ from shutil import unpack_archive
 macos = sys.platform == "darwin"
 minecraft_version = "26.1.2"
 
-user_path = os.path.expanduser("~")
-git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
-packwiz_path = git_path + "Packwiz/" + minecraft_version + "/"
+git_path = Path.home() / "Documents/GitHub/fabulously-optimized"
+packwiz_path = git_path / "Packwiz" / minecraft_version
 
 if macos:
-    packwiz_exe_path = git_path + "Packwiz/packwiz"
-    mmc_export_path = git_path + ".venv/bin/mmc-export"
+    packwiz_exe_path = git_path / "Packwiz/packwiz"
+    mmc_export_path = git_path / ".venv/bin/mmc-export"
 else:
-    packwiz_exe_path = os.path.join("..", "packwiz.exe")
-    mmc_export_path = "mmc-export"
+    packwiz_exe_path = Path("..") / "packwiz.exe"
+    mmc_export_path = Path("mmc-export")
 
-mods_path = packwiz_path + "mods"
+mods_path = packwiz_path / "mods"
 packwiz_manifest = "pack.toml"
 
 cf_zip_path = ""
@@ -32,8 +31,11 @@ pack_version = ""
 refresh_only = False
 is_legacy = False
 modrinth_overrides = True
+
 mmc_export_packwiz_export = True
 mmc_export_modrinth_export = False
+purge_cache = False
+
 packwiz_modrinth_export = True
 manual_jar_removal = False
 
@@ -88,14 +90,14 @@ def subprocess_call(args, shell):
     return subprocess.call(args, shell=shell)
 
 def main():
-    mod_files = os.listdir(mods_path)
+    mod_files = [p.name for p in Path(mods_path).iterdir()]
 
     if refresh_only:
         subprocess_call(f"{packwiz_exe_path} refresh", shell=True)
         return
 
     for item in mod_files:
-        os.remove(os.path.join(mods_path, item))
+        (Path(mods_path) / item).unlink()
 
     os.chdir(packwiz_path)
     # Slicing: Windows removes leading '& "' and trailing '"' ; macOS removes only ' from start and end
@@ -119,28 +121,28 @@ def main():
 
     # Copy fresh manifest/modlist to git
     if not is_legacy:
-        extract_file(cf_zip_path, "manifest.json", git_path + "CurseForge", "CurseForge manifest.json", "Git")
-        extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
+        extract_file(cf_zip_path, "manifest.json", str(git_path / "CurseForge"), "CurseForge manifest.json", "Git")
+        extract_file(cf_zip_path, "modlist.html", str(git_path / "CurseForge"), "CurseForge modlist.html", "Git")
 
-    if (mmc_export_packwiz_export or mmc_export_modrinth_export) and macos: # For some reason the macos environment needs purging cache more often
+    if (mmc_export_packwiz_export or mmc_export_modrinth_export) and macos and purge_cache: # For some reason the macos environment needs purging cache more often
         args = (
-            mmc_export_path, "purge-cache"
+            str(mmc_export_path), "purge-cache"
         )
         subprocess_call(args, shell=True)
 
     # Export Packwiz pack via mmc-export method
     if mmc_export_packwiz_export:
-        mmc_zip_root = str(Path(cf_zip_path).parents[0])
-        mmc_zip_path = mmc_zip_root + "/Fabulously Optimized " + pack_version + ".zip"
-        packwiz_config = git_path + "Packwiz/mmc-export.toml"
+        mmc_zip_root = Path(cf_zip_path).parent
+        mmc_zip_path = mmc_zip_root / f"Fabulously Optimized {pack_version}.zip"
+        packwiz_config_path = git_path / "Packwiz/mmc-export.toml"
 
         args = (
-            mmc_export_path,
-            "-i", mmc_zip_path,
+            str(mmc_export_path),
+            "-i", str(mmc_zip_path),
             "-f", "packwiz",
             "--modrinth-search", "loose",
-            "-o", mmc_zip_root,
-            "-c", packwiz_config,
+            "-o", str(mmc_zip_root),
+            "-c", str(packwiz_config_path),
             "-v", pack_version,
             "--exclude-providers", "GitHub", # Currently not needed to use GitHub
             "--provider-priority", "Modrinth", "CurseForge", "Other",
@@ -157,17 +159,17 @@ def main():
 
     # Export Modrinth pack and manifest via mmc-export method
     if mmc_export_modrinth_export:
-        mmc_zip_root = str(Path(cf_zip_path).parents[0])
-        mmc_zip_path = mmc_zip_root + "/Fabulously Optimized " + pack_version + ".zip"
-        modrinth_config = git_path + "Modrinth/mmc-export.toml"
+        mmc_zip_root = Path(cf_zip_path).parent
+        mmc_zip_path = mmc_zip_root / f"Fabulously Optimized {pack_version}.zip"
+        modrinth_config_path = git_path / "Modrinth/mmc-export.toml"
 
         args = (
-            mmc_export_path,
-            "-i", mmc_zip_path,
+            str(mmc_export_path),
+            "-i", str(mmc_zip_path),
             "-f", "Modrinth",
             "--modrinth-search", "loose",
-            "-o", mmc_zip_root,
-            "-c", modrinth_config,
+            "-o", str(mmc_zip_root),
+            "-c", str(modrinth_config_path),
             "-v", pack_version,
             "--scheme", "{name}-{version}",
         )
@@ -175,9 +177,9 @@ def main():
 
         if not is_legacy:
             extract_file(
-                mmc_zip_root + "/Fabulously Optimized-" + pack_version + ".mrpack",
+                str(mmc_zip_root / f"Fabulously Optimized-{pack_version}.mrpack"),
                 "modrinth.index.json",
-                git_path + "/" + "Modrinth",
+                str(Path(git_path) / "Modrinth"),
                 "Modrinth manifest",
                 "Git",
             )
@@ -189,19 +191,19 @@ def main():
             if pack.endswith(".mrpack"):
                 if not is_legacy:
                     extract_file(
-                        packwiz_path + "/" + pack,
+                        str(Path(packwiz_path) / pack),
                         "modrinth.index.json",
-                        git_path + "/" + "Modrinth",
+                        str(Path(git_path) / "Modrinth"),
                         "Modrinth manifest",
                         "Git",
                     )
-                os.replace(packwiz_path + "/" + pack, os.path.expanduser("~/Desktop") + "/" + pack)
+                (Path(packwiz_path) / pack).replace(Path.home() / "Desktop" / pack)
                 print(f"Moved {pack} to desktop")
         subprocess_call(f"{packwiz_exe_path} refresh", shell=True)
 
     if manual_jar_removal:
-        mmc_zip_root = str(Path(cf_zip_path).parents[0])
-        mmc_zip_path = mmc_zip_root + "/Fabulously Optimized " + pack_version + ".zip"
+        mmc_zip_root = Path(cf_zip_path).parent
+        mmc_zip_path = mmc_zip_root / f"Fabulously Optimized {pack_version}.zip"
         #remove_mod_from_archive("Sodium", mmc_zip_path)
         #remove_mod_from_archive("Iris", mmc_zip_path)
 
