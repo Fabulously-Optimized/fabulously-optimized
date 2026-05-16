@@ -16,7 +16,6 @@ user_path = os.path.expanduser("~")
 git_path = user_path + "/Documents/GitHub/fabulously-optimized/"
 packwiz_path = git_path + "Packwiz/" + minecraft_version + "/"
 
-# Note that mmc_export seems to work best on Python 3.11.x
 if macos:
     packwiz_exe_path = git_path + "Packwiz/packwiz"
     mmc_export_path = git_path + ".venv/bin/mmc-export"
@@ -36,7 +35,7 @@ modrinth_overrides = True
 mmc_export_packwiz_export = True
 mmc_export_modrinth_export = False
 packwiz_modrinth_export = True
-
+manual_jar_removal = False
 
 def extract_file(from_zip: str, from_file: str, to_path: str, from_desc: str, to_desc: str) -> None:
     with ZipFile(from_zip, "r") as archive:
@@ -123,6 +122,12 @@ def main():
         extract_file(cf_zip_path, "manifest.json", git_path + "CurseForge", "CurseForge manifest.json", "Git")
         extract_file(cf_zip_path, "modlist.html", git_path + "CurseForge", "CurseForge modlist.html", "Git")
 
+    if (mmc_export_packwiz_export or mmc_export_modrinth_export) and macos: # For some reason the macos environment needs purging cache more often
+        args = (
+            mmc_export_path, "purge-cache"
+        )
+        subprocess_call(args, shell=True)
+
     # Export Packwiz pack via mmc-export method
     if mmc_export_packwiz_export:
         mmc_zip_root = str(Path(cf_zip_path).parents[0])
@@ -137,6 +142,7 @@ def main():
             "-o", mmc_zip_root,
             "-c", packwiz_config,
             "-v", pack_version,
+            "--exclude-providers", "GitHub", # Currently not needed to use GitHub
             "--provider-priority", "Modrinth", "CurseForge", "Other",
             "--scheme", "mmc_export_packwiz_output"
         )
@@ -193,10 +199,11 @@ def main():
                 print(f"Moved {pack} to desktop")
         subprocess_call(f"{packwiz_exe_path} refresh", shell=True)
 
-    mmc_zip_root = str(Path(cf_zip_path).parents[0])
-    mmc_zip_path = mmc_zip_root + "/Fabulously Optimized " + pack_version + ".zip"
-    #remove_mod_from_archive("Sodium", mmc_zip_path)
-    #remove_mod_from_archive("Iris", mmc_zip_path)
+    if manual_jar_removal:
+        mmc_zip_root = str(Path(cf_zip_path).parents[0])
+        mmc_zip_path = mmc_zip_root + "/Fabulously Optimized " + pack_version + ".zip"
+        #remove_mod_from_archive("Sodium", mmc_zip_path)
+        #remove_mod_from_archive("Iris", mmc_zip_path)
 
 
 if __name__ == "__main__":
