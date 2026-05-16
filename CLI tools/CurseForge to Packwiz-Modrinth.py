@@ -33,7 +33,7 @@ pack_version = ""
 refresh_only = False
 is_legacy = False
 modrinth_overrides = True
-mmc_export_packwiz_export = not macos # was True but mmc_export doesn't seem to work on macos
+mmc_export_packwiz_export = True
 mmc_export_modrinth_export = False
 packwiz_modrinth_export = True
 
@@ -95,7 +95,6 @@ def main():
         subprocess_call(f"{packwiz_exe_path} refresh", shell=True)
         return
 
-    # not refresh_only: continue normal flow
     for item in mod_files:
         os.remove(os.path.join(mods_path, item))
 
