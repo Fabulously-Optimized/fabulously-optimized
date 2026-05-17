@@ -5,6 +5,21 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-beta.5 (2026-05-17)
+
+- Readded Controlify
+  - Previous crash should be fixed
+- Updated Entity Model Features, Better Block Entities, Cubes Without Borders, Fabric API, Ixeris, Mod Menu, Sodium
+  - Sodium uses stable version again, was accidentally updated to beta in last version
+- Adjustments to Cubes Without Borders
+  - If using borderless and multiplayer, you can, if unfocused, observe gameplay without pausing
+  - F11 will prefer normal fullscreen on Windows and Mac by default
+  - Disabled Sodium Extra's Mac optimization as it caused a partially black screen, enabled CWB's one instead
+- Updated translations in 4 languages
+- Development environment has changed, let us know if there is something unexpected or missing
+- In testing: Animatica Refabricated, Better Block Entities, Ixeris
+- Temporarily incompatible: FastQuit, Polytone
+
 ### 13.2.0-beta.4 (2026-05-09)
 
 - Added Animatica Refabricated - a fork of Animatica with same features
