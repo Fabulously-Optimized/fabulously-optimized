@@ -31,7 +31,7 @@ modrinth_overrides = True
 
 mmc_export_packwiz_export = True
 mmc_export_modrinth_export = False
-purge_cache = False
+purge_cache = macos
 
 packwiz_modrinth_export = True
 manual_jar_removal = False
