@@ -5,6 +5,16 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0-beta.6 (2026-05-25)
+
+- Readded FastQuit
+- Readded Reese's Sodium Options - per user feedback and own evaluation, the mod will stay in the modpack
+- Updated Cubes Without Borders, Fabric API, Sodium
+  - macOS issues with disabling borderless fullscreen should now be fixed
+- Simulation distance is default set to 8 again per previous user feedback
+- In testing: Animatica Refabricated, Better Block Entities, Ixeris  
+- Temporarily incompatible: Polytone
+
 ### 13.2.0-beta.5 (2026-05-17)
 
 - Readded Controlify

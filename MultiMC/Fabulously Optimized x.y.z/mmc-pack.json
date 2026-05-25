@@ -2,15 +2,23 @@
     "components": [
         {
             "cachedName": "Minecraft",
-            "cachedRequires": [
-                {
-                    "suggests": "3.4.1",
-                    "uid": "org.lwjgl3"
-                }
-            ],
             "cachedVersion": "26.1.2",
             "important": true,
             "uid": "net.minecraft",
+            "version": "26.1.2"
+        },
+        {
+            "cachedName": "Intermediary Mappings",
+            "cachedRequires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "26.1.2",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "net.fabricmc.intermediary",
             "version": "26.1.2"
         },
         {
