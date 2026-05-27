@@ -169,6 +169,15 @@ Changes:
 
 ## 1.21.11
 
+### 12.2.0 (2026-05-27)
+
+- Added Better Block Entities - improves the performance of block entities like chests, signs, beds, etc.
+- Added Ixeris - keeps FPS stable while you turn your camera (point of view)
+- Updated Entity Model Features, Controlify, Fabric API, Polytone, Sodium
+- Increased default simulation distance from 6 to 8 again for more reliable mob spawning
+- Updated translations
+- Backported Crash Assistant config updates
+
 ### 12.1.2 (2026-05-09)
 
 - Updated Entity Model Features, Crash Assistant, Entity Culling, Polytone, Skyboxify, Sodium
