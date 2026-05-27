@@ -5,6 +5,33 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.0 (2026-05-27)
+
+Reminders:
+
+- Minecraft 26.1(.2) is technically a big update. Remember to _only_ use mods, resource packs, shaders and other content that are marked as compatible with 26.1.2. 
+- Any worlds that are upgraded to 26.1.2 cannot be downgraded - backups are recommended.
+- Java 25 is required, which most launchers, except MultiMC, handle automatically.
+
+Major changes:
+
+- Added Animatica Refabricated - a fork of Animatica with same features
+- Removed Animatica - not updated yet
+- Removed MixinTrace - should no longer be necessary
+- Removed Polytone - not updated yet
+- Applied optimizations for Cubes Without Borders
+  - If using borderless and multiplayer, you can, if unfocused, observe gameplay without pausing
+  - F11 will prefer normal fullscreen on Windows and Mac by default
+  - Disabled Sodium Extra's macOS resolution optimization as it caused a partially black screen, enabled CWB's one instead
+  - If your GPU driver crashes, the game will try to use borderless fullscreen instead of normal one
+
+Changes from 13.2.0-beta.6:
+
+- Updated Cubes Without Borders
+  - If your GPU driver fails on normal fullscreen, it will try to use borderless fullscreen instead
+- Clarified where the user can configure macOS resolution by adjusting MMH and video settings tooltip
+- Updated Estonian translation
+
 ### 13.2.0-beta.6 (2026-05-25)
 
 - Readded FastQuit
