@@ -1,1 +1,5 @@
 * text=auto eol=lf
+
+Packwiz/** text eol=crlf
+Packwiz/**/*.zip binary
+*.zip -text
