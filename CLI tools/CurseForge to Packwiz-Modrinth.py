@@ -19,13 +19,13 @@ if macos:
     packwiz_exe_path = git_path / "Packwiz/packwiz"
     mmc_export_path = git_path / ".venv/bin/mmc-export"
 else:
-    packwiz_exe_path = Path("..") / "packwiz.exe"
+    packwiz_exe_path = git_path / "Packwiz/packwiz.exe"
     mmc_export_path = Path("mmc-export")
 
 mods_path = packwiz_path / "mods"
 packwiz_manifest = "pack.toml"
 
-refresh_only = False
+refresh_only = True
 is_legacy = False
 modrinth_overrides = True
 
