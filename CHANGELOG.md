@@ -196,6 +196,13 @@ Changes:
 
 ## 1.21.11
 
+### 12.2.1 (2026-06-06)
+
+- Updated e4mc, Fabric Language Kotlin, Ixeris, Polytone
+- Fixed Cubes Without Borders not having MMH text
+- Updated translations for Russian
+- Updated Fabric Loader to 0.19.3
+
 ### 12.2.0 (2026-05-27)
 
 - Added Better Block Entities - improves the performance of block entities like chests, signs, beds, etc.
