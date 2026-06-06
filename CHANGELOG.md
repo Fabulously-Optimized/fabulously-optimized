@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.1 (2026-06-06)
+
+- Updated Animatica Refabricated, Cubes Without Borders, Dynamic FPS, e4mc, Fabric API, Fabric Language Kotlin, Ixeris, Lithium, MoreCulling, YetAnotherConfigLib
+- Updated translations for Estonian, Italian, Malay, Russian
+- Updated Fabric Loader to 0.19.3
+
 ### 13.2.0 (2026-05-27)
 
 Reminders:
@@ -195,6 +201,10 @@ Changes:
 # Mounts of Mayhem (12.x.x)
 
 ## 1.21.11
+
+### 12.2.1-mr.1 (2026-06-06)
+
+Fixed incorrect Minecraft and Skyboxify versions
 
 ### 12.2.1 (2026-06-06)
 
