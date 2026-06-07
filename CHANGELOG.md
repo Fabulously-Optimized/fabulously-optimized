@@ -1309,7 +1309,7 @@ Get your _bundle_ of mods in this update!
 - Temporarily disabled chat safety icon on NCR to avoid crash
 - Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
 
-# Tricky Trials (6.0.x-6.4.x)
+# Tricky Trials (6.x.x)
 
 ## 1.21.1
 
@@ -1601,7 +1601,7 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
-# Armored Paws (5.11.x-5.12.x)
+# Armored Paws (5.11.x-5.x.x)
 
 ## 1.20.6
 
