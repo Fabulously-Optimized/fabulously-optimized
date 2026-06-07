@@ -1605,6 +1605,17 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.13.0 (2026-06-07)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, Continuity, Controlify, Cubes Without Borders, Dynamic FPS, e4mc, Entity Culling, Fabric Language Kotlin, ImmediatelyFast, Indium, Language Reload, OptiGUI, YetAnotherConfigLib, Zoomify
+  - Zoomify is not on the latest version as that one seems to be incompatible with latest Controlify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 5.12.0 (2024-10-08)
 
 **Biggest changes:**
