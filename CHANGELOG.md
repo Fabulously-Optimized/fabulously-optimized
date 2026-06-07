@@ -2580,6 +2580,21 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 
 ## 1.19.4
 
+### 4.12.0 (2026-06-07)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Removed AntiGhost due to multiplayer concerns
+- Removed Farsight (and Hold That Chunk) due to platform limits
+- Removed MemoryLeakFix as it became incompatible with newest Fabric Loader
+- Updated Entity Model Features, Entity Texture Features, CIT Resewn, Cloth Config API, Continuity, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Language Reload, More Chat History, FabricSkyboxes, FabricSkyboxes Interop, OptiGUI, Reese's Sodium Options, YetAnotherConfigLib
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Enabled and renamed donation button for Sodium
+- Adjusted pause menu text to mention Farsight instead of AntiGhost
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 4.11.0 (2023-07-11)
 
 - Added Animatica - the issue has been fixed
@@ -3776,13 +3791,14 @@ Other
 Maintenance update! Only the most important changes have been made.
 
 - Added Crash Assistant to help users in case of crashes
-- Removed AntiGhost for multiplayer concerns
+- Removed AntiGhost due to multiplayer concerns
 - Removed Farsight (and Hold That Chunk) due to platform limits
 - Removed MemoryLeakFix as it became incompatible with newest Fabric Loader
 - Updated Entity Texture Features, Cloth Config API, Continuity, Don't Clear Chat History, Dynamic FPS, Entity Culling, Fabric API, Fabric Language Kotlin, Iris Shaders, Language Reload, Lithium, MemoryLeakFix, Mod Menu, OptiGUI, Puzzle, Reese's Sodium Options, Sodium Extra, YOSBR, Zoomify
 - Disabled MC-89146 and MC-199467 in Debugify
 - Disabled cape providers that have stopped working
 - Enabled and renamed donation button for Sodium
+- Adjusted pause menu text to mention Farsight instead of AntiGhost
 - Updated and enforced Fabric Loader 0.19.3
 
 ### 3.14.1 (2022-09-11)
