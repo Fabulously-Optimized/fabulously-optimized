@@ -3771,6 +3771,20 @@ Other
 
 ## 1.18.2
 
+### 3.15.0 (2026-06-07)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Removed AntiGhost for multiplayer concerns
+- Removed Farsight (and Hold That Chunk) due to platform limits
+- Removed MemoryLeakFix as it became incompatible with newest Fabric Loader
+- Updated Entity Texture Features, Cloth Config API, Continuity, Don't Clear Chat History, Dynamic FPS, Entity Culling, Fabric API, Fabric Language Kotlin, Iris Shaders, Language Reload, Lithium, MemoryLeakFix, Mod Menu, OptiGUI, Puzzle, Reese's Sodium Options, Sodium Extra, YOSBR, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Enabled and renamed donation button for Sodium
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 3.14.1 (2022-09-11)
 
 - Updated Iris

@@ -2,38 +2,38 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.4.1",
+            "cachedVersion": "3.2.2",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.4.1"
+            "version": "3.2.2"
         },
         {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "suggests": "3.4.1",
+                    "suggests": "3.2.2",
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "26.1.2",
+            "cachedVersion": "1.18.2",
             "important": true,
             "uid": "net.minecraft",
-            "version": "26.1.2"
+            "version": "1.18.2"
         },
         {
             "cachedName": "Intermediary Mappings",
             "cachedRequires": [
                 {
-                    "equals": "26.1.2",
+                    "equals": "1.18.2",
                     "uid": "net.minecraft"
                 }
             ],
-            "cachedVersion": "26.1.2",
+            "cachedVersion": "1.18.2",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "net.fabricmc.intermediary",
-            "version": "26.1.2"
+            "version": "1.18.2"
         },
         {
             "cachedName": "Fabric Loader",
