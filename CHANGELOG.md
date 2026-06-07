@@ -1605,6 +1605,10 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 
 ## 1.20.6
 
+### 5.13.0-mr.1 (2026-06-07)
+
+Forgot to update the publish version, re-released on Modrinth.
+
 ### 5.13.0 (2026-06-07)
 
 Maintenance update! Only the most important changes have been made.
