@@ -844,6 +844,16 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 ## 1.21.5
 
+### 9.2.0 (2026-06-08)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric Language Kotlin, FerriteCore, Forge Config API Port, ImmediatelyFast, LambDynamicLights, Language Reload, Mod Menu, OptiGUI, Polytone, Puzzle, Skyboxify, YetAnotherConfigLib, Zoomify
+- Updated and enforced Fabric Loader 0.19.3
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+
 ### 9.1.0 (2025-09-07)
 
 - Added Optiboxes as an alternative to Nuit (OptiFine skybox support)
