@@ -998,6 +998,16 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 
 ## 1.21.4
 
+### 8.2.0 (2026-06-08)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Forge Config API Port, ImmediatelyFast, Language Reload, Mod Menu, OptiGUI, Polytone, Puzzle, YetAnotherConfigLib, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 8.1.0 (2025-06-25)
 
 - Readded Animatica
@@ -1323,6 +1333,8 @@ Maintenance update! Only the most important changes have been made.
 - Disabled MC-89146 and MC-199467 in Debugify
 - Disabled cape providers that have stopped working
 - Updated and enforced Fabric Loader 0.19.3
+
+_This version is based on 6.4.0, not 6.5.0-beta.11._
 
 ### 6.4.0 (2025-05-11)
 
