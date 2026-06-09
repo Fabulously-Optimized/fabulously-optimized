@@ -1,16 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/crash_assistant/crash_assistant_localization_overrides/ru_ru.json"
-hash = "ecfa56a3a4807ba8aaf70d50740b6bf1d398c0f40726685d5c16567f8f63246f"
+file = "config/cape-provider/config.json"
+hash = "39320478bc85b1ea42d8c8f7d2381ee7523042f7703f3009e3e252c5874ae26f"
+
+[[files]]
+file = "config/debugify.json"
+hash = "0f225ab8423940db883938663ef73097674164e1f41aefc79b0179df0893d554"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "fd73effc2b5934c946f0ee4b3392155d6d5fd2165f8951f7f3c4a3687c10a605"
+hash = "7aa15025d8d944148bd848948f7ec3598d47a1a73a96d2169e3230f4c7ec0bed"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9fee364d973cd5417d26bad51b3eeebebcf15cc77afa964abbeea689d7d2e7b0"
+hash = "4d9f4d8b7ab8989038f6d3ee17690decb16f686c895c4f73694e761849243a1e"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -34,7 +38,7 @@ hash = "8aaf74864043e08741cc3c60f3ffe0d9aaf1fe757f111bb41064fb580d25bdf1"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
-hash = "bfaed4a90f4b3b2ddb8fce57a7c4d9d2011a154c7f6bd8f005e79dff8ead6230"
+hash = "39320478bc85b1ea42d8c8f7d2381ee7523042f7703f3009e3e252c5874ae26f"
 
 [[files]]
 file = "config/modpack_defaults/config/citresewn.json"
@@ -110,7 +114,7 @@ hash = "e9aee9c3cd2090e6f810b045e22b4e1fa61b758829349ac2dd1dbab19f09281e"
 
 [[files]]
 file = "config/modpack_defaults/config/debugify.json"
-hash = "a4e5e4cb8239c9e512aa4bf6e4655caead4ccc82c483dcaf0aff0405ce9cb1ea"
+hash = "0f225ab8423940db883938663ef73097674164e1f41aefc79b0179df0893d554"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -122,7 +126,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "fd73effc2b5934c946f0ee4b3392155d6d5fd2165f8951f7f3c4a3687c10a605"
+hash = "7aa15025d8d944148bd848948f7ec3598d47a1a73a96d2169e3230f4c7ec0bed"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -138,7 +142,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "9fee364d973cd5417d26bad51b3eeebebcf15cc77afa964abbeea689d7d2e7b0"
+hash = "4d9f4d8b7ab8989038f6d3ee17690decb16f686c895c4f73694e761849243a1e"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"

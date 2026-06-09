@@ -202,6 +202,11 @@ Changes:
 
 ## 1.21.11
 
+### 12.2.2 (2026-06-09)
+
+- Disabled MC-89146 in Debugify
+- Disabled cape providers that have stopped working
+
 ### 12.2.1-mr.1 (2026-06-06)
 
 Fixed incorrect Minecraft and Skyboxify versions
