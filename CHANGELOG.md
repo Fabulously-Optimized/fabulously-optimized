@@ -656,6 +656,16 @@ Note that Minecraft 1.21.10 will be released soon with additional fixes.
 
 ## 1.21.8
 
+### 10.4.0 (2026-06-09)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Forge Config API Port, ImmediatelyFast, LambDynamicLights, Language Reload, Mod Menu, OptiGUI, Puzzle, Skyboxify, YetAnotherConfigLib, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 10.3.1 (2025-11-11)
 
 - Updated BetterGrassify, Controlify, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, No Chat Reports, Optiboxes, Sodium
