@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.2 (2026-06-09)
+
+- Updated Cape Provider, Fabric API, Forge Config API Port, MoreCulling
+- Disabled MC-89146 in Debugify
+- Updated Estonian, Malay (Jawi), Spanish (Spain, Venezuela) translations
+
 ### 13.2.1 (2026-06-06)
 
 - Updated Animatica Refabricated, Cubes Without Borders, Dynamic FPS, e4mc, Fabric API, Fabric Language Kotlin, Ixeris, Lithium, MoreCulling, YetAnotherConfigLib
