@@ -460,6 +460,16 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.3.3 (2026-06-09)
+
+Maintenance update! Only the most important changes have been made.
+
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Crash Assistant, Dynamic FPS, e4mc, Entity Culling, Fabric Language Kotlin, Language Reload, Mod Menu, OptiGUI, Skyboxify
+- Updated Crash Assistant config and translations
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated Fabric Loader to 0.19.3
+
 ### 11.3.2 (2026-02-22)
 
 - Updated Entity Texture Features, Crash Assistant, e4mc, Skyboxify, Zoomify
