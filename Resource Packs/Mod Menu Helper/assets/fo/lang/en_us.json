@@ -13,8 +13,10 @@
     "modmenu.summaryTranslation.continuity": "OptiFine's Connected & Emissive Textures\n§3§l📥§r§9🛠§8 Toggle block features",
     "modmenu.summaryTranslation.controlify": "Game controller support\n§9🛠§8 Vibration, sounds, ...",
     "modmenu.summaryTranslation.crash_assistant": "Helps you report crashes and fix known ones\n§8🛠 (only advanced options)",
-    "modmenu.summaryTranslation.cwb": "Full screen with Alt+Tab support (opt-in)\n§9🛠§8 In Video Settings: toggle mod, ... ",
+    "modmenu.summaryTranslation.cwb": "Alt+Tab support for borderless fullscreen\n§9🛠§8 Mode, macOS resolution, pause on lost focus",
     "sodium.options.fullscreen_mode.tooltip" : "Exclusive fullscreen can improve latency, but may prevent some input methods from working and slow down switching out of the game. Borderless fullscreen can be configured in Cubes Without Borders options.",
+    "sodium-extra.option.reduce_resolution_on_mac": "Reduce Resolution on macOS [toggle in Cubes Without Borders]",
+    "sodium-extra.option.reduce_resolution_on_mac.tooltip": "Uses half resolution on Retina displays to improve performance on macOS.\nChanging this option requires a restart.\n\n§lThis is enabled by default, please keep this checkbox unchecked.§r\nTo use original resolution, go to Cubes Without Borders options and enable \"Use Scaled Framebuffer\".",
     "modmenu.summaryTranslation.debugify": "Fixes bugs, makes telemetry toggleable\n§9🛠§8 Toggle fixes, ...",
     "modmenu.summaryTranslation.dynamic_fps": "Reduces FPS in the background\n§9🛠§8 Toggle mod, restore on hover, ...",
     "modmenu.summaryTranslation.e4mc": "Open worlds to Internet, just like LAN\n§9🛠§8 Use and configure via \"<lang menu.shareToLan>\"",
@@ -51,5 +53,5 @@
     "menu.shareToLan": "Open to Internet",
     "lanServer.start": "Open to Internet",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "Welcome to §7Fabulously Optimized§r! Here are some tips.\n\n§f🪟§r Connected Textures and Dynamic Lights - configure in §7Mods§r\n§a🏞§r Better Grass and full screen with Alt+Tab - enable in §7Video Settings§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer\n§8📸§r Take 4K screenshots - press §7F9§r\n§6🏴§r Free custom capes - §7https://download.fo/cape§r\n§b🌐§r Help translate the modpack - §7https://download.fo/translate§r\n§2➕§r Add extra mods - §7https://download.fo/add§r\n§4❓§r Problems or questions - §7https://download.fo/wiki§r\n\n(§7Maximize window§r or visit §7https://download.fo/tutorial§r)"
+    "accessibility.onboarding.screen.title": "Welcome to §7Fabulously Optimized§r! Here are some tips.\n\n§f🪟§r Connected Textures and Dynamic Lights - configure in §7Mods§r\n§a🏞§r Better Grass and fullscreen with Alt+Tab - enable in §7Video Settings§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer\n§8📸§r Take 4K screenshots - press §7F9§r\n§6🏴§r Free custom capes - §7https://download.fo/cape§r\n§b🌐§r Help translate the modpack - §7https://download.fo/translate§r\n§2➕§r Add extra mods - §7https://download.fo/add§r\n§4❓§r Problems or questions - §7https://download.fo/wiki§r\n\n(§7Maximize window§r or visit §7https://download.fo/tutorial§r)"
 }

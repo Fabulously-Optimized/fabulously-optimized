@@ -5,7 +5,7 @@ from pathlib import Path
 
 macos = sys.platform == "darwin"
 if macos:
-    cf_path = Path.home() / "Documents/curseforge/minecraft/Instances/Fabulously Optimized"
+    cf_path = Path.home() / "curseforge/Instances/Fabulously Optimized"
 else:
     cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
 

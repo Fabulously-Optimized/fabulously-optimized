@@ -5,6 +5,70 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.1.2
 
+### 13.2.2 (2026-06-09)
+
+- Updated Cape Provider, Fabric API, Forge Config API Port, MoreCulling
+- Disabled MC-89146 in Debugify
+- Updated Estonian, Malay (Jawi), Spanish (Spain, Venezuela) translations
+
+### 13.2.1 (2026-06-06)
+
+- Updated Animatica Refabricated, Cubes Without Borders, Dynamic FPS, e4mc, Fabric API, Fabric Language Kotlin, Ixeris, Lithium, MoreCulling, YetAnotherConfigLib
+- Updated translations for Estonian, Italian, Malay, Russian
+- Updated Fabric Loader to 0.19.3
+
+### 13.2.0 (2026-05-27)
+
+Reminders:
+
+- Minecraft 26.1(.2) is technically a big update. Remember to _only_ use mods, resource packs, shaders and other content that are marked as compatible with 26.1.2. 
+- Any worlds that are upgraded to 26.1.2 cannot be downgraded - backups are recommended.
+- Java 25 is required, which most launchers, except MultiMC, handle automatically.
+
+Major changes:
+
+- Added Animatica Refabricated - a fork of Animatica with same features
+- Removed Animatica - not updated yet
+- Removed MixinTrace - should no longer be necessary
+- Removed Polytone - not updated yet
+- Applied optimizations for Cubes Without Borders
+  - If using borderless and multiplayer, you can, if unfocused, observe gameplay without pausing
+  - F11 will prefer normal fullscreen on Windows and Mac by default
+  - Disabled Sodium Extra's macOS resolution optimization as it caused a partially black screen, enabled CWB's one instead
+  - If your GPU driver crashes, the game will try to use borderless fullscreen instead of normal one
+
+Changes from 13.2.0-beta.6:
+
+- Updated Cubes Without Borders
+  - If your GPU driver fails on normal fullscreen, it will try to use borderless fullscreen instead
+- Clarified where the user can configure macOS resolution by adjusting MMH and video settings tooltip
+- Updated Estonian translation
+
+### 13.2.0-beta.6 (2026-05-25)
+
+- Readded FastQuit
+- Readded Reese's Sodium Options - per user feedback and own evaluation, the mod will stay in the modpack
+- Updated Cubes Without Borders, Fabric API, Sodium
+  - macOS issues with disabling borderless fullscreen should now be fixed
+- Simulation distance is default set to 8 again per previous user feedback
+- In testing: Animatica Refabricated, Better Block Entities, Ixeris  
+- Temporarily incompatible: Polytone
+
+### 13.2.0-beta.5 (2026-05-17)
+
+- Readded Controlify
+  - Previous crash should be fixed
+- Updated Entity Model Features, Better Block Entities, Cubes Without Borders, Fabric API, Ixeris, Mod Menu, Sodium
+  - Sodium uses stable version again, was accidentally updated to beta in last version
+- Adjustments to Cubes Without Borders
+  - If using borderless and multiplayer, you can, if unfocused, observe gameplay without pausing
+  - F11 will prefer normal fullscreen on Windows and Mac by default
+  - Disabled Sodium Extra's Mac optimization as it caused a partially black screen, enabled CWB's one instead
+- Updated translations in 4 languages
+- Development environment has changed, let us know if there is something unexpected or missing
+- In testing: Animatica Refabricated, Better Block Entities, Ixeris
+- Temporarily incompatible: FastQuit, Polytone
+
 ### 13.2.0-beta.4 (2026-05-09)
 
 - Added Animatica Refabricated - a fork of Animatica with same features
@@ -143,6 +207,31 @@ Changes:
 # Mounts of Mayhem (12.x.x)
 
 ## 1.21.11
+
+### 12.2.2 (2026-06-09)
+
+- Disabled MC-89146 in Debugify
+- Disabled cape providers that have stopped working
+
+### 12.2.1-mr.1 (2026-06-06)
+
+Fixed incorrect Minecraft and Skyboxify versions
+
+### 12.2.1 (2026-06-06)
+
+- Updated e4mc, Fabric Language Kotlin, Ixeris, Polytone
+- Fixed Cubes Without Borders not having MMH text
+- Updated translations for Russian
+- Updated Fabric Loader to 0.19.3
+
+### 12.2.0 (2026-05-27)
+
+- Added Better Block Entities - improves the performance of block entities like chests, signs, beds, etc.
+- Added Ixeris - keeps FPS stable while you turn your camera (point of view)
+- Updated Entity Model Features, Controlify, Fabric API, Polytone, Sodium
+- Increased default simulation distance from 6 to 8 again for more reliable mob spawning
+- Updated translations
+- Backported Crash Assistant config updates
 
 ### 12.1.2 (2026-05-09)
 
@@ -382,6 +471,16 @@ You crashed it, we fixed it!
 
 ## 1.21.10
 
+### 11.3.3 (2026-06-09)
+
+Maintenance update! Only the most important changes have been made.
+
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Crash Assistant, Dynamic FPS, e4mc, Entity Culling, Fabric Language Kotlin, Language Reload, Mod Menu, OptiGUI, Skyboxify
+- Updated Crash Assistant config and translations
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated Fabric Loader to 0.19.3
+
 ### 11.3.2 (2026-02-22)
 
 - Updated Entity Texture Features, Crash Assistant, e4mc, Skyboxify, Zoomify
@@ -578,6 +677,16 @@ Note that Minecraft 1.21.10 will be released soon with additional fixes.
 
 ## 1.21.8
 
+### 10.4.0 (2026-06-09)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Forge Config API Port, ImmediatelyFast, LambDynamicLights, Language Reload, Mod Menu, OptiGUI, Puzzle, Skyboxify, YetAnotherConfigLib, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 10.3.1 (2025-11-11)
 
 - Updated BetterGrassify, Controlify, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, LambDynamicLights, No Chat Reports, Optiboxes, Sodium
@@ -766,6 +875,16 @@ Remember that Vibrant Visuals - the official shaders - [are currently only avail
 
 ## 1.21.5
 
+### 9.2.0 (2026-06-08)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric Language Kotlin, FerriteCore, Forge Config API Port, ImmediatelyFast, LambDynamicLights, Language Reload, Mod Menu, OptiGUI, Polytone, Puzzle, Skyboxify, YetAnotherConfigLib, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
+
 ### 9.1.0 (2025-09-07)
 
 - Added Optiboxes as an alternative to Nuit (OptiFine skybox support)
@@ -919,6 +1038,16 @@ Big thanks to all testers who found the crashes on the first alpha! ❤️
 # The Garden Awakens (8.x.x)
 
 ## 1.21.4
+
+### 8.2.0 (2026-06-08)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, Forge Config API Port, ImmediatelyFast, Language Reload, Mod Menu, OptiGUI, Polytone, Puzzle, YetAnotherConfigLib, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
 
 ### 8.1.0 (2025-06-25)
 
@@ -1231,9 +1360,22 @@ Get your _bundle_ of mods in this update!
 - Temporarily disabled chat safety icon on NCR to avoid crash
 - Temporarily incompatible Animatica, CIT Resewn, Controlify, Continuity, Cubes Without Borders, Debugify, Enhanced Block Entities, Entity Culling, FabricSkyboxes, FabricSkyboxes Interop, FerriteCore, Entity Model Features, Entity Texture Features, ImmediatelyFast, Language Reload, Lithium, ModernFix, OptiGUI, Paginated Advancements, Polytone, Puzzle, Reese's Sodium Options, Sodium Extra, Zoomify
 
-# Tricky Trials (6.0.x-6.4.x)
+# Tricky Trials (6.x.x)
 
 ## 1.21.1
+
+### 6.5.0 (2026-06-08)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, BetterGrassify, Controlify, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, FerriteCore, ImmediatelyFast, LambDynamicLights, Language Reload, Lithium, Mod Menu, ModernFix, MoreCulling, OptiGUI, Polytone, Puzzle, YetAnotherConfigLib, Zoomify
+  - Skipped incompatible updates for Sodium Extra and Reese's Sodium Options
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
+
+_This version is based on 6.4.0, not 6.5.0-beta.11._
 
 ### 6.4.0 (2025-05-11)
 
@@ -1523,9 +1665,24 @@ Note that Minecraft 1.21 broke more mods than any other update in recent years. 
 - As previously announced, "MultiMC legacy" variants are no longer distributed on CurseForge from version 6.0.0. Follow installation instructions as usual.
 - Temporarily removed: BetterMountHud, Capes, CIT Resewn, Debugify, EntityCulling, Fabrishot, FerriteCore, Indium, LambDynamicLights, Lithium, Model Gap Fix, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle
 
-# Armored Paws (5.11.x-5.12.x)
+# Armored Paws (5.11.x-5.x.x)
 
 ## 1.20.6
+
+### 5.13.0-mr.1 (2026-06-07)
+
+Forgot to update the publish version, re-released on Modrinth and GitHub.
+
+### 5.13.0 (2026-06-07)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Updated Entity Model Features, Entity Texture Features, Continuity, Controlify, Cubes Without Borders, Dynamic FPS, e4mc, Entity Culling, Fabric Language Kotlin, ImmediatelyFast, Indium, Language Reload, OptiGUI, YetAnotherConfigLib, Zoomify
+  - Zoomify is not on the latest version as that one seems to be incompatible with latest Controlify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Updated and enforced Fabric Loader 0.19.3
 
 ### 5.12.0 (2024-10-08)
 
@@ -2501,6 +2658,21 @@ This is it, the first alpha! Took more time than expected but it was worth the w
 # The Wild Update (4.x.x)
 
 ## 1.19.4
+
+### 4.12.0 (2026-06-07)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Removed AntiGhost due to multiplayer concerns
+- Removed Farsight (and Hold That Chunk) due to platform limits
+- Removed MemoryLeakFix as it became incompatible with newest Fabric Loader
+- Updated Entity Model Features, Entity Texture Features, CIT Resewn, Cloth Config API, Continuity, Dynamic FPS, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Iris Shaders, Language Reload, More Chat History, FabricSkyboxes, FabricSkyboxes Interop, OptiGUI, Reese's Sodium Options, YetAnotherConfigLib
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Enabled and renamed donation button for Sodium
+- Adjusted pause menu text to mention Farsight instead of AntiGhost
+- Updated and enforced Fabric Loader 0.19.3
 
 ### 4.11.0 (2023-07-11)
 
@@ -3692,6 +3864,21 @@ Other
 # Caves & Cliffs: Part II (3.x.x)
 
 ## 1.18.2
+
+### 3.15.0 (2026-06-07)
+
+Maintenance update! Only the most important changes have been made.
+
+- Added Crash Assistant to help users in case of crashes
+- Removed AntiGhost due to multiplayer concerns
+- Removed Farsight (and Hold That Chunk) due to platform limits
+- Removed MemoryLeakFix as it became incompatible with newest Fabric Loader
+- Updated Entity Texture Features, Cloth Config API, Continuity, Don't Clear Chat History, Dynamic FPS, Entity Culling, Fabric API, Fabric Language Kotlin, Iris Shaders, Language Reload, Lithium, MemoryLeakFix, Mod Menu, OptiGUI, Puzzle, Reese's Sodium Options, Sodium Extra, YOSBR, Zoomify
+- Disabled MC-89146 and MC-199467 in Debugify
+- Disabled cape providers that have stopped working
+- Enabled and renamed donation button for Sodium
+- Adjusted pause menu text to mention Farsight instead of AntiGhost
+- Updated and enforced Fabric Loader 0.19.3
 
 ### 3.14.1 (2022-09-11)
 
