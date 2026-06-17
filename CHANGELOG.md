@@ -13,7 +13,7 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 
 ### 14.0.0-alpha.1 (2026-06-17)
 
-Chaos Cubed is here and with it comes the early support for Vulkan graphics API! Keep in mind:
+Chaos Cubed is here, and with it comes the early support for Vulkan graphics API! Keep in mind:
 
 - Vulkan is _not_ enabled by default and Mojang does _not_ recommend most users to use it just yet
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
