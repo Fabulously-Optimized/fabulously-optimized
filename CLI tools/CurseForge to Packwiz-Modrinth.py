@@ -10,7 +10,7 @@ from zipfile import ZipFile
 from shutil import unpack_archive
 
 macos = sys.platform == "darwin"
-minecraft_version = "26.1.2"
+minecraft_version = "26.2"
 
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized"
 packwiz_path = git_path / "Packwiz" / minecraft_version
