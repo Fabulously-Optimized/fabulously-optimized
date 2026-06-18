@@ -3,12 +3,11 @@ filename = "controlify-3.0.2+26.2-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "083d62a6205dce6342c5086643208e6939d0802b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/mHrCu1mZ/controlify-3.0.2%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "226bb8805dd5c5f8502ec5af3a241c58187247086d93e13a1a4751f86f9a0509d34d25f7bffead5829486d17bbe7a4798ae72c71d07648bc210d2c3021626b12"
 
 [update]
-[update.curseforge]
-file-id = 8260038
-project-id = 835847
-release-channel = "beta"
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "mHrCu1mZ"

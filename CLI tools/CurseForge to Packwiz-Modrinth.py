@@ -23,7 +23,7 @@ else:
     mmc_export_path = Path("mmc-export")
 
 mods_path = packwiz_path / "mods"
-packwiz_manifest = "pack.toml"
+packwiz_manifest = packwiz_path / "pack.toml"
 
 refresh_only = False
 is_legacy = False

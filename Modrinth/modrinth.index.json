@@ -155,6 +155,21 @@
             "fileSize": 1040013
         },
         {
+            "path": "mods/controlify-3.0.2+26.2-fabric.jar",
+            "hashes": {
+                "sha1": "8881365262402a76aa64650908d823b44ebd4d5b",
+                "sha512": "226bb8805dd5c5f8502ec5af3a241c58187247086d93e13a1a4751f86f9a0509d34d25f7bffead5829486d17bbe7a4798ae72c71d07648bc210d2c3021626b12"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/mHrCu1mZ/controlify-3.0.2%2B26.2-fabric.jar"
+            ],
+            "fileSize": 7371605
+        },
+        {
             "path": "mods/dynamic-fps-3.11.9+minecraft-26.2.0-fabric.jar",
             "hashes": {
                 "sha1": "e8cd9e4fbc6d42091faffc873b0801f1189ed6a5",
