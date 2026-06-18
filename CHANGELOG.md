@@ -1,6 +1,38 @@
 # Fabulously Optimized changelog
 This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized). See the [version support FAQ](https://wiki.download.fo/version-support).
 
+# Chaos Cubed (14.x.x)
+
+## 26.2
+
+Chaos Cubed is here and with it comes the early support for Vulkan graphics API! Keep in mind:
+
+- Vulkan is _not_ enabled by default and Mojang does _not_ recommend most users to use it just yet
+- When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
+- OpenGL remains supported and no deprecation deadline has been set
+
+### 14.0.0-alpha.2 (2026-06-18)
+
+- Readded Animatica Refabricated, Cape Provider, Entity Model Features, Entity Texture Features, FerriteCore, LambDynamicLights, Mod Menu, MoreCulling, Puzzle, Sodium Extra, Remove Reloading Screen
+- Updated Cloth Config API, Main Menu Credits
+- Adjusted Main Menu Credits MMH description
+- Temporarily incompatible: Better Mount HUD, Cubes Without Borders, Debugify, e4mc, EntityCulling, FastQuit, Fabrishot, ImmediatelyFast, Language Reload, No Chat Reports, OptiGUI, Paginated Advancements, Zoomify
+
+### 14.0.0-alpha.1 (2026-06-17)
+
+Chaos Cubed is here, and with it comes the early support for Vulkan graphics API! Keep in mind:
+
+- Vulkan is _not_ enabled by default and Mojang does _not_ recommend most users to use it just yet
+- When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
+- OpenGL remains supported and no deprecation deadline has been set
+
+Changes:
+
+- Updated Better Block Entities, BetterGrassify, Config Manager, Continuity, Controlify, Crash Assistant, Dynamic FPS, Fabric API, Forge Config API Port, Iris Shaders, Ixeris, Lithium, Reese's Sodium Options, Sodium, Skyboxify, YetAnotherConfigLib
+- Updated translations for Vietnamese and English variants
+- Enforced Fabric Loader 0.19.3 and Minecraft 26.2
+- Temporarily incompatible: Animatica Refabricated, Better Mount HUD, Cape Provider, Cubes Without Borders, Debugify, e4mc, EntityCulling, Entity Model Features, Entity Texture Features, FastQuit, Fabrishot, FerriteCore, ImmediatelyFast, LambDynamicLights, Language Reload, Mod Menu, MoreCulling, No Chat Reports, OptiGUI, Paginated Advancements, Puzzle, Remove Reloading Screen, Sodium Extra, Zoomify
+
 # Tiny Takeover (13.x.x)
 
 ## 26.1.2

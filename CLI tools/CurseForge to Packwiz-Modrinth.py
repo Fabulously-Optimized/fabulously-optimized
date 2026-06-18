@@ -10,7 +10,7 @@ from zipfile import ZipFile
 from shutil import unpack_archive
 
 macos = sys.platform == "darwin"
-minecraft_version = "26.1.2"
+minecraft_version = "26.2"
 
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized"
 packwiz_path = git_path / "Packwiz" / minecraft_version
@@ -23,7 +23,7 @@ else:
     mmc_export_path = Path("mmc-export")
 
 mods_path = packwiz_path / "mods"
-packwiz_manifest = "pack.toml"
+packwiz_manifest = packwiz_path / "pack.toml"
 
 refresh_only = False
 is_legacy = False
