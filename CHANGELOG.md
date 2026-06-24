@@ -11,6 +11,15 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-alpha.3 (2026-06-22)
+
+- Readded Better Mount HUD, Cubes Without Borders, e4mc, Entity Culling, ImmediatelyFast, Language Reload
+- Updated Fabric API, Forge Config API Port, Ixeris, LambDynamicLights, Reese's Sodium Options, Mod Menu
+- Adjusted the video settings layout with Reese's Sodium Options
+- Crossed out Fabrishot pause menu hint as the mod is not yet avilable
+- Updated translations for Spanish (Spain, Venezuela), Estonian, Malay (Latin, Jawi)
+- Temporarily incompatible: Debugify, FastQuit, Fabrishot, No Chat Reports, OptiGUI, Paginated Advancements, Zoomify
+
 ### 14.0.0-alpha.2 (2026-06-18)
 
 - Readded Animatica Refabricated, Cape Provider, Entity Model Features, Entity Texture Features, FerriteCore, LambDynamicLights, Mod Menu, MoreCulling, Puzzle, Sodium Extra, Remove Reloading Screen
