@@ -11,6 +11,13 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.1 (2026-07-12)
+
+- Readded OptiGUI
+- Updated Animatica Refabricated, Better Block Entities, Controlify, Fabric API, ImmediatelyFast, Iris Shaders, Ixeris, Lithium, Mod Menu, MoreCulling, No Chat Reports, Reese's Sodium Options, Skyboxify, Sodium, Sodium Extra, YetAnotherConfigLib
+  - Various known crashes should now be fixed; Vulkan toggle works as expected
+- Temporarily incompatible: FastQuit, Fabrishot
+
 ### 14.0.0-alpha.4 (2026-06-29)
 
 - Added Text Placeholder API - a dependency of Mod Menu that was previously bundled in it; allows certain formatted texts in mod descriptions
