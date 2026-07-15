@@ -11,6 +11,17 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.2 (2026-07-15)
+
+- Added Polytone - updated, currently in beta
+- Updated Crash Assistant
+- More adjustments to Reese's Sodium Options
+- Fixed e4mc references in pause menu, LAN menu, MMH
+- Updated Estonian translation
+- Minecraft 26.2 and Fabric Loader 0.19.3 or newer are now recommended in logs if a different version is present
+  - This means the game will not be blocked if the user has changed either version, but helps with finding causes in case of crashes
+- Temporarily incompatible: FastQuit, Fabrishot
+
 ### 14.0.0-beta.1 (2026-07-12)
 
 - Readded OptiGUI

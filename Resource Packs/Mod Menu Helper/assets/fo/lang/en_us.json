@@ -22,7 +22,7 @@
     "modmenu.summaryTranslation.cull-less-leaves": "§6🔀§r Faster tree leaves\n§9🛠§8 Toggle mod, leaf depth",
     "modmenu.summaryTranslation.debugify": "Fixes bugs, makes telemetry toggleable\n§9🛠§8 Toggle fixes, ...",
     "modmenu.summaryTranslation.dynamic_fps": "Reduces FPS in the background\n§9🛠§8 Toggle mod, restore on hover, ...",
-    "modmenu.summaryTranslation.e4mc": "Open worlds to Internet, just like LAN\n§9🛠§8 Use and configure via \"<lang menu.shareToLan>\"",
+    "modmenu.summaryTranslation.e4mc": "Open worlds to Internet, just like LAN\n§9🛠§8 Use and configure via \"<lang menu.multiplayerOptions.button>\"",
     "modmenu.summaryTranslation.enhancedblockentities": "Faster chests, signs, beds etc.\n§9🛠§8 Blocks to improve, method",
     "modmenu.summaryTranslation.entityculling": "Stops rendering mobs behind walls\n§9🛠§8 Toggle mod, disable for (block)entities, ...",
     "modmenu.summaryTranslation.entity_model_features": "OptiFine's Custom Entity Models\n§3§l📥§r§9🛠§8 Refresh speed, disable models, ...",
@@ -62,8 +62,9 @@
     "modmenu.summaryTranslation.sspb": "Vanilla look for dirt paths\n§9🛠§8 In Video Settings: shadow strength, ...",
     "modmenu.summaryTranslation.zoomify": "Zoom by holding <keybind zoomify.key.zoom>\n§9🛠§8 Distance, cinematic camera, keybind, ...",
     "fo.resourcePack.fastbettergrass": "§7OptiFine's Better Grass (fast)§r\n§4Must be the first to work§r",
-    "menu.shareToLan": "Open to Internet",
-    "lanServer.start": "Open to Internet",
+    "menu.multiplayerOptions.button": "Open to Internet",
+    "menu.multiplayerOptions.lan": "LAN and Internet",
+    "menu.multiplayerOptions.network.lan.tooltip": "Players on the same network can join via LAN; players anywhere in the world can join via an address shared by you.",
     "accessibility.onboarding.screen.narrator": "",
     "accessibility.onboarding.screen.title": "Welcome to §7Fabulously Optimized§r! Here are some tips.\n\n§f🪟§r Connected Textures and Dynamic Lights - configure in §7Mods§r\n§a🏞§r Better Grass and fullscreen with Alt+Tab - enable in §7Video Settings§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer\n§8📸§r Take 4K screenshots - press §7F9§r\n§6🏴§r Free custom capes - §7https://download.fo/cape§r\n§b🌐§r Help translate the modpack - §7https://download.fo/translate§r\n§2➕§r Add extra mods - §7https://download.fo/add§r\n§4❓§r Problems or questions - §7https://download.fo/wiki§r\n\n(§7Maximize window§r or visit §7https://download.fo/tutorial§r)"
 }

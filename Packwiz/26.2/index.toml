@@ -10,11 +10,11 @@ hash = "9bbebc0257fe98730afda7371c507873ea7a143a747552de20f78fd837ff7021"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "13357f5c339029ebef124516e127ef4236a599ac2c48726ccd67acd7243b1a4b"
+hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2f78167c50bad8ab5b39eb38f96ce875605f2016a3788dcbb09bdd1d2587f7af"
+hash = "2440473a1bbde8e2f3b7a6feda6e7f44eda7f359ae44eaf3d6ffe0677dd43159"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -126,7 +126,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "13357f5c339029ebef124516e127ef4236a599ac2c48726ccd67acd7243b1a4b"
+hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -142,7 +142,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "2f78167c50bad8ab5b39eb38f96ce875605f2016a3788dcbb09bdd1d2587f7af"
+hash = "2440473a1bbde8e2f3b7a6feda6e7f44eda7f359ae44eaf3d6ffe0677dd43159"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -162,7 +162,7 @@ hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
 
 [[files]]
 file = "config/modpack_defaults/config/reeses_sodium_options.json"
-hash = "997e9be26650206c890e42918ac47ba8b81d90380c522d198941954ad1da2ad3"
+hash = "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83"
 
 [[files]]
 file = "config/modpack_defaults/config/rrls.toml"
@@ -183,6 +183,10 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 [[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "51a621b206154ce9487e333b42c8c7872313835913d1c942d69b12e48d3d924a"
+
+[[files]]
+file = "config/reeses_sodium_options.json"
+hash = "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -231,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash_assistant.pw.toml"
-hash = "78627dd840ac0b43b95868bb202eaa91dae2c054af3d377e5697dc164f841c01"
+hash = "57ff41f4dedd455927e9715bf739ac88c1ec5215dfd4e9ea9cdc099d92c56be6"
 metafile = true
 
 [[files]]
@@ -296,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c814db0bd7122a2f090e599fde7ca8c2c74a408c47ab8a89e6ca19c8c5e205d9"
+hash = "5e60ae3dd18d5a388599cbf8f2fb4dcd3bd100559685ff2a72b3dc6fde6ca0b5"
 metafile = true
 
 [[files]]
@@ -360,6 +364,11 @@ hash = "b234ade7fd54bb9d99c27769cd1635b18835752676d0cdd0a29af2b4146251a8"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "be196a0d13e557a8e7224191978a82ed1a844f31aae1d2d6ea5a61352c78848d"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "4e2207bde16a65160958cd795731b6d6d7474c4fe0e4e0587a485bdbb7006a67"
 metafile = true
@@ -411,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "a1e5e69322400f36a62e21fa28d81e9c1680f1d0ee0474a88eee3cfd88cdc910"
+hash = "ccbf634dd4c062d1553697a728ddac199f70c7b1db0b18e8ee80ef56ff2dd386"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
