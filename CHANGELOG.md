@@ -31,7 +31,7 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - Readded Better Mount HUD, Cubes Without Borders, e4mc, Entity Culling, ImmediatelyFast, Language Reload
 - Updated Fabric API, Forge Config API Port, Ixeris, LambDynamicLights, Reese's Sodium Options, Mod Menu
 - Adjusted the video settings layout with Reese's Sodium Options
-- Crossed out Fabrishot pause menu hint as the mod is not yet avilable
+- Crossed out Fabrishot pause menu hint as the mod is not yet available
 - Updated translations for Spanish (Spain, Venezuela), Estonian, Malay (Latin, Jawi)
 - Temporarily incompatible: Debugify, FastQuit, Fabrishot, No Chat Reports, OptiGUI, Paginated Advancements, Zoomify
 
@@ -60,6 +60,15 @@ Changes:
 # Tiny Takeover (13.x.x)
 
 ## 26.1.2
+
+### 13.3.0 (2026-07-15)
+
+- Added Polytone - now updated again
+- Updated Animatica Refabricated, Better Block Entities, BetterGrassify, Cape Provider, Config Manager, Controlify, Crash Assistant, Cubes Without Borders, e4mc, Entity Culling, Fabric API, ImmediatelyFast, Iris Shaders, Ixeris, LambDynamicLights, Language Reload, Lithium, Mod Menu, Reese's Sodium Options, Remove Reloading Screen, Skyboxify, Sodium, Sodium Extra
+- Adjusted Video Settings layout with Reese's Sodium Options
+- Updated translations
+- Minecraft 26.1.2 and Fabric Loader 0.19.3 or newer are now recommended in logs if a different version is present
+  - This means the game will not be blocked if the user has changed either version, but helps with finding causes in case of crashes
 
 ### 13.2.2 (2026-06-09)
 

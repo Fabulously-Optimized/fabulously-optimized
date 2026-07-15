@@ -19,10 +19,10 @@ jobs:
            latest: true
            tarBall: false
            zipBall: false
-           preRelease: true
+           preRelease: false
 
        - name: Publish to CurseForge
-         uses: Kira-NT/mc-publish@995edadc13559a8b28d0b7e6571229f067ec7659 # v3.3.0
+         uses: Kira-NT/mc-publish@52307b03863581dec6b652b83e597aec02ebb075 # v3.3.1
          with:
            name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
            curseforge-id: 396246
