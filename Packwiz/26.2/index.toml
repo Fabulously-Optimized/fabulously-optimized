@@ -10,11 +10,11 @@ hash = "9bbebc0257fe98730afda7371c507873ea7a143a747552de20f78fd837ff7021"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
+hash = "d34bf23cb432f7d2065a10856f28b39caf2514de8b05b9c9a2936662953c7edb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2440473a1bbde8e2f3b7a6feda6e7f44eda7f359ae44eaf3d6ffe0677dd43159"
+hash = "e36765c34f26e691fb62fbdd0e312a92ee8efbd3caf5a8dfc614fb454bab0cfb"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -126,7 +126,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "4ad378519e43ab82c3ab3fe390f765e1486551397ade718bbb441039cc39dcb6"
+hash = "d34bf23cb432f7d2065a10856f28b39caf2514de8b05b9c9a2936662953c7edb"
 
 [[files]]
 file = "config/modpack_defaults/config/fabrishot.properties"
@@ -142,7 +142,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "2440473a1bbde8e2f3b7a6feda6e7f44eda7f359ae44eaf3d6ffe0677dd43159"
+hash = "e36765c34f26e691fb62fbdd0e312a92ee8efbd3caf5a8dfc614fb454bab0cfb"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -185,17 +185,13 @@ file = "config/modpack_defaults/options.txt"
 hash = "51a621b206154ce9487e333b42c8c7872313835913d1c942d69b12e48d3d924a"
 
 [[files]]
-file = "config/reeses_sodium_options.json"
-hash = "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "34b046ac61c777473a4979d27c96856b2596338b2a4e676e9ba1e838c528969e"
 metafile = true
 
 [[files]]
 file = "mods/betterblockentities.pw.toml"
-hash = "12c9ede2a192b2963a1c35b8d300619adbe589c3fe81a13c42f4def8ff7ccd4e"
+hash = "6df8ddc5494c0e0d9750abe6614ffd674108b973e947f301998de888460331c4"
 metafile = true
 
 [[files]]
@@ -230,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0f5fafa7558f8cd3077e899489e083d8e1872e6a3d07393e5215c3009b72ca6c"
+hash = "afad4286ad32eaeea9b86685d267c1d63da000404f8aff16f1c589ca5ce8a75a"
 metafile = true
 
 [[files]]
@@ -275,12 +271,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7b9c5859f27094716924ae732771ef824ce77147f48570c64417422c747923b5"
+hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -326,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/main_menu_credits.pw.toml"
 hash = "2e691e9b0335390aae11158f2ce26495e756d5607f847a89ddc0f123e12f717c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ba528e27fc27b75a1997936bba35cf7d14c4d4d203aab5c067d5ec3ffcd0cfb6"
 metafile = true
 
 [[files]]
@@ -420,9 +421,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "ccbf634dd4c062d1553697a728ddac199f70c7b1db0b18e8ee80ef56ff2dd386"
+hash = "2e3f8b43bfc3e6c91b76da12a813f6d4d6954815e16e4b24f70c2075f0b4cdbb"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "d9b8159f3adf42d7db77f532353587abb90aef85899b67e2338474bd817243be"
+hash = "6330b6127fa3676b9e68a8c6a4099bde1f834359942cdd84faab58ae5a79b087"
 metafile = true

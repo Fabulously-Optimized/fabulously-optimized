@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "14.0.0-beta.2",
+    "versionId": "14.0.0-beta.3",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -125,19 +125,19 @@
             "fileSize": 117443
         },
         {
-            "path": "mods/bbe-fabric-1.3.7+mc26.2.jar",
+            "path": "mods/bbe-fabric-1.3.8-beta.1+mc26.2.jar",
             "hashes": {
-                "sha1": "0cc5f68db3ebb98540be2dbcbd685d3f912e0fc5",
-                "sha512": "8c2a325a519c28170b3c6290e65f8ac7beb1b515515d226315454bc8ea4958f1366c4a8c0b564a609907dd85c3e75b0b1b626d0b2c13bf2b18e98dab1ff1cd20"
+                "sha1": "ec08648cdda68dc05bf8866289c046ddfefb09a2",
+                "sha512": "c8b41ee9b3eac297d4e699cfb9b042bbc5895cc9e8fca2c1998743e4a59503ac079b5694704337a1d296e5ac3d418220649d6a50a740b15f21559eb7727b257c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/ONZm0H7Y/versions/IDqHHWrF/bbe-fabric-1.3.7%2Bmc26.2.jar"
+                "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Sr2VjbpG/bbe-fabric-1.3.8-beta.1%2Bmc26.2.jar"
             ],
-            "fileSize": 202786
+            "fileSize": 206826
         },
         {
             "path": "mods/bettermounthud-1.3.1.jar",
@@ -200,19 +200,19 @@
             "fileSize": 1040013
         },
         {
-            "path": "mods/controlify-3.1.0+26.2-fabric.jar",
+            "path": "mods/controlify-3.1.1+mc26.2-universal.jar",
             "hashes": {
-                "sha1": "cd89a76756376b825f9b8552a281b7be07319ba0",
-                "sha512": "e13d623ea01c47bcc5c6ab1f479f5076ef26ce1bd98b7a81ac770bcf1b300d8eef7da010d6607fd9adba70368f964b50879ef5983161d67e8cc592ea92d9e3dd"
+                "sha1": "9d7abedfb944ae03776b11b10e8fcf9f32feda5c",
+                "sha512": "6d857dfec6f3caabdce73d57d83a325cd4e793f58da961e4391d114efaa3609502d355aae2b41414f2436d1a62465328b57c27f6f25572324b1a55e7476b44a7"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DOUdJVEm/versions/yzksuauf/controlify-3.1.0%2B26.2-fabric.jar"
+                "https://cdn.modrinth.com/data/DOUdJVEm/versions/3Z0RNraJ/controlify-3.1.1%2Bmc26.2-universal.jar"
             ],
-            "fileSize": 7380629
+            "fileSize": 6225704
         },
         {
             "path": "mods/cwb-4.1.0+26.2.jar",
@@ -320,34 +320,34 @@
             "fileSize": 1583775
         },
         {
-            "path": "mods/fabric-api-0.154.2+26.2.jar",
+            "path": "mods/fabric-api-0.155.2+26.2.jar",
             "hashes": {
-                "sha1": "3b877ba08c963948290098cb4ab718046b011987",
-                "sha512": "7cedad862e8105a7de8db090c0707c25a14a9472654090861dcf490f834862c3212723e762f6f797a0e4683104f4b3a20d3692fb29d7b5c0af437613283d34db"
+                "sha1": "a2bf116a5beeb27245c1a36985aa05d729f78926",
+                "sha512": "cc56984378a27c5bcd56374d6ffbb27a45c6bf3355add2ac6be9817ccac5854362249bf9d0147eb271a70fda2716129204e240d53c9aa876a2a7861f4c7f880f"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/Kr4WG5mG/fabric-api-0.154.2%2B26.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/lVXlbH4w/fabric-api-0.155.2%2B26.2.jar"
             ],
-            "fileSize": 2523877
+            "fileSize": 2530080
         },
         {
-            "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+            "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
             "hashes": {
-                "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
-                "sha512": "ca238ee480dfb237062200fd300be493d022e0837b6998c15807e01488b2a30d5ba4731e5c6d05a5333719c8923a1cb84c06fd6fa45aa88ced492ddb5b40906f"
+                "sha1": "620cb137a9dc69ce86f3114f19d9eedab16366f5",
+                "sha512": "9a63c35a550b0362b7b25ff045d93709c7b0dae08c89076cba422813fdfb9e5f5dd021ed3afac9f82e74e95b88c249e8f68b240717151540ca3e88cc27fb9c77"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/Ha28R6CL/versions/Pd0xrHCw/fabric-language-kotlin-1.13.12%2Bkotlin.2.4.0.jar"
+                "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
             ],
-            "fileSize": 8076848
+            "fileSize": 8076363
         },
         {
             "path": "mods/ferritecore-9.0.0-fabric.jar",
@@ -438,6 +438,21 @@
                 "https://cdn.modrinth.com/data/qJDfP7WN/versions/swCvQBI6/main-menu-credits-1.4.0%2B26.2-universal.jar"
             ],
             "fileSize": 31011
+        },
+        {
+            "path": "mods/modernfix-5.27.19-build.1.jar",
+            "hashes": {
+                "sha1": "77b073d56b7be0d11cf915bd0e764463ee22dcea",
+                "sha512": "10588c52d75af917c06e26d81cd39f89be8b523925cea0a80588077b177aa8b2461aeaa102c390c9a3dca414b624ccc9adc87c3ab92360ab3af6e1430571d141"
+            },
+            "env": {
+                "client": "required",
+                "server": "required"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/TjSm1wrD/versions/TUWH6NZu/modernfix-5.27.19-build.1.jar"
+            ],
+            "fileSize": 1173963
         },
         {
             "path": "mods/modmenu-20.0.1.jar",
@@ -697,17 +712,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "90bf34b308eb63ddb55913fad1c0c6ed0654fac6",
-                "sha512": "a00695625c0e4f08a7512a390737303ecb9d5efd1a71496b62235e284799a7bdbe8984eff5a22bcff6216597829e83c3ec549a5b39623c1114424b9aba6a5126"
+                "sha1": "0e7f852ce0d1333a0dc1434d9055e5f9cd8b777d",
+                "sha512": "97905b43324f0189c4cc9f1dc47fab0d6f2c6da07ca2a780826a4a743aa1343219c4336d234bc439026fd265eed401f8319ba2c2fb82f352d309b4267149d775"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/aJMQSFrp/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/r7AZ0jmT/SodiumTranslations.zip"
             ],
-            "fileSize": 267586
+            "fileSize": 271788
         }
     ],
     "dependencies": {
