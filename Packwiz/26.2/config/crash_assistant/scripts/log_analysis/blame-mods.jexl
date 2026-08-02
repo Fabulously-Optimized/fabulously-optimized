@@ -1,0 +1,62 @@
+var problematicMods = [
+    "chloride",
+    "essential",
+    "essential-container",
+    "essential-dependencies",
+    "optifine",
+
+    "cloth-api",
+    "krypton",
+    "notenoughcrashes",
+    "skinlayers3d",
+    "vulkanmod",
+    "xeno",
+
+    "dawn-loader",
+    "feather-loader",
+
+    "autism",
+    "bvcac",
+    "baritone",
+    "baritone-meteor",
+    "dd",
+    "meteor-client",
+    "wurst",
+    "prestige",
+    "x-ray",
+    "x_ray",
+    "xtoxray",
+    
+    "tlskincape"
+];
+
+var allMods = ModListUtils.getCurrentModList(true);
+
+for (currentMod : allMods) {
+    var id = currentMod.getModId();
+    if (id == null) {
+        continue;
+    }
+
+    var found = false;
+    for (modId : problematicMods) {
+        if (modId == id) {
+            found = true;
+            break;
+        }
+    }
+
+    if (!found) {
+        continue;
+    }
+
+    var message = LanguageProvider.get("custom.blame_mods.generic")
+        .replace("$JAR$", currentMod.jarName);
+        //.replace("$LOADER$", PlatformHelp.loaderJarName)
+        //.replace("$MINECRAFT$", PlatformHelp.minecraftVersion);
+
+    var warn = Analysis.addWarning(message);
+    warn.withModActions(currentMod).withDisableButton(false).withExplorerButton(false);
+    warn.withOkDelay(30);
+}
+

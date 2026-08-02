@@ -11,6 +11,19 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.4 (2026-08-02)
+
+- Added MixinTrace Reborn for testing - while Minecraft's code is no longer obfuscated, some crashes were still a bit too vague, this should help
+- Readded FastQuit
+- Updated Controlify, e4mc, Fabric API, Ixeris, Lithium, Remove Reloading Screen
+- Added a simple mod blamer
+  - A set of mods that are known to cause crashes and/or are not supported by us (e.g. game clients) will be requested to be removed
+  - This will popup only in the case of a crash, to help the user fix the issue faster
+  - User can refuse to remove the mod, but we will not provide additional support until that's done
+- Made it more obvious that pasting crash logs into a Discord thread title is incorrect
+  - Logs should be pasted to the thread description, as instructed in the popup
+- Temporarily incompatible: Fabrishot
+
 ### 14.0.0-beta.3 (2026-07-26)
 
 - Added ModernFix-mVUS for testing

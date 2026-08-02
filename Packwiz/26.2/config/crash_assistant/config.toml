@@ -255,7 +255,7 @@
 	enabled = true
 	#Delay in seconds for the OK button when piracy warning is shown.
 	#Set to 0 or -1 to disable the delay.
-	delay = 0
+	delay = 30
 
 [greeting]
 	#You don't need to touch this option.
@@ -267,7 +267,7 @@
 #Scripts should be placed in config/crash_assistant/scripts/log_analysis folder.
 [scripts]
 	#Enable feature.
-	enabled = false
+	enabled = true
 	#Enable Scripts IDE in the GUI.
 	ide_enabled = false
 	#By changing this value you can disable creating "scripts" folder and placing example scripts there.
