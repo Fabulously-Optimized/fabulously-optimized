@@ -1,7 +1,7 @@
 {
     "gui.window_name": "$LANG.gui.title_crashed_with_report$ - Crash Assistant",
     "gui.title_crashed_with_report": "Fabulously Optimized telah ranap!",
-    "gui.comment_under_title_pls_report": "Jika anda telah menambah mod tambahan, pastikan ia serasi dengan versi Minecraft anda.\n",
+    "gui.comment_under_title_pls_report": "Jika anda telah menambah kandungan tambahan, pastikan ia serasi dengan versi Minecraft anda.\nJika anda ditunjukkan tetingkap timbul \"$LANG.gui.logs_analyzer$\", anda mesti mengikut arahan yang diberikan sebelum meminta sokongan.\n",
     "gui.comment_under_title": "1) Sertai <a href=\"https://download.fo/discord\">pelayan Discord Fabulously Optimized</a>.\n2) Mulakan siaran baharu di <b>#support</b>.\n3) Terangkan apa yang anda lakukan sebelum ranap permainan berlaku, letakkan tajuk, dan tambahkan tag \"<b>Crash</b>\"\n4) <b>Muat naik dan salin semua log</b>, dan tampalkannya ke dalam keterangan siaran.\n5) Tunggu bantuan tiba — kami akan memberitahu anda jika kami memerlukan lebih banyak maklumat.",
     "gui.file_list_label": "Log",
     "gui.menu.file.open_config": "Tetapan Crash Assistant",
@@ -35,6 +35,7 @@
     "gui.intel_corrupted_title": "Kecacatan CPU dikesan",
     "gui.piracy_warning": "Mod luar talian dikesan",
     "warnings.piracy": "Anda sedang menggunakan mod luar talian atau sebuah pelancar yang tidak disokong.\n\nJika anda memerlukan bantuan dengan ranap permainan ini, sila cuba <a href=\"https://download.fo/install/\">memasang salah satu pelancar yang disokong</a> atau bertukar kepada mod dalam talian, kemudian mengulangi tindakan yang menyebabkan ranap permainan tersebut.\nKami tidak menyediakan sokongan untuk ranap permainan yang berlaku dalam mod luar talian.",
+    "custom.blame_mods.generic": "Anda telah menambah satu mod ke dalam pek mod yang berkemungkinan menyebabkan ranap permainan tersebut\n<b>Sila keluarkan $JAR$ dan cuba lagi.</b>\n\n<i>Tiada sokongan akan diberikan sehingga mod tersebut dikeluarkan.</i>",
     "gui.menu.file": "Fail",
     "gui.menu.file.open_config_folder": "Buka folder config",
     "gui.menu.file.open_mods_folder": "Buka folder mods",
