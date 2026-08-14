@@ -43,6 +43,19 @@ body:
   validations:
     required: false
 
+- type: dropdown
+  attributes:
+    label: Modrinth listing disclosures
+    description: Select all disclosures that are present on the Modrinth listing sidebar, skip if none. Elaborate in text fields below.
+    multiple: true
+    options:
+      - Unknown
+      - Allowed
+      - Not allowed
+  validations:
+    required: false 
+    
+
 - type: input
   attributes:
     label: Source/other link
