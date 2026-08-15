@@ -45,7 +45,7 @@ body:
 
 - type: dropdown
   attributes:
-    label: Contains AI-generated content
+    label: Modrinth project disclosures
     description: Select all disclosures that are present on the Modrinth listing sidebar, skip if none. Elaborate under "Additional details".
     multiple: true
     options:
