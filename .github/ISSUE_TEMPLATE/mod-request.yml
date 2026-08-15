@@ -45,17 +45,21 @@ body:
 
 - type: dropdown
   attributes:
-    label: Modrinth listing disclosures
-    description: Select all disclosures that are present on the Modrinth listing sidebar, skip if none. Elaborate in text fields below.
+    label: Contains AI-generated content
+    description: Select all disclosures that are present on the Modrinth listing sidebar, skip if none. Elaborate under "Additional details".
     multiple: true
     options:
-      - Unknown
-      - Allowed
-      - Not allowed
+      - AI-generated content
+      - Advertising
+      - Paid features
+      - Telemetry
+      - Derivative content
+      - Photosensitivity
+      - External system interactions
+      - Archived
   validations:
     required: false 
     
-
 - type: input
   attributes:
     label: Source/other link
