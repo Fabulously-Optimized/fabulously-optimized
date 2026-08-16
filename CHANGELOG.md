@@ -11,6 +11,18 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.5 (2026-08-16)
+
+- Updated Controlify, Crash Assistant, Fabric API, Ixeris, LambDynamicLights, MoreCulling, Polytone, Skyboxify
+  - Users who have not added extra mods should no longer receive a crash upon exiting the game
+- Adjusted Crash Assistant config
+- Hid a library from Mod Menu
+- Hid a mod suggestion in logs
+- Updated Polytone's MMH entry
+- Disabled 4 options on ModernFix-mVUS that caused confusion
+- Updated Italian, Estonian, Malay (Latin and Jawi) translations
+- Temporarily incompatible: Fabrishot
+
 ### 14.0.0-beta.4 (2026-08-02)
 
 - Added MixinTrace Reborn for testing - while Minecraft's code is no longer obfuscated, some crashes were still a bit too vague, this should help

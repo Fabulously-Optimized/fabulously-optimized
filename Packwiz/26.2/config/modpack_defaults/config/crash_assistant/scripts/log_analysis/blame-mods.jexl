@@ -56,7 +56,8 @@ for (currentMod : allMods) {
         //.replace("$MINECRAFT$", PlatformHelp.minecraftVersion);
 
     var warn = Analysis.addWarning(message);
+    Analysis.putCopiedResult("ignored-removal-prompt", "Has $JAR$".replace("$JAR$", currentMod.jarName));
     warn.withModActions(currentMod).withDisableButton(false).withExplorerButton(false);
-    warn.withOkDelay(30);
+    warn.withOkDelay(10);
 }
 

@@ -10,15 +10,35 @@
 	#   - DISCORD: Uses terminology like 'join the Discord' and 'post in #channel'.
 	#   - GITHUB: Uses terminology like 'visit the GitHub' and 'post into a new issue'.
 	formulation_type = "DISCORD"
-	#Anyways log will be uploaded to mclo.gs, but with this option you can wrap link to gnomebot.dev for better formatting.
-	#If help_link equals 'CHANGE_ME', this value will be ignored and gnomebot.dev used.
-	#Supported values: mclo.gs / gnomebot.dev
-	upload_to = "mclo.gs"
+	#Logs are always uploaded to mclo.gs. This option only controls which link is copied after the upload.
+	#This is needed to make viewing logs more convenient, especially on mobile.
+	#Supported values:
+	#   - mclo.gs: copies the original mclo.gs link.
+	#   - gnomebot.dev: wraps the mclo.gs link through gnomebot.dev.
+	#   - kostromdan.dev (recommended): wraps the mclo.gs link through paste.kostromdan.dev and copies the short p.kdan.dev link.
+	wrap_link = "mclo.gs"
+	#If enabled, Crash Assistant sends metadata about uploaded logs to api.kostromdan.dev after upload.
+	#This does not upload log contents to our server: logs are still uploaded to mclo.gs.
+	#This metadata is needed so paste.kostromdan.dev can switch between logs uploaded from the same crash in the browser,
+	#and can check/show the Minecraft UUID (for piracy check purposes) for those logs even if a particular uploaded log does not contain it.
+	#This works independently from general.wrap_link.
+	send_uploaded_logs_data_to_kostromdan_dev = false
 	#Show gui on minecraft crashed on modloading and FML error screen displayed.
 	show_on_fml_error_screen = true
 	#Close old CrashAssistantApp if it's still running when starting a new instance of Minecraft, to avoid confusing player with window from old crash.
 	kill_old_app = true
-	#If options.txt doesn't exist, the default language will be used.
+	#Controls where the standalone Crash Assistant app gets the language for its interface.
+	#When this code runs inside the Minecraft process, the language is always read from Minecraft options.txt and this option is ignored.
+	#Supported values:
+	#   - SYSTEM (default): Uses the operating system language. Regional variants are matched to an available translation.
+	#     For example, en_US, en_GB, and other English locales use en_us when it is the available English translation.
+	#   - GAME: Uses the language from the lang entry in the Minecraft options.txt file.
+	#   - A language key such as en_us or ru_ru: Forces that language and ignores both the system and Minecraft languages.
+	#If the selected source cannot provide an available language, general.default_lang is used.
+	language_source = "GAME"
+	#Fallback interface language used when general.language_source cannot provide an available language.
+	#Use a language key such as en_us or ru_ru.
+	#If this language is also unavailable, Crash Assistant falls back to en_us.
 	default_lang = "en_us"
 	#By default, crash assistant will get the value for the current language from the overrides folder, then from the jar.
 	#By changing this option, it will first try to get it from the current overrides, then (if no override exists for this language)
@@ -127,6 +147,7 @@
 	#$PROBLEMATIC_FRAME$ - hs_err frame
 	#$ANALYSIS_RESULT$ - Analysis results
 	#$MODLIST_DIFF$ - Modlist changes
+	#$CUSTOM/name$ - Entries added by scripts to the named custom slot
 	message_structure = "$HEADER$$TEXT_UNDER_CRASHED$$PREFIX$$LOGS$\n$PROBLEMATIC_FRAME$$ANALYSIS_RESULT$$MODLIST_DIFF$"
 	#Pattern for a single log line.
 	#Variables: $LOG_NAME$, $FILE_NAME$, $LINK$.
@@ -255,7 +276,7 @@
 	enabled = true
 	#Delay in seconds for the OK button when piracy warning is shown.
 	#Set to 0 or -1 to disable the delay.
-	delay = 30
+	delay = 10
 
 [greeting]
 	#You don't need to touch this option.
