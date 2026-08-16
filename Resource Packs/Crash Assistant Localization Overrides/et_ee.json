@@ -1,7 +1,7 @@
 {
     "gui.window_name": "$LANG.gui.title_crashed_with_report$ - Crash Assistant",
     "gui.title_crashed_with_report": "Fabulously Optimized krahhis!",
-    "gui.comment_under_title_pls_report": "Kui oled lisanud täiendavat sisu, veendu, et see ühildub sinu Minecrafti versiooniga.\n",
+    "gui.comment_under_title_pls_report": "Kui oled lisanud täiendavat sisu, veendu, et see ühildub sinu Minecrafti versiooniga.\nKui sulle kuvati hüpikut \"$LANG.gui.logs_analyzer$\", pead enne toe taotlemist järgima selle juhiseid.\n",
     "gui.comment_under_title": "1) Liitu <a href=\"https://download.fo/discord\">Fabulously Optimized'i Discordiga</a>.\n2) Alusta uut postitust kanalis <b>#support</b>.\n3) Kirjelda, mida tegid enne krahhi teket, lisa pealkiri ja silt \"<b>Crash</b>\".\n4) <b>Laadi üles ja kopeeri kõik logid</b> ning kleebi need postituse kirjeldusse.\n5) Oota abi — anname teada, kui vajame lisainfot.",
     "gui.file_list_label": "Logid",
     "gui.menu.file.open_config": "Crash Assistanti seaded",
@@ -35,6 +35,7 @@
     "gui.intel_corrupted_title": "Protsessori defekt tuvastatud",
     "gui.piracy_warning": "Võrguta režiim tuvastatud",
     "warnings.piracy": "Kasutad mittetoetatud käivitajat või võrguta režiimi.\n\nKui vajad selle krahhiga abi, palun proovi <a href=\"https://download.fo/install/\">paigaldada mõni toetatud käivitaja</a> või lülituda võrgus režiimi, seejärel korrata toiminguid, mis viisid krahhi tekkeni.\nMe ei paku tuge võrguta režiimis tekkinud krahhidele.",
+    "custom.blame_mods.generic": "Oled modipakki lisanud modi, mis tõenäoliselt põhjustas selle krahhi.\n<b>Palun eemalda $JAR$ ja proovi uuesti.</b>\n\n<i>Enne modi eemaldamist tuge ei pakuta.</i>",
     "gui.menu.file": "Fail",
     "gui.menu.file.open_config_folder": "Ava config kaust",
     "gui.menu.file.open_mods_folder": "Ava mods kaust",
