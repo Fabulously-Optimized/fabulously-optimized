@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "14.0.0-beta.5",
+    "versionId": "14.0.0-beta.6",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -65,19 +65,19 @@
             "fileSize": 609550
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.16.3+26.2.jar",
             "hashes": {
-                "sha1": "2d1cd27b0b570f908b665c02a35b49381b4c5ec1",
-                "sha512": "5f7c9d7993bfe3654b4f384c23afd83c1adcc359b1fa669b20f29ffa41e4e3135a161c1fdf97c66c5fc513ec5fe63e757a46b6e183b7b93148a28412496c5a0b"
+                "sha1": "3a9fe02bbfdecd6af9ab418b55d4ebc9f0f1f5d3",
+                "sha512": "79321f00b73755ae54f08120e81fd559dc5d7a34ef7bedddd1e9e467de0daebec885b377db5fffd4aa190d81ce44c66af38fbef82ad49f661da5ddd2ef3fc49e"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/uJHxuQxy/ImmediatelyFast-Fabric-1.16.2%2B26.2.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/rxHcwxdQ/ImmediatelyFast-Fabric-1.16.3%2B26.2.jar"
             ],
-            "fileSize": 91422
+            "fileSize": 92582
         },
         {
             "path": "mods/Ixeris-4.6.5+26.2-fabric.jar",
@@ -575,19 +575,19 @@
             "fileSize": 254973
         },
         {
-            "path": "mods/polytone-26.2-6.3.1-fabric.jar",
+            "path": "mods/polytone-26.2-6.3.2-fabric.jar",
             "hashes": {
-                "sha1": "f6c0d04ac583062e1bd83e3d839275761b42624d",
-                "sha512": "effe519b9c7f82d6c38890be42f021177ccfeefacb66af76487186c440e53a7dfd5c1aa6300c1367cd563a6f6fe4ee8d946405c28d1bf69a78229e7786a07ecb"
+                "sha1": "c3eb471b7553e815c6bbf11b95cbdebca8dff936",
+                "sha512": "67a0e113ea89d6838dc67ab09e5992b19b61029756d07b5a859f755d27ad4c633b30450b11548a84879c71394f25281ec80867911a6633933509d67d1a387d86"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/vcgXOUY8/polytone-26.2-6.3.1-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/3XAFjwPA/polytone-26.2-6.3.2-fabric.jar"
             ],
-            "fileSize": 2514806
+            "fileSize": 2514699
         },
         {
             "path": "mods/puzzle-fabric-2.3.1+26.2.jar",
@@ -635,19 +635,19 @@
             "fileSize": 119145
         },
         {
-            "path": "mods/skyboxify-3.3+26.2-fabric.jar",
+            "path": "mods/skyboxify-3.3.1+26.2-fabric.jar",
             "hashes": {
-                "sha1": "e73c94b2530197be16b80b31d6ae7cb1a0dba5b6",
-                "sha512": "90fef3a216503f58a955a220552d1a29edc2dfab53d058315063b3c04b35939c5cb3b8dca61c35dad2e533d80c788f6c9a2824850aae8b640611b7fc83bbcae0"
+                "sha1": "e7283fdb3a33b3501d304d9199b2882ca8a3cfc9",
+                "sha512": "2cfd3cb2b1e6dcefa5040be5907d211c806fb104eeaec33819143b995fdb64063b8dbdcb29ee191c7a56134ff36852e0032855a41c02d228ab54c087aea28a15"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/DWuwk8aA/versions/OdY2kzJ1/skyboxify-3.3%2B26.2-fabric.jar"
+                "https://cdn.modrinth.com/data/DWuwk8aA/versions/rChaTdfe/skyboxify-3.3.1%2B26.2-fabric.jar"
             ],
-            "fileSize": 307124
+            "fileSize": 307126
         },
         {
             "path": "mods/sodium-extra-fabric-0.9.3+mc26.2.jar",

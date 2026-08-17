@@ -11,6 +11,11 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.6 (2026-08-17)
+
+- Updated ImmediatelyFast, Polytone, Skyboxify
+  - Fixed crash and invisibility of leads when shaders are applied
+
 ### 14.0.0-beta.5 (2026-08-16)
 
 - Updated Controlify, Crash Assistant, Fabric API, Ixeris, LambDynamicLights, MoreCulling, Polytone, Skyboxify
