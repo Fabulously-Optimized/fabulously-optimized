@@ -15,6 +15,7 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 
 - Updated ImmediatelyFast, Polytone, Skyboxify
   - Fixed crash and invisibility of leads when shaders are applied
+- Temporarily incompatible: Fabrishot
 
 ### 14.0.0-beta.5 (2026-08-16)
 
