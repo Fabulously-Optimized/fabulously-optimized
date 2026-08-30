@@ -11,6 +11,13 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.7 (2026-08-30)
+
+- Updated Fabric API, ImmediatelyFast, No Chat Reports, Polytone
+- Updated Crash Assistant configuration
+- Updated translations in Estonian, Malay (Latin and Jawi)
+- Temporarily incompatible: Fabrishot
+
 ### 14.0.0-beta.6 (2026-08-17)
 
 - Updated ImmediatelyFast, Polytone, Skyboxify
@@ -111,6 +118,15 @@ Changes:
 # Tiny Takeover (13.x.x)
 
 ## 26.1.2
+
+### 13.4.0 (2026-08-30)
+
+- Added ModernFix-mVUS - a fork of ModernFix with similar features
+- Added MixinTrace Reborn - while Minecraft's code is no longer obfuscated, some crashes were still a bit too vague, this should help
+- Updated Controlify, Crash Assistant, e4mc, Fabric API, Fabric Language Kotlin, Iris Shaders, Ixeris, LambDynamicLights, Lithium, MoreCulling, Polytone, Skyboxify
+- Backported Crash Assistant, ModernFix-mVUS configurations
+- Hid an API from Mod Menu
+- Hid a mod suggestion in logs
 
 ### 13.3.0 (2026-07-15)
 
@@ -323,6 +339,17 @@ Changes:
 # Mounts of Mayhem (12.x.x)
 
 ## 1.21.11
+
+### 12.3.0 (2026-08-30)
+
+- Added ModernFix-mVUS - a fork of ModernFix with similar features
+- Updated BetterGrassify, Controlify, Crash Assistant, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Ixeris, Language Reload, Polytone, Reese's Sodium Options, Skyboxify
+  - Skipped Sodium and Sodium Extra updates due to known incompatibilities
+- Backported Crash Assistant, ModernFix-mVUS, Reese's Sodium Options configurations
+- Hid an API from Mod Menu
+- Hid a mod suggestion in logs
+- Minecraft 1.21.11 and Fabric Loader 0.19.3 or newer are now recommended in logs if a different version is present
+  - This means the game will not be blocked if the user has changed either version, but helps with finding causes in case of crashes
 
 ### 12.2.2 (2026-06-09)
 

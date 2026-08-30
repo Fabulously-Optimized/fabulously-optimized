@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.19.2"}},"minecraft":{"+recommends":{"Fabulously Optimized":">12.2.2"}},"cubes-without-borders":{"+breaks":{"borderlessmining":"*"}}}}
+{"version":1,"overrides":{"minecraft":{"+recommends":{"Fabulously Optimized":">12.3.0","minecraft":"1.21.11","fabricloader":">=0.19.3"}},"cubes-without-borders":{"+breaks":{"borderlessmining":"*"}},"polytone":{"recommends":{}}}}

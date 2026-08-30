@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "14.0.0-beta.6",
+    "versionId": "14.0.0-beta.7",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -65,19 +65,19 @@
             "fileSize": 609550
         },
         {
-            "path": "mods/ImmediatelyFast-Fabric-1.16.3+26.2.jar",
+            "path": "mods/ImmediatelyFast-Fabric-1.16.4+26.2.jar",
             "hashes": {
-                "sha1": "3a9fe02bbfdecd6af9ab418b55d4ebc9f0f1f5d3",
-                "sha512": "79321f00b73755ae54f08120e81fd559dc5d7a34ef7bedddd1e9e467de0daebec885b377db5fffd4aa190d81ce44c66af38fbef82ad49f661da5ddd2ef3fc49e"
+                "sha1": "ad000a89ef86575019087a2068eb4eebad02c05e",
+                "sha512": "b8b375e6d47acd6051fc7110065d0a18b59db584eb68699652ced212ea0a9b2b9a78d2f791f641ab3547e0ca56b51e0af7c60c1164b4d38910d9aa94e45241c0"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/5ZwdcRci/versions/rxHcwxdQ/ImmediatelyFast-Fabric-1.16.3%2B26.2.jar"
+                "https://cdn.modrinth.com/data/5ZwdcRci/versions/vkW9vHhp/ImmediatelyFast-Fabric-1.16.4%2B26.2.jar"
             ],
-            "fileSize": 92582
+            "fileSize": 98633
         },
         {
             "path": "mods/Ixeris-4.6.5+26.2-fabric.jar",
@@ -95,19 +95,19 @@
             "fileSize": 761542
         },
         {
-            "path": "mods/NoChatReports-FABRIC-26.2-v2.20.1.jar",
+            "path": "mods/NoChatReports-FABRIC-26.2-v2.20.2.jar",
             "hashes": {
-                "sha1": "0c095e6ee699cb1f5c9732ef632cf93998b1d468",
-                "sha512": "139dd09e04cc66fe4745264ddfbe3249be6e956326c931eb9707f9a640bbc011a4f1fd5684d04ca90e1b473be55772b0279e5c2f935c2f2e85d054e2ab0a6923"
+                "sha1": "680b60f6ec5c09a646e7a76bb17cf551608051cd",
+                "sha512": "aa14fa2d1cc94803f4c965fd817a945823037237bd7a1fea9dc9a0c6427084d25b8d9273da76bc132fe68794d2be8b91540bfff1309125aea37820c12bff0268"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/qQyHxfxd/versions/uiY9tUaj/NoChatReports-FABRIC-26.2-v2.20.1.jar"
+                "https://cdn.modrinth.com/data/qQyHxfxd/versions/aDbxaVTi/NoChatReports-FABRIC-26.2-v2.20.2.jar"
             ],
-            "fileSize": 239191
+            "fileSize": 239602
         },
         {
             "path": "mods/animatica-0.6.3+26.2.jar",
@@ -320,19 +320,19 @@
             "fileSize": 1583775
         },
         {
-            "path": "mods/fabric-api-0.157.0+26.2.jar",
+            "path": "mods/fabric-api-0.158.0+26.2.jar",
             "hashes": {
-                "sha1": "0deb9d110def35ebcaf5f15a9e6c8b8e85685319",
-                "sha512": "4ebec489f2b2ce621ebebb2d1b7e9714b6fd288ebdb4e287d767cde57612cf1d3d1d4f51daf7e7ec9541fa146df6bde4978ab98a29637ced6d9bc2f3c4217650"
+                "sha1": "7d0fb560579d28b933bdbc36b47449efe78d3bda",
+                "sha512": "4c2c1ebe74ffd54875a01ff371b53ba3d8674ac98d561f7dae02a96d3d37fbdbc5f5abc6e820f73b6154d6f873ddd05a442b0998ed2d456863dc0ad972e040a6"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/vmQp7ixA/fabric-api-0.157.0%2B26.2.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/NqwNSxwA/fabric-api-0.158.0%2B26.2.jar"
             ],
-            "fileSize": 2533297
+            "fileSize": 2535765
         },
         {
             "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
@@ -575,19 +575,19 @@
             "fileSize": 254973
         },
         {
-            "path": "mods/polytone-26.2-6.3.2-fabric.jar",
+            "path": "mods/polytone-26.2-6.4.3-fabric.jar",
             "hashes": {
-                "sha1": "c3eb471b7553e815c6bbf11b95cbdebca8dff936",
-                "sha512": "67a0e113ea89d6838dc67ab09e5992b19b61029756d07b5a859f755d27ad4c633b30450b11548a84879c71394f25281ec80867911a6633933509d67d1a387d86"
+                "sha1": "b92bc5ce53c35cf5f6b3e929f2548f4f5c9b87d4",
+                "sha512": "9cef41bfa337c54754574903c7194d2e36bc1eedf1ac53571873fb975499eadc59b40f30b050777a16e01c89e508c1f6f7fdb1da3947ccaa875d7bb03cc73347"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/3qAYkBMB/versions/3XAFjwPA/polytone-26.2-6.3.2-fabric.jar"
+                "https://cdn.modrinth.com/data/3qAYkBMB/versions/J4W1flAZ/polytone-26.2-6.4.3-fabric.jar"
             ],
-            "fileSize": 2514699
+            "fileSize": 2551664
         },
         {
             "path": "mods/puzzle-fabric-2.3.1+26.2.jar",
@@ -742,17 +742,17 @@
         {
             "path": "resourcepacks/SodiumTranslations.zip",
             "hashes": {
-                "sha1": "e2c0928a53d895e6b7876eb2b58564321338e20b",
-                "sha512": "b5d4b3959752c1d26e731a0cefb37e5dfffb59043d84afc9e88fa2afee61fe0560b19794beae0f70211d806f8c3aefaaf8874b52f96f87cbcce6869c54a8d06f"
+                "sha1": "8e927e955ed34d648343971ec14db85899e4d6ec",
+                "sha512": "7e44d529e6e15fcf25aef9b4ec522554c9c4694bb7dd21adecefe05e6db45991cd13b40f7bee262d345ec10b15240b0a1b44b9de9e7516bafcfd105126f9409c"
             },
             "env": {
                 "client": "required",
                 "server": "required"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/yfDziwn1/versions/PlfwCjn2/SodiumTranslations.zip"
+                "https://cdn.modrinth.com/data/yfDziwn1/versions/bgGjmwGk/SodiumTranslations.zip"
             ],
-            "fileSize": 279390
+            "fileSize": 283773
         }
     ],
     "dependencies": {
