@@ -11,6 +11,13 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0-beta.7 (2026-08-30)
+
+- Updated Fabric API, ImmediatelyFast, No Chat Reports, Polytone
+- Updated Crash Assistant configuration
+- Updated translations in Estonian, Malay (Latin and Jawi)
+- Temporarily incompatible: Fabrishot
+
 ### 14.0.0-beta.6 (2026-08-17)
 
 - Updated ImmediatelyFast, Polytone, Skyboxify
@@ -112,7 +119,7 @@ Changes:
 
 ## 26.1.2
 
-### 13.4.0 (2026-08-30)c
+### 13.4.0 (2026-08-30)
 
 - Added ModernFix-mVUS - a fork of ModernFix with similar features
 - Added MixinTrace Reborn - while Minecraft's code is no longer obfuscated, some crashes were still a bit too vague, this should help
