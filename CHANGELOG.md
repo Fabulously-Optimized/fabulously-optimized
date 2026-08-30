@@ -324,6 +324,16 @@ Changes:
 
 ## 1.21.11
 
+### 12.3.0 (2026-08-30)
+
+- Added ModernFix-mVUS - a fork of ModernFix with similar features
+- Updated BetterGrassify, Controlify, Crash Assistant, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Ixeris, Language Reload, Polytone, Reese's Sodium Options, Skyboxify
+  - Skipped Sodium and Sodium Extra updates due to known incompatibilities
+- Backported Crash Assistant, ModernFix-mVUS, Reese's Sodium Options configurations
+- Hid an API from Mod Menu
+- Minecraft 1.21.11 and Fabric Loader 0.19.3 or newer are now recommended in logs if a different version is present
+  - This means the game will not be blocked if the user has changed either version, but helps with finding causes in case of crashes
+
 ### 12.2.2 (2026-06-09)
 
 - Disabled MC-89146 in Debugify
