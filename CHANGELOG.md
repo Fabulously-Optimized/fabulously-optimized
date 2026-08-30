@@ -112,6 +112,15 @@ Changes:
 
 ## 26.1.2
 
+### 13.4.0 (2026-08-30)c
+
+- Added ModernFix-mVUS - a fork of ModernFix with similar features
+- Added MixinTrace Reborn - while Minecraft's code is no longer obfuscated, some crashes were still a bit too vague, this should help
+- Updated Controlify, Crash Assistant, e4mc, Fabric API, Fabric Language Kotlin, Iris Shaders, Ixeris, LambDynamicLights, Lithium, MoreCulling, Polytone, Skyboxify
+- Backported Crash Assistant, ModernFix-mVUS configurations
+- Hid an API from Mod Menu
+- Hid a mod suggestion in logs
+
 ### 13.3.0 (2026-07-15)
 
 - Added Polytone - now updated again
@@ -331,6 +340,7 @@ Changes:
   - Skipped Sodium and Sodium Extra updates due to known incompatibilities
 - Backported Crash Assistant, ModernFix-mVUS, Reese's Sodium Options configurations
 - Hid an API from Mod Menu
+- Hid a mod suggestion in logs
 - Minecraft 1.21.11 and Fabric Loader 0.19.3 or newer are now recommended in logs if a different version is present
   - This means the game will not be blocked if the user has changed either version, but helps with finding causes in case of crashes
 
