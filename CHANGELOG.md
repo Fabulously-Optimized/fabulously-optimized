@@ -11,6 +11,20 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.0.0 (2026-09-10)
+
+Major changes from 13.4.0 to 14.0.0:
+
+- Added Renice Shot - a fork of Fabrishot
+- Added Text Placeholder API - a dependency of Mod Menu that was previously bundled in it; allows certain formatted texts in mod descriptions
+- Updated Fabric Loader to 0.19.5
+
+Changes from beta 7 to release:
+
+- Added Renice Shot - a fork of Fabrishot
+- Updated Entity Model Features, Entity Texture Features, Fabric API, Fabric Language Kotlin, LambDynamicLights, Polytone
+- Updated Fabric Loader to 0.19.5
+
 ### 14.0.0-beta.7 (2026-08-30)
 
 - Updated Fabric API, ImmediatelyFast, No Chat Reports, Polytone

@@ -14,11 +14,11 @@ hash = "8738e08b86ad4be337dbb09d90554437e9b8306f1b2e8fb98e87d847b3d85bdb"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d1f6872ec69d4a97c6748e5c8a76a1071842d51e4532fd2709c270a56e1b94e8"
+hash = "0285e1de40e9589bc97d1c2eac105401c051a3d5c77166a4fb58f5f50cc10c2a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ac45d9fac9207ad1bad8d13d219f3f8106fcb1fbfabbcb61cfa68a4ee4adfb5b"
+hash = "3a97f95470bbab292c2fecc7b28bfff2889005c52e8aa6ec9f1c029101d1e5c9"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -134,11 +134,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "d1f6872ec69d4a97c6748e5c8a76a1071842d51e4532fd2709c270a56e1b94e8"
-
-[[files]]
-file = "config/modpack_defaults/config/fabrishot.properties"
-hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
+hash = "bfbaaad3e93ea6aa9f5b0a7fb9fffe64a49685ad3680cd186fe8a6cecf4cf141"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -150,7 +146,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "ac45d9fac9207ad1bad8d13d219f3f8106fcb1fbfabbcb61cfa68a4ee4adfb5b"
+hash = "055b2e71340726cea1c0f84e8be6123022ea279c85959cea9b0d3c221c86642c"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -175,6 +171,10 @@ hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
 [[files]]
 file = "config/modpack_defaults/config/reeses_sodium_options.json"
 hash = "6dbf38d3c870c6f03539f7ea8150833b41f89a6ca5b86bcd3ff0ef19d881fc83"
+
+[[files]]
+file = "config/modpack_defaults/config/renice-shot.properties"
+hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
 
 [[files]]
 file = "config/modpack_defaults/config/rrls.toml"
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "84ef28e5a74f5dd3c87a9df9cb1366582eb3fa9b6fb75df10948b1d60a20a8e3"
+hash = "0a8318eb5093d59be898bb0b9de23cbfba4b0d55b82497b07f649780806b655d"
 metafile = true
 
 [[files]]
@@ -268,12 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity_model_features.pw.toml"
-hash = "981077ee08c50b0da9cca65c62e7cdc09e5bb89d9c6b75a300a7ac716207928b"
+hash = "b556599d05ebc0c37266a04ee38a12f139bf4f1ee788a593faf9b9997ad77bff"
 metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "0cc9fcaaffdc7b958046bdc2949bae890bbe963b9d36f3e387bf9b3af7c33767"
+hash = "d662aabc0a274d26cfb56b60455565a995f28caaf2ea2a88d89238929f245622"
 metafile = true
 
 [[files]]
@@ -283,12 +283,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7ed424f5ce1febe2c2c0e5fc58d34858f1bbd97eabdceb9b9c6afdde4bf578df"
+hash = "37069be1c7d23b2fe463a98297d1f12eb8875f0d3be651a3a6cadc868752ab5a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynlights.pw.toml"
-hash = "3ec34aea51f8b699bf15ffa6f116d9e2bb8c0559c5d1cfab6c44c467929f5e10"
+hash = "bd680ec2ef9d3600b5a8044c70816ef4848253f890f93000a627a55b0f0a9bdb"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9878f943da47a74556c8b1435f4843e4aebe2ef8961156ac62e29664cd2d02ca"
+hash = "7391de2b8f250e59f6b6ee05498078efd19e42cf6741ff8d3eba3c76679c3a8b"
 metafile = true
 
 [[files]]
@@ -399,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "88f5d239fb738f5a05834c9b7fe8b5ab75041a0f407a9ae3e42c9ba3eb2e297f"
+metafile = true
+
+[[files]]
+file = "mods/renice-shot.pw.toml"
+hash = "f5c5f4e1fe2871c375f290c3e6088e3a0de811a6f5028bb566fc574808fea47e"
 metafile = true
 
 [[files]]
@@ -443,9 +448,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "f00927616960768214235f05e26a52b089c0e75e07b1c4036f05fdf3970d05f9"
+hash = "fba914c59548b915d2da52a01850139a91b67c00cbe9e53bc5608aca36f88091"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "902fd03153a86e91a13393b46381e941024740feb3637d0f66607386475d6897"
+hash = "c48b86d65a99f7e34667a68e9b31dfd9c24e75ad9c8b8c5a984047716e48db68"
 metafile = true
