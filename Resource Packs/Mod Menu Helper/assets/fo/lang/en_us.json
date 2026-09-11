@@ -1,7 +1,7 @@
 {
-    "fo.resourcePack.modmenuhelper": "§7Lists modpack features in Mod Menu and options§r",
-    "modmenu.dropInfo.line1": "§9🛠§r/§8🛠§r - Modpack mod, available options | §3§l📥§r - provides resource pack features",
-    "modmenu.dropInfo.line2": "Add extra mods with drag and drop or https://download.fo/add",
+    "fo.resourcePack.modmenuhelper": "§7Shows modpack features in Mod Menu and options§r",
+    "modmenu.dropInfo.line1": "§9🛠§r/§8🛠§r - Fabulously Optimized mod, list of available options",
+    "modmenu.dropInfo.line2": "§3§l📥§r - custom resource pack required to see effect",
     "modmenu.summaryTranslation.animatica": "OptiFine's Custom Animations\n§3§l📥§r§8🛠 (only advanced options)",
     "modmenu.nameTranslation.betterblockentities": "Better Block Entities",
     "modmenu.summaryTranslation.betterblockentities": "Faster chests, signs, beds etc.\n§9🛠§8 In Video Settings: supported blocks, animations, ...",
@@ -53,10 +53,11 @@
     "modmenu.summaryTranslation.sspb": "Vanilla look for dirt paths\n§9🛠§8 In Video Settings: shadow strength, ...",
     "modmenu.summaryTranslation.zoomify": "Zoom by holding <keybind zoomify.key.zoom>\n§9🛠§8 Distance, cinematic camera, keybind, ...",
     "fo.resourcePack.fastbettergrass": "§7OptiFine's Better Grass (fast)§r\n§4Must be the first to work§r",
+    "menu.multiplayerOptions.button": "Open to Internet",
     "menu.multiplayerOptions.lan": "LAN and Internet",
     "menu.multiplayerOptions.network.lan.tooltip": "Players on the same network can join via LAN; players anywhere in the world can join via an address shared by you.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "Welcome to §7Fabulously Optimized§r! Here are some tips to get started.\n\n§f🪟§r Connected Textures, Dynamic Lights, Better Grass - configure in §7Mods§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7World Options...§r in singleplayer",
-    "pack.dropInfo": "You can also use shaders and extra resource pack features! See \"Mods\" for info.",
-    "options.languageAccuracyWarning": "Help translate the modpack: https://download.fo/translate"
+    "accessibility.onboarding.screen.title": "§6Welcome to §eFabulously Optimized§6!§r\n§f🪟§r Connected Textures, Dynamic Lights, Better Grass - see §7Mods§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer",
+    "pack.dropInfo": "Extra pack features supported! See §fMods§r for info.",
+    "options.languageAccuracyWarning": "§fHelp translate the modpack: §7https://download.fo/translate§r"
 }
