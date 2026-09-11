@@ -6,6 +6,8 @@ var expectedLoader = "fabric-loader";
 var expectedLoaderVersion = "0.19.5";
 var expectedJavaVersion = "25";
 
+/* Dynamic variables */
+
 var fileNameWithoutExtension = PlatformHelp.loaderJarName.substring(0, PlatformHelp.loaderJarName.length() - 4);
 var separatorIndex = fileNameWithoutExtension.lastIndexOf("-");
 
@@ -37,19 +39,16 @@ function getLauncherName() {
     }
 
     if (marker == null) { return null; }
-
     var markerPosition = path.indexOf(marker);
 
     if (markerPosition < 0) { return null; }
-
     var start = markerPosition + marker.length();
-    var end = path.indexOf("/", start);
 
+    var end = path.indexOf("/", start);
     if (end < 0) { return null; }
 
     return path.substring(start, end);
 }
-
 var launcher = getLauncherName();
 
 function addVariables(message) {
