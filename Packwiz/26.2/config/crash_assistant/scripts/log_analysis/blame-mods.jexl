@@ -129,11 +129,18 @@ for (currentMod : allMods) {
 
 /* Other potential issues */
 
-if (expectedMinecraftVersion != actualMinecraftVersion) {
-    var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft");
+if (VersionUtils.isLower(actualMinecraftVersion, expectedMinecraftVersion)) {
+    var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft.older");
     
     Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
-    Analysis.putCopiedResult("wrong-minecraft", addVariables("Wrong Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
+    Analysis.putCopiedResult("wrong-minecraft", addVariables("Older Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
+}
+
+if (VersionUtils.isGreater(actualMinecraftVersion, expectedMinecraftVersion)) {
+    var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft.newer");
+    
+    Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
+    Analysis.putCopiedResult("wrong-minecraft", addVariables("Newer Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
 }
 
 if (expectedLoader != actualLoader) {
