@@ -1,3 +1,81 @@
+/* Static variables */
+
+var modpackVersion = "14.0.0";
+var expectedMinecraftVersion = "26.2";
+var expectedLoader = "fabric-loader";
+var expectedLoaderVersion = "0.19.5";
+var expectedJavaVersion = "25";
+
+var fileNameWithoutExtension = PlatformHelp.loaderJarName.substring(0, PlatformHelp.loaderJarName.length() - 4);
+var separatorIndex = fileNameWithoutExtension.lastIndexOf("-");
+
+var actualMinecraftVersion = PlatformHelp.minecraftVersion;
+var actualLoader = fileNameWithoutExtension.substring(0, separatorIndex);
+var actualLoaderVersion = fileNameWithoutExtension.substring(separatorIndex + 1);
+var actualJavaVersion = PlatformHelp.getCurrentJdkMajorVersion().toString();
+
+function getLauncherName() {
+    var path = Boot.MINECRAFT_LAUNCH_COMMAND.replaceAll("\\\\", "/");
+    var marker = null;
+
+    if (PlatformHelp.isMacOS()) {
+        marker = "/Library/Application Support/";
+    } else if (PlatformHelp.isWindows()) {
+        if (path.indexOf("/AppData/Roaming/") >= 0) {
+            marker = "/AppData/Roaming/";
+        } else if (path.indexOf("/AppData/Local/") >= 0) {
+            marker = "/AppData/Local/";
+        }
+    } else if (PlatformHelp.isLinux()) {
+        if (path.indexOf("/data/") >= 0) {
+            marker = "/data/";
+        } else if (path.indexOf("/.local/share/") >= 0) {
+            marker = "/.local/share/";
+        } else if (path.indexOf("/Documents/") >= 0) {
+            marker = "/Documents/";
+        }
+    }
+
+    if (marker == null) { return null; }
+
+    var markerPosition = path.indexOf(marker);
+
+    if (markerPosition < 0) { return null; }
+
+    var start = markerPosition + marker.length();
+    var end = path.indexOf("/", start);
+
+    if (end < 0) { return null; }
+
+    return path.substring(start, end);
+}
+
+var launcher = getLauncherName();
+
+function addVariables(message) {
+    return message
+        .replace("$modpackVersion$", modpackVersion)
+        .replace("$expectedMinecraftVersion$", expectedMinecraftVersion)
+        .replace("$expectedLoader$", expectedLoader)
+        .replace("$expectedLoaderVersion$", expectedLoaderVersion)
+        .replace("$expectedJavaVersion$", expectedJavaVersion)
+        .replace("$actualMinecraftVersion$", actualMinecraftVersion)
+        .replace("$actualLoader$", actualLoader)
+        .replace("$actualLoaderVersion$", actualLoaderVersion)
+        .replace("$actualJavaVersion$", actualJavaVersion)
+        .replace("$launcher$", launcher);
+}
+
+function addVariablesLang(key){
+    return addVariables(LanguageProvider.get(key))
+}
+
+/* Log generic info */
+
+Analysis.putCopiedResult("generic-message", addVariables("FO $modpackVersion$ with MC $actualMinecraftVersion$ on $launcher$"));
+
+/* Problematic mods */
+
 var problematicMods = [
     "chloride",
     "essential",
@@ -33,9 +111,7 @@ var allMods = ModListUtils.getCurrentModList(true);
 
 for (currentMod : allMods) {
     var id = currentMod.getModId();
-    if (id == null) {
-        continue;
-    }
+    if (id == null) { continue; }
 
     var found = false;
     for (modId : problematicMods) {
@@ -44,19 +120,54 @@ for (currentMod : allMods) {
             break;
         }
     }
+    if (!found) { continue; }
 
-    if (!found) {
-        continue;
-    }
+    var message = LanguageProvider.get("custom.blame.mods.generic").replace("$JAR$", currentMod.jarName);
 
-    var message = LanguageProvider.get("custom.blame_mods.generic")
-        .replace("$JAR$", currentMod.jarName);
-        //.replace("$LOADER$", PlatformHelp.loaderJarName)
-        //.replace("$MINECRAFT$", PlatformHelp.minecraftVersion);
-
-    var warn = Analysis.addWarning(message);
+    Analysis.addWarning(message).withModActions(currentMod).withDisableButton(false).withExplorerButton(false).withOkDelay(10);
     Analysis.putCopiedResult("ignored-removal-prompt", "Has $JAR$".replace("$JAR$", currentMod.jarName));
-    warn.withModActions(currentMod).withDisableButton(false).withExplorerButton(false);
-    warn.withOkDelay(10);
 }
 
+/* Other potential issues */
+
+if (expectedMinecraftVersion != actualMinecraftVersion) {
+    var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft");
+    
+    Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
+    Analysis.putCopiedResult("wrong-minecraft", addVariables("Wrong Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
+}
+
+if (expectedLoader != actualLoader) {
+    var notExpectedLoader = addVariablesLang("custom.blame.loader.type");
+    
+    Analysis.addWarning(notExpectedLoader).withOkDelay(10);
+    Analysis.putCopiedResult("wrong-loader", addVariables("Wrong mod loader! Expected: $expectedLoader$, actual: $actualLoader$"));
+}
+
+if (VersionUtils.isLower(actualLoaderVersion, expectedLoaderVersion)) {
+    var lowerLoaderVersion = addVariablesLang("custom.blame.loader.older");
+
+    Analysis.addWarning(lowerLoaderVersion).withOkDelay(10);
+    Analysis.putCopiedResult("older-loader", addVariables("Older mod loader version! Expected: $expectedLoaderVersion$, actual: $actualLoaderVersion$"));
+}
+
+if (VersionUtils.isGreater(actualLoaderVersion, expectedLoaderVersion)) {
+    var greaterLoaderVersion = addVariablesLang("custom.blame.loader.newer");
+
+    Analysis.addWarning(greaterLoaderVersion).withDontShowAgain("greaterLoaderVersion");
+    Analysis.putCopiedResult("older-loader", addVariables("Newer mod loader version! Expected: $expectedLoaderVersion$, actual: $actualLoaderVersion$"));
+}
+
+if (VersionUtils.isLower(actualJavaVersion, expectedJavaVersion)) {
+    var lowerLoaderVersion = addVariablesLang("custom.blame.java.older");
+
+    Analysis.addWarning(lowerLoaderVersion).withOkDelay(10);
+    Analysis.putCopiedResult("older-loader", addVariables("Older Java version! Expected: $expectedJavaVersion$, actual: $actualJavaVersion$"));
+}
+
+if (VersionUtils.isGreater(actualJavaVersion, expectedJavaVersion)) {
+    var greaterLoaderVersion = addVariablesLang("custom.blame.java.newer");
+
+    Analysis.addWarning(greaterLoaderVersion).withDontShowAgain("greaterJavaVersion");
+    Analysis.putCopiedResult("older-loader", addVariables("Newer Java version! Expected: $expectedJavaVersion$, actual: $actualJavaVersion$"));
+}
