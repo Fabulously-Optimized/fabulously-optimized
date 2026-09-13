@@ -135,8 +135,7 @@ if (VersionUtils.isLower(actualMinecraftVersion, expectedMinecraftVersion)) {
     Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
     Analysis.putCopiedResult("wrong-minecraft", addVariables("Older Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
 }
-
-if (VersionUtils.isGreater(actualMinecraftVersion, expectedMinecraftVersion)) {
+else if (VersionUtils.isGreater(actualMinecraftVersion, expectedMinecraftVersion)) {
     var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft.newer");
     
     Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
@@ -149,15 +148,13 @@ if (expectedLoader != actualLoader) {
     Analysis.addWarning(notExpectedLoader).withOkDelay(10);
     Analysis.putCopiedResult("wrong-loader", addVariables("Wrong mod loader! Expected: $expectedLoader$, actual: $actualLoader$"));
 }
-
-if (VersionUtils.isLower(actualLoaderVersion, expectedLoaderVersion)) {
+else if (VersionUtils.isLower(actualLoaderVersion, expectedLoaderVersion)) {
     var lowerLoaderVersion = addVariablesLang("custom.blame.loader.older");
 
     Analysis.addWarning(lowerLoaderVersion).withOkDelay(10);
     Analysis.putCopiedResult("older-loader", addVariables("Older mod loader version! Expected: $expectedLoaderVersion$, actual: $actualLoaderVersion$"));
 }
-
-if (VersionUtils.isGreater(actualLoaderVersion, expectedLoaderVersion)) {
+else if (VersionUtils.isGreater(actualLoaderVersion, expectedLoaderVersion)) {
     var greaterLoaderVersion = addVariablesLang("custom.blame.loader.newer");
 
     Analysis.addWarning(greaterLoaderVersion).withDontShowAgain("greaterLoaderVersion");
@@ -170,8 +167,7 @@ if (VersionUtils.isLower(actualJavaVersion, expectedJavaVersion)) {
     Analysis.addWarning(lowerLoaderVersion).withOkDelay(10);
     Analysis.putCopiedResult("older-loader", addVariables("Older Java version! Expected: $expectedJavaVersion$, actual: $actualJavaVersion$"));
 }
-
-if (VersionUtils.isGreater(actualJavaVersion, expectedJavaVersion)) {
+else if (VersionUtils.isGreater(actualJavaVersion, expectedJavaVersion)) {
     var greaterLoaderVersion = addVariablesLang("custom.blame.java.newer");
 
     Analysis.addWarning(greaterLoaderVersion).withDontShowAgain("greaterJavaVersion");
