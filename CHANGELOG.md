@@ -11,6 +11,20 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.1.0 (2026-09-13)
+
+- Updated Iris Shaders, Mod Menu, Polytone, Sodium
+  - Sodium has updated with several fixes
+- Mod Menu Helper update
+  - Shortened initial tutorial
+  - Added contextual messages on language and resource pack options
+  - Updated MMH description
+  - Added partial support for Upside Down English, Shakespearean English, LOLCAT
+- Updated Crash Assistant config
+  - Added crash cause detections for wrong: Minecraft version, mod loader, Fabric Loader version, Java version
+  - Copied logs message now mentions modpack version, Minecraft version, launcher (beta)
+  - Improved phrasing for other strings in the crash popup
+
 ### 14.0.0 (2026-09-10)
 
 Major changes from 13.4.0 to 14.0.0:
