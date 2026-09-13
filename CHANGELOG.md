@@ -133,6 +133,21 @@ Changes:
 
 ## 26.1.2
 
+### 13.5.0 (2026-09-13)
+
+- Updated Controlify, Entity Model Features, Entity Texture Features, Fabric API, Fabric Language Kotlin, LambDynamicLights, Mod Menu, Polytone
+  - Sodium update is pending Iris update approval on CurseForge
+- Mod Menu Helper update
+  - Shortened initial tutorial
+  - Added contextual messages on language and resource pack options
+  - Updated MMH description
+  - Added partial support for Upside Down English, Shakespearean English, LOLCAT
+- Updated Crash Assistant config
+  - Added crash cause detections for wrong: Minecraft version, mod loader, Fabric Loader version, Java version
+  - Copied logs message now mentions modpack version, Minecraft version, launcher (beta)
+  - Improved phrasing for other strings in the crash popup
+- Updated Fabric Loader to 0.19.5
+
 ### 13.4.0 (2026-08-30)
 
 - Added ModernFix-mVUS - a fork of ModernFix with similar features
