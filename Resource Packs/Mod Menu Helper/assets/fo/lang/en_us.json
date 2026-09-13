@@ -1,5 +1,5 @@
 {
-    "fo.resourcePack.modmenuhelper": "§7Lists mods' main features and options in Mod Menu§r",
+    "fo.resourcePack.modmenuhelper": "§7Shows modpack features in Mod Menu and options§r",
     "modmenu.dropInfo.line1": "§9🛠§r/§8🛠§r - Fabulously Optimized mod, list of available options",
     "modmenu.dropInfo.line2": "§3§l📥§r - custom resource pack required to see effect",
     "modmenu.summaryTranslation.animatica": "OptiFine's Custom Animations\n§3§l📥§r§8🛠 (only advanced options)",
@@ -57,5 +57,7 @@
     "menu.multiplayerOptions.lan": "LAN and Internet",
     "menu.multiplayerOptions.network.lan.tooltip": "Players on the same network can join via LAN; players anywhere in the world can join via an address shared by you.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "Welcome to §7Fabulously Optimized§r! Here are some tips.\n\n§f🪟§r Connected Textures and Dynamic Lights - configure in §7Mods§r\n§a🏞§r Better Grass and fullscreen with Alt+Tab - enable in §7Video Settings§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer\n§8📸§r Take 4K screenshots - press §7F9§r\n§6🏴§r Free custom capes - §7https://download.fo/cape§r\n§b🌐§r Help translate the modpack - §7https://download.fo/translate§r\n§2➕§r Add extra mods - §7https://download.fo/add§r\n§4❓§r Problems or questions - §7https://download.fo/wiki§r\n\n(§7Maximize window§r or visit §7https://download.fo/tutorial§r)"
+    "accessibility.onboarding.screen.title": "§6Welcome to §eFabulously Optimized§6!§r\n§f🪟§r Connected Textures, Dynamic Lights, Better Grass - see §7Mods§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer",
+    "pack.dropInfo": "Extra pack features supported! See §fMods§r for info.",
+    "options.languageAccuracyWarning": "§fHelp translate the modpack: §7https://download.fo/translate§r"
 }
