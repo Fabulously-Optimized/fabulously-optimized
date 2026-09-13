@@ -6,19 +6,19 @@ hash = "259996eba4dcc6a2e56d5c9ef6169b2f1fb148345ad094a07ee850ee3c7aae77"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "d543c50f5bc64d8ac91edad8f13091e0c0891a27951a5051f866f917f1f290ef"
+hash = "bcf2d9f9d20aa906fdc4cdf024e5c56c22ddd3227f600dd1e5b8d9e88f50ce2a"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/blame-mods.jexl"
-hash = "8738e08b86ad4be337dbb09d90554437e9b8306f1b2e8fb98e87d847b3d85bdb"
+hash = "8c51f91994937deb7f9f9a9ebabb0afa7f214eb9327e10c65867c5a3c66d6b0a"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0285e1de40e9589bc97d1c2eac105401c051a3d5c77166a4fb58f5f50cc10c2a"
+hash = "53a126bc4055dab88cfc08e3173efc8e61da48df7e8267faa310953e8716a8aa"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3a97f95470bbab292c2fecc7b28bfff2889005c52e8aa6ec9f1c029101d1e5c9"
+hash = "485546ea3b0a8744b1eb7ce80721576d9718ed3ff96ea262dc1888e719a80bfc"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -54,7 +54,7 @@ hash = "db87c9322336f3ef307fee2ba2773bb4cda4fc91177efc83748463e5292870c3"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
-hash = "d543c50f5bc64d8ac91edad8f13091e0c0891a27951a5051f866f917f1f290ef"
+hash = "bcf2d9f9d20aa906fdc4cdf024e5c56c22ddd3227f600dd1e5b8d9e88f50ce2a"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/crash_assistant_localization_overrides/es_es.json"
@@ -114,7 +114,7 @@ hash = "82c55057dfedb11cc0e386e74c7c94d166b4c42e63159a0e60b4640896aa763d"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/scripts/log_analysis/blame-mods.jexl"
-hash = "8738e08b86ad4be337dbb09d90554437e9b8306f1b2e8fb98e87d847b3d85bdb"
+hash = "8c51f91994937deb7f9f9a9ebabb0afa7f214eb9327e10c65867c5a3c66d6b0a"
 
 [[files]]
 file = "config/modpack_defaults/config/cwb.json"
@@ -134,7 +134,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "bfbaaad3e93ea6aa9f5b0a7fb9fffe64a49685ad3680cd186fe8a6cecf4cf141"
+hash = "53a126bc4055dab88cfc08e3173efc8e61da48df7e8267faa310953e8716a8aa"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -146,7 +146,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "055b2e71340726cea1c0f84e8be6123022ea279c85959cea9b0d3c221c86642c"
+hash = "485546ea3b0a8744b1eb7ce80721576d9718ed3ff96ea262dc1888e719a80bfc"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5e60ae3dd18d5a388599cbf8f2fb4dcd3bd100559685ff2a72b3dc6fde6ca0b5"
+hash = "42fa90bb06657df1964f4ee35f8aeb7cc9448e718af3e37f5ccafa86a5187079"
 metafile = true
 
 [[files]]
@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f2c9bd84db7ab7b01ea2aff839eedf0faa6cd4c8e85b0f06b7463983a2fad71b"
+hash = "1b26a615b4b0e02b3b4bc8ff8a7eb746680b835770e57fa4700bc640824e4a62"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "7391de2b8f250e59f6b6ee05498078efd19e42cf6741ff8d3eba3c76679c3a8b"
+hash = "85e6001b426cf2d2171c74c0b3431f15aa3a732d0b517dfa48c94568aeacee8e"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ed9591c011a3b33d3def72cbc1e8e63da862f2f3de090858b9ca42af2d523b20"
+hash = "985cefb44d686fcce9a62218476f541b0cdc7f5d63ef4887aedef4ed60a6d955"
 metafile = true
 
 [[files]]
@@ -448,9 +448,9 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "fba914c59548b915d2da52a01850139a91b67c00cbe9e53bc5608aca36f88091"
+hash = "f92dd2754a699eb8732cfc9ca02d95039c29c089e8ae3e5fc4bcd9d0f3176333"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "c48b86d65a99f7e34667a68e9b31dfd9c24e75ad9c8b8c5a984047716e48db68"
+hash = "be2f84c63cea80eddf659bb94a99ff62e194878a8a86ffb716cb8122df43e05f"
 metafile = true
