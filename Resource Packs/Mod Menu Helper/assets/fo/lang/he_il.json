@@ -1,5 +1,5 @@
 {
-    "fo.resourcePack.modmenuhelper": "§7מציג את התוספות והאפשרויות של מודים ב-Mod Menu",
+    "fo.resourcePack.modmenuhelper": "§7מציג תכני חבילת מודים בModMenu ובאפשרויות",
     "modmenu.dropInfo.line1": "§9🛠§r/§8🛠§r - מוד מFabulously Optimized, רשימת אפשרויות",
     "modmenu.dropInfo.line2": "§3§l📥§r - צריך חבילת משאבים מותאמת אישית כדי שמשהו ישתנה",
     "modmenu.summaryTranslation.animatica": "אנימציות מותאמות אישית של Optifine\n§3§l📥§r§8🛠 (רק אפשרויות מתקדמות)",
@@ -21,8 +21,8 @@
     "modmenu.summaryTranslation.entityculling": "מפסיק לרנדר יצורים מאחורי קירות\n§9🛠§8 הדלק וכבה מוד, בלוקי ישויות, ...",
     "modmenu.summaryTranslation.entity_model_features": "מודלים מותאמים אישית של OptiFine\n§3§l📥§r§9🛠§8 מהירות רענון, כיבוי מודלים, ...",
     "modmenu.summaryTranslation.entity_texture_features": "מובים אקראיים וזוהרים של OptiFine\n§3§l📥§r§9🛠§8 מובים אקראים, זהירה, מצמוץ עיניים, ...",
-    "modmenu.summaryTranslation.fabrishot": "צילומי מסך בגודל 4K עם <keybind key.fabrishot.screenshot>\n§9🛠§8 החלפת <keybind key.screenshot>, רזולוציה, מקש, ...",
-    "fo.pauseMenu.fabrishot": "צלם צילומי מסך 4K עם F9",
+    "modmenu.summaryTranslation.renice-shot": "צילומי מסך בגודל 4K עם <keybind key.fabrishot.screenshot>\n§9🛠§8 החלפת <keybind key.screenshot>, רזולוציה, מקש, ...",
+    "fo.pauseMenu.renice-shot": "צלם צילומי מסך 4K עם F9",
     "modmenu.summaryTranslation.fastquit": "עוזב עולמות שחקן יחיד באופן מיידי\n§9🛠§8 הודעות על המסך, מחוון, ...",
     "modmenu.summaryTranslation.ferritecore": "מפחית את השימוש ב-RAM\n§8🛠 (רק אפשרויות מתקדמות)",
     "modmenu.summaryTranslation.immediatelyfast": "מייעל מובים, בלוקי מיכל, GUI, HUD\n§8🛠 (רק אפשרויות מתקדמות)",
@@ -40,7 +40,7 @@
     "modmenu.summaryTranslation.nochatreports": "מחווני סטטוס צ'אט עקביים\n§9🛠§8 הדלק וכבה מוד, מחווני צ'אט, מצב הנחיה, ...",
     "modmenu.summaryTranslation.optigui": "ממשקים מותאמים אישית של OptiFine\n§3§l📥§r§8§m🛠§8 (ללא אפשרויות)",
     "modmenu.summaryTranslation.paginatedadvancements": "מסך הישגים גדול ורשימת דרישות\n§9🛠§8 נראות דרישה, הצמדת כרטיסיות, ...",
-    "modmenu.summaryTranslation.polytone": "צבעים מותאמים אישית של Optifine\n§3§l📥§r§8🛠 (רק אפשרויות מתקדמות)",
+    "modmenu.summaryTranslation.polytone": "צבעים מותאמים אישית של OptiFine\n§9🛠§8 בחבילות משאבים: מגבלת חלקיקים, חבילות ישנות, ...",
     "modmenu.summaryTranslation.puzzle": "מסך טעינה מותאם אישית של OptiFine\n§3§l📥§r§9🛠§8 הדלק וכבה מוד, ...",
     "modmenu.summaryTranslation.reeses-sodium-options": "הגדרות וידאו מורחבות\n§9🛠§8 בהגדרות וידאו: פריסה",
     "modmenu.summaryTranslation.rrls": "חבילות משאבים נטענות ברקע\n§9🛠§8 מהירות הנפשת דהייה בטעינה, ...",
@@ -55,5 +55,7 @@
     "menu.multiplayerOptions.lan": "רשת מקומית ואינטרנט",
     "menu.multiplayerOptions.network.lan.tooltip": "שחקנים הנמצאים באותה רשת מקומית יכולים להצטרף ישירות; שחקנים מכל מקום בעולם יכולים להצטרף באמצעות כתובת שתשתף איתם.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "ברוכים הבאים ל-§7Fabulously Optimized§r! הנה כמה טיפים.\n\n§f🪟§r טקסטורות מחוברים ותאורה דינמית - הגדרה ב-§7Mods§r\n§a🏞§r דשא משופר ומסך מלא עם Alt+Tab - הפעלה ב-§7הגדרות ווידאו§r\n§e✨§r שיידרים וחבילות משאבים - פשוט §7מוסיפים ומפעילים§r\n§5🎮§r שלטי משחק נתמכים - פשוט §7מחברים ומשתמשים§r\n§3🛜§r לשחק עם חברים, בכל מקום - לוחצים על §7פתח לאינטרנט§r בעולם\n§8📸§r צילומי מסך ב-4K - לוחצים על §7F9§r\n§6🏴§r גלימות מותאמות אישית בחינם - §7https://download.fo/cape§r\n§b🌐§r תרומה לתרגום של החבילת מודים - §7https://download.fo/translate§r\n§2➕§r הוספת מודים נוספים - §7https://download.fo/add§r\n§4❓§r בעיות או שאלות - §7https://download.fo/wiki§r\n\n(אפשר §7להרחיב את החלון§r או להכנס ל§7https://download.fo/tutorial§r)"
+    "accessibility.onboarding.screen.title": "§6ברוכים הבאים ל-§eFabulously Optimized§6!§r\n§f🪟§r טקסטורות מחוברות, תאורה דינמית, דשא משופר - ראו §7Mods§r\n§e✨§r שיידרים וחבילות משאבים מפוארות - פשוט §7הוסיפו והפעילו§r\n§5🎮§r תמיכה בבקרי משחק - פשוט §7חברו והשתמשו§r\n§3🛜§r שחקו עם חברים, בכל מקום - לחצו על §7פתח לאינטרנט§r במצב שחקן יחיד",
+    "pack.dropInfo": "תומך בתכונות נוספות! ראה §fMods§r לפרטים.",
+    "options.languageAccuracyWarning": "§fעזרו בתרגום חבילת המודים: §7https://download.fo/translate§r"
 }
