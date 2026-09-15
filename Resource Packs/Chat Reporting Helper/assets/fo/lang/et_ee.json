@@ -17,6 +17,7 @@
     "gui.abuseReport.describe": "Üksikasjade jagamine aitab Mojangil teadliku otsuse teha. Serveri administraatorid seda teadet ei näe.",
     "options.onlyShowSecureChat": "Peida moditud vestlus",
     "options.onlyShowSecureChat.tooltip": "Peidab nende mängijate vestluse, kes on oma sõnumid Mojangile mitteteatavaks teinud.",
+    "mco.pdp.private.secure": "• Privaatne ja turvaline\n\n\n§lVestlusfunktsioonid§r\n• Automatiseeritud ennetav filtreerimine koos modereerimisega\n• Mängijate sõnumitest saab teatada\n• Roppsõnade filter on vaikimisi sisse lülitatud",
     "gui.nochatreports.secure_chat": "Peidab nende mängijate vestluse, kes on oma sõnumid Mojangile mitteteatavaks teinud. Keelatud No Chat Reports'i poolt, kuna see mõjutaks ka selle sõnumeid.",
     "gui.nochatreports.verified_server": "See server on teinud vestlussõnumid Mojangile mitteteatatavaks.",
     "gui.nochatreports.no_reporting": "See server on teinud vestlussõnumid Mojangile mitteteatatavaks.",
@@ -26,10 +27,10 @@
     "gui.nochatreports.safety_status.unintrusive": "Teiste sõnumitest võib saada Mojangile teatada. Kinnita seda Suhtlustoimingute abil.",
     "gui.nochatreports.safety_status.insecure": "Teiste sõnumitest saab Mojangile teatada.",
     "gui.nochatreports.safety_status.insecure_signing": "Sinu sõnumitest saab Mojangile teatada.",
-    "gui.nochatreports.safety_status.realms": "Teiste sõnumitest saab Mojangile teatada. Mojang jälgib rikkumiste vältimiseks vestlust ka passiivselt.",
+    "gui.nochatreports.safety_status.realms": "Teiste sõnumitest saab Realmsis alati Mojangile teatada.",
     "gui.nochatreports.safety_status.unknown": "Vestlusest teatamise võimalikkus pole hetkel teada. Oleku saamiseks saada üks sõnum.",
     "gui.nochatreports.safety_status.undefined": "Vestlusest teatamise võimalikkus pole vea tõttu teada. Proovi mäng taaskäivitada.",
-    "gui.nochatreports.signing_status.allowed_realms": "Sinu sõnumitest saab Realmsis alati Mojangile teatada. Mojang jälgib rikkumiste vältimiseks vestlust ka passiivselt.",
+    "gui.nochatreports.signing_status.allowed_realms": "Sinu sõnumitest saab Realmsis alati Mojangile teatada.\n\nAutomatiseeritud ennetavat vestlusfiltreerimist kasutatakse võrguohtude liigitamiseks, filtreerimiseks ja edastamiseks nii inimülevaatuseks kui ka modereerimiseks.\n\nRoppsõnade filter on vaikimisi sisse lülitatud.",
     "gui.nochatreports.signing_status.allowed": "Oled oma valikul teinud oma sõnumid Mojangile teatatavaks.",
     "gui.nochatreports.signing_status.allowed_session": "Sinu sõnumitest saab Mojangile teatada. Et kontrollida, kas see on jätkuvalt vajalik, liitu serveriga uuesti.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Sinu sõnumitest saab Mojangile teatada, kui saadad ühe.",
@@ -42,5 +43,5 @@
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Sinu sõnumitest saab teatada vaid siis, kui server seda nõuab.",
     "gui.nochatreports.signing_required.contents": "See server nõuab, et kõik mängijasõnumid oleksid Mojangile teatatavad. Mittenõustumisel saad sa siiski kasutada mistahes käsklusi, mis ei ole vestlusega seotud.\n\nNõustumiseks ja vestluse lubamiseks klõpsa \"Luba signeerimine\".",
     "chat.nochatreports.disabled.signing_requested": "See server nõuab, et mängijasõnumid oleksid Mojangile teatatavad. Kasuta hüpikut või vestluse kilbinuppu sellega nõustumiseks ja vestluse lubamiseks.",
-    "gui.nochatreports.realms_warning.contents": "Oluline teave Realmsi kohta:\n• Vestlussõnumitest saab Mojangile teatada.\n• Mojang jälgib rikkumiste vältimiseks vestlust passiivselt.\n• Roppuste filter on vaikimisi lubatud. Täiskasvanud saavad lubada roppuste nägemist aadressil minecraft.net."
+    "gui.nochatreports.realms_warning.contents": "Realms sisaldab täiendavaid vestlusfunktsioone:\n\n• Automatiseeritud ennetavat vestlusfiltreerimist kasutatakse võrguohtude liigitamiseks, filtreerimiseks ja edastamiseks nii inimülevaatuseks kui ka modereerimiseks.\n• Mängijasõnumitest saab Mojangile teatada.\n• Roppsõnade filter on lubatud; täiskasvanud saavad seda enda jaoks keelata aadressil minecraft.net."
 }
