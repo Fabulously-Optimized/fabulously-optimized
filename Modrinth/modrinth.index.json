@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "15.0.0-alpha.1",
+    "versionId": "15.0.0-alpha.2",
     "name": "Fabulously Optimized",
     "files": [
         {
@@ -63,21 +63,6 @@
                 "https://cdn.modrinth.com/data/ohNO6lps/versions/c1wkPZ5n/ForgeConfigAPIPort-v26.3.0-mc26.3.x-Fabric.jar"
             ],
             "fileSize": 609536
-        },
-        {
-            "path": "mods/Ixeris-4.6.5+26.2-fabric.jar",
-            "hashes": {
-                "sha1": "a1bc4734ed58a29eea8384595953d0acea3146fa",
-                "sha512": "9bed81365f7677fc7e91219823f7dad1b352f1200bc34e2035b3adb808d5a92d53de8028219f4f98f962107ef05be26db5e537f4d98602dba8afcae20c1910b9"
-            },
-            "env": {
-                "client": "required",
-                "server": "required"
-            },
-            "downloads": [
-                "https://cdn.modrinth.com/data/p8RJPJIC/versions/9MSHd6Gs/Ixeris-4.6.5%2B26.2-fabric.jar"
-            ],
-            "fileSize": 761542
         },
         {
             "path": "mods/bbe-fabric-1.3.9+mc26.3-mod.jar",

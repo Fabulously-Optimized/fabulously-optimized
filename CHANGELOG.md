@@ -5,6 +5,11 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-alpha.2 (2026-09-16)
+
+- Removed Ixeris for now due to crashes
+- Temporary removed: Animatica Refabricated, Controlify, Cubes Without Borders, Debugify, Entity Culling, ImmediatelyFast, Ixeris, Language Reload, No Chat Reports, OptiGUI, Paginated Advancements, Polytone, Puzzle, Remove Reloading Screen, Sodium Shadowy Path Blocks, Skyboxify, YetAnotherConfigLib, Zoomify
+
 ### 15.0.0-alpha.1 (2026-09-16)
 
 This is an early experimental version.
