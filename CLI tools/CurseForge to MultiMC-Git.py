@@ -2,7 +2,7 @@ import shutil
 import sys
 from pathlib import Path
 
-minecraft_version = "26.2"
+minecraft_version = "26.3"
 git_path = Path.home() / "Documents/GitHub/fabulously-optimized/"
 packwiz_path = git_path / "Packwiz" / minecraft_version
 
