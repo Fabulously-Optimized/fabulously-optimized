@@ -17,6 +17,7 @@
     "gui.abuseReport.describe": "Dengan mengongsi perincian kami dapat membuat keputusan yang lebih baik. Laporan ini tidak dapat dilihat oleh pentadbir pelayan.",
     "options.onlyShowSecureChat": "Sembunyi Perbualan Diubah Suai",
     "options.onlyShowSecureChat.tooltip": "Menyembunyikan perbualan daripada pemain yang telah membuat mesej mereka tidak boleh dilaporkan kepada Mojang.",
+    "mco.pdp.private.secure": "• Peribadi dan selamat\n\n\n§lCiri perbualan§r\n• Penapisan proaktif automatik dengan penyederhanaan\n• Mesej pemain boleh dilaporkan\n• Penapis kata-kata kesat didayakan secara lalai",
     "gui.nochatreports.secure_chat": "Menyembunyikan perbualan daripada pemain yang telah membuat mesej mereka tidak boleh dilaporkan kepada Mojang. Dinyahdayakan oleh No Chat Reports kerana ia akan menjejaskan mesejnya juga.",
     "gui.nochatreports.verified_server": "Pelayan ini telah membuat mesej perbualan tidak boleh dilaporkan kepada Mojang.",
     "gui.nochatreports.no_reporting": "Pelayan ini telah membuat mesej perbualan tidak boleh dilaporkan kepada Mojang.",
@@ -26,10 +27,10 @@
     "gui.nochatreports.safety_status.unintrusive": "Mesej orang lain mungkin boleh dilaporkan kepada Mojang. Sahkan pada Interaksi Sosial.",
     "gui.nochatreports.safety_status.insecure": "Mesej orang lain boleh dilaporkan kepada Mojang.",
     "gui.nochatreports.safety_status.insecure_signing": "Mesej anda boleh dilaporkan kepada Mojang.",
-    "gui.nochatreports.safety_status.realms": "Mesej orang lain boleh dilaporkan kepada Mojang. Mojang juga secara pasif memantau perbualan untuk pelanggaran.",
+    "gui.nochatreports.safety_status.realms": "Mesej orang lain sentiasa boleh dilaporkan kepada Mojang di dalam Realms.",
     "gui.nochatreports.safety_status.unknown": "Status pelaporan perbualan belum diketahui. Hantar mesej untuk mendapatkan status.",
     "gui.nochatreports.safety_status.undefined": "Status pelaporan perbualan tidak diketahui kerana ralat. Cuba mulakan semula permainan.",
-    "gui.nochatreports.signing_status.allowed_realms": "Mesej anda sentiasa boleh dilaporkan kepada Mojang dalam Realms. Mojang juga secara pasif memantau perbualan untuk pelanggaran.",
+    "gui.nochatreports.signing_status.allowed_realms": "Mesej anda sentiasa boleh dilaporkan kepada Mojang dalam Realms. \n\nPenapisan perbualan proaktif secara automatik digunakan untuk mengelaskan, menapis dan merujuk isu kemudaratan dalam talian untuk semakan serta penyederhanaan oleh manusia.\n\nPenapis kata-kata kesat didayakan secara lalai.",
     "gui.nochatreports.signing_status.allowed": "Mesej anda boleh dilaporkan kepada Mojang mengikut pilihan anda.",
     "gui.nochatreports.signing_status.allowed_session": "Mesej anda boleh dilaporkan kepada Mojang. Untuk menyemak sama ada itu masih diperlukan, sertai pelayan ini sekali lagi.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Mesej anda akan boleh dilaporkan kepada Mojang sebaik sahaja anda menghantarnya.",
@@ -42,5 +43,5 @@
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Mesej anda akan boleh dilaporkan hanya jika ia diperlukan oleh pelayan.",
     "gui.nochatreports.signing_required.contents": "Pelayan ini memerlukan semua mesej pemain untuk boleh dilaporkan kepada Mojang. Jika anda tidak bersetuju, anda masih boleh menggunakan mana-mana perintah yang tidak berkaitan dengan perbualan.\n\nKlik \"Benarkan Tandatangan\" untuk bersetuju dan mendayakan perbualan.",
     "chat.nochatreports.disabled.signing_requested": "Pelayan ini memerlukan mesej pemain untuk boleh dilaporkan kepada Mojang. Gunakan skrin gesaan atau butang perisai perbualan untuk menerima dan mendayakan perbualan.",
-    "gui.nochatreports.realms_warning.contents": "Maklumat penting mengenai Realms:\n• Mesej perbualan boleh dilaporkan kepada Mojang.\n• Mojang sedang memantau perbualan secara pasif untuk pelanggaran.\n• Penapis kata-kata kesat didayakan secara lalai. Orang dewasa boleh menyahdayakannya di minecraft.net."
+    "gui.nochatreports.realms_warning.contents": "Realms has additional chat features:\n• Penapisan perbualan proaktif secara automatik digunakan untuk mengelaskan, menapis dan merujuk isu kemudaratan dalam talian untuk semakan serta penyederhanaan oleh manusia.\n• Mesej pemain boleh dilaporkan kepada Mojang.\n• Penapis kata-kata kesat didayakan, orang dewasa boleh menyahdayakannya untuk diri sendiri di minecraft.net."
 }
