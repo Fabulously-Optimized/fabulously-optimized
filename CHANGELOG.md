@@ -5,6 +5,15 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-alpha.3 (2026-09-20)
+
+- Readded Animatica Refabricated, Entity Culling, ImmediatelyFast, Ixeris, OptiGUI, Remove Reloading Screen, Sodium Shadowy Path Blocks
+  - Skipped Skyboxify due to lack of compatible YACL in CurseForge
+- Updated Cape Provider, Entity Model Features, Entity Texture Features, Fabric API
+- Removed Cape Provider's Mod Menu workaround
+- Updated Estonian, Hebrew, Malay (Latin, Jawi), Chinese Traditional translations
+- Temporarily removed: Controlify, Cubes Without Borders, Debugify, Ixeris, Language Reload, No Chat Reports, Paginated Advancements, Polytone, Puzzle, Skyboxify, YetAnotherConfigLib, Zoomify
+
 ### 15.0.0-alpha.2 (2026-09-16)
 
 - Removed Ixeris for now due to crashes
