@@ -18,7 +18,7 @@
     "sodium-extra.option.reduce_resolution_on_mac.tooltip": "Uses half resolution on Retina displays to improve performance on macOS.\nChanging this option requires a restart.\n\n§lThis is enabled by default, please keep this checkbox unchecked.§r\nTo use original resolution, go to Cubes Without Borders options and enable \"Use Scaled Framebuffer\".",
     "modmenu.summaryTranslation.debugify": "Fixes bugs, makes telemetry toggleable\n§9🛠§8 Toggle fixes, ...",
     "modmenu.summaryTranslation.dynamic_fps": "Reduces FPS in the background\n§9🛠§8 Toggle mod, restore on hover, ...",
-    "modmenu.summaryTranslation.e4mc": "Open worlds to Internet, just like LAN\n§9🛠§8 Use and configure via \"<lang menu.multiplayerOptions.button>\"",
+    "modmenu.summaryTranslation.e4mc": "Open worlds to Internet, just like LAN\n§9🛠§8 Use and configure via \"<lang options.worldOptions.button>\"",
     "modmenu.summaryTranslation.entityculling": "Stops rendering mobs behind walls\n§9🛠§8 Toggle mod, disable for (block)entities, ...",
     "modmenu.summaryTranslation.entity_model_features": "OptiFine's Custom Entity Models\n§3§l📥§r§9🛠§8 Refresh speed, disable models, ...",
     "modmenu.summaryTranslation.entity_texture_features": "OptiFine's Random & Emissive Entities\n§3§l📥§r§9🛠§8 Random mobs, emissivity, eye blinking, ...",
@@ -53,11 +53,10 @@
     "modmenu.summaryTranslation.sspb": "Vanilla look for dirt paths\n§9🛠§8 In Video Settings: shadow strength, ...",
     "modmenu.summaryTranslation.zoomify": "Zoom by holding <keybind zoomify.key.zoom>\n§9🛠§8 Distance, cinematic camera, keybind, ...",
     "fo.resourcePack.fastbettergrass": "§7OptiFine's Better Grass (fast)§r\n§4Must be the first to work§r",
-    "menu.multiplayerOptions.button": "Open to Internet",
     "menu.multiplayerOptions.lan": "LAN and Internet",
     "menu.multiplayerOptions.network.lan.tooltip": "Players on the same network can join via LAN; players anywhere in the world can join via an address shared by you.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "§6Welcome to §eFabulously Optimized§6!§r\n§f🪟§r Connected Textures, Dynamic Lights, Better Grass - see §7Mods§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7Open to Internet§r in singleplayer",
+    "accessibility.onboarding.screen.title": "§6Welcome to §eFabulously Optimized§6!§r\n§f🪟§r Connected Textures, Dynamic Lights, Better Grass - see §7Mods§r\n§e✨§r Shaders and fancy resource packs - just §7add and enable§r\n§5🎮§r Game controllers supported - simply §7connect and use§r\n§3🛜§r Play with friends, anywhere - press §7World Options...§r in singleplayer",
     "pack.dropInfo": "Extra pack features supported! See §fMods§r for info.",
     "options.languageAccuracyWarning": "§fHelp translate the modpack: §7https://download.fo/translate§r"
 }
