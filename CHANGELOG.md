@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-alpha.4 (2026-09-27)
+
+- Readded Controlify, Debugify, Skyboxify, YetAnotherConfigLib, Zoomify
+- Updated Crash Assistant, Cloth Config, Entity Culling, Forge Config API Port, Ixeris, Mod Menu, ModernFix-mVUS, Reese's Sodium Options
+  - Sodium update skipped as it is an alpha
+- Updated Ukrainian translation
+- Temporarily removed: Cubes Without Borders, Language Reload, No Chat Reports, Paginated Advancements, Polytone, Puzzle
+
 ### 15.0.0-alpha.3 (2026-09-20)
 
 - Readded Animatica Refabricated, Entity Culling, ImmediatelyFast, Ixeris, OptiGUI, Remove Reloading Screen, Sodium Shadowy Path Blocks
