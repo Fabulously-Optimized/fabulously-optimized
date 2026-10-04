@@ -5,6 +5,12 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-alpha.5 (2026-10-04)
+
+- Readded Language Reload, No Chat Reports, Puzzle
+- Updated Entity Model Features, Entity Texture Features, Cloth Config API, e4mc, Iris Shaders, Lithium, MoreCulling, Renice Shot
+- Temporarily removed: Cubes Without Borders, Paginated Advancements, Polytone
+
 ### 15.0.0-alpha.4 (2026-09-27)
 
 - Readded Controlify, Debugify, Skyboxify, YetAnotherConfigLib, Zoomify
