@@ -57,6 +57,11 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
 
+### 14.1.1 (2026-10-11)
+
+- Updated Entity Model Features, Entity Texture Features, Cape Provider, Controlify, Crash Assistant, Debugify, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Ixeris, Language Reload, Mod Menu, ModernFix-mVUS, Polytone, Reese's Sodium Options, Renice Shot, Skyboxify, Sodium Extra, YetAnotherConfigLib, Zoomify
+- Backported translation updates
+
 ### 14.1.0 (2026-09-13)
 
 - Updated Iris Shaders, Mod Menu, Polytone, Sodium
