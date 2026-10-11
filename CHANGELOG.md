@@ -193,6 +193,12 @@ Changes:
 
 ## 26.1.2
 
+### 13.6.0 (2026-10-11)
+
+Major Sodium update!
+
+- Updated Entity Model Features, Entity Texture Features, Controlify, Debugify, e4mc, Entity Culling, Fabric Language Kotlin, Iris Shaders, Ixeris, Language Reload, Mod Menu, Polytone, Reese's Sodium Options, Skyboxify, Sodium, Sodium Extra, YetAnotherConfigLib, Zoomify
+
 ### 13.5.0 (2026-09-13)
 
 - Updated Controlify, Entity Model Features, Entity Texture Features, Fabric API, Fabric Language Kotlin, LambDynamicLights, Mod Menu, Polytone
