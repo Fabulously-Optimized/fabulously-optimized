@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-beta.1 (2026-10-11)
+
+- Readded Polytone
+- Updated Entity Model Features, Cape Provider, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, Zoomify
+- Updated "Open to Internet" references and pause menu hint to "World Options..."
+- Temporarily removed: Cubes Without Borders, Paginated Advancements
+
 ### 15.0.0-alpha.5 (2026-10-04)
 
 - Readded Language Reload, No Chat Reports, Puzzle
