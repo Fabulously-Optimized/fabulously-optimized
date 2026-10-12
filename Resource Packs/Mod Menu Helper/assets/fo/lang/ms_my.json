@@ -17,7 +17,8 @@
     "sodium-extra.option.reduce_resolution_on_mac.tooltip": "Menggunakan separuh resolusi pada paparan Retina untuk meningkatkan prestasi pada macOS.\nPermainan perlu dimulakan semula apabila mengubah pilihan ini.\n\n§lTetapan ini didayakan secara lalai, sila pastikan kotak semak ini tidak ditanda.§r\nUntuk menggunakan resolusi asal, pergi ke tetapan Cubes Without Borders dan dayakan \"Gunakan Penimbal Bingkai Berskala\".",
     "modmenu.summaryTranslation.debugify": "Perbaiki pepijat, togol penelemeteran\n§9🛠§8 Togol pembaikan, ...",
     "modmenu.summaryTranslation.dynamic_fps": "Mengurangkan BPS di latar belakang\n§9🛠§8 Togol mod, pulihkan apabila tuding, ...",
-    "modmenu.summaryTranslation.e4mc": "Buka dunia ke Internet seperti dunia LAN\n§9🛠§8 Guna dan konfigurasikan menerusi \"<lang menu.multiplayerOptions.button>\"",
+    "modmenu.summaryTranslation.e4mc": "Buka dunia ke Internet seperti dunia LAN\n§9🛠§8 Guna dan konfigurasikan menerusi \"<lang options.worldOptions.button>\"",
+    "fo.pauseMenu.e4mc": "Main bersama dalam ekapemain melalui %s",
     "modmenu.summaryTranslation.entityculling": "Berhenti memaparkan makhluk disebalik dinding\n§9🛠§8 Togol mod, nyahdaya untuk entiti (blok), ...",
     "modmenu.summaryTranslation.entity_model_features": "Model Entiti Tersuai OptiFine\n§3§l📥§r§9🛠§8 Laju segar semula, nyahdayakan model, ...",
     "modmenu.summaryTranslation.entity_texture_features": "Makhluk Rawak & Emisif OptiFine\n§3§l📥§r§9🛠§8 Makhluk rawak, emisitiviti, mata berkedip, ...",
@@ -51,11 +52,10 @@
     "modmenu.summaryTranslation.sspb": "Rupa laluan tanah seperti vanila\n§9🛠§8 Dalam Tetapan Video: kekuatan bayangan, ...",
     "modmenu.summaryTranslation.zoomify": "Zum dengan menahan <keybind zoomify.key.zoom>\n§9🛠§8 Jarak, kamera sinematik, kekunci pintas, ...",
     "fo.resourcePack.fastbettergrass": "§7Rumput Lebih Baik OF (pantas)§r\n§4Perlu berada di paling atas§r",
-    "menu.multiplayerOptions.button": "Buka ke Internet",
     "menu.multiplayerOptions.lan": "LAN dan Internet",
     "menu.multiplayerOptions.network.lan.tooltip": "Pemain pada rangkaian yang sama boleh menyertai melalui LAN; pemain di mana-mana sahaja di dunia boleh menyertai melalui alamat yang anda kongsi.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "§6Selamat Datang ke §eFabulously Optimized§6!§r\n§f🪟§r Tekstur Bersambung, Cahaya Dinamik, Rumput Lebih Baik - lihat §7Mod§r\n§e✨§r Pembayang dan pek sumber mewah - hanya §7tambah dan dayakan§r\n§5🎮§r Pengawal permainan disokong - hanya §7sambung dan gunakan§r\n§3🛜§r Main dengan rakan, dimana jua - tekan §7Buka ke Internet§r dalam ekapemain",
+    "accessibility.onboarding.screen.title": "§6Selamat Datang ke §eFabulously Optimized§6!§r\n§f🪟§r Tekstur Bersambung, Cahaya Dinamik, Rumput Lebih Baik - lihat §7Mod§r\n§e✨§r Pembayang dan pek sumber mewah - hanya §7tambah dan dayakan§r\n§5🎮§r Pengawal permainan disokong - hanya §7sambung dan gunakan§r\n§3🛜§r Main dengan rakan, dimana jua - tekan §7Tetapan Dunia...§r dalam ekapemain",
     "pack.dropInfo": "Ciri pek tambahan disokong! Lihat §fMod§r untuk maklumat.",
     "options.languageAccuracyWarning": "§fBantu terjemah pek mod ini: §7https://download.fo/translate§r"
 }
