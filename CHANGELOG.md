@@ -5,6 +5,13 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-beta.1 (2026-10-11)
+
+- Readded Polytone
+- Updated Entity Model Features, Cape Provider, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, Zoomify
+- Updated "Open to Internet" references and pause menu hint to "World Options..."
+- Temporarily removed: Cubes Without Borders, Paginated Advancements
+
 ### 15.0.0-alpha.5 (2026-10-04)
 
 - Readded Language Reload, No Chat Reports, Puzzle
@@ -56,6 +63,11 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - Vulkan is _not_ enabled by default and Mojang does _not_ recommend most users to use it just yet
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
+
+### 14.1.1 (2026-10-11)
+
+- Updated Entity Model Features, Entity Texture Features, Cape Provider, Controlify, Crash Assistant, Debugify, e4mc, Entity Culling, Fabric API, Fabric Language Kotlin, ImmediatelyFast, Ixeris, Language Reload, Mod Menu, ModernFix-mVUS, Polytone, Reese's Sodium Options, Renice Shot, Skyboxify, Sodium Extra, YetAnotherConfigLib, Zoomify
+- Backported translation updates
 
 ### 14.1.0 (2026-09-13)
 
@@ -192,6 +204,12 @@ Changes:
 # Tiny Takeover (13.x.x)
 
 ## 26.1.2
+
+### 13.6.0 (2026-10-11)
+
+Major Sodium update!
+
+- Updated Entity Model Features, Entity Texture Features, Controlify, Debugify, e4mc, Entity Culling, Fabric Language Kotlin, Iris Shaders, Ixeris, Language Reload, Mod Menu, Polytone, Reese's Sodium Options, Skyboxify, Sodium, Sodium Extra, YetAnotherConfigLib, Zoomify
 
 ### 13.5.0 (2026-09-13)
 
