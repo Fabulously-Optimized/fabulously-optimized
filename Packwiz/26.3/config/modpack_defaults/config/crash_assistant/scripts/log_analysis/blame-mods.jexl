@@ -1,20 +1,21 @@
 /* Static variables */
 
-var modpackVersion = "15.0.0-beta.1";
+var modpackVersion = "15.0.0-beta.2";
 var expectedMinecraftVersion = "26.3";
 var expectedLoader = "fabric-loader";
 var expectedLoaderVersion = "0.19.5";
 var expectedJavaVersion = "25";
+var unknown = "(unknown)";
 
 /* Dynamic variables */
 
 var fileNameWithoutExtension = PlatformHelp.loaderJarName.substring(0, PlatformHelp.loaderJarName.length() - 4);
 var separatorIndex = fileNameWithoutExtension.lastIndexOf("-");
 
-var actualMinecraftVersion = PlatformHelp.minecraftVersion;
-var actualLoader = fileNameWithoutExtension.substring(0, separatorIndex);
-var actualLoaderVersion = fileNameWithoutExtension.substring(separatorIndex + 1);
-var actualJavaVersion = PlatformHelp.getCurrentJdkMajorVersion().toString();
+var actualMinecraftVersion = PlatformHelp.minecraftVersion ?? unknown;
+var actualLoader = fileNameWithoutExtension.substring(0, separatorIndex) ?? unknown;
+var actualLoaderVersion = fileNameWithoutExtension.substring(separatorIndex + 1) ?? unknown;
+var actualJavaVersion = PlatformHelp.getCurrentJdkMajorVersion().toString() ?? unknown;
 
 function getLauncherName() {
     var path = Boot.MINECRAFT_LAUNCH_COMMAND.replaceAll("\\\\", "/");
@@ -49,7 +50,7 @@ function getLauncherName() {
 
     return path.substring(start, end);
 }
-var launcher = getLauncherName();
+var launcher = getLauncherName() ?? unknown;
 
 function addVariables(message) {
     return message
@@ -87,6 +88,7 @@ var problematicMods = [
     "notenoughcrashes",
     "vulkanmod",
     "xeno",
+    "vitrail",
 
     "dawn-loader",
     "feather-loader",
@@ -123,7 +125,7 @@ for (currentMod : allMods) {
 
     var message = LanguageProvider.get("custom.blame.mods.generic").replace("$JAR$", currentMod.jarName);
 
-    Analysis.addWarning(message).withModActions(currentMod).withDisableButton(false).withExplorerButton(false).withOkDelay(10);
+    Analysis.addWarning(message).withModActions(currentMod).withDisableButton(false).withExplorerButton(false);
     Analysis.putCopiedResult("ignored-removal-prompt", "Has $JAR$".replace("$JAR$", currentMod.jarName));
 }
 
@@ -132,26 +134,26 @@ for (currentMod : allMods) {
 if (VersionUtils.isLower(actualMinecraftVersion, expectedMinecraftVersion)) {
     var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft.older");
     
-    Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
+    Analysis.addWarning(notExpectedMinecraft).withOkDelay(3);
     Analysis.putCopiedResult("wrong-minecraft", addVariables("Older Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
 }
 else if (VersionUtils.isGreater(actualMinecraftVersion, expectedMinecraftVersion)) {
     var notExpectedMinecraft = addVariablesLang("custom.blame.minecraft.newer");
     
-    Analysis.addWarning(notExpectedMinecraft).withOkDelay(10);
+    Analysis.addWarning(notExpectedMinecraft).withOkDelay(3);
     Analysis.putCopiedResult("wrong-minecraft", addVariables("Newer Minecraft version! Expected: $expectedMinecraftVersion$, actual: $actualMinecraftVersion$"));
 }
 
 if (expectedLoader != actualLoader) {
     var notExpectedLoader = addVariablesLang("custom.blame.loader.type");
     
-    Analysis.addWarning(notExpectedLoader).withOkDelay(10);
+    Analysis.addWarning(notExpectedLoader).withOkDelay(3);
     Analysis.putCopiedResult("wrong-loader", addVariables("Wrong mod loader! Expected: $expectedLoader$, actual: $actualLoader$"));
 }
 else if (VersionUtils.isLower(actualLoaderVersion, expectedLoaderVersion)) {
     var lowerLoaderVersion = addVariablesLang("custom.blame.loader.older");
 
-    Analysis.addWarning(lowerLoaderVersion).withOkDelay(10);
+    Analysis.addWarning(lowerLoaderVersion).withOkDelay(3);
     Analysis.putCopiedResult("older-loader", addVariables("Older mod loader version! Expected: $expectedLoaderVersion$, actual: $actualLoaderVersion$"));
 }
 else if (VersionUtils.isGreater(actualLoaderVersion, expectedLoaderVersion)) {
@@ -164,7 +166,7 @@ else if (VersionUtils.isGreater(actualLoaderVersion, expectedLoaderVersion)) {
 if (VersionUtils.isLower(actualJavaVersion, expectedJavaVersion)) {
     var lowerLoaderVersion = addVariablesLang("custom.blame.java.older");
 
-    Analysis.addWarning(lowerLoaderVersion).withOkDelay(10);
+    Analysis.addWarning(lowerLoaderVersion).withOkDelay(3);
     Analysis.putCopiedResult("older-loader", addVariables("Older Java version! Expected: $expectedJavaVersion$, actual: $actualJavaVersion$"));
 }
 else if (VersionUtils.isGreater(actualJavaVersion, expectedJavaVersion)) {

@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-beta.2 (2026-10-20)
+
+- Removed No Chat Reports as chat fallback is currently not working correctly
+- Updated Entity Model Features, Entity Texture Features, Animatica Refabricated, Better Block Entities, Fabric API, Ixeris
+- Made some adjustments to Crash Assistant config and mod blaming script
+- Updated translations for Estonian, Hebrew, Malay (Latin, Jawi)
+- Temporarily removed: Cubes Without Borders, No Chat Reports, Paginated Advancements
+
 ### 15.0.0-beta.1 (2026-10-11)
 
 - Readded Polytone
