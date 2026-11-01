@@ -10,15 +10,15 @@ hash = "1379dba87dafc27bb98363add32e5bb93ed9a1339b94eddf5b65b500d1d4e647"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/blame-mods.jexl"
-hash = "fe14e8669b9c267b450b3b79f26da9ff9bad86809dfd7f79fa20fc7c5825b38d"
+hash = "6f6746cf679aff7028306c331efcb6ffb2a52c68cface8638578e5e8f8a3e424"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "33fcf8fdf682f2d5763fff3384bf6c64e4d5da053b85383c9b45cb1a5b0dce88"
+hash = "991f3e989641bc9c7863f319c7d5ea6ca26f11f354c78fce2dbb499cf2c99573"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a662e70e07df91843dccd3493490e8e86299fd545ee5f883355aa84518f1f978"
+hash = "d11c7120209cbde5fcd47c047348581cafc8fe53e3ce909f4c09e74ebc343214"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -118,7 +118,7 @@ hash = "7fff33a34f353a359dffb40c742e3b7091e479f158383a18700704ac41d17f8e"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/scripts/log_analysis/blame-mods.jexl"
-hash = "fe14e8669b9c267b450b3b79f26da9ff9bad86809dfd7f79fa20fc7c5825b38d"
+hash = "6f6746cf679aff7028306c331efcb6ffb2a52c68cface8638578e5e8f8a3e424"
 
 [[files]]
 file = "config/modpack_defaults/config/cwb.json"
@@ -138,7 +138,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "33fcf8fdf682f2d5763fff3384bf6c64e4d5da053b85383c9b45cb1a5b0dce88"
+hash = "991f3e989641bc9c7863f319c7d5ea6ca26f11f354c78fce2dbb499cf2c99573"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -150,7 +150,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "a662e70e07df91843dccd3493490e8e86299fd545ee5f883355aa84518f1f978"
+hash = "d11c7120209cbde5fcd47c047348581cafc8fe53e3ce909f4c09e74ebc343214"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -202,7 +202,7 @@ hash = "bf066d869d460eef6cb6d0a725b50280c5398f7f4cb5c98b76c5214e57a57bdd"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "bafef4612786cf7ed8a76f874d7b5f07e4b10af0b596a800a03010dd2a6b37db"
+hash = "52576684c3bfd0f1976639c4d096bc6eeb626dbc5332c45ba97e5b2d5190cf6e"
 metafile = true
 
 [[files]]
@@ -251,6 +251,11 @@ hash = "2e1873f2d504a943a7b632f206ea16fadde3056d5a5c2a6028daaa75feeb16af"
 metafile = true
 
 [[files]]
+file = "mods/cwb.pw.toml"
+hash = "29f98b7fd0c890d1881cd7c0ed97fd2ae78b4e518cee89abe9f0682ca7790b18"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "987087289924e794b93b0532826e75ecf98b413d33e4289ffc5c088f28db5963"
 metafile = true
@@ -282,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6dae83195be2f55ba9d38d72bb0da399f8e90b60f70fb4d792820c4f0b1bac43"
+hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
 metafile = true
 
 [[files]]
@@ -317,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "61303671f5ddd92777f423be1dfe6c57a9d9730d6302acf4de2bcedf4907a94d"
+hash = "2f45baa5395ffc712bb593239664cc4b0a3a875095de5b22250f3f35708774d5"
 metafile = true
 
 [[files]]
@@ -332,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6cd68a7c6f00554a18727f76a28e9cc2525458f9d2f5c8a7aaea245e2e50a0e8"
+hash = "ed8768b78306425d7ea033f928203fb4a9f6cb22fa9eba2bf66f8113f0005c4a"
 metafile = true
 
 [[files]]
@@ -407,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "39ae9b3917d04d13bbaacc0c0a3a9b992cdad806a01ca6a3e5e94f42abb8ebd8"
+hash = "b0fc18ff390790bfaab90f2aa2e7510c944879f6640b630f282ac9dcb969ad2c"
 metafile = true
 
 [[files]]
@@ -441,5 +446,5 @@ hash = "18aa6d7b2934580784aa70cb14087e2c6d7d64c93cccbb1af5c715370b67ed18"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "0b0fe47812a988c1c371bacef1ddc43cdf08d1746354341e954e54b834a29411"
+hash = "8fef0d732bb240fcdfb1a2fb417ddd105d47ebe6245df98a6624e45aa5a26789"
 metafile = true
