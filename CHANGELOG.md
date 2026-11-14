@@ -5,6 +5,22 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-beta.3 (2026-11-01)
+
+- Readded Cubes Without Borders
+- Updated Animatica Refabricated, Fabric API, Ixeris, Lithium, Sodium Extra
+  - Skyboxify update skipped as that version was removed from Modrinth
+- Updated Fabric Loader to 0.20.1
+- Temporarily removed: No Chat Reports, Paginated Advancements
+
+### 15.0.0-beta.2 (2026-10-20)
+
+- Removed No Chat Reports as chat fallback is currently not working correctly
+- Updated Entity Model Features, Entity Texture Features, Animatica Refabricated, Better Block Entities, Fabric API, Ixeris
+- Made some adjustments to Crash Assistant config and mod blaming script
+- Updated translations for Estonian, Hebrew, Malay (Latin, Jawi)
+- Temporarily removed: Cubes Without Borders, No Chat Reports, Paginated Advancements
+
 ### 15.0.0-beta.1 (2026-10-11)
 
 - Readded Polytone
@@ -63,6 +79,13 @@ Chaos Cubed is here and with it comes the early support for Vulkan graphics API!
 - Vulkan is _not_ enabled by default and Mojang does _not_ recommend most users to use it just yet
 - When enabling Vulkan, a few mods may stop working, e.g. you cannot use Iris Shaders with it
 - OpenGL remains supported and no deprecation deadline has been set
+
+### 14.1.2 (2026-11-01)
+
+- Updated Entity Model Features, Entity Texture Features, Better Block Entities, Cubes Without Borders, Ixeris, Sodium Extra
+  - Skyboxify update skipped as that version was removed from Modrinth
+- Backported Crash Assistant config updates
+- Updated Fabric Loader to 0.20.1
 
 ### 14.1.1 (2026-10-11)
 

@@ -80,7 +80,7 @@
 	#Disabled by default.
 	enabled = true
 	#If true, modpack creators always see the Expert Mode with logs visible, even if simple mode is enabled.
-	prevent_for_modpack_creators = false
+	prevent_for_modpack_creators = true
 	#If true, hides the mod list changes section while simple mode is active.
 	hide_modlist_section = false
 
@@ -194,7 +194,7 @@
 	#Warning! This is not displayed anywhere, it's just tech param used for modlist feature to work correctly.
 	#Here must be actual nicknames of people who work with the modpack and publishing releases!
 	#-----------------------------------------------------------------------------------------------------
-	modpack_creators = []
+	modpack_creators = ["robotkoer"]
 	#If enabled, modlist.json will be overwritten on every launch(first tick of TitleScreen),
 	#then game is launched by modpack creator.
 	#So you won't forget to save it before publishing.
@@ -287,7 +287,7 @@
 	#Enable feature.
 	enabled = true
 	#Enable Scripts IDE in the GUI.
-	ide_enabled = false
+	ide_enabled = true
 	#By changing this value you can disable creating "scripts" folder and placing example scripts there.
 	generate_scripts_folder_with_example = false
 	#If enabled, "logs/crash_assistant/startup_scripts.log" is added to the logs list only when it contains [ERROR].
