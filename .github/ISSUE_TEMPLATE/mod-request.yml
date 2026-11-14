@@ -43,6 +43,23 @@ body:
   validations:
     required: false
 
+- type: dropdown
+  attributes:
+    label: Modrinth project disclosures
+    description: Select all disclosures that are present on the Modrinth listing sidebar, skip if none. Elaborate under "Additional details".
+    multiple: true
+    options:
+      - AI-generated content
+      - Advertising
+      - Paid features
+      - Telemetry
+      - Derivative content
+      - Photosensitivity
+      - External system interactions
+      - Archived
+  validations:
+    required: false 
+    
 - type: input
   attributes:
     label: Source/other link

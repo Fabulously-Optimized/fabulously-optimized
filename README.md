@@ -29,26 +29,6 @@ A simple Minecraft modpack focusing on performance and graphics enhancements.
 
 > By downloading Fabulously Optimized, you have acknowledged the [disclaimers][url-terms].
 
-We recommend and support five launchers, all of which can be used offline on 🪟 Windows, 🐧 Linux and 🍏 macOS.
-
-See this table for a comparison between the launchers:
-
-| Launcher                                      |               Tutorial               |    Install    |     Upgrade     |   Add mods    | Support us and mods |
-| --------------------------------------------- | :----------------------------------: | :-----------: | :-------------: | :-----------: | :-----------------: |
-| [CurseForge App][url-app-cf]                  |    [🔗&nbsp;Open][url-tutorial-cf]    |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Modrinth App][url-app-modrinth]              | [🔗&nbsp;Open][url-tutorial-modrinth] |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Prism Launcher][url-app-prism]               |  [🔗&nbsp;Open][url-tutorial-prism]   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
-| [MultiMC][url-app-multimc]                    | [🔗&nbsp;Open][url-tutorial-multimc]  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [MultiMC (auto-update)][url-app-mmcu]           |   [🔗&nbsp;Open][url-tutorial-mmcu]   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Minecraft Launcher][url-app-vanilla] (installer) | [🔗&nbsp;Open][url-tutorial-vanilla] |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Minecraft Launcher][url-app-vanilla] (manual setup) | [🔗&nbsp;Open][url-tutorial-vanilla]  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-
-> [!NOTE]
->
-> **[1]**: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
->
-> **[2]**: These launchers support the modpack and its mods by increasing their download count, but not with monetary benefits.
-
 <details><summary>Download Resource Packs separately</summary>
 
 FO includes some resource packs [for a better experience][url-rp], but they can also be downloaded separately.
@@ -154,12 +134,6 @@ Special thanks to:
 [url-terms]: <https://download.fo/terms>
 [url-contribute]: <https://download.fo/contribute>
 [url-translate]: <https://download.fo/translate>
-[url-tutorial-cf]: <https://wiki.download.fo/install-instructions#curseforge-app>
-[url-tutorial-mmcu]: <https://wiki.download.fo/install-instructions#multimc-auto-update>
 [url-tutorial-mmcu-ignoremods]: <https://wiki.download.fo/multimc-auto-update#can-i-ignore-some-of-the-mods>
-[url-tutorial-modrinth]: <https://wiki.download.fo/install-instructions#modrinth-app>
-[url-tutorial-multimc]: <https://wiki.download.fo/install-instructions#multimc>
-[url-tutorial-prism]: <https://wiki.download.fo/install-instructions#prism-launcher>
-[url-tutorial-vanilla]: <https://wiki.download.fo/install-instructions#minecraft-launcher-vanilla>
 [url-website]: <https://download.fo>
 [url-wiki]: <https://download.fo/wiki>

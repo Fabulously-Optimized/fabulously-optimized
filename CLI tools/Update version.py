@@ -1,9 +1,15 @@
-import json, shutil
+import json
+import shutil
+import sys
 from pathlib import Path
 
+macos = sys.platform == "darwin"
+if macos:
+    cf_path = Path.home() / "curseforge/Instances/Fabulously Optimized"
+else:
+    cf_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
 
-mmc_path = Path.home() / "curseforge/minecraft/Instances/Fabulously Optimized/"
-config_root = mmc_path / "config/"
+config_root = cf_path / "config/"
 title_screen_name = "isxander-main-menu-credits.json"
 title_screen_path = config_root / title_screen_name
 overrides_name = "fabric_loader_dependencies.json"
@@ -11,7 +17,9 @@ overrides_path = config_root / overrides_name
 modpack_defaults_name = "modpack_defaults/config/"
 modpack_defaults_path = config_root / modpack_defaults_name
 modpack_defaults = True
-
+blame_script_name = "blame-mods.jexl"
+blame_script_path_from = config_root / "crash_assistant/scripts/log_analysis" / blame_script_name
+blame_script_path_to = modpack_defaults_path / "crash_assistant/scripts/log_analysis" / blame_script_name
 
 def load_json(path: Path) -> dict:
     with open(path, "r") as f:
@@ -43,6 +51,17 @@ overrides_file_obj = load_json(overrides_path)
 overrides_file_obj["overrides"]["minecraft"]["+recommends"]["Fabulously Optimized"] = f">{new_version}"
 save_file(overrides_path, overrides_file_obj)
 
+content = blame_script_path_from.read_text(encoding="utf-8")
+lines = content.splitlines(keepends=True)
+
+for i, line in enumerate(lines):
+    if line.startswith("var modpackVersion"):
+        lines[i] = f'var modpackVersion = "{new_version}";\n'
+        break
+
+blame_script_path_from.write_text("".join(lines), encoding="utf-8")
+
 if modpack_defaults:
     copy_file(title_screen_path, modpack_defaults_path / title_screen_name, title_screen_name, modpack_defaults_name)
     copy_file(overrides_path, modpack_defaults_path / overrides_name, overrides_name, modpack_defaults_name)
+    copy_file(blame_script_path_from, modpack_defaults_path / blame_script_path_to, blame_script_name, modpack_defaults_name)

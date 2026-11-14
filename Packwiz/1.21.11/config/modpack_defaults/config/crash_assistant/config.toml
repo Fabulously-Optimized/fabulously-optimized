@@ -10,15 +10,35 @@
 	#   - DISCORD: Uses terminology like 'join the Discord' and 'post in #channel'.
 	#   - GITHUB: Uses terminology like 'visit the GitHub' and 'post into a new issue'.
 	formulation_type = "DISCORD"
-	#Anyways log will be uploaded to mclo.gs, but with this option you can wrap link to gnomebot.dev for better formatting.
-	#If help_link equals 'CHANGE_ME', this value will be ignored and gnomebot.dev used.
-	#Supported values: mclo.gs / gnomebot.dev
-	upload_to = "mclo.gs"
+	#Logs are always uploaded to mclo.gs. This option only controls which link is copied after the upload.
+	#This is needed to make viewing logs more convenient, especially on mobile.
+	#Supported values:
+	#   - mclo.gs: copies the original mclo.gs link.
+	#   - gnomebot.dev: wraps the mclo.gs link through gnomebot.dev.
+	#   - kostromdan.dev (recommended): wraps the mclo.gs link through paste.kostromdan.dev and copies the short p.kdan.dev link.
+	wrap_link = "mclo.gs"
+	#If enabled, Crash Assistant sends metadata about uploaded logs to api.kostromdan.dev after upload.
+	#This does not upload log contents to our server: logs are still uploaded to mclo.gs.
+	#This metadata is needed so paste.kostromdan.dev can switch between logs uploaded from the same crash in the browser,
+	#and can check/show the Minecraft UUID (for piracy check purposes) for those logs even if a particular uploaded log does not contain it.
+	#This works independently from general.wrap_link.
+	send_uploaded_logs_data_to_kostromdan_dev = false
 	#Show gui on minecraft crashed on modloading and FML error screen displayed.
 	show_on_fml_error_screen = true
 	#Close old CrashAssistantApp if it's still running when starting a new instance of Minecraft, to avoid confusing player with window from old crash.
 	kill_old_app = true
-	#If options.txt doesn't exist, the default language will be used.
+	#Controls where the standalone Crash Assistant app gets the language for its interface.
+	#When this code runs inside the Minecraft process, the language is always read from Minecraft options.txt and this option is ignored.
+	#Supported values:
+	#   - SYSTEM (default): Uses the operating system language. Regional variants are matched to an available translation.
+	#     For example, en_US, en_GB, and other English locales use en_us when it is the available English translation.
+	#   - GAME: Uses the language from the lang entry in the Minecraft options.txt file.
+	#   - A language key such as en_us or ru_ru: Forces that language and ignores both the system and Minecraft languages.
+	#If the selected source cannot provide an available language, general.default_lang is used.
+	language_source = "GAME"
+	#Fallback interface language used when general.language_source cannot provide an available language.
+	#Use a language key such as en_us or ru_ru.
+	#If this language is also unavailable, Crash Assistant falls back to en_us.
 	default_lang = "en_us"
 	#By default, crash assistant will get the value for the current language from the overrides folder, then from the jar.
 	#By changing this option, it will first try to get it from the current overrides, then (if no override exists for this language)
@@ -31,9 +51,6 @@
 	#This option can prevent this and enable individual upload buttons immediately after crash.
 	#However can confuse users and make them clicking individual upload buttons instead of Upload All Button.
 	prevent_upload_buttons_delay = false
-	#Before uploading the first log, requires the user to accept the privacy policy.
-	#Disabling this option may be illegal in some countries if you are modpack creator. Disable at your own risk.
-	enable_privacy_policy_acceptance = true
 	#Unfortunately mclogs censoring ip-like versions as has no way to determine if it's version or IP.
 	#This will prevent this by replacing dot's in them to dot-like symbol.
 	#Anti censoring only versions, IP's are kept censored.
@@ -41,18 +58,21 @@
 	#Prevents creating "crash_assistant" folder in the logs folder.
 	#So this option prevents our app logging at all.
 	#HIGHLY UNRECOMMENDED to disable! Contains many useful info.
-	prevent_generating_crash_assistant_app_logs = true
+	prevent_generating_crash_assistant_app_logs = false
 	#Generates "logs/stderr_stream.log" with stderr stream.
 	#Since many launchers are not saving this info, which is extremely helpful for debugging some crashes.
 	#As only where crash reason is present. Keeps original stream untouched, just logs it to a file.
 	generate_own_launcher_log = true
+	#If true, Crash Assistant will pop up even if the presence of win_event log is the only sign of a crash.
+	#Can be false positive for some users, since they can have some unrelated spam in the windows event error log.
+	win_event_is_crash = false
 	#Here you can change priority for logs.
 	#For example if you want crash report to be shown earlier than latest.log in the available logs list.
 	#Supported values: https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/app/src/main/java/dev/kostromdan/mods/crash_assistant/app/logs_analyser/LogType.java
 	#Usage: ["CRASH_REPORT", "LOG"]
 	logs_priority_overrides = ["CRASH_REPORT", "STDERR_STREAM", "WIN_EVENT", "HS_ERR", "LOG", "DEBUG_LOG", "LAUNCHER_LOG", "MOD_LIST"]
 	#List of blacklisted log files (checked with startswith()). This files won't show in GUI logs list.
-	blacklisted_logs = ["crash_assistant_app.log", "PrismLauncher-", "MultiMC-", "session_"]
+	blacklisted_logs = ["PrismLauncher-", "MultiMC-", "session_"]
 
 #A simplified GUI that hides the logs list until the user opts into Expert Mode.
 [simple_mode]
@@ -124,6 +144,7 @@
 	#$PROBLEMATIC_FRAME$ - hs_err frame
 	#$ANALYSIS_RESULT$ - Analysis results
 	#$MODLIST_DIFF$ - Modlist changes
+	#$CUSTOM/name$ - Entries added by scripts to the named custom slot
 	message_structure = "$HEADER$$TEXT_UNDER_CRASHED$$PREFIX$$LOGS$\n$PROBLEMATIC_FRAME$$ANALYSIS_RESULT$$MODLIST_DIFF$"
 	#Pattern for a single log line.
 	#Variables: $LOG_NAME$, $FILE_NAME$, $LINK$.
@@ -264,11 +285,15 @@
 #Scripts should be placed in config/crash_assistant/scripts/log_analysis folder.
 [scripts]
 	#Enable feature.
-	enabled = false
+	enabled = true
 	#Enable Scripts IDE in the GUI.
 	ide_enabled = false
 	#By changing this value you can disable creating "scripts" folder and placing example scripts there.
 	generate_scripts_folder_with_example = false
+	#If enabled, "logs/crash_assistant/startup_scripts.log" is added to the logs list only when it contains [ERROR].
+	#If it has no errors, its contents are written into "crash_assistant_app.log" instead.
+	#If app logging is disabled, the startup scripts log is kept as a separate log file.
+	attach_startup_scripts_log_only_on_error = true
 
 #You can customise GUI with this options.
 [gui_customisation]
@@ -306,7 +331,13 @@
 	auto_fix_button_font_size = 14
 	#Same as upload_all_button_foreground_color, but for Auto-Fix button (in integrated GPU warning).
 	#Default for this button is "0_178_0" (dark green color).
-	auto_fix_button_foreground_color = "0_178_0"
+	auto_fix_button_foreground_color = "0_87_0"
+	#Same as upload_all_button_foreground_color, but for the Yes button in the privacy policy acceptance dialog.
+	#Default for this button is "0_178_0" (dark green color).
+	privacy_policy_yes_button_foreground_color = "0_0_0"
+	#Same as upload_all_button_foreground_color, but for the No button in the privacy policy acceptance dialog.
+	#Default for this button is "255_0_0" (red color).
+	privacy_policy_no_button_foreground_color = "0_0_0"
 	#Color of the animated border for the screenshot notice.
 	#format is "R_G_B", range is 0-255, for example "255_0_0" is red color.
 	#Default for this is "255_0_0" (red color).
@@ -356,4 +387,11 @@
 [debug]
 	#Debug option to crash immediately after Crash Assistant launched its process to conveniently debug it, configure it without need to manually crash.
 	crash_after_init = false
+
+#Options to configure patches made by Crash Assistant.
+[patches]
+	#Fixes vanilla crash MC-307905 during crash report generation when StackTraceElement#getFileName() returns null.
+	#Without this fix, crash report generation itself crashes under some rare conditions, preventing the original crash report from being created.
+	#This patch does not change the report contents; it only allows the crash report to be generated successfully.
+	MC307905 = true
 
