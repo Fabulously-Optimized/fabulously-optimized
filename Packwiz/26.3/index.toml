@@ -10,15 +10,15 @@ hash = "1379dba87dafc27bb98363add32e5bb93ed9a1339b94eddf5b65b500d1d4e647"
 
 [[files]]
 file = "config/crash_assistant/scripts/log_analysis/blame-mods.jexl"
-hash = "6f6746cf679aff7028306c331efcb6ffb2a52c68cface8638578e5e8f8a3e424"
+hash = "3ffff5002db61b42007c666785728c675e926079aaae41e650c8c8cc1294c3b3"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "991f3e989641bc9c7863f319c7d5ea6ca26f11f354c78fce2dbb499cf2c99573"
+hash = "10fec66e0b21f34372e03dc96a359498b6ac9fd6968f18007638d60c43b38a95"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d11c7120209cbde5fcd47c047348581cafc8fe53e3ce909f4c09e74ebc343214"
+hash = "7164fb4c15320af1dd7ef5dc5bfc08c0948596fe64b2231696132d96f811326f"
 
 [[files]]
 file = "config/modpack_defaults/config/BBEConfig.json"
@@ -118,7 +118,7 @@ hash = "7fff33a34f353a359dffb40c742e3b7091e479f158383a18700704ac41d17f8e"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/scripts/log_analysis/blame-mods.jexl"
-hash = "6f6746cf679aff7028306c331efcb6ffb2a52c68cface8638578e5e8f8a3e424"
+hash = "3ffff5002db61b42007c666785728c675e926079aaae41e650c8c8cc1294c3b3"
 
 [[files]]
 file = "config/modpack_defaults/config/cwb.json"
@@ -138,7 +138,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/modpack_defaults/config/fabric_loader_dependencies.json"
-hash = "991f3e989641bc9c7863f319c7d5ea6ca26f11f354c78fce2dbb499cf2c99573"
+hash = "10fec66e0b21f34372e03dc96a359498b6ac9fd6968f18007638d60c43b38a95"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -150,7 +150,7 @@ hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "d11c7120209cbde5fcd47c047348581cafc8fe53e3ce909f4c09e74ebc343214"
+hash = "7164fb4c15320af1dd7ef5dc5bfc08c0948596fe64b2231696132d96f811326f"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "7957da3bd1aebccb6653b5e21fe43802778fc78048de8c17de36254553f2f5fd"
+hash = "58c25439143125b1ed1c28f78487d70a30f6b55a7e12244da2f42b87e92f922e"
 metafile = true
 
 [[files]]
@@ -277,17 +277,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "ce2d754f1081639fcfce8722de9aae5cfcc176e185ad9b2c0f94c5d6b4c0ea85"
+hash = "4ec628d8d669b26cf62e024a084e3592c13413a0d87801988fe457d28998d01b"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cbacfc5f4a88c2b5078a8f88b913da62bc5c3fc4ce950e186e6c1c8a1b65c472"
+hash = "31a9b8ce7a3d3c7e9b7842c0ef215bd23b3fdae53394388912cbcbc250c0ee23"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+hash = "927efb6a747db25688ab01ee6de6418eb834f27a286091551c03335fb6d3f67d"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "634d23e23d005e8574901e54ef254cb010db5a61f0d7ef5243861d75747551fa"
+hash = "5a6998e1f7a8dc87e9c4952262fd1c1bc95d4f7b499016cc31d2c69c66686e9e"
 metafile = true
 
 [[files]]
@@ -367,12 +367,17 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "3d5215c890410372168f021d32b50140526057aea646ca3a6f317e424017e550"
+hash = "700a35c636fe63c53a3ce27df3d2a7b0b8982a5762099ff1a043d06f8129b3d2"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "aa88b40951918dd0546f3298472a8e76a24f3bd031188db6dbecd311d8f5ca83"
+hash = "e99d0bc395abbe0ce25c47b1f8f0b4e13390e7a36801e359b3e30a1c37fed1fe"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "351ad0467ce3965a2f89948e2e3134ee6b07081ada30043573a6b2b9351d5f6a"
 metafile = true
 
 [[files]]
@@ -446,5 +451,5 @@ hash = "18aa6d7b2934580784aa70cb14087e2c6d7d64c93cccbb1af5c715370b67ed18"
 
 [[files]]
 file = "resourcepacks/Translations_for_Sodium.pw.toml"
-hash = "8fef0d732bb240fcdfb1a2fb417ddd105d47ebe6245df98a6624e45aa5a26789"
+hash = "f226588bc856f5d22a2978623c0647108ad7953f3742cc73dd7eed9df3f3e76b"
 metafile = true

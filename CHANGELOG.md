@@ -5,6 +5,14 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 26.3
 
+### 15.0.0-beta.4 (2026-11-14)
+
+- Readded Paginated Advancements
+- Updated Entity Texture Features, Cape Provider, Entity Culling, Fabric API, Mod Menu, OptiGUI
+  - Skipped updates that require Sodium beta or cause issues
+- Updated the list of mods that likely cause crashes
+- Temporarily removed: No Chat Reports
+
 ### 15.0.0-beta.3 (2026-11-01)
 
 - Readded Cubes Without Borders

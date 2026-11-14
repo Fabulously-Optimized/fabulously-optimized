@@ -1,6 +1,6 @@
 /* Static variables */
 
-var modpackVersion = "15.0.0-beta.3";
+var modpackVersion = "15.0.0-beta.4";
 var expectedMinecraftVersion = "26.3";
 var expectedLoader = "fabric-loader";
 var expectedLoaderVersion = "0.20.1";
@@ -89,6 +89,10 @@ var problematicMods = [
     "vulkanmod",
     "xeno",
     "vitrail",
+
+    "forgix_multiversion_b112b482396d40159c93dd5cc501a46d",
+    "geo-mod",
+    "geo_mod_impl",
 
     "dawn-loader",
     "feather-loader",
