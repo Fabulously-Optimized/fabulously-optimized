@@ -1,7 +1,6 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7Giải thích và biểu tượng đơn giản cho báo cáo trò chuyện§r",
     "chat.disabled.profile.moreInfo": "§cTrò chuyện bị hạn chế bởi cài đặt hồ sơ.§r Trong Minecraft 26+ trở lên, bạn có thể đọc tin nhắn trò chuyện và sử dụng lệnh.",
-    "restrictions_screen.permission.receive_player_messages.denied": "§6Bạn có thể nhận tin nhắn từ người chơi trên hầu hết các máy chủ (nếu trò chuyện được hiển thị)§r",
     "chat.tag.modified": "Tin nhắn của người chơi có thể được báo cáo cho Mojang nhưng đã bị máy chủ sửa đổi. Bản gốc:",
     "chat.tag.not_secure": "Tin nhắn của người chơi không thể được báo cáo cho Mojang.",
     "chat.tag.system": "Tin nhắn máy chủ hoặc tin nhắn người chơi không thể được báo cáo cho Mojang.",
@@ -26,10 +25,8 @@
     "gui.nochatreports.safety_status.unintrusive": "Tin nhắn của những người khác có thể được báo cáo cho Mojang. Xác nhận trên Tương tác xã hội.",
     "gui.nochatreports.safety_status.insecure": "Tin nhắn của người khác có thể báo cáo cho Mojang.",
     "gui.nochatreports.safety_status.insecure_signing": "Tin nhắn của bạn có thể được báo cáo cho Mojang.",
-    "gui.nochatreports.safety_status.realms": "Tin nhắn của người khác có thể được báo cáo cho Mojang. Mojang cũng đang theo dõi cuộc trò chuyện một cách thụ động để phát hiện các vi phạm.",
     "gui.nochatreports.safety_status.unknown": "Trạng thái báo cáo trò chuyện vẫn chưa được xác định. Gửi tin nhắn để nhận trạng thái.",
     "gui.nochatreports.safety_status.undefined": "Trạng thái báo cáo trò chuyện hiện không xác định do lỗi. Hãy thử khởi động lại trò chơi.",
-    "gui.nochatreports.signing_status.allowed_realms": "Tin nhắn của bạn luôn có thể được báo cáo cho Mojang trên Realms. Mojang cũng đang theo dõi cuộc trò chuyện một cách thụ động để phát hiện các vi phạm.",
     "gui.nochatreports.signing_status.allowed": "Tin nhắn của bạn có thể được báo cáo cho Mojang theo lựa chọn của bạn.",
     "gui.nochatreports.signing_status.allowed_session": "Tin nhắn của bạn có thể được báo cáo cho Mojang. Để kiểm tra xem điều đó có còn cần thiết hay không, hãy tham gia lại máy chủ.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Tin nhắn của bạn sẽ được báo cáo cho Mojang sau khi bạn gửi.",
@@ -40,7 +37,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Bạn đang sử dụng tài khoản ngoại tuyến hoặc gặp sự cố về internet. Nếu máy chủ yêu cầu báo cáo tin nhắn, bạn không thể trò chuyện.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "Tin nhắn của bạn không thể báo cáo theo mặc định, bạn sẽ được nhắc khi máy chủ yêu cầu.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Tin nhắn của bạn sẽ chỉ có thể báo cáo nếu máy chủ yêu cầu.",
-    "gui.nochatreports.signing_required.contents": "Máy chủ này yêu cầu tất cả tin nhắn của người chơi phải có thể được báo cáo cho Mojang. Nếu không đồng ý, bạn vẫn có thể sử dụng bất kỳ lệnh nào không liên quan đến trò chuyện.\n\nNhấp vào \"Cho phép ký\" để đồng ý và bật trò chuyện.",
-    "chat.nochatreports.disabled.signing_requested": "Máy chủ này yêu cầu tin nhắn của người chơi phải có thể được báo cáo cho Mojang. Sử dụng màn hình nhắc hoặc nút lá chắn trò chuyện để chấp nhận và bật trò chuyện.",
-    "gui.nochatreports.realms_warning.contents": "Thông tin quan trọng về Realms:\n• Tin nhắn trò chuyện có thể được báo cáo cho Mojang.\n• Mojang đang theo dõi cuộc trò chuyện một cách thụ động để phát hiện các vi phạm.\n• Bộ lọc tục tĩu được bật theo mặc định. Người lớn có thể cho phép xem những lời tục tĩu trên minecraft.net."
+    "gui.nochatreports.signing_required.contents": "Máy chủ này yêu cầu tất cả tin nhắn của người chơi phải có thể được báo cáo cho Mojang. Nếu không đồng ý, bạn vẫn có thể sử dụng bất kỳ lệnh nào không liên quan đến trò chuyện.\n\nNhấp vào \"Cho phép ký\" để đồng ý và bật trò chuyện."
 }
