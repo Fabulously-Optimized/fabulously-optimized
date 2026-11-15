@@ -24,10 +24,8 @@
     "gui.nochatreports.safety_status.unintrusive": "Başkalarının mesajları Mojang'e bildirilebilir. Sosyal Etkileşimler'de teyit edin.",
     "gui.nochatreports.safety_status.insecure": "Diğerlerinin mesajları Mojang'e bildirilebilir.",
     "gui.nochatreports.safety_status.insecure_signing": "Mesajlarınız Mojang'e bildirilebilir.",
-    "gui.nochatreports.safety_status.realms": "Diğerlerinin mesajları Mojang'e bildirilebilir. Mojang aynı zamanda ihlaller için sohbeti pasif olarak izler.",
     "gui.nochatreports.safety_status.unknown": "Sohbet bildirme durumu henüz bilinmiyor. Durumu edinmek için bir mesaj yolla.",
     "gui.nochatreports.safety_status.undefined": "Sohbet bildirme durumu bir hatadan dolayı bilinmiyor. Oyunu yeniden başlatmayı dene.",
-    "gui.nochatreports.signing_status.allowed_realms": "Mesajlarınız her zaman Realms üzerinden Mojang'e bildirilebilir. Mojang aynı zamanda ihlaller için pasif bir şekilde sohbeti izlemektedir.",
     "gui.nochatreports.signing_status.allowed": "Mesajlarınız sizin tercihinizle Mojang'e bildirilebilir.",
     "gui.nochatreports.signing_status.allowed_session": "Mesajlarınız Mojang'e bildirilebilir. Bunun hala zorunlu olup olmadığını kontrol etmek için, sunucuya yeniden katıl.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Bir kez gönderirsen, mesajların Mojang'e bildirilebilir olacak.",
@@ -38,7 +36,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Bir çevrimdışı hesap kullanıyorsunuz veya internet sorunlarınız var. Eğer sunucu bildirilebilir mesajları zorunlu kılarsa, sohbet edemezsiniz.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "Mesajlarınız varsayılan olarak bildirilemez, sunucu bunu gerektiriyorsa soracaktır.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Mesajlarınız ancak sunucu tarafında gerektiğinde bildirilebilir olacak.",
-    "gui.nochatreports.signing_required.contents": "Bu sunucu tüm oyuncu mesajlarının Mojang'e bildirilebilir olmasını gerektirir. Eğer katılmıyorsanız, yine de sohbetle ilgili olmayan komutları kullanabilirsiniz.\n\nKabul etmek için \"İmzalamaya İzin Ver\"e tıkla ve sohbeti etkinleştir.",
-    "chat.nochatreports.disabled.signing_requested": "Bu sunucu oyuncu mesajlarının Mojang'e bildirilebilir olmasını gerektirir. Kabul etmek ve sohbeti etkinleştirmek için sorgu ekranını veya sohbet kalkan tuşunu kullan.",
-    "gui.nochatreports.realms_warning.contents": "Realms hakkında önemli bilgi:\n• Sohbet mesajları Mojang'e bildirilebilir.\n• Mojang ihlaller için sohbeti pasif olarak izler.\n• Küfür filtresi varsayılan olarak etkindir. Yetişkinler küfürleri görmek için minecraft.net'ten etkinleştirebilir."
+    "gui.nochatreports.signing_required.contents": "Bu sunucu tüm oyuncu mesajlarının Mojang'e bildirilebilir olmasını gerektirir. Eğer katılmıyorsanız, yine de sohbetle ilgili olmayan komutları kullanabilirsiniz.\n\nKabul etmek için \"İmzalamaya İzin Ver\"e tıkla ve sohbeti etkinleştir."
 }
