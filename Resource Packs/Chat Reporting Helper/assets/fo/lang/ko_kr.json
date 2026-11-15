@@ -24,10 +24,8 @@
     "gui.nochatreports.safety_status.unintrusive": "채팅이 신고될 수 있습니다. 사회적 상호 작용 탭에서 확인하십시오.",
     "gui.nochatreports.safety_status.insecure": "다른 사람들의 메시지는 Mojang에 신고할 수 있습니다.",
     "gui.nochatreports.safety_status.insecure_signing": "당신의 채팅은 Mojang에 신고할 수 있습니다.",
-    "gui.nochatreports.safety_status.realms": "다른 플레이어들의 채팅이 Mojang으로 신고될 수 있으며, 위반 사항이 있는지 채팅을 모니터링 중입니다.",
     "gui.nochatreports.safety_status.unknown": "아직 채팅을 신고할 수 있는지 확인할 수 없습니다. 채팅을 보내 확인할 수 있습니다.",
     "gui.nochatreports.safety_status.undefined": "예기치 못한 오류가 발생하여 채팅을 신고할 수 있는지 확인하는 데 실패했습니다. 게임을 재시작해 주십시오.",
-    "gui.nochatreports.signing_status.allowed_realms": "렐름에서는 항상 채팅이 Mojang에게 신고될 수 있습니다. Mojang은 또한 위반 사항이 있는지 수동으로 채팅을 확인하고 있습니다.",
     "gui.nochatreports.signing_status.allowed": "당신의 채팅은 당신의 선택에 따라 Mojang에 신고할 수 있습니다.",
     "gui.nochatreports.signing_status.allowed_session": "당신의 메시지는 Mojang에 신고할 수 있습니다. 여전히 필요한지 확인하려면 서버에 다시 참여하세요.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "채팅을 보내면 채팅을 신고할 수 있습니다.",
@@ -38,7 +36,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "오프라인 계정이거나 서버/인터넷의 문제로 채팅을 신고할 수 없습니다. 서버가 신고 가능한 채팅을 강제할 경우 채팅이 보내지지 않습니다.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "기본적으로 채팅을 신고할 수 없지만, 서버에서 강제할 경우 신고가 가능하도록 합니다.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "서버가 강제할 경우에만 채팅을 신고할 수 있습니다.",
-    "gui.nochatreports.signing_required.contents": "이 서버에서는 모든 플레이어 채팅을 Mojang에 보고해야 합니다. 동의하지 않으셔도 채팅과 관련이 없는 명령은 계속 사용할 수 있습니다.\n\n동의하고 채팅을 활성화하려면 \"서명 허용\"을 클릭하세요.",
-    "chat.nochatreports.disabled.signing_requested": "이 서버는 플레이어 메시지를 Mojang에 신고해야 합니다. 프롬프트 화면 또는 채팅 쉴드 버튼을 사용하여 채팅을 수락하고 활성화하십시오.",
-    "gui.nochatreports.realms_warning.contents": "렐름에 대한 정보들:\n• 채팅은 Mojang에게 신고될 수 있습니다.\n• Mojang은 위반 사항이 있는지 수동으로 채팅을 확인하고 있습니다.\n• 비속어 필터는 기본적으로 켜져있습니다. 성인은 minecraft.net에서 비속어 보기를 활성화할 수 있습니다."
+    "gui.nochatreports.signing_required.contents": "이 서버에서는 모든 플레이어 채팅을 Mojang에 보고해야 합니다. 동의하지 않으셔도 채팅과 관련이 없는 명령은 계속 사용할 수 있습니다.\n\n동의하고 채팅을 활성화하려면 \"서명 허용\"을 클릭하세요."
 }
