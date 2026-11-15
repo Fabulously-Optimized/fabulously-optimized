@@ -1,7 +1,6 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7Explica reportes de chat con frases e iconos simples§r",
     "chat.disabled.profile.moreInfo": "§cEl chat está restringido por la configuración del perfil.§r En Minecraft 26+ puedes leer el chat y usar comandos.",
-    "restrictions_screen.permission.receive_player_messages.denied": "§6Puedes recibir mensajes de jugadores en la mayoría de los servidores (si se muestra el chat)§r",
     "chat.tag.modified": "Mensaje jugador reportable a Mojang, pero modificado por el servidor. Original:",
     "chat.tag.not_secure": "Mensaje jugador no reportable a Mojang.",
     "chat.tag.system": "Mensaje del servidor o jugador no reportable a Mojang.",
@@ -26,10 +25,8 @@
     "gui.nochatreports.safety_status.unintrusive": "Mensajes de otros podrían ser reportables. Verifica en Interacciones Sociales.",
     "gui.nochatreports.safety_status.insecure": "Mensajes de otros son reportables.",
     "gui.nochatreports.safety_status.insecure_signing": "Tus mensajes son reportables.",
-    "gui.nochatreports.safety_status.realms": "Mensajes de otros son reportables. Mojang también monitorea el chat.",
     "gui.nochatreports.safety_status.unknown": "Estado de reportes desconocido. Envía un mensaje para actualizar.",
     "gui.nochatreports.safety_status.undefined": "Estado de reportes desconocido por error. Reinicia el juego.",
-    "gui.nochatreports.signing_status.allowed_realms": "Tus mensajes siempre son reportables en Realms. Mojang también monitorea el chat.",
     "gui.nochatreports.signing_status.allowed": "Tus mensajes son reportables por tu elección.",
     "gui.nochatreports.signing_status.allowed_session": "Tus mensajes son reportables. Verifica al reconectar.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Tus mensajes serán reportables al enviar uno.",
@@ -40,7 +37,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Usas cuenta offline o tienes problemas de internet. Si el servidor requiere mensajes reportables, no podrás chatear.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "Tus mensajes no son reportables por defecto. Se te preguntará si el servidor lo requiere.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Tus mensajes serán reportables solo si el servidor lo requiere.",
-    "gui.nochatreports.signing_required.contents": "Este servidor requiere mensajes reportables. Si no aceptas, aún puedes usar comandos no relacionados al chat.\n\nHaz clic en \"Permitir Firma\" para chatear.",
-    "chat.nochatreports.disabled.signing_requested": "Este servidor requiere mensajes reportables. Usa la pantalla de solicitud o el botón de escudo para activar el chat.",
-    "gui.nochatreports.realms_warning.contents": "Información importante sobre Realms:\n• Mensajes reportables a Mojang.\n• Mojang monitorea el chat pasivamente.\n• Filtro de groserías activado. Adultos pueden desactivarlo en minecraft.net."
+    "gui.nochatreports.signing_required.contents": "Este servidor requiere mensajes reportables. Si no aceptas, aún puedes usar comandos no relacionados al chat.\n\nHaz clic en \"Permitir Firma\" para chatear."
 }
