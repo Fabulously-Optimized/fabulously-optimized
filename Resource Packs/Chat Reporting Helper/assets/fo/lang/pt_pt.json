@@ -24,10 +24,8 @@
     "gui.nochatreports.safety_status.unintrusive": "As mensagens de outros talvez sejam relatáveis à Mojang. Confirme em \"Interações Sociais\".",
     "gui.nochatreports.safety_status.insecure": "As mensagens dos outros são relatáveis à Mojang.",
     "gui.nochatreports.safety_status.insecure_signing": "As tuas mensagens são relatáveis à Mojang.",
-    "gui.nochatreports.safety_status.realms": "As mensagens dos outros são relatáveis à Mojang. A Mojang monitora o chat em busca de violações.",
     "gui.nochatreports.safety_status.unknown": "O estado do relato do chat ainda é desconhecido. Manda uma mensagem para saberes mais.",
     "gui.nochatreports.safety_status.undefined": "O estado do relato do chat é desconhecido devido a um erro. Tenta reiniciar o jogo.",
-    "gui.nochatreports.signing_status.allowed_realms": "As tuas mensagens no Realms sempre serão relatáveis à Mojang. A Mojang monitora o chat por violações.",
     "gui.nochatreports.signing_status.allowed": "As tuas mensagens são relatáveis à Mojang por sua escolha.",
     "gui.nochatreports.signing_status.allowed_session": "As tuas mensagens são relatáveis à Mojang. Para ver se isso ainda requer, entra no servidor novamente.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "As tuas mensagens serão relatáveis à Mojang se enviares uma.",
@@ -38,7 +36,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Estás a utilizar uma conta offline ou que tem problemas de internet. Se o servidor exigir mensagens relatáveis, não poderás conversar.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "As tuas mensagens não são relatáveis por padrão, porém serás solicitado quando o servidor exigir.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "As tuas mensagens só podem ser relatáveis se for exigido pelo servidor.",
-    "gui.nochatreports.signing_required.contents": "Este servidor requer que as mensagens dos jogadores sejam relatáveis à Mojang. Se discordas, podes usar qualquer comando não relacionado ao chat.\n\nClique em \"Permitir assinatura\" para concordar e habilitar o chat.",
-    "chat.nochatreports.disabled.signing_requested": "Este servidor exige que as mensagens dos jogadores sejam relatáveis à Mojang. Usa a tela de solicitação ou o escudo no chat para aceitar e habilitar o chat.",
-    "gui.nochatreports.realms_warning.contents": "Informações importantes sobre Realms:\n• As mensagens do chat são relatáveis à Mojang.\n• A Mojang monitora o chat por qualquer violação.\n• O filtro de profanação é habilitado por padrão. Adultos podem habilitar ver profanidades em minecraft.net."
+    "gui.nochatreports.signing_required.contents": "Este servidor requer que as mensagens dos jogadores sejam relatáveis à Mojang. Se discordas, podes usar qualquer comando não relacionado ao chat.\n\nClique em \"Permitir assinatura\" para concordar e habilitar o chat."
 }
