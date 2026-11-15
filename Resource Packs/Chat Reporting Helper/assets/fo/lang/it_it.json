@@ -1,7 +1,6 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7Spiega la segnalazione della chat con frasi semplici e icone§r",
     "chat.disabled.profile.moreInfo": "§cLe impostazioni del tuo profilo limitano la chat.§r In Minecraft 26+ sarai in grado di visualizzare la chat e usare comandi.",
-    "restrictions_screen.permission.receive_player_messages.denied": "§6In molti server potrai ricevere messaggi dai giocatori (se la chat è attiva)§r",
     "chat.tag.modified": "Messaggio del giocatore che può essere segnalato a Mojang, ma che è stato modificato dal server. Originale:",
     "chat.tag.not_secure": "Messaggio del giocatore che non è segnalabile a Mojang.",
     "chat.tag.system": "Messaggio del server o del giocatore che non è segnalabile a Mojang.",
@@ -26,10 +25,8 @@
     "gui.nochatreports.safety_status.unintrusive": "I messaggi degli altri potrebbero essere segnalati a Mojang. Conferma dopo un'interazione sociale.",
     "gui.nochatreports.safety_status.insecure": "I messaggi degli altri sono segnalabili a Mojang.",
     "gui.nochatreports.safety_status.insecure_signing": "I tuoi messaggi sono segnalabili a Mojang.",
-    "gui.nochatreports.safety_status.realms": "I messaggi degli altri sono segnalabili a Mojang. Mojang sta anche monitorando passivamente la chat per individuare eventuali violazioni.",
     "gui.nochatreports.safety_status.unknown": "Lo stato della segnalazione della chat non è ancora noto. Inviare un messaggio per conoscerlo.",
     "gui.nochatreports.safety_status.undefined": "Lo stato della segnalazione della chat è sconosciuto a causa di un errore. Prova a riavviare il gioco.",
-    "gui.nochatreports.signing_status.allowed_realms": "I tuoi messaggi sono sempre segnalabili a Mojang sui Realms. Mojang sta anche monitorando passivamente la chat per individuare eventuali violazioni.",
     "gui.nochatreports.signing_status.allowed": "I tuoi messaggi sono segnalabili a Mojang per tua scelta.",
     "gui.nochatreports.signing_status.allowed_session": "I tuoi messaggi sono segnalabili a Mojang. Per verificare se è ancora necessario, unisciti di nuovo al server.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "I tuoi messaggi saranno segnalabili a Mojang appena ne invii uno.",
@@ -40,7 +37,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Stai utilizzando un account offline o stai avendo problemi con Internet. Se il server richiede messaggi segnalabili, non è possibile chattare.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "I tuoi messaggi non sono segnalabili per impostazione predefinita, ti verrà richiesto quando il server lo richiede.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "I tuoi messaggi saranno segnalabili solo se richiesto dal server.",
-    "gui.nochatreports.signing_required.contents": "Questo server richiede che tutti i messaggi del giocatore siano segnalabili a Mojang. Se non sei d'accordo, puoi ancora usare i comandi che non sono correlati alla chat.\n\nClicca su \"Consenti Firma\" per abilitare la chat.",
-    "chat.nochatreports.disabled.signing_requested": "Il server richiede che i messaggi del giocatore siano segnalabili a Mojang. Utilizzare il pulsante che appare sullo schermo o l'indicatore della chat per accettare ed abilitare la chat.",
-    "gui.nochatreports.realms_warning.contents": "Informazioni importanti su Realms:\n• I messaggi di chat possono essere segnalati a Mojang.\n• Mojang sta monitorando la chat per trovare le violazioni prima che vengano segnalate.\n• Il filtro delle volgarità è abilitato per impostazione predefinita. Gli adulti possono disabilitarlo su minecraft.net."
+    "gui.nochatreports.signing_required.contents": "Questo server richiede che tutti i messaggi del giocatore siano segnalabili a Mojang. Se non sei d'accordo, puoi ancora usare i comandi che non sono correlati alla chat.\n\nClicca su \"Consenti Firma\" per abilitare la chat."
 }
