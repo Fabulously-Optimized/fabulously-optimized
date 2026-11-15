@@ -17,7 +17,7 @@
     "sodium-extra.option.reduce_resolution_on_mac.tooltip": "在 Retina 顯示器上使用半解析度以提升 macOS 上的效能。\n變更這項選項需要重新啟動。\n\n§l這項選項預設為啟用，請保持這個核取方塊為未勾選狀態。§r\n如要使用原始解析度，請前往 Cubes Without Borders 的選項並啟用「Use Scaled Framebuffer」（使用縮放畫面緩衝區）。",
     "modmenu.summaryTranslation.debugify": "修正錯誤、使遙測可開關\n§9🛠§8 開關修正...",
     "modmenu.summaryTranslation.dynamic_fps": "在背景時減少 FPS\n§9🛠§8 開關模組、在懸停時恢復...",
-    "modmenu.summaryTranslation.e4mc": "將世界開放至網際網路，就如同區域網路一般\n§9🛠§8 透過「<lang menu.multiplayerOptions.button>」使用與設定",
+    "modmenu.summaryTranslation.e4mc": "將世界開放至網際網路，就如同區域網路一般\n§9🛠§8 透過「<lang options.worldOptions.button>」使用與設定",
     "modmenu.summaryTranslation.entityculling": "停止繪製牆後的生物\n§9🛠§8 開關模組，對（方塊）實體停用...",
     "modmenu.summaryTranslation.entity_model_features": "OptiFine 的自訂實體模型\n§3§l📥§r§9🛠§8 重新整理速度、停用模型...",
     "modmenu.summaryTranslation.entity_texture_features": "OptiFine 的隨機與高光實體\n§9🛠§8 隨機生物、高光生物、眨眼...",
@@ -51,11 +51,9 @@
     "modmenu.summaryTranslation.sspb": "土徑的原版外觀\n§9🛠§8 顯示設定：陰影強度...",
     "modmenu.summaryTranslation.zoomify": "按住 <keybind zoomify.key.zoom> 縮放\n§9🛠§8 距離、電影鏡頭、按鍵綁定...",
     "fo.resourcePack.fastbettergrass": "§7OptiFine 的「更好的草地」（流暢）§r\n§4必須放在第一個以生效§r",
-    "menu.multiplayerOptions.button": "在網際網路上公開",
     "menu.multiplayerOptions.lan": "區域網路與網際網路",
     "menu.multiplayerOptions.network.lan.tooltip": "同一網路下的玩家可透過區域網路加入；世界各地的玩家則可透過你分享的位址加入。",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "§6歡迎使用 §eFabulously Optimized§6！§r\n§f🪟§r 連接紋理、動態光源、更好的草地——請見§7模組§r\n§e✨§r 光影與精美資源包——只需§7新增並啟用§r\n§5🎮§r 支援遊戲控制器——只需§7連接即可使用§r\n§3🛜§r 隨時隨地與好友同樂——在單人遊戲中按下§7在網際網路上公開§r",
     "pack.dropInfo": "支援額外的模組包功能！詳細資訊請見§f模組§r。",
     "options.languageAccuracyWarning": "§f協助翻譯這個模組包：§7https://download.fo/translate§r"
 }
