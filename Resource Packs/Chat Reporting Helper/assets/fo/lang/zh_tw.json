@@ -1,7 +1,6 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7用簡單的短語和圖示解釋聊天檢舉§r",
     "chat.disabled.profile.moreInfo": "§c聊天功能受到個人檔案限制。§r在 Minecraft 26 以上版本中，你可以閱讀聊天訊息並使用指令。",
-    "restrictions_screen.permission.receive_player_messages.denied": "§6你可以在大部分伺服器中受到來自玩家的訊息（若有顯示聊天內容）§r",
     "chat.tag.modified": "玩家訊息可以向 Mojang 提出檢舉，但它被伺服器修改過。原文：",
     "chat.tag.not_secure": "無法向 Mojang 提出檢舉的玩家訊息。",
     "chat.tag.system": "無法向 Mojang 提出檢舉的伺服器或玩家訊息。",
@@ -41,7 +40,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "你正在使用離線帳號或遇到網路問題。如果伺服器要求可檢舉的訊息，你將無法聊天。",
     "gui.nochatreports.signing_mode.prompt.tooltip": "你的訊息預設無法檢舉，當伺服器要求可檢舉的訊息時會提醒你。",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "只有當伺服器要求可檢舉的訊息時，你的訊息才能向 Mojang 提出檢舉。",
-    "gui.nochatreports.signing_required.contents": "這個伺服器要求所有玩家的訊息都可以向 Mojang 提出檢舉。如果你不同意，你仍然可以使用任何與聊天無關的指令。\n\n按下「允許簽章」以啟用聊天功能。",
-    "chat.nochatreports.disabled.signing_requested": "這個伺服器要求所有玩家訊息都可以向 Mojang 提出檢舉。使用提示畫面或聊天盾牌按鈕以接受並啟用聊天功能。",
-    "gui.nochatreports.realms_warning.contents": "Realms 具備額外的聊天功能：\n• 主動自動聊天過濾功能用於分類、過濾並提報潛在的網路危害，以供人工審查與管理。\n• 玩家訊息可向 Mojang 檢舉。\n• 已啟用不雅字詞過濾器，成年人可於 minecraft.net 自行關閉。"
+    "gui.nochatreports.signing_required.contents": "這個伺服器要求所有玩家的訊息都可以向 Mojang 提出檢舉。如果你不同意，你仍然可以使用任何與聊天無關的指令。\n\n按下「允許簽章」以啟用聊天功能。"
 }
