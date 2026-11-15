@@ -24,10 +24,8 @@
     "gui.nochatreports.safety_status.unintrusive": "Les messages des autres peuvent être signalés à Mojang. Confirmez dans le menu d'Interactions sociales.",
     "gui.nochatreports.safety_status.insecure": "Les messages de tiers sont signalables à Mojang.",
     "gui.nochatreports.safety_status.insecure_signing": "Vos messages sont signalables à Mojang.",
-    "gui.nochatreports.safety_status.realms": "Les messages de tiers sont signalables à Mojang. Mojang surveille également passivement le chat pour détecter des violations.",
     "gui.nochatreports.safety_status.unknown": "Le statut du signalement du chat n'est pas encore connu. Envoyez un message pour le connaître.",
     "gui.nochatreports.safety_status.undefined": "Le statut du signalement du chat est inconnu en raison d'une erreur. Essayez de redémarrer le jeu.",
-    "gui.nochatreports.signing_status.allowed_realms": "Vos messages peuvent toujours être signalés à Mojang sur les Realms. Mojang surveille également passivement le chat pour détecter des violations.",
     "gui.nochatreports.signing_status.allowed": "Vous avez choisi que vos messages soient signalables à Mojang.",
     "gui.nochatreports.signing_status.allowed_session": "Vos messages sont signalables à Mojang. Pour vérifier si cela est toujours requis, rejoignez à nouveau le serveur.",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "Vos messages pourront être signalés à Mojang une fois que vous en aurez envoyé un.",
@@ -38,7 +36,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Vous utilisez un compte hors ligne ou vous avez des problèmes d'internet. Si le serveur exige des messages pouvant être signalés, vous ne pourrez pas utiliser le chat.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "Par défaut, vos messages ne peuvent pas être signalés. Vous serez sollicité de nouveau si un serveur le demande.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Vos messages ne pourront être signalés que si le serveur l'exige.",
-    "gui.nochatreports.signing_required.contents": "Ce serveur exige que tous les messages des joueurs soient signalés à Mojang. Si vous refusez, vous pourrez utiliser des commandes non liées au chat.\n\nCliquez sur \"Autoriser la signature\" pour activer le chat.",
-    "chat.nochatreports.disabled.signing_requested": "Le serveur exige que les messages des joueurs soient signalables à Mojang. Utilisez l'écran d'invite ou le bouton de protection du chat pour accepter et activer le chat.",
-    "gui.nochatreports.realms_warning.contents": "Informations importantes sur les Realms :\n- Tous les messages peuvent être signalés à Mojang.\n- Mojang surveille le chat pour trouver les violations avant qu'elles ne soient signalées.\n- Le filtre de profanité est activé par défaut. Les adultes peuvent le désactiver eux-mêmes sur minecraft.net."
+    "gui.nochatreports.signing_required.contents": "Ce serveur exige que tous les messages des joueurs soient signalés à Mojang. Si vous refusez, vous pourrez utiliser des commandes non liées au chat.\n\nCliquez sur \"Autoriser la signature\" pour activer le chat."
 }
