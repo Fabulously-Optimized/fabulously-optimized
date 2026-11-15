@@ -17,7 +17,6 @@
     "sodium-extra.option.reduce_resolution_on_mac.tooltip": "Використовує половинну роздільну здатність на дисплеях Retina для підвищення продуктивності в macOS.\nЗміна цього параметра потребує перезапуску.\n\n§lУвімкнено за замовчуванням, будь ласка, залиште цей прапорець знятим.§r\nЩоб використовувати початкову роздільну здатність, перейдіть до налаштувань Cubes Without Borders і ввімкніть \"Використовувати масштабований фреймбуфер\".",
     "modmenu.summaryTranslation.debugify": "Виправляє баги, дозволяє вимикати телеметрію\n§9🛠§8 Перемикання виправлень, ...",
     "modmenu.summaryTranslation.dynamic_fps": "Зменшує FPS у фоновому режимі\n§9🛠§8 Перемикання моду, відновлення при наведенні, ...",
-    "modmenu.summaryTranslation.e4mc": "Відкривайте світи в Інтернет, як у LAN\n§9🛠§8 Використовуйте та налаштовуйте через \"<lang menu.multiplayerOptions.button>\"",
     "modmenu.summaryTranslation.entityculling": "Припиняє рендеринг мобів за стінами\n§9🛠§8 Перемикання мода, вимкнення для (блоків)сутностей, ...",
     "modmenu.summaryTranslation.entity_model_features": "Підтримка користувацьких моделей OptiFine\n§3§l📥§r§9🛠§8 Частота оновлення, вимкнення моделей, ...",
     "modmenu.summaryTranslation.entity_texture_features": "Випадкові та блискучі сутності OptiFine\n§3§l📥§r§9🛠§8 Випадкові сутності, блискавучість, ...",
@@ -51,11 +50,9 @@
     "modmenu.summaryTranslation.sspb": "Ванільний вигляд ґрунтових стежок\n§9🛠§8 У налаштуваннях відео: сила тіні, ...",
     "modmenu.summaryTranslation.zoomify": "Зум при утримуванні <keybind zoomify.key.zoom>\n§9🛠§8 Відстань, кінематографічна камера, прив’язка клавіші, ...",
     "fo.resourcePack.fastbettergrass": "§7Краща трава OptiFine (швидка)§r\n§4Повинен бути першим§r",
-    "menu.multiplayerOptions.button": "Відкрити для Інтернету",
     "menu.multiplayerOptions.lan": "Локальна мережа та Інтернет",
     "menu.multiplayerOptions.network.lan.tooltip": "Гравці в тій самій мережі можуть приєднатися через LAN; гравці з будь-якої точки світу можуть приєднатися за адресою, якою ви поділилися.",
     "accessibility.onboarding.screen.narrator": "",
-    "accessibility.onboarding.screen.title": "§6Ласкаво просимо до §eFabulously Optimized§6!§r\n§f🪟§r З’єднані текстури, динамічне освітлення, покращена трава - див. §7Моди§r\n§e✨§r Шейдери та покращені набори ресурсів - просто §7додайте та увімкніть§r\n§5🎮§r Підтримка ігрових контролерів - просто §7під’єднайте та грайте§r\n§3🛜§r Грайте з друзями будь-де - натисніть §7Відкрити для Інтернету§r в одиночній грі",
     "pack.dropInfo": "Підтримуються додаткові функції наборів ресурсів! Докладніше див. §fМоди§r.",
     "options.languageAccuracyWarning": "§fДопоможіть перекладати модпак: §7https://download.fo/translate§r"
 }
