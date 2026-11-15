@@ -24,10 +24,8 @@
     "gui.nochatreports.safety_status.unintrusive": "其他玩家的訊息可能可以舉報至 Mojang。於社羣互動畫面確認。",
     "gui.nochatreports.safety_status.insecure": "其他玩家的訊息可以舉報至 Mojang。",
     "gui.nochatreports.safety_status.insecure_signing": "你的訊息可以舉報至 Mojang。",
-    "gui.nochatreports.safety_status.realms": "其他玩家的訊息可以舉報至 Mojang。Mojang 也會使用自動化監控聊天以找出違規行為。",
     "gui.nochatreports.safety_status.unknown": "聊天檢舉狀態尚不清楚。傳送訊息以獲得狀態。",
     "gui.nochatreports.safety_status.undefined": "由於錯誤，聊天檢舉狀態未知。請嘗試重新啟動遊戲。",
-    "gui.nochatreports.signing_status.allowed_realms": "於 Realms 上，你的訊息永遠可以舉報至 Mojang。Mojang 也會自動化監控聊天以找出違規行為。",
     "gui.nochatreports.signing_status.allowed": "你的訊息是否能夠舉報至 Mojang 取決於你的選擇。",
     "gui.nochatreports.signing_status.allowed_session": "你的訊息可以舉報至 Mojang。若需確認是否仍需允許檢舉，請再次加入伺服器。",
     "gui.nochatreports.signing_status.disabled_allowance_pending": "一旦你傳送訊息，你的訊息將能夠舉報至 Mojang。",
@@ -38,7 +36,5 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "你正在使用離線帳户或遇到網絡問題。若伺服器要求具有舉報功能的訊息，你將無法聊天。",
     "gui.nochatreports.signing_mode.prompt.tooltip": "你的訊息在預設情況下是無法舉報的，當伺服器要求具有舉報功能的訊息時會提醒你。",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "只有當伺服器要求具有舉報功能的訊息時，你的訊息才能夠舉報至 Mojang。",
-    "gui.nochatreports.signing_required.contents": "此伺服器要求所有玩家的訊息都具有舉報至 Mojang 的功能。若你不同意，你仍然可以使用任何與聊天無關的命令。\n\n按下「允許簽章」以啟用聊天功能。",
-    "chat.nochatreports.disabled.signing_requested": "此伺服器要求所有玩家訊息都具有舉報至 Mojang 的功能。使用詢問畫面或聊天盾牌按鈕以接受並啟用聊天功能。",
-    "gui.nochatreports.realms_warning.contents": "關於 Realms 的重要資訊：\n• 聊天訊息都可以向 Mojang 提出舉報。\n• Mojang 會自動化監控聊天以找出違規行為。\n• 粗口過濾器預設啟用。成年玩家可以在 minecraft.net 啟用顯示粗口。"
+    "gui.nochatreports.signing_required.contents": "此伺服器要求所有玩家的訊息都具有舉報至 Mojang 的功能。若你不同意，你仍然可以使用任何與聊天無關的命令。\n\n按下「允許簽章」以啟用聊天功能。"
 }
