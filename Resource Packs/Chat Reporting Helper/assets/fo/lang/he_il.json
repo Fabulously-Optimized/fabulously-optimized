@@ -1,8 +1,8 @@
 {
     "fo.resourcePack.chatreportinghelper": "§7 מסביר את הדיווח צ'אט עם שורות וסמלים פשוטים§r",
     "chat.disabled.profile.moreInfo": "§cהצ'אט מוגבל על ידי הגדרות הפרופיל. §rב Minecraft 26+ ניתן לקרוא את הצ'אט ולהשתמש בפקודות.",
-    "restrictions_screen.permission.receive_player_messages.denied": "§6ניתן לקבל הודעות משחקנים ברוב השרתים (הם הצ'אט גלוי)§r",
-    "chat.tag.modified": "הודעת שחקן שניתן לדווח לMojang, אך שונתה על ידי השרת. מקורי:",
+    "restrictions_screen.permission.receive_player_messages.denied": "§6ניתן לקבל הודעות משחקנים ברוב השרתים (אם הצ'אט גלוי)§r",
+    "chat.tag.modified": "הודעת שחקן שניתנת לדווח לMojang.\n\nההודעה שונתה על ידי השרת. מקור:",
     "chat.tag.not_secure": "הודעת שחקן שאינה ניתנת לדיווח לMojang.",
     "chat.tag.system": "הודעת שרת או הודעת שחקן שאינה ניתנת לדיווח לMojang.",
     "chat.tag.system_single_player": "הודעת שרת או הודעת שחקן שאינה ניתנת לדיווח ל-Mojang.",
@@ -18,7 +18,7 @@
     "options.onlyShowSecureChat": "הסתר הודעות לא רגילות",
     "options.onlyShowSecureChat.tooltip": "מסתיר הודעות משחקנים שהפכו את ההודעות שלהם ככה שאי-אפשר לדווח אותם לMojang.",
     "mco.pdp.private.secure": "• צ'אט פרטי ומאובטח\n\n\n§lתכונות צ'אט§r\n• סינון אוטומטי עם ניהול\n• דיווח על הודעות של שחקנים\n• סינון צ'אט מופעל כברירת מחדל",
-    "gui.nochatreports.secure_chat": "מסתיר צ'אט משחקנים שהפכו את ההודעות שלהם ללא דיווח לMojang. מושבת על ידי No Chat Reports מכיוון שזה ישפיע גם על ההודעות של המוד.",
+    "gui.nochatreports.secure_chat": "מסתיר הודעות צ'אט משחקנים שגרמו לכך שההודעות שלהם לא ניתנים לדיווח לMojang. מושבת על ידי No Chat Reports מכיוון שזה ישפיע גם על ההודעות שלו.",
     "gui.nochatreports.verified_server": "שרת זה גרם לכך שהודעות צ'אט לא ניתנות לדיווח לMojang.",
     "gui.nochatreports.no_reporting": "שרת זה גרם לכך שהודעות צ'אט לא ניתנות לדיווח לMojang.",
     "gui.nochatreports.ncr_toggle_tooltip": "§lNo Chat Reports:§r %1$s\nאם מושבת, ההודעות שלך יהיו ניתנות לדיווח לMojang וכפתור המגן בצ'אט יהיה מוסתר. אינו משפיע על אפשרויות אחרות של No Chat Reports.",
@@ -41,7 +41,7 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "אתה משתמש בחשבון לא מקוון או שיש לך בעיות באינטרנט. אם השרת דורש הודעות שניתנות לדיווח, אינך יכול לשוחח בצ'אט.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "ההודעות שלך אינן ניתנות לדיווח כברירת מחדל, תתבקש כאשר השרת ידרוש זאת.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "ההודעות שלך יהיו ניתנות לדיווח רק אם זה נדרש על ידי השרת.",
-    "gui.nochatreports.signing_required.contents": "שרת זה דורש שכל ההודעות יהיו ניתנות לדיווח לMojang. אם אינך מסכים, אתה עדיין יכול להשתמש בפקודות שאינן קשורות לצ'אט.\n\nלחץ על \"אפשר חתימה\" כדי להסכים ולאפשר צ'אט.",
-    "chat.nochatreports.disabled.signing_requested": "שרת זה דורש שהודעות שחקן יהיו ניתנות לדיווח לMojang. השתמש במסך או בלחצן המגן בצ'אט כדי לקבל ולאפשר צ'אט.",
-    "gui.nochatreports.realms_warning.contents": "בRealms קיימים תכונות צ'אט נוספים:\n• נעשה שימוש בסינון אוטומטי כדי לסווג, לסנן, ולהעביר מקרים של פגיעה ברשת לבדיקה אנושית ולניהול.\n• הודעות שחקנים ניתנות לדיווח לMojang.\n• סינון צ'אט מופעל, מבוגרים יכולים לכבות אותו אישית בminecraft.net."
+    "gui.nochatreports.signing_required.contents": "שרת זה דורש שכל הודעות שחקנים יהיו ניתנות לדיווח לMojang. אם אינך מסכים, אתה עדיין יכול להשתמש בפקודות שאינן קשורות לצ'אט.\n\nלחץ על \"אפשר חתימה\" כדי להסכים ולאפשר צ'אט.",
+    "chat.nochatreports.disabled.signing_requested": "שרת זה דורש שכל הודעות שחקנים יהיו ניתנות לדיווח לMojang. השתמש במסך או בכפתור המגן בצ'אט כדי לאשר ולהפעיל צ'אט.",
+    "gui.nochatreports.realms_warning.contents": "בRealms קיימים תכונות צ'אט נוספים:\n• נעשה שימוש בסינון אוטומטי כדי לסווג, לסנן, ולהעביר מקרים של פגיעה ברשת לבדיקה אנושית ולניהול.\n• הודעות שחקנים ניתנות לדיווח לMojang.\n• סינון צ'אט מופעל; מבוגרים יכולים לכבות אותו אישית ב minecraft.net."
 }
