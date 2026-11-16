@@ -2,7 +2,7 @@
     "fo.resourcePack.chatreportinghelper": "§7Sõnumite teatamisele lihtsad selgitused ja ikoonid§r",
     "chat.disabled.profile.moreInfo": "§cVestlus on profiiliseadetes piiratud.§r Minecraft 26 või uuemas saad vestlust lugeda ja käske kasutada.",
     "restrictions_screen.permission.receive_player_messages.denied": "§6Enamus serverites saad sa mängijasõnumeid vastu võtta (kui vestlus on kuvatud)§r",
-    "chat.tag.modified": "Mängijasõnum, millest saab Mojangile teatada, ent mis on serveri poolt muudetud. Originaal:",
+    "chat.tag.modified": "Mängijasõnum, millest saab Mojangile teatada.\n\nServer on sõnumit muutnud. Originaal:",
     "chat.tag.not_secure": "Mängijasõnum, millest ei saa Mojangile teatada.",
     "chat.tag.system": "Serverisõnum või mängijasõnum, millest ei saa Mojangile teatada.",
     "chat.tag.system_single_player": "Serverisõnum või mängijasõnum, millest ei saa Mojangile teatada.",
@@ -12,7 +12,7 @@
     "gui.socialInteractions.narration.report": "Teata mängijast %s Mojangile",
     "gui.socialInteractions.tooltip.report.disabled": "Mojangile mängijast teatamise teenus pole hetkel kättesaadav.",
     "gui.socialInteractions.tooltip.report.not_reportable": "See mängija või server on teinud oma sõnumid Mojangile mitteteatatavaks.",
-    "gui.abuseReport.message": "Kus sa halba käitumist märkasid?\nSee aitab Mojangil juhtumit paremini uurida.\nServeri administraatorid neid teateid ei näe.",
+    "gui.abuseReport.message": "Kus sa halba käitumist märkasid?\nSee aitab Mojangil juhtumit paremini uurida.\n\nServeri administraatorid neid teateid ei näe.",
     "gui.chatReport.describe": "Üksikasjade jagamine aitab Mojangil teadliku otsuse teha. Serveri administraatorid seda teadet ei näe.",
     "gui.abuseReport.describe": "Üksikasjade jagamine aitab Mojangil teadliku otsuse teha. Serveri administraatorid seda teadet ei näe.",
     "options.onlyShowSecureChat": "Peida moditud vestlus",
@@ -41,7 +41,7 @@
     "gui.nochatreports.signing_mode.never_forced.tooltip": "Sa kasutad võrguta kontot või omad internetiprobleeme. Kui server nõuab sõnumite teatatavust, ei saa sa vestelda.",
     "gui.nochatreports.signing_mode.prompt.tooltip": "Sinu sõnumitest ei saa vaikimisi teatada; kui server seda nõuab, küsitakse selle lubamine sult üle.",
     "gui.nochatreports.signing_mode.on_demand.tooltip": "Sinu sõnumitest saab teatada vaid siis, kui server seda nõuab.",
-    "gui.nochatreports.signing_required.contents": "See server nõuab, et kõik mängijasõnumid oleksid Mojangile teatatavad. Mittenõustumisel saad sa siiski kasutada mistahes käsklusi, mis ei ole vestlusega seotud.\n\nNõustumiseks ja vestluse lubamiseks klõpsa \"Luba signeerimine\".",
+    "gui.nochatreports.signing_required.contents": "See server nõuab, et mängijasõnumid oleksid Mojangile teatatavad. Mittenõustumisel saad sa siiski kasutada mistahes käsklusi, mis ei ole vestlusega seotud.\n\nNõustumiseks ja vestluse lubamiseks klõpsa \"Luba signeerimine\".",
     "chat.nochatreports.disabled.signing_requested": "See server nõuab, et mängijasõnumid oleksid Mojangile teatatavad. Kasuta hüpikut või vestluse kilbinuppu sellega nõustumiseks ja vestluse lubamiseks.",
     "gui.nochatreports.realms_warning.contents": "Realms sisaldab täiendavaid vestlusfunktsioone:\n\n• Automatiseeritud ennetavat vestlusfiltreerimist kasutatakse võrguohtude liigitamiseks, filtreerimiseks ja edastamiseks nii inimülevaatuseks kui ka modereerimiseks.\n• Mängijasõnumitest saab Mojangile teatada.\n• Roppsõnade filter on lubatud; täiskasvanud saavad seda enda jaoks keelata aadressil minecraft.net."
 }
