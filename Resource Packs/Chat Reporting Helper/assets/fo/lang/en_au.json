@@ -1,7 +1,7 @@
 {
     "chat.disabled.profile.moreInfo": "§cChat is restricted by profile settings.§r In Minecraft 26+ you can read chat and use commands.",
-    "restrictions_screen.permission.receive_player_messages.denied": "§6You can receive messages from players in most servers (if chat is shown)§r",
-    "chat.tag.modified": "Player message that is reportable to Mojang, but has been modified by the server. Original:",
+    "restrictions_screen.permission.receive_player_messages.denied": "§6You can receive messages from players on most servers (if chat is shown)§r",
+    "chat.tag.modified": "Player message that is reportable to Mojang.\n\nMessage modified by the server. Original:",
     "chat.tag.not_secure": "Player message that is not reportable to Mojang.",
     "chat.tag.system": "Server message or player message that is not reportable to Mojang.",
     "chat.tag.system_single_player": "Server message or player message that is not reportable to Mojang.",
@@ -11,7 +11,7 @@
     "gui.socialInteractions.narration.report": "Report player %s to Mojang",
     "gui.socialInteractions.tooltip.report.disabled": "Mojang's player reporting is currently unavailable.",
     "gui.socialInteractions.tooltip.report.not_reportable": "This player or server has made their messages not reportable to Mojang.",
-    "gui.abuseReport.message": "Where did you observe the bad behavior?\nThis will help Mojang in researching your case.\nThese reports are not seen by server admins.",
+    "gui.abuseReport.message": "Where did you observe the bad behavior?\nThis will help Mojang in researching your case.\n\nThese reports are not seen by server admins.",
     "gui.chatReport.describe": "Sharing details will help Mojang make a well-informed decision. This report cannot be seen by server admins.",
     "gui.abuseReport.describe": "Sharing details will help Mojang make a well-informed decision. This report cannot be seen by server admins.",
     "options.onlyShowSecureChat": "Hide Modded Chat",
