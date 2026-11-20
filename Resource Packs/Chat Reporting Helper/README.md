@@ -5,25 +5,34 @@ This resource pack fixes it by replacing those phrases with simple and accurate 
 
 ### What this resource pack does
 
-- Change the tooltips on vanilla report buttons and chat indicators
-- Change the "messages can't be verified" warning toast
-- Change the "Only Show Secure Chat" label and tooltip
-- Change the description on vanilla report textbox
-- Ensures the phrases are short, clear and non-technical
-- [Is available in several languages](https://crowdin.com/project/fabulously-optimized)
-- Is an educational tool, not a protective one
-- Focuses on practical use cases and actual server behavior, not theoretical possibilities
+This resource pack changes various phrases in-game:
+
+- chat indicator tooltips
+- report button label
+- "Messages can't be verified" warning toast text
+- "Only Show Secure Chat" label and tooltip
+- report reason textbox placeholder
+- Realms introduction text (adds a new section)
+- chat restriction descriptions
+
+Goals:
+
+- Ensure the phrases are short, clear and non-technical
+- [Available in several languages](https://crowdin.com/project/fabulously-optimized)
+- Be an educational tool, not a protective one
+- Focus on practical use cases and actual server behavior, not theoretical possibilities
 - Serve as an example and call to Mojang to improve transparency and clarity regarding this feature in the game
 
 <details>
-<summary>What this resource pack doesn't do</summary>
+<summary>What this resource pack does not do</summary>
 
-- State, whether chat reportability is good or bad
+- Give opinions on whether chat reportability is good or bad
 - Obstruct or mislead the meaning of any phrase
-- Edit the report icon or "Player reporting" button
+- Edit the "other players" button
 - Edit report or ban reasons
 - Edit the ban screen
-- Hide vanilla indicators or warning toast
+- Hide chat indicators or warning toast
+- Modify any kind of game functionality
 - Replicate the features of any mod or plugin
 
 </details>
@@ -44,14 +53,6 @@ This resource pack fixes it by replacing those phrases with simple and accurate 
 > **Q**: Does this replace every chat reportability-related phrase and icon?
 >
 > **A**: No, only the minimum strings that are required for clear understanding.
-
-> **Q**: What about skin and username reporting?
->
-> **A**: As of version 3.0, the pack has been updated to reflect the new reporting selection screen. However, most of the features of this resource pack are still only focused on chat.
-
-> **Q**: What about chat restrictions?
->
-> **A**: As of version 5.0, two phrases have been updated to clarify the situation for affected users. 
 
 > **Q**: Does this support any related mods?
 >
